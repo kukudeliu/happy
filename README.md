@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 18:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 18:54:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [透过关键词观察开年经济](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%82%E5%AF%9F%E5%BC%80%E5%B9%B4%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [沙特发现世界级金矿](https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%BA%A7%E9%87%91%E7%9F%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [冰雪大世界拿下吉尼斯世界纪录](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%8B%BF%E4%B8%8B%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警犬父母生下幼犬取名110](https://www.baidu.com/s?wd=%E8%AD%A6%E7%8A%AC%E7%88%B6%E6%AF%8D%E7%94%9F%E4%B8%8B%E5%B9%BC%E7%8A%AC%E5%8F%96%E5%90%8D110&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [胡锡进总浮亏突破6万元](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E6%80%BB%E6%B5%AE%E4%BA%8F%E7%AA%81%E7%A0%B46%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子遭丈夫辗轧拖拽死亡案明日开庭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E8%BE%97%E8%BD%A7%E6%8B%96%E6%8B%BD%E6%AD%BB%E4%BA%A1%E6%A1%88%E6%98%8E%E6%97%A5%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [透过关键词观察开年经济](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%82%E5%AF%9F%E5%BC%80%E5%B9%B4%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [沙特发现世界级金矿](https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%BA%A7%E9%87%91%E7%9F%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [冰雪大世界拿下吉尼斯世界纪录](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%8B%BF%E4%B8%8B%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警犬父母生下幼犬取名110](https://www.baidu.com/s?wd=%E8%AD%A6%E7%8A%AC%E7%88%B6%E6%AF%8D%E7%94%9F%E4%B8%8B%E5%B9%BC%E7%8A%AC%E5%8F%96%E5%90%8D110&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [胡锡进总浮亏突破6万元](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E6%80%BB%E6%B5%AE%E4%BA%8F%E7%AA%81%E7%A0%B46%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子遭丈夫辗轧拖拽死亡案明日开庭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E8%BE%97%E8%BD%A7%E6%8B%96%E6%8B%BD%E6%AD%BB%E4%BA%A1%E6%A1%88%E6%98%8E%E6%97%A5%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
