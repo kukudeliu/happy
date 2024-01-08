@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 19:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 19:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [爷爷 已读乱回](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%20%E5%B7%B2%E8%AF%BB%E4%B9%B1%E5%9B%9E&t=31&band_rank=6&Refer=top)<br />
 7. [民警吃火锅多看一眼抓住2名逃犯](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%90%83%E7%81%AB%E9%94%85%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%8A%93%E4%BD%8F2%E5%90%8D%E9%80%83%E7%8A%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [科举文男主有了脸](https://s.weibo.com/weibo?q=%E7%A7%91%E4%B8%BE%E6%96%87%E7%94%B7%E4%B8%BB%E6%9C%89%E4%BA%86%E8%84%B8&t=31&band_rank=8&Refer=top)<br />
-9. [蔡依林 浪5](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%20%E6%B5%AA5&t=31&band_rank=9&Refer=top)<br />
+9. [吃葡萄柚是一件很私人的事](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%91%A1%E8%90%84%E6%9F%9A%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E7%A7%81%E4%BA%BA%E7%9A%84%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
