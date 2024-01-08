@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 07:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 07:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [被开除当事人称公司全用盗版软件](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BC%80%E9%99%A4%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%85%AC%E5%8F%B8%E5%85%A8%E7%94%A8%E7%9B%97%E7%89%88%E8%BD%AF%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [贾玲张小斐 我真的会谢](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%88%91%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%B0%A2&t=31&band_rank=7&Refer=top)<br />
 8. [人间清醒是李湘](https://s.weibo.com/weibo?q=%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E6%98%AF%E6%9D%8E%E6%B9%98&t=31&band_rank=8&Refer=top)<br />
-9. [夺命建筑因层层糊弄漏网终致54人死亡](https://s.weibo.com/weibo?q=%23%E5%A4%BA%E5%91%BD%E5%BB%BA%E7%AD%91%E5%9B%A0%E5%B1%82%E5%B1%82%E7%B3%8A%E5%BC%84%E6%BC%8F%E7%BD%91%E7%BB%88%E8%87%B454%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [唐嫣过去的三年都是汪小姐](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E8%BF%87%E5%8E%BB%E7%9A%84%E4%B8%89%E5%B9%B4%E9%83%BD%E6%98%AF%E6%B1%AA%E5%B0%8F%E5%A7%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
