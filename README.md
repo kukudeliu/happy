@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 06:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 06:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [人间清醒是李湘](https://s.weibo.com/weibo?q=%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E6%98%AF%E6%9D%8E%E6%B9%98&t=31&band_rank=6&Refer=top)<br />
 7. [爷叔给宝总上的最后一课](https://s.weibo.com/weibo?q=%23%E7%88%B7%E5%8F%94%E7%BB%99%E5%AE%9D%E6%80%BB%E4%B8%8A%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [夺命建筑因层层糊弄漏网终致54人死亡](https://s.weibo.com/weibo?q=%23%E5%A4%BA%E5%91%BD%E5%BB%BA%E7%AD%91%E5%9B%A0%E5%B1%82%E5%B1%82%E7%B3%8A%E5%BC%84%E6%BC%8F%E7%BD%91%E7%BB%88%E8%87%B454%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [6名干部违规聚餐狂饮7瓶白酒致1死](https://s.weibo.com/weibo?q=%236%E5%90%8D%E5%B9%B2%E9%83%A8%E8%BF%9D%E8%A7%84%E8%81%9A%E9%A4%90%E7%8B%82%E9%A5%AE7%E7%93%B6%E7%99%BD%E9%85%92%E8%87%B41%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [唐嫣过去的三年都是汪小姐](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E8%BF%87%E5%8E%BB%E7%9A%84%E4%B8%89%E5%B9%B4%E9%83%BD%E6%98%AF%E6%B1%AA%E5%B0%8F%E5%A7%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
