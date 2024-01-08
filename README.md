@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 13:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 13:16:01</h4></div>
 
 > 微博  
 
-1. [女子到银行存10万现金被问钱来源](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%B0%E9%93%B6%E8%A1%8C%E5%AD%9810%E4%B8%87%E7%8E%B0%E9%87%91%E8%A2%AB%E9%97%AE%E9%92%B1%E6%9D%A5%E6%BA%90%23&t=31&band_rank=1&Refer=top)<br />
-2. [教授建议生个孩子给一居室](https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%BB%BA%E8%AE%AE%E7%94%9F%E4%B8%AA%E5%AD%A9%E5%AD%90%E7%BB%99%E4%B8%80%E5%B1%85%E5%AE%A4%23&t=31&band_rank=2&Refer=top)<br />
+1. [教授建议生个孩子给一居室](https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%BB%BA%E8%AE%AE%E7%94%9F%E4%B8%AA%E5%AD%A9%E5%AD%90%E7%BB%99%E4%B8%80%E5%B1%85%E5%AE%A4%23&t=31&band_rank=1&Refer=top)<br />
+2. [女子到银行存10万现金被问钱来源](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%B0%E9%93%B6%E8%A1%8C%E5%AD%9810%E4%B8%87%E7%8E%B0%E9%87%91%E8%A2%AB%E9%97%AE%E9%92%B1%E6%9D%A5%E6%BA%90%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024第一周忙碌带来确定性](https://s.weibo.com/weibo?q=%232024%E7%AC%AC%E4%B8%80%E5%91%A8%E5%BF%99%E7%A2%8C%E5%B8%A6%E6%9D%A5%E7%A1%AE%E5%AE%9A%E6%80%A7%23&t=31&band_rank=3&Refer=top)<br />
 4. [车厘子每斤便宜60元](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E6%AF%8F%E6%96%A4%E4%BE%BF%E5%AE%9C60%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [常怡去世](https://s.weibo.com/weibo?q=%23%E5%B8%B8%E6%80%A1%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
