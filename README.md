@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 17:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 18:00:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [沙特发现世界级金矿](https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%BA%A7%E9%87%91%E7%9F%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子到银行存10万现金被问钱来源](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%B0%E9%93%B6%E8%A1%8C%E5%AD%9810%E4%B8%87%E7%8E%B0%E9%87%91%E8%A2%AB%E9%97%AE%E9%92%B1%E6%9D%A5%E6%BA%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [教育部办公厅辟谣](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8A%9E%E5%85%AC%E5%8E%85%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [沙特发现世界级金矿](https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%BA%A7%E9%87%91%E7%9F%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子到银行存10万现金被问钱来源](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%B0%E9%93%B6%E8%A1%8C%E5%AD%9810%E4%B8%87%E7%8E%B0%E9%87%91%E8%A2%AB%E9%97%AE%E9%92%B1%E6%9D%A5%E6%BA%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [教育部办公厅辟谣](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8A%9E%E5%85%AC%E5%8E%85%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
