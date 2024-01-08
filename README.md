@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 15:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 15:07:01</h4></div>
 
 > 微博  
 
-1. [教授建议生个孩子给一居室](https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%BB%BA%E8%AE%AE%E7%94%9F%E4%B8%AA%E5%AD%A9%E5%AD%90%E7%BB%99%E4%B8%80%E5%B1%85%E5%AE%A4%23&t=31&band_rank=1&Refer=top)<br />
-2. [千万网红团队成员约架致一人身亡](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E7%BD%91%E7%BA%A2%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98%E7%BA%A6%E6%9E%B6%E8%87%B4%E4%B8%80%E4%BA%BA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
+1. [千万网红团队成员约架致一人身亡](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E7%BD%91%E7%BA%A2%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98%E7%BA%A6%E6%9E%B6%E8%87%B4%E4%B8%80%E4%BA%BA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
+2. [教授建议生个孩子给一居室](https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%BB%BA%E8%AE%AE%E7%94%9F%E4%B8%AA%E5%AD%A9%E5%AD%90%E7%BB%99%E4%B8%80%E5%B1%85%E5%AE%A4%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024第一周忙碌带来确定性](https://s.weibo.com/weibo?q=%232024%E7%AC%AC%E4%B8%80%E5%91%A8%E5%BF%99%E7%A2%8C%E5%B8%A6%E6%9D%A5%E7%A1%AE%E5%AE%9A%E6%80%A7%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子到银行存10万现金被问钱来源](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%B0%E9%93%B6%E8%A1%8C%E5%AD%9810%E4%B8%87%E7%8E%B0%E9%87%91%E8%A2%AB%E9%97%AE%E9%92%B1%E6%9D%A5%E6%BA%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [沙特发现世界级金矿](https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%BA%A7%E9%87%91%E7%9F%BF%23&t=31&band_rank=5&Refer=top)<br />
