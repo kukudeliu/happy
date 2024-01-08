@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 20:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 20:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [在哈尔滨2小时冻出水疱](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A82%E5%B0%8F%E6%97%B6%E5%86%BB%E5%87%BA%E6%B0%B4%E7%96%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [蔡依林 浪5](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%20%E6%B5%AA5&t=31&band_rank=7&Refer=top)<br />
 8. [王家卫拍繁花不准辛芷蕾笑](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E6%8B%8D%E7%B9%81%E8%8A%B1%E4%B8%8D%E5%87%86%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%AC%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [把和男友的聊天记录可视化](https://s.weibo.com/weibo?q=%E6%8A%8A%E5%92%8C%E7%94%B7%E5%8F%8B%E7%9A%84%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E5%8F%AF%E8%A7%86%E5%8C%96&t=31&band_rank=9&Refer=top)<br />
+9. [哈尔滨工匠被请去韩国做冰雕](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E5%8C%A0%E8%A2%AB%E8%AF%B7%E5%8E%BB%E9%9F%A9%E5%9B%BD%E5%81%9A%E5%86%B0%E9%9B%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [透过关键词观察开年经济](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%82%E5%AF%9F%E5%BC%80%E5%B9%B4%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [河南一班主任让全班学生发毒誓](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%AE%A9%E5%85%A8%E7%8F%AD%E5%AD%A6%E7%94%9F%E5%8F%91%E6%AF%92%E8%AA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杨紫谭松韵田曦薇唐妆造型](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%94%B0%E6%9B%A6%E8%96%87%E5%94%90%E5%A6%86%E9%80%A0%E5%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警犬父母生下幼犬取名110](https://www.baidu.com/s?wd=%E8%AD%A6%E7%8A%AC%E7%88%B6%E6%AF%8D%E7%94%9F%E4%B8%8B%E5%B9%BC%E7%8A%AC%E5%8F%96%E5%90%8D110&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子遭丈夫辗轧拖拽死亡案明日开庭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E8%BE%97%E8%BD%A7%E6%8B%96%E6%8B%BD%E6%AD%BB%E4%BA%A1%E6%A1%88%E6%98%8E%E6%97%A5%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杨紫谭松韵田曦薇唐妆造型](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%94%B0%E6%9B%A6%E8%96%87%E5%94%90%E5%A6%86%E9%80%A0%E5%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [透过关键词观察开年经济](https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%82%E5%AF%9F%E5%BC%80%E5%B9%B4%E7%BB%8F%E6%B5%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子称波司登羽绒服剪开全是碎末](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [河南一班主任让全班学生发毒誓](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%AE%A9%E5%85%A8%E7%8F%AD%E5%AD%A6%E7%94%9F%E5%8F%91%E6%AF%92%E8%AA%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杨紫谭松韵田曦薇唐妆造型](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%94%B0%E6%9B%A6%E8%96%87%E5%94%90%E5%A6%86%E9%80%A0%E5%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警犬父母生下幼犬取名110](https://www.baidu.com/s?wd=%E8%AD%A6%E7%8A%AC%E7%88%B6%E6%AF%8D%E7%94%9F%E4%B8%8B%E5%B9%BC%E7%8A%AC%E5%8F%96%E5%90%8D110&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子遭丈夫辗轧拖拽死亡案明日开庭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E8%BE%97%E8%BD%A7%E6%8B%96%E6%8B%BD%E6%AD%BB%E4%BA%A1%E6%A1%88%E6%98%8E%E6%97%A5%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杨紫谭松韵田曦薇唐妆造型](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%94%B0%E6%9B%A6%E8%96%87%E5%94%90%E5%A6%86%E9%80%A0%E5%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [教育部辟谣缩短学制取消中考](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E8%BE%9F%E8%B0%A3%E7%BC%A9%E7%9F%AD%E5%AD%A6%E5%88%B6%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83&sa=fyb_news&rsv_dl=fyb_news)<br />
