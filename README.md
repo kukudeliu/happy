@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 00:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 00:12:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [贾玲张小斐 我真的会谢](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%88%91%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%B0%A2&t=31&band_rank=2&Refer=top)<br />
 3. [多地上新文旅大礼包](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%B8%8A%E6%96%B0%E6%96%87%E6%97%85%E5%A4%A7%E7%A4%BC%E5%8C%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [丁俊晖147分](https://s.weibo.com/weibo?q=%E4%B8%81%E4%BF%8A%E6%99%96147%E5%88%86&t=31&band_rank=4&Refer=top)<br />
-5. [五官越来越耐看的技巧](https://s.weibo.com/weibo?q=%E4%BA%94%E5%AE%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%80%90%E7%9C%8B%E7%9A%84%E6%8A%80%E5%B7%A7&t=31&band_rank=5&Refer=top)<br />
+5. [mbti新题](https://s.weibo.com/weibo?q=mbti%E6%96%B0%E9%A2%98&t=31&band_rank=5&Refer=top)<br />
 6. [哈尔滨冻草莓都开始按个卖了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%BB%E8%8D%89%E8%8E%93%E9%83%BD%E5%BC%80%E5%A7%8B%E6%8C%89%E4%B8%AA%E5%8D%96%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [mbti新题](https://s.weibo.com/weibo?q=mbti%E6%96%B0%E9%A2%98&t=31&band_rank=7&Refer=top)<br />
-8. [鞠婧祎宋威龙咬唇吻](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%AE%8B%E5%A8%81%E9%BE%99%E5%92%AC%E5%94%87%E5%90%BB%23&t=31&band_rank=8&Refer=top)<br />
+7. [鞠婧祎宋威龙咬唇吻](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%AE%8B%E5%A8%81%E9%BE%99%E5%92%AC%E5%94%87%E5%90%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [五官越来越耐看的技巧](https://s.weibo.com/weibo?q=%E4%BA%94%E5%AE%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%80%90%E7%9C%8B%E7%9A%84%E6%8A%80%E5%B7%A7&t=31&band_rank=8&Refer=top)<br />
 9. [吃葡萄柚是一件很私人的事](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%91%A1%E8%90%84%E6%9F%9A%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E7%A7%81%E4%BA%BA%E7%9A%84%E4%BA%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
