@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 18:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-08 18:42:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [幼儿园宝宝全勤奖是棵大芹菜](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%AE%9D%E5%AE%9D%E5%85%A8%E5%8B%A4%E5%A5%96%E6%98%AF%E6%A3%B5%E5%A4%A7%E8%8A%B9%E8%8F%9C%23&t=31&band_rank=2&Refer=top)<br />
 3. [聚焦中国经济圆桌会](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%86%E6%A1%8C%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [爷爷 已读乱回](https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%20%E5%B7%B2%E8%AF%BB%E4%B9%B1%E5%9B%9E&t=31&band_rank=4&Refer=top)<br />
-5. [五岁女童针灸推拿拔罐样样都会](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%B2%81%E5%A5%B3%E7%AB%A5%E9%92%88%E7%81%B8%E6%8E%A8%E6%8B%BF%E6%8B%94%E7%BD%90%E6%A0%B7%E6%A0%B7%E9%83%BD%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
+5. [民警吃火锅多看一眼抓住2名逃犯](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%90%83%E7%81%AB%E9%94%85%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%8A%93%E4%BD%8F2%E5%90%8D%E9%80%83%E7%8A%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [蔡依林 浪5](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%20%E6%B5%AA5&t=31&band_rank=6&Refer=top)<br />
-7. [民警吃火锅多看一眼抓住2名逃犯](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%90%83%E7%81%AB%E9%94%85%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%8A%93%E4%BD%8F2%E5%90%8D%E9%80%83%E7%8A%AF%23&t=31&band_rank=7&Refer=top)<br />
+7. [五岁女童针灸推拿拔罐样样都会](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%B2%81%E5%A5%B3%E7%AB%A5%E9%92%88%E7%81%B8%E6%8E%A8%E6%8B%BF%E6%8B%94%E7%BD%90%E6%A0%B7%E6%A0%B7%E9%83%BD%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [王菲 她甚至能治王家卫](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%B2%20%E5%A5%B9%E7%94%9A%E8%87%B3%E8%83%BD%E6%B2%BB%E7%8E%8B%E5%AE%B6%E5%8D%AB&t=31&band_rank=8&Refer=top)<br />
 9. [科举文男主有了脸](https://s.weibo.com/weibo?q=%E7%A7%91%E4%B8%BE%E6%96%87%E7%94%B7%E4%B8%BB%E6%9C%89%E4%BA%86%E8%84%B8&t=31&band_rank=9&Refer=top)<br />
 
