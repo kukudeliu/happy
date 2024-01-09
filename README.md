@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 09:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 09:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [掉河里的顶级翡翠找到了](https://s.weibo.com/weibo?q=%23%E6%8E%89%E6%B2%B3%E9%87%8C%E7%9A%84%E9%A1%B6%E7%BA%A7%E7%BF%A1%E7%BF%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [贾玲张小斐 我真的会谢](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%88%91%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%B0%A2&t=31&band_rank=7&Refer=top)<br />
 8. [贝肯鲍尔去世](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E8%82%AF%E9%B2%8D%E5%B0%94%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [泡温泉会感染HPV吗](https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B8%A9%E6%B3%89%E4%BC%9A%E6%84%9F%E6%9F%93HPV%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [国安部推出特别版黑猫警长](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8E%A8%E5%87%BA%E7%89%B9%E5%88%AB%E7%89%88%E9%BB%91%E7%8C%AB%E8%AD%A6%E9%95%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
