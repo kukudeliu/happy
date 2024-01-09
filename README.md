@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 05:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 05:04:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [医生：感染乙流后这两件事不要拖](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%84%9F%E6%9F%93%E4%B9%99%E6%B5%81%E5%90%8E%E8%BF%99%E4%B8%A4%E4%BB%B6%E4%BA%8B%E4%B8%8D%E8%A6%81%E6%8B%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高颜值局长拟任省直管市市长](https://www.baidu.com/s?wd=%E9%AB%98%E9%A2%9C%E5%80%BC%E5%B1%80%E9%95%BF%E6%8B%9F%E4%BB%BB%E7%9C%81%E7%9B%B4%E7%AE%A1%E5%B8%82%E5%B8%82%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡歌发文告别阿宝](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E9%98%BF%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [从CCTV5走向CCTV1](https://www.baidu.com/s?wd=%E4%BB%8ECCTV5%E8%B5%B0%E5%90%91CCTV1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [A先生死前遗书曝光](https://www.baidu.com/s?wd=A%E5%85%88%E7%94%9F%E6%AD%BB%E5%89%8D%E9%81%97%E4%B9%A6%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [巴中某市场惊现母猪肉？谣言](https://www.baidu.com/s?wd=%E5%B7%B4%E4%B8%AD%E6%9F%90%E5%B8%82%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%AF%8D%E7%8C%AA%E8%82%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [医生：感染乙流后这两件事不要拖](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%84%9F%E6%9F%93%E4%B9%99%E6%B5%81%E5%90%8E%E8%BF%99%E4%B8%A4%E4%BB%B6%E4%BA%8B%E4%B8%8D%E8%A6%81%E6%8B%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高颜值局长拟任省直管市市长](https://www.baidu.com/s?wd=%E9%AB%98%E9%A2%9C%E5%80%BC%E5%B1%80%E9%95%BF%E6%8B%9F%E4%BB%BB%E7%9C%81%E7%9B%B4%E7%AE%A1%E5%B8%82%E5%B8%82%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡歌发文告别阿宝](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E9%98%BF%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [从CCTV5走向CCTV1](https://www.baidu.com/s?wd=%E4%BB%8ECCTV5%E8%B5%B0%E5%90%91CCTV1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [A先生死前遗书曝光](https://www.baidu.com/s?wd=A%E5%85%88%E7%94%9F%E6%AD%BB%E5%89%8D%E9%81%97%E4%B9%A6%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [巴中某市场惊现母猪肉？谣言](https://www.baidu.com/s?wd=%E5%B7%B4%E4%B8%AD%E6%9F%90%E5%B8%82%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%AF%8D%E7%8C%AA%E8%82%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
