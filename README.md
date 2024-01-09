@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 15:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 15:24:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [汤唯称不可能跟丈夫离婚](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%94%AF%E7%A7%B0%E4%B8%8D%E5%8F%AF%E8%83%BD%E8%B7%9F%E4%B8%88%E5%A4%AB%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [于正再次为张檬写长文](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%86%8D%E6%AC%A1%E4%B8%BA%E5%BC%A0%E6%AA%AC%E5%86%99%E9%95%BF%E6%96%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [坠亡的20岁俄籍超模曾去过萝莉岛](https://s.weibo.com/weibo?q=%23%E5%9D%A0%E4%BA%A1%E7%9A%8420%E5%B2%81%E4%BF%84%E7%B1%8D%E8%B6%85%E6%A8%A1%E6%9B%BE%E5%8E%BB%E8%BF%87%E8%90%9D%E8%8E%89%E5%B2%9B%23&t=31&band_rank=6&Refer=top)<br />
-7. [哈工大你玩真的啊](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E4%BD%A0%E7%8E%A9%E7%9C%9F%E7%9A%84%E5%95%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [唐嫣拍繁花爸爸每天接下班](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%8B%8D%E7%B9%81%E8%8A%B1%E7%88%B8%E7%88%B8%E6%AF%8F%E5%A4%A9%E6%8E%A5%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [专家建议发放1万亿元消费券](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%8F%91%E6%94%BE1%E4%B8%87%E4%BA%BF%E5%85%83%E6%B6%88%E8%B4%B9%E5%88%B8%23&t=31&band_rank=9&Refer=top)<br />
+7. [专家建议发放1万亿元消费券](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%8F%91%E6%94%BE1%E4%B8%87%E4%BA%BF%E5%85%83%E6%B6%88%E8%B4%B9%E5%88%B8%23&t=31&band_rank=7&Refer=top)<br />
+8. [哈工大你玩真的啊](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E4%BD%A0%E7%8E%A9%E7%9C%9F%E7%9A%84%E5%95%8A%23&t=31&band_rank=8&Refer=top)<br />
+9. [唐嫣拍繁花爸爸每天接下班](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%8B%8D%E7%B9%81%E8%8A%B1%E7%88%B8%E7%88%B8%E6%AF%8F%E5%A4%A9%E6%8E%A5%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
