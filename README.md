@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 13:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 13:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [教授建议退休人员卖房去乡村养老](https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%BB%BA%E8%AE%AE%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98%E5%8D%96%E6%88%BF%E5%8E%BB%E4%B9%A1%E6%9D%91%E5%85%BB%E8%80%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [2024实在不行你换2025来吧](https://s.weibo.com/weibo?q=2024%E5%AE%9E%E5%9C%A8%E4%B8%8D%E8%A1%8C%E4%BD%A0%E6%8D%A22025%E6%9D%A5%E5%90%A7&t=31&band_rank=6&Refer=top)<br />
 7. [哈尔滨 烫碗](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%20%E7%83%AB%E7%A2%97&t=31&band_rank=7&Refer=top)<br />
-8. [母女旅游顺道买了辆保时捷](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E6%97%85%E6%B8%B8%E9%A1%BA%E9%81%93%E4%B9%B0%E4%BA%86%E8%BE%86%E4%BF%9D%E6%97%B6%E6%8D%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=9&Refer=top)<br />
+8. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=8&Refer=top)<br />
+9. [母女旅游顺道买了辆保时捷](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E6%97%85%E6%B8%B8%E9%A1%BA%E9%81%93%E4%B9%B0%E4%BA%86%E8%BE%86%E4%BF%9D%E6%97%B6%E6%8D%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
