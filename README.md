@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 09:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 09:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [iPhone从4000多米高空坠落仍可使用](https://s.weibo.com/weibo?q=%23iPhone%E4%BB%8E4000%E5%A4%9A%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%9D%A0%E8%90%BD%E4%BB%8D%E5%8F%AF%E4%BD%BF%E7%94%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [贾玲张小斐 我真的会谢](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%88%91%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%B0%A2&t=31&band_rank=6&Refer=top)<br />
 7. [泡温泉会感染HPV吗](https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B8%A9%E6%B3%89%E4%BC%9A%E6%84%9F%E6%9F%93HPV%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [贝肯鲍尔去世](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E8%82%AF%E9%B2%8D%E5%B0%94%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [掉河里的顶级翡翠找到了](https://s.weibo.com/weibo?q=%23%E6%8E%89%E6%B2%B3%E9%87%8C%E7%9A%84%E9%A1%B6%E7%BA%A7%E7%BF%A1%E7%BF%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [掉河里的顶级翡翠找到了](https://s.weibo.com/weibo?q=%23%E6%8E%89%E6%B2%B3%E9%87%8C%E7%9A%84%E9%A1%B6%E7%BA%A7%E7%BF%A1%E7%BF%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [贝肯鲍尔去世](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E8%82%AF%E9%B2%8D%E5%B0%94%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
