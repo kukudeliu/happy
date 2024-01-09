@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 09:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 09:31:01</h4></div>
 
 > 微博  
 
 1. [年轻人报复性挤爆3.5分餐厅](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%863.5%E5%88%86%E9%A4%90%E5%8E%85%23&t=31&band_rank=1&Refer=top)<br />
-2. [王家卫到底花了多少钱买歌](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%88%B0%E5%BA%95%E8%8A%B1%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1%E4%B9%B0%E6%AD%8C%23&t=31&band_rank=2&Refer=top)<br />
+2. [为什么全身面部的皮肤最差](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%A8%E8%BA%AB%E9%9D%A2%E9%83%A8%E7%9A%84%E7%9A%AE%E8%82%A4%E6%9C%80%E5%B7%AE%23&t=31&band_rank=2&Refer=top)<br />
 3. [多地上新文旅大礼包](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%B8%8A%E6%96%B0%E6%96%87%E6%97%85%E5%A4%A7%E7%A4%BC%E5%8C%85%23&t=31&band_rank=3&Refer=top)<br />
-4. [为什么全身面部的皮肤最差](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%A8%E8%BA%AB%E9%9D%A2%E9%83%A8%E7%9A%84%E7%9A%AE%E8%82%A4%E6%9C%80%E5%B7%AE%23&t=31&band_rank=4&Refer=top)<br />
+4. [王家卫到底花了多少钱买歌](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%88%B0%E5%BA%95%E8%8A%B1%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1%E4%B9%B0%E6%AD%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [泡温泉会感染HPV吗](https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B8%A9%E6%B3%89%E4%BC%9A%E6%84%9F%E6%9F%93HPV%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [贾玲张小斐 我真的会谢](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%88%91%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%B0%A2&t=31&band_rank=6&Refer=top)<br />
 7. [贝肯鲍尔去世](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E8%82%AF%E9%B2%8D%E5%B0%94%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
