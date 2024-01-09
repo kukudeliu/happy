@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 20:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 20:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [繁花大结局](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [A先生 胡歌的脸](https://s.weibo.com/weibo?q=A%E5%85%88%E7%94%9F%20%E8%83%A1%E6%AD%8C%E7%9A%84%E8%84%B8&t=31&band_rank=7&Refer=top)<br />
 8. [曝李铁一路砸钱到能执教国足](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9D%8E%E9%93%81%E4%B8%80%E8%B7%AF%E7%A0%B8%E9%92%B1%E5%88%B0%E8%83%BD%E6%89%A7%E6%95%99%E5%9B%BD%E8%B6%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [董宇辉新团队](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E6%96%B0%E5%9B%A2%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [李铁两次带队进中超背后都是假球](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E4%B8%A4%E6%AC%A1%E5%B8%A6%E9%98%9F%E8%BF%9B%E4%B8%AD%E8%B6%85%E8%83%8C%E5%90%8E%E9%83%BD%E6%98%AF%E5%81%87%E7%90%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
