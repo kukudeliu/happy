@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 13:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 13:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [教授建议退休人员卖房去乡村养老](https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%BB%BA%E8%AE%AE%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98%E5%8D%96%E6%88%BF%E5%8E%BB%E4%B9%A1%E6%9D%91%E5%85%BB%E8%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [2024实在不行你换2025来吧](https://s.weibo.com/weibo?q=2024%E5%AE%9E%E5%9C%A8%E4%B8%8D%E8%A1%8C%E4%BD%A0%E6%8D%A22025%E6%9D%A5%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
 8. [母女旅游顺道买了辆保时捷](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E6%97%85%E6%B8%B8%E9%A1%BA%E9%81%93%E4%B9%B0%E4%BA%86%E8%BE%86%E4%BF%9D%E6%97%B6%E6%8D%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么全身面部的皮肤最差](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%A8%E8%BA%AB%E9%9D%A2%E9%83%A8%E7%9A%84%E7%9A%AE%E8%82%A4%E6%9C%80%E5%B7%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [朱丹周一围翻拍经典亲吻躲避照](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%B9%E5%91%A8%E4%B8%80%E5%9B%B4%E7%BF%BB%E6%8B%8D%E7%BB%8F%E5%85%B8%E4%BA%B2%E5%90%BB%E8%BA%B2%E9%81%BF%E7%85%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
