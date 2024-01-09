@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 07:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 07:32:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [董宇辉为哈尔滨爆火开心](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E4%B8%BA%E5%93%88%E5%B0%94%E6%BB%A8%E7%88%86%E7%81%AB%E5%BC%80%E5%BF%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [在职1万退休后只能拿4000](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E8%81%8C1%E4%B8%87%E9%80%80%E4%BC%91%E5%90%8E%E5%8F%AA%E8%83%BD%E6%8B%BF4000%23&t=31&band_rank=7&Refer=top)<br />
 8. [金莎回应被说女油王](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%B4%E5%A5%B3%E6%B2%B9%E7%8E%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [早上宋慧乔 晚上宋小宝](https://s.weibo.com/weibo?q=%E6%97%A9%E4%B8%8A%E5%AE%8B%E6%85%A7%E4%B9%94%20%E6%99%9A%E4%B8%8A%E5%AE%8B%E5%B0%8F%E5%AE%9D&t=31&band_rank=9&Refer=top)<br />
+9. [董宇辉新号首播带货超1亿元](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E6%96%B0%E5%8F%B7%E9%A6%96%E6%92%AD%E5%B8%A6%E8%B4%A7%E8%B6%851%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
