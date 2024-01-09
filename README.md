@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 10:46:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [iPhone从4000多米高空坠落仍可使用](https://s.weibo.com/weibo?q=%23iPhone%E4%BB%8E4000%E5%A4%9A%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%9D%A0%E8%90%BD%E4%BB%8D%E5%8F%AF%E4%BD%BF%E7%94%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [王家卫到底花了多少钱买歌](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%88%B0%E5%BA%95%E8%8A%B1%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1%E4%B9%B0%E6%AD%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [已读瞎回](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E8%AF%BB%E7%9E%8E%E5%9B%9E%23&t=31&band_rank=6&Refer=top)<br />
-7. [年轻人报复性挤爆3.5分餐厅](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%863.5%E5%88%86%E9%A4%90%E5%8E%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [花儿与少年 群像杀伤力](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%20%E7%BE%A4%E5%83%8F%E6%9D%80%E4%BC%A4%E5%8A%9B&t=31&band_rank=8&Refer=top)<br />
+7. [花儿与少年 群像杀伤力](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%20%E7%BE%A4%E5%83%8F%E6%9D%80%E4%BC%A4%E5%8A%9B&t=31&band_rank=7&Refer=top)<br />
+8. [年轻人报复性挤爆3.5分餐厅](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%863.5%E5%88%86%E9%A4%90%E5%8E%85%23&t=31&band_rank=8&Refer=top)<br />
 9. [热水泡脚确实能睡得更香](https://s.weibo.com/weibo?q=%23%E7%83%AD%E6%B0%B4%E6%B3%A1%E8%84%9A%E7%A1%AE%E5%AE%9E%E8%83%BD%E7%9D%A1%E5%BE%97%E6%9B%B4%E9%A6%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
