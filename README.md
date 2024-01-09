@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 13:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 13:10:02</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [尔滨把冻梨做出花来了](https://www.baidu.com/s?wd=%E5%B0%94%E6%BB%A8%E6%8A%8A%E5%86%BB%E6%A2%A8%E5%81%9A%E5%87%BA%E8%8A%B1%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [波司登回应羽绒服洗完剪开全是碎末](https://www.baidu.com/s?wd=%E6%B3%A2%E5%8F%B8%E7%99%BB%E5%9B%9E%E5%BA%94%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%B4%97%E5%AE%8C%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济态势向好结构向优](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%80%81%E5%8A%BF%E5%90%91%E5%A5%BD%E7%BB%93%E6%9E%84%E5%90%91%E4%BC%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [“足球皇帝”贝肯鲍尔去世](https://www.baidu.com/s?wd=%E2%80%9C%E8%B6%B3%E7%90%83%E7%9A%87%E5%B8%9D%E2%80%9D%E8%B4%9D%E8%82%AF%E9%B2%8D%E5%B0%94%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [教授建议退休人员卖房去乡村养老](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E5%BB%BA%E8%AE%AE%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98%E5%8D%96%E6%88%BF%E5%8E%BB%E4%B9%A1%E6%9D%91%E5%85%BB%E8%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [母女旅游顺道买了辆保时捷](https://www.baidu.com/s?wd=%E6%AF%8D%E5%A5%B3%E6%97%85%E6%B8%B8%E9%A1%BA%E9%81%93%E4%B9%B0%E4%BA%86%E8%BE%86%E4%BF%9D%E6%97%B6%E6%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小米手机销量暴涨38%登顶国产第一](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A838%25%E7%99%BB%E9%A1%B6%E5%9B%BD%E4%BA%A7%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [年轻人报复性挤爆3.5分餐厅](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%863.5%E5%88%86%E9%A4%90%E5%8E%85&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [尔滨把冻梨做出花来了](https://www.baidu.com/s?wd=%E5%B0%94%E6%BB%A8%E6%8A%8A%E5%86%BB%E6%A2%A8%E5%81%9A%E5%87%BA%E8%8A%B1%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [波司登回应羽绒服洗完剪开全是碎末](https://www.baidu.com/s?wd=%E6%B3%A2%E5%8F%B8%E7%99%BB%E5%9B%9E%E5%BA%94%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%B4%97%E5%AE%8C%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济态势向好结构向优](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%80%81%E5%8A%BF%E5%90%91%E5%A5%BD%E7%BB%93%E6%9E%84%E5%90%91%E4%BC%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [“足球皇帝”贝肯鲍尔去世](https://www.baidu.com/s?wd=%E2%80%9C%E8%B6%B3%E7%90%83%E7%9A%87%E5%B8%9D%E2%80%9D%E8%B4%9D%E8%82%AF%E9%B2%8D%E5%B0%94%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [教授建议退休人员卖房去乡村养老](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E5%BB%BA%E8%AE%AE%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98%E5%8D%96%E6%88%BF%E5%8E%BB%E4%B9%A1%E6%9D%91%E5%85%BB%E8%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [母女旅游顺道买了辆保时捷](https://www.baidu.com/s?wd=%E6%AF%8D%E5%A5%B3%E6%97%85%E6%B8%B8%E9%A1%BA%E9%81%93%E4%B9%B0%E4%BA%86%E8%BE%86%E4%BF%9D%E6%97%B6%E6%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小米手机销量暴涨38%登顶国产第一](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A838%25%E7%99%BB%E9%A1%B6%E5%9B%BD%E4%BA%A7%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [年轻人报复性挤爆3.5分餐厅](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%863.5%E5%88%86%E9%A4%90%E5%8E%85&sa=fyb_news&rsv_dl=fyb_news)<br />
