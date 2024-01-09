@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 11:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 11:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [被女高管违法开除员工称签道歉函才给赔偿](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A5%B3%E9%AB%98%E7%AE%A1%E8%BF%9D%E6%B3%95%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5%E7%A7%B0%E7%AD%BE%E9%81%93%E6%AD%89%E5%87%BD%E6%89%8D%E7%BB%99%E8%B5%94%E5%81%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [花儿与少年 群像杀伤力](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%20%E7%BE%A4%E5%83%8F%E6%9D%80%E4%BC%A4%E5%8A%9B&t=31&band_rank=7&Refer=top)<br />
 8. [张雪峰公司成立职业培训学校](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B%E8%81%8C%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%AD%A6%E6%A0%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [莫兰特赛季报销](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E5%85%B0%E7%89%B9%E8%B5%9B%E5%AD%A3%E6%8A%A5%E9%94%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [会长是女仆大人 碓冰拓海新绘](https://s.weibo.com/weibo?q=%E4%BC%9A%E9%95%BF%E6%98%AF%E5%A5%B3%E4%BB%86%E5%A4%A7%E4%BA%BA%20%E7%A2%93%E5%86%B0%E6%8B%93%E6%B5%B7%E6%96%B0%E7%BB%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
