@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 18:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 18:13:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [日本新潟县中越地区发生6.0级地震](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%96%B0%E6%BD%9F%E5%8E%BF%E4%B8%AD%E8%B6%8A%E5%9C%B0%E5%8C%BA%E5%8F%91%E7%94%9F6.0%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江西福彩回应彩民中2.2亿调查进展](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E7%A6%8F%E5%BD%A9%E5%9B%9E%E5%BA%94%E5%BD%A9%E6%B0%91%E4%B8%AD2.2%E4%BA%BF%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子带百天幼女跳河自尽新进展](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E7%99%BE%E5%A4%A9%E5%B9%BC%E5%A5%B3%E8%B7%B3%E6%B2%B3%E8%87%AA%E5%B0%BD%E6%96%B0%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [腾讯游戏发布寒假限玩通知](https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E5%8F%91%E5%B8%83%E5%AF%92%E5%81%87%E9%99%90%E7%8E%A9%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学者：余秋雨让学生只会写废话](https://www.baidu.com/s?wd=%E5%AD%A6%E8%80%85%EF%BC%9A%E4%BD%99%E7%A7%8B%E9%9B%A8%E8%AE%A9%E5%AD%A6%E7%94%9F%E5%8F%AA%E4%BC%9A%E5%86%99%E5%BA%9F%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣女子挺5个月孕肚征婚](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E6%8C%BA5%E4%B8%AA%E6%9C%88%E5%AD%95%E8%82%9A%E5%BE%81%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [日本新潟县中越地区发生6.0级地震](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%96%B0%E6%BD%9F%E5%8E%BF%E4%B8%AD%E8%B6%8A%E5%9C%B0%E5%8C%BA%E5%8F%91%E7%94%9F6.0%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江西福彩回应彩民中2.2亿调查进展](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E7%A6%8F%E5%BD%A9%E5%9B%9E%E5%BA%94%E5%BD%A9%E6%B0%91%E4%B8%AD2.2%E4%BA%BF%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子带百天幼女跳河自尽新进展](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E7%99%BE%E5%A4%A9%E5%B9%BC%E5%A5%B3%E8%B7%B3%E6%B2%B3%E8%87%AA%E5%B0%BD%E6%96%B0%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [腾讯游戏发布寒假限玩通知](https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E5%8F%91%E5%B8%83%E5%AF%92%E5%81%87%E9%99%90%E7%8E%A9%E9%80%9A%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学者：余秋雨让学生只会写废话](https://www.baidu.com/s?wd=%E5%AD%A6%E8%80%85%EF%BC%9A%E4%BD%99%E7%A7%8B%E9%9B%A8%E8%AE%A9%E5%AD%A6%E7%94%9F%E5%8F%AA%E4%BC%9A%E5%86%99%E5%BA%9F%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣女子挺5个月孕肚征婚](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E6%8C%BA5%E4%B8%AA%E6%9C%88%E5%AD%95%E8%82%9A%E5%BE%81%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
