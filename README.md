@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 00:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 00:15:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [早上宋慧乔 晚上宋小宝](https://s.weibo.com/weibo?q=%E6%97%A9%E4%B8%8A%E5%AE%8B%E6%85%A7%E4%B9%94%20%E6%99%9A%E4%B8%8A%E5%AE%8B%E5%B0%8F%E5%AE%9D&t=31&band_rank=4&Refer=top)<br />
 5. [为什么李铁的铁刘海还在](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9D%8E%E9%93%81%E7%9A%84%E9%93%81%E5%88%98%E6%B5%B7%E8%BF%98%E5%9C%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [繁花大结局](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [李铁案和繁花收视对比](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%93%81%E6%A1%88%E5%92%8C%E7%B9%81%E8%8A%B1%E6%94%B6%E8%A7%86%E5%AF%B9%E6%AF%94&t=31&band_rank=7&Refer=top)<br />
-8. [从CCTV5到CCTV1](https://s.weibo.com/weibo?q=%E4%BB%8ECCTV5%E5%88%B0CCTV1&t=31&band_rank=8&Refer=top)<br />
-9. [宝总 玲子](https://s.weibo.com/weibo?q=%E5%AE%9D%E6%80%BB%20%E7%8E%B2%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
+7. [宝总 玲子](https://s.weibo.com/weibo?q=%E5%AE%9D%E6%80%BB%20%E7%8E%B2%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
+8. [董宇辉新号首播带货超1亿元](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E6%96%B0%E5%8F%B7%E9%A6%96%E6%92%AD%E5%B8%A6%E8%B4%A7%E8%B6%851%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [从CCTV5到CCTV1](https://s.weibo.com/weibo?q=%E4%BB%8ECCTV5%E5%88%B0CCTV1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
