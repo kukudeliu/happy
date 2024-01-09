@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 15:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 15:58:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [于正再次为张檬写长文](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%86%8D%E6%AC%A1%E4%B8%BA%E5%BC%A0%E6%AA%AC%E5%86%99%E9%95%BF%E6%96%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [我国成功发射爱因斯坦探针](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E6%8E%A2%E9%92%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [37岁孙子粘着100岁奶奶聊天睡觉](https://s.weibo.com/weibo?q=%2337%E5%B2%81%E5%AD%99%E5%AD%90%E7%B2%98%E7%9D%80100%E5%B2%81%E5%A5%B6%E5%A5%B6%E8%81%8A%E5%A4%A9%E7%9D%A1%E8%A7%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [长沙致54死自建房坍塌事故本有机会避免](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E8%87%B454%E6%AD%BB%E8%87%AA%E5%BB%BA%E6%88%BF%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%9C%AC%E6%9C%89%E6%9C%BA%E4%BC%9A%E9%81%BF%E5%85%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [网易云改版](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E4%BA%91%E6%94%B9%E7%89%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [网易云改版](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E4%BA%91%E6%94%B9%E7%89%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [长沙致54死自建房坍塌事故本有机会避免](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E8%87%B454%E6%AD%BB%E8%87%AA%E5%BB%BA%E6%88%BF%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%9C%AC%E6%9C%89%E6%9C%BA%E4%BC%9A%E9%81%BF%E5%85%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
