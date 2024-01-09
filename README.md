@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 14:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 14:30:01</h4></div>
 
 > 微博  
 
 1. [坠亡的20岁俄籍超模曾去过萝莉岛](https://s.weibo.com/weibo?q=%23%E5%9D%A0%E4%BA%A1%E7%9A%8420%E5%B2%81%E4%BF%84%E7%B1%8D%E8%B6%85%E6%A8%A1%E6%9B%BE%E5%8E%BB%E8%BF%87%E8%90%9D%E8%8E%89%E5%B2%9B%23&t=31&band_rank=1&Refer=top)<br />
-2. [发朋友圈被误认为出国的旅游地](https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E5%87%BA%E5%9B%BD%E7%9A%84%E6%97%85%E6%B8%B8%E5%9C%B0%23&t=31&band_rank=2&Refer=top)<br />
+2. [长沙致54死自建房坍塌事故本有机会避免](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E8%87%B454%E6%AD%BB%E8%87%AA%E5%BB%BA%E6%88%BF%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%9C%AC%E6%9C%89%E6%9C%BA%E4%BC%9A%E9%81%BF%E5%85%8D%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024年春运民航客运量将达8000万人次](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%98%A5%E8%BF%90%E6%B0%91%E8%88%AA%E5%AE%A2%E8%BF%90%E9%87%8F%E5%B0%86%E8%BE%BE8000%E4%B8%87%E4%BA%BA%E6%AC%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [于正再次为张檬写长文](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%86%8D%E6%AC%A1%E4%B8%BA%E5%BC%A0%E6%AA%AC%E5%86%99%E9%95%BF%E6%96%87%23&t=31&band_rank=4&Refer=top)<br />
-5. [长沙致54死自建房坍塌事故本有机会避免](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E8%87%B454%E6%AD%BB%E8%87%AA%E5%BB%BA%E6%88%BF%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%9C%AC%E6%9C%89%E6%9C%BA%E4%BC%9A%E9%81%BF%E5%85%8D%23&t=31&band_rank=5&Refer=top)<br />
+5. [发朋友圈被误认为出国的旅游地](https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E5%87%BA%E5%9B%BD%E7%9A%84%E6%97%85%E6%B8%B8%E5%9C%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [哈尔滨 烫碗](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%20%E7%83%AB%E7%A2%97&t=31&band_rank=6&Refer=top)<br />
 7. [哈工大你玩真的啊](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E4%BD%A0%E7%8E%A9%E7%9C%9F%E7%9A%84%E5%95%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [秦岚亲了迪丽热巴](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E4%BA%B2%E4%BA%86%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=8&Refer=top)<br />
