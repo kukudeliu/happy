@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 20:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 20:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [曝李铁一路砸钱到能执教国足](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9D%8E%E9%93%81%E4%B8%80%E8%B7%AF%E7%A0%B8%E9%92%B1%E5%88%B0%E8%83%BD%E6%89%A7%E6%95%99%E5%9B%BD%E8%B6%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [律师称张雪峰说文考生靠舔不侵犯名誉权](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%AF%B4%E6%96%87%E8%80%83%E7%94%9F%E9%9D%A0%E8%88%94%E4%B8%8D%E4%BE%B5%E7%8A%AF%E5%90%8D%E8%AA%89%E6%9D%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [金莎会做婚前财产公证](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E4%BC%9A%E5%81%9A%E5%A9%9A%E5%89%8D%E8%B4%A2%E4%BA%A7%E5%85%AC%E8%AF%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [哈尔滨的白狐已经熬出黑眼圈](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E7%9A%84%E7%99%BD%E7%8B%90%E5%B7%B2%E7%BB%8F%E7%86%AC%E5%87%BA%E9%BB%91%E7%9C%BC%E5%9C%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [贾乃亮晒甜馨烧玻璃](https://s.weibo.com/weibo?q=%E8%B4%BE%E4%B9%83%E4%BA%AE%E6%99%92%E7%94%9C%E9%A6%A8%E7%83%A7%E7%8E%BB%E7%92%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,7 +23,7 @@
 4. [市场“人从众”折射消费活力足](https://www.baidu.com/s?wd=%E5%B8%82%E5%9C%BA%E2%80%9C%E4%BA%BA%E4%BB%8E%E4%BC%97%E2%80%9D%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [董宇辉新账号“与辉同行”首播](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E6%96%B0%E8%B4%A6%E5%8F%B7%E2%80%9C%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E2%80%9D%E9%A6%96%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高颜值局长拟任省直管市市长](https://www.baidu.com/s?wd=%E9%AB%98%E9%A2%9C%E5%80%BC%E5%B1%80%E9%95%BF%E6%8B%9F%E4%BB%BB%E7%9C%81%E7%9B%B4%E7%AE%A1%E5%B8%82%E5%B8%82%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子带百天幼女跳河自尽新进展](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E7%99%BE%E5%A4%A9%E5%B9%BC%E5%A5%B3%E8%B7%B3%E6%B2%B3%E8%87%AA%E5%B0%BD%E6%96%B0%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [祖孙家中遇袭 老人身亡两儿童重伤](https://www.baidu.com/s?wd=%E7%A5%96%E5%AD%99%E5%AE%B6%E4%B8%AD%E9%81%87%E8%A2%AD+%E8%80%81%E4%BA%BA%E8%BA%AB%E4%BA%A1%E4%B8%A4%E5%84%BF%E7%AB%A5%E9%87%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [别寄辣味泡面了 日本灾区不欢迎](https://www.baidu.com/s?wd=%E5%88%AB%E5%AF%84%E8%BE%A3%E5%91%B3%E6%B3%A1%E9%9D%A2%E4%BA%86+%E6%97%A5%E6%9C%AC%E7%81%BE%E5%8C%BA%E4%B8%8D%E6%AC%A2%E8%BF%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [巴中某市场惊现母猪肉？谣言](https://www.baidu.com/s?wd=%E5%B7%B4%E4%B8%AD%E6%9F%90%E5%B8%82%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%AF%8D%E7%8C%AA%E8%82%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [市场“人从众”折射消费活力足](https://www.baidu.com/s?wd=%E5%B8%82%E5%9C%BA%E2%80%9C%E4%BA%BA%E4%BB%8E%E4%BC%97%E2%80%9D%E6%8A%98%E5%B0%84%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [董宇辉新账号“与辉同行”首播](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E6%96%B0%E8%B4%A6%E5%8F%B7%E2%80%9C%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E2%80%9D%E9%A6%96%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高颜值局长拟任省直管市市长](https://www.baidu.com/s?wd=%E9%AB%98%E9%A2%9C%E5%80%BC%E5%B1%80%E9%95%BF%E6%8B%9F%E4%BB%BB%E7%9C%81%E7%9B%B4%E7%AE%A1%E5%B8%82%E5%B8%82%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子带百天幼女跳河自尽新进展](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E7%99%BE%E5%A4%A9%E5%B9%BC%E5%A5%B3%E8%B7%B3%E6%B2%B3%E8%87%AA%E5%B0%BD%E6%96%B0%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [祖孙家中遇袭 老人身亡两儿童重伤](https://www.baidu.com/s?wd=%E7%A5%96%E5%AD%99%E5%AE%B6%E4%B8%AD%E9%81%87%E8%A2%AD+%E8%80%81%E4%BA%BA%E8%BA%AB%E4%BA%A1%E4%B8%A4%E5%84%BF%E7%AB%A5%E9%87%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [别寄辣味泡面了 日本灾区不欢迎](https://www.baidu.com/s?wd=%E5%88%AB%E5%AF%84%E8%BE%A3%E5%91%B3%E6%B3%A1%E9%9D%A2%E4%BA%86+%E6%97%A5%E6%9C%AC%E7%81%BE%E5%8C%BA%E4%B8%8D%E6%AC%A2%E8%BF%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [巴中某市场惊现母猪肉？谣言](https://www.baidu.com/s?wd=%E5%B7%B4%E4%B8%AD%E6%9F%90%E5%B8%82%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%AF%8D%E7%8C%AA%E8%82%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
