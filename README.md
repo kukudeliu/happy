@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 12:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 12:10:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么全身面部的皮肤最差](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%A8%E8%BA%AB%E9%9D%A2%E9%83%A8%E7%9A%84%E7%9A%AE%E8%82%A4%E6%9C%80%E5%B7%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [iPhone从4000多米高空坠落仍可使用](https://s.weibo.com/weibo?q=%23iPhone%E4%BB%8E4000%E5%A4%9A%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%9D%A0%E8%90%BD%E4%BB%8D%E5%8F%AF%E4%BD%BF%E7%94%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [王家卫到底花了多少钱买歌](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%88%B0%E5%BA%95%E8%8A%B1%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1%E4%B9%B0%E6%AD%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [花儿与少年 群像杀伤力](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%20%E7%BE%A4%E5%83%8F%E6%9D%80%E4%BC%A4%E5%8A%9B&t=31&band_rank=9&Refer=top)<br />
+9. [会长是女仆大人 碓冰拓海新绘](https://s.weibo.com/weibo?q=%E4%BC%9A%E9%95%BF%E6%98%AF%E5%A5%B3%E4%BB%86%E5%A4%A7%E4%BA%BA%20%E7%A2%93%E5%86%B0%E6%8B%93%E6%B5%B7%E6%96%B0%E7%BB%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
