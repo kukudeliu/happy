@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 17:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 17:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [专家建议尽快调整退休年龄](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%B0%BD%E5%BF%AB%E8%B0%83%E6%95%B4%E9%80%80%E4%BC%91%E5%B9%B4%E9%BE%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [68岁院长飞奔抱住正摔倒的老人](https://s.weibo.com/weibo?q=%2368%E5%B2%81%E9%99%A2%E9%95%BF%E9%A3%9E%E5%A5%94%E6%8A%B1%E4%BD%8F%E6%AD%A3%E6%91%94%E5%80%92%E7%9A%84%E8%80%81%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [金莎会做婚前财产公证](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E4%BC%9A%E5%81%9A%E5%A9%9A%E5%89%8D%E8%B4%A2%E4%BA%A7%E5%85%AC%E8%AF%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [汤唯称不可能跟丈夫离婚](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%94%AF%E7%A7%B0%E4%B8%8D%E5%8F%AF%E8%83%BD%E8%B7%9F%E4%B8%88%E5%A4%AB%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子在日军731部队遗址前直播带货](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E5%86%9B731%E9%83%A8%E9%98%9F%E9%81%97%E5%9D%80%E5%89%8D%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
