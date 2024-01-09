@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 13:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 13:49:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [教授建议退休人员卖房去乡村养老](https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%BB%BA%E8%AE%AE%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98%E5%8D%96%E6%88%BF%E5%8E%BB%E4%B9%A1%E6%9D%91%E5%85%BB%E8%80%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [哈尔滨 烫碗](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%20%E7%83%AB%E7%A2%97&t=31&band_rank=6&Refer=top)<br />
 7. [2024实在不行你换2025来吧](https://s.weibo.com/weibo?q=2024%E5%AE%9E%E5%9C%A8%E4%B8%8D%E8%A1%8C%E4%BD%A0%E6%8D%A22025%E6%9D%A5%E5%90%A7&t=31&band_rank=7&Refer=top)<br />
-8. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=8&Refer=top)<br />
-9. [母女旅游顺道买了辆保时捷](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E6%97%85%E6%B8%B8%E9%A1%BA%E9%81%93%E4%B9%B0%E4%BA%86%E8%BE%86%E4%BF%9D%E6%97%B6%E6%8D%B7%23&t=31&band_rank=9&Refer=top)<br />
+8. [母女旅游顺道买了辆保时捷](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E6%97%85%E6%B8%B8%E9%A1%BA%E9%81%93%E4%B9%B0%E4%BA%86%E8%BE%86%E4%BF%9D%E6%97%B6%E6%8D%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [为什么全身面部的皮肤最差](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%A8%E8%BA%AB%E9%9D%A2%E9%83%A8%E7%9A%84%E7%9A%AE%E8%82%A4%E6%9C%80%E5%B7%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [波司登回应羽绒服洗完剪开全是碎末](https://www.baidu.com/s?wd=%E6%B3%A2%E5%8F%B8%E7%99%BB%E5%9B%9E%E5%BA%94%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%B4%97%E5%AE%8C%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [母女旅游顺道买了辆保时捷](https://www.baidu.com/s?wd=%E6%AF%8D%E5%A5%B3%E6%97%85%E6%B8%B8%E9%A1%BA%E9%81%93%E4%B9%B0%E4%BA%86%E8%BE%86%E4%BF%9D%E6%97%B6%E6%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多家银行回应存10万现金需说明来源](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94%E5%AD%9810%E4%B8%87%E7%8E%B0%E9%87%91%E9%9C%80%E8%AF%B4%E6%98%8E%E6%9D%A5%E6%BA%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小米手机销量暴涨38%登顶国产第一](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A838%25%E7%99%BB%E9%A1%B6%E5%9B%BD%E4%BA%A7%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人掀起“淘金”热](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%80%E8%B5%B7%E2%80%9C%E6%B7%98%E9%87%91%E2%80%9D%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南辟谣人贩子将女孩双脚绑缚](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%BE%9F%E8%B0%A3%E4%BA%BA%E8%B4%A9%E5%AD%90%E5%B0%86%E5%A5%B3%E5%AD%A9%E5%8F%8C%E8%84%9A%E7%BB%91%E7%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [波司登回应羽绒服洗完剪开全是碎末](https://www.baidu.com/s?wd=%E6%B3%A2%E5%8F%B8%E7%99%BB%E5%9B%9E%E5%BA%94%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%B4%97%E5%AE%8C%E5%89%AA%E5%BC%80%E5%85%A8%E6%98%AF%E7%A2%8E%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [母女旅游顺道买了辆保时捷](https://www.baidu.com/s?wd=%E6%AF%8D%E5%A5%B3%E6%97%85%E6%B8%B8%E9%A1%BA%E9%81%93%E4%B9%B0%E4%BA%86%E8%BE%86%E4%BF%9D%E6%97%B6%E6%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多家银行回应存10万现金需说明来源](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94%E5%AD%9810%E4%B8%87%E7%8E%B0%E9%87%91%E9%9C%80%E8%AF%B4%E6%98%8E%E6%9D%A5%E6%BA%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小米手机销量暴涨38%登顶国产第一](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A838%25%E7%99%BB%E9%A1%B6%E5%9B%BD%E4%BA%A7%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人掀起“淘金”热](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%80%E8%B5%B7%E2%80%9C%E6%B7%98%E9%87%91%E2%80%9D%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南辟谣人贩子将女孩双脚绑缚](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%BE%9F%E8%B0%A3%E4%BA%BA%E8%B4%A9%E5%AD%90%E5%B0%86%E5%A5%B3%E5%AD%A9%E5%8F%8C%E8%84%9A%E7%BB%91%E7%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
