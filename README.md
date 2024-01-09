@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 12:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 12:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [“足球皇帝”贝肯鲍尔去世](https://www.baidu.com/s?wd=%E2%80%9C%E8%B6%B3%E7%90%83%E7%9A%87%E5%B8%9D%E2%80%9D%E8%B4%9D%E8%82%AF%E9%B2%8D%E5%B0%94%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小米手机销量暴涨38%登顶国产第一](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A838%25%E7%99%BB%E9%A1%B6%E5%9B%BD%E4%BA%A7%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [年轻人报复性挤爆3.5分餐厅](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%863.5%E5%88%86%E9%A4%90%E5%8E%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [41岁流浪歌手转行卖烧烤](https://www.baidu.com/s?wd=41%E5%B2%81%E6%B5%81%E6%B5%AA%E6%AD%8C%E6%89%8B%E8%BD%AC%E8%A1%8C%E5%8D%96%E7%83%A7%E7%83%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [iPhone从4000多米高空坠落仍可使用](https://www.baidu.com/s?wd=iPhone%E4%BB%8E4000%E5%A4%9A%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%9D%A0%E8%90%BD%E4%BB%8D%E5%8F%AF%E4%BD%BF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南辟谣人贩子将女孩双脚绑缚](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%BE%9F%E8%B0%A3%E4%BA%BA%E8%B4%A9%E5%AD%90%E5%B0%86%E5%A5%B3%E5%AD%A9%E5%8F%8C%E8%84%9A%E7%BB%91%E7%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [“足球皇帝”贝肯鲍尔去世](https://www.baidu.com/s?wd=%E2%80%9C%E8%B6%B3%E7%90%83%E7%9A%87%E5%B8%9D%E2%80%9D%E8%B4%9D%E8%82%AF%E9%B2%8D%E5%B0%94%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小米手机销量暴涨38%登顶国产第一](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A838%25%E7%99%BB%E9%A1%B6%E5%9B%BD%E4%BA%A7%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [年轻人报复性挤爆3.5分餐厅](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%863.5%E5%88%86%E9%A4%90%E5%8E%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [41岁流浪歌手转行卖烧烤](https://www.baidu.com/s?wd=41%E5%B2%81%E6%B5%81%E6%B5%AA%E6%AD%8C%E6%89%8B%E8%BD%AC%E8%A1%8C%E5%8D%96%E7%83%A7%E7%83%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [iPhone从4000多米高空坠落仍可使用](https://www.baidu.com/s?wd=iPhone%E4%BB%8E4000%E5%A4%9A%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%9D%A0%E8%90%BD%E4%BB%8D%E5%8F%AF%E4%BD%BF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南辟谣人贩子将女孩双脚绑缚](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%BE%9F%E8%B0%A3%E4%BA%BA%E8%B4%A9%E5%AD%90%E5%B0%86%E5%A5%B3%E5%AD%A9%E5%8F%8C%E8%84%9A%E7%BB%91%E7%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
