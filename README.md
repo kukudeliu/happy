@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 08:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 09:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贾玲张小斐 我真的会谢](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%88%91%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%B0%A2&t=31&band_rank=6&Refer=top)<br />
 7. [女子哈尔滨吃铁锅炖分量少提醒避雷](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%93%88%E5%B0%94%E6%BB%A8%E5%90%83%E9%93%81%E9%94%85%E7%82%96%E5%88%86%E9%87%8F%E5%B0%91%E6%8F%90%E9%86%92%E9%81%BF%E9%9B%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [iPhone在华销量同比大跌30%](https://s.weibo.com/weibo?q=%23iPhone%E5%9C%A8%E5%8D%8E%E9%94%80%E9%87%8F%E5%90%8C%E6%AF%94%E5%A4%A7%E8%B7%8C30%25%23&t=31&band_rank=8&Refer=top)<br />
-9. [被开除当事人称公司全用盗版软件](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BC%80%E9%99%A4%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%85%AC%E5%8F%B8%E5%85%A8%E7%94%A8%E7%9B%97%E7%89%88%E8%BD%AF%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [北方袋装牛奶普遍没有吸管也没插孔](https://s.weibo.com/weibo?q=%E5%8C%97%E6%96%B9%E8%A2%8B%E8%A3%85%E7%89%9B%E5%A5%B6%E6%99%AE%E9%81%8D%E6%B2%A1%E6%9C%89%E5%90%B8%E7%AE%A1%E4%B9%9F%E6%B2%A1%E6%8F%92%E5%AD%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
