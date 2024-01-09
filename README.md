@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 00:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 00:35:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [早上宋慧乔 晚上宋小宝](https://s.weibo.com/weibo?q=%E6%97%A9%E4%B8%8A%E5%AE%8B%E6%85%A7%E4%B9%94%20%E6%99%9A%E4%B8%8A%E5%AE%8B%E5%B0%8F%E5%AE%9D&t=31&band_rank=4&Refer=top)<br />
 5. [宝总 玲子](https://s.weibo.com/weibo?q=%E5%AE%9D%E6%80%BB%20%E7%8E%B2%E5%AD%90&t=31&band_rank=5&Refer=top)<br />
 6. [董宇辉新号首播带货超1亿元](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E6%96%B0%E5%8F%B7%E9%A6%96%E6%92%AD%E5%B8%A6%E8%B4%A7%E8%B6%851%E4%BA%BF%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [繁花大结局](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [范志毅说和胡歌彻夜聊球](https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%BF%97%E6%AF%85%E8%AF%B4%E5%92%8C%E8%83%A1%E6%AD%8C%E5%BD%BB%E5%A4%9C%E8%81%8A%E7%90%83%23&t=31&band_rank=8&Refer=top)<br />
+7. [范志毅说和胡歌彻夜聊球](https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%BF%97%E6%AF%85%E8%AF%B4%E5%92%8C%E8%83%A1%E6%AD%8C%E5%BD%BB%E5%A4%9C%E8%81%8A%E7%90%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [央视春晚语言类节目审查](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E8%AF%AD%E8%A8%80%E7%B1%BB%E8%8A%82%E7%9B%AE%E5%AE%A1%E6%9F%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [在职1万退休后只能拿4000](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E8%81%8C1%E4%B8%87%E9%80%80%E4%BC%91%E5%90%8E%E5%8F%AA%E8%83%BD%E6%8B%BF4000%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
