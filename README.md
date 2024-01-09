@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 16:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 16:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [章若楠 我们没做饭啊](https://s.weibo.com/weibo?q=%E7%AB%A0%E8%8B%A5%E6%A5%A0%20%E6%88%91%E4%BB%AC%E6%B2%A1%E5%81%9A%E9%A5%AD%E5%95%8A&t=31&band_rank=5&Refer=top)<br />
 6. [37岁孙子粘着100岁奶奶聊天睡觉](https://s.weibo.com/weibo?q=%2337%E5%B2%81%E5%AD%99%E5%AD%90%E7%B2%98%E7%9D%80100%E5%B2%81%E5%A5%B6%E5%A5%B6%E8%81%8A%E5%A4%A9%E7%9D%A1%E8%A7%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [国考还不出成绩是有什么心事吗](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E8%BF%98%E4%B8%8D%E5%87%BA%E6%88%90%E7%BB%A9%E6%98%AF%E6%9C%89%E4%BB%80%E4%B9%88%E5%BF%83%E4%BA%8B%E5%90%97&t=31&band_rank=7&Refer=top)<br />
-8. [于正再次为张檬写长文](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%86%8D%E6%AC%A1%E4%B8%BA%E5%BC%A0%E6%AA%AC%E5%86%99%E9%95%BF%E6%96%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [张碧晨担任C罗中国行表演嘉宾](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%8B%85%E4%BB%BBC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E8%A1%A8%E6%BC%94%E5%98%89%E5%AE%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [张碧晨担任C罗中国行表演嘉宾](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%8B%85%E4%BB%BBC%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E8%A1%A8%E6%BC%94%E5%98%89%E5%AE%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [于正再次为张檬写长文](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%86%8D%E6%AC%A1%E4%B8%BA%E5%BC%A0%E6%AA%AC%E5%86%99%E9%95%BF%E6%96%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
