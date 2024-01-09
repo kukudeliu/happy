@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 10:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 10:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [已读瞎回](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E8%AF%BB%E7%9E%8E%E5%9B%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [年轻人报复性挤爆3.5分餐厅](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%863.5%E5%88%86%E9%A4%90%E5%8E%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [热水泡脚确实能睡得更香](https://s.weibo.com/weibo?q=%23%E7%83%AD%E6%B0%B4%E6%B3%A1%E8%84%9A%E7%A1%AE%E5%AE%9E%E8%83%BD%E7%9D%A1%E5%BE%97%E6%9B%B4%E9%A6%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [国安部推出特别版黑猫警长](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8E%A8%E5%87%BA%E7%89%B9%E5%88%AB%E7%89%88%E9%BB%91%E7%8C%AB%E8%AD%A6%E9%95%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [掉河里的顶级翡翠找到了](https://s.weibo.com/weibo?q=%23%E6%8E%89%E6%B2%B3%E9%87%8C%E7%9A%84%E9%A1%B6%E7%BA%A7%E7%BF%A1%E7%BF%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
