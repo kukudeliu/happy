@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 14:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 14:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [发朋友圈被误认为出国的旅游地](https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E5%87%BA%E5%9B%BD%E7%9A%84%E6%97%85%E6%B8%B8%E5%9C%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [秦岚亲了迪丽热巴](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E4%BA%B2%E4%BA%86%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [哈尔滨 烫碗](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%20%E7%83%AB%E7%A2%97&t=31&band_rank=8&Refer=top)<br />
-9. [赵昭仪和胡先煦 刷到哪对磕哪对](https://s.weibo.com/weibo?q=%E8%B5%B5%E6%98%AD%E4%BB%AA%E5%92%8C%E8%83%A1%E5%85%88%E7%85%A6%20%E5%88%B7%E5%88%B0%E5%93%AA%E5%AF%B9%E7%A3%95%E5%93%AA%E5%AF%B9&t=31&band_rank=9&Refer=top)<br />
+9. [起诉张雪峰的文科博主发声](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E8%AF%89%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%9A%84%E6%96%87%E7%A7%91%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
