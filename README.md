@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 04:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 04:59:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [董宇辉为哈尔滨爆火开心](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E4%B8%BA%E5%93%88%E5%B0%94%E6%BB%A8%E7%88%86%E7%81%AB%E5%BC%80%E5%BF%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [早上宋慧乔 晚上宋小宝](https://s.weibo.com/weibo?q=%E6%97%A9%E4%B8%8A%E5%AE%8B%E6%85%A7%E4%B9%94%20%E6%99%9A%E4%B8%8A%E5%AE%8B%E5%B0%8F%E5%AE%9D&t=31&band_rank=7&Refer=top)<br />
 8. [马思纯 两年终于拍戏了](https://s.weibo.com/weibo?q=%E9%A9%AC%E6%80%9D%E7%BA%AF%20%E4%B8%A4%E5%B9%B4%E7%BB%88%E4%BA%8E%E6%8B%8D%E6%88%8F%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [繁花大结局](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [金莎回应被说女油王](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%B4%E5%A5%B3%E6%B2%B9%E7%8E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
