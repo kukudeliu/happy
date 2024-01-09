@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 13:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 13:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [母女旅游顺道买了辆保时捷](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E6%97%85%E6%B8%B8%E9%A1%BA%E9%81%93%E4%B9%B0%E4%BA%86%E8%BE%86%E4%BF%9D%E6%97%B6%E6%8D%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [哈尔滨 烫碗](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%20%E7%83%AB%E7%A2%97&t=31&band_rank=7&Refer=top)<br />
 8. [为什么全身面部的皮肤最差](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%A8%E8%BA%AB%E9%9D%A2%E9%83%A8%E7%9A%84%E7%9A%AE%E8%82%A4%E6%9C%80%E5%B7%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [尔滨把冻梨做出花来了](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E6%8A%8A%E5%86%BB%E6%A2%A8%E5%81%9A%E5%87%BA%E8%8A%B1%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [微博之夜新一轮官宣](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%96%B0%E4%B8%80%E8%BD%AE%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
