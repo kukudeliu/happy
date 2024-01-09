@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 12:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 12:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张雪峰公司成立职业培训学校](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B%E8%81%8C%E4%B8%9A%E5%9F%B9%E8%AE%AD%E5%AD%A6%E6%A0%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么全身面部的皮肤最差](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%A8%E8%BA%AB%E9%9D%A2%E9%83%A8%E7%9A%84%E7%9A%AE%E8%82%A4%E6%9C%80%E5%B7%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [王家卫到底花了多少钱买歌](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%88%B0%E5%BA%95%E8%8A%B1%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1%E4%B9%B0%E6%AD%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [光遇复刻](https://s.weibo.com/weibo?q=%E5%85%89%E9%81%87%E5%A4%8D%E5%88%BB&t=31&band_rank=9&Refer=top)<br />
+9. [被女高管违法开除员工称签道歉函才给赔偿](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A5%B3%E9%AB%98%E7%AE%A1%E8%BF%9D%E6%B3%95%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5%E7%A7%B0%E7%AD%BE%E9%81%93%E6%AD%89%E5%87%BD%E6%89%8D%E7%BB%99%E8%B5%94%E5%81%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
