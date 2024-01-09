@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 02:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 02:09:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [中国经济2024火热开局](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E2024%E7%81%AB%E7%83%AD%E5%BC%80%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [医生：感染乙流后这两件事不要拖](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%84%9F%E6%9F%93%E4%B9%99%E6%B5%81%E5%90%8E%E8%BF%99%E4%B8%A4%E4%BB%B6%E4%BA%8B%E4%B8%8D%E8%A6%81%E6%8B%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [从CCTV5走向CCTV1](https://www.baidu.com/s?wd=%E4%BB%8ECCTV5%E8%B5%B0%E5%90%91CCTV1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [湖南“小辣椒”已顺利抵达哈尔滨](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E2%80%9C%E5%B0%8F%E8%BE%A3%E6%A4%92%E2%80%9D%E5%B7%B2%E9%A1%BA%E5%88%A9%E6%8A%B5%E8%BE%BE%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陈戌源落泪忏悔：愿用生命买后悔药](https://www.baidu.com/s?wd=%E9%99%88%E6%88%8C%E6%BA%90%E8%90%BD%E6%B3%AA%E5%BF%8F%E6%82%94%EF%BC%9A%E6%84%BF%E7%94%A8%E7%94%9F%E5%91%BD%E4%B9%B0%E5%90%8E%E6%82%94%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高颜值局长拟任省直管市市长](https://www.baidu.com/s?wd=%E9%AB%98%E9%A2%9C%E5%80%BC%E5%B1%80%E9%95%BF%E6%8B%9F%E4%BB%BB%E7%9C%81%E7%9B%B4%E7%AE%A1%E5%B8%82%E5%B8%82%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖南“小辣椒”已顺利抵达哈尔滨](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E2%80%9C%E5%B0%8F%E8%BE%A3%E6%A4%92%E2%80%9D%E5%B7%B2%E9%A1%BA%E5%88%A9%E6%8A%B5%E8%BE%BE%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [巴中某市场惊现母猪肉？谣言](https://www.baidu.com/s?wd=%E5%B7%B4%E4%B8%AD%E6%9F%90%E5%B8%82%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%AF%8D%E7%8C%AA%E8%82%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国经济2024火热开局](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E2024%E7%81%AB%E7%83%AD%E5%BC%80%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [医生：感染乙流后这两件事不要拖](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%84%9F%E6%9F%93%E4%B9%99%E6%B5%81%E5%90%8E%E8%BF%99%E4%B8%A4%E4%BB%B6%E4%BA%8B%E4%B8%8D%E8%A6%81%E6%8B%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [从CCTV5走向CCTV1](https://www.baidu.com/s?wd=%E4%BB%8ECCTV5%E8%B5%B0%E5%90%91CCTV1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [湖南“小辣椒”已顺利抵达哈尔滨](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E2%80%9C%E5%B0%8F%E8%BE%A3%E6%A4%92%E2%80%9D%E5%B7%B2%E9%A1%BA%E5%88%A9%E6%8A%B5%E8%BE%BE%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [陈戌源落泪忏悔：愿用生命买后悔药](https://www.baidu.com/s?wd=%E9%99%88%E6%88%8C%E6%BA%90%E8%90%BD%E6%B3%AA%E5%BF%8F%E6%82%94%EF%BC%9A%E6%84%BF%E7%94%A8%E7%94%9F%E5%91%BD%E4%B9%B0%E5%90%8E%E6%82%94%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [高颜值局长拟任省直管市市长](https://www.baidu.com/s?wd=%E9%AB%98%E9%A2%9C%E5%80%BC%E5%B1%80%E9%95%BF%E6%8B%9F%E4%BB%BB%E7%9C%81%E7%9B%B4%E7%AE%A1%E5%B8%82%E5%B8%82%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖南“小辣椒”已顺利抵达哈尔滨](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E2%80%9C%E5%B0%8F%E8%BE%A3%E6%A4%92%E2%80%9D%E5%B7%B2%E9%A1%BA%E5%88%A9%E6%8A%B5%E8%BE%BE%E5%93%88%E5%B0%94%E6%BB%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [巴中某市场惊现母猪肉？谣言](https://www.baidu.com/s?wd=%E5%B7%B4%E4%B8%AD%E6%9F%90%E5%B8%82%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%AF%8D%E7%8C%AA%E8%82%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
