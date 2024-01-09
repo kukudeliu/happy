@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 14:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 14:22:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [哈尔滨 烫碗](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%20%E7%83%AB%E7%A2%97&t=31&band_rank=5&Refer=top)<br />
 6. [长沙致54死自建房坍塌事故本有机会避免](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E8%87%B454%E6%AD%BB%E8%87%AA%E5%BB%BA%E6%88%BF%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%9C%AC%E6%9C%89%E6%9C%BA%E4%BC%9A%E9%81%BF%E5%85%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [哈工大你玩真的啊](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E4%BD%A0%E7%8E%A9%E7%9C%9F%E7%9A%84%E5%95%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘诗诗微博之夜收工想吃火锅](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%94%B6%E5%B7%A5%E6%83%B3%E5%90%83%E7%81%AB%E9%94%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [秦岚亲了迪丽热巴](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E4%BA%B2%E4%BA%86%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=9&Refer=top)<br />
+8. [秦岚亲了迪丽热巴](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E4%BA%B2%E4%BA%86%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [刘诗诗微博之夜收工想吃火锅](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%94%B6%E5%B7%A5%E6%83%B3%E5%90%83%E7%81%AB%E9%94%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
