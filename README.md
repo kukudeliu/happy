@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 10:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 10:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [年轻人报复性挤爆3.5分餐厅](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%8C%A4%E7%88%863.5%E5%88%86%E9%A4%90%E5%8E%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [掉河里的顶级翡翠找到了](https://s.weibo.com/weibo?q=%23%E6%8E%89%E6%B2%B3%E9%87%8C%E7%9A%84%E9%A1%B6%E7%BA%A7%E7%BF%A1%E7%BF%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [国安部推出特别版黑猫警长](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8E%A8%E5%87%BA%E7%89%B9%E5%88%AB%E7%89%88%E9%BB%91%E7%8C%AB%E8%AD%A6%E9%95%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [贝肯鲍尔去世](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E8%82%AF%E9%B2%8D%E5%B0%94%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [贾玲张小斐 我真的会谢](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%88%91%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%B0%A2&t=31&band_rank=9&Refer=top)<br />
+8. [已读瞎回](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E8%AF%BB%E7%9E%8E%E5%9B%9E%23&t=31&band_rank=8&Refer=top)<br />
+9. [贝肯鲍尔去世](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E8%82%AF%E9%B2%8D%E5%B0%94%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
