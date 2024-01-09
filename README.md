@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 23:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 23:04:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [早上宋慧乔 晚上宋小宝](https://s.weibo.com/weibo?q=%E6%97%A9%E4%B8%8A%E5%AE%8B%E6%85%A7%E4%B9%94%20%E6%99%9A%E4%B8%8A%E5%AE%8B%E5%B0%8F%E5%AE%9D&t=31&band_rank=4&Refer=top)<br />
 5. [从CCTV5到CCTV1](https://s.weibo.com/weibo?q=%E4%BB%8ECCTV5%E5%88%B0CCTV1&t=31&band_rank=5&Refer=top)<br />
 6. [繁花大结局](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [李铁两次带队进中超背后都是假球](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E4%B8%A4%E6%AC%A1%E5%B8%A6%E9%98%9F%E8%BF%9B%E4%B8%AD%E8%B6%85%E8%83%8C%E5%90%8E%E9%83%BD%E6%98%AF%E5%81%87%E7%90%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [田曦薇雪中撑伞](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E9%9B%AA%E4%B8%AD%E6%92%91%E4%BC%9E&t=31&band_rank=8&Refer=top)<br />
+7. [田曦薇雪中撑伞](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E9%9B%AA%E4%B8%AD%E6%92%91%E4%BC%9E&t=31&band_rank=7&Refer=top)<br />
+8. [李铁两次带队进中超背后都是假球](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E4%B8%A4%E6%AC%A1%E5%B8%A6%E9%98%9F%E8%BF%9B%E4%B8%AD%E8%B6%85%E8%83%8C%E5%90%8E%E9%83%BD%E6%98%AF%E5%81%87%E7%90%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [董宇辉新号首播带货超1亿元](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E6%96%B0%E5%8F%B7%E9%A6%96%E6%92%AD%E5%B8%A6%E8%B4%A7%E8%B6%851%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
