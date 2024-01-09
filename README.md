@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 17:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 17:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [微博之夜 豪门姐弟大赏](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E8%B1%AA%E9%97%A8%E5%A7%90%E5%BC%9F%E5%A4%A7%E8%B5%8F&t=31&band_rank=6&Refer=top)<br />
 7. [男子在日军731部队遗址前直播带货](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E5%86%9B731%E9%83%A8%E9%98%9F%E9%81%97%E5%9D%80%E5%89%8D%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [台媒曝炎亚纶出售千万豪宅](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%87%BA%E5%94%AE%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子为生二胎起诉白血病妻子寻求离婚](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E7%94%9F%E4%BA%8C%E8%83%8E%E8%B5%B7%E8%AF%89%E7%99%BD%E8%A1%80%E7%97%85%E5%A6%BB%E5%AD%90%E5%AF%BB%E6%B1%82%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [经纪人不让朱丹飙英文](https://s.weibo.com/weibo?q=%E7%BB%8F%E7%BA%AA%E4%BA%BA%E4%B8%8D%E8%AE%A9%E6%9C%B1%E4%B8%B9%E9%A3%99%E8%8B%B1%E6%96%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
