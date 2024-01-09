@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 21:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-09 21:37:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [中国经济2024火热开局](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E2024%E7%81%AB%E7%83%AD%E5%BC%80%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李铁花300万“上位”国足主教练](https://www.baidu.com/s?wd=%E6%9D%8E%E9%93%81%E8%8A%B1300%E4%B8%87%E2%80%9C%E4%B8%8A%E4%BD%8D%E2%80%9D%E5%9B%BD%E8%B6%B3%E4%B8%BB%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [丁俊晖近8年后单杆再破147](https://www.baidu.com/s?wd=%E4%B8%81%E4%BF%8A%E6%99%96%E8%BF%918%E5%B9%B4%E5%90%8E%E5%8D%95%E6%9D%86%E5%86%8D%E7%A0%B4147&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本新潟县中越地区发生6.0级地震](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%96%B0%E6%BD%9F%E5%8E%BF%E4%B8%AD%E8%B6%8A%E5%9C%B0%E5%8C%BA%E5%8F%91%E7%94%9F6.0%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南方的土豆可削皮大葱按根卖](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E7%9A%84%E5%9C%9F%E8%B1%86%E5%8F%AF%E5%89%8A%E7%9A%AE%E5%A4%A7%E8%91%B1%E6%8C%89%E6%A0%B9%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [A先生死前遗书曝光](https://www.baidu.com/s?wd=A%E5%85%88%E7%94%9F%E6%AD%BB%E5%89%8D%E9%81%97%E4%B9%A6%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高颜值局长拟任省直管市市长](https://www.baidu.com/s?wd=%E9%AB%98%E9%A2%9C%E5%80%BC%E5%B1%80%E9%95%BF%E6%8B%9F%E4%BB%BB%E7%9C%81%E7%9B%B4%E7%AE%A1%E5%B8%82%E5%B8%82%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [巴中某市场惊现母猪肉？谣言](https://www.baidu.com/s?wd=%E5%B7%B4%E4%B8%AD%E6%9F%90%E5%B8%82%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%AF%8D%E7%8C%AA%E8%82%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国经济2024火热开局](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E2024%E7%81%AB%E7%83%AD%E5%BC%80%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李铁花300万“上位”国足主教练](https://www.baidu.com/s?wd=%E6%9D%8E%E9%93%81%E8%8A%B1300%E4%B8%87%E2%80%9C%E4%B8%8A%E4%BD%8D%E2%80%9D%E5%9B%BD%E8%B6%B3%E4%B8%BB%E6%95%99%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [丁俊晖近8年后单杆再破147](https://www.baidu.com/s?wd=%E4%B8%81%E4%BF%8A%E6%99%96%E8%BF%918%E5%B9%B4%E5%90%8E%E5%8D%95%E6%9D%86%E5%86%8D%E7%A0%B4147&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日本新潟县中越地区发生6.0级地震](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%96%B0%E6%BD%9F%E5%8E%BF%E4%B8%AD%E8%B6%8A%E5%9C%B0%E5%8C%BA%E5%8F%91%E7%94%9F6.0%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南方的土豆可削皮大葱按根卖](https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E7%9A%84%E5%9C%9F%E8%B1%86%E5%8F%AF%E5%89%8A%E7%9A%AE%E5%A4%A7%E8%91%B1%E6%8C%89%E6%A0%B9%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [A先生死前遗书曝光](https://www.baidu.com/s?wd=A%E5%85%88%E7%94%9F%E6%AD%BB%E5%89%8D%E9%81%97%E4%B9%A6%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高颜值局长拟任省直管市市长](https://www.baidu.com/s?wd=%E9%AB%98%E9%A2%9C%E5%80%BC%E5%B1%80%E9%95%BF%E6%8B%9F%E4%BB%BB%E7%9C%81%E7%9B%B4%E7%AE%A1%E5%B8%82%E5%B8%82%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [巴中某市场惊现母猪肉？谣言](https://www.baidu.com/s?wd=%E5%B7%B4%E4%B8%AD%E6%9F%90%E5%B8%82%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%AF%8D%E7%8C%AA%E8%82%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
