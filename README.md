@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 20:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 20:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [朱珠这衣服换我穿就是红秋衣](https://s.weibo.com/weibo?q=%E6%9C%B1%E7%8F%A0%E8%BF%99%E8%A1%A3%E6%9C%8D%E6%8D%A2%E6%88%91%E7%A9%BF%E5%B0%B1%E6%98%AF%E7%BA%A2%E7%A7%8B%E8%A1%A3&t=31&band_rank=5&Refer=top)<br />
 6. [易烊千玺赵今麦 白夜行](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B5%B5%E4%BB%8A%E9%BA%A6%20%E7%99%BD%E5%A4%9C%E8%A1%8C&t=31&band_rank=6&Refer=top)<br />
 7. [肯德基回应吃出生肉](https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%9B%9E%E5%BA%94%E5%90%83%E5%87%BA%E7%94%9F%E8%82%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [特朗普岳母去世](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B2%B3%E6%AF%8D%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [何猷君不知道奚梦瑶支付密码](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E4%B8%8D%E7%9F%A5%E9%81%93%E5%A5%9A%E6%A2%A6%E7%91%B6%E6%94%AF%E4%BB%98%E5%AF%86%E7%A0%81%23&t=31&band_rank=9&Refer=top)<br />
+8. [何猷君不知道奚梦瑶支付密码](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E4%B8%8D%E7%9F%A5%E9%81%93%E5%A5%9A%E6%A2%A6%E7%91%B6%E6%94%AF%E4%BB%98%E5%AF%86%E7%A0%81%23&t=31&band_rank=8&Refer=top)<br />
+9. [特朗普岳母去世](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B2%B3%E6%AF%8D%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
