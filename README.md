@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 12:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王家卫 唐嫣就是汪小姐](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%20%E5%94%90%E5%AB%A3%E5%B0%B1%E6%98%AF%E6%B1%AA%E5%B0%8F%E5%A7%90&t=31&band_rank=6&Refer=top)<br />
 7. [李铁出圈以身说法 范志毅出圈演繁花](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%93%81%E5%87%BA%E5%9C%88%E4%BB%A5%E8%BA%AB%E8%AF%B4%E6%B3%95%20%E8%8C%83%E5%BF%97%E6%AF%85%E5%87%BA%E5%9C%88%E6%BC%94%E7%B9%81%E8%8A%B1&t=31&band_rank=7&Refer=top)<br />
 8. [救护车被私家车堵住患者经抢救无效死亡](https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E7%A7%81%E5%AE%B6%E8%BD%A6%E5%A0%B5%E4%BD%8F%E6%82%A3%E8%80%85%E7%BB%8F%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [飞驰人生2定档](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F2%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [7年恋爱被劝分情侣后续](https://s.weibo.com/weibo?q=7%E5%B9%B4%E6%81%8B%E7%88%B1%E8%A2%AB%E5%8A%9D%E5%88%86%E6%83%85%E4%BE%A3%E5%90%8E%E7%BB%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
