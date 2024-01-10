@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 23:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 23:31:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [守护平安](https://www.baidu.com/s?wd=%E5%AE%88%E6%8A%A4%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [彭国甫被查 曾要求彻查操场埋尸案](https://www.baidu.com/s?wd=%E5%BD%AD%E5%9B%BD%E7%94%AB%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E8%A6%81%E6%B1%82%E5%BD%BB%E6%9F%A5%E6%93%8D%E5%9C%BA%E5%9F%8B%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [与周鸿祎互怼的主持人程前道歉](https://www.baidu.com/s?wd=%E4%B8%8E%E5%91%A8%E9%B8%BF%E7%A5%8E%E4%BA%92%E6%80%BC%E7%9A%84%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%A8%8B%E5%89%8D%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [返乡过年要报备?媒体:警惕随意管控](https://www.baidu.com/s?wd=%E8%BF%94%E4%B9%A1%E8%BF%87%E5%B9%B4%E8%A6%81%E6%8A%A5%E5%A4%87%3F%E5%AA%92%E4%BD%93%3A%E8%AD%A6%E6%83%95%E9%9A%8F%E6%84%8F%E7%AE%A1%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [辛芷蕾红毯被夸繁花演得太好了](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%BA%A2%E6%AF%AF%E8%A2%AB%E5%A4%B8%E7%B9%81%E8%8A%B1%E6%BC%94%E5%BE%97%E5%A4%AA%E5%A5%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [辛芷蕾红毯被夸繁花演得太好了](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%BA%A2%E6%AF%AF%E8%A2%AB%E5%A4%B8%E7%B9%81%E8%8A%B1%E6%BC%94%E5%BE%97%E5%A4%AA%E5%A5%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴以冲突已致4000多名学生遇难](https://www.baidu.com/s?wd=%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B44000%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [内蒙一单位现20多名艾滋感染者？](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%B8%80%E5%8D%95%E4%BD%8D%E7%8E%B020%E5%A4%9A%E5%90%8D%E8%89%BE%E6%BB%8B%E6%84%9F%E6%9F%93%E8%80%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [守护平安](https://www.baidu.com/s?wd=%E5%AE%88%E6%8A%A4%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [彭国甫被查 曾要求彻查操场埋尸案](https://www.baidu.com/s?wd=%E5%BD%AD%E5%9B%BD%E7%94%AB%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E8%A6%81%E6%B1%82%E5%BD%BB%E6%9F%A5%E6%93%8D%E5%9C%BA%E5%9F%8B%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [与周鸿祎互怼的主持人程前道歉](https://www.baidu.com/s?wd=%E4%B8%8E%E5%91%A8%E9%B8%BF%E7%A5%8E%E4%BA%92%E6%80%BC%E7%9A%84%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%A8%8B%E5%89%8D%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [返乡过年要报备?媒体:警惕随意管控](https://www.baidu.com/s?wd=%E8%BF%94%E4%B9%A1%E8%BF%87%E5%B9%B4%E8%A6%81%E6%8A%A5%E5%A4%87%3F%E5%AA%92%E4%BD%93%3A%E8%AD%A6%E6%83%95%E9%9A%8F%E6%84%8F%E7%AE%A1%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [辛芷蕾红毯被夸繁花演得太好了](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%BA%A2%E6%AF%AF%E8%A2%AB%E5%A4%B8%E7%B9%81%E8%8A%B1%E6%BC%94%E5%BE%97%E5%A4%AA%E5%A5%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [辛芷蕾红毯被夸繁花演得太好了](https://www.baidu.com/s?wd=%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%BA%A2%E6%AF%AF%E8%A2%AB%E5%A4%B8%E7%B9%81%E8%8A%B1%E6%BC%94%E5%BE%97%E5%A4%AA%E5%A5%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴以冲突已致4000多名学生遇难](https://www.baidu.com/s?wd=%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B44000%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [内蒙一单位现20多名艾滋感染者？](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%B8%80%E5%8D%95%E4%BD%8D%E7%8E%B020%E5%A4%9A%E5%90%8D%E8%89%BE%E6%BB%8B%E6%84%9F%E6%9F%93%E8%80%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
