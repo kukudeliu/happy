@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 10:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 10:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [7年恋爱被劝分情侣后续](https://s.weibo.com/weibo?q=7%E5%B9%B4%E6%81%8B%E7%88%B1%E8%A2%AB%E5%8A%9D%E5%88%86%E6%83%85%E4%BE%A3%E5%90%8E%E7%BB%AD&t=31&band_rank=6&Refer=top)<br />
 7. [台湾小当归哈尔滨街边被疯狂投喂](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%B0%8F%E5%BD%93%E5%BD%92%E5%93%88%E5%B0%94%E6%BB%A8%E8%A1%97%E8%BE%B9%E8%A2%AB%E7%96%AF%E7%8B%82%E6%8A%95%E5%96%82%23&t=31&band_rank=7&Refer=top)<br />
 8. [厄瓜多尔宣布进入紧急状态](https://s.weibo.com/weibo?q=%23%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [朱丹咬过的肉给周一围吃](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E5%92%AC%E8%BF%87%E7%9A%84%E8%82%89%E7%BB%99%E5%91%A8%E4%B8%80%E5%9B%B4%E5%90%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [辛芷蕾工作室 认真营业](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E8%AE%A4%E7%9C%9F%E8%90%A5%E4%B8%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
