@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 15:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 15:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [退钱哥 那些年的眼泪白流](https://s.weibo.com/weibo?q=%E9%80%80%E9%92%B1%E5%93%A5%20%E9%82%A3%E4%BA%9B%E5%B9%B4%E7%9A%84%E7%9C%BC%E6%B3%AA%E7%99%BD%E6%B5%81&t=31&band_rank=6&Refer=top)<br />
 7. [大胖媳妇把老丈人一吻跨年](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%83%96%E5%AA%B3%E5%A6%87%E6%8A%8A%E8%80%81%E4%B8%88%E4%BA%BA%E4%B8%80%E5%90%BB%E8%B7%A8%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
 8. [张琳](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%90%B3&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴竞品](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%AB%9E%E5%93%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [HYBS解散](https://s.weibo.com/weibo?q=%23HYBS%E8%A7%A3%E6%95%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
