@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 13:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 13:35:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [明年起连续5年没有年三十](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E8%B5%B7%E8%BF%9E%E7%BB%AD5%E5%B9%B4%E6%B2%A1%E6%9C%89%E5%B9%B4%E4%B8%89%E5%8D%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [王家卫 唐嫣就是汪小姐](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%20%E5%94%90%E5%AB%A3%E5%B0%B1%E6%98%AF%E6%B1%AA%E5%B0%8F%E5%A7%90&t=31&band_rank=7&Refer=top)<br />
 8. [男孩捡到价值三万元钻戒后被父母扔掉](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%8D%A1%E5%88%B0%E4%BB%B7%E5%80%BC%E4%B8%89%E4%B8%87%E5%85%83%E9%92%BB%E6%88%92%E5%90%8E%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%89%94%E6%8E%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [法国最年轻总理上任](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%9C%80%E5%B9%B4%E8%BD%BB%E6%80%BB%E7%90%86%E4%B8%8A%E4%BB%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴的冰岛穿搭](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E5%86%B0%E5%B2%9B%E7%A9%BF%E6%90%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
