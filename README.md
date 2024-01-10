@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 20:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 20:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [特朗普岳母去世](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B2%B3%E6%AF%8D%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [23岁男子长期高盐饮食血压成极高危型](https://s.weibo.com/weibo?q=%2323%E5%B2%81%E7%94%B7%E5%AD%90%E9%95%BF%E6%9C%9F%E9%AB%98%E7%9B%90%E9%A5%AE%E9%A3%9F%E8%A1%80%E5%8E%8B%E6%88%90%E6%9E%81%E9%AB%98%E5%8D%B1%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [万茜长发](https://s.weibo.com/weibo?q=%E4%B8%87%E8%8C%9C%E9%95%BF%E5%8F%91&t=31&band_rank=8&Refer=top)<br />
-9. [肯德基回应吃出生肉](https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%9B%9E%E5%BA%94%E5%90%83%E5%87%BA%E7%94%9F%E8%82%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [孙俪状态](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%E7%8A%B6%E6%80%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
