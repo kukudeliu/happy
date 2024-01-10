@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 16:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 16:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [央视曝李铁案关系网](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%9D%8E%E9%93%81%E6%A1%88%E5%85%B3%E7%B3%BB%E7%BD%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [微博之夜最新官宣](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%9C%80%E6%96%B0%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [12306推出学生务工人员春运专区](https://s.weibo.com/weibo?q=%2312306%E6%8E%A8%E5%87%BA%E5%AD%A6%E7%94%9F%E5%8A%A1%E5%B7%A5%E4%BA%BA%E5%91%98%E6%98%A5%E8%BF%90%E4%B8%93%E5%8C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [朱丹不去港媒上班可惜了](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%B9%E4%B8%8D%E5%8E%BB%E6%B8%AF%E5%AA%92%E4%B8%8A%E7%8F%AD%E5%8F%AF%E6%83%9C%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [谁领到了中国第一张身份证](https://s.weibo.com/weibo?q=%23%E8%B0%81%E9%A2%86%E5%88%B0%E4%BA%86%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%BC%A0%E8%BA%AB%E4%BB%BD%E8%AF%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
