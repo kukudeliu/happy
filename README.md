@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 11:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 11:25:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [7年恋爱被劝分情侣后续](https://s.weibo.com/weibo?q=7%E5%B9%B4%E6%81%8B%E7%88%B1%E8%A2%AB%E5%8A%9D%E5%88%86%E6%83%85%E4%BE%A3%E5%90%8E%E7%BB%AD&t=31&band_rank=6&Refer=top)<br />
 7. [飞驰人生2定档](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F2%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [厄瓜多尔宣布进入紧急状态](https://s.weibo.com/weibo?q=%23%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [台湾小当归哈尔滨街边被疯狂投喂](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%B0%8F%E5%BD%93%E5%BD%92%E5%93%88%E5%B0%94%E6%BB%A8%E8%A1%97%E8%BE%B9%E8%A2%AB%E7%96%AF%E7%8B%82%E6%8A%95%E5%96%82%23&t=31&band_rank=9&Refer=top)<br />
+9. [王一博官宣街舞6总决赛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AE%98%E5%AE%A3%E8%A1%97%E8%88%9E6%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
