@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 14:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 14:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李铁收千万保送的4名球员是谁](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E6%94%B6%E5%8D%83%E4%B8%87%E4%BF%9D%E9%80%81%E7%9A%844%E5%90%8D%E7%90%83%E5%91%98%E6%98%AF%E8%B0%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [李李原型剃度出家又还俗](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%9D%8E%E5%8E%9F%E5%9E%8B%E5%89%83%E5%BA%A6%E5%87%BA%E5%AE%B6%E5%8F%88%E8%BF%98%E4%BF%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [央视连播三部谭松韵主演剧](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%BF%9E%E6%92%AD%E4%B8%89%E9%83%A8%E8%B0%AD%E6%9D%BE%E9%9F%B5%E4%B8%BB%E6%BC%94%E5%89%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [男孩捡到价值三万元钻戒后被父母扔掉](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%8D%A1%E5%88%B0%E4%BB%B7%E5%80%BC%E4%B8%89%E4%B8%87%E5%85%83%E9%92%BB%E6%88%92%E5%90%8E%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%89%94%E6%8E%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [21岁中国芭蕾女演员在德失联5天](https://s.weibo.com/weibo?q=%2321%E5%B2%81%E4%B8%AD%E5%9B%BD%E8%8A%AD%E8%95%BE%E5%A5%B3%E6%BC%94%E5%91%98%E5%9C%A8%E5%BE%B7%E5%A4%B1%E8%81%945%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
