@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 11:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 11:54:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [董宇辉新账号带货排名超东方甄选](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E6%96%B0%E8%B4%A6%E5%8F%B7%E5%B8%A6%E8%B4%A7%E6%8E%92%E5%90%8D%E8%B6%85%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子带12瓶茅台让摊主灌107斤香肠](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A612%E7%93%B6%E8%8C%85%E5%8F%B0%E8%AE%A9%E6%91%8A%E4%B8%BB%E7%81%8C107%E6%96%A4%E9%A6%99%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [连吃10个柿饼男子差点肠穿孔](https://www.baidu.com/s?wd=%E8%BF%9E%E5%90%8310%E4%B8%AA%E6%9F%BF%E9%A5%BC%E7%94%B7%E5%AD%90%E5%B7%AE%E7%82%B9%E8%82%A0%E7%A9%BF%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [法国34岁最年轻总理上任](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD34%E5%B2%81%E6%9C%80%E5%B9%B4%E8%BD%BB%E6%80%BB%E7%90%86%E4%B8%8A%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [巴中某市场惊现母猪肉？谣言](https://www.baidu.com/s?wd=%E5%B7%B4%E4%B8%AD%E6%9F%90%E5%B8%82%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%AF%8D%E7%8C%AA%E8%82%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [月入2万5的瓦工你愿意做吗](https://www.baidu.com/s?wd=%E6%9C%88%E5%85%A52%E4%B8%875%E7%9A%84%E7%93%A6%E5%B7%A5%E4%BD%A0%E6%84%BF%E6%84%8F%E5%81%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [繁花地标Citywalk收费520元？](https://www.baidu.com/s?wd=%E7%B9%81%E8%8A%B1%E5%9C%B0%E6%A0%87Citywalk%E6%94%B6%E8%B4%B9520%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [董宇辉新账号带货排名超东方甄选](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E6%96%B0%E8%B4%A6%E5%8F%B7%E5%B8%A6%E8%B4%A7%E6%8E%92%E5%90%8D%E8%B6%85%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子带12瓶茅台让摊主灌107斤香肠](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A612%E7%93%B6%E8%8C%85%E5%8F%B0%E8%AE%A9%E6%91%8A%E4%B8%BB%E7%81%8C107%E6%96%A4%E9%A6%99%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [连吃10个柿饼男子差点肠穿孔](https://www.baidu.com/s?wd=%E8%BF%9E%E5%90%8310%E4%B8%AA%E6%9F%BF%E9%A5%BC%E7%94%B7%E5%AD%90%E5%B7%AE%E7%82%B9%E8%82%A0%E7%A9%BF%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [法国34岁最年轻总理上任](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD34%E5%B2%81%E6%9C%80%E5%B9%B4%E8%BD%BB%E6%80%BB%E7%90%86%E4%B8%8A%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [巴中某市场惊现母猪肉？谣言](https://www.baidu.com/s?wd=%E5%B7%B4%E4%B8%AD%E6%9F%90%E5%B8%82%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%AF%8D%E7%8C%AA%E8%82%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [月入2万5的瓦工你愿意做吗](https://www.baidu.com/s?wd=%E6%9C%88%E5%85%A52%E4%B8%875%E7%9A%84%E7%93%A6%E5%B7%A5%E4%BD%A0%E6%84%BF%E6%84%8F%E5%81%9A%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [繁花地标Citywalk收费520元？](https://www.baidu.com/s?wd=%E7%B9%81%E8%8A%B1%E5%9C%B0%E6%A0%87Citywalk%E6%94%B6%E8%B4%B9520%E5%85%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
