@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 02:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 02:29:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [男子为证明车有问题花20万购同款车](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%AF%81%E6%98%8E%E8%BD%A6%E6%9C%89%E9%97%AE%E9%A2%98%E8%8A%B120%E4%B8%87%E8%B4%AD%E5%90%8C%E6%AC%BE%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [守护平安](https://www.baidu.com/s?wd=%E5%AE%88%E6%8A%A4%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [彭国甫被查 曾要求彻查操场埋尸案](https://www.baidu.com/s?wd=%E5%BD%AD%E5%9B%BD%E7%94%AB%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E8%A6%81%E6%B1%82%E5%BD%BB%E6%9F%A5%E6%93%8D%E5%9C%BA%E5%9F%8B%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [湖南一小镇街道垃圾成堆无人清理](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%B0%8F%E9%95%87%E8%A1%97%E9%81%93%E5%9E%83%E5%9C%BE%E6%88%90%E5%A0%86%E6%97%A0%E4%BA%BA%E6%B8%85%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [沃尔玛发布最新AI技术产品](https://www.baidu.com/s?wd=%E6%B2%83%E5%B0%94%E7%8E%9B%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0AI%E6%8A%80%E6%9C%AF%E4%BA%A7%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [父母扔掉孩子捡的钻戒遭失主索赔](https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E6%89%94%E6%8E%89%E5%AD%A9%E5%AD%90%E6%8D%A1%E7%9A%84%E9%92%BB%E6%88%92%E9%81%AD%E5%A4%B1%E4%B8%BB%E7%B4%A2%E8%B5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“冻梨蛋糕”横空出世](https://www.baidu.com/s?wd=%E2%80%9C%E5%86%BB%E6%A2%A8%E8%9B%8B%E7%B3%95%E2%80%9D%E6%A8%AA%E7%A9%BA%E5%87%BA%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [内蒙一单位现20多名艾滋感染者？](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%B8%80%E5%8D%95%E4%BD%8D%E7%8E%B020%E5%A4%9A%E5%90%8D%E8%89%BE%E6%BB%8B%E6%84%9F%E6%9F%93%E8%80%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [男子为证明车有问题花20万购同款车](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%AF%81%E6%98%8E%E8%BD%A6%E6%9C%89%E9%97%AE%E9%A2%98%E8%8A%B120%E4%B8%87%E8%B4%AD%E5%90%8C%E6%AC%BE%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [守护平安](https://www.baidu.com/s?wd=%E5%AE%88%E6%8A%A4%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [彭国甫被查 曾要求彻查操场埋尸案](https://www.baidu.com/s?wd=%E5%BD%AD%E5%9B%BD%E7%94%AB%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E8%A6%81%E6%B1%82%E5%BD%BB%E6%9F%A5%E6%93%8D%E5%9C%BA%E5%9F%8B%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [湖南一小镇街道垃圾成堆无人清理](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%B0%8F%E9%95%87%E8%A1%97%E9%81%93%E5%9E%83%E5%9C%BE%E6%88%90%E5%A0%86%E6%97%A0%E4%BA%BA%E6%B8%85%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [沃尔玛发布最新AI技术产品](https://www.baidu.com/s?wd=%E6%B2%83%E5%B0%94%E7%8E%9B%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0AI%E6%8A%80%E6%9C%AF%E4%BA%A7%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [父母扔掉孩子捡的钻戒遭失主索赔](https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E6%89%94%E6%8E%89%E5%AD%A9%E5%AD%90%E6%8D%A1%E7%9A%84%E9%92%BB%E6%88%92%E9%81%AD%E5%A4%B1%E4%B8%BB%E7%B4%A2%E8%B5%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“冻梨蛋糕”横空出世](https://www.baidu.com/s?wd=%E2%80%9C%E5%86%BB%E6%A2%A8%E8%9B%8B%E7%B3%95%E2%80%9D%E6%A8%AA%E7%A9%BA%E5%87%BA%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [内蒙一单位现20多名艾滋感染者？](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%B8%80%E5%8D%95%E4%BD%8D%E7%8E%B020%E5%A4%9A%E5%90%8D%E8%89%BE%E6%BB%8B%E6%84%9F%E6%9F%93%E8%80%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
