@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 23:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 23:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [彭国甫被查 曾要求彻查操场埋尸案](https://www.baidu.com/s?wd=%E5%BD%AD%E5%9B%BD%E7%94%AB%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E8%A6%81%E6%B1%82%E5%BD%BB%E6%9F%A5%E6%93%8D%E5%9C%BA%E5%9F%8B%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李铁被查签字用的是什么笔](https://www.baidu.com/s?wd=%E6%9D%8E%E9%93%81%E8%A2%AB%E6%9F%A5%E7%AD%BE%E5%AD%97%E7%94%A8%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E7%AC%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [与周鸿祎互怼的主持人程前道歉](https://www.baidu.com/s?wd=%E4%B8%8E%E5%91%A8%E9%B8%BF%E7%A5%8E%E4%BA%92%E6%80%BC%E7%9A%84%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%A8%8B%E5%89%8D%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [武汉卓尔4名国脚均自由身离队](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%8D%93%E5%B0%944%E5%90%8D%E5%9B%BD%E8%84%9A%E5%9D%87%E8%87%AA%E7%94%B1%E8%BA%AB%E7%A6%BB%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡锡进：李铁等涉案人蠢得可怜](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%9D%8E%E9%93%81%E7%AD%89%E6%B6%89%E6%A1%88%E4%BA%BA%E8%A0%A2%E5%BE%97%E5%8F%AF%E6%80%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [内蒙一单位现20多名艾滋感染者？](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%B8%80%E5%8D%95%E4%BD%8D%E7%8E%B020%E5%A4%9A%E5%90%8D%E8%89%BE%E6%BB%8B%E6%84%9F%E6%9F%93%E8%80%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [彭国甫被查 曾要求彻查操场埋尸案](https://www.baidu.com/s?wd=%E5%BD%AD%E5%9B%BD%E7%94%AB%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E8%A6%81%E6%B1%82%E5%BD%BB%E6%9F%A5%E6%93%8D%E5%9C%BA%E5%9F%8B%E5%B0%B8%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李铁被查签字用的是什么笔](https://www.baidu.com/s?wd=%E6%9D%8E%E9%93%81%E8%A2%AB%E6%9F%A5%E7%AD%BE%E5%AD%97%E7%94%A8%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E7%AC%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [与周鸿祎互怼的主持人程前道歉](https://www.baidu.com/s?wd=%E4%B8%8E%E5%91%A8%E9%B8%BF%E7%A5%8E%E4%BA%92%E6%80%BC%E7%9A%84%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%A8%8B%E5%89%8D%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [武汉卓尔4名国脚均自由身离队](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%8D%93%E5%B0%944%E5%90%8D%E5%9B%BD%E8%84%9A%E5%9D%87%E8%87%AA%E7%94%B1%E8%BA%AB%E7%A6%BB%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡锡进：李铁等涉案人蠢得可怜](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%9D%8E%E9%93%81%E7%AD%89%E6%B6%89%E6%A1%88%E4%BA%BA%E8%A0%A2%E5%BE%97%E5%8F%AF%E6%80%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [内蒙一单位现20多名艾滋感染者？](https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E4%B8%80%E5%8D%95%E4%BD%8D%E7%8E%B020%E5%A4%9A%E5%90%8D%E8%89%BE%E6%BB%8B%E6%84%9F%E6%9F%93%E8%80%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
