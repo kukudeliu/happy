@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 23:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 23:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [唐嫣哭肿了](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E5%93%AD%E8%82%BF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [程前发博致歉](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%89%8D%E5%8F%91%E5%8D%9A%E8%87%B4%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [易烊千玺赵今麦 白夜行](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B5%B5%E4%BB%8A%E9%BA%A6%20%E7%99%BD%E5%A4%9C%E8%A1%8C&t=31&band_rank=8&Refer=top)<br />
-9. [马龙王楚钦3比1法尔克卡尔森](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%941%E6%B3%95%E5%B0%94%E5%85%8B%E5%8D%A1%E5%B0%94%E6%A3%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [儿媳称拥有世界最好婆婆不接受反驳](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AA%B3%E7%A7%B0%E6%8B%A5%E6%9C%89%E4%B8%96%E7%95%8C%E6%9C%80%E5%A5%BD%E5%A9%86%E5%A9%86%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%8F%8D%E9%A9%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
