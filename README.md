@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 18:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 18:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵昭仪去泰国了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E5%8E%BB%E6%B3%B0%E5%9B%BD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [排爆警排爆前先与战友合张影](https://s.weibo.com/weibo?q=%23%E6%8E%92%E7%88%86%E8%AD%A6%E6%8E%92%E7%88%86%E5%89%8D%E5%85%88%E4%B8%8E%E6%88%98%E5%8F%8B%E5%90%88%E5%BC%A0%E5%BD%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [央视评繁花可能成为孤品](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E7%B9%81%E8%8A%B1%E5%8F%AF%E8%83%BD%E6%88%90%E4%B8%BA%E5%AD%A4%E5%93%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [董宇辉还是想不通为啥被喜欢](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E8%BF%98%E6%98%AF%E6%83%B3%E4%B8%8D%E9%80%9A%E4%B8%BA%E5%95%A5%E8%A2%AB%E5%96%9C%E6%AC%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [易烊千玺赵今麦 白夜行](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B5%B5%E4%BB%8A%E9%BA%A6%20%E7%99%BD%E5%A4%9C%E8%A1%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
