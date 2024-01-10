@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 01:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 01:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [程前发博致歉](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%89%8D%E5%8F%91%E5%8D%9A%E8%87%B4%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [被萌兰33码小jiojio呼脸上了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%90%8C%E5%85%B033%E7%A0%81%E5%B0%8Fjiojio%E5%91%BC%E8%84%B8%E4%B8%8A%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [央视评繁花可能成为孤品](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E7%B9%81%E8%8A%B1%E5%8F%AF%E8%83%BD%E6%88%90%E4%B8%BA%E5%AD%A4%E5%93%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [王心凌终于从台北唱到了东北](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E7%BB%88%E4%BA%8E%E4%BB%8E%E5%8F%B0%E5%8C%97%E5%94%B1%E5%88%B0%E4%BA%86%E4%B8%9C%E5%8C%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [唐嫣哭肿了](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E5%93%AD%E8%82%BF%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
