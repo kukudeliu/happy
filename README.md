@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 17:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-10 17:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [代入一下秦岚真的要心梗了](https://s.weibo.com/weibo?q=%E4%BB%A3%E5%85%A5%E4%B8%80%E4%B8%8B%E7%A7%A6%E5%B2%9A%E7%9C%9F%E7%9A%84%E8%A6%81%E5%BF%83%E6%A2%97%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [女主表白 男主去拉肚子了](https://s.weibo.com/weibo?q=%E5%A5%B3%E4%B8%BB%E8%A1%A8%E7%99%BD%20%E7%94%B7%E4%B8%BB%E5%8E%BB%E6%8B%89%E8%82%9A%E5%AD%90%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [12306推出学生务工人员春运专区](https://s.weibo.com/weibo?q=%2312306%E6%8E%A8%E5%87%BA%E5%AD%A6%E7%94%9F%E5%8A%A1%E5%B7%A5%E4%BA%BA%E5%91%98%E6%98%A5%E8%BF%90%E4%B8%93%E5%8C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑恺 和汪小姐怎么不算HE](https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%20%E5%92%8C%E6%B1%AA%E5%B0%8F%E5%A7%90%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AE%97HE&t=31&band_rank=9&Refer=top)<br />
+9. [江苏警方通报2死凶杀案](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A52%E6%AD%BB%E5%87%B6%E6%9D%80%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
