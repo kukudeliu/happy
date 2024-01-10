@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 07:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 07:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [程前发博致歉](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%89%8D%E5%8F%91%E5%8D%9A%E8%87%B4%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [蒙牛客服回应袋装奶包装南北差异](https://s.weibo.com/weibo?q=%23%E8%92%99%E7%89%9B%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%A2%8B%E8%A3%85%E5%A5%B6%E5%8C%85%E8%A3%85%E5%8D%97%E5%8C%97%E5%B7%AE%E5%BC%82%23&t=31&band_rank=7&Refer=top)<br />
 8. [在德失联中国芭蕾女舞者已找到](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%BE%B7%E5%A4%B1%E8%81%94%E4%B8%AD%E5%9B%BD%E8%8A%AD%E8%95%BE%E5%A5%B3%E8%88%9E%E8%80%85%E5%B7%B2%E6%89%BE%E5%88%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [被萌兰33码小jiojio呼脸上了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%90%8C%E5%85%B033%E7%A0%81%E5%B0%8Fjiojio%E5%91%BC%E8%84%B8%E4%B8%8A%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [还好是他们七个人](https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%A5%BD%E6%98%AF%E4%BB%96%E4%BB%AC%E4%B8%83%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
