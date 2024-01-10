@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 07:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 07:51:01</h4></div>
 
 > 微博  
 
-1. [25岁姑娘体检发现结节无症状确诊肺癌](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A7%91%E5%A8%98%E4%BD%93%E6%A3%80%E5%8F%91%E7%8E%B0%E7%BB%93%E8%8A%82%E6%97%A0%E7%97%87%E7%8A%B6%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%23&t=31&band_rank=1&Refer=top)<br />
-2. [为啥网上的药比实体药店更便宜](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E7%BD%91%E4%B8%8A%E7%9A%84%E8%8D%AF%E6%AF%94%E5%AE%9E%E4%BD%93%E8%8D%AF%E5%BA%97%E6%9B%B4%E4%BE%BF%E5%AE%9C%23&t=31&band_rank=2&Refer=top)<br />
+1. [为啥网上的药比实体药店更便宜](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E7%BD%91%E4%B8%8A%E7%9A%84%E8%8D%AF%E6%AF%94%E5%AE%9E%E4%BD%93%E8%8D%AF%E5%BA%97%E6%9B%B4%E4%BE%BF%E5%AE%9C%23&t=31&band_rank=1&Refer=top)<br />
+2. [25岁姑娘体检发现结节无症状确诊肺癌](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A7%91%E5%A8%98%E4%BD%93%E6%A3%80%E5%8F%91%E7%8E%B0%E7%BB%93%E8%8A%82%E6%97%A0%E7%97%87%E7%8A%B6%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [这或许是对110最走心的定义](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%88%96%E8%AE%B8%E6%98%AF%E5%AF%B9110%E6%9C%80%E8%B5%B0%E5%BF%83%E7%9A%84%E5%AE%9A%E4%B9%89%23&t=31&band_rank=3&Refer=top)<br />
 4. [47岁男子没要到3000元生活费纵火烧家](https://s.weibo.com/weibo?q=%2347%E5%B2%81%E7%94%B7%E5%AD%90%E6%B2%A1%E8%A6%81%E5%88%B03000%E5%85%83%E7%94%9F%E6%B4%BB%E8%B4%B9%E7%BA%B5%E7%81%AB%E7%83%A7%E5%AE%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [还好是他们七个人](https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%A5%BD%E6%98%AF%E4%BB%96%E4%BB%AC%E4%B8%83%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
