@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 20:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 20:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [地震云](https://s.weibo.com/weibo?q=%E5%9C%B0%E9%9C%87%E4%BA%91&t=31&band_rank=6&Refer=top)<br />
 7. [尔滨中央大街鸽子被游客喂成鸽猪](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E4%B8%AD%E5%A4%AE%E5%A4%A7%E8%A1%97%E9%B8%BD%E5%AD%90%E8%A2%AB%E6%B8%B8%E5%AE%A2%E5%96%82%E6%88%90%E9%B8%BD%E7%8C%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [9岁男孩失联6天在排水涵洞被找到](https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E5%A4%B1%E8%81%946%E5%A4%A9%E5%9C%A8%E6%8E%92%E6%B0%B4%E6%B6%B5%E6%B4%9E%E8%A2%AB%E6%89%BE%E5%88%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [原来孙悟空是抽烟的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%AD%99%E6%82%9F%E7%A9%BA%E6%98%AF%E6%8A%BD%E7%83%9F%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+9. [我们失去了半个贾玲](https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E5%A4%B1%E5%8E%BB%E4%BA%86%E5%8D%8A%E4%B8%AA%E8%B4%BE%E7%8E%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
