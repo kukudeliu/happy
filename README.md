@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 03:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 03:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [俞敏洪用董宇辉完成了去董化](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%94%A8%E8%91%A3%E5%AE%87%E8%BE%89%E5%AE%8C%E6%88%90%E4%BA%86%E5%8E%BB%E8%91%A3%E5%8C%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [全球第一大癌症为何盯上年轻人](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%99%8C%E7%97%87%E4%B8%BA%E4%BD%95%E7%9B%AF%E4%B8%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [梨形身材是最健康身材](https://s.weibo.com/weibo?q=%23%E6%A2%A8%E5%BD%A2%E8%BA%AB%E6%9D%90%E6%98%AF%E6%9C%80%E5%81%A5%E5%BA%B7%E8%BA%AB%E6%9D%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [YG官网删除BLACKPINK个人介绍页面](https://s.weibo.com/weibo?q=%23YG%E5%AE%98%E7%BD%91%E5%88%A0%E9%99%A4BLACKPINK%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%E9%A1%B5%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [95后女孩用700天逆袭成普通人](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E5%AD%A9%E7%94%A8700%E5%A4%A9%E9%80%86%E8%A2%AD%E6%88%90%E6%99%AE%E9%80%9A%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [95后女孩用700天逆袭成普通人](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E5%AD%A9%E7%94%A8700%E5%A4%A9%E9%80%86%E8%A2%AD%E6%88%90%E6%99%AE%E9%80%9A%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [YG官网删除BLACKPINK个人介绍页面](https://s.weibo.com/weibo?q=%23YG%E5%AE%98%E7%BD%91%E5%88%A0%E9%99%A4BLACKPINK%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%E9%A1%B5%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
