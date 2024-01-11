@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 15:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 15:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴官宣微博之夜](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%AE%98%E5%AE%A3%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&t=31&band_rank=6&Refer=top)<br />
 7. [青春痘疫苗或将面世](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E7%97%98%E7%96%AB%E8%8B%97%E6%88%96%E5%B0%86%E9%9D%A2%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [肖战去微博之夜](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8E%BB%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [不出道就得回清华读研](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%87%BA%E9%81%93%E5%B0%B1%E5%BE%97%E5%9B%9E%E6%B8%85%E5%8D%8E%E8%AF%BB%E7%A0%94&t=31&band_rank=9&Refer=top)<br />
+9. [梅西卖酒](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%8D%96%E9%85%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
