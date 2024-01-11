@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 13:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 13:07:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [不出道就得回清华读研](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%87%BA%E9%81%93%E5%B0%B1%E5%BE%97%E5%9B%9E%E6%B8%85%E5%8D%8E%E8%AF%BB%E7%A0%94&t=31&band_rank=4&Refer=top)<br />
 5. [热辣滚烫阵容](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E9%98%B5%E5%AE%B9&t=31&band_rank=5&Refer=top)<br />
 6. [微博之夜嘉宾emoji](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%98%89%E5%AE%BEemoji&t=31&band_rank=6&Refer=top)<br />
-7. [8岁男孩喜提152平婚房和三层小洋房](https://s.weibo.com/weibo?q=%238%E5%B2%81%E7%94%B7%E5%AD%A9%E5%96%9C%E6%8F%90152%E5%B9%B3%E5%A9%9A%E6%88%BF%E5%92%8C%E4%B8%89%E5%B1%82%E5%B0%8F%E6%B4%8B%E6%88%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [00后网文作家被曝年入百万](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%BD%91%E6%96%87%E4%BD%9C%E5%AE%B6%E8%A2%AB%E6%9B%9D%E5%B9%B4%E5%85%A5%E7%99%BE%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [IU染粉发](https://s.weibo.com/weibo?q=%23IU%E6%9F%93%E7%B2%89%E5%8F%91%23&t=31&band_rank=9&Refer=top)<br />
+7. [IU染粉发](https://s.weibo.com/weibo?q=%23IU%E6%9F%93%E7%B2%89%E5%8F%91%23&t=31&band_rank=7&Refer=top)<br />
+8. [8岁男孩喜提152平婚房和三层小洋房](https://s.weibo.com/weibo?q=%238%E5%B2%81%E7%94%B7%E5%AD%A9%E5%96%9C%E6%8F%90152%E5%B9%B3%E5%A9%9A%E6%88%BF%E5%92%8C%E4%B8%89%E5%B1%82%E5%B0%8F%E6%B4%8B%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [00后网文作家被曝年入百万](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%BD%91%E6%96%87%E4%BD%9C%E5%AE%B6%E8%A2%AB%E6%9B%9D%E5%B9%B4%E5%85%A5%E7%99%BE%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
