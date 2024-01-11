@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 21:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 21:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [papi酱 永远不知道同事到底叫什么](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E6%B0%B8%E8%BF%9C%E4%B8%8D%E7%9F%A5%E9%81%93%E5%90%8C%E4%BA%8B%E5%88%B0%E5%BA%95%E5%8F%AB%E4%BB%80%E4%B9%88&t=31&band_rank=6&Refer=top)<br />
 7. [浙江一男子肺部发现557个结节](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E7%94%B7%E5%AD%90%E8%82%BA%E9%83%A8%E5%8F%91%E7%8E%B0557%E4%B8%AA%E7%BB%93%E8%8A%82%23&t=31&band_rank=7&Refer=top)<br />
 8. [9岁男孩失联6天在排水涵洞被找到](https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E5%A4%B1%E8%81%946%E5%A4%A9%E5%9C%A8%E6%8E%92%E6%B0%B4%E6%B6%B5%E6%B4%9E%E8%A2%AB%E6%89%BE%E5%88%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [我国在海上发射一箭三星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%9C%A8%E6%B5%B7%E4%B8%8A%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E4%B8%89%E6%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [花楼姚瑶官宣](https://s.weibo.com/weibo?q=%E8%8A%B1%E6%A5%BC%E5%A7%9A%E7%91%B6%E5%AE%98%E5%AE%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
