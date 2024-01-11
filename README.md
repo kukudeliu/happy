@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 19:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 19:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [地震云](https://s.weibo.com/weibo?q=%E5%9C%B0%E9%9C%87%E4%BA%91&t=31&band_rank=6&Refer=top)<br />
 7. [尔滨咖啡里藏了砂糖橘笑脸](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E5%92%96%E5%95%A1%E9%87%8C%E8%97%8F%E4%BA%86%E7%A0%82%E7%B3%96%E6%A9%98%E7%AC%91%E8%84%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [YG官网删除BLACKPINK个人介绍页面](https://s.weibo.com/weibo?q=%23YG%E5%AE%98%E7%BD%91%E5%88%A0%E9%99%A4BLACKPINK%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%E9%A1%B5%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴要回新疆给妈妈生日惊喜](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%A6%81%E5%9B%9E%E6%96%B0%E7%96%86%E7%BB%99%E5%A6%88%E5%A6%88%E7%94%9F%E6%97%A5%E6%83%8A%E5%96%9C&t=31&band_rank=9&Refer=top)<br />
+9. [原来孙悟空是抽烟的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%AD%99%E6%82%9F%E7%A9%BA%E6%98%AF%E6%8A%BD%E7%83%9F%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
