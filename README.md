@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 12:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 12:27:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肯德基 今天安排吗](https://s.weibo.com/weibo?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%20%E4%BB%8A%E5%A4%A9%E5%AE%89%E6%8E%92%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [电影开场后也能退票了](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%BC%80%E5%9C%BA%E5%90%8E%E4%B9%9F%E8%83%BD%E9%80%80%E7%A5%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [00后网文作家被曝年入百万](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%BD%91%E6%96%87%E4%BD%9C%E5%AE%B6%E8%A2%AB%E6%9B%9D%E5%B9%B4%E5%85%A5%E7%99%BE%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [这或许是对110最走心的定义](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%88%96%E8%AE%B8%E6%98%AF%E5%AF%B9110%E6%9C%80%E8%B5%B0%E5%BF%83%E7%9A%84%E5%AE%9A%E4%B9%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈建斌劝架 哞两声得了](https://s.weibo.com/weibo?q=%E9%99%88%E5%BB%BA%E6%96%8C%E5%8A%9D%E6%9E%B6%20%E5%93%9E%E4%B8%A4%E5%A3%B0%E5%BE%97%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
