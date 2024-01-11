@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 18:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 18:53:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [冰雪同梦 亚洲同心](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E5%90%8C%E6%A2%A6+%E4%BA%9A%E6%B4%B2%E5%90%8C%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [阿富汗6.4级地震 新疆多地有震感](https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%976.4%E7%BA%A7%E5%9C%B0%E9%9C%87+%E6%96%B0%E7%96%86%E5%A4%9A%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [淄博文旅副局长：对比哈尔滨有差距](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E6%96%87%E6%97%85%E5%89%AF%E5%B1%80%E9%95%BF%EF%BC%9A%E5%AF%B9%E6%AF%94%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%89%E5%B7%AE%E8%B7%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [家长反映一年级学生书包重20多斤](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%8F%8D%E6%98%A0%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%AD%A6%E7%94%9F%E4%B9%A6%E5%8C%85%E9%87%8D20%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [CR450要来了 京沪全程仅需2.5小时](https://www.baidu.com/s?wd=CR450%E8%A6%81%E6%9D%A5%E4%BA%86+%E4%BA%AC%E6%B2%AA%E5%85%A8%E7%A8%8B%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [CR450要来了 京沪全程仅需2.5小时](https://www.baidu.com/s?wd=CR450%E8%A6%81%E6%9D%A5%E4%BA%86+%E4%BA%AC%E6%B2%AA%E5%85%A8%E7%A8%8B%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子手指被鳄龟咬住痛哭一个多小时](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%8B%E6%8C%87%E8%A2%AB%E9%B3%84%E9%BE%9F%E5%92%AC%E4%BD%8F%E7%97%9B%E5%93%AD%E4%B8%80%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川德阳有人贩子拐走两个娃？](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%BE%B7%E9%98%B3%E6%9C%89%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E8%B5%B0%E4%B8%A4%E4%B8%AA%E5%A8%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [冰雪同梦 亚洲同心](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E5%90%8C%E6%A2%A6+%E4%BA%9A%E6%B4%B2%E5%90%8C%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [阿富汗6.4级地震 新疆多地有震感](https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%976.4%E7%BA%A7%E5%9C%B0%E9%9C%87+%E6%96%B0%E7%96%86%E5%A4%9A%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [淄博文旅副局长：对比哈尔滨有差距](https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E6%96%87%E6%97%85%E5%89%AF%E5%B1%80%E9%95%BF%EF%BC%9A%E5%AF%B9%E6%AF%94%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%89%E5%B7%AE%E8%B7%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [家长反映一年级学生书包重20多斤](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%8F%8D%E6%98%A0%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%AD%A6%E7%94%9F%E4%B9%A6%E5%8C%85%E9%87%8D20%E5%A4%9A%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [CR450要来了 京沪全程仅需2.5小时](https://www.baidu.com/s?wd=CR450%E8%A6%81%E6%9D%A5%E4%BA%86+%E4%BA%AC%E6%B2%AA%E5%85%A8%E7%A8%8B%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [CR450要来了 京沪全程仅需2.5小时](https://www.baidu.com/s?wd=CR450%E8%A6%81%E6%9D%A5%E4%BA%86+%E4%BA%AC%E6%B2%AA%E5%85%A8%E7%A8%8B%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子手指被鳄龟咬住痛哭一个多小时](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%8B%E6%8C%87%E8%A2%AB%E9%B3%84%E9%BE%9F%E5%92%AC%E4%BD%8F%E7%97%9B%E5%93%AD%E4%B8%80%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川德阳有人贩子拐走两个娃？](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%BE%B7%E9%98%B3%E6%9C%89%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E8%B5%B0%E4%B8%A4%E4%B8%AA%E5%A8%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
