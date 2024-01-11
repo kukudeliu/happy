@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 09:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 09:33:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [19岁的游本昌](https://s.weibo.com/weibo?q=%2319%E5%B2%81%E7%9A%84%E6%B8%B8%E6%9C%AC%E6%98%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [俩95后宝妈离婚后搭伙过日子](https://s.weibo.com/weibo?q=%23%E4%BF%A995%E5%90%8E%E5%AE%9D%E5%A6%88%E7%A6%BB%E5%A9%9A%E5%90%8E%E6%90%AD%E4%BC%99%E8%BF%87%E6%97%A5%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [水哥 我初中三年饱受校园暴力](https://s.weibo.com/weibo?q=%E6%B0%B4%E5%93%A5%20%E6%88%91%E5%88%9D%E4%B8%AD%E4%B8%89%E5%B9%B4%E9%A5%B1%E5%8F%97%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B&t=31&band_rank=7&Refer=top)<br />
-8. [为啥网上的药比实体药店更便宜](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E7%BD%91%E4%B8%8A%E7%9A%84%E8%8D%AF%E6%AF%94%E5%AE%9E%E4%BD%93%E8%8D%AF%E5%BA%97%E6%9B%B4%E4%BE%BF%E5%AE%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [00后网文作家被曝年入百万](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%BD%91%E6%96%87%E4%BD%9C%E5%AE%B6%E8%A2%AB%E6%9B%9D%E5%B9%B4%E5%85%A5%E7%99%BE%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [00后网文作家被曝年入百万](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%BD%91%E6%96%87%E4%BD%9C%E5%AE%B6%E8%A2%AB%E6%9B%9D%E5%B9%B4%E5%85%A5%E7%99%BE%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [为啥网上的药比实体药店更便宜](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E7%BD%91%E4%B8%8A%E7%9A%84%E8%8D%AF%E6%AF%94%E5%AE%9E%E4%BD%93%E8%8D%AF%E5%BA%97%E6%9B%B4%E4%BE%BF%E5%AE%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
