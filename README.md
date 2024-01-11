@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 12:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 12:28:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [热辣滚烫阵容](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E9%98%B5%E5%AE%B9&t=31&band_rank=4&Refer=top)<br />
 5. [8岁男孩喜提152平婚房和三层小洋房](https://s.weibo.com/weibo?q=%238%E5%B2%81%E7%94%B7%E5%AD%A9%E5%96%9C%E6%8F%90152%E5%B9%B3%E5%A9%9A%E6%88%BF%E5%92%8C%E4%B8%89%E5%B1%82%E5%B0%8F%E6%B4%8B%E6%88%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [肯德基 今天安排吗](https://s.weibo.com/weibo?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%20%E4%BB%8A%E5%A4%A9%E5%AE%89%E6%8E%92%E5%90%97&t=31&band_rank=6&Refer=top)<br />
-7. [电影开场后也能退票了](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%BC%80%E5%9C%BA%E5%90%8E%E4%B9%9F%E8%83%BD%E9%80%80%E7%A5%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [00后网文作家被曝年入百万](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%BD%91%E6%96%87%E4%BD%9C%E5%AE%B6%E8%A2%AB%E6%9B%9D%E5%B9%B4%E5%85%A5%E7%99%BE%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈建斌劝架 哞两声得了](https://s.weibo.com/weibo?q=%E9%99%88%E5%BB%BA%E6%96%8C%E5%8A%9D%E6%9E%B6%20%E5%93%9E%E4%B8%A4%E5%A3%B0%E5%BE%97%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+7. [00后网文作家被曝年入百万](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%BD%91%E6%96%87%E4%BD%9C%E5%AE%B6%E8%A2%AB%E6%9B%9D%E5%B9%B4%E5%85%A5%E7%99%BE%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [陈建斌劝架 哞两声得了](https://s.weibo.com/weibo?q=%E9%99%88%E5%BB%BA%E6%96%8C%E5%8A%9D%E6%9E%B6%20%E5%93%9E%E4%B8%A4%E5%A3%B0%E5%BE%97%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [电影开场后也能退票了](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%BC%80%E5%9C%BA%E5%90%8E%E4%B9%9F%E8%83%BD%E9%80%80%E7%A5%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
