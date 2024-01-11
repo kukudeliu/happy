@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 16:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 16:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小杨哥徒弟小黄回应近期改变](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%B0%8F%E9%BB%84%E5%9B%9E%E5%BA%94%E8%BF%91%E6%9C%9F%E6%94%B9%E5%8F%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [联合国直升机遭劫持1死2失踪](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%81%AD%E5%8A%AB%E6%8C%811%E6%AD%BB2%E5%A4%B1%E8%B8%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [肖战去微博之夜](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8E%BB%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [海关查获7具走私狼尸](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B77%E5%85%B7%E8%B5%B0%E7%A7%81%E7%8B%BC%E5%B0%B8%23&t=31&band_rank=9&Refer=top)<br />
+9. [梅西卖酒](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%8D%96%E9%85%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
