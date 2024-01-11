@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 15:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 15:05:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [近视眼从800度降到100度的过程](https://s.weibo.com/weibo?q=%E8%BF%91%E8%A7%86%E7%9C%BC%E4%BB%8E800%E5%BA%A6%E9%99%8D%E5%88%B0100%E5%BA%A6%E7%9A%84%E8%BF%87%E7%A8%8B&t=31&band_rank=4&Refer=top)<br />
 5. [肖战去微博之夜](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8E%BB%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [宋爷爷发文准备告别福宝](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%88%B7%E7%88%B7%E5%8F%91%E6%96%87%E5%87%86%E5%A4%87%E5%91%8A%E5%88%AB%E7%A6%8F%E5%AE%9D%23&t=31&band_rank=6&Refer=top)<br />
-7. [联合国一飞机被劫持](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%80%E9%A3%9E%E6%9C%BA%E8%A2%AB%E5%8A%AB%E6%8C%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [青春痘疫苗或将面世](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E7%97%98%E7%96%AB%E8%8B%97%E6%88%96%E5%B0%86%E9%9D%A2%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [IU染粉发](https://s.weibo.com/weibo?q=%23IU%E6%9F%93%E7%B2%89%E5%8F%91%23&t=31&band_rank=9&Refer=top)<br />
+7. [青春痘疫苗或将面世](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E7%97%98%E7%96%AB%E8%8B%97%E6%88%96%E5%B0%86%E9%9D%A2%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
+8. [联合国一飞机被劫持](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%80%E9%A3%9E%E6%9C%BA%E8%A2%AB%E5%8A%AB%E6%8C%81%23&t=31&band_rank=8&Refer=top)<br />
+9. [程前事件](https://s.weibo.com/weibo?q=%E7%A8%8B%E5%89%8D%E4%BA%8B%E4%BB%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
