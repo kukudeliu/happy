@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 17:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 17:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [普京：俄罗斯成欧洲第一大经济体](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E6%88%90%E6%AC%A7%E6%B4%B2%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%BB%8F%E6%B5%8E%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [重庆男孩失联6天在排水涵洞被找到](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E7%94%B7%E5%AD%A9%E5%A4%B1%E8%81%946%E5%A4%A9%E5%9C%A8%E6%8E%92%E6%B0%B4%E6%B6%B5%E6%B4%9E%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [贾玲“整容式”暴瘦靠谱吗](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E2%80%9C%E6%95%B4%E5%AE%B9%E5%BC%8F%E2%80%9D%E6%9A%B4%E7%98%A6%E9%9D%A0%E8%B0%B1%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [第25个GDP万亿城市来了](https://www.baidu.com/s?wd=%E7%AC%AC25%E4%B8%AAGDP%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [莲花味精接住了泼天富贵](https://www.baidu.com/s?wd=%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%E6%8E%A5%E4%BD%8F%E4%BA%86%E6%B3%BC%E5%A4%A9%E5%AF%8C%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川德阳有人贩子拐走两个娃？](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%BE%B7%E9%98%B3%E6%9C%89%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E8%B5%B0%E4%B8%A4%E4%B8%AA%E5%A8%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [普京：俄罗斯成欧洲第一大经济体](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E6%88%90%E6%AC%A7%E6%B4%B2%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%BB%8F%E6%B5%8E%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [重庆男孩失联6天在排水涵洞被找到](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E7%94%B7%E5%AD%A9%E5%A4%B1%E8%81%946%E5%A4%A9%E5%9C%A8%E6%8E%92%E6%B0%B4%E6%B6%B5%E6%B4%9E%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [贾玲“整容式”暴瘦靠谱吗](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E2%80%9C%E6%95%B4%E5%AE%B9%E5%BC%8F%E2%80%9D%E6%9A%B4%E7%98%A6%E9%9D%A0%E8%B0%B1%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [第25个GDP万亿城市来了](https://www.baidu.com/s?wd=%E7%AC%AC25%E4%B8%AAGDP%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [莲花味精接住了泼天富贵](https://www.baidu.com/s?wd=%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%E6%8E%A5%E4%BD%8F%E4%BA%86%E6%B3%BC%E5%A4%A9%E5%AF%8C%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川德阳有人贩子拐走两个娃？](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%BE%B7%E9%98%B3%E6%9C%89%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E8%B5%B0%E4%B8%A4%E4%B8%AA%E5%A8%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
