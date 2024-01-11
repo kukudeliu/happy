@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 18:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 18:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [原来孙悟空是抽烟的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%AD%99%E6%82%9F%E7%A9%BA%E6%98%AF%E6%8A%BD%E7%83%9F%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [尔滨中央大街鸽子被游客喂成鸽猪](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E4%B8%AD%E5%A4%AE%E5%A4%A7%E8%A1%97%E9%B8%BD%E5%AD%90%E8%A2%AB%E6%B8%B8%E5%AE%A2%E5%96%82%E6%88%90%E9%B8%BD%E7%8C%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴要回新疆给妈妈生日惊喜](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%A6%81%E5%9B%9E%E6%96%B0%E7%96%86%E7%BB%99%E5%A6%88%E5%A6%88%E7%94%9F%E6%97%A5%E6%83%8A%E5%96%9C&t=31&band_rank=8&Refer=top)<br />
-9. [京东物流001号员工退休](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E7%89%A9%E6%B5%81001%E5%8F%B7%E5%91%98%E5%B7%A5%E9%80%80%E4%BC%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本震区灾民怒斥救援物资是垃圾](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%9C%87%E5%8C%BA%E7%81%BE%E6%B0%91%E6%80%92%E6%96%A5%E6%95%91%E6%8F%B4%E7%89%A9%E8%B5%84%E6%98%AF%E5%9E%83%E5%9C%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
