@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 15:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 15:40:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [青春痘疫苗或将面世](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E7%97%98%E7%96%AB%E8%8B%97%E6%88%96%E5%B0%86%E9%9D%A2%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [2名间谍落网现场曝光](https://s.weibo.com/weibo?q=%232%E5%90%8D%E9%97%B4%E8%B0%8D%E8%90%BD%E7%BD%91%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [肖战去微博之夜](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8E%BB%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [程前事件](https://s.weibo.com/weibo?q=%E7%A8%8B%E5%89%8D%E4%BA%8B%E4%BB%B6&t=31&band_rank=9&Refer=top)<br />
+9. [不出道就得回清华读研](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%87%BA%E9%81%93%E5%B0%B1%E5%BE%97%E5%9B%9E%E6%B8%85%E5%8D%8E%E8%AF%BB%E7%A0%94&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
