@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 19:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 19:41:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [地震云](https://s.weibo.com/weibo?q=%E5%9C%B0%E9%9C%87%E4%BA%91&t=31&band_rank=4&Refer=top)<br />
 5. [杭州村民众筹1.2亿造大别墅](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%9D%91%E6%B0%91%E4%BC%97%E7%AD%B91.2%E4%BA%BF%E9%80%A0%E5%A4%A7%E5%88%AB%E5%A2%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [浙江一男子肺部发现557个结节](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E7%94%B7%E5%AD%90%E8%82%BA%E9%83%A8%E5%8F%91%E7%8E%B0557%E4%B8%AA%E7%BB%93%E8%8A%82%23&t=31&band_rank=6&Refer=top)<br />
-7. [尔滨咖啡里藏了砂糖橘笑脸](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E5%92%96%E5%95%A1%E9%87%8C%E8%97%8F%E4%BA%86%E7%A0%82%E7%B3%96%E6%A9%98%E7%AC%91%E8%84%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [厦门一公司发生闪爆事件致3死3伤](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E4%B8%80%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86%E4%BA%8B%E4%BB%B6%E8%87%B43%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [YG官网删除BLACKPINK个人介绍页面](https://s.weibo.com/weibo?q=%23YG%E5%AE%98%E7%BD%91%E5%88%A0%E9%99%A4BLACKPINK%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%E9%A1%B5%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
+7. [厦门一公司发生闪爆事件致3死3伤](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E4%B8%80%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86%E4%BA%8B%E4%BB%B6%E8%87%B43%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
+8. [YG官网删除BLACKPINK个人介绍页面](https://s.weibo.com/weibo?q=%23YG%E5%AE%98%E7%BD%91%E5%88%A0%E9%99%A4BLACKPINK%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%E9%A1%B5%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
+9. [原来孙悟空是抽烟的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%AD%99%E6%82%9F%E7%A9%BA%E6%98%AF%E6%8A%BD%E7%83%9F%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
