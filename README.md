@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 14:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 14:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [俩女生把旅游照拍成IE浏览器](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E5%A5%B3%E7%94%9F%E6%8A%8A%E6%97%85%E6%B8%B8%E7%85%A7%E6%8B%8D%E6%88%90IE%E6%B5%8F%E8%A7%88%E5%99%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [SM娱乐就李楷灿室内吸烟道歉](https://s.weibo.com/weibo?q=SM%E5%A8%B1%E4%B9%90%E5%B0%B1%E6%9D%8E%E6%A5%B7%E7%81%BF%E5%AE%A4%E5%86%85%E5%90%B8%E7%83%9F%E9%81%93%E6%AD%89&t=31&band_rank=7&Refer=top)<br />
 8. [IU染粉发](https://s.weibo.com/weibo?q=%23IU%E6%9F%93%E7%B2%89%E5%8F%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [不出道就得回清华读研](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%87%BA%E9%81%93%E5%B0%B1%E5%BE%97%E5%9B%9E%E6%B8%85%E5%8D%8E%E8%AF%BB%E7%A0%94&t=31&band_rank=9&Refer=top)<br />
+9. [肖战去微博之夜](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8E%BB%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
