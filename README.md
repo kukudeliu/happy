@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 07:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 07:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [第一次见男主把女主吊起来哄睡](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%94%B7%E4%B8%BB%E6%8A%8A%E5%A5%B3%E4%B8%BB%E5%90%8A%E8%B5%B7%E6%9D%A5%E5%93%84%E7%9D%A1&t=31&band_rank=6&Refer=top)<br />
 7. [李铁签字的安全笔安全在哪](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E7%AD%BE%E5%AD%97%E7%9A%84%E5%AE%89%E5%85%A8%E7%AC%94%E5%AE%89%E5%85%A8%E5%9C%A8%E5%93%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [A股再现天价离婚女方分走40亿](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E5%A5%B3%E6%96%B9%E5%88%86%E8%B5%B040%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [全球第一大癌症为何盯上年轻人](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%99%8C%E7%97%87%E4%B8%BA%E4%BD%95%E7%9B%AF%E4%B8%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本上空现神秘发光环状云](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%8A%E7%A9%BA%E7%8E%B0%E7%A5%9E%E7%A7%98%E5%8F%91%E5%85%89%E7%8E%AF%E7%8A%B6%E4%BA%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
