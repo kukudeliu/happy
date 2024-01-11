@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 02:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 02:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [俞敏洪用董宇辉完成了去董化](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%94%A8%E8%91%A3%E5%AE%87%E8%BE%89%E5%AE%8C%E6%88%90%E4%BA%86%E5%8E%BB%E8%91%A3%E5%8C%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [全球第一大癌症为何盯上年轻人](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%99%8C%E7%97%87%E4%B8%BA%E4%BD%95%E7%9B%AF%E4%B8%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [95后女孩用700天逆袭成普通人](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E5%AD%A9%E7%94%A8700%E5%A4%A9%E9%80%86%E8%A2%AD%E6%88%90%E6%99%AE%E9%80%9A%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [A股再现天价离婚女方分走40亿](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E5%A5%B3%E6%96%B9%E5%88%86%E8%B5%B040%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [李铁签字的安全笔安全在哪](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E7%AD%BE%E5%AD%97%E7%9A%84%E5%AE%89%E5%85%A8%E7%AC%94%E5%AE%89%E5%85%A8%E5%9C%A8%E5%93%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
