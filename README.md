@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 11:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 12:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [尔滨 压力给到了西安](https://s.weibo.com/weibo?q=%E5%B0%94%E6%BB%A8%20%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0%E4%BA%86%E8%A5%BF%E5%AE%89&t=31&band_rank=6&Refer=top)<br />
 7. [00后网文作家被曝年入百万](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%BD%91%E6%96%87%E4%BD%9C%E5%AE%B6%E8%A2%AB%E6%9B%9D%E5%B9%B4%E5%85%A5%E7%99%BE%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩后老板靠468元起家](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%90%8E%E8%80%81%E6%9D%BF%E9%9D%A0468%E5%85%83%E8%B5%B7%E5%AE%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [周生如故](https://s.weibo.com/weibo?q=%E5%91%A8%E7%94%9F%E5%A6%82%E6%95%85&t=31&band_rank=9&Refer=top)<br />
+9. [电影开场后也能退票了](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%BC%80%E5%9C%BA%E5%90%8E%E4%B9%9F%E8%83%BD%E9%80%80%E7%A5%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
