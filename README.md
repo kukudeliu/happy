@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 17:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-11 17:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子手指被鳄龟咬住痛哭一个多小时](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%8B%E6%8C%87%E8%A2%AB%E9%B3%84%E9%BE%9F%E5%92%AC%E4%BD%8F%E7%97%9B%E5%93%AD%E4%B8%80%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [海关查获7具走私狼尸](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B77%E5%85%B7%E8%B5%B0%E7%A7%81%E7%8B%BC%E5%B0%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来孙悟空是抽烟的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%AD%99%E6%82%9F%E7%A9%BA%E6%98%AF%E6%8A%BD%E7%83%9F%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
-9. [宋爷爷发文准备告别福宝](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%88%B7%E7%88%B7%E5%8F%91%E6%96%87%E5%87%86%E5%A4%87%E5%91%8A%E5%88%AB%E7%A6%8F%E5%AE%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [淄博文旅局副局长谈哈尔滨出圈](https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E6%96%87%E6%97%85%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E8%B0%88%E5%93%88%E5%B0%94%E6%BB%A8%E5%87%BA%E5%9C%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
