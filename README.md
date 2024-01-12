@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 23:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 23:39:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [美丽中国什么样？怎么建？](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E4%BB%80%E4%B9%88%E6%A0%B7%EF%BC%9F%E6%80%8E%E4%B9%88%E5%BB%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [游本昌：年轻朋友我永远陪伴你们](https://www.baidu.com/s?wd=%E6%B8%B8%E6%9C%AC%E6%98%8C%EF%BC%9A%E5%B9%B4%E8%BD%BB%E6%9C%8B%E5%8F%8B%E6%88%91%E6%B0%B8%E8%BF%9C%E9%99%AA%E4%BC%B4%E4%BD%A0%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [景区通报多名外国人偷普陀山香火钱](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E9%80%9A%E6%8A%A5%E5%A4%9A%E5%90%8D%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%81%B7%E6%99%AE%E9%99%80%E5%B1%B1%E9%A6%99%E7%81%AB%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [重大刑案嫌犯李三喜已被抓获](https://www.baidu.com/s?wd=%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%AB%8C%E7%8A%AF%E6%9D%8E%E4%B8%89%E5%96%9C%E5%B7%B2%E8%A2%AB%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黑土又回了白云6吨奶](https://www.baidu.com/s?wd=%E9%BB%91%E5%9C%9F%E5%8F%88%E5%9B%9E%E4%BA%86%E7%99%BD%E4%BA%916%E5%90%A8%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [黑土又回了白云6吨奶](https://www.baidu.com/s?wd=%E9%BB%91%E5%9C%9F%E5%8F%88%E5%9B%9E%E4%BA%86%E7%99%BD%E4%BA%916%E5%90%A8%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [英国将推出世界首个修路AI机器人](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E6%8E%A8%E5%87%BA%E4%B8%96%E7%95%8C%E9%A6%96%E4%B8%AA%E4%BF%AE%E8%B7%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣兰州公交涨价](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%85%B0%E5%B7%9E%E5%85%AC%E4%BA%A4%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [美丽中国什么样？怎么建？](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E4%BB%80%E4%B9%88%E6%A0%B7%EF%BC%9F%E6%80%8E%E4%B9%88%E5%BB%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [游本昌：年轻朋友我永远陪伴你们](https://www.baidu.com/s?wd=%E6%B8%B8%E6%9C%AC%E6%98%8C%EF%BC%9A%E5%B9%B4%E8%BD%BB%E6%9C%8B%E5%8F%8B%E6%88%91%E6%B0%B8%E8%BF%9C%E9%99%AA%E4%BC%B4%E4%BD%A0%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [景区通报多名外国人偷普陀山香火钱](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E9%80%9A%E6%8A%A5%E5%A4%9A%E5%90%8D%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%81%B7%E6%99%AE%E9%99%80%E5%B1%B1%E9%A6%99%E7%81%AB%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [重大刑案嫌犯李三喜已被抓获](https://www.baidu.com/s?wd=%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%AB%8C%E7%8A%AF%E6%9D%8E%E4%B8%89%E5%96%9C%E5%B7%B2%E8%A2%AB%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黑土又回了白云6吨奶](https://www.baidu.com/s?wd=%E9%BB%91%E5%9C%9F%E5%8F%88%E5%9B%9E%E4%BA%86%E7%99%BD%E4%BA%916%E5%90%A8%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [黑土又回了白云6吨奶](https://www.baidu.com/s?wd=%E9%BB%91%E5%9C%9F%E5%8F%88%E5%9B%9E%E4%BA%86%E7%99%BD%E4%BA%916%E5%90%A8%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [英国将推出世界首个修路AI机器人](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%B0%86%E6%8E%A8%E5%87%BA%E4%B8%96%E7%95%8C%E9%A6%96%E4%B8%AA%E4%BF%AE%E8%B7%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣兰州公交涨价](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%85%B0%E5%B7%9E%E5%85%AC%E4%BA%A4%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
