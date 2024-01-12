@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 14:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 14:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [反诈网红幸卫林被抓](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E7%BD%91%E7%BA%A2%E5%B9%B8%E5%8D%AB%E6%9E%97%E8%A2%AB%E6%8A%93%23&t=31&band_rank=5&Refer=top)<br />
 6. [日本福岛百人因吃生鱼片食物中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E7%99%BE%E4%BA%BA%E5%9B%A0%E5%90%83%E7%94%9F%E9%B1%BC%E7%89%87%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [北大校花毕业10年返乡卖臭豆腐](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%A0%A1%E8%8A%B1%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%BF%94%E4%B9%A1%E5%8D%96%E8%87%AD%E8%B1%86%E8%85%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵丽颖微博文案是手语](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BE%AE%E5%8D%9A%E6%96%87%E6%A1%88%E6%98%AF%E6%89%8B%E8%AF%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子硬扛流感10天两个肺都白了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A1%AC%E6%89%9B%E6%B5%81%E6%84%9F10%E5%A4%A9%E4%B8%A4%E4%B8%AA%E8%82%BA%E9%83%BD%E7%99%BD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [女子硬扛流感10天两个肺都白了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A1%AC%E6%89%9B%E6%B5%81%E6%84%9F10%E5%A4%A9%E4%B8%A4%E4%B8%AA%E8%82%BA%E9%83%BD%E7%99%BD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [赵丽颖微博文案是手语](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BE%AE%E5%8D%9A%E6%96%87%E6%A1%88%E6%98%AF%E6%89%8B%E8%AF%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
