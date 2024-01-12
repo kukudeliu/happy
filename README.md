@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 23:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 23:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [0713央视春晚彩排](https://s.weibo.com/weibo?q=0713%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92&t=31&band_rank=6&Refer=top)<br />
 7. [全嘻嘻 聊聊离婚](https://s.weibo.com/weibo?q=%E5%85%A8%E5%98%BB%E5%98%BB%20%E8%81%8A%E8%81%8A%E7%A6%BB%E5%A9%9A&t=31&band_rank=7&Refer=top)<br />
 8. [老师 我们家苏醒呢](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E6%88%91%E4%BB%AC%E5%AE%B6%E8%8B%8F%E9%86%92%E5%91%A2&t=31&band_rank=8&Refer=top)<br />
-9. [逃离大英博物馆获奖](https://s.weibo.com/weibo?q=%E9%80%83%E7%A6%BB%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E8%8E%B7%E5%A5%96&t=31&band_rank=9&Refer=top)<br />
+9. [沈腾句句不提贾玲句句都是贾玲](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%8F%A5%E5%8F%A5%E4%B8%8D%E6%8F%90%E8%B4%BE%E7%8E%B2%E5%8F%A5%E5%8F%A5%E9%83%BD%E6%98%AF%E8%B4%BE%E7%8E%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
