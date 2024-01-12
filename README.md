@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 17:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [胡歌马伊琍唐嫣辛芷蕾合体](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E9%A9%AC%E4%BC%8A%E7%90%8D%E5%94%90%E5%AB%A3%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%90%88%E4%BD%93&t=31&band_rank=6&Refer=top)<br />
 7. [折腰补音完成](https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E8%A1%A5%E9%9F%B3%E5%AE%8C%E6%88%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [霉霉 世一](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%20%E4%B8%96%E4%B8%80&t=31&band_rank=8&Refer=top)<br />
-9. [2024春节档已官宣六部电影](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%A1%A3%E5%B7%B2%E5%AE%98%E5%AE%A3%E5%85%AD%E9%83%A8%E7%94%B5%E5%BD%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [父亲瓷娃娃般照顾抑郁症女儿](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%93%B7%E5%A8%83%E5%A8%83%E8%88%AC%E7%85%A7%E9%A1%BE%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%84%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
