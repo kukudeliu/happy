@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 16:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 16:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国考 想看看分](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%20%E6%83%B3%E7%9C%8B%E7%9C%8B%E5%88%86&t=31&band_rank=6&Refer=top)<br />
 7. [尔滨一麻辣烫店高挂免战牌](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E4%B8%80%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%BA%97%E9%AB%98%E6%8C%82%E5%85%8D%E6%88%98%E7%89%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [王家卫说女孩晚上拍最美](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E5%A5%B3%E5%AD%A9%E6%99%9A%E4%B8%8A%E6%8B%8D%E6%9C%80%E7%BE%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [北大校花毕业10年返乡卖臭豆腐](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%A0%A1%E8%8A%B1%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%BF%94%E4%B9%A1%E5%8D%96%E8%87%AD%E8%B1%86%E8%85%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [外交部回应美英空袭也门胡塞武装](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%8B%B1%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
