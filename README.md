@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 17:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 17:19:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [国剧盛典红毯](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%89%A7%E7%9B%9B%E5%85%B8%E7%BA%A2%E6%AF%AF&t=31&band_rank=4&Refer=top)<br />
 5. [折腰补音完成](https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E8%A1%A5%E9%9F%B3%E5%AE%8C%E6%88%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [本以为甄嬛传掀不起什么风浪了](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E4%BB%A5%E4%B8%BA%E7%94%84%E5%AC%9B%E4%BC%A0%E6%8E%80%E4%B8%8D%E8%B5%B7%E4%BB%80%E4%B9%88%E9%A3%8E%E6%B5%AA%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [肖战深V真空西装](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%B7%B1V%E7%9C%9F%E7%A9%BA%E8%A5%BF%E8%A3%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴谢宇看守所写道歉信](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E7%9C%8B%E5%AE%88%E6%89%80%E5%86%99%E9%81%93%E6%AD%89%E4%BF%A1%23&t=31&band_rank=8&Refer=top)<br />
+7. [吴谢宇看守所写道歉信](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E7%9C%8B%E5%AE%88%E6%89%80%E5%86%99%E9%81%93%E6%AD%89%E4%BF%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [肖战深V真空西装](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%B7%B1V%E7%9C%9F%E7%A9%BA%E8%A5%BF%E8%A3%85%23&t=31&band_rank=8&Refer=top)<br />
 9. [我叫毛利小五郎 是个针探](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AB%E6%AF%9B%E5%88%A9%E5%B0%8F%E4%BA%94%E9%83%8E%20%E6%98%AF%E4%B8%AA%E9%92%88%E6%8E%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [山东文旅让山东人沉默了](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%96%87%E6%97%85%E8%AE%A9%E5%B1%B1%E4%B8%9C%E4%BA%BA%E6%B2%89%E9%BB%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [尔滨一麻辣烫店高挂免战牌](https://www.baidu.com/s?wd=%E5%B0%94%E6%BB%A8%E4%B8%80%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%BA%97%E9%AB%98%E6%8C%82%E5%85%8D%E6%88%98%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高校陆续迎来寒假：最长可达70天](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%99%86%E7%BB%AD%E8%BF%8E%E6%9D%A5%E5%AF%92%E5%81%87%EF%BC%9A%E6%9C%80%E9%95%BF%E5%8F%AF%E8%BE%BE70%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [深圳通报公司男高管违法开除员工](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E9%80%9A%E6%8A%A5%E5%85%AC%E5%8F%B8%E7%94%B7%E9%AB%98%E7%AE%A1%E8%BF%9D%E6%B3%95%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆发现亿吨级石油资源](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%8F%91%E7%8E%B0%E4%BA%BF%E5%90%A8%E7%BA%A7%E7%9F%B3%E6%B2%B9%E8%B5%84%E6%BA%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乐山金口河大地震系谣言](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E9%87%91%E5%8F%A3%E6%B2%B3%E5%A4%A7%E5%9C%B0%E9%9C%87%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [山东文旅让山东人沉默了](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%96%87%E6%97%85%E8%AE%A9%E5%B1%B1%E4%B8%9C%E4%BA%BA%E6%B2%89%E9%BB%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [尔滨一麻辣烫店高挂免战牌](https://www.baidu.com/s?wd=%E5%B0%94%E6%BB%A8%E4%B8%80%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%BA%97%E9%AB%98%E6%8C%82%E5%85%8D%E6%88%98%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [高校陆续迎来寒假：最长可达70天](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%99%86%E7%BB%AD%E8%BF%8E%E6%9D%A5%E5%AF%92%E5%81%87%EF%BC%9A%E6%9C%80%E9%95%BF%E5%8F%AF%E8%BE%BE70%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [深圳通报公司男高管违法开除员工](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E9%80%9A%E6%8A%A5%E5%85%AC%E5%8F%B8%E7%94%B7%E9%AB%98%E7%AE%A1%E8%BF%9D%E6%B3%95%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [重庆发现亿吨级石油资源](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%8F%91%E7%8E%B0%E4%BA%BF%E5%90%A8%E7%BA%A7%E7%9F%B3%E6%B2%B9%E8%B5%84%E6%BA%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乐山金口河大地震系谣言](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E9%87%91%E5%8F%A3%E6%B2%B3%E5%A4%A7%E5%9C%B0%E9%9C%87%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
