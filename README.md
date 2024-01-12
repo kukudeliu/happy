@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 17:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 17:52:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [胡歌马伊琍唐嫣辛芷蕾合体](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E9%A9%AC%E4%BC%8A%E7%90%8D%E5%94%90%E5%AB%A3%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%90%88%E4%BD%93&t=31&band_rank=5&Refer=top)<br />
 6. [折腰补音完成](https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E8%A1%A5%E9%9F%B3%E5%AE%8C%E6%88%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [2024春节档已官宣六部电影](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%A1%A3%E5%B7%B2%E5%AE%98%E5%AE%A3%E5%85%AD%E9%83%A8%E7%94%B5%E5%BD%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [本以为甄嬛传掀不起什么风浪了](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E4%BB%A5%E4%B8%BA%E7%94%84%E5%AC%9B%E4%BC%A0%E6%8E%80%E4%B8%8D%E8%B5%B7%E4%BB%80%E4%B9%88%E9%A3%8E%E6%B5%AA%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [吴谢宇看守所写道歉信](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E7%9C%8B%E5%AE%88%E6%89%80%E5%86%99%E9%81%93%E6%AD%89%E4%BF%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [霉霉 世一](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%20%E4%B8%96%E4%B8%80&t=31&band_rank=8&Refer=top)<br />
+9. [女儿立二等功妈妈骄傲的表情藏不住](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%AB%8B%E4%BA%8C%E7%AD%89%E5%8A%9F%E5%A6%88%E5%A6%88%E9%AA%84%E5%82%B2%E7%9A%84%E8%A1%A8%E6%83%85%E8%97%8F%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
