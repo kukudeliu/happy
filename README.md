@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 10:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 10:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [官方回应大量河南学生中考移民至黑龙江](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%A7%E9%87%8F%E6%B2%B3%E5%8D%97%E5%AD%A6%E7%94%9F%E4%B8%AD%E8%80%83%E7%A7%BB%E6%B0%91%E8%87%B3%E9%BB%91%E9%BE%99%E6%B1%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [丫丫胖成了A字熊](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E8%83%96%E6%88%90%E4%BA%86A%E5%AD%97%E7%86%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [特斯拉降价](https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E9%99%8D%E4%BB%B7&t=31&band_rank=8&Refer=top)<br />
-9. [谢娜烤火鞋被烧了](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%83%A4%E7%81%AB%E9%9E%8B%E8%A2%AB%E7%83%A7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [贾玲健身教练发声](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [总书记开年再部署](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%80%E5%B9%B4%E5%86%8D%E9%83%A8%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [美英对胡塞武装发动联合空袭](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8B%B1%E5%AF%B9%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%8F%91%E5%8A%A8%E8%81%94%E5%90%88%E7%A9%BA%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [南宁蔓越莓免费发放 排队出现人从众](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E8%94%93%E8%B6%8A%E8%8E%93%E5%85%8D%E8%B4%B9%E5%8F%91%E6%94%BE+%E6%8E%92%E9%98%9F%E5%87%BA%E7%8E%B0%E4%BA%BA%E4%BB%8E%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [与辉同行因没东西卖停播一天](https://www.baidu.com/s?wd=%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E5%9B%A0%E6%B2%A1%E4%B8%9C%E8%A5%BF%E5%8D%96%E5%81%9C%E6%92%AD%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全面推进美丽中国建设](https://www.baidu.com/s?wd=%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%BF%9B%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [家长称有河南中学生中考移民至大庆](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E7%A7%B0%E6%9C%89%E6%B2%B3%E5%8D%97%E4%B8%AD%E5%AD%A6%E7%94%9F%E4%B8%AD%E8%80%83%E7%A7%BB%E6%B0%91%E8%87%B3%E5%A4%A7%E5%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [国产“三蹦子”在国外街头火了](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E2%80%9C%E4%B8%89%E8%B9%A6%E5%AD%90%E2%80%9D%E5%9C%A8%E5%9B%BD%E5%A4%96%E8%A1%97%E5%A4%B4%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [龙年茅台价格腰斩](https://www.baidu.com/s?wd=%E9%BE%99%E5%B9%B4%E8%8C%85%E5%8F%B0%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“ChatGPT之父”结婚了](https://www.baidu.com/s?wd=%E2%80%9CChatGPT%E4%B9%8B%E7%88%B6%E2%80%9D%E7%BB%93%E5%A9%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [国产“三蹦子”在国外街头火了](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E2%80%9C%E4%B8%89%E8%B9%A6%E5%AD%90%E2%80%9D%E5%9C%A8%E5%9B%BD%E5%A4%96%E8%A1%97%E5%A4%B4%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [龙年茅台价格腰斩](https://www.baidu.com/s?wd=%E9%BE%99%E5%B9%B4%E8%8C%85%E5%8F%B0%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“ChatGPT之父”结婚了](https://www.baidu.com/s?wd=%E2%80%9CChatGPT%E4%B9%8B%E7%88%B6%E2%80%9D%E7%BB%93%E5%A9%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [营养专家谈贾玲减重：她面临新挑战](https://www.baidu.com/s?wd=%E8%90%A5%E5%85%BB%E4%B8%93%E5%AE%B6%E8%B0%88%E8%B4%BE%E7%8E%B2%E5%87%8F%E9%87%8D%EF%BC%9A%E5%A5%B9%E9%9D%A2%E4%B8%B4%E6%96%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [摩托车电动车相撞9死1伤？](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%9B%B8%E6%92%9E9%E6%AD%BB1%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [总书记开年再部署](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%80%E5%B9%B4%E5%86%8D%E9%83%A8%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [美英对胡塞武装发动联合空袭](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8B%B1%E5%AF%B9%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%8F%91%E5%8A%A8%E8%81%94%E5%90%88%E7%A9%BA%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [南宁蔓越莓免费发放 排队出现人从众](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E8%94%93%E8%B6%8A%E8%8E%93%E5%85%8D%E8%B4%B9%E5%8F%91%E6%94%BE+%E6%8E%92%E9%98%9F%E5%87%BA%E7%8E%B0%E4%BA%BA%E4%BB%8E%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [与辉同行因没东西卖停播一天](https://www.baidu.com/s?wd=%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E5%9B%A0%E6%B2%A1%E4%B8%9C%E8%A5%BF%E5%8D%96%E5%81%9C%E6%92%AD%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全面推进美丽中国建设](https://www.baidu.com/s?wd=%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%BF%9B%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [家长称有河南中学生中考移民至大庆](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E7%A7%B0%E6%9C%89%E6%B2%B3%E5%8D%97%E4%B8%AD%E5%AD%A6%E7%94%9F%E4%B8%AD%E8%80%83%E7%A7%BB%E6%B0%91%E8%87%B3%E5%A4%A7%E5%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [国产“三蹦子”在国外街头火了](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E2%80%9C%E4%B8%89%E8%B9%A6%E5%AD%90%E2%80%9D%E5%9C%A8%E5%9B%BD%E5%A4%96%E8%A1%97%E5%A4%B4%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [龙年茅台价格腰斩](https://www.baidu.com/s?wd=%E9%BE%99%E5%B9%B4%E8%8C%85%E5%8F%B0%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“ChatGPT之父”结婚了](https://www.baidu.com/s?wd=%E2%80%9CChatGPT%E4%B9%8B%E7%88%B6%E2%80%9D%E7%BB%93%E5%A9%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [国产“三蹦子”在国外街头火了](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E2%80%9C%E4%B8%89%E8%B9%A6%E5%AD%90%E2%80%9D%E5%9C%A8%E5%9B%BD%E5%A4%96%E8%A1%97%E5%A4%B4%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [龙年茅台价格腰斩](https://www.baidu.com/s?wd=%E9%BE%99%E5%B9%B4%E8%8C%85%E5%8F%B0%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“ChatGPT之父”结婚了](https://www.baidu.com/s?wd=%E2%80%9CChatGPT%E4%B9%8B%E7%88%B6%E2%80%9D%E7%BB%93%E5%A9%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [营养专家谈贾玲减重：她面临新挑战](https://www.baidu.com/s?wd=%E8%90%A5%E5%85%BB%E4%B8%93%E5%AE%B6%E8%B0%88%E8%B4%BE%E7%8E%B2%E5%87%8F%E9%87%8D%EF%BC%9A%E5%A5%B9%E9%9D%A2%E4%B8%B4%E6%96%B0%E6%8C%91%E6%88%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [摩托车电动车相撞9死1伤？](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%9B%B8%E6%92%9E9%E6%AD%BB1%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
