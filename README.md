@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 20:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 20:03:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [我国新能源汽车产销连续九年世界第一](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E8%BF%9E%E7%BB%AD%E4%B9%9D%E5%B9%B4%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [孙颖莎11比0](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E11%E6%AF%940%23&t=31&band_rank=4&Refer=top)<br />
 5. [微博之夜嘉宾全阵容集结](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%98%89%E5%AE%BE%E5%85%A8%E9%98%B5%E5%AE%B9%E9%9B%86%E7%BB%93%23&t=31&band_rank=5&Refer=top)<br />
-6. [女儿立二等功妈妈骄傲的表情藏不住](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%AB%8B%E4%BA%8C%E7%AD%89%E5%8A%9F%E5%A6%88%E5%A6%88%E9%AA%84%E5%82%B2%E7%9A%84%E8%A1%A8%E6%83%85%E8%97%8F%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=6&Refer=top)<br />
-7. [尤长靖 内娱轮回](https://s.weibo.com/weibo?q=%E5%B0%A4%E9%95%BF%E9%9D%96%20%E5%86%85%E5%A8%B1%E8%BD%AE%E5%9B%9E&t=31&band_rank=7&Refer=top)<br />
-8. [她不再是过去的赵丽颖](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%B8%8D%E5%86%8D%E6%98%AF%E8%BF%87%E5%8E%BB%E7%9A%84%E8%B5%B5%E4%B8%BD%E9%A2%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [父亲瓷娃娃般照顾抑郁症女儿](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%93%B7%E5%A8%83%E5%A8%83%E8%88%AC%E7%85%A7%E9%A1%BE%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%84%BF%23&t=31&band_rank=9&Refer=top)<br />
+6. [尤长靖 内娱轮回](https://s.weibo.com/weibo?q=%E5%B0%A4%E9%95%BF%E9%9D%96%20%E5%86%85%E5%A8%B1%E8%BD%AE%E5%9B%9E&t=31&band_rank=6&Refer=top)<br />
+7. [她不再是过去的赵丽颖](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%B8%8D%E5%86%8D%E6%98%AF%E8%BF%87%E5%8E%BB%E7%9A%84%E8%B5%B5%E4%B8%BD%E9%A2%96%23&t=31&band_rank=7&Refer=top)<br />
+8. [林俊杰 票来](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E7%A5%A8%E6%9D%A5&t=31&band_rank=8&Refer=top)<br />
+9. [广州宝马撞人案正在死刑复核](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%AE%9D%E9%A9%AC%E6%92%9E%E4%BA%BA%E6%A1%88%E6%AD%A3%E5%9C%A8%E6%AD%BB%E5%88%91%E5%A4%8D%E6%A0%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
