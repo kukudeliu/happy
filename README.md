@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 09:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 09:23:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [总书记开年再部署](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%80%E5%B9%B4%E5%86%8D%E9%83%A8%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [美英对胡塞武装发动联合空袭](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8B%B1%E5%AF%B9%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%8F%91%E5%8A%A8%E8%81%94%E5%90%88%E7%A9%BA%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [张继科风波后首次公开现身](https://www.baidu.com/s?wd=%E5%BC%A0%E7%BB%A7%E7%A7%91%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [春运火车票今日开抢 规则有变](https://www.baidu.com/s?wd=%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E4%BB%8A%E6%97%A5%E5%BC%80%E6%8A%A2+%E8%A7%84%E5%88%99%E6%9C%89%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全面推进美丽中国建设](https://www.baidu.com/s?wd=%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%BF%9B%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大批年轻人买1996年旧日历过新年](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B9%B01996%E5%B9%B4%E6%97%A7%E6%97%A5%E5%8E%86%E8%BF%87%E6%96%B0%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [越来越多本科生“回炉”读职校](https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E6%9C%AC%E7%A7%91%E7%94%9F%E2%80%9C%E5%9B%9E%E7%82%89%E2%80%9D%E8%AF%BB%E8%81%8C%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新郎新娘大喜日子挨个给朋友把脉](https://www.baidu.com/s?wd=%E6%96%B0%E9%83%8E%E6%96%B0%E5%A8%98%E5%A4%A7%E5%96%9C%E6%97%A5%E5%AD%90%E6%8C%A8%E4%B8%AA%E7%BB%99%E6%9C%8B%E5%8F%8B%E6%8A%8A%E8%84%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本福岛百人因吃生鱼片食物中毒](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E7%99%BE%E4%BA%BA%E5%9B%A0%E5%90%83%E7%94%9F%E9%B1%BC%E7%89%87%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [张继科风波后首次公开现身](https://www.baidu.com/s?wd=%E5%BC%A0%E7%BB%A7%E7%A7%91%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [越来越多本科生“回炉”读职校](https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E6%9C%AC%E7%A7%91%E7%94%9F%E2%80%9C%E5%9B%9E%E7%82%89%E2%80%9D%E8%AF%BB%E8%81%8C%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新郎新娘大喜日子挨个给朋友把脉](https://www.baidu.com/s?wd=%E6%96%B0%E9%83%8E%E6%96%B0%E5%A8%98%E5%A4%A7%E5%96%9C%E6%97%A5%E5%AD%90%E6%8C%A8%E4%B8%AA%E7%BB%99%E6%9C%8B%E5%8F%8B%E6%8A%8A%E8%84%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [摩托车电动车相撞9死1伤？](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%9B%B8%E6%92%9E9%E6%AD%BB1%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [总书记开年再部署](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%80%E5%B9%B4%E5%86%8D%E9%83%A8%E7%BD%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [美英对胡塞武装发动联合空袭](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8B%B1%E5%AF%B9%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%8F%91%E5%8A%A8%E8%81%94%E5%90%88%E7%A9%BA%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [张继科风波后首次公开现身](https://www.baidu.com/s?wd=%E5%BC%A0%E7%BB%A7%E7%A7%91%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [春运火车票今日开抢 规则有变](https://www.baidu.com/s?wd=%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E4%BB%8A%E6%97%A5%E5%BC%80%E6%8A%A2+%E8%A7%84%E5%88%99%E6%9C%89%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全面推进美丽中国建设](https://www.baidu.com/s?wd=%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%BF%9B%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大批年轻人买1996年旧日历过新年](https://www.baidu.com/s?wd=%E5%A4%A7%E6%89%B9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B9%B01996%E5%B9%B4%E6%97%A7%E6%97%A5%E5%8E%86%E8%BF%87%E6%96%B0%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [越来越多本科生“回炉”读职校](https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E6%9C%AC%E7%A7%91%E7%94%9F%E2%80%9C%E5%9B%9E%E7%82%89%E2%80%9D%E8%AF%BB%E8%81%8C%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新郎新娘大喜日子挨个给朋友把脉](https://www.baidu.com/s?wd=%E6%96%B0%E9%83%8E%E6%96%B0%E5%A8%98%E5%A4%A7%E5%96%9C%E6%97%A5%E5%AD%90%E6%8C%A8%E4%B8%AA%E7%BB%99%E6%9C%8B%E5%8F%8B%E6%8A%8A%E8%84%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本福岛百人因吃生鱼片食物中毒](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E7%99%BE%E4%BA%BA%E5%9B%A0%E5%90%83%E7%94%9F%E9%B1%BC%E7%89%87%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [张继科风波后首次公开现身](https://www.baidu.com/s?wd=%E5%BC%A0%E7%BB%A7%E7%A7%91%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E7%8E%B0%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [越来越多本科生“回炉”读职校](https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E6%9C%AC%E7%A7%91%E7%94%9F%E2%80%9C%E5%9B%9E%E7%82%89%E2%80%9D%E8%AF%BB%E8%81%8C%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新郎新娘大喜日子挨个给朋友把脉](https://www.baidu.com/s?wd=%E6%96%B0%E9%83%8E%E6%96%B0%E5%A8%98%E5%A4%A7%E5%96%9C%E6%97%A5%E5%AD%90%E6%8C%A8%E4%B8%AA%E7%BB%99%E6%9C%8B%E5%8F%8B%E6%8A%8A%E8%84%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [摩托车电动车相撞9死1伤？](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%9B%B8%E6%92%9E9%E6%AD%BB1%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
