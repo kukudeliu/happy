@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 16:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 16:21:02</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [女子硬扛流感10天两个肺都白了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A1%AC%E6%89%9B%E6%B5%81%E6%84%9F10%E5%A4%A9%E4%B8%A4%E4%B8%AA%E8%82%BA%E9%83%BD%E7%99%BD%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024春运火车票今起开售](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E4%BB%8A%E8%B5%B7%E5%BC%80%E5%94%AE%23&t=31&band_rank=3&Refer=top)<br />
 4. [张艺谋夸奖赵丽颖](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%A4%B8%E5%A5%96%E8%B5%B5%E4%B8%BD%E9%A2%96%23&t=31&band_rank=4&Refer=top)<br />
-5. [国考 想看看分](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%20%E6%83%B3%E7%9C%8B%E7%9C%8B%E5%88%86&t=31&band_rank=5&Refer=top)<br />
-6. [王家卫说女孩晚上拍最美](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E5%A5%B3%E5%AD%A9%E6%99%9A%E4%B8%8A%E6%8B%8D%E6%9C%80%E7%BE%8E%23&t=31&band_rank=6&Refer=top)<br />
-7. [俱乐部回应张继科出任技术顾问](https://s.weibo.com/weibo?q=%23%E4%BF%B1%E4%B9%90%E9%83%A8%E5%9B%9E%E5%BA%94%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%87%BA%E4%BB%BB%E6%8A%80%E6%9C%AF%E9%A1%BE%E9%97%AE%23&t=31&band_rank=7&Refer=top)<br />
+5. [俱乐部回应张继科出任技术顾问](https://s.weibo.com/weibo?q=%23%E4%BF%B1%E4%B9%90%E9%83%A8%E5%9B%9E%E5%BA%94%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%87%BA%E4%BB%BB%E6%8A%80%E6%9C%AF%E9%A1%BE%E9%97%AE%23&t=31&band_rank=5&Refer=top)<br />
+6. [国考 想看看分](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%20%E6%83%B3%E7%9C%8B%E7%9C%8B%E5%88%86&t=31&band_rank=6&Refer=top)<br />
+7. [王家卫说女孩晚上拍最美](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E5%A5%B3%E5%AD%A9%E6%99%9A%E4%B8%8A%E6%8B%8D%E6%9C%80%E7%BE%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [北大校花毕业10年返乡卖臭豆腐](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%A0%A1%E8%8A%B1%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%BF%94%E4%B9%A1%E5%8D%96%E8%87%AD%E8%B1%86%E8%85%90%23&t=31&band_rank=8&Refer=top)<br />
 9. [尔滨一麻辣烫店高挂免战牌](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E4%B8%80%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%BA%97%E9%AB%98%E6%8C%82%E5%85%8D%E6%88%98%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
 
