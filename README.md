@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 14:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 14:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵丽颖微博文案是手语](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BE%AE%E5%8D%9A%E6%96%87%E6%A1%88%E6%98%AF%E6%89%8B%E8%AF%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [2024春节档已官宣六部电影](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%A1%A3%E5%B7%B2%E5%AE%98%E5%AE%A3%E5%85%AD%E9%83%A8%E7%94%B5%E5%BD%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩莹 跟腱断裂](https://s.weibo.com/weibo?q=%E9%9F%A9%E8%8E%B9%20%E8%B7%9F%E8%85%B1%E6%96%AD%E8%A3%82&t=31&band_rank=8&Refer=top)<br />
-9. [王家卫说女孩晚上拍最美](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E5%A5%B3%E5%AD%A9%E6%99%9A%E4%B8%8A%E6%8B%8D%E6%9C%80%E7%BE%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [张继科复出](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%A4%8D%E5%87%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
