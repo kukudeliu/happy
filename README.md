@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 12:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 12:26:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [2024春运火车票今起开售](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E4%BB%8A%E8%B5%B7%E5%BC%80%E5%94%AE%23&t=31&band_rank=3&Refer=top)<br />
 4. [日本福岛百人因吃生鱼片食物中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E7%99%BE%E4%BA%BA%E5%9B%A0%E5%90%83%E7%94%9F%E9%B1%BC%E7%89%87%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&t=31&band_rank=4&Refer=top)<br />
 5. [老人女儿回应张馨予买气球](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%B9%B0%E6%B0%94%E7%90%83%23&t=31&band_rank=5&Refer=top)<br />
-6. [台湾小当归要去尔滨回礼送糖](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%B0%8F%E5%BD%93%E5%BD%92%E8%A6%81%E5%8E%BB%E5%B0%94%E6%BB%A8%E5%9B%9E%E7%A4%BC%E9%80%81%E7%B3%96%23&t=31&band_rank=6&Refer=top)<br />
+6. [路人把谢娜认成了林心如](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E6%8A%8A%E8%B0%A2%E5%A8%9C%E8%AE%A4%E6%88%90%E4%BA%86%E6%9E%97%E5%BF%83%E5%A6%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [官方彻查大量河南初中生转入大庆](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%BD%BB%E6%9F%A5%E5%A4%A7%E9%87%8F%E6%B2%B3%E5%8D%97%E5%88%9D%E4%B8%AD%E7%94%9F%E8%BD%AC%E5%85%A5%E5%A4%A7%E5%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [路人把谢娜认成了林心如](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E6%8A%8A%E8%B0%A2%E5%A8%9C%E8%AE%A4%E6%88%90%E4%BA%86%E6%9E%97%E5%BF%83%E5%A6%82%23&t=31&band_rank=8&Refer=top)<br />
+8. [台湾小当归要去尔滨回礼送糖](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%B0%8F%E5%BD%93%E5%BD%92%E8%A6%81%E5%8E%BB%E5%B0%94%E6%BB%A8%E5%9B%9E%E7%A4%BC%E9%80%81%E7%B3%96%23&t=31&band_rank=8&Refer=top)<br />
 9. [丫丫胖成了A字熊](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E8%83%96%E6%88%90%E4%BA%86A%E5%AD%97%E7%86%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
