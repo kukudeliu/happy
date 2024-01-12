@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 17:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 17:32:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [胡歌马伊琍唐嫣辛芷蕾合体](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E9%A9%AC%E4%BC%8A%E7%90%8D%E5%94%90%E5%AB%A3%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%90%88%E4%BD%93&t=31&band_rank=4&Refer=top)<br />
 5. [折腰补音完成](https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E8%A1%A5%E9%9F%B3%E5%AE%8C%E6%88%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [本以为甄嬛传掀不起什么风浪了](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E4%BB%A5%E4%B8%BA%E7%94%84%E5%AC%9B%E4%BC%A0%E6%8E%80%E4%B8%8D%E8%B5%B7%E4%BB%80%E4%B9%88%E9%A3%8E%E6%B5%AA%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [吴谢宇看守所写道歉信](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E7%9C%8B%E5%AE%88%E6%89%80%E5%86%99%E9%81%93%E6%AD%89%E4%BF%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [绿雪冰城](https://s.weibo.com/weibo?q=%23%E7%BB%BF%E9%9B%AA%E5%86%B0%E5%9F%8E%23&t=31&band_rank=8&Refer=top)<br />
+7. [绿雪冰城](https://s.weibo.com/weibo?q=%23%E7%BB%BF%E9%9B%AA%E5%86%B0%E5%9F%8E%23&t=31&band_rank=7&Refer=top)<br />
+8. [吴谢宇看守所写道歉信](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E7%9C%8B%E5%AE%88%E6%89%80%E5%86%99%E9%81%93%E6%AD%89%E4%BF%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [肖战深V真空西装](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%B7%B1V%E7%9C%9F%E7%A9%BA%E8%A5%BF%E8%A3%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
