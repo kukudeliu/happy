@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 12:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 12:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [公司称春节放假49天 网友：想应聘](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%A7%B0%E6%98%A5%E8%8A%82%E6%94%BE%E5%81%8749%E5%A4%A9+%E7%BD%91%E5%8F%8B%EF%BC%9A%E6%83%B3%E5%BA%94%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美英空袭也门：夜空升起巨大火球](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8B%B1%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%EF%BC%9A%E5%A4%9C%E7%A9%BA%E5%8D%87%E8%B5%B7%E5%B7%A8%E5%A4%A7%E7%81%AB%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国产“三蹦子”在国外街头火了](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E2%80%9C%E4%B8%89%E8%B9%A6%E5%AD%90%E2%80%9D%E5%9C%A8%E5%9B%BD%E5%A4%96%E8%A1%97%E5%A4%B4%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学生上课一学期没学籍？官方：属实](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E4%B8%8A%E8%AF%BE%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%B2%A1%E5%AD%A6%E7%B1%8D%EF%BC%9F%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“反诈网红”被抓 疑涉嫌集资诈骗](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%8D%E8%AF%88%E7%BD%91%E7%BA%A2%E2%80%9D%E8%A2%AB%E6%8A%93+%E7%96%91%E6%B6%89%E5%AB%8C%E9%9B%86%E8%B5%84%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [摩托车电动车相撞9死1伤？](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%9B%B8%E6%92%9E9%E6%AD%BB1%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [公司称春节放假49天 网友：想应聘](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%A7%B0%E6%98%A5%E8%8A%82%E6%94%BE%E5%81%8749%E5%A4%A9+%E7%BD%91%E5%8F%8B%EF%BC%9A%E6%83%B3%E5%BA%94%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美英空袭也门：夜空升起巨大火球](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8B%B1%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%EF%BC%9A%E5%A4%9C%E7%A9%BA%E5%8D%87%E8%B5%B7%E5%B7%A8%E5%A4%A7%E7%81%AB%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国产“三蹦子”在国外街头火了](https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E2%80%9C%E4%B8%89%E8%B9%A6%E5%AD%90%E2%80%9D%E5%9C%A8%E5%9B%BD%E5%A4%96%E8%A1%97%E5%A4%B4%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学生上课一学期没学籍？官方：属实](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E4%B8%8A%E8%AF%BE%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%B2%A1%E5%AD%A6%E7%B1%8D%EF%BC%9F%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“反诈网红”被抓 疑涉嫌集资诈骗](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%8D%E8%AF%88%E7%BD%91%E7%BA%A2%E2%80%9D%E8%A2%AB%E6%8A%93+%E7%96%91%E6%B6%89%E5%AB%8C%E9%9B%86%E8%B5%84%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [摩托车电动车相撞9死1伤？](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%9B%B8%E6%92%9E9%E6%AD%BB1%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
