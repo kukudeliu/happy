@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 08:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 08:52:01</h4></div>
 
 > 微博  
 
 1. [大一女生校内坠亡生前疑遭舍友辱骂](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%80%E5%A5%B3%E7%94%9F%E6%A0%A1%E5%86%85%E5%9D%A0%E4%BA%A1%E7%94%9F%E5%89%8D%E7%96%91%E9%81%AD%E8%88%8D%E5%8F%8B%E8%BE%B1%E9%AA%82%23&t=31&band_rank=1&Refer=top)<br />
-2. [张继科出任俱乐部技术顾问](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%87%BA%E4%BB%BB%E4%BF%B1%E4%B9%90%E9%83%A8%E6%8A%80%E6%9C%AF%E9%A1%BE%E9%97%AE%23&t=31&band_rank=2&Refer=top)<br />
+2. [英美联合空袭也门](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%BE%8E%E8%81%94%E5%90%88%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [关于全面推进美丽中国建设的意见](https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%BF%9B%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%E7%9A%84%E6%84%8F%E8%A7%81%23&t=31&band_rank=3&Refer=top)<br />
-4. [英美联合空袭也门](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%BE%8E%E8%81%94%E5%90%88%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%23&t=31&band_rank=4&Refer=top)<br />
+4. [张继科出任俱乐部技术顾问](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%87%BA%E4%BB%BB%E4%BF%B1%E4%B9%90%E9%83%A8%E6%8A%80%E6%9C%AF%E9%A1%BE%E9%97%AE%23&t=31&band_rank=4&Refer=top)<br />
 5. [腾讯游戏全部断开](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E5%85%A8%E9%83%A8%E6%96%AD%E5%BC%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [国产三蹦子在国外炸街了](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E4%B8%89%E8%B9%A6%E5%AD%90%E5%9C%A8%E5%9B%BD%E5%A4%96%E7%82%B8%E8%A1%97%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [上海地铁明确非日常服饰进站会阻拦](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E6%98%8E%E7%A1%AE%E9%9D%9E%E6%97%A5%E5%B8%B8%E6%9C%8D%E9%A5%B0%E8%BF%9B%E7%AB%99%E4%BC%9A%E9%98%BB%E6%8B%A6%23&t=31&band_rank=7&Refer=top)<br />
