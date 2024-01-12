@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 18:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 18:54:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [我国新能源汽车产销连续九年世界第一](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E8%BF%9E%E7%BB%AD%E4%B9%9D%E5%B9%B4%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [睡觉中途醒了 不要看时间](https://s.weibo.com/weibo?q=%E7%9D%A1%E8%A7%89%E4%B8%AD%E9%80%94%E9%86%92%E4%BA%86%20%E4%B8%8D%E8%A6%81%E7%9C%8B%E6%97%B6%E9%97%B4&t=31&band_rank=4&Refer=top)<br />
 5. [父亲瓷娃娃般照顾抑郁症女儿](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%93%B7%E5%A8%83%E5%A8%83%E8%88%AC%E7%85%A7%E9%A1%BE%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%84%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [霉霉 世一](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%20%E4%B8%96%E4%B8%80&t=31&band_rank=6&Refer=top)<br />
+6. [费加罗 边伯贤](https://s.weibo.com/weibo?q=%E8%B4%B9%E5%8A%A0%E7%BD%97%20%E8%BE%B9%E4%BC%AF%E8%B4%A4&t=31&band_rank=6&Refer=top)<br />
 7. [川川把自己的心尖尖送给尔滨](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%B7%9D%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E5%B0%96%E5%B0%96%E9%80%81%E7%BB%99%E5%B0%94%E6%BB%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [费加罗 边伯贤](https://s.weibo.com/weibo?q=%E8%B4%B9%E5%8A%A0%E7%BD%97%20%E8%BE%B9%E4%BC%AF%E8%B4%A4&t=31&band_rank=8&Refer=top)<br />
+8. [霉霉 世一](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%20%E4%B8%96%E4%B8%80&t=31&band_rank=8&Refer=top)<br />
 9. [王家卫为二刷观众调整繁花](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E4%B8%BA%E4%BA%8C%E5%88%B7%E8%A7%82%E4%BC%97%E8%B0%83%E6%95%B4%E7%B9%81%E8%8A%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
