@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 20:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 20:59:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [中国经济“开门红”带来融融暖意](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E2%80%9C%E5%BC%80%E9%97%A8%E7%BA%A2%E2%80%9D%E5%B8%A6%E6%9D%A5%E8%9E%8D%E8%9E%8D%E6%9A%96%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [关闭自动续费仍被扣费？套路揭秘](https://www.baidu.com/s?wd=%E5%85%B3%E9%97%AD%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E4%BB%8D%E8%A2%AB%E6%89%A3%E8%B4%B9%EF%BC%9F%E5%A5%97%E8%B7%AF%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [父亲瓷娃娃般照顾抑郁症女儿](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E7%93%B7%E5%A8%83%E5%A8%83%E8%88%AC%E7%85%A7%E9%A1%BE%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深圳通报公司男高管违法开除员工](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E9%80%9A%E6%8A%A5%E5%85%AC%E5%8F%B8%E7%94%B7%E9%AB%98%E7%AE%A1%E8%BF%9D%E6%B3%95%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [文莱“亚洲最帅王子”迎娶平民女孩](https://www.baidu.com/s?wd=%E6%96%87%E8%8E%B1%E2%80%9C%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%B8%85%E7%8E%8B%E5%AD%90%E2%80%9D%E8%BF%8E%E5%A8%B6%E5%B9%B3%E6%B0%91%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [冯唐聊年轻人躺平](https://www.baidu.com/s?wd=%23%E5%86%AF%E5%94%90%E8%81%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BA%BA%E5%B9%B3%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣兰州公交涨价](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%85%B0%E5%B7%9E%E5%85%AC%E4%BA%A4%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [中国经济“开门红”带来融融暖意](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E2%80%9C%E5%BC%80%E9%97%A8%E7%BA%A2%E2%80%9D%E5%B8%A6%E6%9D%A5%E8%9E%8D%E8%9E%8D%E6%9A%96%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [关闭自动续费仍被扣费？套路揭秘](https://www.baidu.com/s?wd=%E5%85%B3%E9%97%AD%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E4%BB%8D%E8%A2%AB%E6%89%A3%E8%B4%B9%EF%BC%9F%E5%A5%97%E8%B7%AF%E6%8F%AD%E7%A7%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [父亲瓷娃娃般照顾抑郁症女儿](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E7%93%B7%E5%A8%83%E5%A8%83%E8%88%AC%E7%85%A7%E9%A1%BE%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深圳通报公司男高管违法开除员工](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E9%80%9A%E6%8A%A5%E5%85%AC%E5%8F%B8%E7%94%B7%E9%AB%98%E7%AE%A1%E8%BF%9D%E6%B3%95%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [文莱“亚洲最帅王子”迎娶平民女孩](https://www.baidu.com/s?wd=%E6%96%87%E8%8E%B1%E2%80%9C%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%B8%85%E7%8E%8B%E5%AD%90%E2%80%9D%E8%BF%8E%E5%A8%B6%E5%B9%B3%E6%B0%91%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [冯唐聊年轻人躺平](https://www.baidu.com/s?wd=%23%E5%86%AF%E5%94%90%E8%81%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BA%BA%E5%B9%B3%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣兰州公交涨价](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%85%B0%E5%B7%9E%E5%85%AC%E4%BA%A4%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
