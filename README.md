@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 13:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 13:49:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [日本福岛百人因吃生鱼片食物中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E7%99%BE%E4%BA%BA%E5%9B%A0%E5%90%83%E7%94%9F%E9%B1%BC%E7%89%87%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024春运火车票今起开售](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E4%BB%8A%E8%B5%B7%E5%BC%80%E5%94%AE%23&t=31&band_rank=3&Refer=top)<br />
 4. [热辣滚烫预告 李焕英回眸](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E9%A2%84%E5%91%8A%20%E6%9D%8E%E7%84%95%E8%8B%B1%E5%9B%9E%E7%9C%B8&t=31&band_rank=4&Refer=top)<br />
-5. [2024春节档已官宣六部电影](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%A1%A3%E5%B7%B2%E5%AE%98%E5%AE%A3%E5%85%AD%E9%83%A8%E7%94%B5%E5%BD%B1%23&t=31&band_rank=5&Refer=top)<br />
-6. [赵丽颖微博文案是手语](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BE%AE%E5%8D%9A%E6%96%87%E6%A1%88%E6%98%AF%E6%89%8B%E8%AF%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [清北2023届本科生毕业数据](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8C%972023%E5%B1%8A%E6%9C%AC%E7%A7%91%E7%94%9F%E6%AF%95%E4%B8%9A%E6%95%B0%E6%8D%AE%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈泽 一个亿](https://s.weibo.com/weibo?q=%E9%99%88%E6%B3%BD%20%E4%B8%80%E4%B8%AA%E4%BA%BF&t=31&band_rank=8&Refer=top)<br />
-9. [李铁同款签字安全笔已售9万支](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E5%90%8C%E6%AC%BE%E7%AD%BE%E5%AD%97%E5%AE%89%E5%85%A8%E7%AC%94%E5%B7%B2%E5%94%AE9%E4%B8%87%E6%94%AF%23&t=31&band_rank=9&Refer=top)<br />
+5. [赵丽颖微博文案是手语](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BE%AE%E5%8D%9A%E6%96%87%E6%A1%88%E6%98%AF%E6%89%8B%E8%AF%AD%23&t=31&band_rank=5&Refer=top)<br />
+6. [2024春节档已官宣六部电影](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%A1%A3%E5%B7%B2%E5%AE%98%E5%AE%A3%E5%85%AD%E9%83%A8%E7%94%B5%E5%BD%B1%23&t=31&band_rank=6&Refer=top)<br />
+7. [反诈网红幸卫林被抓](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E7%BD%91%E7%BA%A2%E5%B9%B8%E5%8D%AB%E6%9E%97%E8%A2%AB%E6%8A%93%23&t=31&band_rank=7&Refer=top)<br />
+8. [清北2023届本科生毕业数据](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8C%972023%E5%B1%8A%E6%9C%AC%E7%A7%91%E7%94%9F%E6%AF%95%E4%B8%9A%E6%95%B0%E6%8D%AE%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈泽 一个亿](https://s.weibo.com/weibo?q=%E9%99%88%E6%B3%BD%20%E4%B8%80%E4%B8%AA%E4%BA%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
