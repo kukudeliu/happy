@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 14:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 15:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王家卫说女孩晚上拍最美](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E5%A5%B3%E5%AD%A9%E6%99%9A%E4%B8%8A%E6%8B%8D%E6%9C%80%E7%BE%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [反诈网红幸卫林被抓](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E7%BD%91%E7%BA%A2%E5%B9%B8%E5%8D%AB%E6%9E%97%E8%A2%AB%E6%8A%93%23&t=31&band_rank=7&Refer=top)<br />
 8. [热辣滚烫预告 李焕英回眸](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E9%A2%84%E5%91%8A%20%E6%9D%8E%E7%84%95%E8%8B%B1%E5%9B%9E%E7%9C%B8&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖微博文案是手语](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BE%AE%E5%8D%9A%E6%96%87%E6%A1%88%E6%98%AF%E6%89%8B%E8%AF%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [也门遭空袭](https://s.weibo.com/weibo?q=%23%E4%B9%9F%E9%97%A8%E9%81%AD%E7%A9%BA%E8%A2%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
