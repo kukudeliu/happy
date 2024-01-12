@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 18:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 18:18:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [中国经济“开门红”带来融融暖意](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E2%80%9C%E5%BC%80%E9%97%A8%E7%BA%A2%E2%80%9D%E5%B8%A6%E6%9D%A5%E8%9E%8D%E8%9E%8D%E6%9A%96%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [山东文旅让山东人沉默了](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%96%87%E6%97%85%E8%AE%A9%E5%B1%B1%E4%B8%9C%E4%BA%BA%E6%B2%89%E9%BB%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中方对红海局势紧张升级感到忧虑](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%AF%B9%E7%BA%A2%E6%B5%B7%E5%B1%80%E5%8A%BF%E7%B4%A7%E5%BC%A0%E5%8D%87%E7%BA%A7%E6%84%9F%E5%88%B0%E5%BF%A7%E8%99%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被遗弃半岁女婴父母双亡？当地回应](https://www.baidu.com/s?wd=%E8%A2%AB%E9%81%97%E5%BC%83%E5%8D%8A%E5%B2%81%E5%A5%B3%E5%A9%B4%E7%88%B6%E6%AF%8D%E5%8F%8C%E4%BA%A1%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [春运火车票今日开抢 规则有变](https://www.baidu.com/s?wd=%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E4%BB%8A%E6%97%A5%E5%BC%80%E6%8A%A2+%E8%A7%84%E5%88%99%E6%9C%89%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [冯唐聊年轻人躺平](https://www.baidu.com/s?wd=%23%E5%86%AF%E5%94%90%E8%81%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BA%BA%E5%B9%B3%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乐山金口河大地震系谣言](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E9%87%91%E5%8F%A3%E6%B2%B3%E5%A4%A7%E5%9C%B0%E9%9C%87%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [中国经济“开门红”带来融融暖意](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E2%80%9C%E5%BC%80%E9%97%A8%E7%BA%A2%E2%80%9D%E5%B8%A6%E6%9D%A5%E8%9E%8D%E8%9E%8D%E6%9A%96%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [山东文旅让山东人沉默了](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%96%87%E6%97%85%E8%AE%A9%E5%B1%B1%E4%B8%9C%E4%BA%BA%E6%B2%89%E9%BB%98%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中方对红海局势紧张升级感到忧虑](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%AF%B9%E7%BA%A2%E6%B5%B7%E5%B1%80%E5%8A%BF%E7%B4%A7%E5%BC%A0%E5%8D%87%E7%BA%A7%E6%84%9F%E5%88%B0%E5%BF%A7%E8%99%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被遗弃半岁女婴父母双亡？当地回应](https://www.baidu.com/s?wd=%E8%A2%AB%E9%81%97%E5%BC%83%E5%8D%8A%E5%B2%81%E5%A5%B3%E5%A9%B4%E7%88%B6%E6%AF%8D%E5%8F%8C%E4%BA%A1%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [春运火车票今日开抢 规则有变](https://www.baidu.com/s?wd=%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E4%BB%8A%E6%97%A5%E5%BC%80%E6%8A%A2+%E8%A7%84%E5%88%99%E6%9C%89%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [冯唐聊年轻人躺平](https://www.baidu.com/s?wd=%23%E5%86%AF%E5%94%90%E8%81%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BA%BA%E5%B9%B3%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乐山金口河大地震系谣言](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E9%87%91%E5%8F%A3%E6%B2%B3%E5%A4%A7%E5%9C%B0%E9%9C%87%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
