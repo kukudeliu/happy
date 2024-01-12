@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 13:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 13:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈泽 一个亿](https://s.weibo.com/weibo?q=%E9%99%88%E6%B3%BD%20%E4%B8%80%E4%B8%AA%E4%BA%BF&t=31&band_rank=6&Refer=top)<br />
 7. [日韩机票跌到史上最低](https://s.weibo.com/weibo?q=%23%E6%97%A5%E9%9F%A9%E6%9C%BA%E7%A5%A8%E8%B7%8C%E5%88%B0%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BD%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [老人女儿回应张馨予买气球](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%B9%B0%E6%B0%94%E7%90%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [路人把谢娜认成了林心如](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E6%8A%8A%E8%B0%A2%E5%A8%9C%E8%AE%A4%E6%88%90%E4%BA%86%E6%9E%97%E5%BF%83%E5%A6%82%23&t=31&band_rank=9&Refer=top)<br />
+9. [清北2023届本科生毕业数据](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8C%972023%E5%B1%8A%E6%9C%AC%E7%A7%91%E7%94%9F%E6%AF%95%E4%B8%9A%E6%95%B0%E6%8D%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
