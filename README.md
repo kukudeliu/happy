@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 22:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 22:38:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [文莱“亚洲最帅王子”迎娶平民女孩](https://www.baidu.com/s?wd=%E6%96%87%E8%8E%B1%E2%80%9C%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%B8%85%E7%8E%8B%E5%AD%90%E2%80%9D%E8%BF%8E%E5%A8%B6%E5%B9%B3%E6%B0%91%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [美丽中国什么样？怎么建？](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E4%BB%80%E4%B9%88%E6%A0%B7%EF%BC%9F%E6%80%8E%E4%B9%88%E5%BB%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黑土又回了白云6吨奶](https://www.baidu.com/s?wd=%E9%BB%91%E5%9C%9F%E5%8F%88%E5%9B%9E%E4%BA%86%E7%99%BD%E4%BA%916%E5%90%A8%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [鹤岗文旅局长在哈尔滨做烤串](https://www.baidu.com/s?wd=%E9%B9%A4%E5%B2%97%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E5%81%9A%E7%83%A4%E4%B8%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方回应中学欠费被停电：已复课](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E6%AC%A0%E8%B4%B9%E8%A2%AB%E5%81%9C%E7%94%B5%EF%BC%9A%E5%B7%B2%E5%A4%8D%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游本昌：年轻朋友我永远陪伴你们](https://www.baidu.com/s?wd=%E6%B8%B8%E6%9C%AC%E6%98%8C%EF%BC%9A%E5%B9%B4%E8%BD%BB%E6%9C%8B%E5%8F%8B%E6%88%91%E6%B0%B8%E8%BF%9C%E9%99%AA%E4%BC%B4%E4%BD%A0%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [游本昌：年轻朋友我永远陪伴你们](https://www.baidu.com/s?wd=%E6%B8%B8%E6%9C%AC%E6%98%8C%EF%BC%9A%E5%B9%B4%E8%BD%BB%E6%9C%8B%E5%8F%8B%E6%88%91%E6%B0%B8%E8%BF%9C%E9%99%AA%E4%BC%B4%E4%BD%A0%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [鹤岗文旅局长在哈尔滨做烤串](https://www.baidu.com/s?wd=%E9%B9%A4%E5%B2%97%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E5%81%9A%E7%83%A4%E4%B8%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方回应中学欠费被停电：已复课](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E6%AC%A0%E8%B4%B9%E8%A2%AB%E5%81%9C%E7%94%B5%EF%BC%9A%E5%B7%B2%E5%A4%8D%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣兰州公交涨价](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%85%B0%E5%B7%9E%E5%85%AC%E4%BA%A4%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [文莱“亚洲最帅王子”迎娶平民女孩](https://www.baidu.com/s?wd=%E6%96%87%E8%8E%B1%E2%80%9C%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%B8%85%E7%8E%8B%E5%AD%90%E2%80%9D%E8%BF%8E%E5%A8%B6%E5%B9%B3%E6%B0%91%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [美丽中国什么样？怎么建？](https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E4%BB%80%E4%B9%88%E6%A0%B7%EF%BC%9F%E6%80%8E%E4%B9%88%E5%BB%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [黑土又回了白云6吨奶](https://www.baidu.com/s?wd=%E9%BB%91%E5%9C%9F%E5%8F%88%E5%9B%9E%E4%BA%86%E7%99%BD%E4%BA%916%E5%90%A8%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [鹤岗文旅局长在哈尔滨做烤串](https://www.baidu.com/s?wd=%E9%B9%A4%E5%B2%97%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E5%81%9A%E7%83%A4%E4%B8%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方回应中学欠费被停电：已复课](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E6%AC%A0%E8%B4%B9%E8%A2%AB%E5%81%9C%E7%94%B5%EF%BC%9A%E5%B7%B2%E5%A4%8D%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [游本昌：年轻朋友我永远陪伴你们](https://www.baidu.com/s?wd=%E6%B8%B8%E6%9C%AC%E6%98%8C%EF%BC%9A%E5%B9%B4%E8%BD%BB%E6%9C%8B%E5%8F%8B%E6%88%91%E6%B0%B8%E8%BF%9C%E9%99%AA%E4%BC%B4%E4%BD%A0%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [游本昌：年轻朋友我永远陪伴你们](https://www.baidu.com/s?wd=%E6%B8%B8%E6%9C%AC%E6%98%8C%EF%BC%9A%E5%B9%B4%E8%BD%BB%E6%9C%8B%E5%8F%8B%E6%88%91%E6%B0%B8%E8%BF%9C%E9%99%AA%E4%BC%B4%E4%BD%A0%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [鹤岗文旅局长在哈尔滨做烤串](https://www.baidu.com/s?wd=%E9%B9%A4%E5%B2%97%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E5%81%9A%E7%83%A4%E4%B8%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [官方回应中学欠费被停电：已复课](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E6%AC%A0%E8%B4%B9%E8%A2%AB%E5%81%9C%E7%94%B5%EF%BC%9A%E5%B7%B2%E5%A4%8D%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣兰州公交涨价](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%85%B0%E5%B7%9E%E5%85%AC%E4%BA%A4%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
