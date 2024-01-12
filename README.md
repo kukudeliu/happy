@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 20:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 20:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [0713央视春晚彩排](https://s.weibo.com/weibo?q=0713%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92&t=31&band_rank=6&Refer=top)<br />
 7. [微博之夜嘉宾全阵容集结](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%98%89%E5%AE%BE%E5%85%A8%E9%98%B5%E5%AE%B9%E9%9B%86%E7%BB%93%23&t=31&band_rank=7&Refer=top)<br />
 8. [她不再是过去的赵丽颖](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%B8%8D%E5%86%8D%E6%98%AF%E8%BF%87%E5%8E%BB%E7%9A%84%E8%B5%B5%E4%B8%BD%E9%A2%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [尤长靖 内娱轮回](https://s.weibo.com/weibo?q=%E5%B0%A4%E9%95%BF%E9%9D%96%20%E5%86%85%E5%A8%B1%E8%BD%AE%E5%9B%9E&t=31&band_rank=9&Refer=top)<br />
+9. [杨幂说自己穿新中式被看到是荣幸](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%AF%B4%E8%87%AA%E5%B7%B1%E7%A9%BF%E6%96%B0%E4%B8%AD%E5%BC%8F%E8%A2%AB%E7%9C%8B%E5%88%B0%E6%98%AF%E8%8D%A3%E5%B9%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
