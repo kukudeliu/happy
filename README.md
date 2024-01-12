@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 19:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 19:32:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [父亲瓷娃娃般照顾抑郁症女儿](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%93%B7%E5%A8%83%E5%A8%83%E8%88%AC%E7%85%A7%E9%A1%BE%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%84%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [尤长靖 内娱轮回](https://s.weibo.com/weibo?q=%E5%B0%A4%E9%95%BF%E9%9D%96%20%E5%86%85%E5%A8%B1%E8%BD%AE%E5%9B%9E&t=31&band_rank=6&Refer=top)<br />
 7. [川川把自己的心尖尖送给尔滨](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%B7%9D%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E5%B0%96%E5%B0%96%E9%80%81%E7%BB%99%E5%B0%94%E6%BB%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [费加罗 边伯贤](https://s.weibo.com/weibo?q=%E8%B4%B9%E5%8A%A0%E7%BD%97%20%E8%BE%B9%E4%BC%AF%E8%B4%A4&t=31&band_rank=8&Refer=top)<br />
-9. [霉霉 世一](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%20%E4%B8%96%E4%B8%80&t=31&band_rank=9&Refer=top)<br />
+8. [关闭自动续费仍被扣费](https://s.weibo.com/weibo?q=%23%E5%85%B3%E9%97%AD%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E4%BB%8D%E8%A2%AB%E6%89%A3%E8%B4%B9%23&t=31&band_rank=8&Refer=top)<br />
+9. [费加罗 边伯贤](https://s.weibo.com/weibo?q=%E8%B4%B9%E5%8A%A0%E7%BD%97%20%E8%BE%B9%E4%BC%AF%E8%B4%A4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
