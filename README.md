@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 17:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 17:16:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [国剧盛典红毯](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%89%A7%E7%9B%9B%E5%85%B8%E7%BA%A2%E6%AF%AF&t=31&band_rank=4&Refer=top)<br />
 5. [本以为甄嬛传掀不起什么风浪了](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E4%BB%A5%E4%B8%BA%E7%94%84%E5%AC%9B%E4%BC%A0%E6%8E%80%E4%B8%8D%E8%B5%B7%E4%BB%80%E4%B9%88%E9%A3%8E%E6%B5%AA%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [肖战深V真空西装](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%B7%B1V%E7%9C%9F%E7%A9%BA%E8%A5%BF%E8%A3%85%23&t=31&band_rank=6&Refer=top)<br />
-7. [吴谢宇看守所写道歉信](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E7%9C%8B%E5%AE%88%E6%89%80%E5%86%99%E9%81%93%E6%AD%89%E4%BF%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [我叫毛利小五郎 是个针探](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AB%E6%AF%9B%E5%88%A9%E5%B0%8F%E4%BA%94%E9%83%8E%20%E6%98%AF%E4%B8%AA%E9%92%88%E6%8E%A2&t=31&band_rank=8&Refer=top)<br />
-9. [折腰补音完成](https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E8%A1%A5%E9%9F%B3%E5%AE%8C%E6%88%90%23&t=31&band_rank=9&Refer=top)<br />
+7. [折腰补音完成](https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E8%A1%A5%E9%9F%B3%E5%AE%8C%E6%88%90%23&t=31&band_rank=7&Refer=top)<br />
+8. [吴谢宇看守所写道歉信](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E7%9C%8B%E5%AE%88%E6%89%80%E5%86%99%E9%81%93%E6%AD%89%E4%BF%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [我叫毛利小五郎 是个针探](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AB%E6%AF%9B%E5%88%A9%E5%B0%8F%E4%BA%94%E9%83%8E%20%E6%98%AF%E4%B8%AA%E9%92%88%E6%8E%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
