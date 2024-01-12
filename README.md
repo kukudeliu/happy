@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 08:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 08:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [第一次见男主把女主吊起来哄睡](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%94%B7%E4%B8%BB%E6%8A%8A%E5%A5%B3%E4%B8%BB%E5%90%8A%E8%B5%B7%E6%9D%A5%E5%93%84%E7%9D%A1&t=31&band_rank=6&Refer=top)<br />
 7. [俞敏洪用董宇辉完成了去董化](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%94%A8%E8%91%A3%E5%AE%87%E8%BE%89%E5%AE%8C%E6%88%90%E4%BA%86%E5%8E%BB%E8%91%A3%E5%8C%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [当你在睡觉领导给你打电话](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E5%9C%A8%E7%9D%A1%E8%A7%89%E9%A2%86%E5%AF%BC%E7%BB%99%E4%BD%A0%E6%89%93%E7%94%B5%E8%AF%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [农妇卖150份粉蒸肉被判赔5万撤销原判](https://s.weibo.com/weibo?q=%23%E5%86%9C%E5%A6%87%E5%8D%96150%E4%BB%BD%E7%B2%89%E8%92%B8%E8%82%89%E8%A2%AB%E5%88%A4%E8%B5%945%E4%B8%87%E6%92%A4%E9%94%80%E5%8E%9F%E5%88%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [国产三蹦子在国外炸街了](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E4%B8%89%E8%B9%A6%E5%AD%90%E5%9C%A8%E5%9B%BD%E5%A4%96%E7%82%B8%E8%A1%97%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
