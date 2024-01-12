@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 19:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 19:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [微博之夜嘉宾全阵容集结](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%98%89%E5%AE%BE%E5%85%A8%E9%98%B5%E5%AE%B9%E9%9B%86%E7%BB%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [川川把自己的心尖尖送给尔滨](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%B7%9D%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E5%B0%96%E5%B0%96%E9%80%81%E7%BB%99%E5%B0%94%E6%BB%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [尤长靖 内娱轮回](https://s.weibo.com/weibo?q=%E5%B0%A4%E9%95%BF%E9%9D%96%20%E5%86%85%E5%A8%B1%E8%BD%AE%E5%9B%9E&t=31&band_rank=8&Refer=top)<br />
-9. [费加罗 边伯贤](https://s.weibo.com/weibo?q=%E8%B4%B9%E5%8A%A0%E7%BD%97%20%E8%BE%B9%E4%BC%AF%E8%B4%A4&t=31&band_rank=9&Refer=top)<br />
+9. [她不再是过去的赵丽颖](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%B8%8D%E5%86%8D%E6%98%AF%E8%BF%87%E5%8E%BB%E7%9A%84%E8%B5%B5%E4%B8%BD%E9%A2%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
