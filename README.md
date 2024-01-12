@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 14:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 14:23:01</h4></div>
 
 > 微博  
 
 1. [张继科复出](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%A4%8D%E5%87%BA&t=31&band_rank=1&Refer=top)<br />
 2. [女子硬扛流感10天两个肺都白了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A1%AC%E6%89%9B%E6%B5%81%E6%84%9F10%E5%A4%A9%E4%B8%A4%E4%B8%AA%E8%82%BA%E9%83%BD%E7%99%BD%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024春运火车票今起开售](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E4%BB%8A%E8%B5%B7%E5%BC%80%E5%94%AE%23&t=31&band_rank=3&Refer=top)<br />
-4. [女子继承千万欧元遗产想找50个人帮忙花](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%A7%E6%89%BF%E5%8D%83%E4%B8%87%E6%AC%A7%E5%85%83%E9%81%97%E4%BA%A7%E6%83%B3%E6%89%BE50%E4%B8%AA%E4%BA%BA%E5%B8%AE%E5%BF%99%E8%8A%B1%23&t=31&band_rank=4&Refer=top)<br />
-5. [山东省考出分](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E7%9C%81%E8%80%83%E5%87%BA%E5%88%86&t=31&band_rank=5&Refer=top)<br />
+4. [山东省考出分](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E7%9C%81%E8%80%83%E5%87%BA%E5%88%86&t=31&band_rank=4&Refer=top)<br />
+5. [女子继承千万欧元遗产想找50个人帮忙花](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%A7%E6%89%BF%E5%8D%83%E4%B8%87%E6%AC%A7%E5%85%83%E9%81%97%E4%BA%A7%E6%83%B3%E6%89%BE50%E4%B8%AA%E4%BA%BA%E5%B8%AE%E5%BF%99%E8%8A%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [北大校花毕业10年返乡卖臭豆腐](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%A0%A1%E8%8A%B1%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%BF%94%E4%B9%A1%E5%8D%96%E8%87%AD%E8%B1%86%E8%85%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [反诈网红幸卫林被抓](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E7%BD%91%E7%BA%A2%E5%B9%B8%E5%8D%AB%E6%9E%97%E8%A2%AB%E6%8A%93%23&t=31&band_rank=7&Refer=top)<br />
-8. [热辣滚烫预告 李焕英回眸](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E9%A2%84%E5%91%8A%20%E6%9D%8E%E7%84%95%E8%8B%B1%E5%9B%9E%E7%9C%B8&t=31&band_rank=8&Refer=top)<br />
-9. [王家卫说女孩晚上拍最美](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E5%A5%B3%E5%AD%A9%E6%99%9A%E4%B8%8A%E6%8B%8D%E6%9C%80%E7%BE%8E%23&t=31&band_rank=9&Refer=top)<br />
+8. [王家卫说女孩晚上拍最美](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E5%A5%B3%E5%AD%A9%E6%99%9A%E4%B8%8A%E6%8B%8D%E6%9C%80%E7%BE%8E%23&t=31&band_rank=8&Refer=top)<br />
+9. [热辣滚烫预告 李焕英回眸](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E9%A2%84%E5%91%8A%20%E6%9D%8E%E7%84%95%E8%8B%B1%E5%9B%9E%E7%9C%B8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
