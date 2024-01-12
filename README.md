@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 18:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 18:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [微博之夜嘉宾全阵容集结](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%98%89%E5%AE%BE%E5%85%A8%E9%98%B5%E5%AE%B9%E9%9B%86%E7%BB%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [川川把自己的心尖尖送给尔滨](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%B7%9D%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E5%B0%96%E5%B0%96%E9%80%81%E7%BB%99%E5%B0%94%E6%BB%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [胡歌马伊琍唐嫣辛芷蕾合体](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E9%A9%AC%E4%BC%8A%E7%90%8D%E5%94%90%E5%AB%A3%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%90%88%E4%BD%93&t=31&band_rank=8&Refer=top)<br />
-9. [尔滨一麻辣烫店高挂免战牌](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E4%B8%80%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%BA%97%E9%AB%98%E6%8C%82%E5%85%8D%E6%88%98%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [王家卫为二刷观众调整繁花](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E4%B8%BA%E4%BA%8C%E5%88%B7%E8%A7%82%E4%BC%97%E8%B0%83%E6%95%B4%E7%B9%81%E8%8A%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
