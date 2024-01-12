@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 13:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 13:12:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [赵丽颖微博文案是手语](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BE%AE%E5%8D%9A%E6%96%87%E6%A1%88%E6%98%AF%E6%89%8B%E8%AF%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [2024春节档已官宣六部电影](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%A1%A3%E5%B7%B2%E5%AE%98%E5%AE%A3%E5%85%AD%E9%83%A8%E7%94%B5%E5%BD%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈泽 一个亿](https://s.weibo.com/weibo?q=%E9%99%88%E6%B3%BD%20%E4%B8%80%E4%B8%AA%E4%BA%BF&t=31&band_rank=6&Refer=top)<br />
-7. [日韩机票跌到史上最低](https://s.weibo.com/weibo?q=%23%E6%97%A5%E9%9F%A9%E6%9C%BA%E7%A5%A8%E8%B7%8C%E5%88%B0%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BD%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [老人女儿回应张馨予买气球](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%B9%B0%E6%B0%94%E7%90%83%23&t=31&band_rank=8&Refer=top)<br />
+7. [老人女儿回应张馨予买气球](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%B9%B0%E6%B0%94%E7%90%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [日韩机票跌到史上最低](https://s.weibo.com/weibo?q=%23%E6%97%A5%E9%9F%A9%E6%9C%BA%E7%A5%A8%E8%B7%8C%E5%88%B0%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BD%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [清北2023届本科生毕业数据](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8C%972023%E5%B1%8A%E6%9C%AC%E7%A7%91%E7%94%9F%E6%AF%95%E4%B8%9A%E6%95%B0%E6%8D%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [公司称春节放假49天 网友：想应聘](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%A7%B0%E6%98%A5%E8%8A%82%E6%94%BE%E5%81%8749%E5%A4%A9+%E7%BD%91%E5%8F%8B%EF%BC%9A%E6%83%B3%E5%BA%94%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子继承千万遗产 想找50个人帮花](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%A7%E6%89%BF%E5%8D%83%E4%B8%87%E9%81%97%E4%BA%A7+%E6%83%B3%E6%89%BE50%E4%B8%AA%E4%BA%BA%E5%B8%AE%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美英空袭也门：夜空升起巨大火球](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8B%B1%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%EF%BC%9A%E5%A4%9C%E7%A9%BA%E5%8D%87%E8%B5%B7%E5%B7%A8%E5%A4%A7%E7%81%AB%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学生上课一学期没学籍？官方：属实](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E4%B8%8A%E8%AF%BE%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%B2%A1%E5%AD%A6%E7%B1%8D%EF%BC%9F%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本震区避难所传染病疫情蔓延](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%9C%87%E5%8C%BA%E9%81%BF%E9%9A%BE%E6%89%80%E4%BC%A0%E6%9F%93%E7%97%85%E7%96%AB%E6%83%85%E8%94%93%E5%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [摩托车电动车相撞9死1伤？](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%9B%B8%E6%92%9E9%E6%AD%BB1%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [公司称春节放假49天 网友：想应聘](https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%A7%B0%E6%98%A5%E8%8A%82%E6%94%BE%E5%81%8749%E5%A4%A9+%E7%BD%91%E5%8F%8B%EF%BC%9A%E6%83%B3%E5%BA%94%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子继承千万遗产 想找50个人帮花](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%A7%E6%89%BF%E5%8D%83%E4%B8%87%E9%81%97%E4%BA%A7+%E6%83%B3%E6%89%BE50%E4%B8%AA%E4%BA%BA%E5%B8%AE%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [美英空袭也门：夜空升起巨大火球](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8B%B1%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%EF%BC%9A%E5%A4%9C%E7%A9%BA%E5%8D%87%E8%B5%B7%E5%B7%A8%E5%A4%A7%E7%81%AB%E7%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学生上课一学期没学籍？官方：属实](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E4%B8%8A%E8%AF%BE%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%B2%A1%E5%AD%A6%E7%B1%8D%EF%BC%9F%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本震区避难所传染病疫情蔓延](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%9C%87%E5%8C%BA%E9%81%BF%E9%9A%BE%E6%89%80%E4%BC%A0%E6%9F%93%E7%97%85%E7%96%AB%E6%83%85%E8%94%93%E5%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [摩托车电动车相撞9死1伤？](https://www.baidu.com/s?wd=%E6%91%A9%E6%89%98%E8%BD%A6%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%9B%B8%E6%92%9E9%E6%AD%BB1%E4%BC%A4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
