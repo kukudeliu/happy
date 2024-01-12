@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 22:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 22:31:01</h4></div>
 
 > 微博  
 
 1. [这居然是董子健](https://s.weibo.com/weibo?q=%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E8%91%A3%E5%AD%90%E5%81%A5&t=31&band_rank=1&Refer=top)<br />
-2. [0713央视春晚彩排](https://s.weibo.com/weibo?q=0713%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92&t=31&band_rank=2&Refer=top)<br />
+2. [亚洲最帅王子迎娶平民女孩](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%B8%85%E7%8E%8B%E5%AD%90%E8%BF%8E%E5%A8%B6%E5%B9%B3%E6%B0%91%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=2&Refer=top)<br />
 3. [为了吃好饭中国人有多认真](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%86%E5%90%83%E5%A5%BD%E9%A5%AD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E5%A4%9A%E8%AE%A4%E7%9C%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [亚洲最帅王子迎娶平民女孩](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%B8%85%E7%8E%8B%E5%AD%90%E8%BF%8E%E5%A8%B6%E5%B9%B3%E6%B0%91%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=4&Refer=top)<br />
+4. [0713央视春晚彩排](https://s.weibo.com/weibo?q=0713%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92&t=31&band_rank=4&Refer=top)<br />
 5. [游本昌 年轻的朋友我永远陪伴你们](https://s.weibo.com/weibo?q=%E6%B8%B8%E6%9C%AC%E6%98%8C%20%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%88%91%E6%B0%B8%E8%BF%9C%E9%99%AA%E4%BC%B4%E4%BD%A0%E4%BB%AC&t=31&band_rank=5&Refer=top)<br />
 6. [老师 我们家苏醒呢](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%20%E6%88%91%E4%BB%AC%E5%AE%B6%E8%8B%8F%E9%86%92%E5%91%A2&t=31&band_rank=6&Refer=top)<br />
 7. [丫丫回国后模样爆改](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%90%8E%E6%A8%A1%E6%A0%B7%E7%88%86%E6%94%B9%23&t=31&band_rank=7&Refer=top)<br />
