@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 11:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 11:56:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [老人女儿回应张馨予买气球](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%B9%B0%E6%B0%94%E7%90%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [台湾小当归要去尔滨回礼送糖](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%B0%8F%E5%BD%93%E5%BD%92%E8%A6%81%E5%8E%BB%E5%B0%94%E6%BB%A8%E5%9B%9E%E7%A4%BC%E9%80%81%E7%B3%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [丫丫胖成了A字熊](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E8%83%96%E6%88%90%E4%BA%86A%E5%AD%97%E7%86%8A%23&t=31&band_rank=6&Refer=top)<br />
-7. [路人把谢娜认成了林心如](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E6%8A%8A%E8%B0%A2%E5%A8%9C%E8%AE%A4%E6%88%90%E4%BA%86%E6%9E%97%E5%BF%83%E5%A6%82%23&t=31&band_rank=7&Refer=top)<br />
-8. [与辉同行因没东西卖停播一天](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E5%9B%A0%E6%B2%A1%E4%B8%9C%E8%A5%BF%E5%8D%96%E5%81%9C%E6%92%AD%E4%B8%80%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [贾玲健身教练发声](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
+7. [日本福岛百人因吃生鱼片食物中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E7%99%BE%E4%BA%BA%E5%9B%A0%E5%90%83%E7%94%9F%E9%B1%BC%E7%89%87%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&t=31&band_rank=7&Refer=top)<br />
+8. [路人把谢娜认成了林心如](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E6%8A%8A%E8%B0%A2%E5%A8%9C%E8%AE%A4%E6%88%90%E4%BA%86%E6%9E%97%E5%BF%83%E5%A6%82%23&t=31&band_rank=8&Refer=top)<br />
+9. [与辉同行因没东西卖停播一天](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E5%9B%A0%E6%B2%A1%E4%B8%9C%E8%A5%BF%E5%8D%96%E5%81%9C%E6%92%AD%E4%B8%80%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
