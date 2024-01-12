@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 15:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 15:57:01</h4></div>
 
 > 微博  
 
 1. [这该不会是贾玲的胳膊吧](https://s.weibo.com/weibo?q=%E8%BF%99%E8%AF%A5%E4%B8%8D%E4%BC%9A%E6%98%AF%E8%B4%BE%E7%8E%B2%E7%9A%84%E8%83%B3%E8%86%8A%E5%90%A7&t=31&band_rank=1&Refer=top)<br />
 2. [女子硬扛流感10天两个肺都白了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A1%AC%E6%89%9B%E6%B5%81%E6%84%9F10%E5%A4%A9%E4%B8%A4%E4%B8%AA%E8%82%BA%E9%83%BD%E7%99%BD%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024春运火车票今起开售](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E4%BB%8A%E8%B5%B7%E5%BC%80%E5%94%AE%23&t=31&band_rank=3&Refer=top)<br />
-4. [张继科复出](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%A4%8D%E5%87%BA&t=31&band_rank=4&Refer=top)<br />
-5. [张艺谋夸奖赵丽颖](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%A4%B8%E5%A5%96%E8%B5%B5%E4%B8%BD%E9%A2%96%23&t=31&band_rank=5&Refer=top)<br />
+4. [张艺谋夸奖赵丽颖](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%A4%B8%E5%A5%96%E8%B5%B5%E4%B8%BD%E9%A2%96%23&t=31&band_rank=4&Refer=top)<br />
+5. [张继科复出](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%A4%8D%E5%87%BA&t=31&band_rank=5&Refer=top)<br />
 6. [北大校花毕业10年返乡卖臭豆腐](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%A0%A1%E8%8A%B1%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%BF%94%E4%B9%A1%E5%8D%96%E8%87%AD%E8%B1%86%E8%85%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [王家卫说女孩晚上拍最美](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E5%A5%B3%E5%AD%A9%E6%99%9A%E4%B8%8A%E6%8B%8D%E6%9C%80%E7%BE%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨幂现身龙年春晚彩排](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%8E%B0%E8%BA%AB%E9%BE%99%E5%B9%B4%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%23&t=31&band_rank=8&Refer=top)<br />
