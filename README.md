@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 15:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 15:08:01</h4></div>
 
 > 微博  
 
-1. [张继科复出](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%A4%8D%E5%87%BA&t=31&band_rank=1&Refer=top)<br />
-2. [女子硬扛流感10天两个肺都白了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A1%AC%E6%89%9B%E6%B5%81%E6%84%9F10%E5%A4%A9%E4%B8%A4%E4%B8%AA%E8%82%BA%E9%83%BD%E7%99%BD%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [女子硬扛流感10天两个肺都白了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A1%AC%E6%89%9B%E6%B5%81%E6%84%9F10%E5%A4%A9%E4%B8%A4%E4%B8%AA%E8%82%BA%E9%83%BD%E7%99%BD%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [张继科复出](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%A4%8D%E5%87%BA&t=31&band_rank=2&Refer=top)<br />
 3. [2024春运火车票今起开售](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E4%BB%8A%E8%B5%B7%E5%BC%80%E5%94%AE%23&t=31&band_rank=3&Refer=top)<br />
 4. [北大校花毕业10年返乡卖臭豆腐](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%A0%A1%E8%8A%B1%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%BF%94%E4%B9%A1%E5%8D%96%E8%87%AD%E8%B1%86%E8%85%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [山东省考出分](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E7%9C%81%E8%80%83%E5%87%BA%E5%88%86&t=31&band_rank=5&Refer=top)<br />
