@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 18:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 18:48:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [父亲瓷娃娃般照顾抑郁症女儿](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E7%93%B7%E5%A8%83%E5%A8%83%E8%88%AC%E7%85%A7%E9%A1%BE%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [文莱“亚洲最帅王子”迎娶平民女孩](https://www.baidu.com/s?wd=%E6%96%87%E8%8E%B1%E2%80%9C%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%B8%85%E7%8E%8B%E5%AD%90%E2%80%9D%E8%BF%8E%E5%A8%B6%E5%B9%B3%E6%B0%91%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [冯唐聊年轻人躺平](https://www.baidu.com/s?wd=%23%E5%86%AF%E5%94%90%E8%81%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BA%BA%E5%B9%B3%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乐山金口河大地震系谣言](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E9%87%91%E5%8F%A3%E6%B2%B3%E5%A4%A7%E5%9C%B0%E9%9C%87%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方辟谣兰州公交涨价](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%85%B0%E5%B7%9E%E5%85%AC%E4%BA%A4%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [父亲瓷娃娃般照顾抑郁症女儿](https://www.baidu.com/s?wd=%E7%88%B6%E4%BA%B2%E7%93%B7%E5%A8%83%E5%A8%83%E8%88%AC%E7%85%A7%E9%A1%BE%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [文莱“亚洲最帅王子”迎娶平民女孩](https://www.baidu.com/s?wd=%E6%96%87%E8%8E%B1%E2%80%9C%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%B8%85%E7%8E%8B%E5%AD%90%E2%80%9D%E8%BF%8E%E5%A8%B6%E5%B9%B3%E6%B0%91%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [冯唐聊年轻人躺平](https://www.baidu.com/s?wd=%23%E5%86%AF%E5%94%90%E8%81%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BA%BA%E5%B9%B3%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [乐山金口河大地震系谣言](https://www.baidu.com/s?wd=%E4%B9%90%E5%B1%B1%E9%87%91%E5%8F%A3%E6%B2%B3%E5%A4%A7%E5%9C%B0%E9%9C%87%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [官方辟谣兰州公交涨价](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%85%B0%E5%B7%9E%E5%85%AC%E4%BA%A4%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
