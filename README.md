@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 01:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 01:23:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [游本昌 年轻的朋友我永远陪伴你们](https://s.weibo.com/weibo?q=%E6%B8%B8%E6%9C%AC%E6%98%8C%20%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%88%91%E6%B0%B8%E8%BF%9C%E9%99%AA%E4%BC%B4%E4%BD%A0%E4%BB%AC&t=31&band_rank=6&Refer=top)<br />
 7. [俞灏明三个小时做了一只鸡](https://s.weibo.com/weibo?q=%E4%BF%9E%E7%81%8F%E6%98%8E%E4%B8%89%E4%B8%AA%E5%B0%8F%E6%97%B6%E5%81%9A%E4%BA%86%E4%B8%80%E5%8F%AA%E9%B8%A1&t=31&band_rank=7&Refer=top)<br />
 8. [丫丫回国后模样爆改](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%90%8E%E6%A8%A1%E6%A0%B7%E7%88%86%E6%94%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [沈腾句句不提贾玲句句都是贾玲](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%8F%A5%E5%8F%A5%E4%B8%8D%E6%8F%90%E8%B4%BE%E7%8E%B2%E5%8F%A5%E5%8F%A5%E9%83%BD%E6%98%AF%E8%B4%BE%E7%8E%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘德华下个月就要去超市上班了](https://s.weibo.com/weibo?q=%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%8B%E4%B8%AA%E6%9C%88%E5%B0%B1%E8%A6%81%E5%8E%BB%E8%B6%85%E5%B8%82%E4%B8%8A%E7%8F%AD%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
