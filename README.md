@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 14:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 14:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [北大校花毕业10年返乡卖臭豆腐](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%A0%A1%E8%8A%B1%E6%AF%95%E4%B8%9A10%E5%B9%B4%E8%BF%94%E4%B9%A1%E5%8D%96%E8%87%AD%E8%B1%86%E8%85%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [反诈网红幸卫林被抓](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E7%BD%91%E7%BA%A2%E5%B9%B8%E5%8D%AB%E6%9E%97%E8%A2%AB%E6%8A%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [热辣滚烫预告 李焕英回眸](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E9%A2%84%E5%91%8A%20%E6%9D%8E%E7%84%95%E8%8B%B1%E5%9B%9E%E7%9C%B8&t=31&band_rank=7&Refer=top)<br />
-8. [日本福岛百人因吃生鱼片食物中毒](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E7%99%BE%E4%BA%BA%E5%9B%A0%E5%90%83%E7%94%9F%E9%B1%BC%E7%89%87%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [王家卫说女孩晚上拍最美](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E5%A5%B3%E5%AD%A9%E6%99%9A%E4%B8%8A%E6%8B%8D%E6%9C%80%E7%BE%8E%23&t=31&band_rank=9&Refer=top)<br />
+8. [王家卫说女孩晚上拍最美](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E5%A5%B3%E5%AD%A9%E6%99%9A%E4%B8%8A%E6%8B%8D%E6%9C%80%E7%BE%8E%23&t=31&band_rank=8&Refer=top)<br />
+9. [山东省考出分](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E7%9C%81%E8%80%83%E5%87%BA%E5%88%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
