@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 03:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 03:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [丫丫回国后模样爆改](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%90%8E%E6%A8%A1%E6%A0%B7%E7%88%86%E6%94%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘德华下个月就要去超市上班了](https://s.weibo.com/weibo?q=%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%8B%E4%B8%AA%E6%9C%88%E5%B0%B1%E8%A6%81%E5%8E%BB%E8%B6%85%E5%B8%82%E4%B8%8A%E7%8F%AD%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [官方回应镇政府工作人员上班打游戏](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%95%87%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E4%B8%8A%E7%8F%AD%E6%89%93%E6%B8%B8%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [这居然是董子健](https://s.weibo.com/weibo?q=%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E8%91%A3%E5%AD%90%E5%81%A5&t=31&band_rank=9&Refer=top)<br />
+9. [0713央视春晚彩排](https://s.weibo.com/weibo?q=0713%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
