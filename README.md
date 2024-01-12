@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 10:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 10:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [官方回应大量河南学生中考移民至黑龙江](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%A7%E9%87%8F%E6%B2%B3%E5%8D%97%E5%AD%A6%E7%94%9F%E4%B8%AD%E8%80%83%E7%A7%BB%E6%B0%91%E8%87%B3%E9%BB%91%E9%BE%99%E6%B1%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [特斯拉降价](https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E9%99%8D%E4%BB%B7&t=31&band_rank=7&Refer=top)<br />
 8. [医生谈贾玲整容式暴瘦](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%B0%88%E8%B4%BE%E7%8E%B2%E6%95%B4%E5%AE%B9%E5%BC%8F%E6%9A%B4%E7%98%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [拜登回应英美空袭也门](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%9B%9E%E5%BA%94%E8%8B%B1%E7%BE%8E%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [爱泼斯坦让17岁少女陪侍安德鲁王子](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%AE%A917%E5%B2%81%E5%B0%91%E5%A5%B3%E9%99%AA%E4%BE%8D%E5%AE%89%E5%BE%B7%E9%B2%81%E7%8E%8B%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
