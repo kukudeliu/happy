@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 19:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-12 19:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [父亲瓷娃娃般照顾抑郁症女儿](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%93%B7%E5%A8%83%E5%A8%83%E8%88%AC%E7%85%A7%E9%A1%BE%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%84%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [尤长靖 内娱轮回](https://s.weibo.com/weibo?q=%E5%B0%A4%E9%95%BF%E9%9D%96%20%E5%86%85%E5%A8%B1%E8%BD%AE%E5%9B%9E&t=31&band_rank=6&Refer=top)<br />
 7. [川川把自己的心尖尖送给尔滨](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%B7%9D%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E5%B0%96%E5%B0%96%E9%80%81%E7%BB%99%E5%B0%94%E6%BB%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [微博之夜嘉宾全阵容集结](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%98%89%E5%AE%BE%E5%85%A8%E9%98%B5%E5%AE%B9%E9%9B%86%E7%BB%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙颖莎11比0](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E11%E6%AF%940%23&t=31&band_rank=9&Refer=top)<br />
+8. [孙颖莎11比0](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E11%E6%AF%940%23&t=31&band_rank=8&Refer=top)<br />
+9. [微博之夜嘉宾全阵容集结](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%98%89%E5%AE%BE%E5%85%A8%E9%98%B5%E5%AE%B9%E9%9B%86%E7%BB%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
