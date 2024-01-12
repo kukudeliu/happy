@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 07:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 07:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [沈腾句句不提贾玲句句都是贾玲](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%8F%A5%E5%8F%A5%E4%B8%8D%E6%8F%90%E8%B4%BE%E7%8E%B2%E5%8F%A5%E5%8F%A5%E9%83%BD%E6%98%AF%E8%B4%BE%E7%8E%B2%23&t=31&band_rank=5&Refer=top)<br />
 6. [睡觉中途醒了 不要看时间](https://s.weibo.com/weibo?q=%E7%9D%A1%E8%A7%89%E4%B8%AD%E9%80%94%E9%86%92%E4%BA%86%20%E4%B8%8D%E8%A6%81%E7%9C%8B%E6%97%B6%E9%97%B4&t=31&band_rank=6&Refer=top)<br />
 7. [刘德华下个月就要去超市上班了](https://s.weibo.com/weibo?q=%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%8B%E4%B8%AA%E6%9C%88%E5%B0%B1%E8%A6%81%E5%8E%BB%E8%B6%85%E5%B8%82%E4%B8%8A%E7%8F%AD%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [官方回应镇政府工作人员上班打游戏](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%95%87%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E4%B8%8A%E7%8F%AD%E6%89%93%E6%B8%B8%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [河南煤矿事故8人遇难15人失联](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%858%E4%BA%BA%E9%81%87%E9%9A%BE15%E4%BA%BA%E5%A4%B1%E8%81%94%23&t=31&band_rank=9&Refer=top)<br />
+8. [霍尊复出](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%B0%8A%E5%A4%8D%E5%87%BA&t=31&band_rank=8&Refer=top)<br />
+9. [官方回应镇政府工作人员上班打游戏](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%95%87%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E4%B8%8A%E7%8F%AD%E6%89%93%E6%B8%B8%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
