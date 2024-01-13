@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 11:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 11:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [花旗宣布裁员2万人](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%97%97%E5%AE%A3%E5%B8%83%E8%A3%81%E5%91%982%E4%B8%87%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [河南文旅真的把王一博搞来了](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%87%E6%97%85%E7%9C%9F%E7%9A%84%E6%8A%8A%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%90%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [实际面积少0.38平业主要求退差价](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E9%99%85%E9%9D%A2%E7%A7%AF%E5%B0%910.38%E5%B9%B3%E4%B8%9A%E4%B8%BB%E8%A6%81%E6%B1%82%E9%80%80%E5%B7%AE%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [马伊琍拍繁花三年没见过游本昌](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%8A%E7%90%8D%E6%8B%8D%E7%B9%81%E8%8A%B1%E4%B8%89%E5%B9%B4%E6%B2%A1%E8%A7%81%E8%BF%87%E6%B8%B8%E6%9C%AC%E6%98%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [主持人拒绝为芭比玩笑道歉](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%8B%92%E7%BB%9D%E4%B8%BA%E8%8A%AD%E6%AF%94%E7%8E%A9%E7%AC%91%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
