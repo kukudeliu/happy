@@ -1,8 +1,8 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 23:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 23:14:01</h4></div>
 
 > 微博  
 
-1. [朱一龙微博King](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E5%BE%AE%E5%8D%9AKing&t=31&band_rank=1&Refer=top)<br />
+1. [朱一龙微博King](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%BE%AE%E5%8D%9AKing%23&t=31&band_rank=1&Refer=top)<br />
 2. [马丽雷佳音肖战 躲C位](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%82%96%E6%88%98%20%E8%BA%B2C%E4%BD%8D&t=31&band_rank=2&Refer=top)<br />
 3. [红鹰飞行表演队首次出国表演](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%B9%B0%E9%A3%9E%E8%A1%8C%E8%A1%A8%E6%BC%94%E9%98%9F%E9%A6%96%E6%AC%A1%E5%87%BA%E5%9B%BD%E8%A1%A8%E6%BC%94%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨紫三获微博Queen](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%89%E8%8E%B7%E5%BE%AE%E5%8D%9AQueen%23&t=31&band_rank=4&Refer=top)<br />
