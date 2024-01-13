@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 13:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 13:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [央视曝光一医院全链条式腐败细节](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B8%80%E5%8C%BB%E9%99%A2%E5%85%A8%E9%93%BE%E6%9D%A1%E5%BC%8F%E8%85%90%E8%B4%A5%E7%BB%86%E8%8A%82%23&t=31&band_rank=5&Refer=top)<br />
 6. [关晓彤 他疯了他是个颠公](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%20%E4%BB%96%E7%96%AF%E4%BA%86%E4%BB%96%E6%98%AF%E4%B8%AA%E9%A2%A0%E5%85%AC&t=31&band_rank=6&Refer=top)<br />
 7. [马丽 不说话还蛮公主的呢](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%20%E4%B8%8D%E8%AF%B4%E8%AF%9D%E8%BF%98%E8%9B%AE%E5%85%AC%E4%B8%BB%E7%9A%84%E5%91%A2&t=31&band_rank=7&Refer=top)<br />
-8. [霍尊复出](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%B0%8A%E5%A4%8D%E5%87%BA&t=31&band_rank=8&Refer=top)<br />
-9. [吉林文旅把张起灵搬出来了](https://s.weibo.com/weibo?q=%E5%90%89%E6%9E%97%E6%96%87%E6%97%85%E6%8A%8A%E5%BC%A0%E8%B5%B7%E7%81%B5%E6%90%AC%E5%87%BA%E6%9D%A5%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [白敬亭微博之夜出发图](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%87%BA%E5%8F%91%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [霍尊复出](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%B0%8A%E5%A4%8D%E5%87%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
