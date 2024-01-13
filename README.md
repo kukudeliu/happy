@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 21:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 22:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨紫穿紫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%A9%BF%E7%B4%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨幂朱一龙 唇语](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E6%9C%B1%E4%B8%80%E9%BE%99%20%E5%94%87%E8%AF%AD&t=31&band_rank=6&Refer=top)<br />
 7. [微博之夜](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&t=31&band_rank=7&Refer=top)<br />
-8. [王楚钦孙颖莎vs林诗栋蒯曼](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [莎头混双冠军](https://s.weibo.com/weibo?q=%E8%8E%8E%E5%A4%B4%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B&t=31&band_rank=9&Refer=top)<br />
+8. [莎头混双冠军](https://s.weibo.com/weibo?q=%E8%8E%8E%E5%A4%B4%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B&t=31&band_rank=8&Refer=top)<br />
+9. [王楚钦孙颖莎vs林诗栋蒯曼](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
