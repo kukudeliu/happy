@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 10:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 10:53:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [董子健 居然真的是我](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AD%90%E5%81%A5%20%E5%B1%85%E7%84%B6%E7%9C%9F%E7%9A%84%E6%98%AF%E6%88%91&t=31&band_rank=4&Refer=top)<br />
 5. [花旗宣布裁员2万人](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%97%97%E5%AE%A3%E5%B8%83%E8%A3%81%E5%91%982%E4%B8%87%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [河南文旅真的把王一博搞来了](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%87%E6%97%85%E7%9C%9F%E7%9A%84%E6%8A%8A%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%90%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [吴谢宇称愿给母亲家人两套房](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E7%A7%B0%E6%84%BF%E7%BB%99%E6%AF%8D%E4%BA%B2%E5%AE%B6%E4%BA%BA%E4%B8%A4%E5%A5%97%E6%88%BF%23&t=31&band_rank=7&Refer=top)<br />
+7. [关晓彤 他疯了他是个颠公](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%20%E4%BB%96%E7%96%AF%E4%BA%86%E4%BB%96%E6%98%AF%E4%B8%AA%E9%A2%A0%E5%85%AC&t=31&band_rank=7&Refer=top)<br />
 8. [实际面积少0.38平业主要求退差价](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E9%99%85%E9%9D%A2%E7%A7%AF%E5%B0%910.38%E5%B9%B3%E4%B8%9A%E4%B8%BB%E8%A6%81%E6%B1%82%E9%80%80%E5%B7%AE%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [主持人拒绝为芭比玩笑道歉](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%8B%92%E7%BB%9D%E4%B8%BA%E8%8A%AD%E6%AF%94%E7%8E%A9%E7%AC%91%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [吴谢宇称愿给母亲家人两套房](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E7%A7%B0%E6%84%BF%E7%BB%99%E6%AF%8D%E4%BA%B2%E5%AE%B6%E4%BA%BA%E4%B8%A4%E5%A5%97%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
