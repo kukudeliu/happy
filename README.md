@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 23:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 23:45:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [马丽雷佳音肖战 躲C位](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%82%96%E6%88%98%20%E8%BA%B2C%E4%BD%8D&t=31&band_rank=5&Refer=top)<br />
 6. [杨幂拿到唐嫣的礼物了吗](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E6%8B%BF%E5%88%B0%E5%94%90%E5%AB%A3%E7%9A%84%E7%A4%BC%E7%89%A9%E4%BA%86%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [国考出成绩](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E5%87%BA%E6%88%90%E7%BB%A9&t=31&band_rank=7&Refer=top)<br />
-8. [微博之夜内场](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%86%85%E5%9C%BA&t=31&band_rank=8&Refer=top)<br />
+8. [迪丽热巴来了](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [国足vs塔吉克斯坦](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
