@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 19:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 19:13:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [杭州有老师群发及时叫停作业的消息](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%9C%89%E8%80%81%E5%B8%88%E7%BE%A4%E5%8F%91%E5%8F%8A%E6%97%B6%E5%8F%AB%E5%81%9C%E4%BD%9C%E4%B8%9A%E7%9A%84%E6%B6%88%E6%81%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [微博之夜内场](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%86%85%E5%9C%BA&t=31&band_rank=6&Refer=top)<br />
 7. [熊猫血男子22年献血8700毫升](https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E8%A1%80%E7%94%B7%E5%AD%9022%E5%B9%B4%E7%8C%AE%E8%A1%808700%E6%AF%AB%E5%8D%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫穿紫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%A9%BF%E7%B4%AB%23&t=31&band_rank=8&Refer=top)<br />
+8. [迪丽热巴还不出图](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%98%E4%B8%8D%E5%87%BA%E5%9B%BE&t=31&band_rank=8&Refer=top)<br />
 9. [王曼昱vs孙颖莎](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E5%AD%99%E9%A2%96%E8%8E%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
