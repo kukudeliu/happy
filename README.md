@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 17:56:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [智能复兴号开进青藏高原](https://s.weibo.com/weibo?q=%23%E6%99%BA%E8%83%BD%E5%A4%8D%E5%85%B4%E5%8F%B7%E5%BC%80%E8%BF%9B%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨紫穿紫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%A9%BF%E7%B4%AB%23&t=31&band_rank=4&Refer=top)<br />
 5. [迪丽热巴还不出图](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%98%E4%B8%8D%E5%87%BA%E5%9B%BE&t=31&band_rank=5&Refer=top)<br />
-6. [杨幂 微博之夜要做的选择题](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%20%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E8%A6%81%E5%81%9A%E7%9A%84%E9%80%89%E6%8B%A9%E9%A2%98&t=31&band_rank=6&Refer=top)<br />
-7. [民警说的电脑卡了其实是一句暗号](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E8%AF%B4%E7%9A%84%E7%94%B5%E8%84%91%E5%8D%A1%E4%BA%86%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E5%8F%A5%E6%9A%97%E5%8F%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [KPL巅峰之夜红毯](https://s.weibo.com/weibo?q=%23KPL%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [外卖小哥为还债送外卖3年挣了102万](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%BA%E8%BF%98%E5%80%BA%E9%80%81%E5%A4%96%E5%8D%963%E5%B9%B4%E6%8C%A3%E4%BA%86102%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+6. [微博之夜](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&t=31&band_rank=6&Refer=top)<br />
+7. [杨幂 微博之夜要做的选择题](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%20%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E8%A6%81%E5%81%9A%E7%9A%84%E9%80%89%E6%8B%A9%E9%A2%98&t=31&band_rank=7&Refer=top)<br />
+8. [民警说的电脑卡了其实是一句暗号](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E8%AF%B4%E7%9A%84%E7%94%B5%E8%84%91%E5%8D%A1%E4%BA%86%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E5%8F%A5%E6%9A%97%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [KPL巅峰之夜红毯](https://s.weibo.com/weibo?q=%23KPL%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
