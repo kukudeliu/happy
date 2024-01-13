@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 09:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 09:20:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [主持人拒绝为芭比玩笑道歉](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%8B%92%E7%BB%9D%E4%B8%BA%E8%8A%AD%E6%AF%94%E7%8E%A9%E7%AC%91%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [扛着大型快递飞天的天舟六号下班啦](https://s.weibo.com/weibo?q=%23%E6%89%9B%E7%9D%80%E5%A4%A7%E5%9E%8B%E5%BF%AB%E9%80%92%E9%A3%9E%E5%A4%A9%E7%9A%84%E5%A4%A9%E8%88%9F%E5%85%AD%E5%8F%B7%E4%B8%8B%E7%8F%AD%E5%95%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [马伊琍拍繁花三年没见过游本昌](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%8A%E7%90%8D%E6%8B%8D%E7%B9%81%E8%8A%B1%E4%B8%89%E5%B9%B4%E6%B2%A1%E8%A7%81%E8%BF%87%E6%B8%B8%E6%9C%AC%E6%98%8C%23&t=31&band_rank=4&Refer=top)<br />
-5. [樊振东退赛](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%80%80%E8%B5%9B&t=31&band_rank=5&Refer=top)<br />
-6. [警方通报大一女生校内坠楼身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A7%E4%B8%80%E5%A5%B3%E7%94%9F%E6%A0%A1%E5%86%85%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [iPhone16Pro或加入电容式操作按钮](https://s.weibo.com/weibo?q=%23iPhone16Pro%E6%88%96%E5%8A%A0%E5%85%A5%E7%94%B5%E5%AE%B9%E5%BC%8F%E6%93%8D%E4%BD%9C%E6%8C%89%E9%92%AE%23&t=31&band_rank=7&Refer=top)<br />
-8. [亚洲最帅王子迎娶平民女孩](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%B8%85%E7%8E%8B%E5%AD%90%E8%BF%8E%E5%A8%B6%E5%B9%B3%E6%B0%91%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [沈腾句句不提贾玲句句都是贾玲](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%8F%A5%E5%8F%A5%E4%B8%8D%E6%8F%90%E8%B4%BE%E7%8E%B2%E5%8F%A5%E5%8F%A5%E9%83%BD%E6%98%AF%E8%B4%BE%E7%8E%B2%23&t=31&band_rank=9&Refer=top)<br />
+5. [吴谢宇称愿给母亲家人两套房](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E7%A7%B0%E6%84%BF%E7%BB%99%E6%AF%8D%E4%BA%B2%E5%AE%B6%E4%BA%BA%E4%B8%A4%E5%A5%97%E6%88%BF%23&t=31&band_rank=5&Refer=top)<br />
+6. [樊振东退赛](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%80%80%E8%B5%9B&t=31&band_rank=6&Refer=top)<br />
+7. [警方通报大一女生校内坠楼身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A7%E4%B8%80%E5%A5%B3%E7%94%9F%E6%A0%A1%E5%86%85%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [iPhone16Pro或加入电容式操作按钮](https://s.weibo.com/weibo?q=%23iPhone16Pro%E6%88%96%E5%8A%A0%E5%85%A5%E7%94%B5%E5%AE%B9%E5%BC%8F%E6%93%8D%E4%BD%9C%E6%8C%89%E9%92%AE%23&t=31&band_rank=8&Refer=top)<br />
+9. [亚洲最帅王子迎娶平民女孩](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%B8%85%E7%8E%8B%E5%AD%90%E8%BF%8E%E5%A8%B6%E5%B9%B3%E6%B0%91%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
