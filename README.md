@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 12:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 12:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [霍尊复出](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%B0%8A%E5%A4%8D%E5%87%BA&t=31&band_rank=5&Refer=top)<br />
 6. [关晓彤 他疯了他是个颠公](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%20%E4%BB%96%E7%96%AF%E4%BA%86%E4%BB%96%E6%98%AF%E4%B8%AA%E9%A2%A0%E5%85%AC&t=31&band_rank=6&Refer=top)<br />
 7. [吉林文旅把张起灵搬出来了](https://s.weibo.com/weibo?q=%E5%90%89%E6%9E%97%E6%96%87%E6%97%85%E6%8A%8A%E5%BC%A0%E8%B5%B7%E7%81%B5%E6%90%AC%E5%87%BA%E6%9D%A5%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [王者荣耀抖音直播将全面开放](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD%E5%B0%86%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [宋轶金色精灵](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%BD%B6%E9%87%91%E8%89%B2%E7%B2%BE%E7%81%B5&t=31&band_rank=9&Refer=top)<br />
+8. [宋轶金色精灵](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%BD%B6%E9%87%91%E8%89%B2%E7%B2%BE%E7%81%B5&t=31&band_rank=8&Refer=top)<br />
+9. [王者荣耀抖音直播将全面开放](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD%E5%B0%86%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
