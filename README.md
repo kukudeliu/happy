@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 10:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 10:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [多地探索教师退出机制 专家回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%8E%A2%E7%B4%A2%E6%95%99%E5%B8%88%E9%80%80%E5%87%BA%E6%9C%BA%E5%88%B6+%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [法拍豪宅收房时装修全被砸烂](https://www.baidu.com/s?wd=%E6%B3%95%E6%8B%8D%E8%B1%AA%E5%AE%85%E6%94%B6%E6%88%BF%E6%97%B6%E8%A3%85%E4%BF%AE%E5%85%A8%E8%A2%AB%E7%A0%B8%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [白宫遭质疑未经批准擅自出兵](https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E9%81%AD%E8%B4%A8%E7%96%91%E6%9C%AA%E7%BB%8F%E6%89%B9%E5%87%86%E6%93%85%E8%87%AA%E5%87%BA%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女儿当兵立功妈妈表情好骄傲](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E5%BD%93%E5%85%B5%E7%AB%8B%E5%8A%9F%E5%A6%88%E5%A6%88%E8%A1%A8%E6%83%85%E5%A5%BD%E9%AA%84%E5%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吉林省委书记观摩网红带货直播](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A7%82%E6%91%A9%E7%BD%91%E7%BA%A2%E5%B8%A6%E8%B4%A7%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [美防长奥斯汀1月3日命殒基辅？](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E5%A5%A5%E6%96%AF%E6%B1%801%E6%9C%883%E6%97%A5%E5%91%BD%E6%AE%92%E5%9F%BA%E8%BE%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [多地探索教师退出机制 专家回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%8E%A2%E7%B4%A2%E6%95%99%E5%B8%88%E9%80%80%E5%87%BA%E6%9C%BA%E5%88%B6+%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [法拍豪宅收房时装修全被砸烂](https://www.baidu.com/s?wd=%E6%B3%95%E6%8B%8D%E8%B1%AA%E5%AE%85%E6%94%B6%E6%88%BF%E6%97%B6%E8%A3%85%E4%BF%AE%E5%85%A8%E8%A2%AB%E7%A0%B8%E7%83%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [白宫遭质疑未经批准擅自出兵](https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E9%81%AD%E8%B4%A8%E7%96%91%E6%9C%AA%E7%BB%8F%E6%89%B9%E5%87%86%E6%93%85%E8%87%AA%E5%87%BA%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女儿当兵立功妈妈表情好骄傲](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E5%BD%93%E5%85%B5%E7%AB%8B%E5%8A%9F%E5%A6%88%E5%A6%88%E8%A1%A8%E6%83%85%E5%A5%BD%E9%AA%84%E5%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吉林省委书记观摩网红带货直播](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A7%82%E6%91%A9%E7%BD%91%E7%BA%A2%E5%B8%A6%E8%B4%A7%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [美防长奥斯汀1月3日命殒基辅？](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E5%A5%A5%E6%96%AF%E6%B1%801%E6%9C%883%E6%97%A5%E5%91%BD%E6%AE%92%E5%9F%BA%E8%BE%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
