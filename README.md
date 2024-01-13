@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 17:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 17:32:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [赵露思 谁说我是斑点狗](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E8%B0%81%E8%AF%B4%E6%88%91%E6%98%AF%E6%96%91%E7%82%B9%E7%8B%97&t=31&band_rank=5&Refer=top)<br />
 6. [虞书欣真听劝](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9C%9F%E5%90%AC%E5%8A%9D&t=31&band_rank=6&Refer=top)<br />
 7. [外卖小哥为还债送外卖3年挣了102万](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%BA%E8%BF%98%E5%80%BA%E9%80%81%E5%A4%96%E5%8D%963%E5%B9%B4%E6%8C%A3%E4%BA%86102%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [女生未满19岁确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9C%AA%E6%BB%A119%E5%B2%81%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [KPL巅峰之夜红毯](https://s.weibo.com/weibo?q=%23KPL%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=9&Refer=top)<br />
+8. [KPL巅峰之夜红毯](https://s.weibo.com/weibo?q=%23KPL%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=8&Refer=top)<br />
+9. [女生未满19岁确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9C%AA%E6%BB%A119%E5%B2%81%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
