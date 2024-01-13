@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 13:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 13:47:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [娜扎出图](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E5%87%BA%E5%9B%BE&t=31&band_rank=5&Refer=top)<br />
 6. [张婧仪出图](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%87%BA%E5%9B%BE&t=31&band_rank=6&Refer=top)<br />
 7. [景甜短发](https://s.weibo.com/weibo?q=%E6%99%AF%E7%94%9C%E7%9F%AD%E5%8F%91&t=31&band_rank=7&Refer=top)<br />
-8. [关晓彤 他疯了他是个颠公](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%20%E4%BB%96%E7%96%AF%E4%BA%86%E4%BB%96%E6%98%AF%E4%B8%AA%E9%A2%A0%E5%85%AC&t=31&band_rank=8&Refer=top)<br />
+8. [iPhone成了去年中国最畅销的手机](https://s.weibo.com/weibo?q=%23iPhone%E6%88%90%E4%BA%86%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%9C%80%E7%95%85%E9%94%80%E7%9A%84%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [全球新冠病例加速蔓延](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%96%B0%E5%86%A0%E7%97%85%E4%BE%8B%E5%8A%A0%E9%80%9F%E8%94%93%E5%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
