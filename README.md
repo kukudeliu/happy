@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 12:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 12:37:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [霍尊复出](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%B0%8A%E5%A4%8D%E5%87%BA&t=31&band_rank=6&Refer=top)<br />
 7. [吉林文旅把张起灵搬出来了](https://s.weibo.com/weibo?q=%E5%90%89%E6%9E%97%E6%96%87%E6%97%85%E6%8A%8A%E5%BC%A0%E8%B5%B7%E7%81%B5%E6%90%AC%E5%87%BA%E6%9D%A5%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [王者荣耀抖音直播将全面开放](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD%E5%B0%86%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [王子文的马甲线隔着裙子都能看见](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%E7%9A%84%E9%A9%AC%E7%94%B2%E7%BA%BF%E9%9A%94%E7%9D%80%E8%A3%99%E5%AD%90%E9%83%BD%E8%83%BD%E7%9C%8B%E8%A7%81&t=31&band_rank=9&Refer=top)<br />
+9. [宋轶金色精灵](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%BD%B6%E9%87%91%E8%89%B2%E7%B2%BE%E7%81%B5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
