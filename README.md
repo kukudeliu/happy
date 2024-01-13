@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 15:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 15:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵露思斑点小狗](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%96%91%E7%82%B9%E5%B0%8F%E7%8B%97&t=31&band_rank=6&Refer=top)<br />
 7. [平顶山煤矿事故致10人遇难6人失联](https://s.weibo.com/weibo?q=%23%E5%B9%B3%E9%A1%B6%E5%B1%B1%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E8%87%B410%E4%BA%BA%E9%81%87%E9%9A%BE6%E4%BA%BA%E5%A4%B1%E8%81%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [外卖小哥为还债送外卖3年挣了102万](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%BA%E8%BF%98%E5%80%BA%E9%80%81%E5%A4%96%E5%8D%963%E5%B9%B4%E6%8C%A3%E4%BA%86102%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [邓为出图](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E5%87%BA%E5%9B%BE&t=31&band_rank=9&Refer=top)<br />
+9. [女生未满19岁确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9C%AA%E6%BB%A119%E5%B2%81%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
