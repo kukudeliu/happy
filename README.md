@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 19:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 19:22:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [智能复兴号开进青藏高原](https://s.weibo.com/weibo?q=%23%E6%99%BA%E8%83%BD%E5%A4%8D%E5%85%B4%E5%8F%B7%E5%BC%80%E8%BF%9B%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [微博之夜](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&t=31&band_rank=4&Refer=top)<br />
 5. [杭州有老师群发及时叫停作业的消息](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%9C%89%E8%80%81%E5%B8%88%E7%BE%A4%E5%8F%91%E5%8F%8A%E6%97%B6%E5%8F%AB%E5%81%9C%E4%BD%9C%E4%B8%9A%E7%9A%84%E6%B6%88%E6%81%AF%23&t=31&band_rank=5&Refer=top)<br />
-6. [娜扎 选美小姐](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%20%E9%80%89%E7%BE%8E%E5%B0%8F%E5%A7%90&t=31&band_rank=6&Refer=top)<br />
+6. [迪丽热巴还不出图](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%98%E4%B8%8D%E5%87%BA%E5%9B%BE&t=31&band_rank=6&Refer=top)<br />
 7. [熊猫血男子22年献血8700毫升](https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E8%A1%80%E7%94%B7%E5%AD%9022%E5%B9%B4%E7%8C%AE%E8%A1%808700%E6%AF%AB%E5%8D%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴还不出图](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%98%E4%B8%8D%E5%87%BA%E5%9B%BE&t=31&band_rank=8&Refer=top)<br />
+8. [娜扎 选美小姐](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%20%E9%80%89%E7%BE%8E%E5%B0%8F%E5%A7%90&t=31&band_rank=8&Refer=top)<br />
 9. [孙颖莎3比1王曼昱](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%941%E7%8E%8B%E6%9B%BC%E6%98%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
