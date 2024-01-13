@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 01:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 01:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨幂拿到唐嫣的礼物了吗](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E6%8B%BF%E5%88%B0%E5%94%90%E5%AB%A3%E7%9A%84%E7%A4%BC%E7%89%A9%E4%BA%86%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [推动两岸关系和平发展推进祖国统一大业](https://s.weibo.com/weibo?q=%23%E6%8E%A8%E5%8A%A8%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB%E5%92%8C%E5%B9%B3%E5%8F%91%E5%B1%95%E6%8E%A8%E8%BF%9B%E7%A5%96%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E4%B8%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [楼下起火爸爸抱女儿坠楼7岁女儿身亡](https://s.weibo.com/weibo?q=%23%E6%A5%BC%E4%B8%8B%E8%B5%B7%E7%81%AB%E7%88%B8%E7%88%B8%E6%8A%B1%E5%A5%B3%E5%84%BF%E5%9D%A0%E6%A5%BC7%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [国足vs塔吉克斯坦](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [苏醒 新疆](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%20%E6%96%B0%E7%96%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
