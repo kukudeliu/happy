@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 00:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 00:10:01</h4></div>
 
 > 微博  
 
 1. [杨紫三获微博Queen](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%89%E8%8E%B7%E5%BE%AE%E5%8D%9AQueen%23&t=31&band_rank=1&Refer=top)<br />
-2. [国台办发言人评论台湾地区选举结果](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%8F%91%E8%A8%80%E4%BA%BA%E8%AF%84%E8%AE%BA%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%23&t=31&band_rank=2&Refer=top)<br />
+2. [2024年台湾地区两项选举结果揭晓](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E4%B8%A4%E9%A1%B9%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E6%8F%AD%E6%99%93%23&t=31&band_rank=2&Refer=top)<br />
 3. [红鹰飞行表演队首次出国表演](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%B9%B0%E9%A3%9E%E8%A1%8C%E8%A1%A8%E6%BC%94%E9%98%9F%E9%A6%96%E6%AC%A1%E5%87%BA%E5%9B%BD%E8%A1%A8%E6%BC%94%23&t=31&band_rank=3&Refer=top)<br />
-4. [2024年台湾地区两项选举结果揭晓](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E4%B8%A4%E9%A1%B9%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E6%8F%AD%E6%99%93%23&t=31&band_rank=4&Refer=top)<br />
+4. [国台办发言人评论台湾地区选举结果](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%8F%91%E8%A8%80%E4%BA%BA%E8%AF%84%E8%AE%BA%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%23&t=31&band_rank=4&Refer=top)<br />
 5. [朱一龙微博King](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%BE%AE%E5%8D%9AKing%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨幂拿到唐嫣的礼物了吗](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E6%8B%BF%E5%88%B0%E5%94%90%E5%AB%A3%E7%9A%84%E7%A4%BC%E7%89%A9%E4%BA%86%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [马丽雷佳音肖战 躲C位](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%82%96%E6%88%98%20%E8%BA%B2C%E4%BD%8D&t=31&band_rank=7&Refer=top)<br />
