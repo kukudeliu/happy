@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 14:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 14:52:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [微博之夜好多人啊](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%95%8A&t=31&band_rank=4&Refer=top)<br />
 5. [周也出图](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%E5%87%BA%E5%9B%BE&t=31&band_rank=5&Refer=top)<br />
 6. [今天是孟宴臣S版](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%AD%9F%E5%AE%B4%E8%87%A3S%E7%89%88&t=31&band_rank=6&Refer=top)<br />
-7. [央视曝光一医院全链条式腐败细节](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B8%80%E5%8C%BB%E9%99%A2%E5%85%A8%E9%93%BE%E6%9D%A1%E5%BC%8F%E8%85%90%E8%B4%A5%E7%BB%86%E8%8A%82%23&t=31&band_rank=7&Refer=top)<br />
-8. [iPhone成了去年中国最畅销的手机](https://s.weibo.com/weibo?q=%23iPhone%E6%88%90%E4%BA%86%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%9C%80%E7%95%85%E9%94%80%E7%9A%84%E6%89%8B%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [iPhone成了去年中国最畅销的手机](https://s.weibo.com/weibo?q=%23iPhone%E6%88%90%E4%BA%86%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%9C%80%E7%95%85%E9%94%80%E7%9A%84%E6%89%8B%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [央视曝光一医院全链条式腐败细节](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B8%80%E5%8C%BB%E9%99%A2%E5%85%A8%E9%93%BE%E6%9D%A1%E5%BC%8F%E8%85%90%E8%B4%A5%E7%BB%86%E8%8A%82%23&t=31&band_rank=8&Refer=top)<br />
 9. [女生未满19岁确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9C%AA%E6%BB%A119%E5%B2%81%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
