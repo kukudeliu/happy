@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 11:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 11:39:01</h4></div>
 
 > 微博  
 
 1. [关晓彤 他疯了他是个颠公](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%20%E4%BB%96%E7%96%AF%E4%BA%86%E4%BB%96%E6%98%AF%E4%B8%AA%E9%A2%A0%E5%85%AC&t=31&band_rank=1&Refer=top)<br />
-2. [弑母案吴谢宇被母亲家属拉黑](https://s.weibo.com/weibo?q=%23%E5%BC%91%E6%AF%8D%E6%A1%88%E5%90%B4%E8%B0%A2%E5%AE%87%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%AE%B6%E5%B1%9E%E6%8B%89%E9%BB%91%23&t=31&band_rank=2&Refer=top)<br />
+2. [霍尊复出](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%B0%8A%E5%A4%8D%E5%87%BA&t=31&band_rank=2&Refer=top)<br />
 3. [让我们跟着微短剧去旅行](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%88%91%E4%BB%AC%E8%B7%9F%E7%9D%80%E5%BE%AE%E7%9F%AD%E5%89%A7%E5%8E%BB%E6%97%85%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
-4. [霍尊复出](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%B0%8A%E5%A4%8D%E5%87%BA&t=31&band_rank=4&Refer=top)<br />
+4. [弑母案吴谢宇被母亲家属拉黑](https://s.weibo.com/weibo?q=%23%E5%BC%91%E6%AF%8D%E6%A1%88%E5%90%B4%E8%B0%A2%E5%AE%87%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%AE%B6%E5%B1%9E%E6%8B%89%E9%BB%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [董子健 居然真的是我](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AD%90%E5%81%A5%20%E5%B1%85%E7%84%B6%E7%9C%9F%E7%9A%84%E6%98%AF%E6%88%91&t=31&band_rank=5&Refer=top)<br />
 6. [全球新冠病例加速蔓延](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%96%B0%E5%86%A0%E7%97%85%E4%BE%8B%E5%8A%A0%E9%80%9F%E8%94%93%E5%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [花旗宣布裁员2万人](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%97%97%E5%AE%A3%E5%B8%83%E8%A3%81%E5%91%982%E4%B8%87%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
