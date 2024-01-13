@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 21:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 21:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国考查成绩 打不开网站](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E6%9F%A5%E6%88%90%E7%BB%A9%20%E6%89%93%E4%B8%8D%E5%BC%80%E7%BD%91%E7%AB%99&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫穿紫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%A9%BF%E7%B4%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [微博之夜 四大才子](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E5%9B%9B%E5%A4%A7%E6%89%8D%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
-9. [清清 我真的想笑](https://s.weibo.com/weibo?q=%E6%B8%85%E6%B8%85%20%E6%88%91%E7%9C%9F%E7%9A%84%E6%83%B3%E7%AC%91&t=31&band_rank=9&Refer=top)<br />
+9. [王楚钦孙颖莎vs林诗栋蒯曼](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
