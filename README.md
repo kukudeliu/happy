@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 10:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 10:09:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [多地探索教师退出机制 专家回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%8E%A2%E7%B4%A2%E6%95%99%E5%B8%88%E9%80%80%E5%87%BA%E6%9C%BA%E5%88%B6+%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [河南煤矿事故已致8人遇难8人失联](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE8%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家提醒两类人群不适合搓澡](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92%E4%B8%A4%E7%B1%BB%E4%BA%BA%E7%BE%A4%E4%B8%8D%E9%80%82%E5%90%88%E6%90%93%E6%BE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高校学院三年未引进任何人才被通报](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E9%99%A2%E4%B8%89%E5%B9%B4%E6%9C%AA%E5%BC%95%E8%BF%9B%E4%BB%BB%E4%BD%95%E4%BA%BA%E6%89%8D%E8%A2%AB%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [各地文旅官方账号“杀疯了”](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%AE%98%E6%96%B9%E8%B4%A6%E5%8F%B7%E2%80%9C%E6%9D%80%E7%96%AF%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [美防长奥斯汀1月3日命殒基辅？](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E5%A5%A5%E6%96%AF%E6%B1%801%E6%9C%883%E6%97%A5%E5%91%BD%E6%AE%92%E5%9F%BA%E8%BE%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [多地探索教师退出机制 专家回应](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%8E%A2%E7%B4%A2%E6%95%99%E5%B8%88%E9%80%80%E5%87%BA%E6%9C%BA%E5%88%B6+%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [河南煤矿事故已致8人遇难8人失联](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE8%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家提醒两类人群不适合搓澡](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92%E4%B8%A4%E7%B1%BB%E4%BA%BA%E7%BE%A4%E4%B8%8D%E9%80%82%E5%90%88%E6%90%93%E6%BE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高校学院三年未引进任何人才被通报](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%AD%A6%E9%99%A2%E4%B8%89%E5%B9%B4%E6%9C%AA%E5%BC%95%E8%BF%9B%E4%BB%BB%E4%BD%95%E4%BA%BA%E6%89%8D%E8%A2%AB%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [各地文旅官方账号“杀疯了”](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%AE%98%E6%96%B9%E8%B4%A6%E5%8F%B7%E2%80%9C%E6%9D%80%E7%96%AF%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [美防长奥斯汀1月3日命殒基辅？](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E5%A5%A5%E6%96%AF%E6%B1%801%E6%9C%883%E6%97%A5%E5%91%BD%E6%AE%92%E5%9F%BA%E8%BE%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
