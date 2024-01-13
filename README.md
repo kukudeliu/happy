@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 04:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 04:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [楼下起火爸爸抱女儿坠楼7岁女儿身亡](https://s.weibo.com/weibo?q=%23%E6%A5%BC%E4%B8%8B%E8%B5%B7%E7%81%AB%E7%88%B8%E7%88%B8%E6%8A%B1%E5%A5%B3%E5%84%BF%E5%9D%A0%E6%A5%BC7%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫三获微博Queen](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%89%E8%8E%B7%E5%BE%AE%E5%8D%9AQueen%23&t=31&band_rank=7&Refer=top)<br />
 8. [外交部发言人就台湾选举答记者问](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A8%80%E4%BA%BA%E5%B0%B1%E5%8F%B0%E6%B9%BE%E9%80%89%E4%B8%BE%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [朱一龙微博King](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%BE%AE%E5%8D%9AKing%23&t=31&band_rank=9&Refer=top)<br />
+9. [真正不能空腹吃的是这3种水果](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E4%B8%8D%E8%83%BD%E7%A9%BA%E8%85%B9%E5%90%83%E7%9A%84%E6%98%AF%E8%BF%993%E7%A7%8D%E6%B0%B4%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
