@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 15:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 15:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫几点出图](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E5%87%A0%E7%82%B9%E5%87%BA%E5%9B%BE&t=31&band_rank=6&Refer=top)<br />
 7. [外卖小哥为还债送外卖3年挣了102万](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%BA%E8%BF%98%E5%80%BA%E9%80%81%E5%A4%96%E5%8D%963%E5%B9%B4%E6%8C%A3%E4%BA%86102%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [女生未满19岁确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9C%AA%E6%BB%A119%E5%B2%81%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [米妮她私下就是烟酒都来啊](https://s.weibo.com/weibo?q=%E7%B1%B3%E5%A6%AE%E5%A5%B9%E7%A7%81%E4%B8%8B%E5%B0%B1%E6%98%AF%E7%83%9F%E9%85%92%E9%83%BD%E6%9D%A5%E5%95%8A&t=31&band_rank=9&Refer=top)<br />
+9. [平顶山煤矿事故致10人遇难6人失联](https://s.weibo.com/weibo?q=%23%E5%B9%B3%E9%A1%B6%E5%B1%B1%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E8%87%B410%E4%BA%BA%E9%81%87%E9%9A%BE6%E4%BA%BA%E5%A4%B1%E8%81%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [外卖小哥为还债送外卖三年挣102万](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%BA%E8%BF%98%E5%80%BA%E9%80%81%E5%A4%96%E5%8D%96%E4%B8%89%E5%B9%B4%E6%8C%A3102%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妻子跳江 丈夫下水营救不幸溺亡](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%B7%B3%E6%B1%9F+%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%B0%B4%E8%90%A5%E6%95%91%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生未满19岁确诊卵巢早衰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%9C%AA%E6%BB%A119%E5%B2%81%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吉林文旅把张起灵搬出来了](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E6%96%87%E6%97%85%E6%8A%8A%E5%BC%A0%E8%B5%B7%E7%81%B5%E6%90%AC%E5%87%BA%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美官方：波音737MAX 9有重大问题](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%98%E6%96%B9%EF%BC%9A%E6%B3%A2%E9%9F%B3737MAX+9%E6%9C%89%E9%87%8D%E5%A4%A7%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [美防长奥斯汀1月3日命殒基辅？](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E5%A5%A5%E6%96%AF%E6%B1%801%E6%9C%883%E6%97%A5%E5%91%BD%E6%AE%92%E5%9F%BA%E8%BE%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [外卖小哥为还债送外卖三年挣102万](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%BA%E8%BF%98%E5%80%BA%E9%80%81%E5%A4%96%E5%8D%96%E4%B8%89%E5%B9%B4%E6%8C%A3102%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [妻子跳江 丈夫下水营救不幸溺亡](https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E8%B7%B3%E6%B1%9F+%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%B0%B4%E8%90%A5%E6%95%91%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女生未满19岁确诊卵巢早衰](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%9C%AA%E6%BB%A119%E5%B2%81%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吉林文旅把张起灵搬出来了](https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E6%96%87%E6%97%85%E6%8A%8A%E5%BC%A0%E8%B5%B7%E7%81%B5%E6%90%AC%E5%87%BA%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美官方：波音737MAX 9有重大问题](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%98%E6%96%B9%EF%BC%9A%E6%B3%A2%E9%9F%B3737MAX+9%E6%9C%89%E9%87%8D%E5%A4%A7%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [美防长奥斯汀1月3日命殒基辅？](https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E5%A5%A5%E6%96%AF%E6%B1%801%E6%9C%883%E6%97%A5%E5%91%BD%E6%AE%92%E5%9F%BA%E8%BE%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
