@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 12:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 12:20:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [全球新冠病例加速蔓延](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%96%B0%E5%86%A0%E7%97%85%E4%BE%8B%E5%8A%A0%E9%80%9F%E8%94%93%E5%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [让我们跟着微短剧去旅行](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%88%91%E4%BB%AC%E8%B7%9F%E7%9D%80%E5%BE%AE%E7%9F%AD%E5%89%A7%E5%8E%BB%E6%97%85%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [微博之夜第一波出图](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E7%AC%AC%E4%B8%80%E6%B3%A2%E5%87%BA%E5%9B%BE&t=31&band_rank=4&Refer=top)<br />
-5. [霍尊复出](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%B0%8A%E5%A4%8D%E5%87%BA&t=31&band_rank=5&Refer=top)<br />
-6. [女生未满19岁确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9C%AA%E6%BB%A119%E5%B2%81%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=6&Refer=top)<br />
+5. [女生未满19岁确诊卵巢早衰](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9C%AA%E6%BB%A119%E5%B2%81%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23&t=31&band_rank=5&Refer=top)<br />
+6. [霍尊复出](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%B0%8A%E5%A4%8D%E5%87%BA&t=31&band_rank=6&Refer=top)<br />
 7. [吉林文旅把张起灵搬出来了](https://s.weibo.com/weibo?q=%E5%90%89%E6%9E%97%E6%96%87%E6%97%85%E6%8A%8A%E5%BC%A0%E8%B5%B7%E7%81%B5%E6%90%AC%E5%87%BA%E6%9D%A5%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [董子健 居然真的是我](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AD%90%E5%81%A5%20%E5%B1%85%E7%84%B6%E7%9C%9F%E7%9A%84%E6%98%AF%E6%88%91&t=31&band_rank=8&Refer=top)<br />
 9. [王子文的马甲线隔着裙子都能看见](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%E7%9A%84%E9%A9%AC%E7%94%B2%E7%BA%BF%E9%9A%94%E7%9D%80%E8%A3%99%E5%AD%90%E9%83%BD%E8%83%BD%E7%9C%8B%E8%A7%81&t=31&band_rank=9&Refer=top)<br />
