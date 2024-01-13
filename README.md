@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 21:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 21:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [微博之夜](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫穿紫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%A9%BF%E7%B4%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [微博之夜 四大才子](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E5%9B%9B%E5%A4%A7%E6%89%8D%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
-9. [车厘子价格腰斩销售火爆](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9%E9%94%80%E5%94%AE%E7%81%AB%E7%88%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [清清 我真的想笑](https://s.weibo.com/weibo?q=%E6%B8%85%E6%B8%85%20%E6%88%91%E7%9C%9F%E7%9A%84%E6%83%B3%E7%AC%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
