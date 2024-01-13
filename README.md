@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 20:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 20:47:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [国考出成绩](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E5%87%BA%E6%88%90%E7%BB%A9&t=31&band_rank=5&Refer=top)<br />
 6. [微博之夜](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&t=31&band_rank=6&Refer=top)<br />
 7. [微博之夜 四大才子](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E5%9B%9B%E5%A4%A7%E6%89%8D%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
-8. [王嘉尔王一博坐一起](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%9D%90%E4%B8%80%E8%B5%B7%23&t=31&band_rank=8&Refer=top)<br />
+8. [杨紫穿紫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%A9%BF%E7%B4%AB%23&t=31&band_rank=8&Refer=top)<br />
 9. [马特 王楚钦发球很模糊](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%89%B9%20%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E7%90%83%E5%BE%88%E6%A8%A1%E7%B3%8A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
