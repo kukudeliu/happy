@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 20:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 20:38:02</h4></div>
 
 > 微博  
 
 1. [微博之夜内场](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%86%85%E5%9C%BA&t=31&band_rank=1&Refer=top)<br />
-2. [迪丽热巴来了](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9D%A5%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [国考查成绩 打不开网站](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E6%9F%A5%E6%88%90%E7%BB%A9%20%E6%89%93%E4%B8%8D%E5%BC%80%E7%BD%91%E7%AB%99&t=31&band_rank=2&Refer=top)<br />
 3. [风雪中他们的身影是我们的保障](https://s.weibo.com/weibo?q=%23%E9%A3%8E%E9%9B%AA%E4%B8%AD%E4%BB%96%E4%BB%AC%E7%9A%84%E8%BA%AB%E5%BD%B1%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E4%BF%9D%E9%9A%9C%23&t=31&band_rank=3&Refer=top)<br />
-4. [国考查成绩 打不开网站](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E6%9F%A5%E6%88%90%E7%BB%A9%20%E6%89%93%E4%B8%8D%E5%BC%80%E7%BD%91%E7%AB%99&t=31&band_rank=4&Refer=top)<br />
+4. [迪丽热巴来了](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9D%A5%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [国考出成绩](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E5%87%BA%E6%88%90%E7%BB%A9&t=31&band_rank=5&Refer=top)<br />
 6. [微博之夜](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&t=31&band_rank=6&Refer=top)<br />
 7. [王嘉尔王一博坐一起](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%9D%90%E4%B8%80%E8%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
