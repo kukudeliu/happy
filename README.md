@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 08:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-13 08:20:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [樊振东退赛](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%80%80%E8%B5%9B&t=31&band_rank=5&Refer=top)<br />
 6. [亚洲最帅王子迎娶平民女孩](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%B8%85%E7%8E%8B%E5%AD%90%E8%BF%8E%E5%A8%B6%E5%B9%B3%E6%B0%91%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [沈腾句句不提贾玲句句都是贾玲](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%8F%A5%E5%8F%A5%E4%B8%8D%E6%8F%90%E8%B4%BE%E7%8E%B2%E5%8F%A5%E5%8F%A5%E9%83%BD%E6%98%AF%E8%B4%BE%E7%8E%B2%23&t=31&band_rank=7&Refer=top)<br />
-8. [睡觉中途醒了 不要看时间](https://s.weibo.com/weibo?q=%E7%9D%A1%E8%A7%89%E4%B8%AD%E9%80%94%E9%86%92%E4%BA%86%20%E4%B8%8D%E8%A6%81%E7%9C%8B%E6%97%B6%E9%97%B4&t=31&band_rank=8&Refer=top)<br />
-9. [刘德华下个月就要去超市上班了](https://s.weibo.com/weibo?q=%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%8B%E4%B8%AA%E6%9C%88%E5%B0%B1%E8%A6%81%E5%8E%BB%E8%B6%85%E5%B8%82%E4%B8%8A%E7%8F%AD%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [台湾大选](https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89&t=31&band_rank=8&Refer=top)<br />
+9. [睡觉中途醒了 不要看时间](https://s.weibo.com/weibo?q=%E7%9D%A1%E8%A7%89%E4%B8%AD%E9%80%94%E9%86%92%E4%BA%86%20%E4%B8%8D%E8%A6%81%E7%9C%8B%E6%97%B6%E9%97%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
