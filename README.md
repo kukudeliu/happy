@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 22:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 22:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李宇春谢谢李冰冰黄渤黄晓明](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E8%B0%A2%E8%B0%A2%E6%9D%8E%E5%86%B0%E5%86%B0%E9%BB%84%E6%B8%A4%E9%BB%84%E6%99%93%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [2023TVB颁奖礼](https://s.weibo.com/weibo?q=%232023TVB%E9%A2%81%E5%A5%96%E7%A4%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [丹麦女王正式退位](https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E5%A5%B3%E7%8E%8B%E6%AD%A3%E5%BC%8F%E9%80%80%E4%BD%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [马伊琍 果然互联网是有记忆的](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%8A%E7%90%8D%20%E6%9E%9C%E7%84%B6%E4%BA%92%E8%81%94%E7%BD%91%E6%98%AF%E6%9C%89%E8%AE%B0%E5%BF%86%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
+9. [经常睡不好可能是缺乏维生素D](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E7%9D%A1%E4%B8%8D%E5%A5%BD%E5%8F%AF%E8%83%BD%E6%98%AF%E7%BC%BA%E4%B9%8F%E7%BB%B4%E7%94%9F%E7%B4%A0D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
