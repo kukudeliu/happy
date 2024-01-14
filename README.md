@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 23:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 23:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [难怪玲子这次不来了](https://s.weibo.com/weibo?q=%E9%9A%BE%E6%80%AA%E7%8E%B2%E5%AD%90%E8%BF%99%E6%AC%A1%E4%B8%8D%E6%9D%A5%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [GAI 五年后再给王鹤棣续SVIP](https://s.weibo.com/weibo?q=GAI%20%E4%BA%94%E5%B9%B4%E5%90%8E%E5%86%8D%E7%BB%99%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%BB%ADSVIP&t=31&band_rank=7&Refer=top)<br />
 8. [陈豪TVB视帝](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B1%AATVB%E8%A7%86%E5%B8%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [汤泡饭为什么不能经常吃](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%B3%A1%E9%A5%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E7%BB%8F%E5%B8%B8%E5%90%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [被哈尔滨12一盘的菜量震慑住了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%93%88%E5%B0%94%E6%BB%A812%E4%B8%80%E7%9B%98%E7%9A%84%E8%8F%9C%E9%87%8F%E9%9C%87%E6%85%91%E4%BD%8F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
