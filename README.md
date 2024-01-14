@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 21:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 21:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [各地文旅局都疯了](https://s.weibo.com/weibo?q=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%B1%80%E9%83%BD%E7%96%AF%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [高海宁获TVB最佳女配角](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B5%B7%E5%AE%81%E8%8E%B7TVB%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [马伊琍 果然互联网是有记忆的](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%8A%E7%90%8D%20%E6%9E%9C%E7%84%B6%E4%BA%92%E8%81%94%E7%BD%91%E6%98%AF%E6%9C%89%E8%AE%B0%E5%BF%86%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
-9. [2023TVB颁奖礼](https://s.weibo.com/weibo?q=%232023TVB%E9%A2%81%E5%A5%96%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [上市公司遭电诈9000万](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E9%81%AD%E7%94%B5%E8%AF%889000%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
