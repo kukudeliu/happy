@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 23:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 23:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [对视 精神接吻](https://s.weibo.com/weibo?q=%E5%AF%B9%E8%A7%86%20%E7%B2%BE%E7%A5%9E%E6%8E%A5%E5%90%BB&t=31&band_rank=5&Refer=top)<br />
 6. [难怪玲子这次不来了](https://s.weibo.com/weibo?q=%E9%9A%BE%E6%80%AA%E7%8E%B2%E5%AD%90%E8%BF%99%E6%AC%A1%E4%B8%8D%E6%9D%A5%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [GAI 五年后再给王鹤棣续SVIP](https://s.weibo.com/weibo?q=GAI%20%E4%BA%94%E5%B9%B4%E5%90%8E%E5%86%8D%E7%BB%99%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%BB%ADSVIP&t=31&band_rank=7&Refer=top)<br />
-8. [2023TVB颁奖礼](https://s.weibo.com/weibo?q=%232023TVB%E9%A2%81%E5%A5%96%E7%A4%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [汤泡饭为什么不能经常吃](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%B3%A1%E9%A5%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E7%BB%8F%E5%B8%B8%E5%90%83%23&t=31&band_rank=9&Refer=top)<br />
+8. [汤泡饭为什么不能经常吃](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%B3%A1%E9%A5%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E7%BB%8F%E5%B8%B8%E5%90%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [2023TVB颁奖礼](https://s.weibo.com/weibo?q=%232023TVB%E9%A2%81%E5%A5%96%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
