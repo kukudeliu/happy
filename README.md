@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 14:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 14:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [拜托她可是贾玲](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E6%89%98%E5%A5%B9%E5%8F%AF%E6%98%AF%E8%B4%BE%E7%8E%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [台湾是中国一部分的基本事实不会改变](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%83%A8%E5%88%86%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E%E4%B8%8D%E4%BC%9A%E6%94%B9%E5%8F%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [吴磊差点把迪丽热巴奖杯拿走了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%B7%AE%E7%82%B9%E6%8A%8A%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A5%96%E6%9D%AF%E6%8B%BF%E8%B5%B0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [周也落跑公主](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%E8%90%BD%E8%B7%91%E5%85%AC%E4%B8%BB&t=31&band_rank=9&Refer=top)<br />
+9. [土耳其空袭伊拉克叙利亚](https://s.weibo.com/weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B6%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%8B%89%E5%85%8B%E5%8F%99%E5%88%A9%E4%BA%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
