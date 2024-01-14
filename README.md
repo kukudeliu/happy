@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 21:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 21:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [马伊琍 果然互联网是有记忆的](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%8A%E7%90%8D%20%E6%9E%9C%E7%84%B6%E4%BA%92%E8%81%94%E7%BD%91%E6%98%AF%E6%9C%89%E8%AE%B0%E5%BF%86%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [于正公开黄杨钿甜试戏片段](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E5%85%AC%E5%BC%80%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E8%AF%95%E6%88%8F%E7%89%87%E6%AE%B5&t=31&band_rank=7&Refer=top)<br />
 8. [2023TVB颁奖礼](https://s.weibo.com/weibo?q=%232023TVB%E9%A2%81%E5%A5%96%E7%A4%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本vs越南](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%ACvs%E8%B6%8A%E5%8D%97&t=31&band_rank=9&Refer=top)<br />
+9. [上市公司遭电诈9000万](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E9%81%AD%E7%94%B5%E8%AF%889000%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
