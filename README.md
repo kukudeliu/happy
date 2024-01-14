@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 21:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 21:36:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [卫健委发布冬季疾病防治和健康提示](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%8F%91%E5%B8%83%E5%86%AC%E5%AD%A3%E7%96%BE%E7%97%85%E9%98%B2%E6%B2%BB%E5%92%8C%E5%81%A5%E5%BA%B7%E6%8F%90%E7%A4%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [难怪玲子这次不来了](https://s.weibo.com/weibo?q=%E9%9A%BE%E6%80%AA%E7%8E%B2%E5%AD%90%E8%BF%99%E6%AC%A1%E4%B8%8D%E6%9D%A5%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [高海宁获TVB最佳女配角](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B5%B7%E5%AE%81%E8%8E%B7TVB%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92%23&t=31&band_rank=5&Refer=top)<br />
-6. [马伊琍 果然互联网是有记忆的](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%8A%E7%90%8D%20%E6%9E%9C%E7%84%B6%E4%BA%92%E8%81%94%E7%BD%91%E6%98%AF%E6%9C%89%E8%AE%B0%E5%BF%86%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
-7. [白冰首播](https://s.weibo.com/weibo?q=%E7%99%BD%E5%86%B0%E9%A6%96%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
+6. [白冰首播](https://s.weibo.com/weibo?q=%E7%99%BD%E5%86%B0%E9%A6%96%E6%92%AD&t=31&band_rank=6&Refer=top)<br />
+7. [马伊琍 果然互联网是有记忆的](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%8A%E7%90%8D%20%E6%9E%9C%E7%84%B6%E4%BA%92%E8%81%94%E7%BD%91%E6%98%AF%E6%9C%89%E8%AE%B0%E5%BF%86%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
 8. [GAI求助怎么给王鹤棣充会员](https://s.weibo.com/weibo?q=GAI%E6%B1%82%E5%8A%A9%E6%80%8E%E4%B9%88%E7%BB%99%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%85%85%E4%BC%9A%E5%91%98&t=31&band_rank=8&Refer=top)<br />
-9. [上市公司遭电诈9000万](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E9%81%AD%E7%94%B5%E8%AF%889000%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本vs越南](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%ACvs%E8%B6%8A%E5%8D%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
