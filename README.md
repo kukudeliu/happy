@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 20:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 20:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王鹤棣抽到GAI送的十年SVIP](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8A%BD%E5%88%B0GAI%E9%80%81%E7%9A%84%E5%8D%81%E5%B9%B4SVIP&t=31&band_rank=6&Refer=top)<br />
 7. [央视评许嵩新歌](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E8%AE%B8%E5%B5%A9%E6%96%B0%E6%AD%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [买机票选错日期实付6000多退款仅269元](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%9C%BA%E7%A5%A8%E9%80%89%E9%94%99%E6%97%A5%E6%9C%9F%E5%AE%9E%E4%BB%986000%E5%A4%9A%E9%80%80%E6%AC%BE%E4%BB%85269%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [各地文旅局都疯了](https://s.weibo.com/weibo?q=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%B1%80%E9%83%BD%E7%96%AF%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [上市公司遭电诈9000万](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E9%81%AD%E7%94%B5%E8%AF%889000%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
