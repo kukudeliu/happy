@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 20:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 20:24:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [神十七乘组空间站吃播健身上新](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E4%B9%98%E7%BB%84%E7%A9%BA%E9%97%B4%E7%AB%99%E5%90%83%E6%92%AD%E5%81%A5%E8%BA%AB%E4%B8%8A%E6%96%B0%23&t=31&band_rank=3&Refer=top)<br />
 4. [难怪玲子这次不来了](https://s.weibo.com/weibo?q=%E9%9A%BE%E6%80%AA%E7%8E%B2%E5%AD%90%E8%BF%99%E6%AC%A1%E4%B8%8D%E6%9D%A5%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [央视评许嵩新歌](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E8%AE%B8%E5%B5%A9%E6%96%B0%E6%AD%8C%23&t=31&band_rank=5&Refer=top)<br />
-6. [王鹤棣抽到GAI送的十年SVIP](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8A%BD%E5%88%B0GAI%E9%80%81%E7%9A%84%E5%8D%81%E5%B9%B4SVIP&t=31&band_rank=6&Refer=top)<br />
-7. [日本vs越南](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%ACvs%E8%B6%8A%E5%8D%97&t=31&band_rank=7&Refer=top)<br />
+6. [日本vs越南](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%ACvs%E8%B6%8A%E5%8D%97&t=31&band_rank=6&Refer=top)<br />
+7. [王鹤棣抽到GAI送的十年SVIP](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8A%BD%E5%88%B0GAI%E9%80%81%E7%9A%84%E5%8D%81%E5%B9%B4SVIP&t=31&band_rank=7&Refer=top)<br />
 8. [买机票选错日期实付6000多退款仅269元](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%9C%BA%E7%A5%A8%E9%80%89%E9%94%99%E6%97%A5%E6%9C%9F%E5%AE%9E%E4%BB%986000%E5%A4%9A%E9%80%80%E6%AC%BE%E4%BB%85269%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [重庆文旅开始急了](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%87%E6%97%85%E5%BC%80%E5%A7%8B%E6%80%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
