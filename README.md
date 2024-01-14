@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 18:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 18:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [难怪玲子这次不来了](https://s.weibo.com/weibo?q=%E9%9A%BE%E6%80%AA%E7%8E%B2%E5%AD%90%E8%BF%99%E6%AC%A1%E4%B8%8D%E6%9D%A5%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [消防员撤离前留下祝福黑板报](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E6%92%A4%E7%A6%BB%E5%89%8D%E7%95%99%E4%B8%8B%E7%A5%9D%E7%A6%8F%E9%BB%91%E6%9D%BF%E6%8A%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [买机票选错日期实付6000多退款仅269元](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%9C%BA%E7%A5%A8%E9%80%89%E9%94%99%E6%97%A5%E6%9C%9F%E5%AE%9E%E4%BB%986000%E5%A4%9A%E9%80%80%E6%AC%BE%E4%BB%85269%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [秘鲁外星人遗体是人工合成人偶](https://s.weibo.com/weibo?q=%23%E7%A7%98%E9%B2%81%E5%A4%96%E6%98%9F%E4%BA%BA%E9%81%97%E4%BD%93%E6%98%AF%E4%BA%BA%E5%B7%A5%E5%90%88%E6%88%90%E4%BA%BA%E5%81%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [新疆多处发生雪崩游客已滞留4天](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%9A%E5%A4%84%E5%8F%91%E7%94%9F%E9%9B%AA%E5%B4%A9%E6%B8%B8%E5%AE%A2%E5%B7%B2%E6%BB%9E%E7%95%994%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
