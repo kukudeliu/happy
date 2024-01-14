@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 07:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 07:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [难怪玲子这次不来了](https://s.weibo.com/weibo?q=%E9%9A%BE%E6%80%AA%E7%8E%B2%E5%AD%90%E8%BF%99%E6%AC%A1%E4%B8%8D%E6%9D%A5%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [佘诗曼三料视后](https://s.weibo.com/weibo?q=%E4%BD%98%E8%AF%97%E6%9B%BC%E4%B8%89%E6%96%99%E8%A7%86%E5%90%8E&t=31&band_rank=7&Refer=top)<br />
 8. [各地文旅局都疯了](https://s.weibo.com/weibo?q=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%B1%80%E9%83%BD%E7%96%AF%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [黄晓明李冰冰一起走红毯](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%E6%9D%8E%E5%86%B0%E5%86%B0%E4%B8%80%E8%B5%B7%E8%B5%B0%E7%BA%A2%E6%AF%AF&t=31&band_rank=9&Refer=top)<br />
+9. [白冰首播](https://s.weibo.com/weibo?q=%E7%99%BD%E5%86%B0%E9%A6%96%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
