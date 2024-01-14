@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 19:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 19:25:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [中国城市轨道交通运营里程突破1万公里](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9F%8E%E5%B8%82%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A%E8%BF%90%E8%90%A5%E9%87%8C%E7%A8%8B%E7%AA%81%E7%A0%B41%E4%B8%87%E5%85%AC%E9%87%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [难怪玲子这次不来了](https://s.weibo.com/weibo?q=%E9%9A%BE%E6%80%AA%E7%8E%B2%E5%AD%90%E8%BF%99%E6%AC%A1%E4%B8%8D%E6%9D%A5%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [小孩落水路过大爷跳湖10秒钟救起](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E8%90%BD%E6%B0%B4%E8%B7%AF%E8%BF%87%E5%A4%A7%E7%88%B7%E8%B7%B3%E6%B9%9610%E7%A7%92%E9%92%9F%E6%95%91%E8%B5%B7%23&t=31&band_rank=5&Refer=top)<br />
-6. [哈尔滨通报打车2公里要收50元](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E9%80%9A%E6%8A%A5%E6%89%93%E8%BD%A62%E5%85%AC%E9%87%8C%E8%A6%81%E6%94%B650%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
+6. [买机票选错日期实付6000多退款仅269元](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%9C%BA%E7%A5%A8%E9%80%89%E9%94%99%E6%97%A5%E6%9C%9F%E5%AE%9E%E4%BB%986000%E5%A4%9A%E9%80%80%E6%AC%BE%E4%BB%85269%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [消防员撤离前留下祝福黑板报](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E6%92%A4%E7%A6%BB%E5%89%8D%E7%95%99%E4%B8%8B%E7%A5%9D%E7%A6%8F%E9%BB%91%E6%9D%BF%E6%8A%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [买机票选错日期实付6000多退款仅269元](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%9C%BA%E7%A5%A8%E9%80%89%E9%94%99%E6%97%A5%E6%9C%9F%E5%AE%9E%E4%BB%986000%E5%A4%9A%E9%80%80%E6%AC%BE%E4%BB%85269%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+8. [哈尔滨通报打车2公里要收50元](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E9%80%9A%E6%8A%A5%E6%89%93%E8%BD%A62%E5%85%AC%E9%87%8C%E8%A6%81%E6%94%B650%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [孙阳抽中了王源的冻梨](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%98%B3%E6%8A%BD%E4%B8%AD%E4%BA%86%E7%8E%8B%E6%BA%90%E7%9A%84%E5%86%BB%E6%A2%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
