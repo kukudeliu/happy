@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 19:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 19:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [小孩落水路过大爷跳湖10秒钟救起](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E8%90%BD%E6%B0%B4%E8%B7%AF%E8%BF%87%E5%A4%A7%E7%88%B7%E8%B7%B3%E6%B9%9610%E7%A7%92%E9%92%9F%E6%95%91%E8%B5%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [买机票选错日期实付6000多退款仅269元](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%9C%BA%E7%A5%A8%E9%80%89%E9%94%99%E6%97%A5%E6%9C%9F%E5%AE%9E%E4%BB%986000%E5%A4%9A%E9%80%80%E6%AC%BE%E4%BB%85269%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [消防员撤离前留下祝福黑板报](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E6%92%A4%E7%A6%BB%E5%89%8D%E7%95%99%E4%B8%8B%E7%A5%9D%E7%A6%8F%E9%BB%91%E6%9D%BF%E6%8A%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [哈尔滨通报打车2公里要收50元](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E9%80%9A%E6%8A%A5%E6%89%93%E8%BD%A62%E5%85%AC%E9%87%8C%E8%A6%81%E6%94%B650%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [张小斐 给你们看我姐可爱吗](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E7%BB%99%E4%BD%A0%E4%BB%AC%E7%9C%8B%E6%88%91%E5%A7%90%E5%8F%AF%E7%88%B1%E5%90%97&t=31&band_rank=9&Refer=top)<br />
+8. [张小斐 给你们看我姐可爱吗](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E7%BB%99%E4%BD%A0%E4%BB%AC%E7%9C%8B%E6%88%91%E5%A7%90%E5%8F%AF%E7%88%B1%E5%90%97&t=31&band_rank=8&Refer=top)<br />
+9. [哈尔滨通报打车2公里要收50元](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E9%80%9A%E6%8A%A5%E6%89%93%E8%BD%A62%E5%85%AC%E9%87%8C%E8%A6%81%E6%94%B650%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
