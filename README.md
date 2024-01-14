@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 16:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 16:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [刘涛 胡歌活到现在真是奇迹](https://s.weibo.com/weibo?q=%E5%88%98%E6%B6%9B%20%E8%83%A1%E6%AD%8C%E6%B4%BB%E5%88%B0%E7%8E%B0%E5%9C%A8%E7%9C%9F%E6%98%AF%E5%A5%87%E8%BF%B9&t=31&band_rank=5&Refer=top)<br />
 6. [至少看过3遍以上的宝藏电影](https://s.weibo.com/weibo?q=%E8%87%B3%E5%B0%91%E7%9C%8B%E8%BF%873%E9%81%8D%E4%BB%A5%E4%B8%8A%E7%9A%84%E5%AE%9D%E8%97%8F%E7%94%B5%E5%BD%B1&t=31&band_rank=6&Refer=top)<br />
 7. [宋轶的腰](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%BD%B6%E7%9A%84%E8%85%B0&t=31&band_rank=7&Refer=top)<br />
-8. [因榴莲快熟了司机高速狂奔7小时交警拦下强制其休息](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E6%A6%B4%E8%8E%B2%E5%BF%AB%E7%86%9F%E4%BA%86%E5%8F%B8%E6%9C%BA%E9%AB%98%E9%80%9F%E7%8B%82%E5%A5%947%E5%B0%8F%E6%97%B6%E4%BA%A4%E8%AD%A6%E6%8B%A6%E4%B8%8B%E5%BC%BA%E5%88%B6%E5%85%B6%E4%BC%91%E6%81%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [感染乙流比甲流更严重吗](https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93%E4%B9%99%E6%B5%81%E6%AF%94%E7%94%B2%E6%B5%81%E6%9B%B4%E4%B8%A5%E9%87%8D%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [感染乙流比甲流更严重吗](https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93%E4%B9%99%E6%B5%81%E6%AF%94%E7%94%B2%E6%B5%81%E6%9B%B4%E4%B8%A5%E9%87%8D%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [因榴莲快熟了司机高速狂奔7小时交警拦下强制其休息](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E6%A6%B4%E8%8E%B2%E5%BF%AB%E7%86%9F%E4%BA%86%E5%8F%B8%E6%9C%BA%E9%AB%98%E9%80%9F%E7%8B%82%E5%A5%947%E5%B0%8F%E6%97%B6%E4%BA%A4%E8%AD%A6%E6%8B%A6%E4%B8%8B%E5%BC%BA%E5%88%B6%E5%85%B6%E4%BC%91%E6%81%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
