@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-14 12:22:01</h4></div>
 
 > 微博  
 
 1. [拜托她可是贾玲](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E6%89%98%E5%A5%B9%E5%8F%AF%E6%98%AF%E8%B4%BE%E7%8E%B2%23&t=31&band_rank=1&Refer=top)<br />
 2. [台湾是中国一部分的基本事实不会改变](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%83%A8%E5%88%86%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E%E4%B8%8D%E4%BC%9A%E6%94%B9%E5%8F%98%23&t=31&band_rank=2&Refer=top)<br />
 3. [专属于冬日的浪漫氛围感](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%B1%9E%E4%BA%8E%E5%86%AC%E6%97%A5%E7%9A%84%E6%B5%AA%E6%BC%AB%E6%B0%9B%E5%9B%B4%E6%84%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [吴磊差点把迪丽热巴奖杯拿走了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%B7%AE%E7%82%B9%E6%8A%8A%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A5%96%E6%9D%AF%E6%8B%BF%E8%B5%B0%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [王鹤棣对秦岚贴脸开大](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AF%B9%E7%A7%A6%E5%B2%9A%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7%23&t=31&band_rank=5&Refer=top)<br />
+4. [王鹤棣对秦岚贴脸开大](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AF%B9%E7%A7%A6%E5%B2%9A%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7%23&t=31&band_rank=4&Refer=top)<br />
+5. [吴磊差点把迪丽热巴奖杯拿走了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%B7%AE%E7%82%B9%E6%8A%8A%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A5%96%E6%9D%AF%E6%8B%BF%E8%B5%B0%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [尼格买提叫的是娜扎全名](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%8F%AB%E7%9A%84%E6%98%AF%E5%A8%9C%E6%89%8E%E5%85%A8%E5%90%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [田曦薇爱心痣](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E7%88%B1%E5%BF%83%E7%97%A3&t=31&band_rank=7&Refer=top)<br />
 8. [韩媒嘲讽国足](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E5%98%B2%E8%AE%BD%E5%9B%BD%E8%B6%B3%23&t=31&band_rank=8&Refer=top)<br />
