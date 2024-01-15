@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 09:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 09:43:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [神十七乘组空间站吃播健身上新](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E4%B9%98%E7%BB%84%E7%A9%BA%E9%97%B4%E7%AB%99%E5%90%83%E6%92%AD%E5%81%A5%E8%BA%AB%E4%B8%8A%E6%96%B0%23&t=31&band_rank=3&Refer=top)<br />
 4. [祝绪丹 女二](https://s.weibo.com/weibo?q=%E7%A5%9D%E7%BB%AA%E4%B8%B9%20%E5%A5%B3%E4%BA%8C&t=31&band_rank=4&Refer=top)<br />
 5. [应届生当上班主任之后](https://s.weibo.com/weibo?q=%23%E5%BA%94%E5%B1%8A%E7%94%9F%E5%BD%93%E4%B8%8A%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B9%8B%E5%90%8E%23&t=31&band_rank=5&Refer=top)<br />
-6. [冰岛小镇流进岩浆](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%B0%8F%E9%95%87%E6%B5%81%E8%BF%9B%E5%B2%A9%E6%B5%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [各地文旅局都疯了](https://s.weibo.com/weibo?q=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%B1%80%E9%83%BD%E7%96%AF%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+6. [各地文旅局都疯了](https://s.weibo.com/weibo?q=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%B1%80%E9%83%BD%E7%96%AF%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+7. [冰岛小镇流进岩浆](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%B0%8F%E9%95%87%E6%B5%81%E8%BF%9B%E5%B2%A9%E6%B5%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [丹麦国王腓特烈十世登基](https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E5%9B%BD%E7%8E%8B%E8%85%93%E7%89%B9%E7%83%88%E5%8D%81%E4%B8%96%E7%99%BB%E5%9F%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [新闻女王赢麻了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
