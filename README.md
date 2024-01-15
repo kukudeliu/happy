@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 20:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 20:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [千万不要对抑郁症朋友说](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%AF%B9%E6%8A%91%E9%83%81%E7%97%87%E6%9C%8B%E5%8F%8B%E8%AF%B4&t=31&band_rank=6&Refer=top)<br />
 7. [皇额娘推了熹娘娘原来是这个推](https://s.weibo.com/weibo?q=%E7%9A%87%E9%A2%9D%E5%A8%98%E6%8E%A8%E4%BA%86%E7%86%B9%E5%A8%98%E5%A8%98%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E4%B8%AA%E6%8E%A8&t=31&band_rank=7&Refer=top)<br />
 8. [身上有老人味可能是疾病信号](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%B8%8A%E6%9C%89%E8%80%81%E4%BA%BA%E5%91%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E7%96%BE%E7%97%85%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨紫回应每年都有爆剧](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E6%AF%8F%E5%B9%B4%E9%83%BD%E6%9C%89%E7%88%86%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [博主质疑吉林文旅用张起灵宣传不妥](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E8%B4%A8%E7%96%91%E5%90%89%E6%9E%97%E6%96%87%E6%97%85%E7%94%A8%E5%BC%A0%E8%B5%B7%E7%81%B5%E5%AE%A3%E4%BC%A0%E4%B8%8D%E5%A6%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
