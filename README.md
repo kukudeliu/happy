@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 02:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 02:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [安心丈夫拒绝同房](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BF%83%E4%B8%88%E5%A4%AB%E6%8B%92%E7%BB%9D%E5%90%8C%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [原来护发素这么有用](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%8A%A4%E5%8F%91%E7%B4%A0%E8%BF%99%E4%B9%88%E6%9C%89%E7%94%A8&t=31&band_rank=7&Refer=top)<br />
 8. [女子40分钟一锅做出14道菜](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9040%E5%88%86%E9%92%9F%E4%B8%80%E9%94%85%E5%81%9A%E5%87%BA14%E9%81%93%E8%8F%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨幂绿戒指红美甲](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%BB%BF%E6%88%92%E6%8C%87%E7%BA%A2%E7%BE%8E%E7%94%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [中方将给予瑞士单方面免签](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%86%E7%BB%99%E4%BA%88%E7%91%9E%E5%A3%AB%E5%8D%95%E6%96%B9%E9%9D%A2%E5%85%8D%E7%AD%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
