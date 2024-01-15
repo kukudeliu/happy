@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 09:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 09:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [冰岛小镇流进岩浆](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%B0%8F%E9%95%87%E6%B5%81%E8%BF%9B%E5%B2%A9%E6%B5%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [各地文旅局都疯了](https://s.weibo.com/weibo?q=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%B1%80%E9%83%BD%E7%96%AF%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [丹麦国王腓特烈十世登基](https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E5%9B%BD%E7%8E%8B%E8%85%93%E7%89%B9%E7%83%88%E5%8D%81%E4%B8%96%E7%99%BB%E5%9F%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [50岁老妈爆改女儿变3000年战国美女](https://s.weibo.com/weibo?q=%2350%E5%B2%81%E8%80%81%E5%A6%88%E7%88%86%E6%94%B9%E5%A5%B3%E5%84%BF%E5%8F%983000%E5%B9%B4%E6%88%98%E5%9B%BD%E7%BE%8E%E5%A5%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [新闻女王赢麻了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
