@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 20:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 20:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫回应每年都有爆剧](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E6%AF%8F%E5%B9%B4%E9%83%BD%E6%9C%89%E7%88%86%E5%89%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [苹果官网大降价可退差价](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E5%A4%A7%E9%99%8D%E4%BB%B7%E5%8F%AF%E9%80%80%E5%B7%AE%E4%BB%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [广州W酒店将停业](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9EW%E9%85%92%E5%BA%97%E5%B0%86%E5%81%9C%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [胡歌白敬亭微信加上了吗](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E7%99%BD%E6%95%AC%E4%BA%AD%E5%BE%AE%E4%BF%A1%E5%8A%A0%E4%B8%8A%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [千万不要对抑郁症朋友说](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%AF%B9%E6%8A%91%E9%83%81%E7%97%87%E6%9C%8B%E5%8F%8B%E8%AF%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
