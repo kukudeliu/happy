@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 11:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 11:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [哈尔滨哈药六厂 祖上富过](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%93%88%E8%8D%AF%E5%85%AD%E5%8E%82%20%E7%A5%96%E4%B8%8A%E5%AF%8C%E8%BF%87&t=31&band_rank=6&Refer=top)<br />
 7. [96110一定要接 没接到要打回去](https://s.weibo.com/weibo?q=96110%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8E%A5%20%E6%B2%A1%E6%8E%A5%E5%88%B0%E8%A6%81%E6%89%93%E5%9B%9E%E5%8E%BB&t=31&band_rank=7&Refer=top)<br />
 8. [于正 我的剧从来都是靠剧情](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%20%E6%88%91%E7%9A%84%E5%89%A7%E4%BB%8E%E6%9D%A5%E9%83%BD%E6%98%AF%E9%9D%A0%E5%89%A7%E6%83%85&t=31&band_rank=8&Refer=top)<br />
-9. [奚梦瑶何猷君感情好的原因](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E4%BD%95%E7%8C%B7%E5%90%9B%E6%84%9F%E6%83%85%E5%A5%BD%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [台媒称施明德去世](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E7%A7%B0%E6%96%BD%E6%98%8E%E5%BE%B7%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
