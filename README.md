@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 12:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 12:19:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [建设全国统一大市场](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平重要指示为政法战线指明方向](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA%E4%B8%BA%E6%94%BF%E6%B3%95%E6%88%98%E7%BA%BF%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [年轻人开始流行三无婚礼](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E4%B8%89%E6%97%A0%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [各地文旅局都疯了](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%B1%80%E9%83%BD%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高质量发展信心满怀](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E4%BF%A1%E5%BF%83%E6%BB%A1%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [建设全国统一大市场](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%BE%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平重要指示为政法战线指明方向](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA%E4%B8%BA%E6%94%BF%E6%B3%95%E6%88%98%E7%BA%BF%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [年轻人开始流行三无婚礼](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E4%B8%89%E6%97%A0%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [各地文旅局都疯了](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%B1%80%E9%83%BD%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [高质量发展信心满怀](https://www.baidu.com/s?wd=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E4%BF%A1%E5%BF%83%E6%BB%A1%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
