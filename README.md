@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 09:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 09:58:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [各地文旅局都疯了](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%B1%80%E9%83%BD%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：越南敢和日本对攻让国足汗颜](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%B6%8A%E5%8D%97%E6%95%A2%E5%92%8C%E6%97%A5%E6%9C%AC%E5%AF%B9%E6%94%BB%E8%AE%A9%E5%9B%BD%E8%B6%B3%E6%B1%97%E9%A2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [各地文旅连夜摇人：周迅王一博来了](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E8%BF%9E%E5%A4%9C%E6%91%87%E4%BA%BA%EF%BC%9A%E5%91%A8%E8%BF%85%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苹果官网罕见大降价](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E7%BD%95%E8%A7%81%E5%A4%A7%E9%99%8D%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马尔代夫要求印度3月15日前撤军](https://www.baidu.com/s?wd=%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E8%A6%81%E6%B1%82%E5%8D%B0%E5%BA%A63%E6%9C%8815%E6%97%A5%E5%89%8D%E6%92%A4%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣“警察欺负虐待儿童”](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%AD%A6%E5%AF%9F%E6%AC%BA%E8%B4%9F%E8%99%90%E5%BE%85%E5%84%BF%E7%AB%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [各地文旅局都疯了](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%B1%80%E9%83%BD%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [媒体：越南敢和日本对攻让国足汗颜](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%EF%BC%9A%E8%B6%8A%E5%8D%97%E6%95%A2%E5%92%8C%E6%97%A5%E6%9C%AC%E5%AF%B9%E6%94%BB%E8%AE%A9%E5%9B%BD%E8%B6%B3%E6%B1%97%E9%A2%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [各地文旅连夜摇人：周迅王一博来了](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E8%BF%9E%E5%A4%9C%E6%91%87%E4%BA%BA%EF%BC%9A%E5%91%A8%E8%BF%85%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苹果官网罕见大降价](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E7%BD%95%E8%A7%81%E5%A4%A7%E9%99%8D%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马尔代夫要求印度3月15日前撤军](https://www.baidu.com/s?wd=%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E8%A6%81%E6%B1%82%E5%8D%B0%E5%BA%A63%E6%9C%8815%E6%97%A5%E5%89%8D%E6%92%A4%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣“警察欺负虐待儿童”](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%AD%A6%E5%AF%9F%E6%AC%BA%E8%B4%9F%E8%99%90%E5%BE%85%E5%84%BF%E7%AB%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
