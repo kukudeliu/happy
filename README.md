@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 16:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 16:22:02</h4></div>
 
 > 微博  
 
 1. [瑙鲁与台湾断交](https://s.weibo.com/weibo?q=%23%E7%91%99%E9%B2%81%E4%B8%8E%E5%8F%B0%E6%B9%BE%E6%96%AD%E4%BA%A4%23&t=31&band_rank=1&Refer=top)<br />
-2. [瑙鲁政府宣布承认一个中国](https://s.weibo.com/weibo?q=%23%E7%91%99%E9%B2%81%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%89%BF%E8%AE%A4%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=2&Refer=top)<br />
+2. [虞书欣回应唐嫣](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%94%90%E5%AB%A3%23&t=31&band_rank=2&Refer=top)<br />
 3. [当中国铁路遇上中国传统色](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E9%81%87%E4%B8%8A%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%23&t=31&band_rank=3&Refer=top)<br />
-4. [虞书欣回应唐嫣](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%94%90%E5%AB%A3%23&t=31&band_rank=4&Refer=top)<br />
+4. [瑙鲁政府宣布承认一个中国](https://s.weibo.com/weibo?q=%23%E7%91%99%E9%B2%81%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%89%BF%E8%AE%A4%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=4&Refer=top)<br />
 5. [身上有老人味可能是疾病信号](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%B8%8A%E6%9C%89%E8%80%81%E4%BA%BA%E5%91%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E7%96%BE%E7%97%85%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [张颂文暗示微博八百回报销](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%E6%9A%97%E7%A4%BA%E5%BE%AE%E5%8D%9A%E5%85%AB%E7%99%BE%E5%9B%9E%E6%8A%A5%E9%94%80&t=31&band_rank=6&Refer=top)<br />
 7. [黄景瑜以为抽到了古董](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E4%BB%A5%E4%B8%BA%E6%8A%BD%E5%88%B0%E4%BA%86%E5%8F%A4%E8%91%A3%23&t=31&band_rank=7&Refer=top)<br />
