@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 22:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 22:44:01</h4></div>
 
 > 微博  
 
-1. [陈泽直播](https://s.weibo.com/weibo?q=%E9%99%88%E6%B3%BD%E7%9B%B4%E6%92%AD&t=31&band_rank=1&Refer=top)<br />
-2. [家有儿女将开拍原班人马全员回归](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E5%B0%86%E5%BC%80%E6%8B%8D%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC%E5%85%A8%E5%91%98%E5%9B%9E%E5%BD%92%23&t=31&band_rank=2&Refer=top)<br />
+1. [家有儿女将开拍原班人马全员回归](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E5%B0%86%E5%BC%80%E6%8B%8D%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC%E5%85%A8%E5%91%98%E5%9B%9E%E5%BD%92%23&t=31&band_rank=1&Refer=top)<br />
+2. [陈泽直播](https://s.weibo.com/weibo?q=%E9%99%88%E6%B3%BD%E7%9B%B4%E6%92%AD&t=31&band_rank=2&Refer=top)<br />
 3. [空军红鹰飞行表演队最新训练大片](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%86%9B%E7%BA%A2%E9%B9%B0%E9%A3%9E%E8%A1%8C%E8%A1%A8%E6%BC%94%E9%98%9F%E6%9C%80%E6%96%B0%E8%AE%AD%E7%BB%83%E5%A4%A7%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨幂绿戒指红美甲](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%BB%BF%E6%88%92%E6%8C%87%E7%BA%A2%E7%BE%8E%E7%94%B2%23&t=31&band_rank=4&Refer=top)<br />
 5. [月经3天和7天均属正常](https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F3%E5%A4%A9%E5%92%8C7%E5%A4%A9%E5%9D%87%E5%B1%9E%E6%AD%A3%E5%B8%B8%23&t=31&band_rank=5&Refer=top)<br />
