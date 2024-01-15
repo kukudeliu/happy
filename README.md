@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 05:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 05:29:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [龙年春晚完成首次彩排](https://www.baidu.com/s?wd=%E9%BE%99%E5%B9%B4%E6%98%A5%E6%99%9A%E5%AE%8C%E6%88%90%E9%A6%96%E6%AC%A1%E5%BD%A9%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [台湾艺人欧阳娣娣：我来自中国](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E6%AC%A7%E9%98%B3%E5%A8%A3%E5%A8%A3%EF%BC%9A%E6%88%91%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [水均益女儿从央视离职后宣布带货](https://www.baidu.com/s?wd=%E6%B0%B4%E5%9D%87%E7%9B%8A%E5%A5%B3%E5%84%BF%E4%BB%8E%E5%A4%AE%E8%A7%86%E7%A6%BB%E8%81%8C%E5%90%8E%E5%AE%A3%E5%B8%83%E5%B8%A6%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子吐槽华清宫贵妃入浴雕像不雅](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%90%E6%A7%BD%E5%8D%8E%E6%B8%85%E5%AE%AB%E8%B4%B5%E5%A6%83%E5%85%A5%E6%B5%B4%E9%9B%95%E5%83%8F%E4%B8%8D%E9%9B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学生感染“全家桶” 咳到肌肉拉伤](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%84%9F%E6%9F%93%E2%80%9C%E5%85%A8%E5%AE%B6%E6%A1%B6%E2%80%9D+%E5%92%B3%E5%88%B0%E8%82%8C%E8%82%89%E6%8B%89%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [近视可从800度降到100度？](https://www.baidu.com/s?wd=%E8%BF%91%E8%A7%86%E5%8F%AF%E4%BB%8E800%E5%BA%A6%E9%99%8D%E5%88%B0100%E5%BA%A6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [龙年春晚完成首次彩排](https://www.baidu.com/s?wd=%E9%BE%99%E5%B9%B4%E6%98%A5%E6%99%9A%E5%AE%8C%E6%88%90%E9%A6%96%E6%AC%A1%E5%BD%A9%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [台湾艺人欧阳娣娣：我来自中国](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E6%AC%A7%E9%98%B3%E5%A8%A3%E5%A8%A3%EF%BC%9A%E6%88%91%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [水均益女儿从央视离职后宣布带货](https://www.baidu.com/s?wd=%E6%B0%B4%E5%9D%87%E7%9B%8A%E5%A5%B3%E5%84%BF%E4%BB%8E%E5%A4%AE%E8%A7%86%E7%A6%BB%E8%81%8C%E5%90%8E%E5%AE%A3%E5%B8%83%E5%B8%A6%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子吐槽华清宫贵妃入浴雕像不雅](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%90%E6%A7%BD%E5%8D%8E%E6%B8%85%E5%AE%AB%E8%B4%B5%E5%A6%83%E5%85%A5%E6%B5%B4%E9%9B%95%E5%83%8F%E4%B8%8D%E9%9B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [大学生感染“全家桶” 咳到肌肉拉伤](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%84%9F%E6%9F%93%E2%80%9C%E5%85%A8%E5%AE%B6%E6%A1%B6%E2%80%9D+%E5%92%B3%E5%88%B0%E8%82%8C%E8%82%89%E6%8B%89%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [近视可从800度降到100度？](https://www.baidu.com/s?wd=%E8%BF%91%E8%A7%86%E5%8F%AF%E4%BB%8E800%E5%BA%A6%E9%99%8D%E5%88%B0100%E5%BA%A6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
