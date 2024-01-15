@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 09:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 09:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [应届生当上班主任之后](https://s.weibo.com/weibo?q=%23%E5%BA%94%E5%B1%8A%E7%94%9F%E5%BD%93%E4%B8%8A%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B9%8B%E5%90%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [冰岛小镇流进岩浆](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%B0%8F%E9%95%87%E6%B5%81%E8%BF%9B%E5%B2%A9%E6%B5%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [各地文旅局都疯了](https://s.weibo.com/weibo?q=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%B1%80%E9%83%BD%E7%96%AF%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [涉嫌杀害华人妻子好莱坞富二代拒不认罪](https://s.weibo.com/weibo?q=%23%E6%B6%89%E5%AB%8C%E6%9D%80%E5%AE%B3%E5%8D%8E%E4%BA%BA%E5%A6%BB%E5%AD%90%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%AF%8C%E4%BA%8C%E4%BB%A3%E6%8B%92%E4%B8%8D%E8%AE%A4%E7%BD%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [丹麦国王腓特烈十世登基](https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E5%9B%BD%E7%8E%8B%E8%85%93%E7%89%B9%E7%83%88%E5%8D%81%E4%B8%96%E7%99%BB%E5%9F%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
