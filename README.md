@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 09:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 09:59:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [祝绪丹 女二](https://s.weibo.com/weibo?q=%E7%A5%9D%E7%BB%AA%E4%B8%B9%20%E5%A5%B3%E4%BA%8C&t=31&band_rank=4&Refer=top)<br />
 5. [96110一定要接 没接到要打回去](https://s.weibo.com/weibo?q=96110%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8E%A5%20%E6%B2%A1%E6%8E%A5%E5%88%B0%E8%A6%81%E6%89%93%E5%9B%9E%E5%8E%BB&t=31&band_rank=5&Refer=top)<br />
 6. [各地文旅局都疯了](https://s.weibo.com/weibo?q=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%B1%80%E9%83%BD%E7%96%AF%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [应届生当上班主任之后](https://s.weibo.com/weibo?q=%23%E5%BA%94%E5%B1%8A%E7%94%9F%E5%BD%93%E4%B8%8A%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B9%8B%E5%90%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [冰岛小镇流进岩浆](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%B0%8F%E9%95%87%E6%B5%81%E8%BF%9B%E5%B2%A9%E6%B5%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [于正再回应](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E5%86%8D%E5%9B%9E%E5%BA%94&t=31&band_rank=7&Refer=top)<br />
+8. [应届生当上班主任之后](https://s.weibo.com/weibo?q=%23%E5%BA%94%E5%B1%8A%E7%94%9F%E5%BD%93%E4%B8%8A%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B9%8B%E5%90%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [女演员之间的惺惺相惜](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%BC%94%E5%91%98%E4%B9%8B%E9%97%B4%E7%9A%84%E6%83%BA%E6%83%BA%E7%9B%B8%E6%83%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
