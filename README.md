@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 12:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 12:54:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [新冠疫情可能在本月出现回升](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E5%8F%AF%E8%83%BD%E5%9C%A8%E6%9C%AC%E6%9C%88%E5%87%BA%E7%8E%B0%E5%9B%9E%E5%8D%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [iPhone16将配备8GBRAM](https://s.weibo.com/weibo?q=%23iPhone16%E5%B0%86%E9%85%8D%E5%A4%878GBRAM%23&t=31&band_rank=7&Refer=top)<br />
 8. [北京上空出现疑似不明飞行物](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8A%E7%A9%BA%E5%87%BA%E7%8E%B0%E7%96%91%E4%BC%BC%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [大侦探](https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A2&t=31&band_rank=9&Refer=top)<br />
+9. [谭爷爷来北京是上春晚的](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%88%B7%E7%88%B7%E6%9D%A5%E5%8C%97%E4%BA%AC%E6%98%AF%E4%B8%8A%E6%98%A5%E6%99%9A%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
