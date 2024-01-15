@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 10:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 10:25:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [96110一定要接 没接到要打回去](https://s.weibo.com/weibo?q=96110%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8E%A5%20%E6%B2%A1%E6%8E%A5%E5%88%B0%E8%A6%81%E6%89%93%E5%9B%9E%E5%8E%BB&t=31&band_rank=6&Refer=top)<br />
 7. [北京上空出现疑似不明飞行物](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8A%E7%A9%BA%E5%87%BA%E7%8E%B0%E7%96%91%E4%BC%BC%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [女演员之间的惺惺相惜](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%BC%94%E5%91%98%E4%B9%8B%E9%97%B4%E7%9A%84%E6%83%BA%E6%83%BA%E7%9B%B8%E6%83%9C&t=31&band_rank=8&Refer=top)<br />
-9. [各地文旅局都疯了](https://s.weibo.com/weibo?q=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%B1%80%E9%83%BD%E7%96%AF%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [新冠疫情可能在本月出现回升](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E5%8F%AF%E8%83%BD%E5%9C%A8%E6%9C%AC%E6%9C%88%E5%87%BA%E7%8E%B0%E5%9B%9E%E5%8D%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
