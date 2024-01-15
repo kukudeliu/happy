@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 12:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 12:59:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [春晚第一次大彩排明星阵容](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%A4%A7%E5%BD%A9%E6%8E%92%E6%98%8E%E6%98%9F%E9%98%B5%E5%AE%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [为啥人身上总有几根特长的毛](https://s.weibo.com/weibo?q=%E4%B8%BA%E5%95%A5%E4%BA%BA%E8%BA%AB%E4%B8%8A%E6%80%BB%E6%9C%89%E5%87%A0%E6%A0%B9%E7%89%B9%E9%95%BF%E7%9A%84%E6%AF%9B&t=31&band_rank=6&Refer=top)<br />
 7. [新冠疫情可能在本月出现回升](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E5%8F%AF%E8%83%BD%E5%9C%A8%E6%9C%AC%E6%9C%88%E5%87%BA%E7%8E%B0%E5%9B%9E%E5%8D%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [iPhone16将配备8GBRAM](https://s.weibo.com/weibo?q=%23iPhone16%E5%B0%86%E9%85%8D%E5%A4%878GBRAM%23&t=31&band_rank=8&Refer=top)<br />
+8. [张颂文暗示微博八百回报销](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%E6%9A%97%E7%A4%BA%E5%BE%AE%E5%8D%9A%E5%85%AB%E7%99%BE%E5%9B%9E%E6%8A%A5%E9%94%80&t=31&band_rank=8&Refer=top)<br />
 9. [北京上空出现疑似不明飞行物](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8A%E7%A9%BA%E5%87%BA%E7%8E%B0%E7%96%91%E4%BC%BC%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
