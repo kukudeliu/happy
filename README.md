@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 16:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 16:09:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平重要指示为政法战线指明方向](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA%E4%B8%BA%E6%94%BF%E6%B3%95%E6%88%98%E7%BA%BF%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [学习领会总书记对政法工作重要指示](https://www.baidu.com/s?wd=%E5%AD%A6%E4%B9%A0%E9%A2%86%E4%BC%9A%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E6%94%BF%E6%B3%95%E5%B7%A5%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [瑙鲁宣布同台湾“断交” 外交部回应](https://www.baidu.com/s?wd=%E7%91%99%E9%B2%81%E5%AE%A3%E5%B8%83%E5%90%8C%E5%8F%B0%E6%B9%BE%E2%80%9C%E6%96%AD%E4%BA%A4%E2%80%9D+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [春晚第一次大彩排明星阵容](https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%A4%A7%E5%BD%A9%E6%8E%92%E6%98%8E%E6%98%9F%E9%98%B5%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [如何发展新质生产力](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E5%8F%91%E5%B1%95%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平重要指示为政法战线指明方向](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA%E4%B8%BA%E6%94%BF%E6%B3%95%E6%88%98%E7%BA%BF%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [学习领会总书记对政法工作重要指示](https://www.baidu.com/s?wd=%E5%AD%A6%E4%B9%A0%E9%A2%86%E4%BC%9A%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E6%94%BF%E6%B3%95%E5%B7%A5%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [瑙鲁宣布同台湾“断交” 外交部回应](https://www.baidu.com/s?wd=%E7%91%99%E9%B2%81%E5%AE%A3%E5%B8%83%E5%90%8C%E5%8F%B0%E6%B9%BE%E2%80%9C%E6%96%AD%E4%BA%A4%E2%80%9D+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [春晚第一次大彩排明星阵容](https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%A4%A7%E5%BD%A9%E6%8E%92%E6%98%8E%E6%98%9F%E9%98%B5%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [如何发展新质生产力](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E5%8F%91%E5%B1%95%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
