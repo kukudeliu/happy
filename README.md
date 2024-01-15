@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 08:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 08:23:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [难怪玲子这次不来了](https://s.weibo.com/weibo?q=%E9%9A%BE%E6%80%AA%E7%8E%B2%E5%AD%90%E8%BF%99%E6%AC%A1%E4%B8%8D%E6%9D%A5%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [官方回应文化墙被吐槽像灵堂](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%96%87%E5%8C%96%E5%A2%99%E8%A2%AB%E5%90%90%E6%A7%BD%E5%83%8F%E7%81%B5%E5%A0%82%23&t=31&band_rank=7&Refer=top)<br />
 8. [各地文旅局都疯了](https://s.weibo.com/weibo?q=%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%B1%80%E9%83%BD%E7%96%AF%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [佘诗曼三料视后](https://s.weibo.com/weibo?q=%E4%BD%98%E8%AF%97%E6%9B%BC%E4%B8%89%E6%96%99%E8%A7%86%E5%90%8E&t=31&band_rank=9&Refer=top)<br />
+9. [应届生当上班主任之后](https://s.weibo.com/weibo?q=%23%E5%BA%94%E5%B1%8A%E7%94%9F%E5%BD%93%E4%B8%8A%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B9%8B%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
