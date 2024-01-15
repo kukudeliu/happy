@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 18:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 18:07:01</h4></div>
 
 > 微博  
 
-1. [胡歌白敬亭微信加上了吗](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E7%99%BD%E6%95%AC%E4%BA%AD%E5%BE%AE%E4%BF%A1%E5%8A%A0%E4%B8%8A%E4%BA%86%E5%90%97%23&t=31&band_rank=1&Refer=top)<br />
+1. [全球近8亿人工资落后于通货膨胀](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%BF%918%E4%BA%BF%E4%BA%BA%E5%B7%A5%E8%B5%84%E8%90%BD%E5%90%8E%E4%BA%8E%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80%23&t=31&band_rank=1&Refer=top)<br />
 2. [儿子包机带母亲从台湾回大陆老家](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%8C%85%E6%9C%BA%E5%B8%A6%E6%AF%8D%E4%BA%B2%E4%BB%8E%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%A4%A7%E9%99%86%E8%80%81%E5%AE%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [当中国铁路遇上中国传统色](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E9%81%87%E4%B8%8A%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%23&t=31&band_rank=3&Refer=top)<br />
-4. [全球近8亿人工资落后于通货膨胀](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%BF%918%E4%BA%BF%E4%BA%BA%E5%B7%A5%E8%B5%84%E8%90%BD%E5%90%8E%E4%BA%8E%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80%23&t=31&band_rank=4&Refer=top)<br />
+4. [胡歌白敬亭微信加上了吗](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E7%99%BD%E6%95%AC%E4%BA%AD%E5%BE%AE%E4%BF%A1%E5%8A%A0%E4%B8%8A%E4%BA%86%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [90后瓦工日薪2000在省会买了房](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%93%A6%E5%B7%A5%E6%97%A5%E8%96%AA2000%E5%9C%A8%E7%9C%81%E4%BC%9A%E4%B9%B0%E4%BA%86%E6%88%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [虞书欣回应唐嫣](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%94%90%E5%AB%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [萌兰在线召唤搓澡师傅](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%85%B0%E5%9C%A8%E7%BA%BF%E5%8F%AC%E5%94%A4%E6%90%93%E6%BE%A1%E5%B8%88%E5%82%85%23&t=31&band_rank=7&Refer=top)<br />
