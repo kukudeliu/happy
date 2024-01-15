@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 18:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 18:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [3年挣102万外卖骑手辟谣被打](https://s.weibo.com/weibo?q=%233%E5%B9%B4%E6%8C%A3102%E4%B8%87%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E8%BE%9F%E8%B0%A3%E8%A2%AB%E6%89%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [萌娃主打一个已读乱回](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E5%B7%B2%E8%AF%BB%E4%B9%B1%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [身上有老人味可能是疾病信号](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%B8%8A%E6%9C%89%E8%80%81%E4%BA%BA%E5%91%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E7%96%BE%E7%97%85%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [全球近8亿人工资落后于通货膨胀](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%BF%918%E4%BA%BF%E4%BA%BA%E5%B7%A5%E8%B5%84%E8%90%BD%E5%90%8E%E4%BA%8E%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [虞书欣回应唐嫣](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%94%90%E5%AB%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
