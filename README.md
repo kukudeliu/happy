@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 15:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 15:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [46岁知名麻醉科医生去世](https://s.weibo.com/weibo?q=%2346%E5%B2%81%E7%9F%A5%E5%90%8D%E9%BA%BB%E9%86%89%E7%A7%91%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [台湾从不是一个国家过去不是今后更不是](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E4%BB%8E%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E5%9B%BD%E5%AE%B6%E8%BF%87%E5%8E%BB%E4%B8%8D%E6%98%AF%E4%BB%8A%E5%90%8E%E6%9B%B4%E4%B8%8D%E6%98%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [易烊千玺成毅喊你来湖南](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%88%90%E6%AF%85%E5%96%8A%E4%BD%A0%E6%9D%A5%E6%B9%96%E5%8D%97&t=31&band_rank=7&Refer=top)<br />
-8. [卢昱晓 女主](https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%20%E5%A5%B3%E4%B8%BB&t=31&band_rank=8&Refer=top)<br />
-9. [方便面真是垃圾食品吗](https://s.weibo.com/weibo?q=%23%E6%96%B9%E4%BE%BF%E9%9D%A2%E7%9C%9F%E6%98%AF%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [方便面真是垃圾食品吗](https://s.weibo.com/weibo?q=%23%E6%96%B9%E4%BE%BF%E9%9D%A2%E7%9C%9F%E6%98%AF%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [卢昱晓 女主](https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%20%E5%A5%B3%E4%B8%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
