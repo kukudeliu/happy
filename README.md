@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 18:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-15 18:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [90后瓦工日薪2000在省会买了房](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%93%A6%E5%B7%A5%E6%97%A5%E8%96%AA2000%E5%9C%A8%E7%9C%81%E4%BC%9A%E4%B9%B0%E4%BA%86%E6%88%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [全球近8亿人工资落后于通货膨胀](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%BF%918%E4%BA%BF%E4%BA%BA%E5%B7%A5%E8%B5%84%E8%90%BD%E5%90%8E%E4%BA%8E%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [萌兰在线召唤搓澡师傅](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%85%B0%E5%9C%A8%E7%BA%BF%E5%8F%AC%E5%94%A4%E6%90%93%E6%BE%A1%E5%B8%88%E5%82%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [3年挣102万外卖骑手辟谣被打](https://s.weibo.com/weibo?q=%233%E5%B9%B4%E6%8C%A3102%E4%B8%87%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E8%BE%9F%E8%B0%A3%E8%A2%AB%E6%89%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [张颂文暗示微博八百回报销](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%E6%9A%97%E7%A4%BA%E5%BE%AE%E5%8D%9A%E5%85%AB%E7%99%BE%E5%9B%9E%E6%8A%A5%E9%94%80&t=31&band_rank=9&Refer=top)<br />
+8. [张颂文暗示微博八百回报销](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%E6%9A%97%E7%A4%BA%E5%BE%AE%E5%8D%9A%E5%85%AB%E7%99%BE%E5%9B%9E%E6%8A%A5%E9%94%80&t=31&band_rank=8&Refer=top)<br />
+9. [虞书欣回应唐嫣](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%94%90%E5%AB%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
