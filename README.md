@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 10:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 10:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女子与小伙裸聊后发截图命令对方网贷](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8E%E5%B0%8F%E4%BC%99%E8%A3%B8%E8%81%8A%E5%90%8E%E5%8F%91%E6%88%AA%E5%9B%BE%E5%91%BD%E4%BB%A4%E5%AF%B9%E6%96%B9%E7%BD%91%E8%B4%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [游本昌为了好剧本卖房](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%9C%AC%E6%98%8C%E4%B8%BA%E4%BA%86%E5%A5%BD%E5%89%A7%E6%9C%AC%E5%8D%96%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [花花和萌兰见面了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%92%8C%E8%90%8C%E5%85%B0%E8%A7%81%E9%9D%A2%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [肖战一年只休息半个月](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%80%E5%B9%B4%E5%8F%AA%E4%BC%91%E6%81%AF%E5%8D%8A%E4%B8%AA%E6%9C%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [网友开始自制欢宜香了](https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%BC%80%E5%A7%8B%E8%87%AA%E5%88%B6%E6%AC%A2%E5%AE%9C%E9%A6%99%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [美国2024年总统选举首场初选开始](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD2024%E5%B9%B4%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E9%A6%96%E5%9C%BA%E5%88%9D%E9%80%89%E5%BC%80%E5%A7%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [肖战一年只休息半个月](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%80%E5%B9%B4%E5%8F%AA%E4%BC%91%E6%81%AF%E5%8D%8A%E4%B8%AA%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
