@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 13:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 13:06:01</h4></div>
 
 > 微博  
 
-1. [不烫不死心 烫了想死的心](https://s.weibo.com/weibo?q=%E4%B8%8D%E7%83%AB%E4%B8%8D%E6%AD%BB%E5%BF%83%20%E7%83%AB%E4%BA%86%E6%83%B3%E6%AD%BB%E7%9A%84%E5%BF%83&t=31&band_rank=1&Refer=top)<br />
-2. [乐华股价暴跌近80%](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%E8%BF%9180%25%23&t=31&band_rank=2&Refer=top)<br />
+1. [乐华股价暴跌近80%](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%E8%BF%9180%25%23&t=31&band_rank=1&Refer=top)<br />
+2. [不烫不死心 烫了想死的心](https://s.weibo.com/weibo?q=%E4%B8%8D%E7%83%AB%E4%B8%8D%E6%AD%BB%E5%BF%83%20%E7%83%AB%E4%BA%86%E6%83%B3%E6%AD%BB%E7%9A%84%E5%BF%83&t=31&band_rank=2&Refer=top)<br />
 3. [总台驻瑙鲁亚伦报道点成立](https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%8F%B0%E9%A9%BB%E7%91%99%E9%B2%81%E4%BA%9A%E4%BC%A6%E6%8A%A5%E9%81%93%E7%82%B9%E6%88%90%E7%AB%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子酒店产子后遗弃被判故意杀人罪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E4%BA%A7%E5%AD%90%E5%90%8E%E9%81%97%E5%BC%83%E8%A2%AB%E5%88%A4%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%BD%AA%23&t=31&band_rank=4&Refer=top)<br />
 5. [张雪峰让员工过年别给孩子红包](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%AE%A9%E5%91%98%E5%B7%A5%E8%BF%87%E5%B9%B4%E5%88%AB%E7%BB%99%E5%AD%A9%E5%AD%90%E7%BA%A2%E5%8C%85%23&t=31&band_rank=5&Refer=top)<br />
