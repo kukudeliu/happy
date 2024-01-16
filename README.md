@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 13:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 13:30:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男子梦到家中有黄金挖40米深洞后摔死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%A2%A6%E5%88%B0%E5%AE%B6%E4%B8%AD%E6%9C%89%E9%BB%84%E9%87%91%E6%8C%9640%E7%B1%B3%E6%B7%B1%E6%B4%9E%E5%90%8E%E6%91%94%E6%AD%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [张雪峰让员工过年别给孩子红包](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%AE%A9%E5%91%98%E5%B7%A5%E8%BF%87%E5%B9%B4%E5%88%AB%E7%BB%99%E5%AD%A9%E5%AD%90%E7%BA%A2%E5%8C%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [易烊千玺写龙](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%86%99%E9%BE%99%23&t=31&band_rank=7&Refer=top)<br />
-8. [研究生为救人耽误考试](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%BA%E6%95%91%E4%BA%BA%E8%80%BD%E8%AF%AF%E8%80%83%E8%AF%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [中央大街的铁柱子都被包起来了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E5%A4%A7%E8%A1%97%E7%9A%84%E9%93%81%E6%9F%B1%E5%AD%90%E9%83%BD%E8%A2%AB%E5%8C%85%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [中央大街的铁柱子都被包起来了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E5%A4%A7%E8%A1%97%E7%9A%84%E9%93%81%E6%9F%B1%E5%AD%90%E9%83%BD%E8%A2%AB%E5%8C%85%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [研究生为救人耽误考试](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%BA%E6%95%91%E4%BA%BA%E8%80%BD%E8%AF%AF%E8%80%83%E8%AF%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
