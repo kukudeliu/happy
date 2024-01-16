@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 08:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 08:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [姥姥姥爷不上春晚可惜了](https://s.weibo.com/weibo?q=%E5%A7%A5%E5%A7%A5%E5%A7%A5%E7%88%B7%E4%B8%8D%E4%B8%8A%E6%98%A5%E6%99%9A%E5%8F%AF%E6%83%9C%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [网友开始自制欢宜香了](https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%BC%80%E5%A7%8B%E8%87%AA%E5%88%B6%E6%AC%A2%E5%AE%9C%E9%A6%99%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [户口簿上再婚能否登记为已婚](https://s.weibo.com/weibo?q=%23%E6%88%B7%E5%8F%A3%E7%B0%BF%E4%B8%8A%E5%86%8D%E5%A9%9A%E8%83%BD%E5%90%A6%E7%99%BB%E8%AE%B0%E4%B8%BA%E5%B7%B2%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [安心丈夫拒绝同房](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BF%83%E4%B8%88%E5%A4%AB%E6%8B%92%E7%BB%9D%E5%90%8C%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [2架波音飞机在美国芝加哥机场相撞](https://s.weibo.com/weibo?q=%232%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%8A%9D%E5%8A%A0%E5%93%A5%E6%9C%BA%E5%9C%BA%E7%9B%B8%E6%92%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
