@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 11:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 11:11:01</h4></div>
 
 > 微博  
 
-1. [蜜雪冰城回应放弃瓶装水业务](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E6%94%BE%E5%BC%83%E7%93%B6%E8%A3%85%E6%B0%B4%E4%B8%9A%E5%8A%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [APP未经同意跳转广告涉嫌违法](https://s.weibo.com/weibo?q=%23APP%E6%9C%AA%E7%BB%8F%E5%90%8C%E6%84%8F%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23&t=31&band_rank=2&Refer=top)<br />
+1. [APP未经同意跳转广告涉嫌违法](https://s.weibo.com/weibo?q=%23APP%E6%9C%AA%E7%BB%8F%E5%90%8C%E6%84%8F%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23&t=31&band_rank=1&Refer=top)<br />
+2. [蜜雪冰城回应放弃瓶装水业务](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E6%94%BE%E5%BC%83%E7%93%B6%E8%A3%85%E6%B0%B4%E4%B8%9A%E5%8A%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [关于乙流的9个热点问答](https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E4%B9%99%E6%B5%81%E7%9A%849%E4%B8%AA%E7%83%AD%E7%82%B9%E9%97%AE%E7%AD%94%23&t=31&band_rank=3&Refer=top)<br />
 4. [研究生为救人耽误考试](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%BA%E6%95%91%E4%BA%BA%E8%80%BD%E8%AF%AF%E8%80%83%E8%AF%95%23&t=31&band_rank=4&Refer=top)<br />
 5. [钢琴销量断崖式下滑](https://s.weibo.com/weibo?q=%23%E9%92%A2%E7%90%B4%E9%94%80%E9%87%8F%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E6%BB%91%23&t=31&band_rank=5&Refer=top)<br />
