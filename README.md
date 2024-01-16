@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 12:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 12:56:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [研究生为救人耽误考试](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%BA%E6%95%91%E4%BA%BA%E8%80%BD%E8%AF%AF%E8%80%83%E8%AF%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [白鹿抽到了许佳琪织的围巾](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8A%BD%E5%88%B0%E4%BA%86%E8%AE%B8%E4%BD%B3%E7%90%AA%E7%BB%87%E7%9A%84%E5%9B%B4%E5%B7%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [游本昌为了好剧本卖房](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%9C%AC%E6%98%8C%E4%B8%BA%E4%BA%86%E5%A5%BD%E5%89%A7%E6%9C%AC%E5%8D%96%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [钢琴销量断崖式下滑](https://s.weibo.com/weibo?q=%23%E9%92%A2%E7%90%B4%E9%94%80%E9%87%8F%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E6%BB%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [花花和萌兰见面了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%92%8C%E8%90%8C%E5%85%B0%E8%A7%81%E9%9D%A2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
