@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 13:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 13:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [辛芷蕾 今年我就是个笑话](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E4%BB%8A%E5%B9%B4%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AA%E7%AC%91%E8%AF%9D&t=31&band_rank=6&Refer=top)<br />
 7. [张雪峰让员工过年别给孩子红包](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%AE%A9%E5%91%98%E5%B7%A5%E8%BF%87%E5%B9%B4%E5%88%AB%E7%BB%99%E5%AD%A9%E5%AD%90%E7%BA%A2%E5%8C%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [易烊千玺写龙](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%86%99%E9%BE%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [中央大街的铁柱子都被包起来了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E5%A4%A7%E8%A1%97%E7%9A%84%E9%93%81%E6%9F%B1%E5%AD%90%E9%83%BD%E8%A2%AB%E5%8C%85%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [蜂鸟删博](https://s.weibo.com/weibo?q=%E8%9C%82%E9%B8%9F%E5%88%A0%E5%8D%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
