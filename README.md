@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 14:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 14:25:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [难哄阵容](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E9%98%B5%E5%AE%B9&t=31&band_rank=6&Refer=top)<br />
 7. [女子酒店产子后遗弃被判故意杀人罪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E4%BA%A7%E5%AD%90%E5%90%8E%E9%81%97%E5%BC%83%E8%A2%AB%E5%88%A4%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%BD%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [蜂鸟删博](https://s.weibo.com/weibo?q=%E8%9C%82%E9%B8%9F%E5%88%A0%E5%8D%9A&t=31&band_rank=8&Refer=top)<br />
-9. [不烫不死心 烫了想死的心](https://s.weibo.com/weibo?q=%E4%B8%8D%E7%83%AB%E4%B8%8D%E6%AD%BB%E5%BF%83%20%E7%83%AB%E4%BA%86%E6%83%B3%E6%AD%BB%E7%9A%84%E5%BF%83&t=31&band_rank=9&Refer=top)<br />
+9. [肉夹馍店因生意太好被举报关店](https://s.weibo.com/weibo?q=%23%E8%82%89%E5%A4%B9%E9%A6%8D%E5%BA%97%E5%9B%A0%E7%94%9F%E6%84%8F%E5%A4%AA%E5%A5%BD%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%85%B3%E5%BA%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
