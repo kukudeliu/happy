@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 12:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 12:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [研究生为救人耽误考试](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%BA%E6%95%91%E4%BA%BA%E8%80%BD%E8%AF%AF%E8%80%83%E8%AF%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [张雪峰让员工过年别给孩子红包](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%AE%A9%E5%91%98%E5%B7%A5%E8%BF%87%E5%B9%B4%E5%88%AB%E7%BB%99%E5%AD%A9%E5%AD%90%E7%BA%A2%E5%8C%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [蜜雪冰城回应放弃瓶装水业务](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E6%94%BE%E5%BC%83%E7%93%B6%E8%A3%85%E6%B0%B4%E4%B8%9A%E5%8A%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [花花和萌兰见面了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%92%8C%E8%90%8C%E5%85%B0%E8%A7%81%E9%9D%A2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [白鹿抽到了许佳琪织的围巾](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8A%BD%E5%88%B0%E4%BA%86%E8%AE%B8%E4%BD%B3%E7%90%AA%E7%BB%87%E7%9A%84%E5%9B%B4%E5%B7%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
