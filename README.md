@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 12:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 12:27:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [总台驻瑙鲁亚伦报道点成立](https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%8F%B0%E9%A9%BB%E7%91%99%E9%B2%81%E4%BA%9A%E4%BC%A6%E6%8A%A5%E9%81%93%E7%82%B9%E6%88%90%E7%AB%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [APP未经同意跳转广告涉嫌违法](https://s.weibo.com/weibo?q=%23APP%E6%9C%AA%E7%BB%8F%E5%90%8C%E6%84%8F%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23&t=31&band_rank=4&Refer=top)<br />
 5. [张雪峰让员工过年别给孩子红包](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%AE%A9%E5%91%98%E5%B7%A5%E8%BF%87%E5%B9%B4%E5%88%AB%E7%BB%99%E5%AD%A9%E5%AD%90%E7%BA%A2%E5%8C%85%23&t=31&band_rank=5&Refer=top)<br />
-6. [白鹿抽到了许佳琪织的围巾](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8A%BD%E5%88%B0%E4%BA%86%E8%AE%B8%E4%BD%B3%E7%90%AA%E7%BB%87%E7%9A%84%E5%9B%B4%E5%B7%BE%23&t=31&band_rank=6&Refer=top)<br />
-7. [研究生为救人耽误考试](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%BA%E6%95%91%E4%BA%BA%E8%80%BD%E8%AF%AF%E8%80%83%E8%AF%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [乐华股价暴跌近80%](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%E8%BF%9180%25%23&t=31&band_rank=8&Refer=top)<br />
+6. [乐华股价暴跌近80%](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%E8%BF%9180%25%23&t=31&band_rank=6&Refer=top)<br />
+7. [白鹿抽到了许佳琪织的围巾](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8A%BD%E5%88%B0%E4%BA%86%E8%AE%B8%E4%BD%B3%E7%90%AA%E7%BB%87%E7%9A%84%E5%9B%B4%E5%B7%BE%23&t=31&band_rank=7&Refer=top)<br />
+8. [研究生为救人耽误考试](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%BA%E6%95%91%E4%BA%BA%E8%80%BD%E8%AF%AF%E8%80%83%E8%AF%95%23&t=31&band_rank=8&Refer=top)<br />
 9. [游本昌为了好剧本卖房](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%9C%AC%E6%98%8C%E4%B8%BA%E4%BA%86%E5%A5%BD%E5%89%A7%E6%9C%AC%E5%8D%96%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
