@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 13:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 13:47:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女子酒店产子后遗弃被判故意杀人罪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E4%BA%A7%E5%AD%90%E5%90%8E%E9%81%97%E5%BC%83%E8%A2%AB%E5%88%A4%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%BD%AA%23&t=31&band_rank=4&Refer=top)<br />
 5. [男子梦到家中有黄金挖40米深洞后摔死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%A2%A6%E5%88%B0%E5%AE%B6%E4%B8%AD%E6%9C%89%E9%BB%84%E9%87%91%E6%8C%9640%E7%B1%B3%E6%B7%B1%E6%B4%9E%E5%90%8E%E6%91%94%E6%AD%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [不烫不死心 烫了想死的心](https://s.weibo.com/weibo?q=%E4%B8%8D%E7%83%AB%E4%B8%8D%E6%AD%BB%E5%BF%83%20%E7%83%AB%E4%BA%86%E6%83%B3%E6%AD%BB%E7%9A%84%E5%BF%83&t=31&band_rank=6&Refer=top)<br />
-7. [蜂鸟删博](https://s.weibo.com/weibo?q=%E8%9C%82%E9%B8%9F%E5%88%A0%E5%8D%9A&t=31&band_rank=7&Refer=top)<br />
-8. [俞敏洪建议一周放假两天半到三天](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%BB%BA%E8%AE%AE%E4%B8%80%E5%91%A8%E6%94%BE%E5%81%87%E4%B8%A4%E5%A4%A9%E5%8D%8A%E5%88%B0%E4%B8%89%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
+7. [俞敏洪建议一周放假两天半到三天](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%BB%BA%E8%AE%AE%E4%B8%80%E5%91%A8%E6%94%BE%E5%81%87%E4%B8%A4%E5%A4%A9%E5%8D%8A%E5%88%B0%E4%B8%89%E5%A4%A9%23&t=31&band_rank=7&Refer=top)<br />
+8. [蜂鸟删博](https://s.weibo.com/weibo?q=%E8%9C%82%E9%B8%9F%E5%88%A0%E5%8D%9A&t=31&band_rank=8&Refer=top)<br />
 9. [中央大街的铁柱子都被包起来了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E5%A4%A7%E8%A1%97%E7%9A%84%E9%93%81%E6%9F%B1%E5%AD%90%E9%83%BD%E8%A2%AB%E5%8C%85%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
