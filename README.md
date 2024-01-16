@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 11:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 11:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [游本昌为了好剧本卖房](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%9C%AC%E6%98%8C%E4%B8%BA%E4%BA%86%E5%A5%BD%E5%89%A7%E6%9C%AC%E5%8D%96%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [花花和萌兰见面了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%92%8C%E8%90%8C%E5%85%B0%E8%A7%81%E9%9D%A2%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [俞敏洪回应天权提前复出](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%9B%9E%E5%BA%94%E5%A4%A9%E6%9D%83%E6%8F%90%E5%89%8D%E5%A4%8D%E5%87%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [关于乙流的9个热点问答](https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E4%B9%99%E6%B5%81%E7%9A%849%E4%B8%AA%E7%83%AD%E7%82%B9%E9%97%AE%E7%AD%94%23&t=31&band_rank=9&Refer=top)<br />
+9. [美国2024年总统选举首场初选开始](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD2024%E5%B9%B4%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E9%A6%96%E5%9C%BA%E5%88%9D%E9%80%89%E5%BC%80%E5%A7%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [两架波音飞机在美国芝加哥机场相撞](https://www.baidu.com/s?wd=%E4%B8%A4%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%8A%9D%E5%8A%A0%E5%93%A5%E6%9C%BA%E5%9C%BA%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网红麻醉师追悼会现场 妻儿悲痛欲绝](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E9%BA%BB%E9%86%89%E5%B8%88%E8%BF%BD%E6%82%BC%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E5%A6%BB%E5%84%BF%E6%82%B2%E7%97%9B%E6%AC%B2%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [游本昌为了好剧本卖房](https://www.baidu.com/s?wd=%E6%B8%B8%E6%9C%AC%E6%98%8C%E4%B8%BA%E4%BA%86%E5%A5%BD%E5%89%A7%E6%9C%AC%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克展示机器人“擎天柱”叠衣服](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B1%95%E7%A4%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E6%93%8E%E5%A4%A9%E6%9F%B1%E2%80%9D%E5%8F%A0%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子疑在出租车尾箱生火炒菜](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E5%9C%A8%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%B0%BE%E7%AE%B1%E7%94%9F%E7%81%AB%E7%82%92%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [近视可从800度降到100度？](https://www.baidu.com/s?wd=%E8%BF%91%E8%A7%86%E5%8F%AF%E4%BB%8E800%E5%BA%A6%E9%99%8D%E5%88%B0100%E5%BA%A6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [两架波音飞机在美国芝加哥机场相撞](https://www.baidu.com/s?wd=%E4%B8%A4%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%8A%9D%E5%8A%A0%E5%93%A5%E6%9C%BA%E5%9C%BA%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网红麻醉师追悼会现场 妻儿悲痛欲绝](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E9%BA%BB%E9%86%89%E5%B8%88%E8%BF%BD%E6%82%BC%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E5%A6%BB%E5%84%BF%E6%82%B2%E7%97%9B%E6%AC%B2%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [游本昌为了好剧本卖房](https://www.baidu.com/s?wd=%E6%B8%B8%E6%9C%AC%E6%98%8C%E4%B8%BA%E4%BA%86%E5%A5%BD%E5%89%A7%E6%9C%AC%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克展示机器人“擎天柱”叠衣服](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B1%95%E7%A4%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E6%93%8E%E5%A4%A9%E6%9F%B1%E2%80%9D%E5%8F%A0%E8%A1%A3%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子疑在出租车尾箱生火炒菜](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E5%9C%A8%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%B0%BE%E7%AE%B1%E7%94%9F%E7%81%AB%E7%82%92%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [近视可从800度降到100度？](https://www.baidu.com/s?wd=%E8%BF%91%E8%A7%86%E5%8F%AF%E4%BB%8E800%E5%BA%A6%E9%99%8D%E5%88%B0100%E5%BA%A6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
