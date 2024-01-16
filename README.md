@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 13:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 13:58:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女子40分钟一锅做10道菜 只需36元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9040%E5%88%86%E9%92%9F%E4%B8%80%E9%94%85%E5%81%9A10%E9%81%93%E8%8F%9C+%E5%8F%AA%E9%9C%8036%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网红用饮料做尿检并当医生面喝下](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%94%A8%E9%A5%AE%E6%96%99%E5%81%9A%E5%B0%BF%E6%A3%80%E5%B9%B6%E5%BD%93%E5%8C%BB%E7%94%9F%E9%9D%A2%E5%96%9D%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [代驾狂飙130 不顾车主提醒结束订单](https://www.baidu.com/s?wd=%E4%BB%A3%E9%A9%BE%E7%8B%82%E9%A3%99130+%E4%B8%8D%E9%A1%BE%E8%BD%A6%E4%B8%BB%E6%8F%90%E9%86%92%E7%BB%93%E6%9D%9F%E8%AE%A2%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [顾客称点外卖吃出钢丝球 商家回应](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E7%A7%B0%E7%82%B9%E5%A4%96%E5%8D%96%E5%90%83%E5%87%BA%E9%92%A2%E4%B8%9D%E7%90%83+%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [醉汉连撞3车致1死 逃逸后在草丛睡着](https://www.baidu.com/s?wd=%E9%86%89%E6%B1%89%E8%BF%9E%E6%92%9E3%E8%BD%A6%E8%87%B41%E6%AD%BB+%E9%80%83%E9%80%B8%E5%90%8E%E5%9C%A8%E8%8D%89%E4%B8%9B%E7%9D%A1%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公安查车追车致车辆撞人？](https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E6%9F%A5%E8%BD%A6%E8%BF%BD%E8%BD%A6%E8%87%B4%E8%BD%A6%E8%BE%86%E6%92%9E%E4%BA%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子40分钟一锅做10道菜 只需36元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9040%E5%88%86%E9%92%9F%E4%B8%80%E9%94%85%E5%81%9A10%E9%81%93%E8%8F%9C+%E5%8F%AA%E9%9C%8036%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网红用饮料做尿检并当医生面喝下](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%94%A8%E9%A5%AE%E6%96%99%E5%81%9A%E5%B0%BF%E6%A3%80%E5%B9%B6%E5%BD%93%E5%8C%BB%E7%94%9F%E9%9D%A2%E5%96%9D%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [代驾狂飙130 不顾车主提醒结束订单](https://www.baidu.com/s?wd=%E4%BB%A3%E9%A9%BE%E7%8B%82%E9%A3%99130+%E4%B8%8D%E9%A1%BE%E8%BD%A6%E4%B8%BB%E6%8F%90%E9%86%92%E7%BB%93%E6%9D%9F%E8%AE%A2%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [顾客称点外卖吃出钢丝球 商家回应](https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E7%A7%B0%E7%82%B9%E5%A4%96%E5%8D%96%E5%90%83%E5%87%BA%E9%92%A2%E4%B8%9D%E7%90%83+%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [醉汉连撞3车致1死 逃逸后在草丛睡着](https://www.baidu.com/s?wd=%E9%86%89%E6%B1%89%E8%BF%9E%E6%92%9E3%E8%BD%A6%E8%87%B41%E6%AD%BB+%E9%80%83%E9%80%B8%E5%90%8E%E5%9C%A8%E8%8D%89%E4%B8%9B%E7%9D%A1%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公安查车追车致车辆撞人？](https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E6%9F%A5%E8%BD%A6%E8%BF%BD%E8%BD%A6%E8%87%B4%E8%BD%A6%E8%BE%86%E6%92%9E%E4%BA%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
