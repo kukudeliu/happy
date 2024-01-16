@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 09:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 09:46:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [两架波音飞机在美国芝加哥机场相撞](https://www.baidu.com/s?wd=%E4%B8%A4%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%8A%9D%E5%8A%A0%E5%93%A5%E6%9C%BA%E5%9C%BA%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子刚结婚就想离婚：公公没边界感](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%9A%E7%BB%93%E5%A9%9A%E5%B0%B1%E6%83%B3%E7%A6%BB%E5%A9%9A%EF%BC%9A%E5%85%AC%E5%85%AC%E6%B2%A1%E8%BE%B9%E7%95%8C%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子与小伙裸聊后命令对方网贷](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8E%E5%B0%8F%E4%BC%99%E8%A3%B8%E8%81%8A%E5%90%8E%E5%91%BD%E4%BB%A4%E5%AF%B9%E6%96%B9%E7%BD%91%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子疑在出租车尾箱生火炒菜](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E5%9C%A8%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%B0%BE%E7%AE%B1%E7%94%9F%E7%81%AB%E7%82%92%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网红麻醉师追悼会现场 妻儿悲痛欲绝](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E9%BA%BB%E9%86%89%E5%B8%88%E8%BF%BD%E6%82%BC%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E5%A6%BB%E5%84%BF%E6%82%B2%E7%97%9B%E6%AC%B2%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [近视可从800度降到100度？](https://www.baidu.com/s?wd=%E8%BF%91%E8%A7%86%E5%8F%AF%E4%BB%8E800%E5%BA%A6%E9%99%8D%E5%88%B0100%E5%BA%A6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [两架波音飞机在美国芝加哥机场相撞](https://www.baidu.com/s?wd=%E4%B8%A4%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%8A%9D%E5%8A%A0%E5%93%A5%E6%9C%BA%E5%9C%BA%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子刚结婚就想离婚：公公没边界感](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%88%9A%E7%BB%93%E5%A9%9A%E5%B0%B1%E6%83%B3%E7%A6%BB%E5%A9%9A%EF%BC%9A%E5%85%AC%E5%85%AC%E6%B2%A1%E8%BE%B9%E7%95%8C%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子与小伙裸聊后命令对方网贷](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%8E%E5%B0%8F%E4%BC%99%E8%A3%B8%E8%81%8A%E5%90%8E%E5%91%BD%E4%BB%A4%E5%AF%B9%E6%96%B9%E7%BD%91%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子疑在出租车尾箱生火炒菜](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%96%91%E5%9C%A8%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%B0%BE%E7%AE%B1%E7%94%9F%E7%81%AB%E7%82%92%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网红麻醉师追悼会现场 妻儿悲痛欲绝](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E9%BA%BB%E9%86%89%E5%B8%88%E8%BF%BD%E6%82%BC%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E5%A6%BB%E5%84%BF%E6%82%B2%E7%97%9B%E6%AC%B2%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [近视可从800度降到100度？](https://www.baidu.com/s?wd=%E8%BF%91%E8%A7%86%E5%8F%AF%E4%BB%8E800%E5%BA%A6%E9%99%8D%E5%88%B0100%E5%BA%A6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
