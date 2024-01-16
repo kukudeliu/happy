@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 14:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 14:57:01</h4></div>
 
 > 微博  
 
 1. [辛芷蕾 今年我就是个笑话](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E4%BB%8A%E5%B9%B4%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AA%E7%AC%91%E8%AF%9D&t=31&band_rank=1&Refer=top)<br />
-2. [俞敏洪建议一周放假两天半到三天](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%BB%BA%E8%AE%AE%E4%B8%80%E5%91%A8%E6%94%BE%E5%81%87%E4%B8%A4%E5%A4%A9%E5%8D%8A%E5%88%B0%E4%B8%89%E5%A4%A9%23&t=31&band_rank=2&Refer=top)<br />
+2. [男子梦到家中有黄金挖40米深洞后摔死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%A2%A6%E5%88%B0%E5%AE%B6%E4%B8%AD%E6%9C%89%E9%BB%84%E9%87%91%E6%8C%9640%E7%B1%B3%E6%B7%B1%E6%B4%9E%E5%90%8E%E6%91%94%E6%AD%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [总台驻瑙鲁亚伦报道点成立](https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%8F%B0%E9%A9%BB%E7%91%99%E9%B2%81%E4%BA%9A%E4%BC%A6%E6%8A%A5%E9%81%93%E7%82%B9%E6%88%90%E7%AB%8B%23&t=31&band_rank=3&Refer=top)<br />
-4. [男子梦到家中有黄金挖40米深洞后摔死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%A2%A6%E5%88%B0%E5%AE%B6%E4%B8%AD%E6%9C%89%E9%BB%84%E9%87%91%E6%8C%9640%E7%B1%B3%E6%B7%B1%E6%B4%9E%E5%90%8E%E6%91%94%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
+4. [俞敏洪建议一周放假两天半到三天](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%BB%BA%E8%AE%AE%E4%B8%80%E5%91%A8%E6%94%BE%E5%81%87%E4%B8%A4%E5%A4%A9%E5%8D%8A%E5%88%B0%E4%B8%89%E5%A4%A9%23&t=31&band_rank=4&Refer=top)<br />
 5. [难哄阵容](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E9%98%B5%E5%AE%B9&t=31&band_rank=5&Refer=top)<br />
 6. [乐华股价暴跌近80%](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%E8%BF%9180%25%23&t=31&band_rank=6&Refer=top)<br />
 7. [惠英红抽中杨紫拼的乐高](https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E6%8A%BD%E4%B8%AD%E6%9D%A8%E7%B4%AB%E6%8B%BC%E7%9A%84%E4%B9%90%E9%AB%98%23&t=31&band_rank=7&Refer=top)<br />
