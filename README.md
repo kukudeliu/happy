@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 10:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 10:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [游本昌为了好剧本卖房](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%9C%AC%E6%98%8C%E4%B8%BA%E4%BA%86%E5%A5%BD%E5%89%A7%E6%9C%AC%E5%8D%96%E6%88%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [美国2024年总统选举首场初选开始](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD2024%E5%B9%B4%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E9%A6%96%E5%9C%BA%E5%88%9D%E9%80%89%E5%BC%80%E5%A7%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [每周吃5个鸡蛋糖尿病高血压风险降低](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%91%A8%E5%90%835%E4%B8%AA%E9%B8%A1%E8%9B%8B%E7%B3%96%E5%B0%BF%E7%97%85%E9%AB%98%E8%A1%80%E5%8E%8B%E9%A3%8E%E9%99%A9%E9%99%8D%E4%BD%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子与小伙裸聊后发截图命令对方网贷](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8E%E5%B0%8F%E4%BC%99%E8%A3%B8%E8%81%8A%E5%90%8E%E5%8F%91%E6%88%AA%E5%9B%BE%E5%91%BD%E4%BB%A4%E5%AF%B9%E6%96%B9%E7%BD%91%E8%B4%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [APP未经同意跳转广告涉嫌违法](https://s.weibo.com/weibo?q=%23APP%E6%9C%AA%E7%BB%8F%E5%90%8C%E6%84%8F%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23&t=31&band_rank=9&Refer=top)<br />
+8. [APP未经同意跳转广告涉嫌违法](https://s.weibo.com/weibo?q=%23APP%E6%9C%AA%E7%BB%8F%E5%90%8C%E6%84%8F%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23&t=31&band_rank=8&Refer=top)<br />
+9. [女子与小伙裸聊后发截图命令对方网贷](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8E%E5%B0%8F%E4%BC%99%E8%A3%B8%E8%81%8A%E5%90%8E%E5%8F%91%E6%88%AA%E5%9B%BE%E5%91%BD%E4%BB%A4%E5%AF%B9%E6%96%B9%E7%BD%91%E8%B4%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
