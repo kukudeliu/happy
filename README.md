@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 12:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 12:34:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [“中国制造”构筑经济新优势](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E2%80%9D%E6%9E%84%E7%AD%91%E7%BB%8F%E6%B5%8E%E6%96%B0%E4%BC%98%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [两架波音飞机在美国芝加哥机场相撞](https://www.baidu.com/s?wd=%E4%B8%A4%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%8A%9D%E5%8A%A0%E5%93%A5%E6%9C%BA%E5%9C%BA%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子40分钟一锅做10道菜 只需36元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9040%E5%88%86%E9%92%9F%E4%B8%80%E9%94%85%E5%81%9A10%E9%81%93%E8%8F%9C+%E5%8F%AA%E9%9C%8036%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [游本昌为了好剧本卖房](https://www.baidu.com/s?wd=%E6%B8%B8%E6%9C%AC%E6%98%8C%E4%B8%BA%E4%BA%86%E5%A5%BD%E5%89%A7%E6%9C%AC%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [毕业生被学校推荐到电诈公司后获刑](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%94%9F%E8%A2%AB%E5%AD%A6%E6%A0%A1%E6%8E%A8%E8%8D%90%E5%88%B0%E7%94%B5%E8%AF%88%E5%85%AC%E5%8F%B8%E5%90%8E%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [毕业生被学校推荐到电诈公司后获刑](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%94%9F%E8%A2%AB%E5%AD%A6%E6%A0%A1%E6%8E%A8%E8%8D%90%E5%88%B0%E7%94%B5%E8%AF%88%E5%85%AC%E5%8F%B8%E5%90%8E%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网红用饮料做尿检并当医生面喝下](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%94%A8%E9%A5%AE%E6%96%99%E5%81%9A%E5%B0%BF%E6%A3%80%E5%B9%B6%E5%BD%93%E5%8C%BB%E7%94%9F%E9%9D%A2%E5%96%9D%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [近视可从800度降到100度？](https://www.baidu.com/s?wd=%E8%BF%91%E8%A7%86%E5%8F%AF%E4%BB%8E800%E5%BA%A6%E9%99%8D%E5%88%B0100%E5%BA%A6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [“中国制造”构筑经济新优势](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E2%80%9D%E6%9E%84%E7%AD%91%E7%BB%8F%E6%B5%8E%E6%96%B0%E4%BC%98%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [两架波音飞机在美国芝加哥机场相撞](https://www.baidu.com/s?wd=%E4%B8%A4%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%8A%9D%E5%8A%A0%E5%93%A5%E6%9C%BA%E5%9C%BA%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子40分钟一锅做10道菜 只需36元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9040%E5%88%86%E9%92%9F%E4%B8%80%E9%94%85%E5%81%9A10%E9%81%93%E8%8F%9C+%E5%8F%AA%E9%9C%8036%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [游本昌为了好剧本卖房](https://www.baidu.com/s?wd=%E6%B8%B8%E6%9C%AC%E6%98%8C%E4%B8%BA%E4%BA%86%E5%A5%BD%E5%89%A7%E6%9C%AC%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [毕业生被学校推荐到电诈公司后获刑](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%94%9F%E8%A2%AB%E5%AD%A6%E6%A0%A1%E6%8E%A8%E8%8D%90%E5%88%B0%E7%94%B5%E8%AF%88%E5%85%AC%E5%8F%B8%E5%90%8E%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [毕业生被学校推荐到电诈公司后获刑](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%94%9F%E8%A2%AB%E5%AD%A6%E6%A0%A1%E6%8E%A8%E8%8D%90%E5%88%B0%E7%94%B5%E8%AF%88%E5%85%AC%E5%8F%B8%E5%90%8E%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网红用饮料做尿检并当医生面喝下](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%94%A8%E9%A5%AE%E6%96%99%E5%81%9A%E5%B0%BF%E6%A3%80%E5%B9%B6%E5%BD%93%E5%8C%BB%E7%94%9F%E9%9D%A2%E5%96%9D%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [近视可从800度降到100度？](https://www.baidu.com/s?wd=%E8%BF%91%E8%A7%86%E5%8F%AF%E4%BB%8E800%E5%BA%A6%E9%99%8D%E5%88%B0100%E5%BA%A6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
