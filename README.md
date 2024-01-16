@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 13:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-16 13:14:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [总台驻瑙鲁亚伦报道点成立](https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%8F%B0%E9%A9%BB%E7%91%99%E9%B2%81%E4%BA%9A%E4%BC%A6%E6%8A%A5%E9%81%93%E7%82%B9%E6%88%90%E7%AB%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子酒店产子后遗弃被判故意杀人罪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E4%BA%A7%E5%AD%90%E5%90%8E%E9%81%97%E5%BC%83%E8%A2%AB%E5%88%A4%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%BD%AA%23&t=31&band_rank=4&Refer=top)<br />
 5. [张雪峰让员工过年别给孩子红包](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%AE%A9%E5%91%98%E5%B7%A5%E8%BF%87%E5%B9%B4%E5%88%AB%E7%BB%99%E5%AD%A9%E5%AD%90%E7%BA%A2%E5%8C%85%23&t=31&band_rank=5&Refer=top)<br />
-6. [研究生为救人耽误考试](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%BA%E6%95%91%E4%BA%BA%E8%80%BD%E8%AF%AF%E8%80%83%E8%AF%95%23&t=31&band_rank=6&Refer=top)<br />
-7. [易烊千玺写龙](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%86%99%E9%BE%99%23&t=31&band_rank=7&Refer=top)<br />
+6. [易烊千玺写龙](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%86%99%E9%BE%99%23&t=31&band_rank=6&Refer=top)<br />
+7. [研究生为救人耽误考试](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%BA%E6%95%91%E4%BA%BA%E8%80%BD%E8%AF%AF%E8%80%83%E8%AF%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [白鹿抽到了许佳琪织的围巾](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8A%BD%E5%88%B0%E4%BA%86%E8%AE%B8%E4%BD%B3%E7%90%AA%E7%BB%87%E7%9A%84%E5%9B%B4%E5%B7%BE%23&t=31&band_rank=8&Refer=top)<br />
 9. [花花和萌兰见面了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%92%8C%E8%90%8C%E5%85%B0%E8%A7%81%E9%9D%A2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [女子40分钟一锅做10道菜 只需36元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9040%E5%88%86%E9%92%9F%E4%B8%80%E9%94%85%E5%81%9A10%E9%81%93%E8%8F%9C+%E5%8F%AA%E9%9C%8036%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网红用饮料做尿检并当医生面喝下](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%94%A8%E9%A5%AE%E6%96%99%E5%81%9A%E5%B0%BF%E6%A3%80%E5%B9%B6%E5%BD%93%E5%8C%BB%E7%94%9F%E9%9D%A2%E5%96%9D%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [毕业生被学校推荐到电诈公司后获刑](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%94%9F%E8%A2%AB%E5%AD%A6%E6%A0%A1%E6%8E%A8%E8%8D%90%E5%88%B0%E7%94%B5%E8%AF%88%E5%85%AC%E5%8F%B8%E5%90%8E%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈佛研究表明打麻将可延长寿命](https://www.baidu.com/s?wd=%E5%93%88%E4%BD%9B%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E6%89%93%E9%BA%BB%E5%B0%86%E5%8F%AF%E5%BB%B6%E9%95%BF%E5%AF%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友质疑加油站欺骗消费者 站长回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%AC%BA%E9%AA%97%E6%B6%88%E8%B4%B9%E8%80%85+%E7%AB%99%E9%95%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公安查车追车致车辆撞人？](https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E6%9F%A5%E8%BD%A6%E8%BF%BD%E8%BD%A6%E8%87%B4%E8%BD%A6%E8%BE%86%E6%92%9E%E4%BA%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子40分钟一锅做10道菜 只需36元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9040%E5%88%86%E9%92%9F%E4%B8%80%E9%94%85%E5%81%9A10%E9%81%93%E8%8F%9C+%E5%8F%AA%E9%9C%8036%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网红用饮料做尿检并当医生面喝下](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%94%A8%E9%A5%AE%E6%96%99%E5%81%9A%E5%B0%BF%E6%A3%80%E5%B9%B6%E5%BD%93%E5%8C%BB%E7%94%9F%E9%9D%A2%E5%96%9D%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [毕业生被学校推荐到电诈公司后获刑](https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%94%9F%E8%A2%AB%E5%AD%A6%E6%A0%A1%E6%8E%A8%E8%8D%90%E5%88%B0%E7%94%B5%E8%AF%88%E5%85%AC%E5%8F%B8%E5%90%8E%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [哈佛研究表明打麻将可延长寿命](https://www.baidu.com/s?wd=%E5%93%88%E4%BD%9B%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E6%89%93%E9%BA%BB%E5%B0%86%E5%8F%AF%E5%BB%B6%E9%95%BF%E5%AF%BF%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友质疑加油站欺骗消费者 站长回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%AC%BA%E9%AA%97%E6%B6%88%E8%B4%B9%E8%80%85+%E7%AB%99%E9%95%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公安查车追车致车辆撞人？](https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E6%9F%A5%E8%BD%A6%E8%BF%BD%E8%BD%A6%E8%87%B4%E8%BD%A6%E8%BE%86%E6%92%9E%E4%BA%BA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
