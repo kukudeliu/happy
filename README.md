@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 02:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 03:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [曲婉婷发文](https://s.weibo.com/weibo?q=%E6%9B%B2%E5%A9%89%E5%A9%B7%E5%8F%91%E6%96%87&t=31&band_rank=6&Refer=top)<br />
 7. [李一桐白鹿撞造型](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E7%99%BD%E9%B9%BF%E6%92%9E%E9%80%A0%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [坠亡姐弟外婆称心里会痛一辈子](https://s.weibo.com/weibo?q=%23%E5%9D%A0%E4%BA%A1%E5%A7%90%E5%BC%9F%E5%A4%96%E5%A9%86%E7%A7%B0%E5%BF%83%E9%87%8C%E4%BC%9A%E7%97%9B%E4%B8%80%E8%BE%88%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [王安宇好多白头发](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A5%BD%E5%A4%9A%E7%99%BD%E5%A4%B4%E5%8F%91&t=31&band_rank=9&Refer=top)<br />
+9. [中国排名第五的大学](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%8E%92%E5%90%8D%E7%AC%AC%E4%BA%94%E7%9A%84%E5%A4%A7%E5%AD%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
