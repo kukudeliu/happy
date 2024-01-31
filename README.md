@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 21:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 21:19:01</h4></div>
 
 > 微博  
 
-1. [专家建议3000点以下越低越买](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE3000%E7%82%B9%E4%BB%A5%E4%B8%8B%E8%B6%8A%E4%BD%8E%E8%B6%8A%E4%B9%B0%23&t=31&band_rank=1&Refer=top)<br />
-2. [刘德华已经在超市上了19年班了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%B7%B2%E7%BB%8F%E5%9C%A8%E8%B6%85%E5%B8%82%E4%B8%8A%E4%BA%8619%E5%B9%B4%E7%8F%AD%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [刘德华已经在超市上了19年班了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%B7%B2%E7%BB%8F%E5%9C%A8%E8%B6%85%E5%B8%82%E4%B8%8A%E4%BA%8619%E5%B9%B4%E7%8F%AD%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [专家建议3000点以下越低越买](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE3000%E7%82%B9%E4%BB%A5%E4%B8%8B%E8%B6%8A%E4%BD%8E%E8%B6%8A%E4%B9%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024网络视听盛典本周六播出](https://s.weibo.com/weibo?q=%232024%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8%E6%9C%AC%E5%91%A8%E5%85%AD%E6%92%AD%E5%87%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [米哈游等遭工信部点名](https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%93%88%E6%B8%B8%E7%AD%89%E9%81%AD%E5%B7%A5%E4%BF%A1%E9%83%A8%E7%82%B9%E5%90%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [河南暴雪](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%AA&t=31&band_rank=5&Refer=top)<br />
