@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 22:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 22:13:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [刘德华已经在超市上了19年班了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%B7%B2%E7%BB%8F%E5%9C%A8%E8%B6%85%E5%B8%82%E4%B8%8A%E4%BA%8619%E5%B9%B4%E7%8F%AD%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [曲婉婷发文](https://s.weibo.com/weibo?q=%E6%9B%B2%E5%A9%89%E5%A9%B7%E5%8F%91%E6%96%87&t=31&band_rank=5&Refer=top)<br />
 6. [papi酱 聊爱豆像在说另一半](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E8%81%8A%E7%88%B1%E8%B1%86%E5%83%8F%E5%9C%A8%E8%AF%B4%E5%8F%A6%E4%B8%80%E5%8D%8A&t=31&band_rank=6&Refer=top)<br />
-7. [刘诗诗直播妆造](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%9B%B4%E6%92%AD%E5%A6%86%E9%80%A0%23&t=31&band_rank=7&Refer=top)<br />
+7. [中国排名第五的大学](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%8E%92%E5%90%8D%E7%AC%AC%E4%BA%94%E7%9A%84%E5%A4%A7%E5%AD%A6&t=31&band_rank=7&Refer=top)<br />
 8. [曝医院拖欠工资药材耗尽院长宣布绝食](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%8C%BB%E9%99%A2%E6%8B%96%E6%AC%A0%E5%B7%A5%E8%B5%84%E8%8D%AF%E6%9D%90%E8%80%97%E5%B0%BD%E9%99%A2%E9%95%BF%E5%AE%A3%E5%B8%83%E7%BB%9D%E9%A3%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [男子当小三破坏军婚获刑10个月](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%93%E5%B0%8F%E4%B8%89%E7%A0%B4%E5%9D%8F%E5%86%9B%E5%A9%9A%E8%8E%B7%E5%88%9110%E4%B8%AA%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
 
