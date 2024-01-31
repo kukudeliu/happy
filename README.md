@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 23:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 23:48:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [中国排名第五的大学](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%8E%92%E5%90%8D%E7%AC%AC%E4%BA%94%E7%9A%84%E5%A4%A7%E5%AD%A6&t=31&band_rank=4&Refer=top)<br />
 5. [在人间 辛芷蕾](https://s.weibo.com/weibo?q=%E5%9C%A8%E4%BA%BA%E9%97%B4%20%E8%BE%9B%E8%8A%B7%E8%95%BE&t=31&band_rank=5&Refer=top)<br />
 6. [没有血缘关系也能长得像](https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89%E8%A1%80%E7%BC%98%E5%85%B3%E7%B3%BB%E4%B9%9F%E8%83%BD%E9%95%BF%E5%BE%97%E5%83%8F&t=31&band_rank=6&Refer=top)<br />
-7. [胡先煦 我人都嗑傻了](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%20%E6%88%91%E4%BA%BA%E9%83%BD%E5%97%91%E5%82%BB%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [谢娜求婚好抓马](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%B1%82%E5%A9%9A%E5%A5%BD%E6%8A%93%E9%A9%AC%23&t=31&band_rank=8&Refer=top)<br />
+7. [谢娜求婚好抓马](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%B1%82%E5%A9%9A%E5%A5%BD%E6%8A%93%E9%A9%AC%23&t=31&band_rank=7&Refer=top)<br />
+8. [胡先煦 我人都嗑傻了](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%20%E6%88%91%E4%BA%BA%E9%83%BD%E5%97%91%E5%82%BB%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [张波叶诚尘一审互咬二审互助](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%A2%E5%8F%B6%E8%AF%9A%E5%B0%98%E4%B8%80%E5%AE%A1%E4%BA%92%E5%92%AC%E4%BA%8C%E5%AE%A1%E4%BA%92%E5%8A%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
