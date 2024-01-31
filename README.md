@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 23:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 23:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [河南暴雪](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%AA&t=31&band_rank=6&Refer=top)<br />
 7. [胡先煦 我人都嗑傻了](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%20%E6%88%91%E4%BA%BA%E9%83%BD%E5%97%91%E5%82%BB%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [专家建议3000点以下越低越买](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE3000%E7%82%B9%E4%BB%A5%E4%B8%8B%E8%B6%8A%E4%BD%8E%E8%B6%8A%E4%B9%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [曲婉婷发文](https://s.weibo.com/weibo?q=%E6%9B%B2%E5%A9%89%E5%A9%B7%E5%8F%91%E6%96%87&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴红衣旧照](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E8%A1%A3%E6%97%A7%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
