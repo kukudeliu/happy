@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 22:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 22:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [曝医院拖欠工资药材耗尽院长宣布绝食](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%8C%BB%E9%99%A2%E6%8B%96%E6%AC%A0%E5%B7%A5%E8%B5%84%E8%8D%AF%E6%9D%90%E8%80%97%E5%B0%BD%E9%99%A2%E9%95%BF%E5%AE%A3%E5%B8%83%E7%BB%9D%E9%A3%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [曲婉婷发文](https://s.weibo.com/weibo?q=%E6%9B%B2%E5%A9%89%E5%A9%B7%E5%8F%91%E6%96%87&t=31&band_rank=7&Refer=top)<br />
 8. [河南暴雪](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%AA&t=31&band_rank=8&Refer=top)<br />
-9. [男子当小三破坏军婚获刑10个月](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%93%E5%B0%8F%E4%B8%89%E7%A0%B4%E5%9D%8F%E5%86%9B%E5%A9%9A%E8%8E%B7%E5%88%9110%E4%B8%AA%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘德华已经在超市上了19年班了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%B7%B2%E7%BB%8F%E5%9C%A8%E8%B6%85%E5%B8%82%E4%B8%8A%E4%BA%8619%E5%B9%B4%E7%8F%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
