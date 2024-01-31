@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 21:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 21:43:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [刘德华已经在超市上了19年班了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%B7%B2%E7%BB%8F%E5%9C%A8%E8%B6%85%E5%B8%82%E4%B8%8A%E4%BA%8619%E5%B9%B4%E7%8F%AD%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024网络视听盛典本周六播出](https://s.weibo.com/weibo?q=%232024%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8%E6%9C%AC%E5%91%A8%E5%85%AD%E6%92%AD%E5%87%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子捐赠甘肃一中学400件羽绒服失踪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8D%90%E8%B5%A0%E7%94%98%E8%82%83%E4%B8%80%E4%B8%AD%E5%AD%A6400%E4%BB%B6%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%A4%B1%E8%B8%AA%23&t=31&band_rank=4&Refer=top)<br />
-5. [米哈游等遭工信部点名](https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%93%88%E6%B8%B8%E7%AD%89%E9%81%AD%E5%B7%A5%E4%BF%A1%E9%83%A8%E7%82%B9%E5%90%8D%23&t=31&band_rank=5&Refer=top)<br />
+5. [刘诗诗直播妆造](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%9B%B4%E6%92%AD%E5%A6%86%E9%80%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [曲婉婷发文](https://s.weibo.com/weibo?q=%E6%9B%B2%E5%A9%89%E5%A9%B7%E5%8F%91%E6%96%87&t=31&band_rank=6&Refer=top)<br />
-7. [刘诗诗直播妆造](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%9B%B4%E6%92%AD%E5%A6%86%E9%80%A0%23&t=31&band_rank=7&Refer=top)<br />
+7. [米哈游等遭工信部点名](https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%93%88%E6%B8%B8%E7%AD%89%E9%81%AD%E5%B7%A5%E4%BF%A1%E9%83%A8%E7%82%B9%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子当小三破坏军婚获刑10个月](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%93%E5%B0%8F%E4%B8%89%E7%A0%B4%E5%9D%8F%E5%86%9B%E5%A9%9A%E8%8E%B7%E5%88%9110%E4%B8%AA%E6%9C%88%23&t=31&band_rank=8&Refer=top)<br />
 9. [河南暴雪](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
 
