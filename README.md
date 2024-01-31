@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 19:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 19:25:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [河南暴雪](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%AA&t=31&band_rank=6&Refer=top)<br />
 7. [男子当小三破坏军婚获刑10个月](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%93%E5%B0%8F%E4%B8%89%E7%A0%B4%E5%9D%8F%E5%86%9B%E5%A9%9A%E8%8E%B7%E5%88%9110%E4%B8%AA%E6%9C%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [曲婉婷发文](https://s.weibo.com/weibo?q=%E6%9B%B2%E5%A9%89%E5%A9%B7%E5%8F%91%E6%96%87&t=31&band_rank=8&Refer=top)<br />
-9. [强迫性皮肤剥离症](https://s.weibo.com/weibo?q=%E5%BC%BA%E8%BF%AB%E6%80%A7%E7%9A%AE%E8%82%A4%E5%89%A5%E7%A6%BB%E7%97%87&t=31&band_rank=9&Refer=top)<br />
+9. [美方对中国留学生渗透拉拢毫无底线](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E6%B8%97%E9%80%8F%E6%8B%89%E6%8B%A2%E6%AF%AB%E6%97%A0%E5%BA%95%E7%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
