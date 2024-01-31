@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 18:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-01-31 18:22:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [民警双手接住9旬坠楼老人](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%8F%8C%E6%89%8B%E6%8E%A5%E4%BD%8F9%E6%97%AC%E5%9D%A0%E6%A5%BC%E8%80%81%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [河南暴雪](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%AA&t=31&band_rank=6&Refer=top)<br />
 7. [小车往河道溜车关键时刻他出手了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%BD%A6%E5%BE%80%E6%B2%B3%E9%81%93%E6%BA%9C%E8%BD%A6%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E4%BB%96%E5%87%BA%E6%89%8B%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [普京收入公开](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%94%B6%E5%85%A5%E5%85%AC%E5%BC%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [王新军喊王安宇来家里吃饭](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%96%B0%E5%86%9B%E5%96%8A%E7%8E%8B%E5%AE%89%E5%AE%87%E6%9D%A5%E5%AE%B6%E9%87%8C%E5%90%83%E9%A5%AD%23&t=31&band_rank=9&Refer=top)<br />
+8. [王新军喊王安宇来家里吃饭](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%96%B0%E5%86%9B%E5%96%8A%E7%8E%8B%E5%AE%89%E5%AE%87%E6%9D%A5%E5%AE%B6%E9%87%8C%E5%90%83%E9%A5%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [普京收入公开](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%94%B6%E5%85%A5%E5%85%AC%E5%BC%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
