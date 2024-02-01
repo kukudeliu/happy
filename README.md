@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 14:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 14:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [死刑注射前为啥还要消毒](https://s.weibo.com/weibo?q=%E6%AD%BB%E5%88%91%E6%B3%A8%E5%B0%84%E5%89%8D%E4%B8%BA%E5%95%A5%E8%BF%98%E8%A6%81%E6%B6%88%E6%AF%92&t=31&band_rank=6&Refer=top)<br />
 7. [胡歌与老婆出门购物](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E4%B8%8E%E8%80%81%E5%A9%86%E5%87%BA%E9%97%A8%E8%B4%AD%E7%89%A9&t=31&band_rank=7&Refer=top)<br />
 8. [为什么高铁座椅没有E号](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AB%98%E9%93%81%E5%BA%A7%E6%A4%85%E6%B2%A1%E6%9C%89E%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [花130万帮女儿当网红2年没成功](https://s.weibo.com/weibo?q=%23%E8%8A%B1130%E4%B8%87%E5%B8%AE%E5%A5%B3%E5%84%BF%E5%BD%93%E7%BD%91%E7%BA%A22%E5%B9%B4%E6%B2%A1%E6%88%90%E5%8A%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [韩国瑜当选台立法机构负责人](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%91%9C%E5%BD%93%E9%80%89%E5%8F%B0%E7%AB%8B%E6%B3%95%E6%9C%BA%E6%9E%84%E8%B4%9F%E8%B4%A3%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
