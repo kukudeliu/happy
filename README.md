@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 07:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 07:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高铁算是把用户需求整明白了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AE%97%E6%98%AF%E6%8A%8A%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82%E6%95%B4%E6%98%8E%E7%99%BD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [鲁AK66M7](https://s.weibo.com/weibo?q=%23%E9%B2%81AK66M7%23&t=31&band_rank=7&Refer=top)<br />
 8. [生肖属龙或姓龙游客可免费游龙游](https://s.weibo.com/weibo?q=%23%E7%94%9F%E8%82%96%E5%B1%9E%E9%BE%99%E6%88%96%E5%A7%93%E9%BE%99%E6%B8%B8%E5%AE%A2%E5%8F%AF%E5%85%8D%E8%B4%B9%E6%B8%B8%E9%BE%99%E6%B8%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [河南暴雪有人在高速堵车超10公里](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%AA%E6%9C%89%E4%BA%BA%E5%9C%A8%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%E8%B6%8510%E5%85%AC%E9%87%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [为何吴谢宇在春节前被执行死刑](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E5%90%B4%E8%B0%A2%E5%AE%87%E5%9C%A8%E6%98%A5%E8%8A%82%E5%89%8D%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
