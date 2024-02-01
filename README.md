@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 00:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 00:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [河南暴雪有人在高速堵车超10公里](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%AA%E6%9C%89%E4%BA%BA%E5%9C%A8%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%E8%B6%8510%E5%85%AC%E9%87%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [孙千露腰了](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E9%9C%B2%E8%85%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [百里屠苏好久不见](https://s.weibo.com/weibo?q=%23%E7%99%BE%E9%87%8C%E5%B1%A0%E8%8B%8F%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵今麦 真甜妹来了](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%20%E7%9C%9F%E7%94%9C%E5%A6%B9%E6%9D%A5%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [鲁AK66M7](https://s.weibo.com/weibo?q=%23%E9%B2%81AK66M7%23&t=31&band_rank=9&Refer=top)<br />
+8. [鲁AK66M7](https://s.weibo.com/weibo?q=%23%E9%B2%81AK66M7%23&t=31&band_rank=8&Refer=top)<br />
+9. [赵今麦 真甜妹来了](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%20%E7%9C%9F%E7%94%9C%E5%A6%B9%E6%9D%A5%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
