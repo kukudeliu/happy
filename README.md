@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 02:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 02:09:01</h4></div>
 
 > 微博  
 
 1. [艾滋病为何老龄化](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E7%97%85%E4%B8%BA%E4%BD%95%E8%80%81%E9%BE%84%E5%8C%96%23&t=31&band_rank=1&Refer=top)<br />
 2. [张佳宁演累了吧让我去演](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BD%B3%E5%AE%81%E6%BC%94%E7%B4%AF%E4%BA%86%E5%90%A7%E8%AE%A9%E6%88%91%E5%8E%BB%E6%BC%94%23&t=31&band_rank=2&Refer=top)<br />
 3. [在中国这样玩](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BF%99%E6%A0%B7%E7%8E%A9%23&t=31&band_rank=3&Refer=top)<br />
-4. [鲁AK66M7](https://s.weibo.com/weibo?q=%23%E9%B2%81AK66M7%23&t=31&band_rank=4&Refer=top)<br />
-5. [河南大雪胖东来在门口给顾客身上扫雪](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E9%9B%AA%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9C%A8%E9%97%A8%E5%8F%A3%E7%BB%99%E9%A1%BE%E5%AE%A2%E8%BA%AB%E4%B8%8A%E6%89%AB%E9%9B%AA%23&t=31&band_rank=5&Refer=top)<br />
+4. [河南大雪胖东来在门口给顾客身上扫雪](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E9%9B%AA%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9C%A8%E9%97%A8%E5%8F%A3%E7%BB%99%E9%A1%BE%E5%AE%A2%E8%BA%AB%E4%B8%8A%E6%89%AB%E9%9B%AA%23&t=31&band_rank=4&Refer=top)<br />
+5. [鲁AK66M7](https://s.weibo.com/weibo?q=%23%E9%B2%81AK66M7%23&t=31&band_rank=5&Refer=top)<br />
 6. [K4186全车一起救了个人](https://s.weibo.com/weibo?q=%23K4186%E5%85%A8%E8%BD%A6%E4%B8%80%E8%B5%B7%E6%95%91%E4%BA%86%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [大S具俊晔23年前后合照对比](https://s.weibo.com/weibo?q=%23%E5%A4%A7S%E5%85%B7%E4%BF%8A%E6%99%9423%E5%B9%B4%E5%89%8D%E5%90%8E%E5%90%88%E7%85%A7%E5%AF%B9%E6%AF%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [百里屠苏好久不见](https://s.weibo.com/weibo?q=%23%E7%99%BE%E9%87%8C%E5%B1%A0%E8%8B%8F%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81%23&t=31&band_rank=8&Refer=top)<br />
@@ -22,9 +22,9 @@
 3. [杭州杂技表演坠亡事故已成立调查组](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%9D%82%E6%8A%80%E8%A1%A8%E6%BC%94%E5%9D%A0%E4%BA%A1%E4%BA%8B%E6%95%85%E5%B7%B2%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亿缕阳光｜非遗“出海”](https://www.baidu.com/s?wd=%E4%BA%BF%E7%BC%95%E9%98%B3%E5%85%89%EF%BD%9C%E9%9D%9E%E9%81%97%E2%80%9C%E5%87%BA%E6%B5%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [胖东来回应一件羽绒服仅赚3毛](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E4%B8%80%E4%BB%B6%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BB%85%E8%B5%9A3%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [法国知名“天然矿泉水”被曝欺诈](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%9F%A5%E5%90%8D%E2%80%9C%E5%A4%A9%E7%84%B6%E7%9F%BF%E6%B3%89%E6%B0%B4%E2%80%9D%E8%A2%AB%E6%9B%9D%E6%AC%BA%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [欠债人连发20个250元 债主怒而报警](https://www.baidu.com/s?wd=%E6%AC%A0%E5%80%BA%E4%BA%BA%E8%BF%9E%E5%8F%9120%E4%B8%AA250%E5%85%83+%E5%80%BA%E4%B8%BB%E6%80%92%E8%80%8C%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高速服务区充电1小时花99元](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E5%85%85%E7%94%B51%E5%B0%8F%E6%97%B6%E8%8A%B199%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [2023年全国人均购买彩票超400元](https://www.baidu.com/s?wd=2023%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%9D%87%E8%B4%AD%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%B6%85400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [郭德纲为天津卫视相声春晚开场录3遍](https://www.baidu.com/s?wd=%E9%83%AD%E5%BE%B7%E7%BA%B2%E4%B8%BA%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86%E7%9B%B8%E5%A3%B0%E6%98%A5%E6%99%9A%E5%BC%80%E5%9C%BA%E5%BD%953%E9%81%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [法国知名“天然矿泉水”被曝欺诈](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%9F%A5%E5%90%8D%E2%80%9C%E5%A4%A9%E7%84%B6%E7%9F%BF%E6%B3%89%E6%B0%B4%E2%80%9D%E8%A2%AB%E6%9B%9D%E6%AC%BA%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春节期间快递公司都将停运？](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8%E9%83%BD%E5%B0%86%E5%81%9C%E8%BF%90%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [杭州杂技表演坠亡事故已成立调查组](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%9D%82%E6%8A%80%E8%A1%A8%E6%BC%94%E5%9D%A0%E4%BA%A1%E4%BA%8B%E6%95%85%E5%B7%B2%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亿缕阳光｜非遗“出海”](https://www.baidu.com/s?wd=%E4%BA%BF%E7%BC%95%E9%98%B3%E5%85%89%EF%BD%9C%E9%9D%9E%E9%81%97%E2%80%9C%E5%87%BA%E6%B5%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [胖东来回应一件羽绒服仅赚3毛](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E4%B8%80%E4%BB%B6%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BB%85%E8%B5%9A3%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [法国知名“天然矿泉水”被曝欺诈](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%9F%A5%E5%90%8D%E2%80%9C%E5%A4%A9%E7%84%B6%E7%9F%BF%E6%B3%89%E6%B0%B4%E2%80%9D%E8%A2%AB%E6%9B%9D%E6%AC%BA%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [欠债人连发20个250元 债主怒而报警](https://www.baidu.com/s?wd=%E6%AC%A0%E5%80%BA%E4%BA%BA%E8%BF%9E%E5%8F%9120%E4%B8%AA250%E5%85%83+%E5%80%BA%E4%B8%BB%E6%80%92%E8%80%8C%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高速服务区充电1小时花99元](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E5%85%85%E7%94%B51%E5%B0%8F%E6%97%B6%E8%8A%B199%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [2023年全国人均购买彩票超400元](https://www.baidu.com/s?wd=2023%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%9D%87%E8%B4%AD%E4%B9%B0%E5%BD%A9%E7%A5%A8%E8%B6%85400%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [郭德纲为天津卫视相声春晚开场录3遍](https://www.baidu.com/s?wd=%E9%83%AD%E5%BE%B7%E7%BA%B2%E4%B8%BA%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86%E7%9B%B8%E5%A3%B0%E6%98%A5%E6%99%9A%E5%BC%80%E5%9C%BA%E5%BD%953%E9%81%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [法国知名“天然矿泉水”被曝欺诈](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%9F%A5%E5%90%8D%E2%80%9C%E5%A4%A9%E7%84%B6%E7%9F%BF%E6%B3%89%E6%B0%B4%E2%80%9D%E8%A2%AB%E6%9B%9D%E6%AC%BA%E8%AF%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春节期间快递公司都将停运？](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8%E9%83%BD%E5%B0%86%E5%81%9C%E8%BF%90%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
