@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 06:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 06:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高铁算是把用户需求整明白了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AE%97%E6%98%AF%E6%8A%8A%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82%E6%95%B4%E6%98%8E%E7%99%BD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [艾滋病为何老龄化](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E7%97%85%E4%B8%BA%E4%BD%95%E8%80%81%E9%BE%84%E5%8C%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [大S具俊晔23年前后合照对比](https://s.weibo.com/weibo?q=%23%E5%A4%A7S%E5%85%B7%E4%BF%8A%E6%99%9423%E5%B9%B4%E5%89%8D%E5%90%8E%E5%90%88%E7%85%A7%E5%AF%B9%E6%AF%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本裁判替代马宁担任第四官员](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A3%81%E5%88%A4%E6%9B%BF%E4%BB%A3%E9%A9%AC%E5%AE%81%E6%8B%85%E4%BB%BB%E7%AC%AC%E5%9B%9B%E5%AE%98%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [河南暴雪有人在高速堵车超10公里](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%AA%E6%9C%89%E4%BA%BA%E5%9C%A8%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%E8%B6%8510%E5%85%AC%E9%87%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
