@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 17:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 17:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [快递停运时间](https://s.weibo.com/weibo?q=%E5%BF%AB%E9%80%92%E5%81%9C%E8%BF%90%E6%97%B6%E9%97%B4&t=31&band_rank=5&Refer=top)<br />
 6. [原来公司真的会裁掉销冠](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%85%AC%E5%8F%B8%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%A3%81%E6%8E%89%E9%94%80%E5%86%A0&t=31&band_rank=6&Refer=top)<br />
 7. [12306回应遛娃车厢](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%81%9B%E5%A8%83%E8%BD%A6%E5%8E%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [宁夏银川一化工厂起火现场腾起蘑菇云](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB%E7%8E%B0%E5%9C%BA%E8%85%BE%E8%B5%B7%E8%98%91%E8%8F%87%E4%BA%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [劝人多睡的医生自己在熬夜](https://s.weibo.com/weibo?q=%23%E5%8A%9D%E4%BA%BA%E5%A4%9A%E7%9D%A1%E7%9A%84%E5%8C%BB%E7%94%9F%E8%87%AA%E5%B7%B1%E5%9C%A8%E7%86%AC%E5%A4%9C%23&t=31&band_rank=9&Refer=top)<br />
+8. [百里屠苏好久不见](https://s.weibo.com/weibo?q=%23%E7%99%BE%E9%87%8C%E5%B1%A0%E8%8B%8F%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81%23&t=31&band_rank=8&Refer=top)<br />
+9. [宁夏银川一化工厂起火现场腾起蘑菇云](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB%E7%8E%B0%E5%9C%BA%E8%85%BE%E8%B5%B7%E8%98%91%E8%8F%87%E4%BA%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
