@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 10:56:01</h4></div>
 
 > 微博  
 
 1. [花130万帮女儿当网红2年没成功](https://s.weibo.com/weibo?q=%23%E8%8A%B1130%E4%B8%87%E5%B8%AE%E5%A5%B3%E5%84%BF%E5%BD%93%E7%BD%91%E7%BA%A22%E5%B9%B4%E6%B2%A1%E6%88%90%E5%8A%9F%23&t=31&band_rank=1&Refer=top)<br />
-2. [复旦教师杀害学院书记一审获死缓](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E6%95%99%E5%B8%88%E6%9D%80%E5%AE%B3%E5%AD%A6%E9%99%A2%E4%B9%A6%E8%AE%B0%E4%B8%80%E5%AE%A1%E8%8E%B7%E6%AD%BB%E7%BC%93%23&t=31&band_rank=2&Refer=top)<br />
+2. [快递停运时间](https://s.weibo.com/weibo?q=%E5%BF%AB%E9%80%92%E5%81%9C%E8%BF%90%E6%97%B6%E9%97%B4&t=31&band_rank=2&Refer=top)<br />
 3. [直播探访多地春运现场](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E6%8E%A2%E8%AE%BF%E5%A4%9A%E5%9C%B0%E6%98%A5%E8%BF%90%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=3&Refer=top)<br />
-4. [车厘子打败砂糖橘成年货顶流](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E6%89%93%E8%B4%A5%E7%A0%82%E7%B3%96%E6%A9%98%E6%88%90%E5%B9%B4%E8%B4%A7%E9%A1%B6%E6%B5%81%23&t=31&band_rank=4&Refer=top)<br />
-5. [快递停运时间](https://s.weibo.com/weibo?q=%E5%BF%AB%E9%80%92%E5%81%9C%E8%BF%90%E6%97%B6%E9%97%B4&t=31&band_rank=5&Refer=top)<br />
+4. [复旦教师杀害学院书记一审获死缓](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E6%95%99%E5%B8%88%E6%9D%80%E5%AE%B3%E5%AD%A6%E9%99%A2%E4%B9%A6%E8%AE%B0%E4%B8%80%E5%AE%A1%E8%8E%B7%E6%AD%BB%E7%BC%93%23&t=31&band_rank=4&Refer=top)<br />
+5. [车厘子打败砂糖橘成年货顶流](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E6%89%93%E8%B4%A5%E7%A0%82%E7%B3%96%E6%A9%98%E6%88%90%E5%B9%B4%E8%B4%A7%E9%A1%B6%E6%B5%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [北大学姐说静夜思不是李白原作](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%AD%A6%E5%A7%90%E8%AF%B4%E9%9D%99%E5%A4%9C%E6%80%9D%E4%B8%8D%E6%98%AF%E6%9D%8E%E7%99%BD%E5%8E%9F%E4%BD%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [江歌妈妈谈重庆姐弟坠亡案](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E8%B0%88%E9%87%8D%E5%BA%86%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [灵岩甩臀致直播间被封](https://s.weibo.com/weibo?q=%E7%81%B5%E5%B2%A9%E7%94%A9%E8%87%80%E8%87%B4%E7%9B%B4%E6%92%AD%E9%97%B4%E8%A2%AB%E5%B0%81&t=31&band_rank=8&Refer=top)<br />
-9. [王鸥复工](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E5%A4%8D%E5%B7%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [7成中国人可能是河南人](https://s.weibo.com/weibo?q=%237%E6%88%90%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%AF%E8%83%BD%E6%98%AF%E6%B2%B3%E5%8D%97%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
