@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 00:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 00:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [河南暴雪有人在高速堵车超10公里](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%AA%E6%9C%89%E4%BA%BA%E5%9C%A8%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%E8%B6%8510%E5%85%AC%E9%87%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵今麦 真甜妹来了](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%20%E7%9C%9F%E7%94%9C%E5%A6%B9%E6%9D%A5%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [百里屠苏好久不见](https://s.weibo.com/weibo?q=%23%E7%99%BE%E9%87%8C%E5%B1%A0%E8%8B%8F%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [福建长乐2.1亿婚礼](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%BB%BA%E9%95%BF%E4%B9%902.1%E4%BA%BF%E5%A9%9A%E7%A4%BC&t=31&band_rank=9&Refer=top)<br />
+9. [K4186全车一起救了个人](https://s.weibo.com/weibo?q=%23K4186%E5%85%A8%E8%BD%A6%E4%B8%80%E8%B5%B7%E6%95%91%E4%BA%86%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
