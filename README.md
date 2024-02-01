@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 10:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 10:34:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [复旦教师杀害学院书记一审获死缓](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E6%95%99%E5%B8%88%E6%9D%80%E5%AE%B3%E5%AD%A6%E9%99%A2%E4%B9%A6%E8%AE%B0%E4%B8%80%E5%AE%A1%E8%8E%B7%E6%AD%BB%E7%BC%93%23&t=31&band_rank=5&Refer=top)<br />
 6. [灵岩甩臀致直播间被封](https://s.weibo.com/weibo?q=%E7%81%B5%E5%B2%A9%E7%94%A9%E8%87%80%E8%87%B4%E7%9B%B4%E6%92%AD%E9%97%B4%E8%A2%AB%E5%B0%81&t=31&band_rank=6&Refer=top)<br />
 7. [河南降雪致多趟火车停运](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%99%8D%E9%9B%AA%E8%87%B4%E5%A4%9A%E8%B6%9F%E7%81%AB%E8%BD%A6%E5%81%9C%E8%BF%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [用氮气执行死刑](https://s.weibo.com/weibo?q=%E7%94%A8%E6%B0%AE%E6%B0%94%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&t=31&band_rank=8&Refer=top)<br />
-9. [王鸥复工](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E5%A4%8D%E5%B7%A5%23&t=31&band_rank=9&Refer=top)<br />
+8. [江歌妈妈谈重庆姐弟坠亡案](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E8%B0%88%E9%87%8D%E5%BA%86%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [用氮气执行死刑](https://s.weibo.com/weibo?q=%E7%94%A8%E6%B0%AE%E6%B0%94%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
