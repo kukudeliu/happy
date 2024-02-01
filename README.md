@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 00:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 00:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孙千露腰了](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E9%9C%B2%E8%85%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [百里屠苏好久不见](https://s.weibo.com/weibo?q=%23%E7%99%BE%E9%87%8C%E5%B1%A0%E8%8B%8F%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵今麦 真甜妹来了](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%20%E7%9C%9F%E7%94%9C%E5%A6%B9%E6%9D%A5%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [K4186全车一起救了个人](https://s.weibo.com/weibo?q=%23K4186%E5%85%A8%E8%BD%A6%E4%B8%80%E8%B5%B7%E6%95%91%E4%BA%86%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [鲁AK66M7](https://s.weibo.com/weibo?q=%23%E9%B2%81AK66M7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
