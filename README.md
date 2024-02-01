@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 22:06:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [舌尖上的中国年味儿](https://s.weibo.com/weibo?q=%23%E8%88%8C%E5%B0%96%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B9%B4%E5%91%B3%E5%84%BF%23&t=31&band_rank=3&Refer=top)<br />
 4. [李诞卖穿戴甲](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%9E%E5%8D%96%E7%A9%BF%E6%88%B4%E7%94%B2%23&t=31&band_rank=4&Refer=top)<br />
 5. [女干部涉不雅聊天被免职](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%B9%B2%E9%83%A8%E6%B6%89%E4%B8%8D%E9%9B%85%E8%81%8A%E5%A4%A9%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=5&Refer=top)<br />
-6. [鲁AK66M7](https://s.weibo.com/weibo?q=%23%E9%B2%81AK66M7%23&t=31&band_rank=6&Refer=top)<br />
-7. [哇唧唧哇年会](https://s.weibo.com/weibo?q=%E5%93%87%E5%94%A7%E5%94%A7%E5%93%87%E5%B9%B4%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
+6. [哇唧唧哇年会](https://s.weibo.com/weibo?q=%E5%93%87%E5%94%A7%E5%94%A7%E5%93%87%E5%B9%B4%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
+7. [鲁AK66M7](https://s.weibo.com/weibo?q=%23%E9%B2%81AK66M7%23&t=31&band_rank=7&Refer=top)<br />
 8. [宋伊人圈内人缘](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BC%8A%E4%BA%BA%E5%9C%88%E5%86%85%E4%BA%BA%E7%BC%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [贵州住宅火灾事件死者儿子曾举报小区消防](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%BD%8F%E5%AE%85%E7%81%AB%E7%81%BE%E4%BA%8B%E4%BB%B6%E6%AD%BB%E8%80%85%E5%84%BF%E5%AD%90%E6%9B%BE%E4%B8%BE%E6%8A%A5%E5%B0%8F%E5%8C%BA%E6%B6%88%E9%98%B2%23&t=31&band_rank=9&Refer=top)<br />
 
