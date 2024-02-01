@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 13:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 13:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [河南高速多车相撞 目击者：五六十辆](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E9%AB%98%E9%80%9F%E5%A4%9A%E8%BD%A6%E7%9B%B8%E6%92%9E+%E7%9B%AE%E5%87%BB%E8%80%85%EF%BC%9A%E4%BA%94%E5%85%AD%E5%8D%81%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [《湄公河行动》男演员确诊恶性肿瘤](https://www.baidu.com/s?wd=%E3%80%8A%E6%B9%84%E5%85%AC%E6%B2%B3%E8%A1%8C%E5%8A%A8%E3%80%8B%E7%94%B7%E6%BC%94%E5%91%98%E7%A1%AE%E8%AF%8A%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [反击战！女生寒假闯入父母房叫起床](https://www.baidu.com/s?wd=%E5%8F%8D%E5%87%BB%E6%88%98%EF%BC%81%E5%A5%B3%E7%94%9F%E5%AF%92%E5%81%87%E9%97%AF%E5%85%A5%E7%88%B6%E6%AF%8D%E6%88%BF%E5%8F%AB%E8%B5%B7%E5%BA%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南鹅毛大雪满天飞 积雪脚脖子深](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA%E6%BB%A1%E5%A4%A9%E9%A3%9E+%E7%A7%AF%E9%9B%AA%E8%84%9A%E8%84%96%E5%AD%90%E6%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方揭秘“花29.9元能博百万”骗局](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%8F%AD%E7%A7%98%E2%80%9C%E8%8A%B129.9%E5%85%83%E8%83%BD%E5%8D%9A%E7%99%BE%E4%B8%87%E2%80%9D%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北交所：未开展加密货币交易业务](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%A4%E6%89%80%EF%BC%9A%E6%9C%AA%E5%BC%80%E5%B1%95%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E4%B8%9A%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [河南高速多车相撞 目击者：五六十辆](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E9%AB%98%E9%80%9F%E5%A4%9A%E8%BD%A6%E7%9B%B8%E6%92%9E+%E7%9B%AE%E5%87%BB%E8%80%85%EF%BC%9A%E4%BA%94%E5%85%AD%E5%8D%81%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [《湄公河行动》男演员确诊恶性肿瘤](https://www.baidu.com/s?wd=%E3%80%8A%E6%B9%84%E5%85%AC%E6%B2%B3%E8%A1%8C%E5%8A%A8%E3%80%8B%E7%94%B7%E6%BC%94%E5%91%98%E7%A1%AE%E8%AF%8A%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [反击战！女生寒假闯入父母房叫起床](https://www.baidu.com/s?wd=%E5%8F%8D%E5%87%BB%E6%88%98%EF%BC%81%E5%A5%B3%E7%94%9F%E5%AF%92%E5%81%87%E9%97%AF%E5%85%A5%E7%88%B6%E6%AF%8D%E6%88%BF%E5%8F%AB%E8%B5%B7%E5%BA%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南鹅毛大雪满天飞 积雪脚脖子深](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA%E6%BB%A1%E5%A4%A9%E9%A3%9E+%E7%A7%AF%E9%9B%AA%E8%84%9A%E8%84%96%E5%AD%90%E6%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方揭秘“花29.9元能博百万”骗局](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E6%8F%AD%E7%A7%98%E2%80%9C%E8%8A%B129.9%E5%85%83%E8%83%BD%E5%8D%9A%E7%99%BE%E4%B8%87%E2%80%9D%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北交所：未开展加密货币交易业务](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%A4%E6%89%80%EF%BC%9A%E6%9C%AA%E5%BC%80%E5%B1%95%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E4%B8%9A%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
