@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 03:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 03:39:01</h4></div>
 
 > 微博  
 
-1. [艾滋病为何老龄化](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E7%97%85%E4%B8%BA%E4%BD%95%E8%80%81%E9%BE%84%E5%8C%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [鲁AK66M7](https://s.weibo.com/weibo?q=%23%E9%B2%81AK66M7%23&t=31&band_rank=2&Refer=top)<br />
+1. [鲁AK66M7](https://s.weibo.com/weibo?q=%23%E9%B2%81AK66M7%23&t=31&band_rank=1&Refer=top)<br />
+2. [艾滋病为何老龄化](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E7%97%85%E4%B8%BA%E4%BD%95%E8%80%81%E9%BE%84%E5%8C%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [在中国这样玩](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BF%99%E6%A0%B7%E7%8E%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [张庭 我都没去过这个楼盘](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%BA%AD%20%E6%88%91%E9%83%BD%E6%B2%A1%E5%8E%BB%E8%BF%87%E8%BF%99%E4%B8%AA%E6%A5%BC%E7%9B%98&t=31&band_rank=4&Refer=top)<br />
 5. [熬夜后吃护肝片或增加肝损伤](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%90%8E%E5%90%83%E6%8A%A4%E8%82%9D%E7%89%87%E6%88%96%E5%A2%9E%E5%8A%A0%E8%82%9D%E6%8D%9F%E4%BC%A4%23&t=31&band_rank=5&Refer=top)<br />
