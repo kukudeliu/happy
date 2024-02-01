@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 03:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 03:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [汉密尔顿 法拉利](https://s.weibo.com/weibo?q=%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF%20%E6%B3%95%E6%8B%89%E5%88%A9&t=31&band_rank=6&Refer=top)<br />
 7. [张佳宁演累了吧让我去演](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BD%B3%E5%AE%81%E6%BC%94%E7%B4%AF%E4%BA%86%E5%90%A7%E8%AE%A9%E6%88%91%E5%8E%BB%E6%BC%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [大S具俊晔23年前后合照对比](https://s.weibo.com/weibo?q=%23%E5%A4%A7S%E5%85%B7%E4%BF%8A%E6%99%9423%E5%B9%B4%E5%89%8D%E5%90%8E%E5%90%88%E7%85%A7%E5%AF%B9%E6%AF%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [李诞卖穿戴甲](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%9E%E5%8D%96%E7%A9%BF%E6%88%B4%E7%94%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [熬夜后吃护肝片或增加肝损伤](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%90%8E%E5%90%83%E6%8A%A4%E8%82%9D%E7%89%87%E6%88%96%E5%A2%9E%E5%8A%A0%E8%82%9D%E6%8D%9F%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
