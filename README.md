@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 22:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 22:27:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [李诞卖穿戴甲](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%9E%E5%8D%96%E7%A9%BF%E6%88%B4%E7%94%B2%23&t=31&band_rank=4&Refer=top)<br />
 5. [陈都灵等车](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%E7%AD%89%E8%BD%A6&t=31&band_rank=5&Refer=top)<br />
 6. [鲁AK66M7](https://s.weibo.com/weibo?q=%23%E9%B2%81AK66M7%23&t=31&band_rank=6&Refer=top)<br />
-7. [哇唧唧哇年会](https://s.weibo.com/weibo?q=%E5%93%87%E5%94%A7%E5%94%A7%E5%93%87%E5%B9%B4%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
-8. [现在预制菜都这么齐全了吗](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E9%A2%84%E5%88%B6%E8%8F%9C%E9%83%BD%E8%BF%99%E4%B9%88%E9%BD%90%E5%85%A8%E4%BA%86%E5%90%97&t=31&band_rank=8&Refer=top)<br />
+7. [现在预制菜都这么齐全了吗](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E9%A2%84%E5%88%B6%E8%8F%9C%E9%83%BD%E8%BF%99%E4%B9%88%E9%BD%90%E5%85%A8%E4%BA%86%E5%90%97&t=31&band_rank=7&Refer=top)<br />
+8. [哇唧唧哇年会](https://s.weibo.com/weibo?q=%E5%93%87%E5%94%A7%E5%94%A7%E5%93%87%E5%B9%B4%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
 9. [夫妻各开一架飞机回家过年](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%90%84%E5%BC%80%E4%B8%80%E6%9E%B6%E9%A3%9E%E6%9C%BA%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
