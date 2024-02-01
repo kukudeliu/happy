@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 16:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 16:02:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美甲店称过年费是加班费](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%94%B2%E5%BA%97%E7%A7%B0%E8%BF%87%E5%B9%B4%E8%B4%B9%E6%98%AF%E5%8A%A0%E7%8F%AD%E8%B4%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵丽颖公司取得演出经纪许可](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%85%AC%E5%8F%B8%E5%8F%96%E5%BE%97%E6%BC%94%E5%87%BA%E7%BB%8F%E7%BA%AA%E8%AE%B8%E5%8F%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [离婚了彩礼还不还](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%A9%9A%E4%BA%86%E5%BD%A9%E7%A4%BC%E8%BF%98%E4%B8%8D%E8%BF%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [直播探访多地春运现场](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E6%8E%A2%E8%AE%BF%E5%A4%9A%E5%9C%B0%E6%98%A5%E8%BF%90%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [劝人多睡的医生自己在熬夜](https://s.weibo.com/weibo?q=%23%E5%8A%9D%E4%BA%BA%E5%A4%9A%E7%9D%A1%E7%9A%84%E5%8C%BB%E7%94%9F%E8%87%AA%E5%B7%B1%E5%9C%A8%E7%86%AC%E5%A4%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
