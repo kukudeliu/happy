@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 08:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 08:31:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [俄高官称千岛群岛属俄日本不满意可以切腹](https://s.weibo.com/weibo?q=%23%E4%BF%84%E9%AB%98%E5%AE%98%E7%A7%B0%E5%8D%83%E5%B2%9B%E7%BE%A4%E5%B2%9B%E5%B1%9E%E4%BF%84%E6%97%A5%E6%9C%AC%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%AF%E4%BB%A5%E5%88%87%E8%85%B9%23&t=31&band_rank=4&Refer=top)<br />
 5. [尿毒症是吃出来的](https://s.weibo.com/weibo?q=%23%E5%B0%BF%E6%AF%92%E7%97%87%E6%98%AF%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [张波叶诚尘一审互咬二审互助](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%A2%E5%8F%B6%E8%AF%9A%E5%B0%98%E4%B8%80%E5%AE%A1%E4%BA%92%E5%92%AC%E4%BA%8C%E5%AE%A1%E4%BA%92%E5%8A%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [回南天](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
-8. [范丞丞吐槽吻戏不换地方拍](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%90%E6%A7%BD%E5%90%BB%E6%88%8F%E4%B8%8D%E6%8D%A2%E5%9C%B0%E6%96%B9%E6%8B%8D&t=31&band_rank=8&Refer=top)<br />
+7. [范丞丞吐槽吻戏不换地方拍](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%90%E6%A7%BD%E5%90%BB%E6%88%8F%E4%B8%8D%E6%8D%A2%E5%9C%B0%E6%96%B9%E6%8B%8D&t=31&band_rank=7&Refer=top)<br />
+8. [回南天](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9&t=31&band_rank=8&Refer=top)<br />
 9. [河南暴雪](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
