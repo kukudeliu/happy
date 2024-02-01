@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 10:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 10:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王鸥复工](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E5%A4%8D%E5%B7%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [河南降雪致多趟火车停运](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%99%8D%E9%9B%AA%E8%87%B4%E5%A4%9A%E8%B6%9F%E7%81%AB%E8%BD%A6%E5%81%9C%E8%BF%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [北大学姐说静夜思不是李白原作](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%AD%A6%E5%A7%90%E8%AF%B4%E9%9D%99%E5%A4%9C%E6%80%9D%E4%B8%8D%E6%98%AF%E6%9D%8E%E7%99%BD%E5%8E%9F%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=9&Refer=top)<br />
+9. [尿毒症是吃出来的](https://s.weibo.com/weibo?q=%23%E5%B0%BF%E6%AF%92%E7%97%87%E6%98%AF%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
