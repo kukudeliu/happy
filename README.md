@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 19:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 19:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [百里屠苏好久不见](https://s.weibo.com/weibo?q=%23%E7%99%BE%E9%87%8C%E5%B1%A0%E8%8B%8F%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [司机坚持礼让行人没想到有意外收获](https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E5%9D%9A%E6%8C%81%E7%A4%BC%E8%AE%A9%E8%A1%8C%E4%BA%BA%E6%B2%A1%E6%83%B3%E5%88%B0%E6%9C%89%E6%84%8F%E5%A4%96%E6%94%B6%E8%8E%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘浩存双马尾](https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E5%8F%8C%E9%A9%AC%E5%B0%BE&t=31&band_rank=8&Refer=top)<br />
-9. [我妈是董明珠节目由王自如策划](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A6%88%E6%98%AF%E8%91%A3%E6%98%8E%E7%8F%A0%E8%8A%82%E7%9B%AE%E7%94%B1%E7%8E%8B%E8%87%AA%E5%A6%82%E7%AD%96%E5%88%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [韩萎纱身亡](https://s.weibo.com/weibo?q=%E9%9F%A9%E8%90%8E%E7%BA%B1%E8%BA%AB%E4%BA%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
