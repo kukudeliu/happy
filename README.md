@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 09:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 09:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [车厘子打败砂糖橘成年货顶流](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E6%89%93%E8%B4%A5%E7%A0%82%E7%B3%96%E6%A9%98%E6%88%90%E5%B9%B4%E8%B4%A7%E9%A1%B6%E6%B5%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [尿毒症是吃出来的](https://s.weibo.com/weibo?q=%23%E5%B0%BF%E6%AF%92%E7%97%87%E6%98%AF%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [范丞丞吐槽吻戏不换地方拍](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%90%E6%A7%BD%E5%90%BB%E6%88%8F%E4%B8%8D%E6%8D%A2%E5%9C%B0%E6%96%B9%E6%8B%8D&t=31&band_rank=8&Refer=top)<br />
-9. [俄高官称千岛群岛属俄日本不满意可以切腹](https://s.weibo.com/weibo?q=%23%E4%BF%84%E9%AB%98%E5%AE%98%E7%A7%B0%E5%8D%83%E5%B2%9B%E7%BE%A4%E5%B2%9B%E5%B1%9E%E4%BF%84%E6%97%A5%E6%9C%AC%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%AF%E4%BB%A5%E5%88%87%E8%85%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [张煜东 你们恭喜错人了](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%85%9C%E4%B8%9C%20%E4%BD%A0%E4%BB%AC%E6%81%AD%E5%96%9C%E9%94%99%E4%BA%BA%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
