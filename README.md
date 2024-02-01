@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 13:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 13:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [胡歌与老婆出门购物](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E4%B8%8E%E8%80%81%E5%A9%86%E5%87%BA%E9%97%A8%E8%B4%AD%E7%89%A9&t=31&band_rank=6&Refer=top)<br />
 7. [快递停运时间](https://s.weibo.com/weibo?q=%E5%BF%AB%E9%80%92%E5%81%9C%E8%BF%90%E6%97%B6%E9%97%B4&t=31&band_rank=7&Refer=top)<br />
 8. [花130万帮女儿当网红2年没成功](https://s.weibo.com/weibo?q=%23%E8%8A%B1130%E4%B8%87%E5%B8%AE%E5%A5%B3%E5%84%BF%E5%BD%93%E7%BD%91%E7%BA%A22%E5%B9%B4%E6%B2%A1%E6%88%90%E5%8A%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [车厘子打败砂糖橘成年货顶流](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E6%89%93%E8%B4%A5%E7%A0%82%E7%B3%96%E6%A9%98%E6%88%90%E5%B9%B4%E8%B4%A7%E9%A1%B6%E6%B5%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [大侦探 播不播](https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A2%20%E6%92%AD%E4%B8%8D%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
