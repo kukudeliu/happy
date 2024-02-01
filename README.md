@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 17:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 17:13:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [原来公司真的会裁掉销冠](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%85%AC%E5%8F%B8%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%A3%81%E6%8E%89%E9%94%80%E5%86%A0&t=31&band_rank=2&Refer=top)<br />
 3. [重温经典频道开播](https://s.weibo.com/weibo?q=%23%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8%E9%A2%91%E9%81%93%E5%BC%80%E6%92%AD%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子见义勇为被砍4刀被救女孩拒作证](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%A2%AB%E7%A0%8D4%E5%88%80%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%A9%E6%8B%92%E4%BD%9C%E8%AF%81%23&t=31&band_rank=4&Refer=top)<br />
-5. [蒋龙当王新军面喊一璐平安](https://s.weibo.com/weibo?q=%23%E8%92%8B%E9%BE%99%E5%BD%93%E7%8E%8B%E6%96%B0%E5%86%9B%E9%9D%A2%E5%96%8A%E4%B8%80%E7%92%90%E5%B9%B3%E5%AE%89%23&t=31&band_rank=5&Refer=top)<br />
-6. [12306回应遛娃车厢](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%81%9B%E5%A8%83%E8%BD%A6%E5%8E%A2%23&t=31&band_rank=6&Refer=top)<br />
+5. [12306回应遛娃车厢](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%81%9B%E5%A8%83%E8%BD%A6%E5%8E%A2%23&t=31&band_rank=5&Refer=top)<br />
+6. [蒋龙当王新军面喊一璐平安](https://s.weibo.com/weibo?q=%23%E8%92%8B%E9%BE%99%E5%BD%93%E7%8E%8B%E6%96%B0%E5%86%9B%E9%9D%A2%E5%96%8A%E4%B8%80%E7%92%90%E5%B9%B3%E5%AE%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [劝人多睡的医生自己在熬夜](https://s.weibo.com/weibo?q=%23%E5%8A%9D%E4%BA%BA%E5%A4%9A%E7%9D%A1%E7%9A%84%E5%8C%BB%E7%94%9F%E8%87%AA%E5%B7%B1%E5%9C%A8%E7%86%AC%E5%A4%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [胡歌与老婆出门购物](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E4%B8%8E%E8%80%81%E5%A9%86%E5%87%BA%E9%97%A8%E8%B4%AD%E7%89%A9&t=31&band_rank=8&Refer=top)<br />
-9. [kpop历代级美貌](https://s.weibo.com/weibo?q=%23kpop%E5%8E%86%E4%BB%A3%E7%BA%A7%E7%BE%8E%E8%B2%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [宁夏银川一化工厂起火现场腾起蘑菇云](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E8%B5%B7%E7%81%AB%E7%8E%B0%E5%9C%BA%E8%85%BE%E8%B5%B7%E8%98%91%E8%8F%87%E4%BA%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
