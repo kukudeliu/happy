@@ -1,8 +1,8 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 08:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-01 08:06:01</h4></div>
 
 > 微博  
 
-1. [王鸥复工](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B8%A5%E5%A4%8D%E5%B7%A5&t=31&band_rank=1&Refer=top)<br />
+1. [王鸥复工](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E5%A4%8D%E5%B7%A5%23&t=31&band_rank=1&Refer=top)<br />
 2. [执行死刑 三针注射](https://s.weibo.com/weibo?q=%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%20%E4%B8%89%E9%92%88%E6%B3%A8%E5%B0%84&t=31&band_rank=2&Refer=top)<br />
 3. [2月这些新规将要施行](https://s.weibo.com/weibo?q=%232%E6%9C%88%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%B0%86%E8%A6%81%E6%96%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [俄高官称千岛群岛属俄日本不满意可以切腹](https://s.weibo.com/weibo?q=%23%E4%BF%84%E9%AB%98%E5%AE%98%E7%A7%B0%E5%8D%83%E5%B2%9B%E7%BE%A4%E5%B2%9B%E5%B1%9E%E4%BF%84%E6%97%A5%E6%9C%AC%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%AF%E4%BB%A5%E5%88%87%E8%85%B9%23&t=31&band_rank=4&Refer=top)<br />
