@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 14:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 14:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [咳嗽时把痰咽下去伤身体吗](https://s.weibo.com/weibo?q=%E5%92%B3%E5%97%BD%E6%97%B6%E6%8A%8A%E7%97%B0%E5%92%BD%E4%B8%8B%E5%8E%BB%E4%BC%A4%E8%BA%AB%E4%BD%93%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [韩如雪否认知三当三](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%A6%82%E9%9B%AA%E5%90%A6%E8%AE%A4%E7%9F%A5%E4%B8%89%E5%BD%93%E4%B8%89&t=31&band_rank=7&Refer=top)<br />
 8. [童漠男 行业又没了](https://s.weibo.com/weibo?q=%E7%AB%A5%E6%BC%A0%E7%94%B7%20%E8%A1%8C%E4%B8%9A%E5%8F%88%E6%B2%A1%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [超4700只个股下跌](https://s.weibo.com/weibo?q=%23%E8%B6%854700%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [2700](https://s.weibo.com/weibo?q=2700&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [2024央视网络春晚节目单官宣](https://www.baidu.com/s?wd=2024%E5%A4%AE%E8%A7%86%E7%BD%91%E7%BB%9C%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%AE%98%E5%AE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马英九：支持蔡英文登太平岛](https://www.baidu.com/s?wd=%E9%A9%AC%E8%8B%B1%E4%B9%9D%EF%BC%9A%E6%94%AF%E6%8C%81%E8%94%A1%E8%8B%B1%E6%96%87%E7%99%BB%E5%A4%AA%E5%B9%B3%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网曝G1265次列车100多人有票无座](https://www.baidu.com/s?wd=%E7%BD%91%E6%9B%9DG1265%E6%AC%A1%E5%88%97%E8%BD%A6100%E5%A4%9A%E4%BA%BA%E6%9C%89%E7%A5%A8%E6%97%A0%E5%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [14岁女儿将爸爸出轨录音拷贝给妈妈](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B0%86%E7%88%B8%E7%88%B8%E5%87%BA%E8%BD%A8%E5%BD%95%E9%9F%B3%E6%8B%B7%E8%B4%9D%E7%BB%99%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [肺癌成为全球新增病例数最多癌症](https://www.baidu.com/s?wd=%E8%82%BA%E7%99%8C%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E6%96%B0%E5%A2%9E%E7%97%85%E4%BE%8B%E6%95%B0%E6%9C%80%E5%A4%9A%E7%99%8C%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [2024年1月“科学”流言榜发布](https://www.baidu.com/s?wd=2024%E5%B9%B41%E6%9C%88%E2%80%9C%E7%A7%91%E5%AD%A6%E2%80%9D%E6%B5%81%E8%A8%80%E6%A6%9C%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [2024央视网络春晚节目单官宣](https://www.baidu.com/s?wd=2024%E5%A4%AE%E8%A7%86%E7%BD%91%E7%BB%9C%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%AE%98%E5%AE%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [马英九：支持蔡英文登太平岛](https://www.baidu.com/s?wd=%E9%A9%AC%E8%8B%B1%E4%B9%9D%EF%BC%9A%E6%94%AF%E6%8C%81%E8%94%A1%E8%8B%B1%E6%96%87%E7%99%BB%E5%A4%AA%E5%B9%B3%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网曝G1265次列车100多人有票无座](https://www.baidu.com/s?wd=%E7%BD%91%E6%9B%9DG1265%E6%AC%A1%E5%88%97%E8%BD%A6100%E5%A4%9A%E4%BA%BA%E6%9C%89%E7%A5%A8%E6%97%A0%E5%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [14岁女儿将爸爸出轨录音拷贝给妈妈](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B0%86%E7%88%B8%E7%88%B8%E5%87%BA%E8%BD%A8%E5%BD%95%E9%9F%B3%E6%8B%B7%E8%B4%9D%E7%BB%99%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [肺癌成为全球新增病例数最多癌症](https://www.baidu.com/s?wd=%E8%82%BA%E7%99%8C%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E6%96%B0%E5%A2%9E%E7%97%85%E4%BE%8B%E6%95%B0%E6%9C%80%E5%A4%9A%E7%99%8C%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [2024年1月“科学”流言榜发布](https://www.baidu.com/s?wd=2024%E5%B9%B41%E6%9C%88%E2%80%9C%E7%A7%91%E5%AD%A6%E2%80%9D%E6%B5%81%E8%A8%80%E6%A6%9C%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
