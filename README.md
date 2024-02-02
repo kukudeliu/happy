@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 22:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 22:34:01</h4></div>
 
 > 微博  
 
@@ -18,11 +18,11 @@
 > 百度  
 
 1. [跟着总书记学历史](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AD%A6%E5%8E%86%E5%8F%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [老人去世前突然清醒嘱咐儿子捐遗体](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%89%8D%E7%AA%81%E7%84%B6%E6%B8%85%E9%86%92%E5%98%B1%E5%92%90%E5%84%BF%E5%AD%90%E6%8D%90%E9%81%97%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [律师要求查房人员出示证件被铐走](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A6%81%E6%B1%82%E6%9F%A5%E6%88%BF%E4%BA%BA%E5%91%98%E5%87%BA%E7%A4%BA%E8%AF%81%E4%BB%B6%E8%A2%AB%E9%93%90%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [12306回应两乘客买到同日同座票](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E4%B8%A4%E4%B9%98%E5%AE%A2%E4%B9%B0%E5%88%B0%E5%90%8C%E6%97%A5%E5%90%8C%E5%BA%A7%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [舌尖上的年味](https://www.baidu.com/s?wd=%E8%88%8C%E5%B0%96%E4%B8%8A%E7%9A%84%E5%B9%B4%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江歌母亲：刘鑫再审申请被法院驳回](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%EF%BC%9A%E5%88%98%E9%91%AB%E5%86%8D%E5%AE%A1%E7%94%B3%E8%AF%B7%E8%A2%AB%E6%B3%95%E9%99%A2%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [律师要求查房人员出示证件被铐走](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A6%81%E6%B1%82%E6%9F%A5%E6%88%BF%E4%BA%BA%E5%91%98%E5%87%BA%E7%A4%BA%E8%AF%81%E4%BB%B6%E8%A2%AB%E9%93%90%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [妇联回应男子酒后拿刀背砍妻子](https://www.baidu.com/s?wd=%E5%A6%87%E8%81%94%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E6%8B%BF%E5%88%80%E8%83%8C%E7%A0%8D%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被奔驰男砸车女子回应三大质疑](https://www.baidu.com/s?wd=%E8%A2%AB%E5%A5%94%E9%A9%B0%E7%94%B7%E7%A0%B8%E8%BD%A6%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E4%B8%89%E5%A4%A7%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [黄毅清造谣马苏卖淫被判14个月](https://www.baidu.com/s?wd=%E9%BB%84%E6%AF%85%E6%B8%85%E9%80%A0%E8%B0%A3%E9%A9%AC%E8%8B%8F%E5%8D%96%E6%B7%AB%E8%A2%AB%E5%88%A414%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川警方辟谣“凌晨将发生地震”](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%87%8C%E6%99%A8%E5%B0%86%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,11 +30,11 @@
 > 哔哩哔哩  
 
 1. [跟着总书记学历史](https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AD%A6%E5%8E%86%E5%8F%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [老人去世前突然清醒嘱咐儿子捐遗体](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%89%8D%E7%AA%81%E7%84%B6%E6%B8%85%E9%86%92%E5%98%B1%E5%92%90%E5%84%BF%E5%AD%90%E6%8D%90%E9%81%97%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [律师要求查房人员出示证件被铐走](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A6%81%E6%B1%82%E6%9F%A5%E6%88%BF%E4%BA%BA%E5%91%98%E5%87%BA%E7%A4%BA%E8%AF%81%E4%BB%B6%E8%A2%AB%E9%93%90%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [12306回应两乘客买到同日同座票](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E4%B8%A4%E4%B9%98%E5%AE%A2%E4%B9%B0%E5%88%B0%E5%90%8C%E6%97%A5%E5%90%8C%E5%BA%A7%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [舌尖上的年味](https://www.baidu.com/s?wd=%E8%88%8C%E5%B0%96%E4%B8%8A%E7%9A%84%E5%B9%B4%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [江歌母亲：刘鑫再审申请被法院驳回](https://www.baidu.com/s?wd=%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%EF%BC%9A%E5%88%98%E9%91%AB%E5%86%8D%E5%AE%A1%E7%94%B3%E8%AF%B7%E8%A2%AB%E6%B3%95%E9%99%A2%E9%A9%B3%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [律师要求查房人员出示证件被铐走](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A6%81%E6%B1%82%E6%9F%A5%E6%88%BF%E4%BA%BA%E5%91%98%E5%87%BA%E7%A4%BA%E8%AF%81%E4%BB%B6%E8%A2%AB%E9%93%90%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [妇联回应男子酒后拿刀背砍妻子](https://www.baidu.com/s?wd=%E5%A6%87%E8%81%94%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E6%8B%BF%E5%88%80%E8%83%8C%E7%A0%8D%E5%A6%BB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被奔驰男砸车女子回应三大质疑](https://www.baidu.com/s?wd=%E8%A2%AB%E5%A5%94%E9%A9%B0%E7%94%B7%E7%A0%B8%E8%BD%A6%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E4%B8%89%E5%A4%A7%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [黄毅清造谣马苏卖淫被判14个月](https://www.baidu.com/s?wd=%E9%BB%84%E6%AF%85%E6%B8%85%E9%80%A0%E8%B0%A3%E9%A9%AC%E8%8B%8F%E5%8D%96%E6%B7%AB%E8%A2%AB%E5%88%A414%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川警方辟谣“凌晨将发生地震”](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%87%8C%E6%99%A8%E5%B0%86%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
