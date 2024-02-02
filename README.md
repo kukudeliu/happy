@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 09:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 09:40:01</h4></div>
 
 > 微博  
 
 1. [补水 智商税](https://s.weibo.com/weibo?q=%E8%A1%A5%E6%B0%B4%20%E6%99%BA%E5%95%86%E7%A8%8E&t=31&band_rank=1&Refer=top)<br />
 2. [胖东来一件羽绒服仅赚3毛钱](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%80%E4%BB%B6%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BB%85%E8%B5%9A3%E6%AF%9B%E9%92%B1%23&t=31&band_rank=2&Refer=top)<br />
 3. [在中国这样玩](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BF%99%E6%A0%B7%E7%8E%A9%23&t=31&band_rank=3&Refer=top)<br />
-4. [美方承认几十年来改变中国的努力都没有成功](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E6%89%BF%E8%AE%A4%E5%87%A0%E5%8D%81%E5%B9%B4%E6%9D%A5%E6%94%B9%E5%8F%98%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8A%AA%E5%8A%9B%E9%83%BD%E6%B2%A1%E6%9C%89%E6%88%90%E5%8A%9F%23&t=31&band_rank=4&Refer=top)<br />
-5. [女子直播被指虐猫后直接放嘴里咬](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%9B%B4%E6%92%AD%E8%A2%AB%E6%8C%87%E8%99%90%E7%8C%AB%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%94%BE%E5%98%B4%E9%87%8C%E5%92%AC%23&t=31&band_rank=5&Refer=top)<br />
+4. [女子直播被指虐猫后直接放嘴里咬](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%9B%B4%E6%92%AD%E8%A2%AB%E6%8C%87%E8%99%90%E7%8C%AB%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%94%BE%E5%98%B4%E9%87%8C%E5%92%AC%23&t=31&band_rank=4&Refer=top)<br />
+5. [美方承认几十年来改变中国的努力都没有成功](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E6%89%BF%E8%AE%A4%E5%87%A0%E5%8D%81%E5%B9%B4%E6%9D%A5%E6%94%B9%E5%8F%98%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8A%AA%E5%8A%9B%E9%83%BD%E6%B2%A1%E6%9C%89%E6%88%90%E5%8A%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [跳跳俏俏六岁了](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E8%B7%B3%E4%BF%8F%E4%BF%8F%E5%85%AD%E5%B2%81%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [四省有大到暴雪](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E7%9C%81%E6%9C%89%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨波](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2&t=31&band_rank=8&Refer=top)<br />
