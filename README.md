@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 07:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 07:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老人去世前3小时突然清醒遗愿令人泪崩](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%89%8D3%E5%B0%8F%E6%97%B6%E7%AA%81%E7%84%B6%E6%B8%85%E9%86%92%E9%81%97%E6%84%BF%E4%BB%A4%E4%BA%BA%E6%B3%AA%E5%B4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [娃娃机里的玩偶为啥不能放床头](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%A8%83%E6%9C%BA%E9%87%8C%E7%9A%84%E7%8E%A9%E5%81%B6%E4%B8%BA%E5%95%A5%E4%B8%8D%E8%83%BD%E6%94%BE%E5%BA%8A%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [1岁外孙来家外公急忙砍竹子做围墙](https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%A4%96%E5%AD%99%E6%9D%A5%E5%AE%B6%E5%A4%96%E5%85%AC%E6%80%A5%E5%BF%99%E7%A0%8D%E7%AB%B9%E5%AD%90%E5%81%9A%E5%9B%B4%E5%A2%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [12306回应无座票去一等座](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E5%8E%BB%E4%B8%80%E7%AD%89%E5%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [南方小年](https://s.weibo.com/weibo?q=%E5%8D%97%E6%96%B9%E5%B0%8F%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
