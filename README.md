@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 00:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 00:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老人去世前3小时突然清醒遗愿令人泪崩](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%89%8D3%E5%B0%8F%E6%97%B6%E7%AA%81%E7%84%B6%E6%B8%85%E9%86%92%E9%81%97%E6%84%BF%E4%BB%A4%E4%BA%BA%E6%B3%AA%E5%B4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨波 大学当了四年海王](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%20%E5%A4%A7%E5%AD%A6%E5%BD%93%E4%BA%86%E5%9B%9B%E5%B9%B4%E6%B5%B7%E7%8E%8B&t=31&band_rank=7&Refer=top)<br />
 8. [琳琳土豆](https://s.weibo.com/weibo?q=%E7%90%B3%E7%90%B3%E5%9C%9F%E8%B1%86&t=31&band_rank=8&Refer=top)<br />
-9. [刘国梁要求国乒自觉抵制饭圈文化](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E8%A6%81%E6%B1%82%E5%9B%BD%E4%B9%92%E8%87%AA%E8%A7%89%E6%8A%B5%E5%88%B6%E9%A5%AD%E5%9C%88%E6%96%87%E5%8C%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [文科生就业现状](https://s.weibo.com/weibo?q=%E6%96%87%E7%A7%91%E7%94%9F%E5%B0%B1%E4%B8%9A%E7%8E%B0%E7%8A%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
