@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 20:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 20:55:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [“一元一串的钵钵鸡”火到台湾](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E5%85%83%E4%B8%80%E4%B8%B2%E7%9A%84%E9%92%B5%E9%92%B5%E9%B8%A1%E2%80%9D%E7%81%AB%E5%88%B0%E5%8F%B0%E6%B9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [鱿鱼游戏爷爷因强制猥亵被判刑](https://www.baidu.com/s?wd=%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F%E7%88%B7%E7%88%B7%E5%9B%A0%E5%BC%BA%E5%88%B6%E7%8C%A5%E4%BA%B5%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [茅台原董事长高卫东贪1.1亿被判无期](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E9%AB%98%E5%8D%AB%E4%B8%9C%E8%B4%AA1.1%E4%BA%BF%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [西安交警辟谣“高速60辆车碰撞”](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E2%80%9C%E9%AB%98%E9%80%9F60%E8%BE%86%E8%BD%A6%E7%A2%B0%E6%92%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [四川警方辟谣“凌晨将发生地震”](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%87%8C%E6%99%A8%E5%B0%86%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [“一元一串的钵钵鸡”火到台湾](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E5%85%83%E4%B8%80%E4%B8%B2%E7%9A%84%E9%92%B5%E9%92%B5%E9%B8%A1%E2%80%9D%E7%81%AB%E5%88%B0%E5%8F%B0%E6%B9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [鱿鱼游戏爷爷因强制猥亵被判刑](https://www.baidu.com/s?wd=%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F%E7%88%B7%E7%88%B7%E5%9B%A0%E5%BC%BA%E5%88%B6%E7%8C%A5%E4%BA%B5%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [茅台原董事长高卫东贪1.1亿被判无期](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E9%AB%98%E5%8D%AB%E4%B8%9C%E8%B4%AA1.1%E4%BA%BF%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [西安交警辟谣“高速60辆车碰撞”](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E2%80%9C%E9%AB%98%E9%80%9F60%E8%BE%86%E8%BD%A6%E7%A2%B0%E6%92%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [四川警方辟谣“凌晨将发生地震”](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%87%8C%E6%99%A8%E5%B0%86%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
