@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 14:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 14:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [咳嗽时把痰咽下去伤身体吗](https://s.weibo.com/weibo?q=%E5%92%B3%E5%97%BD%E6%97%B6%E6%8A%8A%E7%97%B0%E5%92%BD%E4%B8%8B%E5%8E%BB%E4%BC%A4%E8%BA%AB%E4%BD%93%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [追到美国让郑爽还钱](https://s.weibo.com/weibo?q=%23%E8%BF%BD%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%AE%A9%E9%83%91%E7%88%BD%E8%BF%98%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴英文聊天](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8B%B1%E6%96%87%E8%81%8A%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [聊天记录占超75%微信内存](https://s.weibo.com/weibo?q=%23%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E5%8D%A0%E8%B6%8575%25%E5%BE%AE%E4%BF%A1%E5%86%85%E5%AD%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [股市](https://s.weibo.com/weibo?q=%E8%82%A1%E5%B8%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
