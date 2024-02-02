@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 23:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 23:47:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [杨波曝光女粉丝姓名学校涉嫌侵权](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B3%A2%E6%9B%9D%E5%85%89%E5%A5%B3%E7%B2%89%E4%B8%9D%E5%A7%93%E5%90%8D%E5%AD%A6%E6%A0%A1%E6%B6%89%E5%AB%8C%E4%BE%B5%E6%9D%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [周扬青香港探班阿娇vlog](https://s.weibo.com/weibo?q=%E5%91%A8%E6%89%AC%E9%9D%92%E9%A6%99%E6%B8%AF%E6%8E%A2%E7%8F%AD%E9%98%BF%E5%A8%87vlog&t=31&band_rank=5&Refer=top)<br />
 6. [老人去世前3小时突然清醒遗愿令人泪崩](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%89%8D3%E5%B0%8F%E6%97%B6%E7%AA%81%E7%84%B6%E6%B8%85%E9%86%92%E9%81%97%E6%84%BF%E4%BB%A4%E4%BA%BA%E6%B3%AA%E5%B4%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [文科生就业现状](https://s.weibo.com/weibo?q=%E6%96%87%E7%A7%91%E7%94%9F%E5%B0%B1%E4%B8%9A%E7%8E%B0%E7%8A%B6&t=31&band_rank=7&Refer=top)<br />
-8. [杨波 大学当了四年海王](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%20%E5%A4%A7%E5%AD%A6%E5%BD%93%E4%BA%86%E5%9B%9B%E5%B9%B4%E6%B5%B7%E7%8E%8B&t=31&band_rank=8&Refer=top)<br />
+7. [杨波 大学当了四年海王](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%20%E5%A4%A7%E5%AD%A6%E5%BD%93%E4%BA%86%E5%9B%9B%E5%B9%B4%E6%B5%B7%E7%8E%8B&t=31&band_rank=7&Refer=top)<br />
+8. [文科生就业现状](https://s.weibo.com/weibo?q=%E6%96%87%E7%A7%91%E7%94%9F%E5%B0%B1%E4%B8%9A%E7%8E%B0%E7%8A%B6&t=31&band_rank=8&Refer=top)<br />
 9. [枭起青壤](https://s.weibo.com/weibo?q=%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
