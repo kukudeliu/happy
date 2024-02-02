@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 11:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 11:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨波回应](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B3%A2%E5%9B%9E%E5%BA%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战背沟好深](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%83%8C%E6%B2%9F%E5%A5%BD%E6%B7%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=8&Refer=top)<br />
-9. [男子杀人逃亡19年得知杀错人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E4%BA%BA%E9%80%83%E4%BA%A119%E5%B9%B4%E5%BE%97%E7%9F%A5%E6%9D%80%E9%94%99%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [美方承认几十年来改变中国的努力都没有成功](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E6%89%BF%E8%AE%A4%E5%87%A0%E5%8D%81%E5%B9%B4%E6%9D%A5%E6%94%B9%E5%8F%98%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8A%AA%E5%8A%9B%E9%83%BD%E6%B2%A1%E6%9C%89%E6%88%90%E5%8A%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
