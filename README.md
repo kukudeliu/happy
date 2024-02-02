@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 06:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 06:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老人去世前3小时突然清醒遗愿令人泪崩](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%89%8D3%E5%B0%8F%E6%97%B6%E7%AA%81%E7%84%B6%E6%B8%85%E9%86%92%E9%81%97%E6%84%BF%E4%BB%A4%E4%BA%BA%E6%B3%AA%E5%B4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [高铁晚点](https://s.weibo.com/weibo?q=%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9&t=31&band_rank=7&Refer=top)<br />
 8. [12306回应无座票去一等座](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E5%8E%BB%E4%B8%80%E7%AD%89%E5%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [李玉玲](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%89%E7%8E%B2&t=31&band_rank=9&Refer=top)<br />
+9. [肖战觉得自己作品还是太少](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E4%BD%9C%E5%93%81%E8%BF%98%E6%98%AF%E5%A4%AA%E5%B0%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
