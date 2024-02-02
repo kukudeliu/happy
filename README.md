@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 10:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 10:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周杰伦杭州抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9D%AD%E5%B7%9E%E6%8A%A2%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
 7. [杨波](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2&t=31&band_rank=7&Refer=top)<br />
 8. [频繁做美甲会导致手变黑](https://s.weibo.com/weibo?q=%E9%A2%91%E7%B9%81%E5%81%9A%E7%BE%8E%E7%94%B2%E4%BC%9A%E5%AF%BC%E8%87%B4%E6%89%8B%E5%8F%98%E9%BB%91&t=31&band_rank=8&Refer=top)<br />
-9. [花少5豆瓣评分破9了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86%E7%A0%B49%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [我的婚礼取消了这七个环节](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%A9%9A%E7%A4%BC%E5%8F%96%E6%B6%88%E4%BA%86%E8%BF%99%E4%B8%83%E4%B8%AA%E7%8E%AF%E8%8A%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
