@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 13:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 13:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [聊天记录占超75%微信内存](https://s.weibo.com/weibo?q=%23%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E5%8D%A0%E8%B6%8575%25%E5%BE%AE%E4%BF%A1%E5%86%85%E5%AD%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [追到美国让郑爽还钱](https://s.weibo.com/weibo?q=%23%E8%BF%BD%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%AE%A9%E9%83%91%E7%88%BD%E8%BF%98%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨波评论区](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B3%A2%E8%AF%84%E8%AE%BA%E5%8C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战不上综艺的原因](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%8D%E4%B8%8A%E7%BB%BC%E8%89%BA%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴英文聊天](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8B%B1%E6%96%87%E8%81%8A%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
