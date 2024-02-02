@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 07:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 07:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [老人去世前3小时突然清醒遗愿令人泪崩](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%89%8D3%E5%B0%8F%E6%97%B6%E7%AA%81%E7%84%B6%E6%B8%85%E9%86%92%E9%81%97%E6%84%BF%E4%BB%A4%E4%BA%BA%E6%B3%AA%E5%B4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [12306回应无座票去一等座](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E5%8E%BB%E4%B8%80%E7%AD%89%E5%BA%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [高铁晚点](https://s.weibo.com/weibo?q=%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭开了咖啡店](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%BC%80%E4%BA%86%E5%92%96%E5%95%A1%E5%BA%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [小金豆两个月在尔滨购房共4650套](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%87%91%E8%B1%86%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%9C%A8%E5%B0%94%E6%BB%A8%E8%B4%AD%E6%88%BF%E5%85%B14650%E5%A5%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
