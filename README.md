@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 11:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 11:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子杀人逃亡19年得知杀错人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E4%BA%BA%E9%80%83%E4%BA%A119%E5%B9%B4%E5%BE%97%E7%9F%A5%E6%9D%80%E9%94%99%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [铁路回应为何12306售罄携程有票](https://s.weibo.com/weibo?q=%23%E9%93%81%E8%B7%AF%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%9512306%E5%94%AE%E7%BD%84%E6%90%BA%E7%A8%8B%E6%9C%89%E7%A5%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [补水 智商税](https://s.weibo.com/weibo?q=%E8%A1%A5%E6%B0%B4%20%E6%99%BA%E5%95%86%E7%A8%8E&t=31&band_rank=8&Refer=top)<br />
-9. [周杰伦杭州抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9D%AD%E5%B7%9E%E6%8A%A2%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
+9. [肖战背沟好深](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%83%8C%E6%B2%9F%E5%A5%BD%E6%B7%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
