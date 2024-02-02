@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 03:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 03:37:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨波 大学当了四年海王](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%20%E5%A4%A7%E5%AD%A6%E5%BD%93%E4%BA%86%E5%9B%9B%E5%B9%B4%E6%B5%B7%E7%8E%8B&t=31&band_rank=5&Refer=top)<br />
 6. [老人去世前3小时突然清醒遗愿令人泪崩](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%89%8D3%E5%B0%8F%E6%97%B6%E7%AA%81%E7%84%B6%E6%B8%85%E9%86%92%E9%81%97%E6%84%BF%E4%BB%A4%E4%BA%BA%E6%B3%AA%E5%B4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [kpop审美](https://s.weibo.com/weibo?q=kpop%E5%AE%A1%E7%BE%8E&t=31&band_rank=7&Refer=top)<br />
-8. [12306回应无座票去一等座](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E5%8E%BB%E4%B8%80%E7%AD%89%E5%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [高铁晚点](https://s.weibo.com/weibo?q=%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9&t=31&band_rank=9&Refer=top)<br />
+8. [高铁晚点](https://s.weibo.com/weibo?q=%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9&t=31&band_rank=8&Refer=top)<br />
+9. [12306回应无座票去一等座](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E5%8E%BB%E4%B8%80%E7%AD%89%E5%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
