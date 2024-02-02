@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 19:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 19:20:01</h4></div>
 
 > 微博  
 
-1. [叶府婚宴](https://s.weibo.com/weibo?q=%E5%8F%B6%E5%BA%9C%E5%A9%9A%E5%AE%B4&t=31&band_rank=1&Refer=top)<br />
+1. [死亡万花筒真的来了](https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%A1%E4%B8%87%E8%8A%B1%E7%AD%92%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [老人去世前3小时突然清醒遗愿令人泪崩](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%89%8D3%E5%B0%8F%E6%97%B6%E7%AA%81%E7%84%B6%E6%B8%85%E9%86%92%E9%81%97%E6%84%BF%E4%BB%A4%E4%BA%BA%E6%B3%AA%E5%B4%A9%23&t=31&band_rank=2&Refer=top)<br />
 3. [6组数据领略湿地之美](https://s.weibo.com/weibo?q=%236%E7%BB%84%E6%95%B0%E6%8D%AE%E9%A2%86%E7%95%A5%E6%B9%BF%E5%9C%B0%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
-4. [死亡万花筒真的来了](https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%A1%E4%B8%87%E8%8A%B1%E7%AD%92%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+4. [叶府婚宴](https://s.weibo.com/weibo?q=%E5%8F%B6%E5%BA%9C%E5%A9%9A%E5%AE%B4&t=31&band_rank=4&Refer=top)<br />
 5. [排队5个小时都要带走的广式年货](https://s.weibo.com/weibo?q=%23%E6%8E%92%E9%98%9F5%E4%B8%AA%E5%B0%8F%E6%97%B6%E9%83%BD%E8%A6%81%E5%B8%A6%E8%B5%B0%E7%9A%84%E5%B9%BF%E5%BC%8F%E5%B9%B4%E8%B4%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [皓衣行](https://s.weibo.com/weibo?q=%E7%9A%93%E8%A1%A3%E8%A1%8C&t=31&band_rank=6&Refer=top)<br />
 7. [被妈妈一句回来就是最好的礼物破防了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A6%88%E5%A6%88%E4%B8%80%E5%8F%A5%E5%9B%9E%E6%9D%A5%E5%B0%B1%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A4%BC%E7%89%A9%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
