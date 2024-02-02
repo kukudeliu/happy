@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 13:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 13:04:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [线下热热闹闹 线上年味浓浓](https://www.baidu.com/s?wd=%E7%BA%BF%E4%B8%8B%E7%83%AD%E7%83%AD%E9%97%B9%E9%97%B9+%E7%BA%BF%E4%B8%8A%E5%B9%B4%E5%91%B3%E6%B5%93%E6%B5%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [春运第一周 直击各地返乡](https://www.baidu.com/s?wd=%E6%98%A5%E8%BF%90%E7%AC%AC%E4%B8%80%E5%91%A8+%E7%9B%B4%E5%87%BB%E5%90%84%E5%9C%B0%E8%BF%94%E4%B9%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一只鸽子在印度被当成中国间谍](https://www.baidu.com/s?wd=%E4%B8%80%E5%8F%AA%E9%B8%BD%E5%AD%90%E5%9C%A8%E5%8D%B0%E5%BA%A6%E8%A2%AB%E5%BD%93%E6%88%90%E4%B8%AD%E5%9B%BD%E9%97%B4%E8%B0%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [微信新安装包突破700MB](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%AE%89%E8%A3%85%E5%8C%85%E7%AA%81%E7%A0%B4700MB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [15年来最高级别冰冻预警](https://www.baidu.com/s?wd=15%E5%B9%B4%E6%9D%A5%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E5%86%B0%E5%86%BB%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [搜索集能量得66元神龙红包](https://www.baidu.com/s?wd=%E6%90%9C%E7%B4%A2%E9%9B%86%E8%83%BD%E9%87%8F%E5%BE%9766%E5%85%83%E7%A5%9E%E9%BE%99%E7%BA%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [2024年1月“科学”流言榜发布](https://www.baidu.com/s?wd=2024%E5%B9%B41%E6%9C%88%E2%80%9C%E7%A7%91%E5%AD%A6%E2%80%9D%E6%B5%81%E8%A8%80%E6%A6%9C%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [线下热热闹闹 线上年味浓浓](https://www.baidu.com/s?wd=%E7%BA%BF%E4%B8%8B%E7%83%AD%E7%83%AD%E9%97%B9%E9%97%B9+%E7%BA%BF%E4%B8%8A%E5%B9%B4%E5%91%B3%E6%B5%93%E6%B5%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [春运第一周 直击各地返乡](https://www.baidu.com/s?wd=%E6%98%A5%E8%BF%90%E7%AC%AC%E4%B8%80%E5%91%A8+%E7%9B%B4%E5%87%BB%E5%90%84%E5%9C%B0%E8%BF%94%E4%B9%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一只鸽子在印度被当成中国间谍](https://www.baidu.com/s?wd=%E4%B8%80%E5%8F%AA%E9%B8%BD%E5%AD%90%E5%9C%A8%E5%8D%B0%E5%BA%A6%E8%A2%AB%E5%BD%93%E6%88%90%E4%B8%AD%E5%9B%BD%E9%97%B4%E8%B0%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [微信新安装包突破700MB](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%AE%89%E8%A3%85%E5%8C%85%E7%AA%81%E7%A0%B4700MB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [15年来最高级别冰冻预警](https://www.baidu.com/s?wd=15%E5%B9%B4%E6%9D%A5%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E5%86%B0%E5%86%BB%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [搜索集能量得66元神龙红包](https://www.baidu.com/s?wd=%E6%90%9C%E7%B4%A2%E9%9B%86%E8%83%BD%E9%87%8F%E5%BE%9766%E5%85%83%E7%A5%9E%E9%BE%99%E7%BA%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [2024年1月“科学”流言榜发布](https://www.baidu.com/s?wd=2024%E5%B9%B41%E6%9C%88%E2%80%9C%E7%A7%91%E5%AD%A6%E2%80%9D%E6%B5%81%E8%A8%80%E6%A6%9C%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
