@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 08:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 08:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [河南大雪胖东来在门口给顾客身上扫雪](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E9%9B%AA%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9C%A8%E9%97%A8%E5%8F%A3%E7%BB%99%E9%A1%BE%E5%AE%A2%E8%BA%AB%E4%B8%8A%E6%89%AB%E9%9B%AA%23&t=31&band_rank=6&Refer=top)<br />
 7. [高铁算是把用户需求整明白了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AE%97%E6%98%AF%E6%8A%8A%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82%E6%95%B4%E6%98%8E%E7%99%BD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [生肖属龙或姓龙游客可免费游龙游](https://s.weibo.com/weibo?q=%23%E7%94%9F%E8%82%96%E5%B1%9E%E9%BE%99%E6%88%96%E5%A7%93%E9%BE%99%E6%B8%B8%E5%AE%A2%E5%8F%AF%E5%85%8D%E8%B4%B9%E6%B8%B8%E9%BE%99%E6%B8%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [鲁AK66M7](https://s.weibo.com/weibo?q=%23%E9%B2%81AK66M7%23&t=31&band_rank=9&Refer=top)<br />
+9. [你愿意把五天工时浓缩成四天吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%84%BF%E6%84%8F%E6%8A%8A%E4%BA%94%E5%A4%A9%E5%B7%A5%E6%97%B6%E6%B5%93%E7%BC%A9%E6%88%90%E5%9B%9B%E5%A4%A9%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
