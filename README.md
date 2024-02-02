@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 08:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 08:18:02</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [北方和南方小年差一天](https://www.baidu.com/s?wd=%E5%8C%97%E6%96%B9%E5%92%8C%E5%8D%97%E6%96%B9%E5%B0%8F%E5%B9%B4%E5%B7%AE%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亿缕阳光｜非遗“出海”](https://www.baidu.com/s?wd=%E4%BA%BF%E7%BC%95%E9%98%B3%E5%85%89%EF%BD%9C%E9%9D%9E%E9%81%97%E2%80%9C%E5%87%BA%E6%B5%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [两广地区家里水帘洞户外南天门](https://www.baidu.com/s?wd=%E4%B8%A4%E5%B9%BF%E5%9C%B0%E5%8C%BA%E5%AE%B6%E9%87%8C%E6%B0%B4%E5%B8%98%E6%B4%9E%E6%88%B7%E5%A4%96%E5%8D%97%E5%A4%A9%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [15年来最高级别冰冻预警](https://www.baidu.com/s?wd=15%E5%B9%B4%E6%9D%A5%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E5%86%B0%E5%86%BB%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [河南暴雪有人在高速堵车超10公里](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%AA%E6%9C%89%E4%BA%BA%E5%9C%A8%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%E8%B6%8510%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [14岁女儿将爸爸出轨录音拷贝给妈妈](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B0%86%E7%88%B8%E7%88%B8%E5%87%BA%E8%BD%A8%E5%BD%95%E9%9F%B3%E6%8B%B7%E8%B4%9D%E7%BB%99%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [15年来最高级别冰冻预警](https://www.baidu.com/s?wd=15%E5%B9%B4%E6%9D%A5%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E5%86%B0%E5%86%BB%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小年的必备仪式感有哪些？](https://www.baidu.com/s?wd=%E5%B0%8F%E5%B9%B4%E7%9A%84%E5%BF%85%E5%A4%87%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春节期间快递公司都将停运？](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8%E9%83%BD%E5%B0%86%E5%81%9C%E8%BF%90%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [北方和南方小年差一天](https://www.baidu.com/s?wd=%E5%8C%97%E6%96%B9%E5%92%8C%E5%8D%97%E6%96%B9%E5%B0%8F%E5%B9%B4%E5%B7%AE%E4%B8%80%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [亿缕阳光｜非遗“出海”](https://www.baidu.com/s?wd=%E4%BA%BF%E7%BC%95%E9%98%B3%E5%85%89%EF%BD%9C%E9%9D%9E%E9%81%97%E2%80%9C%E5%87%BA%E6%B5%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [两广地区家里水帘洞户外南天门](https://www.baidu.com/s?wd=%E4%B8%A4%E5%B9%BF%E5%9C%B0%E5%8C%BA%E5%AE%B6%E9%87%8C%E6%B0%B4%E5%B8%98%E6%B4%9E%E6%88%B7%E5%A4%96%E5%8D%97%E5%A4%A9%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [15年来最高级别冰冻预警](https://www.baidu.com/s?wd=15%E5%B9%B4%E6%9D%A5%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E5%86%B0%E5%86%BB%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [河南暴雪有人在高速堵车超10公里](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%AA%E6%9C%89%E4%BA%BA%E5%9C%A8%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%E8%B6%8510%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [14岁女儿将爸爸出轨录音拷贝给妈妈](https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B0%86%E7%88%B8%E7%88%B8%E5%87%BA%E8%BD%A8%E5%BD%95%E9%9F%B3%E6%8B%B7%E8%B4%9D%E7%BB%99%E5%A6%88%E5%A6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [15年来最高级别冰冻预警](https://www.baidu.com/s?wd=15%E5%B9%B4%E6%9D%A5%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E5%86%B0%E5%86%BB%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小年的必备仪式感有哪些？](https://www.baidu.com/s?wd=%E5%B0%8F%E5%B9%B4%E7%9A%84%E5%BF%85%E5%A4%87%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春节期间快递公司都将停运？](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8%E9%83%BD%E5%B0%86%E5%81%9C%E8%BF%90%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
