@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 17:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 17:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [年终奖](https://s.weibo.com/weibo?q=%E5%B9%B4%E7%BB%88%E5%A5%96&t=31&band_rank=6&Refer=top)<br />
 7. [肖战想挤地铁逛商场](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%83%B3%E6%8C%A4%E5%9C%B0%E9%93%81%E9%80%9B%E5%95%86%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [中山二院为何迟迟不公布调查结果](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E4%B8%BA%E4%BD%95%E8%BF%9F%E8%BF%9F%E4%B8%8D%E5%85%AC%E5%B8%83%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [咳嗽时把痰咽下去伤身体吗](https://s.weibo.com/weibo?q=%E5%92%B3%E5%97%BD%E6%97%B6%E6%8A%8A%E7%97%B0%E5%92%BD%E4%B8%8B%E5%8E%BB%E4%BC%A4%E8%BA%AB%E4%BD%93%E5%90%97&t=31&band_rank=9&Refer=top)<br />
+9. [外交部感谢CIA局长提醒](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%84%9F%E8%B0%A2CIA%E5%B1%80%E9%95%BF%E6%8F%90%E9%86%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
