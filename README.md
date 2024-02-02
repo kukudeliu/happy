@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 06:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 06:50:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [俞敏洪董宇辉张艺谋同框直播](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E8%91%A3%E5%AE%87%E8%BE%89%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%90%8C%E6%A1%86%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [消防员偷戴女友戒指被卡](https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E5%91%98%E5%81%B7%E6%88%B4%E5%A5%B3%E5%8F%8B%E6%88%92%E6%8C%87%E8%A2%AB%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奔驰女方晒视频：奇瑞司机不是老太](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%A5%B3%E6%96%B9%E6%99%92%E8%A7%86%E9%A2%91%EF%BC%9A%E5%A5%87%E7%91%9E%E5%8F%B8%E6%9C%BA%E4%B8%8D%E6%98%AF%E8%80%81%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黄毅清造谣马苏卖淫被判14个月](https://www.baidu.com/s?wd=%E9%BB%84%E6%AF%85%E6%B8%85%E9%80%A0%E8%B0%A3%E9%A9%AC%E8%8B%8F%E5%8D%96%E6%B7%AB%E8%A2%AB%E5%88%A414%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子遭“情敌”挑衅跳楼身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E2%80%9C%E6%83%85%E6%95%8C%E2%80%9D%E6%8C%91%E8%A1%85%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川警方辟谣“凌晨将发生地震”](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%87%8C%E6%99%A8%E5%B0%86%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [俞敏洪董宇辉张艺谋同框直播](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E8%91%A3%E5%AE%87%E8%BE%89%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%90%8C%E6%A1%86%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [消防员偷戴女友戒指被卡](https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E5%91%98%E5%81%B7%E6%88%B4%E5%A5%B3%E5%8F%8B%E6%88%92%E6%8C%87%E8%A2%AB%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [奔驰女方晒视频：奇瑞司机不是老太](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%A5%B3%E6%96%B9%E6%99%92%E8%A7%86%E9%A2%91%EF%BC%9A%E5%A5%87%E7%91%9E%E5%8F%B8%E6%9C%BA%E4%B8%8D%E6%98%AF%E8%80%81%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [黄毅清造谣马苏卖淫被判14个月](https://www.baidu.com/s?wd=%E9%BB%84%E6%AF%85%E6%B8%85%E9%80%A0%E8%B0%A3%E9%A9%AC%E8%8B%8F%E5%8D%96%E6%B7%AB%E8%A2%AB%E5%88%A414%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子遭“情敌”挑衅跳楼身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E2%80%9C%E6%83%85%E6%95%8C%E2%80%9D%E6%8C%91%E8%A1%85%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川警方辟谣“凌晨将发生地震”](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%87%8C%E6%99%A8%E5%B0%86%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
