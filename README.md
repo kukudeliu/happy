@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 10:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 10:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨波](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2&t=31&band_rank=6&Refer=top)<br />
 7. [杨波回应](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%E5%9B%9E%E5%BA%94&t=31&band_rank=7&Refer=top)<br />
 8. [频繁做美甲会导致手变黑](https://s.weibo.com/weibo?q=%E9%A2%91%E7%B9%81%E5%81%9A%E7%BE%8E%E7%94%B2%E4%BC%9A%E5%AF%BC%E8%87%B4%E6%89%8B%E5%8F%98%E9%BB%91&t=31&band_rank=8&Refer=top)<br />
-9. [跳跳俏俏六岁了](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E8%B7%B3%E4%BF%8F%E4%BF%8F%E5%85%AD%E5%B2%81%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [花少5豆瓣评分破9了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86%E7%A0%B49%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
