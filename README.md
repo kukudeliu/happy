@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 01:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 01:08:01</h4></div>
 
 > 微博  
 
-1. [爱奇艺](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA&t=31&band_rank=1&Refer=top)<br />
-2. [12306回应无座票去一等座](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E5%8E%BB%E4%B8%80%E7%AD%89%E5%BA%A7%23&t=31&band_rank=2&Refer=top)<br />
+1. [12306回应无座票去一等座](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E5%8E%BB%E4%B8%80%E7%AD%89%E5%BA%A7%23&t=31&band_rank=1&Refer=top)<br />
+2. [爱奇艺](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA&t=31&band_rank=2&Refer=top)<br />
 3. [2024网络视听盛典阵容官宣](https://s.weibo.com/weibo?q=%232024%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=3&Refer=top)<br />
 4. [娃娃机里的玩偶为啥不能放床头](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%A8%83%E6%9C%BA%E9%87%8C%E7%9A%84%E7%8E%A9%E5%81%B6%E4%B8%BA%E5%95%A5%E4%B8%8D%E8%83%BD%E6%94%BE%E5%BA%8A%E5%A4%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [白敬亭开了咖啡店](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%BC%80%E4%BA%86%E5%92%96%E5%95%A1%E5%BA%97%23&t=31&band_rank=5&Refer=top)<br />
