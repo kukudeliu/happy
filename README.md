@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 22:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 22:57:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [2024网络视听盛典阵容官宣](https://s.weibo.com/weibo?q=%232024%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=3&Refer=top)<br />
 4. [文科生就业现状](https://s.weibo.com/weibo?q=%E6%96%87%E7%A7%91%E7%94%9F%E5%B0%B1%E4%B8%9A%E7%8E%B0%E7%8A%B6&t=31&band_rank=4&Refer=top)<br />
 5. [刘国梁要求国乒自觉抵制饭圈文化](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E8%A6%81%E6%B1%82%E5%9B%BD%E4%B9%92%E8%87%AA%E8%A7%89%E6%8A%B5%E5%88%B6%E9%A5%AD%E5%9C%88%E6%96%87%E5%8C%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [投资人希望郑爽承担千万AI换脸费](https://s.weibo.com/weibo?q=%23%E6%8A%95%E8%B5%84%E4%BA%BA%E5%B8%8C%E6%9C%9B%E9%83%91%E7%88%BD%E6%89%BF%E6%8B%85%E5%8D%83%E4%B8%87AI%E6%8D%A2%E8%84%B8%E8%B4%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [老人去世前3小时突然清醒遗愿令人泪崩](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%89%8D3%E5%B0%8F%E6%97%B6%E7%AA%81%E7%84%B6%E6%B8%85%E9%86%92%E9%81%97%E6%84%BF%E4%BB%A4%E4%BA%BA%E6%B3%AA%E5%B4%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘暖曦再审申请被法院驳回](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9A%96%E6%9B%A6%E5%86%8D%E5%AE%A1%E7%94%B3%E8%AF%B7%E8%A2%AB%E6%B3%95%E9%99%A2%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=8&Refer=top)<br />
-9. [郭麒麟又亲爹了](https://s.weibo.com/weibo?q=%E9%83%AD%E9%BA%92%E9%BA%9F%E5%8F%88%E4%BA%B2%E7%88%B9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+6. [老人去世前3小时突然清醒遗愿令人泪崩](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%89%8D3%E5%B0%8F%E6%97%B6%E7%AA%81%E7%84%B6%E6%B8%85%E9%86%92%E9%81%97%E6%84%BF%E4%BB%A4%E4%BA%BA%E6%B3%AA%E5%B4%A9%23&t=31&band_rank=6&Refer=top)<br />
+7. [刘暖曦再审申请被法院驳回](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9A%96%E6%9B%A6%E5%86%8D%E5%AE%A1%E7%94%B3%E8%AF%B7%E8%A2%AB%E6%B3%95%E9%99%A2%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=7&Refer=top)<br />
+8. [郭麒麟又亲爹了](https://s.weibo.com/weibo?q=%E9%83%AD%E9%BA%92%E9%BA%9F%E5%8F%88%E4%BA%B2%E7%88%B9%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [投资人希望郑爽承担千万AI换脸费](https://s.weibo.com/weibo?q=%23%E6%8A%95%E8%B5%84%E4%BA%BA%E5%B8%8C%E6%9C%9B%E9%83%91%E7%88%BD%E6%89%BF%E6%8B%85%E5%8D%83%E4%B8%87AI%E6%8D%A2%E8%84%B8%E8%B4%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
