@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 21:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 21:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [爱奇艺](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA&t=31&band_rank=4&Refer=top)<br />
 5. [杨波曝光女粉丝姓名学校涉嫌侵权](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B3%A2%E6%9B%9D%E5%85%89%E5%A5%B3%E7%B2%89%E4%B8%9D%E5%A7%93%E5%90%8D%E5%AD%A6%E6%A0%A1%E6%B6%89%E5%AB%8C%E4%BE%B5%E6%9D%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [宋亚轩身体不适](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%23&t=31&band_rank=6&Refer=top)<br />
-7. [宋仲基弹手机vs吴磊抛火机](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%BC%B9%E6%89%8B%E6%9C%BAvs%E5%90%B4%E7%A3%8A%E6%8A%9B%E7%81%AB%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘国梁要求国乒自觉抵制饭圈文化](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E8%A6%81%E6%B1%82%E5%9B%BD%E4%B9%92%E8%87%AA%E8%A7%89%E6%8A%B5%E5%88%B6%E9%A5%AD%E5%9C%88%E6%96%87%E5%8C%96%23&t=31&band_rank=8&Refer=top)<br />
+7. [刘国梁要求国乒自觉抵制饭圈文化](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E8%A6%81%E6%B1%82%E5%9B%BD%E4%B9%92%E8%87%AA%E8%A7%89%E6%8A%B5%E5%88%B6%E9%A5%AD%E5%9C%88%E6%96%87%E5%8C%96%23&t=31&band_rank=7&Refer=top)<br />
+8. [宋仲基弹手机vs吴磊抛火机](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%BC%B9%E6%89%8B%E6%9C%BAvs%E5%90%B4%E7%A3%8A%E6%8A%9B%E7%81%AB%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [被砸车当事人称警方已通报到此为止](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%A0%B8%E8%BD%A6%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E8%AD%A6%E6%96%B9%E5%B7%B2%E9%80%9A%E6%8A%A5%E5%88%B0%E6%AD%A4%E4%B8%BA%E6%AD%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
