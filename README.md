@@ -1,8 +1,8 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 10:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 10:34:01</h4></div>
 
 > 微博  
 
-1. [杨波回应](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%E5%9B%9E%E5%BA%94&t=31&band_rank=1&Refer=top)<br />
+1. [杨波回应](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B3%A2%E5%9B%9E%E5%BA%94%23&t=31&band_rank=1&Refer=top)<br />
 2. [补水 智商税](https://s.weibo.com/weibo?q=%E8%A1%A5%E6%B0%B4%20%E6%99%BA%E5%95%86%E7%A8%8E&t=31&band_rank=2&Refer=top)<br />
 3. [在中国这样玩](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BF%99%E6%A0%B7%E7%8E%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [铁路回应为何12306售罄携程有票](https://s.weibo.com/weibo?q=%23%E9%93%81%E8%B7%AF%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%9512306%E5%94%AE%E7%BD%84%E6%90%BA%E7%A8%8B%E6%9C%89%E7%A5%A8%23&t=31&band_rank=4&Refer=top)<br />
