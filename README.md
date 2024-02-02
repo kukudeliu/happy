@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 03:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 03:40:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [律师要求查房人员出示证件被铐走](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A6%81%E6%B1%82%E6%9F%A5%E6%88%BF%E4%BA%BA%E5%91%98%E5%87%BA%E7%A4%BA%E8%AF%81%E4%BB%B6%E8%A2%AB%E9%93%90%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [舌尖上的年味](https://www.baidu.com/s?wd=%E8%88%8C%E5%B0%96%E4%B8%8A%E7%9A%84%E5%B9%B4%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俞敏洪董宇辉张艺谋同框直播](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E8%91%A3%E5%AE%87%E8%BE%89%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%90%8C%E6%A1%86%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [消防员偷戴女友戒指被卡](https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E5%91%98%E5%81%B7%E6%88%B4%E5%A5%B3%E5%8F%8B%E6%88%92%E6%8C%87%E8%A2%AB%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子遭“情敌”挑衅跳楼身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E2%80%9C%E6%83%85%E6%95%8C%E2%80%9D%E6%8C%91%E8%A1%85%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [两岁男童老家失踪 遗体被发现](https://www.baidu.com/s?wd=%E4%B8%A4%E5%B2%81%E7%94%B7%E7%AB%A5%E8%80%81%E5%AE%B6%E5%A4%B1%E8%B8%AA+%E9%81%97%E4%BD%93%E8%A2%AB%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [敦煌壁画中的雷公鼓被复活了](https://www.baidu.com/s?wd=%E6%95%A6%E7%85%8C%E5%A3%81%E7%94%BB%E4%B8%AD%E7%9A%84%E9%9B%B7%E5%85%AC%E9%BC%93%E8%A2%AB%E5%A4%8D%E6%B4%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [消防员偷戴女友戒指被卡](https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E5%91%98%E5%81%B7%E6%88%B4%E5%A5%B3%E5%8F%8B%E6%88%92%E6%8C%87%E8%A2%AB%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子遭“情敌”挑衅跳楼身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E2%80%9C%E6%83%85%E6%95%8C%E2%80%9D%E6%8C%91%E8%A1%85%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川警方辟谣“凌晨将发生地震”](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%87%8C%E6%99%A8%E5%B0%86%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [律师要求查房人员出示证件被铐走](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A6%81%E6%B1%82%E6%9F%A5%E6%88%BF%E4%BA%BA%E5%91%98%E5%87%BA%E7%A4%BA%E8%AF%81%E4%BB%B6%E8%A2%AB%E9%93%90%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [舌尖上的年味](https://www.baidu.com/s?wd=%E8%88%8C%E5%B0%96%E4%B8%8A%E7%9A%84%E5%B9%B4%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俞敏洪董宇辉张艺谋同框直播](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E8%91%A3%E5%AE%87%E8%BE%89%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%90%8C%E6%A1%86%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [消防员偷戴女友戒指被卡](https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E5%91%98%E5%81%B7%E6%88%B4%E5%A5%B3%E5%8F%8B%E6%88%92%E6%8C%87%E8%A2%AB%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子遭“情敌”挑衅跳楼身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E2%80%9C%E6%83%85%E6%95%8C%E2%80%9D%E6%8C%91%E8%A1%85%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [两岁男童老家失踪 遗体被发现](https://www.baidu.com/s?wd=%E4%B8%A4%E5%B2%81%E7%94%B7%E7%AB%A5%E8%80%81%E5%AE%B6%E5%A4%B1%E8%B8%AA+%E9%81%97%E4%BD%93%E8%A2%AB%E5%8F%91%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [敦煌壁画中的雷公鼓被复活了](https://www.baidu.com/s?wd=%E6%95%A6%E7%85%8C%E5%A3%81%E7%94%BB%E4%B8%AD%E7%9A%84%E9%9B%B7%E5%85%AC%E9%BC%93%E8%A2%AB%E5%A4%8D%E6%B4%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [消防员偷戴女友戒指被卡](https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E5%91%98%E5%81%B7%E6%88%B4%E5%A5%B3%E5%8F%8B%E6%88%92%E6%8C%87%E8%A2%AB%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子遭“情敌”挑衅跳楼身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E2%80%9C%E6%83%85%E6%95%8C%E2%80%9D%E6%8C%91%E8%A1%85%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川警方辟谣“凌晨将发生地震”](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%87%8C%E6%99%A8%E5%B0%86%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
