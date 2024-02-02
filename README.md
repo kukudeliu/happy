@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 12:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 12:28:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [我的婚礼取消了这七个环节](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%A9%9A%E7%A4%BC%E5%8F%96%E6%B6%88%E4%BA%86%E8%BF%99%E4%B8%83%E4%B8%AA%E7%8E%AF%E8%8A%82%23&t=31&band_rank=2&Refer=top)<br />
 3. [赶大集是中国人独有热闹](https://s.weibo.com/weibo?q=%23%E8%B5%B6%E5%A4%A7%E9%9B%86%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%8B%AC%E6%9C%89%E7%83%AD%E9%97%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [微信体积再变大](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E4%BD%93%E7%A7%AF%E5%86%8D%E5%8F%98%E5%A4%A7%23&t=31&band_rank=4&Refer=top)<br />
-5. [频繁做美甲会导致手变黑](https://s.weibo.com/weibo?q=%E9%A2%91%E7%B9%81%E5%81%9A%E7%BE%8E%E7%94%B2%E4%BC%9A%E5%AF%BC%E8%87%B4%E6%89%8B%E5%8F%98%E9%BB%91&t=31&band_rank=5&Refer=top)<br />
+5. [韩如雪](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%A6%82%E9%9B%AA&t=31&band_rank=5&Refer=top)<br />
 6. [杨波回应](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B3%A2%E5%9B%9E%E5%BA%94%23&t=31&band_rank=6&Refer=top)<br />
-7. [韩如雪](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%A6%82%E9%9B%AA&t=31&band_rank=7&Refer=top)<br />
-8. [厦门大学](https://s.weibo.com/weibo?q=%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6&t=31&band_rank=8&Refer=top)<br />
+7. [厦门大学](https://s.weibo.com/weibo?q=%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6&t=31&band_rank=7&Refer=top)<br />
+8. [频繁做美甲会导致手变黑](https://s.weibo.com/weibo?q=%E9%A2%91%E7%B9%81%E5%81%9A%E7%BE%8E%E7%94%B2%E4%BC%9A%E5%AF%BC%E8%87%B4%E6%89%8B%E5%8F%98%E9%BB%91&t=31&band_rank=8&Refer=top)<br />
 9. [肖战背沟好深](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%83%8C%E6%B2%9F%E5%A5%BD%E6%B7%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
