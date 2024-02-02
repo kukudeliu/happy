@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 20:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 20:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [昔日“公募一哥”王亚伟被曝失联](https://www.baidu.com/s?wd=%E6%98%94%E6%97%A5%E2%80%9C%E5%85%AC%E5%8B%9F%E4%B8%80%E5%93%A5%E2%80%9D%E7%8E%8B%E4%BA%9A%E4%BC%9F%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄毅清造谣马苏卖淫被判14个月](https://www.baidu.com/s?wd=%E9%BB%84%E6%AF%85%E6%B8%85%E9%80%A0%E8%B0%A3%E9%A9%AC%E8%8B%8F%E5%8D%96%E6%B7%AB%E8%A2%AB%E5%88%A414%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [总台2024网络春晚](https://www.baidu.com/s?wd=%E6%80%BB%E5%8F%B02024%E7%BD%91%E7%BB%9C%E6%98%A5%E6%99%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高速遇堵车 货车用喇叭喊卖沃柑](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E9%81%87%E5%A0%B5%E8%BD%A6+%E8%B4%A7%E8%BD%A6%E7%94%A8%E5%96%87%E5%8F%AD%E5%96%8A%E5%8D%96%E6%B2%83%E6%9F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家：要把股市赚钱效应放在第一位](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E8%A6%81%E6%8A%8A%E8%82%A1%E5%B8%82%E8%B5%9A%E9%92%B1%E6%95%88%E5%BA%94%E6%94%BE%E5%9C%A8%E7%AC%AC%E4%B8%80%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣“高速60辆车碰撞”](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E2%80%9C%E9%AB%98%E9%80%9F60%E8%BE%86%E8%BD%A6%E7%A2%B0%E6%92%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [昔日“公募一哥”王亚伟被曝失联](https://www.baidu.com/s?wd=%E6%98%94%E6%97%A5%E2%80%9C%E5%85%AC%E5%8B%9F%E4%B8%80%E5%93%A5%E2%80%9D%E7%8E%8B%E4%BA%9A%E4%BC%9F%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄毅清造谣马苏卖淫被判14个月](https://www.baidu.com/s?wd=%E9%BB%84%E6%AF%85%E6%B8%85%E9%80%A0%E8%B0%A3%E9%A9%AC%E8%8B%8F%E5%8D%96%E6%B7%AB%E8%A2%AB%E5%88%A414%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [总台2024网络春晚](https://www.baidu.com/s?wd=%E6%80%BB%E5%8F%B02024%E7%BD%91%E7%BB%9C%E6%98%A5%E6%99%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高速遇堵车 货车用喇叭喊卖沃柑](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E9%81%87%E5%A0%B5%E8%BD%A6+%E8%B4%A7%E8%BD%A6%E7%94%A8%E5%96%87%E5%8F%AD%E5%96%8A%E5%8D%96%E6%B2%83%E6%9F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家：要把股市赚钱效应放在第一位](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E8%A6%81%E6%8A%8A%E8%82%A1%E5%B8%82%E8%B5%9A%E9%92%B1%E6%95%88%E5%BA%94%E6%94%BE%E5%9C%A8%E7%AC%AC%E4%B8%80%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣“高速60辆车碰撞”](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E2%80%9C%E9%AB%98%E9%80%9F60%E8%BE%86%E8%BD%A6%E7%A2%B0%E6%92%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
