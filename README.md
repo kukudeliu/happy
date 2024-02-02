@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 17:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 17:08:01</h4></div>
 
 > 微博  
 
-1. [杨波 大学当了四年海王](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%20%E5%A4%A7%E5%AD%A6%E5%BD%93%E4%BA%86%E5%9B%9B%E5%B9%B4%E6%B5%B7%E7%8E%8B&t=31&band_rank=1&Refer=top)<br />
-2. [疑似奔驰方女乘客角度视频曝光](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E5%A5%94%E9%A9%B0%E6%96%B9%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%A7%92%E5%BA%A6%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top)<br />
+1. [疑似奔驰方女乘客角度视频曝光](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E5%A5%94%E9%A9%B0%E6%96%B9%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%A7%92%E5%BA%A6%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=1&Refer=top)<br />
+2. [杨波 大学当了四年海王](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%20%E5%A4%A7%E5%AD%A6%E5%BD%93%E4%BA%86%E5%9B%9B%E5%B9%B4%E6%B5%B7%E7%8E%8B&t=31&band_rank=2&Refer=top)<br />
 3. [6组数据领略湿地之美](https://s.weibo.com/weibo?q=%236%E7%BB%84%E6%95%B0%E6%8D%AE%E9%A2%86%E7%95%A5%E6%B9%BF%E5%9C%B0%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [郑爽家人曾赔偿二手劳斯莱斯](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%88%BD%E5%AE%B6%E4%BA%BA%E6%9B%BE%E8%B5%94%E5%81%BF%E4%BA%8C%E6%89%8B%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [肖战想挤地铁逛商场](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%83%B3%E6%8C%A4%E5%9C%B0%E9%93%81%E9%80%9B%E5%95%86%E5%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
