@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 05:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 05:18:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [俞敏洪董宇辉张艺谋同框直播](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E8%91%A3%E5%AE%87%E8%BE%89%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%90%8C%E6%A1%86%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄毅清造谣马苏卖淫被判14个月](https://www.baidu.com/s?wd=%E9%BB%84%E6%AF%85%E6%B8%85%E9%80%A0%E8%B0%A3%E9%A9%AC%E8%8B%8F%E5%8D%96%E6%B7%AB%E8%A2%AB%E5%88%A414%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子遭“情敌”挑衅跳楼身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E2%80%9C%E6%83%85%E6%95%8C%E2%80%9D%E6%8C%91%E8%A1%85%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马英九：支持蔡英文登太平岛](https://www.baidu.com/s?wd=%E9%A9%AC%E8%8B%B1%E4%B9%9D%EF%BC%9A%E6%94%AF%E6%8C%81%E8%94%A1%E8%8B%B1%E6%96%87%E7%99%BB%E5%A4%AA%E5%B9%B3%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [12306回应两乘客买到同日同座票](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E4%B8%A4%E4%B9%98%E5%AE%A2%E4%B9%B0%E5%88%B0%E5%90%8C%E6%97%A5%E5%90%8C%E5%BA%A7%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川警方辟谣“凌晨将发生地震”](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%87%8C%E6%99%A8%E5%B0%86%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [俞敏洪董宇辉张艺谋同框直播](https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E8%91%A3%E5%AE%87%E8%BE%89%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%90%8C%E6%A1%86%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄毅清造谣马苏卖淫被判14个月](https://www.baidu.com/s?wd=%E9%BB%84%E6%AF%85%E6%B8%85%E9%80%A0%E8%B0%A3%E9%A9%AC%E8%8B%8F%E5%8D%96%E6%B7%AB%E8%A2%AB%E5%88%A414%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子遭“情敌”挑衅跳楼身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E2%80%9C%E6%83%85%E6%95%8C%E2%80%9D%E6%8C%91%E8%A1%85%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马英九：支持蔡英文登太平岛](https://www.baidu.com/s?wd=%E9%A9%AC%E8%8B%B1%E4%B9%9D%EF%BC%9A%E6%94%AF%E6%8C%81%E8%94%A1%E8%8B%B1%E6%96%87%E7%99%BB%E5%A4%AA%E5%B9%B3%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [12306回应两乘客买到同日同座票](https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E4%B8%A4%E4%B9%98%E5%AE%A2%E4%B9%B0%E5%88%B0%E5%90%8C%E6%97%A5%E5%90%8C%E5%BA%A7%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川警方辟谣“凌晨将发生地震”](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%87%8C%E6%99%A8%E5%B0%86%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
