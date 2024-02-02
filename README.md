@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-02 19:14:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [奔驰女方晒视频：奇瑞司机不是老太](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%A5%B3%E6%96%B9%E6%99%92%E8%A7%86%E9%A2%91%EF%BC%9A%E5%A5%87%E7%91%9E%E5%8F%B8%E6%9C%BA%E4%B8%8D%E6%98%AF%E8%80%81%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄毅清造谣马苏卖淫被判14个月](https://www.baidu.com/s?wd=%E9%BB%84%E6%AF%85%E6%B8%85%E9%80%A0%E8%B0%A3%E9%A9%AC%E8%8B%8F%E5%8D%96%E6%B7%AB%E8%A2%AB%E5%88%A414%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子遭“情敌”挑衅跳楼身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E2%80%9C%E6%83%85%E6%95%8C%E2%80%9D%E6%8C%91%E8%A1%85%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [郑州男子被堵高速饿得前胸贴后背](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A0%B5%E9%AB%98%E9%80%9F%E9%A5%BF%E5%BE%97%E5%89%8D%E8%83%B8%E8%B4%B4%E5%90%8E%E8%83%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝郑爽在美国资产超过2.3亿](https://www.baidu.com/s?wd=%E6%9B%9D%E9%83%91%E7%88%BD%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%B5%84%E4%BA%A7%E8%B6%85%E8%BF%872.3%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣“高速60辆车碰撞”](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E2%80%9C%E9%AB%98%E9%80%9F60%E8%BE%86%E8%BD%A6%E7%A2%B0%E6%92%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [奔驰女方晒视频：奇瑞司机不是老太](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%A5%B3%E6%96%B9%E6%99%92%E8%A7%86%E9%A2%91%EF%BC%9A%E5%A5%87%E7%91%9E%E5%8F%B8%E6%9C%BA%E4%B8%8D%E6%98%AF%E8%80%81%E5%A4%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄毅清造谣马苏卖淫被判14个月](https://www.baidu.com/s?wd=%E9%BB%84%E6%AF%85%E6%B8%85%E9%80%A0%E8%B0%A3%E9%A9%AC%E8%8B%8F%E5%8D%96%E6%B7%AB%E8%A2%AB%E5%88%A414%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子遭“情敌”挑衅跳楼身亡](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%81%AD%E2%80%9C%E6%83%85%E6%95%8C%E2%80%9D%E6%8C%91%E8%A1%85%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [郑州男子被堵高速饿得前胸贴后背](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A0%B5%E9%AB%98%E9%80%9F%E9%A5%BF%E5%BE%97%E5%89%8D%E8%83%B8%E8%B4%B4%E5%90%8E%E8%83%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝郑爽在美国资产超过2.3亿](https://www.baidu.com/s?wd=%E6%9B%9D%E9%83%91%E7%88%BD%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%B5%84%E4%BA%A7%E8%B6%85%E8%BF%872.3%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [西安交警辟谣“高速60辆车碰撞”](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%BA%A4%E8%AD%A6%E8%BE%9F%E8%B0%A3%E2%80%9C%E9%AB%98%E9%80%9F60%E8%BE%86%E8%BD%A6%E7%A2%B0%E6%92%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
