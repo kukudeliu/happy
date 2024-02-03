@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 12:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 12:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蓝亦菲真去世了](https://s.weibo.com/weibo?q=%23%E8%93%9D%E4%BA%A6%E8%8F%B2%E7%9C%9F%E5%8E%BB%E4%B8%96%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [2女孩疑遭人拐卖上高速呼喊求助](https://s.weibo.com/weibo?q=%232%E5%A5%B3%E5%AD%A9%E7%96%91%E9%81%AD%E4%BA%BA%E6%8B%90%E5%8D%96%E4%B8%8A%E9%AB%98%E9%80%9F%E5%91%BC%E5%96%8A%E6%B1%82%E5%8A%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [70岁的姥姥离婚了](https://s.weibo.com/weibo?q=70%E5%B2%81%E7%9A%84%E5%A7%A5%E5%A7%A5%E7%A6%BB%E5%A9%9A%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [王者荣耀皮肤返场](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%9A%AE%E8%82%A4%E8%BF%94%E5%9C%BA&t=31&band_rank=9&Refer=top)<br />
+9. [韩国男星性侵粉丝判有期徒刑3年](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%98%9F%E6%80%A7%E4%BE%B5%E7%B2%89%E4%B8%9D%E5%88%A4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%913%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
