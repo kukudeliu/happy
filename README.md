@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 10:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 10:09:01</h4></div>
 
 > 微博  
 
 1. [杨波聊天记录](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=31&band_rank=1&Refer=top)<br />
-2. [70岁的姥姥离婚了](https://s.weibo.com/weibo?q=70%E5%B2%81%E7%9A%84%E5%A7%A5%E5%A7%A5%E7%A6%BB%E5%A9%9A%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
+2. [12306回应2名乘客买到同日同座票](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%942%E5%90%8D%E4%B9%98%E5%AE%A2%E4%B9%B0%E5%88%B0%E5%90%8C%E6%97%A5%E5%90%8C%E5%BA%A7%E7%A5%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024网络视听盛典阵容官宣](https://s.weibo.com/weibo?q=%232024%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=3&Refer=top)<br />
-4. [12306回应2名乘客买到同日同座票](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%942%E5%90%8D%E4%B9%98%E5%AE%A2%E4%B9%B0%E5%88%B0%E5%90%8C%E6%97%A5%E5%90%8C%E5%BA%A7%E7%A5%A8%23&t=31&band_rank=4&Refer=top)<br />
+4. [70岁的姥姥离婚了](https://s.weibo.com/weibo?q=70%E5%B2%81%E7%9A%84%E5%A7%A5%E5%A7%A5%E7%A6%BB%E5%A9%9A%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [蓝亦菲真去世了](https://s.weibo.com/weibo?q=%23%E8%93%9D%E4%BA%A6%E8%8F%B2%E7%9C%9F%E5%8E%BB%E4%B8%96%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [小金豆两个月在尔滨购房共4650套](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%87%91%E8%B1%86%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%9C%A8%E5%B0%94%E6%BB%A8%E8%B4%AD%E6%88%BF%E5%85%B14650%E5%A5%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [为啥手机最后1%的电能用很久](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E6%89%8B%E6%9C%BA%E6%9C%80%E5%90%8E1%25%E7%9A%84%E7%94%B5%E8%83%BD%E7%94%A8%E5%BE%88%E4%B9%85%23&t=31&band_rank=7&Refer=top)<br />
