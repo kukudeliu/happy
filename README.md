@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 09:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 09:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [菏泽警方通报协警铐走实习律师](https://s.weibo.com/weibo?q=%23%E8%8F%8F%E6%B3%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8D%8F%E8%AD%A6%E9%93%90%E8%B5%B0%E5%AE%9E%E4%B9%A0%E5%BE%8B%E5%B8%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [前TVB演员河国荣烧炭自杀](https://s.weibo.com/weibo?q=%23%E5%89%8DTVB%E6%BC%94%E5%91%98%E6%B2%B3%E5%9B%BD%E8%8D%A3%E7%83%A7%E7%82%AD%E8%87%AA%E6%9D%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [打玻尿酸 馒化](https://s.weibo.com/weibo?q=%E6%89%93%E7%8E%BB%E5%B0%BF%E9%85%B8%20%E9%A6%92%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
-9. [死亡万花筒原著粉](https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E4%B8%87%E8%8A%B1%E7%AD%92%E5%8E%9F%E8%91%97%E7%B2%89&t=31&band_rank=9&Refer=top)<br />
+9. [职业背债人3个月躺赚200万](https://s.weibo.com/weibo?q=%23%E8%81%8C%E4%B8%9A%E8%83%8C%E5%80%BA%E4%BA%BA3%E4%B8%AA%E6%9C%88%E8%BA%BA%E8%B5%9A200%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
