@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 08:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 08:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南方小年](https://s.weibo.com/weibo?q=%E5%8D%97%E6%96%B9%E5%B0%8F%E5%B9%B4&t=31&band_rank=6&Refer=top)<br />
 7. [郑爽仍有3856万赔付款未履行](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%88%BD%E4%BB%8D%E6%9C%893856%E4%B8%87%E8%B5%94%E4%BB%98%E6%AC%BE%E6%9C%AA%E5%B1%A5%E8%A1%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [1岁外孙来家外公急忙砍竹子做围墙](https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%A4%96%E5%AD%99%E6%9D%A5%E5%AE%B6%E5%A4%96%E5%85%AC%E6%80%A5%E5%BF%99%E7%A0%8D%E7%AB%B9%E5%AD%90%E5%81%9A%E5%9B%B4%E5%A2%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [老人去世前3小时突然清醒遗愿令人泪崩](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%89%8D3%E5%B0%8F%E6%97%B6%E7%AA%81%E7%84%B6%E6%B8%85%E9%86%92%E9%81%97%E6%84%BF%E4%BB%A4%E4%BA%BA%E6%B3%AA%E5%B4%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [打玻尿酸 馒化](https://s.weibo.com/weibo?q=%E6%89%93%E7%8E%BB%E5%B0%BF%E9%85%B8%20%E9%A6%92%E5%8C%96&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
