@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 00:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 00:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [终于等到肖战](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E8%82%96%E6%88%98&t=31&band_rank=6&Refer=top)<br />
 7. [因为彩礼我和相恋8年的男友分手了](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E5%BD%A9%E7%A4%BC%E6%88%91%E5%92%8C%E7%9B%B8%E6%81%8B8%E5%B9%B4%E7%9A%84%E7%94%B7%E5%8F%8B%E5%88%86%E6%89%8B%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [当儿子决定穿裙子上学](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%84%BF%E5%AD%90%E5%86%B3%E5%AE%9A%E7%A9%BF%E8%A3%99%E5%AD%90%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [魏大勋真的不是歌手吗](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E6%AD%8C%E6%89%8B%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [爱情公寓 一镜到底](https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%20%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
