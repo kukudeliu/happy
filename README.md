@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 10:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 10:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小金豆两个月在尔滨购房共4650套](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%87%91%E8%B1%86%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%9C%A8%E5%B0%94%E6%BB%A8%E8%B4%AD%E6%88%BF%E5%85%B14650%E5%A5%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [为啥手机最后1%的电能用很久](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E6%89%8B%E6%9C%BA%E6%9C%80%E5%90%8E1%25%E7%9A%84%E7%94%B5%E8%83%BD%E7%94%A8%E5%BE%88%E4%B9%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [前TVB演员河国荣烧炭自杀](https://s.weibo.com/weibo?q=%23%E5%89%8DTVB%E6%BC%94%E5%91%98%E6%B2%B3%E5%9B%BD%E8%8D%A3%E7%83%A7%E7%82%AD%E8%87%AA%E6%9D%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [曝职校男生诱导11岁女童发私密照](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%81%8C%E6%A0%A1%E7%94%B7%E7%94%9F%E8%AF%B1%E5%AF%BC11%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%8F%91%E7%A7%81%E5%AF%86%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [高速惊现老头乐不到50迈一路压车](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E6%83%8A%E7%8E%B0%E8%80%81%E5%A4%B4%E4%B9%90%E4%B8%8D%E5%88%B050%E8%BF%88%E4%B8%80%E8%B7%AF%E5%8E%8B%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
