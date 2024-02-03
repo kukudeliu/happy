@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 00:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 00:46:01</h4></div>
 
 > 微博  
 
-1. [武汉暴雪](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%AA&t=31&band_rank=1&Refer=top)<br />
-2. [上海恢复浦东机场网约车](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%81%A2%E5%A4%8D%E6%B5%A6%E4%B8%9C%E6%9C%BA%E5%9C%BA%E7%BD%91%E7%BA%A6%E8%BD%A6%23&t=31&band_rank=2&Refer=top)<br />
+1. [上海恢复浦东机场网约车](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%81%A2%E5%A4%8D%E6%B5%A6%E4%B8%9C%E6%9C%BA%E5%9C%BA%E7%BD%91%E7%BA%A6%E8%BD%A6%23&t=31&band_rank=1&Refer=top)<br />
+2. [武汉暴雪](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%AA&t=31&band_rank=2&Refer=top)<br />
 3. [2024网络视听盛典](https://s.weibo.com/weibo?q=%232024%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [小品 烂梗](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%93%81%20%E7%83%82%E6%A2%97&t=31&band_rank=4&Refer=top)<br />
 5. [宋亚轩舞台上好憔悴](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%88%9E%E5%8F%B0%E4%B8%8A%E5%A5%BD%E6%86%94%E6%82%B4%23&t=31&band_rank=5&Refer=top)<br />
