@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 12:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 12:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨波聊天记录](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=31&band_rank=6&Refer=top)<br />
 7. [70岁的姥姥离婚了](https://s.weibo.com/weibo?q=70%E5%B2%81%E7%9A%84%E5%A7%A5%E5%A7%A5%E7%A6%BB%E5%A9%9A%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [王者荣耀皮肤返场](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%9A%AE%E8%82%A4%E8%BF%94%E5%9C%BA&t=31&band_rank=8&Refer=top)<br />
-9. [王一博被无故预定航班](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%A2%AB%E6%97%A0%E6%95%85%E9%A2%84%E5%AE%9A%E8%88%AA%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘德华回应隐婚](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%9B%9E%E5%BA%94%E9%9A%90%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
