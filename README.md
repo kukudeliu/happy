@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 17:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 17:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [奔驰加塞事件缺失监控曝光](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E7%BC%BA%E5%A4%B1%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [甄嬛的尼姑服是M码的](https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E7%9A%84%E5%B0%BC%E5%A7%91%E6%9C%8D%E6%98%AFM%E7%A0%81%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
 8. [田曦薇 女将军人设](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%A5%B3%E5%B0%86%E5%86%9B%E4%BA%BA%E8%AE%BE&t=31&band_rank=8&Refer=top)<br />
-9. [医生说的清淡饮食好多人都搞错了](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E7%9A%84%E6%B8%85%E6%B7%A1%E9%A5%AE%E9%A3%9F%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%90%9E%E9%94%99%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [奥运冠军杨倩启蒙教练再发声](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E6%9D%A8%E5%80%A9%E5%90%AF%E8%92%99%E6%95%99%E7%BB%83%E5%86%8D%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
