@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 14:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 14:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨波聊天记录](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=31&band_rank=6&Refer=top)<br />
 7. [韩国男星性侵粉丝判有期徒刑3年](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%98%9F%E6%80%A7%E4%BE%B5%E7%B2%89%E4%B8%9D%E5%88%A4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%913%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [王一博被无故预定航班](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%A2%AB%E6%97%A0%E6%95%85%E9%A2%84%E5%AE%9A%E8%88%AA%E7%8F%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [谷爱凌因比赛取消摘银](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%A0%E6%AF%94%E8%B5%9B%E5%8F%96%E6%B6%88%E6%91%98%E9%93%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [杨波 一啵三折](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%20%E4%B8%80%E5%95%B5%E4%B8%89%E6%8A%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
