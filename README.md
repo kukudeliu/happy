@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 10:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 10:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为啥手机最后1%的电能用很久](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E6%89%8B%E6%9C%BA%E6%9C%80%E5%90%8E1%25%E7%9A%84%E7%94%B5%E8%83%BD%E7%94%A8%E5%BE%88%E4%B9%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [小金豆两个月在尔滨购房共4650套](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%87%91%E8%B1%86%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%9C%A8%E5%B0%94%E6%BB%A8%E8%B4%AD%E6%88%BF%E5%85%B14650%E5%A5%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [美军空袭伊拉克叙利亚](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%8B%89%E5%85%8B%E5%8F%99%E5%88%A9%E4%BA%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [死亡万花筒原著粉](https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E4%B8%87%E8%8A%B1%E7%AD%92%E5%8E%9F%E8%91%97%E7%B2%89&t=31&band_rank=9&Refer=top)<br />
+9. [前TVB演员河国荣烧炭自杀](https://s.weibo.com/weibo?q=%23%E5%89%8DTVB%E6%BC%94%E5%91%98%E6%B2%B3%E5%9B%BD%E8%8D%A3%E7%83%A7%E7%82%AD%E8%87%AA%E6%9D%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
