@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 08:41:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [警方通报协警铐走实习律师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8D%8F%E8%AD%A6%E9%93%90%E8%B5%B0%E5%AE%9E%E4%B9%A0%E5%BE%8B%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姐妹花2600元合伙买了一头年猪](https://www.baidu.com/s?wd=%E5%A7%90%E5%A6%B9%E8%8A%B12600%E5%85%83%E5%90%88%E4%BC%99%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A4%B4%E5%B9%B4%E7%8C%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张艺谋：我要找董宇辉演戏](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%EF%BC%9A%E6%88%91%E8%A6%81%E6%89%BE%E8%91%A3%E5%AE%87%E8%BE%89%E6%BC%94%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本首相：感谢金正恩](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%EF%BC%9A%E6%84%9F%E8%B0%A2%E9%87%91%E6%AD%A3%E6%81%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [今日南方小年](https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E5%8D%97%E6%96%B9%E5%B0%8F%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川警方辟谣“凌晨将发生地震”](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%87%8C%E6%99%A8%E5%B0%86%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [警方通报协警铐走实习律师](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8D%8F%E8%AD%A6%E9%93%90%E8%B5%B0%E5%AE%9E%E4%B9%A0%E5%BE%8B%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姐妹花2600元合伙买了一头年猪](https://www.baidu.com/s?wd=%E5%A7%90%E5%A6%B9%E8%8A%B12600%E5%85%83%E5%90%88%E4%BC%99%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A4%B4%E5%B9%B4%E7%8C%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张艺谋：我要找董宇辉演戏](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%EF%BC%9A%E6%88%91%E8%A6%81%E6%89%BE%E8%91%A3%E5%AE%87%E8%BE%89%E6%BC%94%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本首相：感谢金正恩](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%EF%BC%9A%E6%84%9F%E8%B0%A2%E9%87%91%E6%AD%A3%E6%81%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [今日南方小年](https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E5%8D%97%E6%96%B9%E5%B0%8F%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川警方辟谣“凌晨将发生地震”](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%87%8C%E6%99%A8%E5%B0%86%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
