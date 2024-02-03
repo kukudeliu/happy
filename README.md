@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 11:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 11:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [70岁的姥姥离婚了](https://s.weibo.com/weibo?q=70%E5%B2%81%E7%9A%84%E5%A7%A5%E5%A7%A5%E7%A6%BB%E5%A9%9A%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [杨波聊天记录](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=31&band_rank=7&Refer=top)<br />
 8. [王一博被无故预定航班](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%A2%AB%E6%97%A0%E6%95%85%E9%A2%84%E5%AE%9A%E8%88%AA%E7%8F%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [12306回应2名乘客买到同日同座票](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%942%E5%90%8D%E4%B9%98%E5%AE%A2%E4%B9%B0%E5%88%B0%E5%90%8C%E6%97%A5%E5%90%8C%E5%BA%A7%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [2女孩疑遭人拐卖上高速呼喊求助](https://s.weibo.com/weibo?q=%232%E5%A5%B3%E5%AD%A9%E7%96%91%E9%81%AD%E4%BA%BA%E6%8B%90%E5%8D%96%E4%B8%8A%E9%AB%98%E9%80%9F%E5%91%BC%E5%96%8A%E6%B1%82%E5%8A%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
