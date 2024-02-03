@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 12:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 12:47:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [2女孩疑遭人拐卖上高速呼喊求助](https://s.weibo.com/weibo?q=%232%E5%A5%B3%E5%AD%A9%E7%96%91%E9%81%AD%E4%BA%BA%E6%8B%90%E5%8D%96%E4%B8%8A%E9%AB%98%E9%80%9F%E5%91%BC%E5%96%8A%E6%B1%82%E5%8A%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨波聊天记录](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=31&band_rank=6&Refer=top)<br />
 7. [70岁的姥姥离婚了](https://s.weibo.com/weibo?q=70%E5%B2%81%E7%9A%84%E5%A7%A5%E5%A7%A5%E7%A6%BB%E5%A9%9A%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [王者荣耀皮肤返场](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%9A%AE%E8%82%A4%E8%BF%94%E5%9C%BA&t=31&band_rank=8&Refer=top)<br />
-9. [刘德华回应隐婚](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%9B%9E%E5%BA%94%E9%9A%90%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [刘德华回应隐婚](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%9B%9E%E5%BA%94%E9%9A%90%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [王者荣耀皮肤返场](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%9A%AE%E8%82%A4%E8%BF%94%E5%9C%BA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
