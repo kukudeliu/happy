@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 13:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 13:27:01</h4></div>
 
 > 微博  
 
 1. [刘德华回应隐婚](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%9B%9E%E5%BA%94%E9%9A%90%E5%A9%9A%23&t=31&band_rank=1&Refer=top)<br />
-2. [韩国男星性侵粉丝判有期徒刑3年](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%98%9F%E6%80%A7%E4%BE%B5%E7%B2%89%E4%B8%9D%E5%88%A4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%913%E5%B9%B4%23&t=31&band_rank=2&Refer=top)<br />
+2. [警方称家暴视频是妻子发泄情绪拼接的](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A7%B0%E5%AE%B6%E6%9A%B4%E8%A7%86%E9%A2%91%E6%98%AF%E5%A6%BB%E5%AD%90%E5%8F%91%E6%B3%84%E6%83%85%E7%BB%AA%E6%8B%BC%E6%8E%A5%E7%9A%84%23&t=31&band_rank=2&Refer=top)<br />
 3. [有一种年味儿叫置办年货](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E5%B9%B4%E5%91%B3%E5%84%BF%E5%8F%AB%E7%BD%AE%E5%8A%9E%E5%B9%B4%E8%B4%A7%23&t=31&band_rank=3&Refer=top)<br />
-4. [警方称家暴视频是妻子发泄情绪拼接的](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A7%B0%E5%AE%B6%E6%9A%B4%E8%A7%86%E9%A2%91%E6%98%AF%E5%A6%BB%E5%AD%90%E5%8F%91%E6%B3%84%E6%83%85%E7%BB%AA%E6%8B%BC%E6%8E%A5%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
+4. [韩国男星性侵粉丝判有期徒刑3年](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%98%9F%E6%80%A7%E4%BE%B5%E7%B2%89%E4%B8%9D%E5%88%A4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%913%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [谷爱凌因比赛取消摘银](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%A0%E6%AF%94%E8%B5%9B%E5%8F%96%E6%B6%88%E6%91%98%E9%93%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [蓝亦菲真去世了](https://s.weibo.com/weibo?q=%23%E8%93%9D%E4%BA%A6%E8%8F%B2%E7%9C%9F%E5%8E%BB%E4%B8%96%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨波聊天记录](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=31&band_rank=7&Refer=top)<br />
