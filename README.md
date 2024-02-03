@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 21:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 21:02:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [将进酒回来了](https://s.weibo.com/weibo?q=%E5%B0%86%E8%BF%9B%E9%85%92%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [杨氏双缝干涉实验](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B0%8F%E5%8F%8C%E7%BC%9D%E5%B9%B2%E6%B6%89%E5%AE%9E%E9%AA%8C&t=31&band_rank=5&Refer=top)<br />
 6. [张艺兴灯牌](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E7%81%AF%E7%89%8C&t=31&band_rank=6&Refer=top)<br />
-7. [删掉 她能看见](https://s.weibo.com/weibo?q=%E5%88%A0%E6%8E%89%20%E5%A5%B9%E8%83%BD%E7%9C%8B%E8%A7%81&t=31&band_rank=7&Refer=top)<br />
-8. [网络视听盛典发布节目单](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8%E5%8F%91%E5%B8%83%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [湖南春晚 科目三](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E6%98%A5%E6%99%9A%20%E7%A7%91%E7%9B%AE%E4%B8%89&t=31&band_rank=9&Refer=top)<br />
+7. [湖南春晚 科目三](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E6%98%A5%E6%99%9A%20%E7%A7%91%E7%9B%AE%E4%B8%89&t=31&band_rank=7&Refer=top)<br />
+8. [删掉 她能看见](https://s.weibo.com/weibo?q=%E5%88%A0%E6%8E%89%20%E5%A5%B9%E8%83%BD%E7%9C%8B%E8%A7%81&t=31&band_rank=8&Refer=top)<br />
+9. [春节前三文鱼销量暴涨13倍](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E5%89%8D%E4%B8%89%E6%96%87%E9%B1%BC%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A813%E5%80%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
