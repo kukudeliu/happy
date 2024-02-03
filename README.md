@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 09:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-03 09:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [12306回应2名乘客买到同日同座票](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%942%E5%90%8D%E4%B9%98%E5%AE%A2%E4%B9%B0%E5%88%B0%E5%90%8C%E6%97%A5%E5%90%8C%E5%BA%A7%E7%A5%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [小金豆两个月在尔滨购房共4650套](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%87%91%E8%B1%86%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%9C%A8%E5%B0%94%E6%BB%A8%E8%B4%AD%E6%88%BF%E5%85%B14650%E5%A5%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [前TVB演员河国荣烧炭自杀](https://s.weibo.com/weibo?q=%23%E5%89%8DTVB%E6%BC%94%E5%91%98%E6%B2%B3%E5%9B%BD%E8%8D%A3%E7%83%A7%E7%82%AD%E8%87%AA%E6%9D%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [曝职校男生诱导11岁女童发私密照](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%81%8C%E6%A0%A1%E7%94%B7%E7%94%9F%E8%AF%B1%E5%AF%BC11%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%8F%91%E7%A7%81%E5%AF%86%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [菏泽警方通报协警铐走实习律师](https://s.weibo.com/weibo?q=%23%E8%8F%8F%E6%B3%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8D%8F%E8%AD%A6%E9%93%90%E8%B5%B0%E5%AE%9E%E4%B9%A0%E5%BE%8B%E5%B8%88%23&t=31&band_rank=9&Refer=top)<br />
+8. [打玻尿酸 馒化](https://s.weibo.com/weibo?q=%E6%89%93%E7%8E%BB%E5%B0%BF%E9%85%B8%20%E9%A6%92%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
+9. [曝职校男生诱导11岁女童发私密照](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%81%8C%E6%A0%A1%E7%94%B7%E7%94%9F%E8%AF%B1%E5%AF%BC11%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%8F%91%E7%A7%81%E5%AF%86%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
