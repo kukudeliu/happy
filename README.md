@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 11:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 11:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白头发可能是身体给你的警报](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%A4%B4%E5%8F%91%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BA%AB%E4%BD%93%E7%BB%99%E4%BD%A0%E7%9A%84%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [内娱700多人信息7元打包卖](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1700%E5%A4%9A%E4%BA%BA%E4%BF%A1%E6%81%AF7%E5%85%83%E6%89%93%E5%8C%85%E5%8D%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [夜食症](https://s.weibo.com/weibo?q=%E5%A4%9C%E9%A3%9F%E7%97%87&t=31&band_rank=8&Refer=top)<br />
-9. [手写二十四节气领略壮美山河](https://s.weibo.com/weibo?q=%23%E6%89%8B%E5%86%99%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%8A%82%E6%B0%94%E9%A2%86%E7%95%A5%E5%A3%AE%E7%BE%8E%E5%B1%B1%E6%B2%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [奇瑞](https://s.weibo.com/weibo?q=%E5%A5%87%E7%91%9E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
