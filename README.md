@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 22:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 22:35:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [吃完头孢7天内不能喝酒](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%A4%B4%E5%AD%A27%E5%A4%A9%E5%86%85%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23&t=31&band_rank=2&Refer=top)<br />
 3. [解锁龙年各地年味儿](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E9%94%81%E9%BE%99%E5%B9%B4%E5%90%84%E5%9C%B0%E5%B9%B4%E5%91%B3%E5%84%BF%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子买刮刮乐兑奖却被撕彩票](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90%E5%85%91%E5%A5%96%E5%8D%B4%E8%A2%AB%E6%92%95%E5%BD%A9%E7%A5%A8%23&t=31&band_rank=4&Refer=top)<br />
-5. [网友自曝被举报作弊取消考研政治成绩](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%87%AA%E6%9B%9D%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BD%9C%E5%BC%8A%E5%8F%96%E6%B6%88%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E6%88%90%E7%BB%A9%23&t=31&band_rank=5&Refer=top)<br />
-6. [五十度暴雪](https://s.weibo.com/weibo?q=%E4%BA%94%E5%8D%81%E5%BA%A6%E6%9A%B4%E9%9B%AA&t=31&band_rank=6&Refer=top)<br />
+5. [五十度暴雪](https://s.weibo.com/weibo?q=%E4%BA%94%E5%8D%81%E5%BA%A6%E6%9A%B4%E9%9B%AA&t=31&band_rank=5&Refer=top)<br />
+6. [网友自曝被举报作弊取消考研政治成绩](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%87%AA%E6%9B%9D%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BD%9C%E5%BC%8A%E5%8F%96%E6%B6%88%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E6%88%90%E7%BB%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [蓝盈莹否认整容](https://s.weibo.com/weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E5%90%A6%E8%AE%A4%E6%95%B4%E5%AE%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [深圳一工人清洗外墙掉下8楼](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%B7%A5%E4%BA%BA%E6%B8%85%E6%B4%97%E5%A4%96%E5%A2%99%E6%8E%89%E4%B8%8B8%E6%A5%BC%23&t=31&band_rank=8&Refer=top)<br />
 9. [安琪拉大招 水龙头](https://s.weibo.com/weibo?q=%E5%AE%89%E7%90%AA%E6%8B%89%E5%A4%A7%E6%8B%9B%20%E6%B0%B4%E9%BE%99%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
