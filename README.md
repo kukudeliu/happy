@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 19:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 19:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大年初三看封神](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%89%E7%9C%8B%E5%B0%81%E7%A5%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [女孩雨雪天用手为女警暖耳朵](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%9B%A8%E9%9B%AA%E5%A4%A9%E7%94%A8%E6%89%8B%E4%B8%BA%E5%A5%B3%E8%AD%A6%E6%9A%96%E8%80%B3%E6%9C%B5%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨波朋友圈](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B3%A2%E6%9C%8B%E5%8F%8B%E5%9C%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [印度女星为假死道歉](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E6%98%9F%E4%B8%BA%E5%81%87%E6%AD%BB%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [李如平去世](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%A6%82%E5%B9%B3%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [暴雪致高速瘫痪 车主被困十余小时](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%E8%87%B4%E9%AB%98%E9%80%9F%E7%98%AB%E7%97%AA+%E8%BD%A6%E4%B8%BB%E8%A2%AB%E5%9B%B0%E5%8D%81%E4%BD%99%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生被母亲介绍几十个相亲对象](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%AF%8D%E4%BA%B2%E4%BB%8B%E7%BB%8D%E5%87%A0%E5%8D%81%E4%B8%AA%E7%9B%B8%E4%BA%B2%E5%AF%B9%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刘立宪被逮捕，此前主动投案](https://www.baidu.com/s?wd=%E5%88%98%E7%AB%8B%E5%AE%AA%E8%A2%AB%E9%80%AE%E6%8D%95%EF%BC%8C%E6%AD%A4%E5%89%8D%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [两名香港艺人相继去世 曾同演一部剧](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E9%A6%99%E6%B8%AF%E8%89%BA%E4%BA%BA%E7%9B%B8%E7%BB%A7%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%90%8C%E6%BC%94%E4%B8%80%E9%83%A8%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [起猛了看湖南下雪还以为天上掉大米](https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E6%B9%96%E5%8D%97%E4%B8%8B%E9%9B%AA%E8%BF%98%E4%BB%A5%E4%B8%BA%E5%A4%A9%E4%B8%8A%E6%8E%89%E5%A4%A7%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些涉无偿献血信息不实](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%B6%89%E6%97%A0%E5%81%BF%E7%8C%AE%E8%A1%80%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [暴雪致高速瘫痪 车主被困十余小时](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%E8%87%B4%E9%AB%98%E9%80%9F%E7%98%AB%E7%97%AA+%E8%BD%A6%E4%B8%BB%E8%A2%AB%E5%9B%B0%E5%8D%81%E4%BD%99%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生被母亲介绍几十个相亲对象](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%AF%8D%E4%BA%B2%E4%BB%8B%E7%BB%8D%E5%87%A0%E5%8D%81%E4%B8%AA%E7%9B%B8%E4%BA%B2%E5%AF%B9%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [刘立宪被逮捕，此前主动投案](https://www.baidu.com/s?wd=%E5%88%98%E7%AB%8B%E5%AE%AA%E8%A2%AB%E9%80%AE%E6%8D%95%EF%BC%8C%E6%AD%A4%E5%89%8D%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [两名香港艺人相继去世 曾同演一部剧](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E9%A6%99%E6%B8%AF%E8%89%BA%E4%BA%BA%E7%9B%B8%E7%BB%A7%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%90%8C%E6%BC%94%E4%B8%80%E9%83%A8%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [起猛了看湖南下雪还以为天上掉大米](https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E6%B9%96%E5%8D%97%E4%B8%8B%E9%9B%AA%E8%BF%98%E4%BB%A5%E4%B8%BA%E5%A4%A9%E4%B8%8A%E6%8E%89%E5%A4%A7%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些涉无偿献血信息不实](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%B6%89%E6%97%A0%E5%81%BF%E7%8C%AE%E8%A1%80%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
