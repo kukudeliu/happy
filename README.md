@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 12:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 12:08:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平在天津古文化街考察](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%A4%A9%E6%B4%A5%E5%8F%A4%E6%96%87%E5%8C%96%E8%A1%97%E8%80%83%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平春节前夕视察慰问驻天津部队](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%98%A5%E8%8A%82%E5%89%8D%E5%A4%95%E8%A7%86%E5%AF%9F%E6%85%B0%E9%97%AE%E9%A9%BB%E5%A4%A9%E6%B4%A5%E9%83%A8%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [省委书记暗访 工作人员多次输错密码](https://www.baidu.com/s?wd=%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9A%97%E8%AE%BF+%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%A4%9A%E6%AC%A1%E8%BE%93%E9%94%99%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [交警回应被砸车博主疑涉套牌](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%A0%B8%E8%BD%A6%E5%8D%9A%E4%B8%BB%E7%96%91%E6%B6%89%E5%A5%97%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [年味烟火暖人心](https://www.baidu.com/s?wd=%E5%B9%B4%E5%91%B3%E7%83%9F%E7%81%AB%E6%9A%96%E4%BA%BA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平在天津古文化街考察](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%A4%A9%E6%B4%A5%E5%8F%A4%E6%96%87%E5%8C%96%E8%A1%97%E8%80%83%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平春节前夕视察慰问驻天津部队](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%98%A5%E8%8A%82%E5%89%8D%E5%A4%95%E8%A7%86%E5%AF%9F%E6%85%B0%E9%97%AE%E9%A9%BB%E5%A4%A9%E6%B4%A5%E9%83%A8%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [省委书记暗访 工作人员多次输错密码](https://www.baidu.com/s?wd=%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9A%97%E8%AE%BF+%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%A4%9A%E6%AC%A1%E8%BE%93%E9%94%99%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [交警回应被砸车博主疑涉套牌](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%A0%B8%E8%BD%A6%E5%8D%9A%E4%B8%BB%E7%96%91%E6%B6%89%E5%A5%97%E7%89%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [年味烟火暖人心](https://www.baidu.com/s?wd=%E5%B9%B4%E5%91%B3%E7%83%9F%E7%81%AB%E6%9A%96%E4%BA%BA%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
