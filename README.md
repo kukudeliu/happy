@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 16:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 16:50:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [起猛了看湖南下雪还以为天上掉大米](https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E6%B9%96%E5%8D%97%E4%B8%8B%E9%9B%AA%E8%BF%98%E4%BB%A5%E4%B8%BA%E5%A4%A9%E4%B8%8A%E6%8E%89%E5%A4%A7%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [身价上万的宠物年前被扔到街上](https://www.baidu.com/s?wd=%E8%BA%AB%E4%BB%B7%E4%B8%8A%E4%B8%87%E7%9A%84%E5%AE%A0%E7%89%A9%E5%B9%B4%E5%89%8D%E8%A2%AB%E6%89%94%E5%88%B0%E8%A1%97%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [宝妈进群刷单5天被骗580万](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E8%BF%9B%E7%BE%A4%E5%88%B7%E5%8D%955%E5%A4%A9%E8%A2%AB%E9%AA%97580%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [济南辟谣儿童8天没吃上早餐](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E8%BE%9F%E8%B0%A3%E5%84%BF%E7%AB%A58%E5%A4%A9%E6%B2%A1%E5%90%83%E4%B8%8A%E6%97%A9%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [重庆一中学生被同学打死？谣言](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%89%93%E6%AD%BB%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [起猛了看湖南下雪还以为天上掉大米](https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E6%B9%96%E5%8D%97%E4%B8%8B%E9%9B%AA%E8%BF%98%E4%BB%A5%E4%B8%BA%E5%A4%A9%E4%B8%8A%E6%8E%89%E5%A4%A7%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [身价上万的宠物年前被扔到街上](https://www.baidu.com/s?wd=%E8%BA%AB%E4%BB%B7%E4%B8%8A%E4%B8%87%E7%9A%84%E5%AE%A0%E7%89%A9%E5%B9%B4%E5%89%8D%E8%A2%AB%E6%89%94%E5%88%B0%E8%A1%97%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [宝妈进群刷单5天被骗580万](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E8%BF%9B%E7%BE%A4%E5%88%B7%E5%8D%955%E5%A4%A9%E8%A2%AB%E9%AA%97580%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [济南辟谣儿童8天没吃上早餐](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E8%BE%9F%E8%B0%A3%E5%84%BF%E7%AB%A58%E5%A4%A9%E6%B2%A1%E5%90%83%E4%B8%8A%E6%97%A9%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [重庆一中学生被同学打死？谣言](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%89%93%E6%AD%BB%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
