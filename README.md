@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 16:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 16:31:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [让一切美好从立春开始](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E4%B8%80%E5%88%87%E7%BE%8E%E5%A5%BD%E4%BB%8E%E7%AB%8B%E6%98%A5%E5%BC%80%E5%A7%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [佟梦实是五竹叔](https://s.weibo.com/weibo?q=%E4%BD%9F%E6%A2%A6%E5%AE%9E%E6%98%AF%E4%BA%94%E7%AB%B9%E5%8F%94&t=31&band_rank=4&Refer=top)<br />
 5. [奔驰男砸车前被白车顶了一下](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E7%94%B7%E7%A0%B8%E8%BD%A6%E5%89%8D%E8%A2%AB%E7%99%BD%E8%BD%A6%E9%A1%B6%E4%BA%86%E4%B8%80%E4%B8%8B%23&t=31&band_rank=5&Refer=top)<br />
-6. [白鹿调休受害人](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%B0%83%E4%BC%91%E5%8F%97%E5%AE%B3%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [美甲 约不上](https://s.weibo.com/weibo?q=%E7%BE%8E%E7%94%B2%20%E7%BA%A6%E4%B8%8D%E4%B8%8A&t=31&band_rank=7&Refer=top)<br />
+6. [美甲 约不上](https://s.weibo.com/weibo?q=%E7%BE%8E%E7%94%B2%20%E7%BA%A6%E4%B8%8D%E4%B8%8A&t=31&band_rank=6&Refer=top)<br />
+7. [白鹿调休受害人](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%B0%83%E4%BC%91%E5%8F%97%E5%AE%B3%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [武大性骚扰事件男方首度发声](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E6%80%A7%E9%AA%9A%E6%89%B0%E4%BA%8B%E4%BB%B6%E7%94%B7%E6%96%B9%E9%A6%96%E5%BA%A6%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [韩网评张佳宁穿朝鲜族服饰](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E5%BC%A0%E4%BD%B3%E5%AE%81%E7%A9%BF%E6%9C%9D%E9%B2%9C%E6%97%8F%E6%9C%8D%E9%A5%B0%23&t=31&band_rank=9&Refer=top)<br />
 
