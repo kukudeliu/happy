@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 13:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 13:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [奔驰加塞事件正面7分钟监控曝光](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E6%AD%A3%E9%9D%A27%E5%88%86%E9%92%9F%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [调休](https://s.weibo.com/weibo?q=%E8%B0%83%E4%BC%91&t=31&band_rank=6&Refer=top)<br />
 7. [多地中小学教师被要求寒假期间值班](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E8%A2%AB%E8%A6%81%E6%B1%82%E5%AF%92%E5%81%87%E6%9C%9F%E9%97%B4%E5%80%BC%E7%8F%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [美甲 约不上](https://s.weibo.com/weibo?q=%E7%BE%8E%E7%94%B2%20%E7%BA%A6%E4%B8%8D%E4%B8%8A&t=31&band_rank=8&Refer=top)<br />
-9. [财阀家的女爱豆](https://s.weibo.com/weibo?q=%E8%B4%A2%E9%98%80%E5%AE%B6%E7%9A%84%E5%A5%B3%E7%88%B1%E8%B1%86&t=31&band_rank=9&Refer=top)<br />
+8. [财阀家的女爱豆](https://s.weibo.com/weibo?q=%E8%B4%A2%E9%98%80%E5%AE%B6%E7%9A%84%E5%A5%B3%E7%88%B1%E8%B1%86&t=31&band_rank=8&Refer=top)<br />
+9. [美甲 约不上](https://s.weibo.com/weibo?q=%E7%BE%8E%E7%94%B2%20%E7%BA%A6%E4%B8%8D%E4%B8%8A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
