@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 18:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 18:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [印度女星为假死道歉](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E6%98%9F%E4%B8%BA%E5%81%87%E6%AD%BB%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [女孩雨雪天用手为女警暖耳朵](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%9B%A8%E9%9B%AA%E5%A4%A9%E7%94%A8%E6%89%8B%E4%B8%BA%E5%A5%B3%E8%AD%A6%E6%9A%96%E8%80%B3%E6%9C%B5%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨波朋友圈](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B3%A2%E6%9C%8B%E5%8F%8B%E5%9C%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [专家称调休时很多人在假装上班](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%B0%83%E4%BC%91%E6%97%B6%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%9C%A8%E5%81%87%E8%A3%85%E4%B8%8A%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [女子离婚冷静期间被丈夫杀害](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%86%B7%E9%9D%99%E6%9C%9F%E9%97%B4%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%9D%80%E5%AE%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
