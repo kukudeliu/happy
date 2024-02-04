@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 15:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 15:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [奔驰男砸车前被白车顶了一下](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E7%94%B7%E7%A0%B8%E8%BD%A6%E5%89%8D%E8%A2%AB%E7%99%BD%E8%BD%A6%E9%A1%B6%E4%BA%86%E4%B8%80%E4%B8%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩网评张佳宁穿朝鲜族服饰](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E5%BC%A0%E4%BD%B3%E5%AE%81%E7%A9%BF%E6%9C%9D%E9%B2%9C%E6%97%8F%E6%9C%8D%E9%A5%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [武大性骚扰事件男方首度发声](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E6%80%A7%E9%AA%9A%E6%89%B0%E4%BA%8B%E4%BB%B6%E7%94%B7%E6%96%B9%E9%A6%96%E5%BA%A6%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [美甲 约不上](https://s.weibo.com/weibo?q=%E7%BE%8E%E7%94%B2%20%E7%BA%A6%E4%B8%8D%E4%B8%8A&t=31&band_rank=9&Refer=top)<br />
+9. [贾静雯女儿梧桐妹戴唇环舌环](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E9%9D%99%E9%9B%AF%E5%A5%B3%E5%84%BF%E6%A2%A7%E6%A1%90%E5%A6%B9%E6%88%B4%E5%94%87%E7%8E%AF%E8%88%8C%E7%8E%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
