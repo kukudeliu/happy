@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 21:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 21:58:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [8万只鸡因积雪压塌大棚被埋](https://www.baidu.com/s?wd=8%E4%B8%87%E5%8F%AA%E9%B8%A1%E5%9B%A0%E7%A7%AF%E9%9B%AA%E5%8E%8B%E5%A1%8C%E5%A4%A7%E6%A3%9A%E8%A2%AB%E5%9F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夫妻打拼15年 搓澡“搓出”3套房](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%89%93%E6%8B%BC15%E5%B9%B4+%E6%90%93%E6%BE%A1%E2%80%9C%E6%90%93%E5%87%BA%E2%80%9D3%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李如平去世 曾多次出演“高力士”](https://www.baidu.com/s?wd=%E6%9D%8E%E5%A6%82%E5%B9%B3%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%A4%9A%E6%AC%A1%E5%87%BA%E6%BC%94%E2%80%9C%E9%AB%98%E5%8A%9B%E5%A3%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [00后开始整顿酒局](https://www.baidu.com/s?wd=00%E5%90%8E%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E9%85%92%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [头孢真的不能配酒](https://www.baidu.com/s?wd=%E5%A4%B4%E5%AD%A2%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%83%BD%E9%85%8D%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些涉无偿献血信息不实](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%B6%89%E6%97%A0%E5%81%BF%E7%8C%AE%E8%A1%80%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [8万只鸡因积雪压塌大棚被埋](https://www.baidu.com/s?wd=8%E4%B8%87%E5%8F%AA%E9%B8%A1%E5%9B%A0%E7%A7%AF%E9%9B%AA%E5%8E%8B%E5%A1%8C%E5%A4%A7%E6%A3%9A%E8%A2%AB%E5%9F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [夫妻打拼15年 搓澡“搓出”3套房](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%89%93%E6%8B%BC15%E5%B9%B4+%E6%90%93%E6%BE%A1%E2%80%9C%E6%90%93%E5%87%BA%E2%80%9D3%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李如平去世 曾多次出演“高力士”](https://www.baidu.com/s?wd=%E6%9D%8E%E5%A6%82%E5%B9%B3%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%A4%9A%E6%AC%A1%E5%87%BA%E6%BC%94%E2%80%9C%E9%AB%98%E5%8A%9B%E5%A3%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [00后开始整顿酒局](https://www.baidu.com/s?wd=00%E5%90%8E%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E9%85%92%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [头孢真的不能配酒](https://www.baidu.com/s?wd=%E5%A4%B4%E5%AD%A2%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%83%BD%E9%85%8D%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些涉无偿献血信息不实](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%B6%89%E6%97%A0%E5%81%BF%E7%8C%AE%E8%A1%80%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
