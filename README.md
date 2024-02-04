@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 03:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 03:24:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [吃完头孢7天内不能喝酒](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%A4%B4%E5%AD%A27%E5%A4%A9%E5%86%85%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23&t=31&band_rank=3&Refer=top)<br />
 4. [孩子玩手机把导航从回江西换到福建](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%8A%8A%E5%AF%BC%E8%88%AA%E4%BB%8E%E5%9B%9E%E6%B1%9F%E8%A5%BF%E6%8D%A2%E5%88%B0%E7%A6%8F%E5%BB%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子买刮刮乐兑奖却被撕彩票](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90%E5%85%91%E5%A5%96%E5%8D%B4%E8%A2%AB%E6%92%95%E5%BD%A9%E7%A5%A8%23&t=31&band_rank=5&Refer=top)<br />
-6. [为什么只有中国医生擅长取鱼刺](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E6%93%85%E9%95%BF%E5%8F%96%E9%B1%BC%E5%88%BA&t=31&band_rank=6&Refer=top)<br />
-7. [睡觉吧 你俩过几天就成了](https://s.weibo.com/weibo?q=%E7%9D%A1%E8%A7%89%E5%90%A7%20%E4%BD%A0%E4%BF%A9%E8%BF%87%E5%87%A0%E5%A4%A9%E5%B0%B1%E6%88%90%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+6. [睡觉吧 你俩过几天就成了](https://s.weibo.com/weibo?q=%E7%9D%A1%E8%A7%89%E5%90%A7%20%E4%BD%A0%E4%BF%A9%E8%BF%87%E5%87%A0%E5%A4%A9%E5%B0%B1%E6%88%90%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+7. [为什么只有中国医生擅长取鱼刺](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E6%93%85%E9%95%BF%E5%8F%96%E9%B1%BC%E5%88%BA&t=31&band_rank=7&Refer=top)<br />
 8. [香港特区政府回应梅西缺战](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%9B%9E%E5%BA%94%E6%A2%85%E8%A5%BF%E7%BC%BA%E6%88%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [湖北暴雪](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8C%97%E6%9A%B4%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
 
@@ -23,8 +23,8 @@
 4. [中国乡村文化IP释放新活力](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96IP%E9%87%8A%E6%94%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小伙高速堵2天2夜翻栏杆进村买面包](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%AB%98%E9%80%9F%E5%A0%B52%E5%A4%A92%E5%A4%9C%E7%BF%BB%E6%A0%8F%E6%9D%86%E8%BF%9B%E6%9D%91%E4%B9%B0%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [贝克汉姆发言遭香港球迷狂嘘](https://www.baidu.com/s?wd=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E5%8F%91%E8%A8%80%E9%81%AD%E9%A6%99%E6%B8%AF%E7%90%83%E8%BF%B7%E7%8B%82%E5%98%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [夫妻打拼15年 搓澡“搓出”3套房](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%89%93%E6%8B%BC15%E5%B9%B4+%E6%90%93%E6%BE%A1%E2%80%9C%E6%90%93%E5%87%BA%E2%80%9D3%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子兑200元中奖彩票被店员撕毁](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%91200%E5%85%83%E4%B8%AD%E5%A5%96%E5%BD%A9%E7%A5%A8%E8%A2%AB%E5%BA%97%E5%91%98%E6%92%95%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张家界景区顶棚倒塌致22人受伤](https://www.baidu.com/s?wd=%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%99%AF%E5%8C%BA%E9%A1%B6%E6%A3%9A%E5%80%92%E5%A1%8C%E8%87%B422%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [白鹿调休受害人](https://www.baidu.com/s?wd=%E7%99%BD%E9%B9%BF%E8%B0%83%E4%BC%91%E5%8F%97%E5%AE%B3%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些涉无偿献血信息不实](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%B6%89%E6%97%A0%E5%81%BF%E7%8C%AE%E8%A1%80%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国乡村文化IP释放新活力](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96IP%E9%87%8A%E6%94%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小伙高速堵2天2夜翻栏杆进村买面包](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%AB%98%E9%80%9F%E5%A0%B52%E5%A4%A92%E5%A4%9C%E7%BF%BB%E6%A0%8F%E6%9D%86%E8%BF%9B%E6%9D%91%E4%B9%B0%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [贝克汉姆发言遭香港球迷狂嘘](https://www.baidu.com/s?wd=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E5%8F%91%E8%A8%80%E9%81%AD%E9%A6%99%E6%B8%AF%E7%90%83%E8%BF%B7%E7%8B%82%E5%98%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [夫妻打拼15年 搓澡“搓出”3套房](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E6%89%93%E6%8B%BC15%E5%B9%B4+%E6%90%93%E6%BE%A1%E2%80%9C%E6%90%93%E5%87%BA%E2%80%9D3%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子兑200元中奖彩票被店员撕毁](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%85%91200%E5%85%83%E4%B8%AD%E5%A5%96%E5%BD%A9%E7%A5%A8%E8%A2%AB%E5%BA%97%E5%91%98%E6%92%95%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张家界景区顶棚倒塌致22人受伤](https://www.baidu.com/s?wd=%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%99%AF%E5%8C%BA%E9%A1%B6%E6%A3%9A%E5%80%92%E5%A1%8C%E8%87%B422%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [白鹿调休受害人](https://www.baidu.com/s?wd=%E7%99%BD%E9%B9%BF%E8%B0%83%E4%BC%91%E5%8F%97%E5%AE%B3%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些涉无偿献血信息不实](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%B6%89%E6%97%A0%E5%81%BF%E7%8C%AE%E8%A1%80%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
