@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 11:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 11:11:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [2024网络视听盛典](https://s.weibo.com/weibo?q=%232024%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [内娱700多人信息7元打包卖](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1700%E5%A4%9A%E4%BA%BA%E4%BF%A1%E6%81%AF7%E5%85%83%E6%89%93%E5%8C%85%E5%8D%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [颖儿付辛博为女儿庆生](https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E4%BB%98%E8%BE%9B%E5%8D%9A%E4%B8%BA%E5%A5%B3%E5%84%BF%E5%BA%86%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
-6. [近视眼手术的优缺点](https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E7%9C%BC%E6%89%8B%E6%9C%AF%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [龙年央视春晚第四次联排](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E7%AC%AC%E5%9B%9B%E6%AC%A1%E8%81%94%E6%8E%92%23&t=31&band_rank=7&Refer=top)<br />
+6. [龙年央视春晚第四次联排](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E7%AC%AC%E5%9B%9B%E6%AC%A1%E8%81%94%E6%8E%92%23&t=31&band_rank=6&Refer=top)<br />
+7. [近视眼手术的优缺点](https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E7%9C%BC%E6%89%8B%E6%9C%AF%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [夜食症](https://s.weibo.com/weibo?q=%E5%A4%9C%E9%A3%9F%E7%97%87&t=31&band_rank=8&Refer=top)<br />
-9. [武汉暴雪](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
+9. [霸王茶姬口令](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%8F%A3%E4%BB%A4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
