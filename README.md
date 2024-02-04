@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 19:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 19:38:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [年俗里品年味](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E4%BF%97%E9%87%8C%E5%93%81%E5%B9%B4%E5%91%B3%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨波报平安](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%E6%8A%A5%E5%B9%B3%E5%AE%89&t=31&band_rank=4&Refer=top)<br />
 5. [村民翻山越岭给滞留司机免费送吃喝](https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E7%BF%BB%E5%B1%B1%E8%B6%8A%E5%B2%AD%E7%BB%99%E6%BB%9E%E7%95%99%E5%8F%B8%E6%9C%BA%E5%85%8D%E8%B4%B9%E9%80%81%E5%90%83%E5%96%9D%23&t=31&band_rank=5&Refer=top)<br />
-6. [大年初三看封神](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%89%E7%9C%8B%E5%B0%81%E7%A5%9E%23&t=31&band_rank=6&Refer=top)<br />
+6. [印度女星为假死道歉](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E6%98%9F%E4%B8%BA%E5%81%87%E6%AD%BB%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [女孩雨雪天用手为女警暖耳朵](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%9B%A8%E9%9B%AA%E5%A4%A9%E7%94%A8%E6%89%8B%E4%B8%BA%E5%A5%B3%E8%AD%A6%E6%9A%96%E8%80%B3%E6%9C%B5%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨波朋友圈](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B3%A2%E6%9C%8B%E5%8F%8B%E5%9C%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [印度女星为假死道歉](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E6%98%9F%E4%B8%BA%E5%81%87%E6%AD%BB%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [大年初三看封神](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%89%E7%9C%8B%E5%B0%81%E7%A5%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
