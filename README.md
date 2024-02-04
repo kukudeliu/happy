@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 11:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 11:30:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [内娱700多人信息7元打包卖](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1700%E5%A4%9A%E4%BA%BA%E4%BF%A1%E6%81%AF7%E5%85%83%E6%89%93%E5%8C%85%E5%8D%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [夜食症](https://s.weibo.com/weibo?q=%E5%A4%9C%E9%A3%9F%E7%97%87&t=31&band_rank=6&Refer=top)<br />
 7. [颖儿付辛博为女儿庆生](https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E4%BB%98%E8%BE%9B%E5%8D%9A%E4%B8%BA%E5%A5%B3%E5%84%BF%E5%BA%86%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [龙年央视春晚第四次联排](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E7%AC%AC%E5%9B%9B%E6%AC%A1%E8%81%94%E6%8E%92%23&t=31&band_rank=8&Refer=top)<br />
+8. [韩网评张佳宁穿朝鲜族服饰](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E5%BC%A0%E4%BD%B3%E5%AE%81%E7%A9%BF%E6%9C%9D%E9%B2%9C%E6%97%8F%E6%9C%8D%E9%A5%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [近视眼手术的优缺点](https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E7%9C%BC%E6%89%8B%E6%9C%AF%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
