@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 18:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 18:28:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [春节前夕考察天津 习近平强调什么](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E5%89%8D%E5%A4%95%E8%80%83%E5%AF%9F%E5%A4%A9%E6%B4%A5+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E8%B0%83%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [起猛了看湖南下雪还以为天上掉大米](https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E6%B9%96%E5%8D%97%E4%B8%8B%E9%9B%AA%E8%BF%98%E4%BB%A5%E4%B8%BA%E5%A4%A9%E4%B8%8A%E6%8E%89%E5%A4%A7%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [河南“车坚强”成功回家过年](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E2%80%9C%E8%BD%A6%E5%9D%9A%E5%BC%BA%E2%80%9D%E6%88%90%E5%8A%9F%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [专家：调休假装上班 不如真实放假](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E8%B0%83%E4%BC%91%E5%81%87%E8%A3%85%E4%B8%8A%E7%8F%AD+%E4%B8%8D%E5%A6%82%E7%9C%9F%E5%AE%9E%E6%94%BE%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春节将至 各地年俗美食相继登场](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E5%B0%86%E8%87%B3+%E5%90%84%E5%9C%B0%E5%B9%B4%E4%BF%97%E7%BE%8E%E9%A3%9F%E7%9B%B8%E7%BB%A7%E7%99%BB%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [杨波报平安](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B3%A2%E6%8A%A5%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [两名香港艺人相继去世 曾同演一部剧](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E9%A6%99%E6%B8%AF%E8%89%BA%E4%BA%BA%E7%9B%B8%E7%BB%A7%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%90%8C%E6%BC%94%E4%B8%80%E9%83%A8%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [暴雪致高速瘫痪 车主被困十余小时](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%E8%87%B4%E9%AB%98%E9%80%9F%E7%98%AB%E7%97%AA+%E8%BD%A6%E4%B8%BB%E8%A2%AB%E5%9B%B0%E5%8D%81%E4%BD%99%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [暴雪致高速瘫痪 车主被困十余小时](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%E8%87%B4%E9%AB%98%E9%80%9F%E7%98%AB%E7%97%AA+%E8%BD%A6%E4%B8%BB%E8%A2%AB%E5%9B%B0%E5%8D%81%E4%BD%99%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [杨波报平安](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B3%A2%E6%8A%A5%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [两名香港艺人相继去世 曾同演一部剧](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E9%A6%99%E6%B8%AF%E8%89%BA%E4%BA%BA%E7%9B%B8%E7%BB%A7%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%90%8C%E6%BC%94%E4%B8%80%E9%83%A8%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [武汉铁路：不要贸然前往火车站](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E9%93%81%E8%B7%AF%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%B4%B8%E7%84%B6%E5%89%8D%E5%BE%80%E7%81%AB%E8%BD%A6%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些涉无偿献血信息不实](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%B6%89%E6%97%A0%E5%81%BF%E7%8C%AE%E8%A1%80%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [春节前夕考察天津 习近平强调什么](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E5%89%8D%E5%A4%95%E8%80%83%E5%AF%9F%E5%A4%A9%E6%B4%A5+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E8%B0%83%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [起猛了看湖南下雪还以为天上掉大米](https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E6%B9%96%E5%8D%97%E4%B8%8B%E9%9B%AA%E8%BF%98%E4%BB%A5%E4%B8%BA%E5%A4%A9%E4%B8%8A%E6%8E%89%E5%A4%A7%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [河南“车坚强”成功回家过年](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E2%80%9C%E8%BD%A6%E5%9D%9A%E5%BC%BA%E2%80%9D%E6%88%90%E5%8A%9F%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [专家：调休假装上班 不如真实放假](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E8%B0%83%E4%BC%91%E5%81%87%E8%A3%85%E4%B8%8A%E7%8F%AD+%E4%B8%8D%E5%A6%82%E7%9C%9F%E5%AE%9E%E6%94%BE%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春节将至 各地年俗美食相继登场](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E5%B0%86%E8%87%B3+%E5%90%84%E5%9C%B0%E5%B9%B4%E4%BF%97%E7%BE%8E%E9%A3%9F%E7%9B%B8%E7%BB%A7%E7%99%BB%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [杨波报平安](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B3%A2%E6%8A%A5%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [两名香港艺人相继去世 曾同演一部剧](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E9%A6%99%E6%B8%AF%E8%89%BA%E4%BA%BA%E7%9B%B8%E7%BB%A7%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%90%8C%E6%BC%94%E4%B8%80%E9%83%A8%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [暴雪致高速瘫痪 车主被困十余小时](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%E8%87%B4%E9%AB%98%E9%80%9F%E7%98%AB%E7%97%AA+%E8%BD%A6%E4%B8%BB%E8%A2%AB%E5%9B%B0%E5%8D%81%E4%BD%99%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [暴雪致高速瘫痪 车主被困十余小时](https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%E8%87%B4%E9%AB%98%E9%80%9F%E7%98%AB%E7%97%AA+%E8%BD%A6%E4%B8%BB%E8%A2%AB%E5%9B%B0%E5%8D%81%E4%BD%99%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [杨波报平安](https://www.baidu.com/s?wd=%E6%9D%A8%E6%B3%A2%E6%8A%A5%E5%B9%B3%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [两名香港艺人相继去世 曾同演一部剧](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E9%A6%99%E6%B8%AF%E8%89%BA%E4%BA%BA%E7%9B%B8%E7%BB%A7%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%90%8C%E6%BC%94%E4%B8%80%E9%83%A8%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [武汉铁路：不要贸然前往火车站](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E9%93%81%E8%B7%AF%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%B4%B8%E7%84%B6%E5%89%8D%E5%BE%80%E7%81%AB%E8%BD%A6%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些涉无偿献血信息不实](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%B6%89%E6%97%A0%E5%81%BF%E7%8C%AE%E8%A1%80%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
