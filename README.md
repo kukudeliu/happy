@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 23:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 23:17:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么只有中国医生擅长取鱼刺](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E6%93%85%E9%95%BF%E5%8F%96%E9%B1%BC%E5%88%BA&t=31&band_rank=6&Refer=top)<br />
 7. [孩子玩手机把导航从回江西换到福建](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%8A%8A%E5%AF%BC%E8%88%AA%E4%BB%8E%E5%9B%9E%E6%B1%9F%E8%A5%BF%E6%8D%A2%E5%88%B0%E7%A6%8F%E5%BB%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [湖北暴雪](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8C%97%E6%9A%B4%E9%9B%AA&t=31&band_rank=8&Refer=top)<br />
-9. [头孢就酒可能5分钟致命](https://s.weibo.com/weibo?q=%23%E5%A4%B4%E5%AD%A2%E5%B0%B1%E9%85%92%E5%8F%AF%E8%83%BD5%E5%88%86%E9%92%9F%E8%87%B4%E5%91%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [五十度暴雪](https://s.weibo.com/weibo?q=%E4%BA%94%E5%8D%81%E5%BA%A6%E6%9A%B4%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
