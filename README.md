@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 18:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 18:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [印度女星为假死道歉](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E6%98%9F%E4%B8%BA%E5%81%87%E6%AD%BB%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [女孩雨雪天用手为女警暖耳朵](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%9B%A8%E9%9B%AA%E5%A4%A9%E7%94%A8%E6%89%8B%E4%B8%BA%E5%A5%B3%E8%AD%A6%E6%9A%96%E8%80%B3%E6%9C%B5%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨波朋友圈](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B3%A2%E6%9C%8B%E5%8F%8B%E5%9C%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [让一切美好从立春开始](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E4%B8%80%E5%88%87%E7%BE%8E%E5%A5%BD%E4%BB%8E%E7%AB%8B%E6%98%A5%E5%BC%80%E5%A7%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [吃完头孢7天内不能喝酒](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%A4%B4%E5%AD%A27%E5%A4%A9%E5%86%85%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
