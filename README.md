@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 10:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 10:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [内娱700多人信息7元打包卖](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1700%E5%A4%9A%E4%BA%BA%E4%BF%A1%E6%81%AF7%E5%85%83%E6%89%93%E5%8C%85%E5%8D%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [高铁上打开电脑的人真的在忙吗](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%89%93%E5%BC%80%E7%94%B5%E8%84%91%E7%9A%84%E4%BA%BA%E7%9C%9F%E7%9A%84%E5%9C%A8%E5%BF%99%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘德华自曝曾有粉丝藏床下](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E8%87%AA%E6%9B%9D%E6%9B%BE%E6%9C%89%E7%B2%89%E4%B8%9D%E8%97%8F%E5%BA%8A%E4%B8%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [立春](https://s.weibo.com/weibo?q=%E7%AB%8B%E6%98%A5&t=31&band_rank=9&Refer=top)<br />
+9. [近视眼手术的优缺点](https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E7%9C%BC%E6%89%8B%E6%9C%AF%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
