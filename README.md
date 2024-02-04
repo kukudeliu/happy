@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 20:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [五十度暴雪](https://s.weibo.com/weibo?q=%E4%BA%94%E5%8D%81%E5%BA%A6%E6%9A%B4%E9%9B%AA&t=31&band_rank=5&Refer=top)<br />
 6. [大年初三看封神](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%89%E7%9C%8B%E5%B0%81%E7%A5%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [印度女星为假死道歉](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E6%98%9F%E4%B8%BA%E5%81%87%E6%AD%BB%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨波报平安](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%E6%8A%A5%E5%B9%B3%E5%AE%89&t=31&band_rank=8&Refer=top)<br />
-9. [李如平去世](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%A6%82%E5%B9%B3%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+8. [李如平去世](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%A6%82%E5%B9%B3%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [杨波报平安](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B3%A2%E6%8A%A5%E5%B9%B3%E5%AE%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
