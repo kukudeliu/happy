@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 21:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 21:07:01</h4></div>
 
 > 微博  
 
-1. [吃完头孢7天内不能喝酒](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%A4%B4%E5%AD%A27%E5%A4%A9%E5%86%85%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23&t=31&band_rank=1&Refer=top)<br />
-2. [网友自曝被举报作弊取消考研政治成绩](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%87%AA%E6%9B%9D%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BD%9C%E5%BC%8A%E5%8F%96%E6%B6%88%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E6%88%90%E7%BB%A9%23&t=31&band_rank=2&Refer=top)<br />
+1. [网友自曝被举报作弊取消考研政治成绩](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%87%AA%E6%9B%9D%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BD%9C%E5%BC%8A%E5%8F%96%E6%B6%88%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E6%88%90%E7%BB%A9%23&t=31&band_rank=1&Refer=top)<br />
+2. [吃完头孢7天内不能喝酒](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%A4%B4%E5%AD%A27%E5%A4%A9%E5%86%85%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23&t=31&band_rank=2&Refer=top)<br />
 3. [解锁龙年各地年味儿](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E9%94%81%E9%BE%99%E5%B9%B4%E5%90%84%E5%9C%B0%E5%B9%B4%E5%91%B3%E5%84%BF%23&t=31&band_rank=3&Refer=top)<br />
 4. [福建高速发生交通事故7人死亡](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E9%AB%98%E9%80%9F%E5%8F%91%E7%94%9F%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%857%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [五十度暴雪](https://s.weibo.com/weibo?q=%E4%BA%94%E5%8D%81%E5%BA%A6%E6%9A%B4%E9%9B%AA&t=31&band_rank=5&Refer=top)<br />
