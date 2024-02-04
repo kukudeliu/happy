@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 20:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 20:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [五十度暴雪](https://s.weibo.com/weibo?q=%E4%BA%94%E5%8D%81%E5%BA%A6%E6%9A%B4%E9%9B%AA&t=31&band_rank=5&Refer=top)<br />
 6. [安琪拉大招 水龙头](https://s.weibo.com/weibo?q=%E5%AE%89%E7%90%AA%E6%8B%89%E5%A4%A7%E6%8B%9B%20%E6%B0%B4%E9%BE%99%E5%A4%B4&t=31&band_rank=6&Refer=top)<br />
 7. [蓝盈莹否认整容](https://s.weibo.com/weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E5%90%A6%E8%AE%A4%E6%95%B4%E5%AE%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [领导三年压力走了13个人](https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%AF%BC%E4%B8%89%E5%B9%B4%E5%8E%8B%E5%8A%9B%E8%B5%B0%E4%BA%8613%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [玄彬孙艺珍方否认购新房](https://s.weibo.com/weibo?q=%23%E7%8E%84%E5%BD%AC%E5%AD%99%E8%89%BA%E7%8F%8D%E6%96%B9%E5%90%A6%E8%AE%A4%E8%B4%AD%E6%96%B0%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [玄彬孙艺珍方否认购新房](https://s.weibo.com/weibo?q=%23%E7%8E%84%E5%BD%AC%E5%AD%99%E8%89%BA%E7%8F%8D%E6%96%B9%E5%90%A6%E8%AE%A4%E8%B4%AD%E6%96%B0%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [领导三年压力走了13个人](https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%AF%BC%E4%B8%89%E5%B9%B4%E5%8E%8B%E5%8A%9B%E8%B5%B0%E4%BA%8613%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
