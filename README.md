@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 02:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 02:52:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [女子买刮刮乐兑奖却被撕彩票](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90%E5%85%91%E5%A5%96%E5%8D%B4%E8%A2%AB%E6%92%95%E5%BD%A9%E7%A5%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [为什么只有中国医生擅长取鱼刺](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E6%93%85%E9%95%BF%E5%8F%96%E9%B1%BC%E5%88%BA&t=31&band_rank=6&Refer=top)<br />
 7. [睡觉吧 你俩过几天就成了](https://s.weibo.com/weibo?q=%E7%9D%A1%E8%A7%89%E5%90%A7%20%E4%BD%A0%E4%BF%A9%E8%BF%87%E5%87%A0%E5%A4%A9%E5%B0%B1%E6%88%90%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [辛芷蕾就想吃颗毛豆她有什么错](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%B0%B1%E6%83%B3%E5%90%83%E9%A2%97%E6%AF%9B%E8%B1%86%E5%A5%B9%E6%9C%89%E4%BB%80%E4%B9%88%E9%94%99&t=31&band_rank=8&Refer=top)<br />
-9. [香港特区政府回应梅西缺战](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%9B%9E%E5%BA%94%E6%A2%85%E8%A5%BF%E7%BC%BA%E6%88%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [香港特区政府回应梅西缺战](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%9B%9E%E5%BA%94%E6%A2%85%E8%A5%BF%E7%BC%BA%E6%88%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [辛芷蕾就想吃颗毛豆她有什么错](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%B0%B1%E6%83%B3%E5%90%83%E9%A2%97%E6%AF%9B%E8%B1%86%E5%A5%B9%E6%9C%89%E4%BB%80%E4%B9%88%E9%94%99&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
