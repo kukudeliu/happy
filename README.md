@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 05:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 05:26:01</h4></div>
 
 > 微博  
 
 1. [孩子玩手机把导航从回江西换到福建](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%8A%8A%E5%AF%BC%E8%88%AA%E4%BB%8E%E5%9B%9E%E6%B1%9F%E8%A5%BF%E6%8D%A2%E5%88%B0%E7%A6%8F%E5%BB%BA%23&t=31&band_rank=1&Refer=top)<br />
 2. [合肥南站D4832列车晚点744分钟](https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E5%8D%97%E7%AB%99D4832%E5%88%97%E8%BD%A6%E6%99%9A%E7%82%B9744%E5%88%86%E9%92%9F%23&t=31&band_rank=2&Refer=top)<br />
 3. [真实暧昧又尴尬](https://s.weibo.com/weibo?q=%E7%9C%9F%E5%AE%9E%E6%9A%A7%E6%98%A7%E5%8F%88%E5%B0%B4%E5%B0%AC&t=31&band_rank=3&Refer=top)<br />
-4. [为什么只有中国医生擅长取鱼刺](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E6%93%85%E9%95%BF%E5%8F%96%E9%B1%BC%E5%88%BA&t=31&band_rank=4&Refer=top)<br />
-5. [湖北暴雪](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8C%97%E6%9A%B4%E9%9B%AA&t=31&band_rank=5&Refer=top)<br />
-6. [女子买刮刮乐兑奖却被撕彩票](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90%E5%85%91%E5%A5%96%E5%8D%B4%E8%A2%AB%E6%92%95%E5%BD%A9%E7%A5%A8%23&t=31&band_rank=6&Refer=top)<br />
+4. [湖北暴雪](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8C%97%E6%9A%B4%E9%9B%AA&t=31&band_rank=4&Refer=top)<br />
+5. [女子买刮刮乐兑奖却被撕彩票](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90%E5%85%91%E5%A5%96%E5%8D%B4%E8%A2%AB%E6%92%95%E5%BD%A9%E7%A5%A8%23&t=31&band_rank=5&Refer=top)<br />
+6. [为什么只有中国医生擅长取鱼刺](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E6%93%85%E9%95%BF%E5%8F%96%E9%B1%BC%E5%88%BA&t=31&band_rank=6&Refer=top)<br />
 7. [91岁奶奶找回了失散55年的心肝宝贝](https://s.weibo.com/weibo?q=%2391%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%89%BE%E5%9B%9E%E4%BA%86%E5%A4%B1%E6%95%A355%E5%B9%B4%E7%9A%84%E5%BF%83%E8%82%9D%E5%AE%9D%E8%B4%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [吃完头孢7天内不能喝酒](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%A4%B4%E5%AD%A27%E5%A4%A9%E5%86%85%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23&t=31&band_rank=8&Refer=top)<br />
 9. [五十度暴雪](https://s.weibo.com/weibo?q=%E4%BA%94%E5%8D%81%E5%BA%A6%E6%9A%B4%E9%9B%AA&t=31&band_rank=9&Refer=top)<br />
