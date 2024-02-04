@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 03:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 03:56:02</h4></div>
 
 > 微博  
 
-1. [真实暧昧又尴尬](https://s.weibo.com/weibo?q=%E7%9C%9F%E5%AE%9E%E6%9A%A7%E6%98%A7%E5%8F%88%E5%B0%B4%E5%B0%AC&t=31&band_rank=1&Refer=top)<br />
-2. [吃完头孢7天内不能喝酒](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%A4%B4%E5%AD%A27%E5%A4%A9%E5%86%85%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23&t=31&band_rank=2&Refer=top)<br />
+1. [吃完头孢7天内不能喝酒](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%A4%B4%E5%AD%A27%E5%A4%A9%E5%86%85%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23&t=31&band_rank=1&Refer=top)<br />
+2. [真实暧昧又尴尬](https://s.weibo.com/weibo?q=%E7%9C%9F%E5%AE%9E%E6%9A%A7%E6%98%A7%E5%8F%88%E5%B0%B4%E5%B0%AC&t=31&band_rank=2&Refer=top)<br />
 3. [合肥南站D4832列车晚点744分钟](https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E5%8D%97%E7%AB%99D4832%E5%88%97%E8%BD%A6%E6%99%9A%E7%82%B9744%E5%88%86%E9%92%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [孩子玩手机把导航从回江西换到福建](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%8A%8A%E5%AF%BC%E8%88%AA%E4%BB%8E%E5%9B%9E%E6%B1%9F%E8%A5%BF%E6%8D%A2%E5%88%B0%E7%A6%8F%E5%BB%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [睡觉吧 你俩过几天就成了](https://s.weibo.com/weibo?q=%E7%9D%A1%E8%A7%89%E5%90%A7%20%E4%BD%A0%E4%BF%A9%E8%BF%87%E5%87%A0%E5%A4%A9%E5%B0%B1%E6%88%90%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
