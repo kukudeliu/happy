@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 08:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 08:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [立春](https://s.weibo.com/weibo?q=%E7%AB%8B%E6%98%A5&t=31&band_rank=6&Refer=top)<br />
 7. [欧阳娣娣初舞台](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%A3%E5%A8%A3%E5%88%9D%E8%88%9E%E5%8F%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [小品 烂梗](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%93%81%20%E7%83%82%E6%A2%97&t=31&band_rank=8&Refer=top)<br />
-9. [上海恢复浦东机场网约车](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%81%A2%E5%A4%8D%E6%B5%A6%E4%B8%9C%E6%9C%BA%E5%9C%BA%E7%BD%91%E7%BA%A6%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [躲春](https://s.weibo.com/weibo?q=%E8%BA%B2%E6%98%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
