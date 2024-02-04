@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 06:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 06:27:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [湖北暴雪](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8C%97%E6%9A%B4%E9%9B%AA&t=31&band_rank=5&Refer=top)<br />
 6. [女子买刮刮乐兑奖却被撕彩票](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90%E5%85%91%E5%A5%96%E5%8D%B4%E8%A2%AB%E6%92%95%E5%BD%A9%E7%A5%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [辛芷蕾就想吃颗毛豆她有什么错](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%B0%B1%E6%83%B3%E5%90%83%E9%A2%97%E6%AF%9B%E8%B1%86%E5%A5%B9%E6%9C%89%E4%BB%80%E4%B9%88%E9%94%99&t=31&band_rank=7&Refer=top)<br />
-8. [吃完头孢7天内不能喝酒](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%A4%B4%E5%AD%A27%E5%A4%A9%E5%86%85%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [真实暧昧又尴尬](https://s.weibo.com/weibo?q=%E7%9C%9F%E5%AE%9E%E6%9A%A7%E6%98%A7%E5%8F%88%E5%B0%B4%E5%B0%AC&t=31&band_rank=9&Refer=top)<br />
+8. [真实暧昧又尴尬](https://s.weibo.com/weibo?q=%E7%9C%9F%E5%AE%9E%E6%9A%A7%E6%98%A7%E5%8F%88%E5%B0%B4%E5%B0%AC&t=31&band_rank=8&Refer=top)<br />
+9. [吃完头孢7天内不能喝酒](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%A4%B4%E5%AD%A27%E5%A4%A9%E5%86%85%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
