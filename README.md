@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 20:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 20:52:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [春节前夕考察天津 习近平强调什么](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E5%89%8D%E5%A4%95%E8%80%83%E5%AF%9F%E5%A4%A9%E6%B4%A5+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E8%B0%83%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [民安才能国泰](https://www.baidu.com/s?wd=%E6%B0%91%E5%AE%89%E6%89%8D%E8%83%BD%E5%9B%BD%E6%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [河南“车坚强”成功回家过年](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E2%80%9C%E8%BD%A6%E5%9D%9A%E5%BC%BA%E2%80%9D%E6%88%90%E5%8A%9F%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [第一次见高铁10码速度缓慢行驶](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E9%AB%98%E9%93%8110%E7%A0%81%E9%80%9F%E5%BA%A6%E7%BC%93%E6%85%A2%E8%A1%8C%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国乡村文化IP释放新活力](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96IP%E9%87%8A%E6%94%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [春节前夕考察天津 习近平强调什么](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E5%89%8D%E5%A4%95%E8%80%83%E5%AF%9F%E5%A4%A9%E6%B4%A5+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E8%B0%83%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [民安才能国泰](https://www.baidu.com/s?wd=%E6%B0%91%E5%AE%89%E6%89%8D%E8%83%BD%E5%9B%BD%E6%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [河南“车坚强”成功回家过年](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E2%80%9C%E8%BD%A6%E5%9D%9A%E5%BC%BA%E2%80%9D%E6%88%90%E5%8A%9F%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [第一次见高铁10码速度缓慢行驶](https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E9%AB%98%E9%93%8110%E7%A0%81%E9%80%9F%E5%BA%A6%E7%BC%93%E6%85%A2%E8%A1%8C%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国乡村文化IP释放新活力](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96IP%E9%87%8A%E6%94%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
