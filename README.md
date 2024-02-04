@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 12:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 12:39:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [调休](https://s.weibo.com/weibo?q=%E8%B0%83%E4%BC%91&t=31&band_rank=4&Refer=top)<br />
 5. [贾静雯女儿梧桐妹戴唇环舌环](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E9%9D%99%E9%9B%AF%E5%A5%B3%E5%84%BF%E6%A2%A7%E6%A1%90%E5%A6%B9%E6%88%B4%E5%94%87%E7%8E%AF%E8%88%8C%E7%8E%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [交警回应网传徐老太疑涉套牌](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%BE%90%E8%80%81%E5%A4%AA%E7%96%91%E6%B6%89%E5%A5%97%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [宋雨琦与Minnie曾喜欢同一男生](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E4%B8%8EMinnie%E6%9B%BE%E5%96%9C%E6%AC%A2%E5%90%8C%E4%B8%80%E7%94%B7%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [奔驰加塞事件正面7分钟监控曝光](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E6%AD%A3%E9%9D%A27%E5%88%86%E9%92%9F%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top)<br />
+7. [奔驰加塞事件正面7分钟监控曝光](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E6%AD%A3%E9%9D%A27%E5%88%86%E9%92%9F%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top)<br />
+8. [宋雨琦与Minnie曾喜欢同一男生](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E4%B8%8EMinnie%E6%9B%BE%E5%96%9C%E6%AC%A2%E5%90%8C%E4%B8%80%E7%94%B7%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [多地中小学教师被要求寒假期间值班](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E8%A2%AB%E8%A6%81%E6%B1%82%E5%AF%92%E5%81%87%E6%9C%9F%E9%97%B4%E5%80%BC%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [世界最长海底高铁隧道要来了](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9C%80%E9%95%BF%E6%B5%B7%E5%BA%95%E9%AB%98%E9%93%81%E9%9A%A7%E9%81%93%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白头发可能是身体给你的警报](https://www.baidu.com/s?wd=%E7%99%BD%E5%A4%B4%E5%8F%91%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BA%AB%E4%BD%93%E7%BB%99%E4%BD%A0%E7%9A%84%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [700多位明星信息7元打包卖](https://www.baidu.com/s?wd=700%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F%E4%BF%A1%E6%81%AF7%E5%85%83%E6%89%93%E5%8C%85%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刘德华自曝曾有粉丝藏床下](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E8%87%AA%E6%9B%9D%E6%9B%BE%E6%9C%89%E7%B2%89%E4%B8%9D%E8%97%8F%E5%BA%8A%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [记者：日本队下半场踢的什么玩意](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%EF%BC%9A%E6%97%A5%E6%9C%AC%E9%98%9F%E4%B8%8B%E5%8D%8A%E5%9C%BA%E8%B8%A2%E7%9A%84%E4%BB%80%E4%B9%88%E7%8E%A9%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南辟谣儿童8天没吃上早餐](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E8%BE%9F%E8%B0%A3%E5%84%BF%E7%AB%A58%E5%A4%A9%E6%B2%A1%E5%90%83%E4%B8%8A%E6%97%A9%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [世界最长海底高铁隧道要来了](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9C%80%E9%95%BF%E6%B5%B7%E5%BA%95%E9%AB%98%E9%93%81%E9%9A%A7%E9%81%93%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白头发可能是身体给你的警报](https://www.baidu.com/s?wd=%E7%99%BD%E5%A4%B4%E5%8F%91%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BA%AB%E4%BD%93%E7%BB%99%E4%BD%A0%E7%9A%84%E8%AD%A6%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [700多位明星信息7元打包卖](https://www.baidu.com/s?wd=700%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F%E4%BF%A1%E6%81%AF7%E5%85%83%E6%89%93%E5%8C%85%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [刘德华自曝曾有粉丝藏床下](https://www.baidu.com/s?wd=%E5%88%98%E5%BE%B7%E5%8D%8E%E8%87%AA%E6%9B%9D%E6%9B%BE%E6%9C%89%E7%B2%89%E4%B8%9D%E8%97%8F%E5%BA%8A%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [记者：日本队下半场踢的什么玩意](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%EF%BC%9A%E6%97%A5%E6%9C%AC%E9%98%9F%E4%B8%8B%E5%8D%8A%E5%9C%BA%E8%B8%A2%E7%9A%84%E4%BB%80%E4%B9%88%E7%8E%A9%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [济南辟谣儿童8天没吃上早餐](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E8%BE%9F%E8%B0%A3%E5%84%BF%E7%AB%A58%E5%A4%A9%E6%B2%A1%E5%90%83%E4%B8%8A%E6%97%A9%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news)<br />
