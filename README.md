@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 22:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 22:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [五十度暴雪](https://s.weibo.com/weibo?q=%E4%BA%94%E5%8D%81%E5%BA%A6%E6%9A%B4%E9%9B%AA&t=31&band_rank=6&Refer=top)<br />
 7. [蓝盈莹否认整容](https://s.weibo.com/weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E5%90%A6%E8%AE%A4%E6%95%B4%E5%AE%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [安琪拉大招 水龙头](https://s.weibo.com/weibo?q=%E5%AE%89%E7%90%AA%E6%8B%89%E5%A4%A7%E6%8B%9B%20%E6%B0%B4%E9%BE%99%E5%A4%B4&t=31&band_rank=8&Refer=top)<br />
-9. [董璇自曝被撮合圈内相亲](https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%92%AE%E5%90%88%E5%9C%88%E5%86%85%E7%9B%B8%E4%BA%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [深圳一工人清洗外墙掉下8楼](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%B7%A5%E4%BA%BA%E6%B8%85%E6%B4%97%E5%A4%96%E5%A2%99%E6%8E%89%E4%B8%8B8%E6%A5%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
