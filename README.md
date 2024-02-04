@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 20:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 20:27:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [五十度暴雪](https://s.weibo.com/weibo?q=%E4%BA%94%E5%8D%81%E5%BA%A6%E6%9A%B4%E9%9B%AA&t=31&band_rank=2&Refer=top)<br />
 3. [年俗里品年味](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E4%BF%97%E9%87%8C%E5%93%81%E5%B9%B4%E5%91%B3%23&t=31&band_rank=3&Refer=top)<br />
 4. [领导三年压力走了13个人](https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%AF%BC%E4%B8%89%E5%B9%B4%E5%8E%8B%E5%8A%9B%E8%B5%B0%E4%BA%8613%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
-5. [警方通报奔驰加塞事件疑涉套牌](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%94%E9%A9%B0%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E7%96%91%E6%B6%89%E5%A5%97%E7%89%8C%23&t=31&band_rank=5&Refer=top)<br />
-6. [网友自曝被举报作弊取消考研政治成绩](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%87%AA%E6%9B%9D%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BD%9C%E5%BC%8A%E5%8F%96%E6%B6%88%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E6%88%90%E7%BB%A9%23&t=31&band_rank=6&Refer=top)<br />
+5. [网友自曝被举报作弊取消考研政治成绩](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%87%AA%E6%9B%9D%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BD%9C%E5%BC%8A%E5%8F%96%E6%B6%88%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E6%88%90%E7%BB%A9%23&t=31&band_rank=5&Refer=top)<br />
+6. [警方通报奔驰加塞事件疑涉套牌](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%94%E9%A9%B0%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E7%96%91%E6%B6%89%E5%A5%97%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [安琪拉大招 水龙头](https://s.weibo.com/weibo?q=%E5%AE%89%E7%90%AA%E6%8B%89%E5%A4%A7%E6%8B%9B%20%E6%B0%B4%E9%BE%99%E5%A4%B4&t=31&band_rank=7&Refer=top)<br />
-8. [杨鸣 辽宁男篮](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE&t=31&band_rank=8&Refer=top)<br />
-9. [重庆漫展小孩](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E6%BC%AB%E5%B1%95%E5%B0%8F%E5%AD%A9&t=31&band_rank=9&Refer=top)<br />
+8. [重庆漫展小孩](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E6%BC%AB%E5%B1%95%E5%B0%8F%E5%AD%A9&t=31&band_rank=8&Refer=top)<br />
+9. [杨鸣 辽宁男篮](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
