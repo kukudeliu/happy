@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 08:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-04 08:43:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2024网络视听盛典](https://s.weibo.com/weibo?q=%232024%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8%23&t=31&band_rank=3&Refer=top)<br />
 4. [刘德华自曝曾有粉丝藏床下](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E8%87%AA%E6%9B%9D%E6%9B%BE%E6%9C%89%E7%B2%89%E4%B8%9D%E8%97%8F%E5%BA%8A%E4%B8%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [武汉暴雪](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%AA&t=31&band_rank=5&Refer=top)<br />
-6. [立春](https://s.weibo.com/weibo?q=%E7%AB%8B%E6%98%A5&t=31&band_rank=6&Refer=top)<br />
-7. [躲春](https://s.weibo.com/weibo?q=%E8%BA%B2%E6%98%A5&t=31&band_rank=7&Refer=top)<br />
+6. [躲春](https://s.weibo.com/weibo?q=%E8%BA%B2%E6%98%A5&t=31&band_rank=6&Refer=top)<br />
+7. [立春](https://s.weibo.com/weibo?q=%E7%AB%8B%E6%98%A5&t=31&band_rank=7&Refer=top)<br />
 8. [欧阳娣娣初舞台](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%A3%E5%A8%A3%E5%88%9D%E8%88%9E%E5%8F%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [小品 烂梗](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%93%81%20%E7%83%82%E6%A2%97&t=31&band_rank=9&Refer=top)<br />
 
