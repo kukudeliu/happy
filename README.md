@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 00:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 00:03:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [张颂文：上你个头，我要过年！](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%EF%BC%9A%E4%B8%8A%E4%BD%A0%E4%B8%AA%E5%A4%B4%EF%BC%8C%E6%88%91%E8%A6%81%E8%BF%87%E5%B9%B4%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本小姐承认当“小三”放弃桂冠](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A7%90%E6%89%BF%E8%AE%A4%E5%BD%93%E2%80%9C%E5%B0%8F%E4%B8%89%E2%80%9D%E6%94%BE%E5%BC%83%E6%A1%82%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [梅西人形广告牌被踢飞脑袋](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E4%BA%BA%E5%BD%A2%E5%B9%BF%E5%91%8A%E7%89%8C%E8%A2%AB%E8%B8%A2%E9%A3%9E%E8%84%91%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新西兰华人女议员用多种语言发言](https://www.baidu.com/s?wd=%E6%96%B0%E8%A5%BF%E5%85%B0%E5%8D%8E%E4%BA%BA%E5%A5%B3%E8%AE%AE%E5%91%98%E7%94%A8%E5%A4%9A%E7%A7%8D%E8%AF%AD%E8%A8%80%E5%8F%91%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长江大学回应大雪压塌学校食堂](https://www.baidu.com/s?wd=%E9%95%BF%E6%B1%9F%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A4%A7%E9%9B%AA%E5%8E%8B%E5%A1%8C%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [头孢配酒一点事没有？谣言](https://www.baidu.com/s?wd=%E5%A4%B4%E5%AD%A2%E9%85%8D%E9%85%92%E4%B8%80%E7%82%B9%E4%BA%8B%E6%B2%A1%E6%9C%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [张颂文：上你个头，我要过年！](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%EF%BC%9A%E4%B8%8A%E4%BD%A0%E4%B8%AA%E5%A4%B4%EF%BC%8C%E6%88%91%E8%A6%81%E8%BF%87%E5%B9%B4%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [日本小姐承认当“小三”放弃桂冠](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A7%90%E6%89%BF%E8%AE%A4%E5%BD%93%E2%80%9C%E5%B0%8F%E4%B8%89%E2%80%9D%E6%94%BE%E5%BC%83%E6%A1%82%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [梅西人形广告牌被踢飞脑袋](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E4%BA%BA%E5%BD%A2%E5%B9%BF%E5%91%8A%E7%89%8C%E8%A2%AB%E8%B8%A2%E9%A3%9E%E8%84%91%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新西兰华人女议员用多种语言发言](https://www.baidu.com/s?wd=%E6%96%B0%E8%A5%BF%E5%85%B0%E5%8D%8E%E4%BA%BA%E5%A5%B3%E8%AE%AE%E5%91%98%E7%94%A8%E5%A4%9A%E7%A7%8D%E8%AF%AD%E8%A8%80%E5%8F%91%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [长江大学回应大雪压塌学校食堂](https://www.baidu.com/s?wd=%E9%95%BF%E6%B1%9F%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A4%A7%E9%9B%AA%E5%8E%8B%E5%A1%8C%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [头孢配酒一点事没有？谣言](https://www.baidu.com/s?wd=%E5%A4%B4%E5%AD%A2%E9%85%8D%E9%85%92%E4%B8%80%E7%82%B9%E4%BA%8B%E6%B2%A1%E6%9C%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
