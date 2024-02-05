@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 11:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 11:02:01</h4></div>
 
 > 微博  
 
-1. [霍启刚要求梅西与迈阿密道歉](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E8%A6%81%E6%B1%82%E6%A2%85%E8%A5%BF%E4%B8%8E%E8%BF%88%E9%98%BF%E5%AF%86%E9%81%93%E6%AD%89%23&t=31&band_rank=1&Refer=top)<br />
-2. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=2&Refer=top)<br />
+1. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=1&Refer=top)<br />
+2. [霍启刚要求梅西与迈阿密道歉](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E8%A6%81%E6%B1%82%E6%A2%85%E8%A5%BF%E4%B8%8E%E8%BF%88%E9%98%BF%E5%AF%86%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [又被中式美学惊艳了](https://s.weibo.com/weibo?q=%23%E5%8F%88%E8%A2%AB%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E6%83%8A%E8%89%B3%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [机票1800元退票费1500元](https://s.weibo.com/weibo?q=%23%E6%9C%BA%E7%A5%A81800%E5%85%83%E9%80%80%E7%A5%A8%E8%B4%B91500%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [安倍晋三母亲去世](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
