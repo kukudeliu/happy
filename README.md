@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 11:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 11:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [安倍晋三母亲去世](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [格莱美红毯](https://s.weibo.com/weibo?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E%E7%BA%A2%E6%AF%AF&t=31&band_rank=7&Refer=top)<br />
 8. [格莱美颁奖礼](https://s.weibo.com/weibo?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E%E9%A2%81%E5%A5%96%E7%A4%BC&t=31&band_rank=8&Refer=top)<br />
-9. [A股开盘跌破2700点](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%BC%80%E7%9B%98%E8%B7%8C%E7%A0%B42700%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [香港特区政府再回应梅西缺赛](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%86%8D%E5%9B%9E%E5%BA%94%E6%A2%85%E8%A5%BF%E7%BC%BA%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
