@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 16:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 16:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [霍启刚要求梅西与迈阿密道歉](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E8%A6%81%E6%B1%82%E6%A2%85%E8%A5%BF%E4%B8%8E%E8%BF%88%E9%98%BF%E5%AF%86%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫遭换角色反被说不知好歹](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%81%AD%E6%8D%A2%E8%A7%92%E8%89%B2%E5%8F%8D%E8%A2%AB%E8%AF%B4%E4%B8%8D%E7%9F%A5%E5%A5%BD%E6%AD%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [谁给张婧仪化的妆](https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%8C%96%E7%9A%84%E5%A6%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [王力宏回应胜诉](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%9B%9E%E5%BA%94%E8%83%9C%E8%AF%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [斗鱼回应将合并虎牙](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E5%9B%9E%E5%BA%94%E5%B0%86%E5%90%88%E5%B9%B6%E8%99%8E%E7%89%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
