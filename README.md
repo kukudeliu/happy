@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 11:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 11:49:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [中国乡村文化IP释放新活力](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96IP%E9%87%8A%E6%94%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [A股超千股跌停](https://www.baidu.com/s?wd=A%E8%82%A1%E8%B6%85%E5%8D%83%E8%82%A1%E8%B7%8C%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [A股开盘跌破2700点](https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%E8%B7%8C%E7%A0%B42700%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方回应黔灵山多人抓猕猴变卖](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%BB%94%E7%81%B5%E5%B1%B1%E5%A4%9A%E4%BA%BA%E6%8A%93%E7%8C%95%E7%8C%B4%E5%8F%98%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武汉机场飞机挨个洗“热水澡”](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%9C%BA%E5%9C%BA%E9%A3%9E%E6%9C%BA%E6%8C%A8%E4%B8%AA%E6%B4%97%E2%80%9C%E7%83%AD%E6%B0%B4%E6%BE%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度搜索推出AI拜年新能力](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2%E6%8E%A8%E5%87%BAAI%E6%8B%9C%E5%B9%B4%E6%96%B0%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春运期间火车票只卖长途票？](https://www.baidu.com/s?wd=%E6%98%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%8F%AA%E5%8D%96%E9%95%BF%E9%80%94%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [中国乡村文化IP释放新活力](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96IP%E9%87%8A%E6%94%BE%E6%96%B0%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [A股超千股跌停](https://www.baidu.com/s?wd=A%E8%82%A1%E8%B6%85%E5%8D%83%E8%82%A1%E8%B7%8C%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [A股开盘跌破2700点](https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%E8%B7%8C%E7%A0%B42700%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [官方回应黔灵山多人抓猕猴变卖](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%BB%94%E7%81%B5%E5%B1%B1%E5%A4%9A%E4%BA%BA%E6%8A%93%E7%8C%95%E7%8C%B4%E5%8F%98%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武汉机场飞机挨个洗“热水澡”](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%9C%BA%E5%9C%BA%E9%A3%9E%E6%9C%BA%E6%8C%A8%E4%B8%AA%E6%B4%97%E2%80%9C%E7%83%AD%E6%B0%B4%E6%BE%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [百度搜索推出AI拜年新能力](https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2%E6%8E%A8%E5%87%BAAI%E6%8B%9C%E5%B9%B4%E6%96%B0%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春运期间火车票只卖长途票？](https://www.baidu.com/s?wd=%E6%98%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%8F%AA%E5%8D%96%E9%95%BF%E9%80%94%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
