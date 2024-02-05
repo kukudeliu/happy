@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 14:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 14:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫因拍戏婉拒春晚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%A0%E6%8B%8D%E6%88%8F%E5%A9%89%E6%8B%92%E6%98%A5%E6%99%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [A股三大股指全部翻红](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E5%85%A8%E9%83%A8%E7%BF%BB%E7%BA%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [张佳宁换头像](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BD%B3%E5%AE%81%E6%8D%A2%E5%A4%B4%E5%83%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [玉桂狗](https://s.weibo.com/weibo?q=%E7%8E%89%E6%A1%82%E7%8B%97&t=31&band_rank=9&Refer=top)<br />
+9. [开房车女生被困高速借卫生间给女生](https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%88%BF%E8%BD%A6%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%9B%B0%E9%AB%98%E9%80%9F%E5%80%9F%E5%8D%AB%E7%94%9F%E9%97%B4%E7%BB%99%E5%A5%B3%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
