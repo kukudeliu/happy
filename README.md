@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 14:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 14:48:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [A股三大股指全部翻红](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E5%85%A8%E9%83%A8%E7%BF%BB%E7%BA%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [张天爱 神经病](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A4%A9%E7%88%B1%20%E7%A5%9E%E7%BB%8F%E7%97%85&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫因拍戏婉拒春晚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%A0%E6%8B%8D%E6%88%8F%E5%A9%89%E6%8B%92%E6%98%A5%E6%99%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [张佳宁换头像](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BD%B3%E5%AE%81%E6%8D%A2%E5%A4%B4%E5%83%8F%23&t=31&band_rank=8&Refer=top)<br />
+8. [谁给张婧仪化的妆](https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%8C%96%E7%9A%84%E5%A6%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [开房车女生被困高速借卫生间给女生](https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%88%BF%E8%BD%A6%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%9B%B0%E9%AB%98%E9%80%9F%E5%80%9F%E5%8D%AB%E7%94%9F%E9%97%B4%E7%BB%99%E5%A5%B3%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
