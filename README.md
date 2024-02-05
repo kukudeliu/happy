@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 21:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 21:05:01</h4></div>
 
 > 微博  
 
-1. [车厘子价格跌至每斤20元](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%87%B3%E6%AF%8F%E6%96%A420%E5%85%83%23&t=31&band_rank=1&Refer=top)<br />
-2. [王豆豆怀孕](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%B1%86%E8%B1%86%E6%80%80%E5%AD%95%23&t=31&band_rank=2&Refer=top)<br />
+1. [王豆豆怀孕](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%B1%86%E8%B1%86%E6%80%80%E5%AD%95%23&t=31&band_rank=1&Refer=top)<br />
+2. [车厘子价格跌至每斤20元](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%87%B3%E6%AF%8F%E6%96%A420%E5%85%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [龙年气氛组已就位](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E6%B0%94%E6%B0%9B%E7%BB%84%E5%B7%B2%E5%B0%B1%E4%BD%8D%23&t=31&band_rank=3&Refer=top)<br />
 4. [梅西爽约突破商业底线](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E7%88%BD%E7%BA%A6%E7%AA%81%E7%A0%B4%E5%95%86%E4%B8%9A%E5%BA%95%E7%BA%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [梅西表演赛主办方撤回1600万港元资助申请](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%A1%A8%E6%BC%94%E8%B5%9B%E4%B8%BB%E5%8A%9E%E6%96%B9%E6%92%A4%E5%9B%9E1600%E4%B8%87%E6%B8%AF%E5%85%83%E8%B5%84%E5%8A%A9%E7%94%B3%E8%AF%B7%23&t=31&band_rank=5&Refer=top)<br />
