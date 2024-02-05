@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 03:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 03:33:01</h4></div>
 
 > 微博  
 
 1. [从脂肪肝到肝癌只需四步](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E8%84%82%E8%82%AA%E8%82%9D%E5%88%B0%E8%82%9D%E7%99%8C%E5%8F%AA%E9%9C%80%E5%9B%9B%E6%AD%A5%23&t=31&band_rank=1&Refer=top)<br />
-2. [日本小姐冠军承认当小三放弃桂冠](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A7%90%E5%86%A0%E5%86%9B%E6%89%BF%E8%AE%A4%E5%BD%93%E5%B0%8F%E4%B8%89%E6%94%BE%E5%BC%83%E6%A1%82%E5%86%A0%23&t=31&band_rank=2&Refer=top)<br />
+2. [梅西表演赛主办方撤回1600万港元资助申请](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%A1%A8%E6%BC%94%E8%B5%9B%E4%B8%BB%E5%8A%9E%E6%96%B9%E6%92%A4%E5%9B%9E1600%E4%B8%87%E6%B8%AF%E5%85%83%E8%B5%84%E5%8A%A9%E7%94%B3%E8%AF%B7%23&t=31&band_rank=2&Refer=top)<br />
 3. [我的龙年仪式感](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E9%BE%99%E5%B9%B4%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [梅西表演赛主办方撤回1600万港元资助申请](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%A1%A8%E6%BC%94%E8%B5%9B%E4%B8%BB%E5%8A%9E%E6%96%B9%E6%92%A4%E5%9B%9E1600%E4%B8%87%E6%B8%AF%E5%85%83%E8%B5%84%E5%8A%A9%E7%94%B3%E8%AF%B7%23&t=31&band_rank=4&Refer=top)<br />
+4. [日本小姐冠军承认当小三放弃桂冠](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A7%90%E5%86%A0%E5%86%9B%E6%89%BF%E8%AE%A4%E5%BD%93%E5%B0%8F%E4%B8%89%E6%94%BE%E5%BC%83%E6%A1%82%E5%86%A0%23&t=31&band_rank=4&Refer=top)<br />
 5. [我被暴雪留在高速的第三天](https://s.weibo.com/weibo?q=%E6%88%91%E8%A2%AB%E6%9A%B4%E9%9B%AA%E7%95%99%E5%9C%A8%E9%AB%98%E9%80%9F%E7%9A%84%E7%AC%AC%E4%B8%89%E5%A4%A9&t=31&band_rank=5&Refer=top)<br />
 6. [梅西爽约突破商业底线](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E7%88%BD%E7%BA%A6%E7%AA%81%E7%A0%B4%E5%95%86%E4%B8%9A%E5%BA%95%E7%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [梅西抵达日本](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%8A%B5%E8%BE%BE%E6%97%A5%E6%9C%AC%23&t=31&band_rank=7&Refer=top)<br />
