@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 12:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 12:47:02</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [民安才能国泰](https://www.baidu.com/s?wd=%E6%B0%91%E5%AE%89%E6%89%8D%E8%83%BD%E5%9B%BD%E6%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [主题教育总结会议在京召开](https://www.baidu.com/s?wd=%E4%B8%BB%E9%A2%98%E6%95%99%E8%82%B2%E6%80%BB%E7%BB%93%E4%BC%9A%E8%AE%AE%E5%9C%A8%E4%BA%AC%E5%8F%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [霍启刚要求梅西与迈阿密道歉](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E8%A6%81%E6%B1%82%E6%A2%85%E8%A5%BF%E4%B8%8E%E8%BF%88%E9%98%BF%E5%AF%86%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [A股超千股跌停](https://www.baidu.com/s?wd=A%E8%82%A1%E8%B6%85%E5%8D%83%E8%82%A1%E8%B7%8C%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [护航雨雪中的春运路](https://www.baidu.com/s?wd=%E6%8A%A4%E8%88%AA%E9%9B%A8%E9%9B%AA%E4%B8%AD%E7%9A%84%E6%98%A5%E8%BF%90%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [民安才能国泰](https://www.baidu.com/s?wd=%E6%B0%91%E5%AE%89%E6%89%8D%E8%83%BD%E5%9B%BD%E6%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [主题教育总结会议在京召开](https://www.baidu.com/s?wd=%E4%B8%BB%E9%A2%98%E6%95%99%E8%82%B2%E6%80%BB%E7%BB%93%E4%BC%9A%E8%AE%AE%E5%9C%A8%E4%BA%AC%E5%8F%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [霍启刚要求梅西与迈阿密道歉](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E8%A6%81%E6%B1%82%E6%A2%85%E8%A5%BF%E4%B8%8E%E8%BF%88%E9%98%BF%E5%AF%86%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [A股超千股跌停](https://www.baidu.com/s?wd=A%E8%82%A1%E8%B6%85%E5%8D%83%E8%82%A1%E8%B7%8C%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [护航雨雪中的春运路](https://www.baidu.com/s?wd=%E6%8A%A4%E8%88%AA%E9%9B%A8%E9%9B%AA%E4%B8%AD%E7%9A%84%E6%98%A5%E8%BF%90%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
