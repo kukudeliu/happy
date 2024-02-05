@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 08:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 09:00:01</h4></div>
 
 > 微博  
 
 1. [因暴雪滞留高速亲历者发声](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E6%9A%B4%E9%9B%AA%E6%BB%9E%E7%95%99%E9%AB%98%E9%80%9F%E4%BA%B2%E5%8E%86%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top)<br />
 2. [半个娱乐圈都在苏醒的拟邀名单上](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E9%83%BD%E5%9C%A8%E8%8B%8F%E9%86%92%E7%9A%84%E6%8B%9F%E9%82%80%E5%90%8D%E5%8D%95%E4%B8%8A%23&t=31&band_rank=2&Refer=top)<br />
 3. [又被中式美学惊艳了](https://s.weibo.com/weibo?q=%23%E5%8F%88%E8%A2%AB%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E6%83%8A%E8%89%B3%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [全程还原奔驰男下车后1分钟](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%A8%8B%E8%BF%98%E5%8E%9F%E5%A5%94%E9%A9%B0%E7%94%B7%E4%B8%8B%E8%BD%A6%E5%90%8E1%E5%88%86%E9%92%9F%23&t=31&band_rank=4&Refer=top)<br />
-5. [12306回应一些车次为何开售即秒光](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B8%80%E4%BA%9B%E8%BD%A6%E6%AC%A1%E4%B8%BA%E4%BD%95%E5%BC%80%E5%94%AE%E5%8D%B3%E7%A7%92%E5%85%89%23&t=31&band_rank=5&Refer=top)<br />
+4. [12306回应一些车次为何开售即秒光](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B8%80%E4%BA%9B%E8%BD%A6%E6%AC%A1%E4%B8%BA%E4%BD%95%E5%BC%80%E5%94%AE%E5%8D%B3%E7%A7%92%E5%85%89%23&t=31&band_rank=4&Refer=top)<br />
+5. [全程还原奔驰男下车后1分钟](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%A8%8B%E8%BF%98%E5%8E%9F%E5%A5%94%E9%A9%B0%E7%94%B7%E4%B8%8B%E8%BD%A6%E5%90%8E1%E5%88%86%E9%92%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [梅西赛后拒绝领奖发言](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E6%8B%92%E7%BB%9D%E9%A2%86%E5%A5%96%E5%8F%91%E8%A8%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [格莱美红毯](https://s.weibo.com/weibo?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E%E7%BA%A2%E6%AF%AF&t=31&band_rank=7&Refer=top)<br />
-8. [春运买短乘长可能被请下车](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%BF%90%E4%B9%B0%E7%9F%AD%E4%B9%98%E9%95%BF%E5%8F%AF%E8%83%BD%E8%A2%AB%E8%AF%B7%E4%B8%8B%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
+7. [春运买短乘长可能被请下车](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%BF%90%E4%B9%B0%E7%9F%AD%E4%B9%98%E9%95%BF%E5%8F%AF%E8%83%BD%E8%A2%AB%E8%AF%B7%E4%B8%8B%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
+8. [格莱美红毯](https://s.weibo.com/weibo?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E%E7%BA%A2%E6%AF%AF&t=31&band_rank=8&Refer=top)<br />
 9. [孩子玩手机把导航从回江西换到福建](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%8A%8A%E5%AF%BC%E8%88%AA%E4%BB%8E%E5%9B%9E%E6%B1%9F%E8%A5%BF%E6%8D%A2%E5%88%B0%E7%A6%8F%E5%BB%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
