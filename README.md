@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 16:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 16:42:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [春节假期安全提示来了](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E5%AE%89%E5%85%A8%E6%8F%90%E7%A4%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [A股三大股指全部翻红](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E5%85%A8%E9%83%A8%E7%BF%BB%E7%BA%A2%23&t=31&band_rank=4&Refer=top)<br />
 5. [张天爱 神经病](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A4%A9%E7%88%B1%20%E7%A5%9E%E7%BB%8F%E7%97%85&t=31&band_rank=5&Refer=top)<br />
-6. [霍启刚要求梅西与迈阿密道歉](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E8%A6%81%E6%B1%82%E6%A2%85%E8%A5%BF%E4%B8%8E%E8%BF%88%E9%98%BF%E5%AF%86%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [教育局回应教务处老师被曝性骚扰女生](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%95%99%E5%8A%A1%E5%A4%84%E8%80%81%E5%B8%88%E8%A2%AB%E6%9B%9D%E6%80%A7%E9%AA%9A%E6%89%B0%E5%A5%B3%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫爸爸 童星是枷锁也是沼泽](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%88%B8%E7%88%B8%20%E7%AB%A5%E6%98%9F%E6%98%AF%E6%9E%B7%E9%94%81%E4%B9%9F%E6%98%AF%E6%B2%BC%E6%B3%BD&t=31&band_rank=8&Refer=top)<br />
-9. [龙年央视春晚主持人阵容](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
+6. [教育局回应教务处老师被曝性骚扰女生](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%95%99%E5%8A%A1%E5%A4%84%E8%80%81%E5%B8%88%E8%A2%AB%E6%9B%9D%E6%80%A7%E9%AA%9A%E6%89%B0%E5%A5%B3%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
+7. [龙年央视春晚主持人阵容](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%23&t=31&band_rank=7&Refer=top)<br />
+8. [霍启刚要求梅西与迈阿密道歉](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E8%A6%81%E6%B1%82%E6%A2%85%E8%A5%BF%E4%B8%8E%E8%BF%88%E9%98%BF%E5%AF%86%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [杨紫爸爸 童星是枷锁也是沼泽](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%88%B8%E7%88%B8%20%E7%AB%A5%E6%98%9F%E6%98%AF%E6%9E%B7%E9%94%81%E4%B9%9F%E6%98%AF%E6%B2%BC%E6%B3%BD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
