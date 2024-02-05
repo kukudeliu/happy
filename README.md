@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 14:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 14:37:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [杨紫因拍戏婉拒春晚](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%A0%E6%8B%8D%E6%88%8F%E5%A9%89%E6%8B%92%E6%98%A5%E6%99%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [张天爱 神经病](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A4%A9%E7%88%B1%20%E7%A5%9E%E7%BB%8F%E7%97%85&t=31&band_rank=6&Refer=top)<br />
 7. [张佳宁换头像](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BD%B3%E5%AE%81%E6%8D%A2%E5%A4%B4%E5%83%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [酱园弄 章子怡](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%20%E7%AB%A0%E5%AD%90%E6%80%A1&t=31&band_rank=8&Refer=top)<br />
+8. [A股三大股指全部翻红](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E5%85%A8%E9%83%A8%E7%BF%BB%E7%BA%A2%23&t=31&band_rank=8&Refer=top)<br />
 9. [玉桂狗](https://s.weibo.com/weibo?q=%E7%8E%89%E6%A1%82%E7%8B%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
