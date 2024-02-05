@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 17:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 17:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周深演了杨幂的男主角](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%BC%94%E4%BA%86%E6%9D%A8%E5%B9%82%E7%9A%84%E7%94%B7%E4%B8%BB%E8%A7%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [虞姬典藏 精致土](https://s.weibo.com/weibo?q=%E8%99%9E%E5%A7%AC%E5%85%B8%E8%97%8F%20%E7%B2%BE%E8%87%B4%E5%9C%9F&t=31&band_rank=7&Refer=top)<br />
 8. [霍启刚要求梅西与迈阿密道歉](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E8%A6%81%E6%B1%82%E6%A2%85%E8%A5%BF%E4%B8%8E%E8%BF%88%E9%98%BF%E5%AF%86%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [湖北暴雪司机被困36小时煮雪融水喝](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E6%9A%B4%E9%9B%AA%E5%8F%B8%E6%9C%BA%E8%A2%AB%E5%9B%B036%E5%B0%8F%E6%97%B6%E7%85%AE%E9%9B%AA%E8%9E%8D%E6%B0%B4%E5%96%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [7个月宝宝吃猕猴桃经历断崖式衰老](https://s.weibo.com/weibo?q=%237%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E5%90%83%E7%8C%95%E7%8C%B4%E6%A1%83%E7%BB%8F%E5%8E%86%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
