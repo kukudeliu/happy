@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 16:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 16:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张天爱 神经病](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A4%A9%E7%88%B1%20%E7%A5%9E%E7%BB%8F%E7%97%85&t=31&band_rank=5&Refer=top)<br />
 6. [霍启刚要求梅西与迈阿密道歉](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E8%A6%81%E6%B1%82%E6%A2%85%E8%A5%BF%E4%B8%8E%E8%BF%88%E9%98%BF%E5%AF%86%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫爸爸 童星是枷锁也是沼泽](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%88%B8%E7%88%B8%20%E7%AB%A5%E6%98%9F%E6%98%AF%E6%9E%B7%E9%94%81%E4%B9%9F%E6%98%AF%E6%B2%BC%E6%B3%BD&t=31&band_rank=7&Refer=top)<br />
-8. [谁给张婧仪化的妆](https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%8C%96%E7%9A%84%E5%A6%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [虞姬典藏 精致土](https://s.weibo.com/weibo?q=%E8%99%9E%E5%A7%AC%E5%85%B8%E8%97%8F%20%E7%B2%BE%E8%87%B4%E5%9C%9F&t=31&band_rank=9&Refer=top)<br />
+8. [虞姬典藏 精致土](https://s.weibo.com/weibo?q=%E8%99%9E%E5%A7%AC%E5%85%B8%E8%97%8F%20%E7%B2%BE%E8%87%B4%E5%9C%9F&t=31&band_rank=8&Refer=top)<br />
+9. [谁给张婧仪化的妆](https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%8C%96%E7%9A%84%E5%A6%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
