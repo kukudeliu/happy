@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 07:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 07:49:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [日本小姐承认当“小三”放弃桂冠](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A7%90%E6%89%BF%E8%AE%A4%E5%BD%93%E2%80%9C%E5%B0%8F%E4%B8%89%E2%80%9D%E6%94%BE%E5%BC%83%E6%A1%82%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张颂文：上你个头，我要过年！](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%EF%BC%9A%E4%B8%8A%E4%BD%A0%E4%B8%AA%E5%A4%B4%EF%BC%8C%E6%88%91%E8%A6%81%E8%BF%87%E5%B9%B4%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [全红婵首夺世锦赛女子10米台冠军](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%A6%96%E5%A4%BA%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A5%B3%E5%AD%9010%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [文旅局长带着锅和煤气罐赶到高速口](https://www.baidu.com/s?wd=%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E5%B8%A6%E7%9D%80%E9%94%85%E5%92%8C%E7%85%A4%E6%B0%94%E7%BD%90%E8%B5%B6%E5%88%B0%E9%AB%98%E9%80%9F%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [腊月二十七，宰鸡赶大集](https://www.baidu.com/s?wd=%E8%85%8A%E6%9C%88%E4%BA%8C%E5%8D%81%E4%B8%83%EF%BC%8C%E5%AE%B0%E9%B8%A1%E8%B5%B6%E5%A4%A7%E9%9B%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [头孢配酒一点事没有？谣言](https://www.baidu.com/s?wd=%E5%A4%B4%E5%AD%A2%E9%85%8D%E9%85%92%E4%B8%80%E7%82%B9%E4%BA%8B%E6%B2%A1%E6%9C%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [日本小姐承认当“小三”放弃桂冠](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A7%90%E6%89%BF%E8%AE%A4%E5%BD%93%E2%80%9C%E5%B0%8F%E4%B8%89%E2%80%9D%E6%94%BE%E5%BC%83%E6%A1%82%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张颂文：上你个头，我要过年！](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%EF%BC%9A%E4%B8%8A%E4%BD%A0%E4%B8%AA%E5%A4%B4%EF%BC%8C%E6%88%91%E8%A6%81%E8%BF%87%E5%B9%B4%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [全红婵首夺世锦赛女子10米台冠军](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%A6%96%E5%A4%BA%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A5%B3%E5%AD%9010%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [文旅局长带着锅和煤气罐赶到高速口](https://www.baidu.com/s?wd=%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E5%B8%A6%E7%9D%80%E9%94%85%E5%92%8C%E7%85%A4%E6%B0%94%E7%BD%90%E8%B5%B6%E5%88%B0%E9%AB%98%E9%80%9F%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [腊月二十七，宰鸡赶大集](https://www.baidu.com/s?wd=%E8%85%8A%E6%9C%88%E4%BA%8C%E5%8D%81%E4%B8%83%EF%BC%8C%E5%AE%B0%E9%B8%A1%E8%B5%B6%E5%A4%A7%E9%9B%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [头孢配酒一点事没有？谣言](https://www.baidu.com/s?wd=%E5%A4%B4%E5%AD%A2%E9%85%8D%E9%85%92%E4%B8%80%E7%82%B9%E4%BA%8B%E6%B2%A1%E6%9C%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
