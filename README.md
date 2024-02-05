@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 15:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 15:31:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [卫生间窗户一夜未关积雪堆成雪山](https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E9%97%B4%E7%AA%97%E6%88%B7%E4%B8%80%E5%A4%9C%E6%9C%AA%E5%85%B3%E7%A7%AF%E9%9B%AA%E5%A0%86%E6%88%90%E9%9B%AA%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高铁停运男子怒问为何不让下车](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%81%9C%E8%BF%90%E7%94%B7%E5%AD%90%E6%80%92%E9%97%AE%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%AE%A9%E4%B8%8B%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子称被困机场30小时 有旅客晕倒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E5%9B%B0%E6%9C%BA%E5%9C%BA30%E5%B0%8F%E6%97%B6+%E6%9C%89%E6%97%85%E5%AE%A2%E6%99%95%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子被堵50多小时委屈抹泪：想回家](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A0%B550%E5%A4%9A%E5%B0%8F%E6%97%B6%E5%A7%94%E5%B1%88%E6%8A%B9%E6%B3%AA%EF%BC%9A%E6%83%B3%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡锡进：普通散户股民是无辜的](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%99%AE%E9%80%9A%E6%95%A3%E6%88%B7%E8%82%A1%E6%B0%91%E6%98%AF%E6%97%A0%E8%BE%9C%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春运期间火车票只卖长途票？](https://www.baidu.com/s?wd=%E6%98%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%8F%AA%E5%8D%96%E9%95%BF%E9%80%94%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [卫生间窗户一夜未关积雪堆成雪山](https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E9%97%B4%E7%AA%97%E6%88%B7%E4%B8%80%E5%A4%9C%E6%9C%AA%E5%85%B3%E7%A7%AF%E9%9B%AA%E5%A0%86%E6%88%90%E9%9B%AA%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高铁停运男子怒问为何不让下车](https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%81%9C%E8%BF%90%E7%94%B7%E5%AD%90%E6%80%92%E9%97%AE%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%AE%A9%E4%B8%8B%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子称被困机场30小时 有旅客晕倒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E5%9B%B0%E6%9C%BA%E5%9C%BA30%E5%B0%8F%E6%97%B6+%E6%9C%89%E6%97%85%E5%AE%A2%E6%99%95%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子被堵50多小时委屈抹泪：想回家](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A0%B550%E5%A4%9A%E5%B0%8F%E6%97%B6%E5%A7%94%E5%B1%88%E6%8A%B9%E6%B3%AA%EF%BC%9A%E6%83%B3%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胡锡进：普通散户股民是无辜的](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%99%AE%E9%80%9A%E6%95%A3%E6%88%B7%E8%82%A1%E6%B0%91%E6%98%AF%E6%97%A0%E8%BE%9C%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春运期间火车票只卖长途票？](https://www.baidu.com/s?wd=%E6%98%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%8F%AA%E5%8D%96%E9%95%BF%E9%80%94%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
