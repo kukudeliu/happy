@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 09:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 09:48:01</h4></div>
 
 > 微博  
 
 1. [霍启刚要求梅西与迈阿密道歉](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E8%A6%81%E6%B1%82%E6%A2%85%E8%A5%BF%E4%B8%8E%E8%BF%88%E9%98%BF%E5%AF%86%E9%81%93%E6%AD%89%23&t=31&band_rank=1&Refer=top)<br />
-2. [半个娱乐圈都在苏醒的拟邀名单上](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E9%83%BD%E5%9C%A8%E8%8B%8F%E9%86%92%E7%9A%84%E6%8B%9F%E9%82%80%E5%90%8D%E5%8D%95%E4%B8%8A%23&t=31&band_rank=2&Refer=top)<br />
+2. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=2&Refer=top)<br />
 3. [又被中式美学惊艳了](https://s.weibo.com/weibo?q=%23%E5%8F%88%E8%A2%AB%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E6%83%8A%E8%89%B3%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [格莱美红毯](https://s.weibo.com/weibo?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E%E7%BA%A2%E6%AF%AF&t=31&band_rank=4&Refer=top)<br />
+4. [半个娱乐圈都在苏醒的拟邀名单上](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E9%83%BD%E5%9C%A8%E8%8B%8F%E9%86%92%E7%9A%84%E6%8B%9F%E9%82%80%E5%90%8D%E5%8D%95%E4%B8%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [因暴雪滞留高速亲历者发声](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E6%9A%B4%E9%9B%AA%E6%BB%9E%E7%95%99%E9%AB%98%E9%80%9F%E4%BA%B2%E5%8E%86%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=6&Refer=top)<br />
+6. [格莱美红毯](https://s.weibo.com/weibo?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E%E7%BA%A2%E6%AF%AF&t=31&band_rank=6&Refer=top)<br />
 7. [梅西赛后拒绝领奖发言](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E6%8B%92%E7%BB%9D%E9%A2%86%E5%A5%96%E5%8F%91%E8%A8%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [格莱美颁奖礼](https://s.weibo.com/weibo?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E%E9%A2%81%E5%A5%96%E7%A4%BC&t=31&band_rank=8&Refer=top)<br />
 9. [英国王室辟谣凯特王妃陷入昏迷](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%AE%A4%E8%BE%9F%E8%B0%A3%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E9%99%B7%E5%85%A5%E6%98%8F%E8%BF%B7%23&t=31&band_rank=9&Refer=top)<br />
