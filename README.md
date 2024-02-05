@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 12:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 12:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [开房车女生被困高速借卫生间给女生](https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%88%BF%E8%BD%A6%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%9B%B0%E9%AB%98%E9%80%9F%E5%80%9F%E5%8D%AB%E7%94%9F%E9%97%B4%E7%BB%99%E5%A5%B3%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [格莱美颁奖礼](https://s.weibo.com/weibo?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E%E9%A2%81%E5%A5%96%E7%A4%BC&t=31&band_rank=7&Refer=top)<br />
 8. [长相思是杨紫自己决定的第一个戏](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E6%98%AF%E6%9D%A8%E7%B4%AB%E8%87%AA%E5%B7%B1%E5%86%B3%E5%AE%9A%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [安倍晋三母亲去世](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [长江大学回应大雪压塌学校食堂](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A4%A7%E9%9B%AA%E5%8E%8B%E5%A1%8C%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
