@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 09:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 09:05:01</h4></div>
 
 > 微博  
 
-1. [半个娱乐圈都在苏醒的拟邀名单上](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E9%83%BD%E5%9C%A8%E8%8B%8F%E9%86%92%E7%9A%84%E6%8B%9F%E9%82%80%E5%90%8D%E5%8D%95%E4%B8%8A%23&t=31&band_rank=1&Refer=top)<br />
-2. [因暴雪滞留高速亲历者发声](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E6%9A%B4%E9%9B%AA%E6%BB%9E%E7%95%99%E9%AB%98%E9%80%9F%E4%BA%B2%E5%8E%86%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=2&Refer=top)<br />
+1. [因暴雪滞留高速亲历者发声](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E6%9A%B4%E9%9B%AA%E6%BB%9E%E7%95%99%E9%AB%98%E9%80%9F%E4%BA%B2%E5%8E%86%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top)<br />
+2. [半个娱乐圈都在苏醒的拟邀名单上](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E9%83%BD%E5%9C%A8%E8%8B%8F%E9%86%92%E7%9A%84%E6%8B%9F%E9%82%80%E5%90%8D%E5%8D%95%E4%B8%8A%23&t=31&band_rank=2&Refer=top)<br />
 3. [又被中式美学惊艳了](https://s.weibo.com/weibo?q=%23%E5%8F%88%E8%A2%AB%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E6%83%8A%E8%89%B3%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [12306回应一些车次为何开售即秒光](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B8%80%E4%BA%9B%E8%BD%A6%E6%AC%A1%E4%B8%BA%E4%BD%95%E5%BC%80%E5%94%AE%E5%8D%B3%E7%A7%92%E5%85%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [全程还原奔驰男下车后1分钟](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%A8%8B%E8%BF%98%E5%8E%9F%E5%A5%94%E9%A9%B0%E7%94%B7%E4%B8%8B%E8%BD%A6%E5%90%8E1%E5%88%86%E9%92%9F%23&t=31&band_rank=5&Refer=top)<br />
