@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 17:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 17:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [双北 春晚](https://s.weibo.com/weibo?q=%E5%8F%8C%E5%8C%97%20%E6%98%A5%E6%99%9A&t=31&band_rank=6&Refer=top)<br />
 7. [7个月宝宝吃猕猴桃经历断崖式衰老](https://s.weibo.com/weibo?q=%237%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E5%90%83%E7%8C%95%E7%8C%B4%E6%A1%83%E7%BB%8F%E5%8E%86%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [龙年央视春晚主持人阵容](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [霍启刚要求梅西与迈阿密道歉](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E8%A6%81%E6%B1%82%E6%A2%85%E8%A5%BF%E4%B8%8E%E8%BF%88%E9%98%BF%E5%AF%86%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [有姥爷在的世界我就是最好的小孩](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%A7%A5%E7%88%B7%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E6%88%91%E5%B0%B1%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E5%B0%8F%E5%AD%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
