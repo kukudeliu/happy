@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 19:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 19:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [双北 春晚](https://s.weibo.com/weibo?q=%E5%8F%8C%E5%8C%97%20%E6%98%A5%E6%99%9A&t=31&band_rank=6&Refer=top)<br />
 7. [有姥爷在的世界我就是最好的小孩](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%A7%A5%E7%88%B7%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E6%88%91%E5%B0%B1%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E5%B0%8F%E5%AD%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [范丞丞科目一考了好几次](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%A7%91%E7%9B%AE%E4%B8%80%E8%80%83%E4%BA%86%E5%A5%BD%E5%87%A0%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [周也周氏集团新闻发布会](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E5%91%A8%E6%B0%8F%E9%9B%86%E5%9B%A2%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [美甲建构](https://s.weibo.com/weibo?q=%E7%BE%8E%E7%94%B2%E5%BB%BA%E6%9E%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
