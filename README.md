@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 17:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 17:04:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男子被堵50多小时委屈抹泪：想回家](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A0%B550%E5%A4%9A%E5%B0%8F%E6%97%B6%E5%A7%94%E5%B1%88%E6%8A%B9%E6%B3%AA%EF%BC%9A%E6%83%B3%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡锡进：时光能倒流肯定不投资股市](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%97%B6%E5%85%89%E8%83%BD%E5%80%92%E6%B5%81%E8%82%AF%E5%AE%9A%E4%B8%8D%E6%8A%95%E8%B5%84%E8%82%A1%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [为何绿皮火车不怕暴雪](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E4%B8%8D%E6%80%95%E6%9A%B4%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [自驾回乡遇大雪 有私家车被临时抛弃](https://www.baidu.com/s?wd=%E8%87%AA%E9%A9%BE%E5%9B%9E%E4%B9%A1%E9%81%87%E5%A4%A7%E9%9B%AA+%E6%9C%89%E7%A7%81%E5%AE%B6%E8%BD%A6%E8%A2%AB%E4%B8%B4%E6%97%B6%E6%8A%9B%E5%BC%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子吃新疆大盘鸡拼成“长颈鸡”](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E6%96%B0%E7%96%86%E5%A4%A7%E7%9B%98%E9%B8%A1%E6%8B%BC%E6%88%90%E2%80%9C%E9%95%BF%E9%A2%88%E9%B8%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春运期间火车票只卖长途票？](https://www.baidu.com/s?wd=%E6%98%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%8F%AA%E5%8D%96%E9%95%BF%E9%80%94%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子被堵50多小时委屈抹泪：想回家](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A0%B550%E5%A4%9A%E5%B0%8F%E6%97%B6%E5%A7%94%E5%B1%88%E6%8A%B9%E6%B3%AA%EF%BC%9A%E6%83%B3%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [胡锡进：时光能倒流肯定不投资股市](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%97%B6%E5%85%89%E8%83%BD%E5%80%92%E6%B5%81%E8%82%AF%E5%AE%9A%E4%B8%8D%E6%8A%95%E8%B5%84%E8%82%A1%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [为何绿皮火车不怕暴雪](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E4%B8%8D%E6%80%95%E6%9A%B4%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [自驾回乡遇大雪 有私家车被临时抛弃](https://www.baidu.com/s?wd=%E8%87%AA%E9%A9%BE%E5%9B%9E%E4%B9%A1%E9%81%87%E5%A4%A7%E9%9B%AA+%E6%9C%89%E7%A7%81%E5%AE%B6%E8%BD%A6%E8%A2%AB%E4%B8%B4%E6%97%B6%E6%8A%9B%E5%BC%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子吃新疆大盘鸡拼成“长颈鸡”](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E6%96%B0%E7%96%86%E5%A4%A7%E7%9B%98%E9%B8%A1%E6%8B%BC%E6%88%90%E2%80%9C%E9%95%BF%E9%A2%88%E9%B8%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春运期间火车票只卖长途票？](https://www.baidu.com/s?wd=%E6%98%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%8F%AA%E5%8D%96%E9%95%BF%E9%80%94%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
