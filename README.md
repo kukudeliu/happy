@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 10:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 10:42:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=2&Refer=top)<br />
 3. [又被中式美学惊艳了](https://s.weibo.com/weibo?q=%23%E5%8F%88%E8%A2%AB%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E6%83%8A%E8%89%B3%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [机票1800元退票费1500元](https://s.weibo.com/weibo?q=%23%E6%9C%BA%E7%A5%A81800%E5%85%83%E9%80%80%E7%A5%A8%E8%B4%B91500%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
-5. [安倍晋三母亲去世](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [A股千股跌停](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%83%E8%82%A1%E8%B7%8C%E5%81%9C%23&t=31&band_rank=6&Refer=top)<br />
+5. [A股千股跌停](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%83%E8%82%A1%E8%B7%8C%E5%81%9C%23&t=31&band_rank=5&Refer=top)<br />
+6. [安倍晋三母亲去世](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [半个娱乐圈都在苏醒的拟邀名单上](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E9%83%BD%E5%9C%A8%E8%8B%8F%E9%86%92%E7%9A%84%E6%8B%9F%E9%82%80%E5%90%8D%E5%8D%95%E4%B8%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [格莱美颁奖礼](https://s.weibo.com/weibo?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E%E9%A2%81%E5%A5%96%E7%A4%BC&t=31&band_rank=8&Refer=top)<br />
-9. [梅西赛后拒绝领奖发言](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E6%8B%92%E7%BB%9D%E9%A2%86%E5%A5%96%E5%8F%91%E8%A8%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [霉霉高开衩白裙](https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E9%AB%98%E5%BC%80%E8%A1%A9%E7%99%BD%E8%A3%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
