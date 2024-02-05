@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 19:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-05 19:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美甲建构](https://s.weibo.com/weibo?q=%E7%BE%8E%E7%94%B2%E5%BB%BA%E6%9E%84&t=31&band_rank=6&Refer=top)<br />
 7. [致敬默默守护春运的他们](https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E9%BB%98%E9%BB%98%E5%AE%88%E6%8A%A4%E6%98%A5%E8%BF%90%E7%9A%84%E4%BB%96%E4%BB%AC%23&t=31&band_rank=7&Refer=top)<br />
 8. [霍启刚要求梅西与迈阿密道歉](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E8%A6%81%E6%B1%82%E6%A2%85%E8%A5%BF%E4%B8%8E%E8%BF%88%E9%98%BF%E5%AF%86%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [双北 春晚](https://s.weibo.com/weibo?q=%E5%8F%8C%E5%8C%97%20%E6%98%A5%E6%99%9A&t=31&band_rank=9&Refer=top)<br />
+9. [范丞丞科目一考了好几次](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%A7%91%E7%9B%AE%E4%B8%80%E8%80%83%E4%BA%86%E5%A5%BD%E5%87%A0%E6%AC%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
