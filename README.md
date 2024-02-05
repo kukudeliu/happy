@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 00:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 00:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [当一个行业开始赚钱女性就被迫离开](https://s.weibo.com/weibo?q=%E5%BD%93%E4%B8%80%E4%B8%AA%E8%A1%8C%E4%B8%9A%E5%BC%80%E5%A7%8B%E8%B5%9A%E9%92%B1%E5%A5%B3%E6%80%A7%E5%B0%B1%E8%A2%AB%E8%BF%AB%E7%A6%BB%E5%BC%80&t=31&band_rank=5&Refer=top)<br />
 6. [梅西爽约突破商业底线](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E7%88%BD%E7%BA%A6%E7%AA%81%E7%A0%B4%E5%95%86%E4%B8%9A%E5%BA%95%E7%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [王豆豆怀孕](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%B1%86%E8%B1%86%E6%80%80%E5%AD%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [车厘子价格跌至每斤20元](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%87%B3%E6%AF%8F%E6%96%A420%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子花20万彩礼闪婚仅十多天就离婚](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B120%E4%B8%87%E5%BD%A9%E7%A4%BC%E9%97%AA%E5%A9%9A%E4%BB%85%E5%8D%81%E5%A4%9A%E5%A4%A9%E5%B0%B1%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子花20万彩礼闪婚仅十多天就离婚](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B120%E4%B8%87%E5%BD%A9%E7%A4%BC%E9%97%AA%E5%A9%9A%E4%BB%85%E5%8D%81%E5%A4%9A%E5%A4%A9%E5%B0%B1%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [车厘子价格跌至每斤20元](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%87%B3%E6%AF%8F%E6%96%A420%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
