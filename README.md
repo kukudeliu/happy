@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 16:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 16:29:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [全国文旅市场火热](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%96%87%E6%97%85%E5%B8%82%E5%9C%BA%E7%81%AB%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华中农大通报教授学术造假：解聘](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%AD%E5%86%9C%E5%A4%A7%E9%80%9A%E6%8A%A5%E6%95%99%E6%8E%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%EF%BC%9A%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梅西回应缺席香港：没受伤但不舒服](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%9B%9E%E5%BA%94%E7%BC%BA%E5%B8%AD%E9%A6%99%E6%B8%AF%EF%BC%9A%E6%B2%A1%E5%8F%97%E4%BC%A4%E4%BD%86%E4%B8%8D%E8%88%92%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [华为分红770亿元](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%88%86%E7%BA%A2770%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [员工因年会穿太丑获奖1万元](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E5%9B%A0%E5%B9%B4%E4%BC%9A%E7%A9%BF%E5%A4%AA%E4%B8%91%E8%8E%B7%E5%A5%961%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大学生返乡一人搞定全村祝福语](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%94%E4%B9%A1%E4%B8%80%E4%BA%BA%E6%90%9E%E5%AE%9A%E5%85%A8%E6%9D%91%E7%A5%9D%E7%A6%8F%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [家长集资给老师送按摩椅？](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E9%9B%86%E8%B5%84%E7%BB%99%E8%80%81%E5%B8%88%E9%80%81%E6%8C%89%E6%91%A9%E6%A4%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [全国文旅市场火热](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%96%87%E6%97%85%E5%B8%82%E5%9C%BA%E7%81%AB%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [华中农大通报教授学术造假：解聘](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%AD%E5%86%9C%E5%A4%A7%E9%80%9A%E6%8A%A5%E6%95%99%E6%8E%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%EF%BC%9A%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梅西回应缺席香港：没受伤但不舒服](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%9B%9E%E5%BA%94%E7%BC%BA%E5%B8%AD%E9%A6%99%E6%B8%AF%EF%BC%9A%E6%B2%A1%E5%8F%97%E4%BC%A4%E4%BD%86%E4%B8%8D%E8%88%92%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [华为分红770亿元](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%88%86%E7%BA%A2770%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [员工因年会穿太丑获奖1万元](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E5%9B%A0%E5%B9%B4%E4%BC%9A%E7%A9%BF%E5%A4%AA%E4%B8%91%E8%8E%B7%E5%A5%961%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大学生返乡一人搞定全村祝福语](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%94%E4%B9%A1%E4%B8%80%E4%BA%BA%E6%90%9E%E5%AE%9A%E5%85%A8%E6%9D%91%E7%A5%9D%E7%A6%8F%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [家长集资给老师送按摩椅？](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E9%9B%86%E8%B5%84%E7%BB%99%E8%80%81%E5%B8%88%E9%80%81%E6%8C%89%E6%91%A9%E6%A4%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
