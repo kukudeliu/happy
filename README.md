@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 11:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 11:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王者荣耀皮肤雨](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%9A%AE%E8%82%A4%E9%9B%A8&t=31&band_rank=6&Refer=top)<br />
 7. [梅西日本行](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E6%97%A5%E6%9C%AC%E8%A1%8C&t=31&band_rank=7&Refer=top)<br />
 8. [男子偷卖女朋友黄金用作恋爱开销](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B7%E5%8D%96%E5%A5%B3%E6%9C%8B%E5%8F%8B%E9%BB%84%E9%87%91%E7%94%A8%E4%BD%9C%E6%81%8B%E7%88%B1%E5%BC%80%E9%94%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [武汉暴雪](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [全红婵陈芋汐让解说词穷](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%E8%AE%A9%E8%A7%A3%E8%AF%B4%E8%AF%8D%E7%A9%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
