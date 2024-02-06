@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 18:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 18:14:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [今年回家新气象](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%9B%9E%E5%AE%B6%E6%96%B0%E6%B0%94%E8%B1%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [香港前特首女儿怒斥梅西](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%89%8D%E7%89%B9%E9%A6%96%E5%A5%B3%E5%84%BF%E6%80%92%E6%96%A5%E6%A2%85%E8%A5%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [雪地推车摔倒的武汉交警找到了](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%9C%B0%E6%8E%A8%E8%BD%A6%E6%91%94%E5%80%92%E7%9A%84%E6%AD%A6%E6%B1%89%E4%BA%A4%E8%AD%A6%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [那么高一大摞身份证有你遗失的吗](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%B9%88%E9%AB%98%E4%B8%80%E5%A4%A7%E6%91%9E%E8%BA%AB%E4%BB%BD%E8%AF%81%E6%9C%89%E4%BD%A0%E9%81%97%E5%A4%B1%E7%9A%84%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [化妆师兔子](https://s.weibo.com/weibo?q=%E5%8C%96%E5%A6%86%E5%B8%88%E5%85%94%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
-8. [胡夏转发金晨微博](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A4%8F%E8%BD%AC%E5%8F%91%E9%87%91%E6%99%A8%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [易烊千玺痛失本名](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%97%9B%E5%A4%B1%E6%9C%AC%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
+6. [化妆师兔子](https://s.weibo.com/weibo?q=%E5%8C%96%E5%A6%86%E5%B8%88%E5%85%94%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
+7. [胡夏转发金晨微博](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A4%8F%E8%BD%AC%E5%8F%91%E9%87%91%E6%99%A8%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [易烊千玺痛失本名](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%97%9B%E5%A4%B1%E6%9C%AC%E5%90%8D%23&t=31&band_rank=8&Refer=top)<br />
+9. [梅西说自己没受伤但不舒服](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%B2%A1%E5%8F%97%E4%BC%A4%E4%BD%86%E4%B8%8D%E8%88%92%E6%9C%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
