@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 10:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 10:34:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [知否版权](https://s.weibo.com/weibo?q=%E7%9F%A5%E5%90%A6%E7%89%88%E6%9D%83&t=31&band_rank=6&Refer=top)<br />
 7. [男子偷卖女朋友黄金用作恋爱开销](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B7%E5%8D%96%E5%A5%B3%E6%9C%8B%E5%8F%8B%E9%BB%84%E9%87%91%E7%94%A8%E4%BD%9C%E6%81%8B%E7%88%B1%E5%BC%80%E9%94%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [梅西日本行](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E6%97%A5%E6%9C%AC%E8%A1%8C&t=31&band_rank=8&Refer=top)<br />
-9. [哈尔滨10岁女童失踪13年后嫌疑人落网](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A810%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%A4%B1%E8%B8%AA13%E5%B9%B4%E5%90%8E%E5%AB%8C%E7%96%91%E4%BA%BA%E8%90%BD%E7%BD%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
