@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 20:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 20:27:01</h4></div>
 
 > 微博  
 
-1. [王者荣耀时代少年团直播](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%9B%B4%E6%92%AD&t=31&band_rank=1&Refer=top)<br />
-2. [刘亦菲刘宇宁或将合作](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%88%98%E5%AE%87%E5%AE%81%E6%88%96%E5%B0%86%E5%90%88%E4%BD%9C%23&t=31&band_rank=2&Refer=top)<br />
+1. [刘亦菲刘宇宁或将合作](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%88%98%E5%AE%87%E5%AE%81%E6%88%96%E5%B0%86%E5%90%88%E4%BD%9C%23&t=31&band_rank=1&Refer=top)<br />
+2. [王者荣耀时代少年团直播](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%9B%B4%E6%92%AD&t=31&band_rank=2&Refer=top)<br />
 3. [2023级熊猫宝宝集体拜年](https://s.weibo.com/weibo?q=%232023%E7%BA%A7%E7%86%8A%E7%8C%AB%E5%AE%9D%E5%AE%9D%E9%9B%86%E4%BD%93%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [霍启刚发长文](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%8F%91%E9%95%BF%E6%96%87&t=31&band_rank=4&Refer=top)<br />
 5. [奚梦瑶说22岁的金莎很漂亮](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E8%AF%B422%E5%B2%81%E7%9A%84%E9%87%91%E8%8E%8E%E5%BE%88%E6%BC%82%E4%BA%AE%23&t=31&band_rank=5&Refer=top)<br />
