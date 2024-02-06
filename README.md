@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 19:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 19:32:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [香港机场一拖行员被飞机撞倒身亡](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%9C%BA%E5%9C%BA%E4%B8%80%E6%8B%96%E8%A1%8C%E5%91%98%E8%A2%AB%E9%A3%9E%E6%9C%BA%E6%92%9E%E5%80%92%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [铲车这辈子没想过还能接婚礼的单](https://www.baidu.com/s?wd=%E9%93%B2%E8%BD%A6%E8%BF%99%E8%BE%88%E5%AD%90%E6%B2%A1%E6%83%B3%E8%BF%87%E8%BF%98%E8%83%BD%E6%8E%A5%E5%A9%9A%E7%A4%BC%E7%9A%84%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大学生返乡一人搞定全村祝福语](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%94%E4%B9%A1%E4%B8%80%E4%BA%BA%E6%90%9E%E5%AE%9A%E5%85%A8%E6%9D%91%E7%A5%9D%E7%A6%8F%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [济南一酒店着火？系消防演练](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E4%B8%80%E9%85%92%E5%BA%97%E7%9D%80%E7%81%AB%EF%BC%9F%E7%B3%BB%E6%B6%88%E9%98%B2%E6%BC%94%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [湖北高速没有铲冰除雪？](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E9%AB%98%E9%80%9F%E6%B2%A1%E6%9C%89%E9%93%B2%E5%86%B0%E9%99%A4%E9%9B%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [香港机场一拖行员被飞机撞倒身亡](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%9C%BA%E5%9C%BA%E4%B8%80%E6%8B%96%E8%A1%8C%E5%91%98%E8%A2%AB%E9%A3%9E%E6%9C%BA%E6%92%9E%E5%80%92%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [铲车这辈子没想过还能接婚礼的单](https://www.baidu.com/s?wd=%E9%93%B2%E8%BD%A6%E8%BF%99%E8%BE%88%E5%AD%90%E6%B2%A1%E6%83%B3%E8%BF%87%E8%BF%98%E8%83%BD%E6%8E%A5%E5%A9%9A%E7%A4%BC%E7%9A%84%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大学生返乡一人搞定全村祝福语](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%94%E4%B9%A1%E4%B8%80%E4%BA%BA%E6%90%9E%E5%AE%9A%E5%85%A8%E6%9D%91%E7%A5%9D%E7%A6%8F%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [济南一酒店着火？系消防演练](https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E4%B8%80%E9%85%92%E5%BA%97%E7%9D%80%E7%81%AB%EF%BC%9F%E7%B3%BB%E6%B6%88%E9%98%B2%E6%BC%94%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [湖北高速没有铲冰除雪？](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E9%AB%98%E9%80%9F%E6%B2%A1%E6%9C%89%E9%93%B2%E5%86%B0%E9%99%A4%E9%9B%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
