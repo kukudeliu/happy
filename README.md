@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 08:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 08:13:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [日本小姐冠军承认当小三放弃桂冠](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A7%90%E5%86%A0%E5%86%9B%E6%89%BF%E8%AE%A4%E5%BD%93%E5%B0%8F%E4%B8%89%E6%94%BE%E5%BC%83%E6%A1%82%E5%86%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [全红婵大满贯](https://s.weibo.com/weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A4%A7%E6%BB%A1%E8%B4%AF&t=31&band_rank=6&Refer=top)<br />
 7. [从脂肪肝到肝癌只需四步](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E8%84%82%E8%82%AA%E8%82%9D%E5%88%B0%E8%82%9D%E7%99%8C%E5%8F%AA%E9%9C%80%E5%9B%9B%E6%AD%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [张颂文 上你个头我要过年](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%20%E4%B8%8A%E4%BD%A0%E4%B8%AA%E5%A4%B4%E6%88%91%E8%A6%81%E8%BF%87%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
-9. [武汉暴雪](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=9&Refer=top)<br />
+8. [武汉暴雪](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=8&Refer=top)<br />
+9. [张颂文 上你个头我要过年](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%20%E4%B8%8A%E4%BD%A0%E4%B8%AA%E5%A4%B4%E6%88%91%E8%A6%81%E8%BF%87%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
