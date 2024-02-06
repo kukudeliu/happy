@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 20:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 20:01:01</h4></div>
 
 > 微博  
 
-1. [香港前特首女儿怒斥梅西](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%89%8D%E7%89%B9%E9%A6%96%E5%A5%B3%E5%84%BF%E6%80%92%E6%96%A5%E6%A2%85%E8%A5%BF%23&t=31&band_rank=1&Refer=top)<br />
+1. [刘亦菲刘宇宁或将合作](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%88%98%E5%AE%87%E5%AE%81%E6%88%96%E5%B0%86%E5%90%88%E4%BD%9C%23&t=31&band_rank=1&Refer=top)<br />
 2. [花花喜提六号别墅](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%96%9C%E6%8F%90%E5%85%AD%E5%8F%B7%E5%88%AB%E5%A2%85%23&t=31&band_rank=2&Refer=top)<br />
 3. [今年回家新气象](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%9B%9E%E5%AE%B6%E6%96%B0%E6%B0%94%E8%B1%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [霍启刚发长文](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%8F%91%E9%95%BF%E6%96%87&t=31&band_rank=4&Refer=top)<br />
 5. [河南村民挨个敲窗给滞留乘客送热面](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9D%91%E6%B0%91%E6%8C%A8%E4%B8%AA%E6%95%B2%E7%AA%97%E7%BB%99%E6%BB%9E%E7%95%99%E4%B9%98%E5%AE%A2%E9%80%81%E7%83%AD%E9%9D%A2%23&t=31&band_rank=5&Refer=top)<br />
-6. [刘亦菲刘宇宁或将合作](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%88%98%E5%AE%87%E5%AE%81%E6%88%96%E5%B0%86%E5%90%88%E4%BD%9C%23&t=31&band_rank=6&Refer=top)<br />
+6. [香港前特首女儿怒斥梅西](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%89%8D%E7%89%B9%E9%A6%96%E5%A5%B3%E5%84%BF%E6%80%92%E6%96%A5%E6%A2%85%E8%A5%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [上万名返乡车主自发寻找走失儿童](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E4%B8%87%E5%90%8D%E8%BF%94%E4%B9%A1%E8%BD%A6%E4%B8%BB%E8%87%AA%E5%8F%91%E5%AF%BB%E6%89%BE%E8%B5%B0%E5%A4%B1%E5%84%BF%E7%AB%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [王者荣耀时代少年团直播](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
-9. [梅西日本赛前训练](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%97%A5%E6%9C%AC%E8%B5%9B%E5%89%8D%E8%AE%AD%E7%BB%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [奚梦瑶说22岁的金莎很漂亮](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E8%AF%B422%E5%B2%81%E7%9A%84%E9%87%91%E8%8E%8E%E5%BE%88%E6%BC%82%E4%BA%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
