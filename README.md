@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 10:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 10:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男子偷卖女朋友黄金用作恋爱开销](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B7%E5%8D%96%E5%A5%B3%E6%9C%8B%E5%8F%8B%E9%BB%84%E9%87%91%E7%94%A8%E4%BD%9C%E6%81%8B%E7%88%B1%E5%BC%80%E9%94%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [阿根廷媒体称梅西身体状况良好](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%AA%92%E4%BD%93%E7%A7%B0%E6%A2%85%E8%A5%BF%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%E8%89%AF%E5%A5%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [梅西日本行](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E6%97%A5%E6%9C%AC%E8%A1%8C&t=31&band_rank=8&Refer=top)<br />
-9. [哈尔滨10岁女童失踪13年后嫌疑人落网](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A810%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%A4%B1%E8%B8%AA13%E5%B9%B4%E5%90%8E%E5%AB%8C%E7%96%91%E4%BA%BA%E8%90%BD%E7%BD%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [李家超回应梅西缺赛](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%9B%9E%E5%BA%94%E6%A2%85%E8%A5%BF%E7%BC%BA%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
