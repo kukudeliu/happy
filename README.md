@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 20:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 20:58:01</h4></div>
 
 > 微博  
 
-1. [刘亦菲刘宇宁或将合作](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%88%98%E5%AE%87%E5%AE%81%E6%88%96%E5%B0%86%E5%90%88%E4%BD%9C%23&t=31&band_rank=1&Refer=top)<br />
-2. [董宇辉对美甲的困惑](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%AF%B9%E7%BE%8E%E7%94%B2%E7%9A%84%E5%9B%B0%E6%83%91%23&t=31&band_rank=2&Refer=top)<br />
+1. [董宇辉对美甲的困惑](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%AF%B9%E7%BE%8E%E7%94%B2%E7%9A%84%E5%9B%B0%E6%83%91%23&t=31&band_rank=1&Refer=top)<br />
+2. [刘亦菲刘宇宁或将合作](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%88%98%E5%AE%87%E5%AE%81%E6%88%96%E5%B0%86%E5%90%88%E4%BD%9C%23&t=31&band_rank=2&Refer=top)<br />
 3. [我与家人合个影](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%8E%E5%AE%B6%E4%BA%BA%E5%90%88%E4%B8%AA%E5%BD%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [霍启刚发长文](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%8F%91%E9%95%BF%E6%96%87&t=31&band_rank=4&Refer=top)<br />
 5. [梅西账号评论区被网友围攻](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%B4%A6%E5%8F%B7%E8%AF%84%E8%AE%BA%E5%8C%BA%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%9B%B4%E6%94%BB%23&t=31&band_rank=5&Refer=top)<br />
