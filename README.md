@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 11:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 11:32:02</h4></div>
 
 > 微博  
 
 1. [霍启刚说热情被狠狠践踏](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E8%AF%B4%E7%83%AD%E6%83%85%E8%A2%AB%E7%8B%A0%E7%8B%A0%E8%B7%B5%E8%B8%8F%23&t=31&band_rank=1&Refer=top)<br />
 2. [李家超回应梅西缺赛](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%9B%9E%E5%BA%94%E6%A2%85%E8%A5%BF%E7%BC%BA%E8%B5%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [我的龙年仪式感](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E9%BE%99%E5%B9%B4%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [英国国王确诊患癌](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B%E7%A1%AE%E8%AF%8A%E6%82%A3%E7%99%8C%23&t=31&band_rank=4&Refer=top)<br />
-5. [王者荣耀皮肤雨](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%9A%AE%E8%82%A4%E9%9B%A8&t=31&band_rank=5&Refer=top)<br />
+4. [王者荣耀皮肤雨](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%9A%AE%E8%82%A4%E9%9B%A8&t=31&band_rank=4&Refer=top)<br />
+5. [英国国王确诊患癌](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B%E7%A1%AE%E8%AF%8A%E6%82%A3%E7%99%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [知否版权](https://s.weibo.com/weibo?q=%E7%9F%A5%E5%90%A6%E7%89%88%E6%9D%83&t=31&band_rank=6&Refer=top)<br />
 7. [梅西日本行](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E6%97%A5%E6%9C%AC%E8%A1%8C&t=31&band_rank=7&Refer=top)<br />
 8. [男子偷卖女朋友黄金用作恋爱开销](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B7%E5%8D%96%E5%A5%B3%E6%9C%8B%E5%8F%8B%E9%BB%84%E9%87%91%E7%94%A8%E4%BD%9C%E6%81%8B%E7%88%B1%E5%BC%80%E9%94%80%23&t=31&band_rank=8&Refer=top)<br />
