@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 15:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 15:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [你什么冠军](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%80%E4%B9%88%E5%86%A0%E5%86%9B&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫曾在淘宝买红毯活动衣服](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9B%BE%E5%9C%A8%E6%B7%98%E5%AE%9D%E4%B9%B0%E7%BA%A2%E6%AF%AF%E6%B4%BB%E5%8A%A8%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [华为分红770亿元](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%88%86%E7%BA%A2770%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [春晚姓甄的小心点](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E5%A7%93%E7%94%84%E7%9A%84%E5%B0%8F%E5%BF%83%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [梅西说不确定能否在日本上场](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%AF%B4%E4%B8%8D%E7%A1%AE%E5%AE%9A%E8%83%BD%E5%90%A6%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%8A%E5%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
