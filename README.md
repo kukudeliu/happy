@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 23:50:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 23:51:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [梅西账号评论区被网友围攻](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%B4%A6%E5%8F%B7%E8%AF%84%E8%AE%BA%E5%8C%BA%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%9B%B4%E6%94%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [马嘉祺心态](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E5%BF%83%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [国际米兰回应霍启刚](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0%E5%9B%9E%E5%BA%94%E9%9C%8D%E5%90%AF%E5%88%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [打工多少年能买这床被子](https://s.weibo.com/weibo?q=%E6%89%93%E5%B7%A5%E5%A4%9A%E5%B0%91%E5%B9%B4%E8%83%BD%E4%B9%B0%E8%BF%99%E5%BA%8A%E8%A2%AB%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
-9. [香港前特首女儿怒斥梅西](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%89%8D%E7%89%B9%E9%A6%96%E5%A5%B3%E5%84%BF%E6%80%92%E6%96%A5%E6%A2%85%E8%A5%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [香港前特首女儿怒斥梅西](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%89%8D%E7%89%B9%E9%A6%96%E5%A5%B3%E5%84%BF%E6%80%92%E6%96%A5%E6%A2%85%E8%A5%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [不要忘记了普通人的生活](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E5%BF%98%E8%AE%B0%E4%BA%86%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
