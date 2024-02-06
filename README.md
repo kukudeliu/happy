@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 10:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 10:19:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [25岁小伙手提30斤大虾返乡过年](https://www.baidu.com/s?wd=25%E5%B2%81%E5%B0%8F%E4%BC%99%E6%89%8B%E6%8F%9030%E6%96%A4%E5%A4%A7%E8%99%BE%E8%BF%94%E4%B9%A1%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [00后女司机雪天翻车后淡定自拍](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E5%8F%B8%E6%9C%BA%E9%9B%AA%E5%A4%A9%E7%BF%BB%E8%BD%A6%E5%90%8E%E6%B7%A1%E5%AE%9A%E8%87%AA%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [腊月二十七，宰鸡赶大集](https://www.baidu.com/s?wd=%E8%85%8A%E6%9C%88%E4%BA%8C%E5%8D%81%E4%B8%83%EF%BC%8C%E5%AE%B0%E9%B8%A1%E8%B5%B6%E5%A4%A7%E9%9B%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [头孢配酒一点事没有？谣言](https://www.baidu.com/s?wd=%E5%A4%B4%E5%AD%A2%E9%85%8D%E9%85%92%E4%B8%80%E7%82%B9%E4%BA%8B%E6%B2%A1%E6%9C%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [家长集资给老师送按摩椅？](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E9%9B%86%E8%B5%84%E7%BB%99%E8%80%81%E5%B8%88%E9%80%81%E6%8C%89%E6%91%A9%E6%A4%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [25岁小伙手提30斤大虾返乡过年](https://www.baidu.com/s?wd=25%E5%B2%81%E5%B0%8F%E4%BC%99%E6%89%8B%E6%8F%9030%E6%96%A4%E5%A4%A7%E8%99%BE%E8%BF%94%E4%B9%A1%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [00后女司机雪天翻车后淡定自拍](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E5%8F%B8%E6%9C%BA%E9%9B%AA%E5%A4%A9%E7%BF%BB%E8%BD%A6%E5%90%8E%E6%B7%A1%E5%AE%9A%E8%87%AA%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [腊月二十七，宰鸡赶大集](https://www.baidu.com/s?wd=%E8%85%8A%E6%9C%88%E4%BA%8C%E5%8D%81%E4%B8%83%EF%BC%8C%E5%AE%B0%E9%B8%A1%E8%B5%B6%E5%A4%A7%E9%9B%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [头孢配酒一点事没有？谣言](https://www.baidu.com/s?wd=%E5%A4%B4%E5%AD%A2%E9%85%8D%E9%85%92%E4%B8%80%E7%82%B9%E4%BA%8B%E6%B2%A1%E6%9C%89%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [家长集资给老师送按摩椅？](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E9%9B%86%E8%B5%84%E7%BB%99%E8%80%81%E5%B8%88%E9%80%81%E6%8C%89%E6%91%A9%E6%A4%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
