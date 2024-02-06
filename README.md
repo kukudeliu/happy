@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 19:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 19:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [河南村民挨个敲窗给滞留乘客送热面](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9D%91%E6%B0%91%E6%8C%A8%E4%B8%AA%E6%95%B2%E7%AA%97%E7%BB%99%E6%BB%9E%E7%95%99%E4%B9%98%E5%AE%A2%E9%80%81%E7%83%AD%E9%9D%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [梅西日本赛前训练](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%97%A5%E6%9C%AC%E8%B5%9B%E5%89%8D%E8%AE%AD%E7%BB%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [雪地推车摔倒的武汉交警找到了](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%9C%B0%E6%8E%A8%E8%BD%A6%E6%91%94%E5%80%92%E7%9A%84%E6%AD%A6%E6%B1%89%E4%BA%A4%E8%AD%A6%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [专家呼吁女性适龄生育](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%91%BC%E5%90%81%E5%A5%B3%E6%80%A7%E9%80%82%E9%BE%84%E7%94%9F%E8%82%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [艾比又整了鼻子](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%AF%94%E5%8F%88%E6%95%B4%E4%BA%86%E9%BC%BB%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
+8. [艾比又整了鼻子](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%AF%94%E5%8F%88%E6%95%B4%E4%BA%86%E9%BC%BB%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [专家呼吁女性适龄生育](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%91%BC%E5%90%81%E5%A5%B3%E6%80%A7%E9%80%82%E9%BE%84%E7%94%9F%E8%82%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
