@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 17:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 17:44:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [团圆年丨总书记的惦念](https://www.baidu.com/s?wd=%E5%9B%A2%E5%9C%86%E5%B9%B4%E4%B8%A8%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%83%A6%E5%BF%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [最火春运遭遇最强暴雪：冻雨像刨冰](https://www.baidu.com/s?wd=%E6%9C%80%E7%81%AB%E6%98%A5%E8%BF%90%E9%81%AD%E9%81%87%E6%9C%80%E5%BC%BA%E6%9A%B4%E9%9B%AA%EF%BC%9A%E5%86%BB%E9%9B%A8%E5%83%8F%E5%88%A8%E5%86%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [边看边搜！上百度看2024央视春晚](https://www.baidu.com/s?wd=%E8%BE%B9%E7%9C%8B%E8%BE%B9%E6%90%9C%EF%BC%81%E4%B8%8A%E7%99%BE%E5%BA%A6%E7%9C%8B2024%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [男子因吃得多被老丈人带去医院检查](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E5%90%83%E5%BE%97%E5%A4%9A%E8%A2%AB%E8%80%81%E4%B8%88%E4%BA%BA%E5%B8%A6%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国文旅市场火热](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%96%87%E6%97%85%E5%B8%82%E5%9C%BA%E7%81%AB%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [举报黄某某学生已换课题将延期毕业](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%BB%84%E6%9F%90%E6%9F%90%E5%AD%A6%E7%94%9F%E5%B7%B2%E6%8D%A2%E8%AF%BE%E9%A2%98%E5%B0%86%E5%BB%B6%E6%9C%9F%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [团圆年丨总书记的惦念](https://www.baidu.com/s?wd=%E5%9B%A2%E5%9C%86%E5%B9%B4%E4%B8%A8%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%83%A6%E5%BF%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [最火春运遭遇最强暴雪：冻雨像刨冰](https://www.baidu.com/s?wd=%E6%9C%80%E7%81%AB%E6%98%A5%E8%BF%90%E9%81%AD%E9%81%87%E6%9C%80%E5%BC%BA%E6%9A%B4%E9%9B%AA%EF%BC%9A%E5%86%BB%E9%9B%A8%E5%83%8F%E5%88%A8%E5%86%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [边看边搜！上百度看2024央视春晚](https://www.baidu.com/s?wd=%E8%BE%B9%E7%9C%8B%E8%BE%B9%E6%90%9C%EF%BC%81%E4%B8%8A%E7%99%BE%E5%BA%A6%E7%9C%8B2024%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [男子因吃得多被老丈人带去医院检查](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E5%90%83%E5%BE%97%E5%A4%9A%E8%A2%AB%E8%80%81%E4%B8%88%E4%BA%BA%E5%B8%A6%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国文旅市场火热](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%96%87%E6%97%85%E5%B8%82%E5%9C%BA%E7%81%AB%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [举报黄某某学生已换课题将延期毕业](https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E9%BB%84%E6%9F%90%E6%9F%90%E5%AD%A6%E7%94%9F%E5%B7%B2%E6%8D%A2%E8%AF%BE%E9%A2%98%E5%B0%86%E5%BB%B6%E6%9C%9F%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
