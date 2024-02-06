@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 21:10:01</h4></div>
 
 > 微博  
 
@@ -19,11 +19,11 @@
 
 1. [总书记来我家串门儿喽](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%9D%A5%E6%88%91%E5%AE%B6%E4%B8%B2%E9%97%A8%E5%84%BF%E5%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [上百度看2024总台春晚](https://www.baidu.com/s?wd=%E4%B8%8A%E7%99%BE%E5%BA%A6%E7%9C%8B2024%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [湖北人上班像丛林探险](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E4%BA%BA%E4%B8%8A%E7%8F%AD%E5%83%8F%E4%B8%9B%E6%9E%97%E6%8E%A2%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [滞留旅客在湖南10人一桌免费吃席](https://www.baidu.com/s?wd=%E6%BB%9E%E7%95%99%E6%97%85%E5%AE%A2%E5%9C%A8%E6%B9%96%E5%8D%9710%E4%BA%BA%E4%B8%80%E6%A1%8C%E5%85%8D%E8%B4%B9%E5%90%83%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [列车里飘出浓浓年味](https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E9%87%8C%E9%A3%98%E5%87%BA%E6%B5%93%E6%B5%93%E5%B9%B4%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅西在日参训画面：面带笑容](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%9C%A8%E6%97%A5%E5%8F%82%E8%AE%AD%E7%94%BB%E9%9D%A2%EF%BC%9A%E9%9D%A2%E5%B8%A6%E7%AC%91%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [泰国春节将有17.7万中国游客](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%98%A5%E8%8A%82%E5%B0%86%E6%9C%8917.7%E4%B8%87%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [某银行总行暂停晋升](https://www.baidu.com/s?wd=%E6%9F%90%E9%93%B6%E8%A1%8C%E6%80%BB%E8%A1%8C%E6%9A%82%E5%81%9C%E6%99%8B%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [某银行总行暂停晋升](https://www.baidu.com/s?wd=%E6%9F%90%E9%93%B6%E8%A1%8C%E6%80%BB%E8%A1%8C%E6%9A%82%E5%81%9C%E6%99%8B%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [员工因年会穿太丑获奖1万元](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E5%9B%A0%E5%B9%B4%E4%BC%9A%E7%A9%BF%E5%A4%AA%E4%B8%91%E8%8E%B7%E5%A5%961%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大学生返乡一人搞定全村祝福语](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%94%E4%B9%A1%E4%B8%80%E4%BA%BA%E6%90%9E%E5%AE%9A%E5%85%A8%E6%9D%91%E7%A5%9D%E7%A6%8F%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [湖北高速没有铲冰除雪？](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E9%AB%98%E9%80%9F%E6%B2%A1%E6%9C%89%E9%93%B2%E5%86%B0%E9%99%A4%E9%9B%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -31,10 +31,10 @@
 
 1. [总书记来我家串门儿喽](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%9D%A5%E6%88%91%E5%AE%B6%E4%B8%B2%E9%97%A8%E5%84%BF%E5%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [上百度看2024总台春晚](https://www.baidu.com/s?wd=%E4%B8%8A%E7%99%BE%E5%BA%A6%E7%9C%8B2024%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [湖北人上班像丛林探险](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E4%BA%BA%E4%B8%8A%E7%8F%AD%E5%83%8F%E4%B8%9B%E6%9E%97%E6%8E%A2%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [滞留旅客在湖南10人一桌免费吃席](https://www.baidu.com/s?wd=%E6%BB%9E%E7%95%99%E6%97%85%E5%AE%A2%E5%9C%A8%E6%B9%96%E5%8D%9710%E4%BA%BA%E4%B8%80%E6%A1%8C%E5%85%8D%E8%B4%B9%E5%90%83%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [列车里飘出浓浓年味](https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E9%87%8C%E9%A3%98%E5%87%BA%E6%B5%93%E6%B5%93%E5%B9%B4%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅西在日参训画面：面带笑容](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%9C%A8%E6%97%A5%E5%8F%82%E8%AE%AD%E7%94%BB%E9%9D%A2%EF%BC%9A%E9%9D%A2%E5%B8%A6%E7%AC%91%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [泰国春节将有17.7万中国游客](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%98%A5%E8%8A%82%E5%B0%86%E6%9C%8917.7%E4%B8%87%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [某银行总行暂停晋升](https://www.baidu.com/s?wd=%E6%9F%90%E9%93%B6%E8%A1%8C%E6%80%BB%E8%A1%8C%E6%9A%82%E5%81%9C%E6%99%8B%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [某银行总行暂停晋升](https://www.baidu.com/s?wd=%E6%9F%90%E9%93%B6%E8%A1%8C%E6%80%BB%E8%A1%8C%E6%9A%82%E5%81%9C%E6%99%8B%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [员工因年会穿太丑获奖1万元](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E5%9B%A0%E5%B9%B4%E4%BC%9A%E7%A9%BF%E5%A4%AA%E4%B8%91%E8%8E%B7%E5%A5%961%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [大学生返乡一人搞定全村祝福语](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%94%E4%B9%A1%E4%B8%80%E4%BA%BA%E6%90%9E%E5%AE%9A%E5%85%A8%E6%9D%91%E7%A5%9D%E7%A6%8F%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [湖北高速没有铲冰除雪？](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E9%AB%98%E9%80%9F%E6%B2%A1%E6%9C%89%E9%93%B2%E5%86%B0%E9%99%A4%E9%9B%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
