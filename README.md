@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 17:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 17:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [梅西说自己没受伤但不舒服](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%B2%A1%E5%8F%97%E4%BC%A4%E4%BD%86%E4%B8%8D%E8%88%92%E6%9C%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [香港机场一拖行员被飞机撞倒身亡](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%9C%BA%E5%9C%BA%E4%B8%80%E6%8B%96%E8%A1%8C%E5%91%98%E8%A2%AB%E9%A3%9E%E6%9C%BA%E6%92%9E%E5%80%92%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩国流行起后脑勺整形](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B5%81%E8%A1%8C%E8%B5%B7%E5%90%8E%E8%84%91%E5%8B%BA%E6%95%B4%E5%BD%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [29岁的陶昕然](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E7%9A%84%E9%99%B6%E6%98%95%E7%84%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [梅西](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
