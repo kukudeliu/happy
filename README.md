@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 21:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 21:32:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [董宇辉对美甲的困惑](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%AF%B9%E7%BE%8E%E7%94%B2%E7%9A%84%E5%9B%B0%E6%83%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [翔霖](https://s.weibo.com/weibo?q=%E7%BF%94%E9%9C%96&t=31&band_rank=6&Refer=top)<br />
 7. [刘亦菲刘宇宁或将合作](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%88%98%E5%AE%87%E5%AE%81%E6%88%96%E5%B0%86%E5%90%88%E4%BD%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [香港前特首女儿怒斥梅西](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%89%8D%E7%89%B9%E9%A6%96%E5%A5%B3%E5%84%BF%E6%80%92%E6%96%A5%E6%A2%85%E8%A5%BF%23&t=31&band_rank=8&Refer=top)<br />
+8. [BLACKPINK四家大吧不再发送生日贺文](https://s.weibo.com/weibo?q=%23BLACKPINK%E5%9B%9B%E5%AE%B6%E5%A4%A7%E5%90%A7%E4%B8%8D%E5%86%8D%E5%8F%91%E9%80%81%E7%94%9F%E6%97%A5%E8%B4%BA%E6%96%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [日媒称丝毫看不出梅西状态不佳](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%9D%E6%AF%AB%E7%9C%8B%E4%B8%8D%E5%87%BA%E6%A2%85%E8%A5%BF%E7%8A%B6%E6%80%81%E4%B8%8D%E4%BD%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
