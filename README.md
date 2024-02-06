@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 14:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 14:09:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [梅西说自己没受伤但不舒服](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%B2%A1%E5%8F%97%E4%BC%A4%E4%BD%86%E4%B8%8D%E8%88%92%E6%9C%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [梅西说很高兴来到日本](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E6%9D%A5%E5%88%B0%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top)<br />
 6. [方媛曾承认自己花心](https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%AA%9B%E6%9B%BE%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E8%8A%B1%E5%BF%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [浦发银行不发年终奖发一封家书](https://s.weibo.com/weibo?q=%23%E6%B5%A6%E5%8F%91%E9%93%B6%E8%A1%8C%E4%B8%8D%E5%8F%91%E5%B9%B4%E7%BB%88%E5%A5%96%E5%8F%91%E4%B8%80%E5%B0%81%E5%AE%B6%E4%B9%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨紫曾在淘宝买红毯活动衣服](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9B%BE%E5%9C%A8%E6%B7%98%E5%AE%9D%E4%B9%B0%E7%BA%A2%E6%AF%AF%E6%B4%BB%E5%8A%A8%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=8&Refer=top)<br />
+7. [杨紫曾在淘宝买红毯活动衣服](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9B%BE%E5%9C%A8%E6%B7%98%E5%AE%9D%E4%B9%B0%E7%BA%A2%E6%AF%AF%E6%B4%BB%E5%8A%A8%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [浦发银行不发年终奖发一封家书](https://s.weibo.com/weibo?q=%23%E6%B5%A6%E5%8F%91%E9%93%B6%E8%A1%8C%E4%B8%8D%E5%8F%91%E5%B9%B4%E7%BB%88%E5%A5%96%E5%8F%91%E4%B8%80%E5%B0%81%E5%AE%B6%E4%B9%A6%23&t=31&band_rank=8&Refer=top)<br />
 9. [柳叶刀破解中国肺炎支原体流行之谜](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%8F%B6%E5%88%80%E7%A0%B4%E8%A7%A3%E4%B8%AD%E5%9B%BD%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E6%B5%81%E8%A1%8C%E4%B9%8B%E8%B0%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [华中农大通报教授学术造假：解聘](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%AD%E5%86%9C%E5%A4%A7%E9%80%9A%E6%8A%A5%E6%95%99%E6%8E%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%EF%BC%9A%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梅西回应缺席香港：没受伤但不舒服](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%9B%9E%E5%BA%94%E7%BC%BA%E5%B8%AD%E9%A6%99%E6%B8%AF%EF%BC%9A%E6%B2%A1%E5%8F%97%E4%BC%A4%E4%BD%86%E4%B8%8D%E8%88%92%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姐弟俩吵架 弟弟被“丢”在高速上](https://www.baidu.com/s?wd=%E5%A7%90%E5%BC%9F%E4%BF%A9%E5%90%B5%E6%9E%B6+%E5%BC%9F%E5%BC%9F%E8%A2%AB%E2%80%9C%E4%B8%A2%E2%80%9D%E5%9C%A8%E9%AB%98%E9%80%9F%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美英空袭也门荷台达](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8B%B1%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%E8%8D%B7%E5%8F%B0%E8%BE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴厘岛要向外国游客收旅游税](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8E%98%E5%B2%9B%E8%A6%81%E5%90%91%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%94%B6%E6%97%85%E6%B8%B8%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [家长集资给老师送按摩椅？](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E9%9B%86%E8%B5%84%E7%BB%99%E8%80%81%E5%B8%88%E9%80%81%E6%8C%89%E6%91%A9%E6%A4%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [华中农大通报教授学术造假：解聘](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%AD%E5%86%9C%E5%A4%A7%E9%80%9A%E6%8A%A5%E6%95%99%E6%8E%88%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%EF%BC%9A%E8%A7%A3%E8%81%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梅西回应缺席香港：没受伤但不舒服](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%9B%9E%E5%BA%94%E7%BC%BA%E5%B8%AD%E9%A6%99%E6%B8%AF%EF%BC%9A%E6%B2%A1%E5%8F%97%E4%BC%A4%E4%BD%86%E4%B8%8D%E8%88%92%E6%9C%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姐弟俩吵架 弟弟被“丢”在高速上](https://www.baidu.com/s?wd=%E5%A7%90%E5%BC%9F%E4%BF%A9%E5%90%B5%E6%9E%B6+%E5%BC%9F%E5%BC%9F%E8%A2%AB%E2%80%9C%E4%B8%A2%E2%80%9D%E5%9C%A8%E9%AB%98%E9%80%9F%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美英空袭也门荷台达](https://www.baidu.com/s?wd=%E7%BE%8E%E8%8B%B1%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%E8%8D%B7%E5%8F%B0%E8%BE%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴厘岛要向外国游客收旅游税](https://www.baidu.com/s?wd=%E5%B7%B4%E5%8E%98%E5%B2%9B%E8%A6%81%E5%90%91%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%94%B6%E6%97%85%E6%B8%B8%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [家长集资给老师送按摩椅？](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E9%9B%86%E8%B5%84%E7%BB%99%E8%80%81%E5%B8%88%E9%80%81%E6%8C%89%E6%91%A9%E6%A4%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
