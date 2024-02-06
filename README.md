@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 23:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 23:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [梅西在日参训画面：面带笑容](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%9C%A8%E6%97%A5%E5%8F%82%E8%AE%AD%E7%94%BB%E9%9D%A2%EF%BC%9A%E9%9D%A2%E5%B8%A6%E7%AC%91%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哲学家李泽厚冷冻头颅遗嘱已执行](https://www.baidu.com/s?wd=%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%9D%8E%E6%B3%BD%E5%8E%9A%E5%86%B7%E5%86%BB%E5%A4%B4%E9%A2%85%E9%81%97%E5%98%B1%E5%B7%B2%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [梅西评论区沦陷](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%B2%A6%E9%99%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [员工因年会穿太丑获奖1万元](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E5%9B%A0%E5%B9%B4%E4%BC%9A%E7%A9%BF%E5%A4%AA%E4%B8%91%E8%8E%B7%E5%A5%961%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小伙6天坐836站公交回乡过年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%996%E5%A4%A9%E5%9D%90836%E7%AB%99%E5%85%AC%E4%BA%A4%E5%9B%9E%E4%B9%A1%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [湖北高速没有铲冰除雪？](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E9%AB%98%E9%80%9F%E6%B2%A1%E6%9C%89%E9%93%B2%E5%86%B0%E9%99%A4%E9%9B%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [梅西在日参训画面：面带笑容](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%9C%A8%E6%97%A5%E5%8F%82%E8%AE%AD%E7%94%BB%E9%9D%A2%EF%BC%9A%E9%9D%A2%E5%B8%A6%E7%AC%91%E5%AE%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哲学家李泽厚冷冻头颅遗嘱已执行](https://www.baidu.com/s?wd=%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%9D%8E%E6%B3%BD%E5%8E%9A%E5%86%B7%E5%86%BB%E5%A4%B4%E9%A2%85%E9%81%97%E5%98%B1%E5%B7%B2%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [梅西评论区沦陷](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%B2%A6%E9%99%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [员工因年会穿太丑获奖1万元](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E5%9B%A0%E5%B9%B4%E4%BC%9A%E7%A9%BF%E5%A4%AA%E4%B8%91%E8%8E%B7%E5%A5%961%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小伙6天坐836站公交回乡过年](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%996%E5%A4%A9%E5%9D%90836%E7%AB%99%E5%85%AC%E4%BA%A4%E5%9B%9E%E4%B9%A1%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [湖北高速没有铲冰除雪？](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E9%AB%98%E9%80%9F%E6%B2%A1%E6%9C%89%E9%93%B2%E5%86%B0%E9%99%A4%E9%9B%AA%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
