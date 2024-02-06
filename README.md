@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 12:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 12:01:01</h4></div>
 
 > 微博  
 
@@ -17,24 +17,24 @@
 
 > 百度  
 
-1. [总书记心系受灾群众](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E5%8F%97%E7%81%BE%E7%BE%A4%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平向纳米比亚新任总统致唁电](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A%E6%96%B0%E4%BB%BB%E6%80%BB%E7%BB%9F%E8%87%B4%E5%94%81%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [00后女司机雪天翻车后淡定自拍](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E5%8F%B8%E6%9C%BA%E9%9B%AA%E5%A4%A9%E7%BF%BB%E8%BD%A6%E5%90%8E%E6%B7%A1%E5%AE%9A%E8%87%AA%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [爸妈吐槽大学生要提前吃光全家年货](https://www.baidu.com/s?wd=%E7%88%B8%E5%A6%88%E5%90%90%E6%A7%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A6%81%E6%8F%90%E5%89%8D%E5%90%83%E5%85%89%E5%85%A8%E5%AE%B6%E5%B9%B4%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [男子开车返乡摔下悬崖 3人仅受轻伤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E8%BF%94%E4%B9%A1%E6%91%94%E4%B8%8B%E6%82%AC%E5%B4%96+3%E4%BA%BA%E4%BB%85%E5%8F%97%E8%BD%BB%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你听过龙的声音吗？](https://www.baidu.com/s?wd=%E4%BD%A0%E5%90%AC%E8%BF%87%E9%BE%99%E7%9A%84%E5%A3%B0%E9%9F%B3%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [孩子高铁上多次踢椅背 家长大打出手](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E9%AB%98%E9%93%81%E4%B8%8A%E5%A4%9A%E6%AC%A1%E8%B8%A2%E6%A4%85%E8%83%8C+%E5%AE%B6%E9%95%BF%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [武汉暴雪两只孔雀被冻在墙顶](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%AA%E4%B8%A4%E5%8F%AA%E5%AD%94%E9%9B%80%E8%A2%AB%E5%86%BB%E5%9C%A8%E5%A2%99%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [梅西：希望以后有机会在港比赛](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%EF%BC%9A%E5%B8%8C%E6%9C%9B%E4%BB%A5%E5%90%8E%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%9C%A8%E6%B8%AF%E6%AF%94%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [爸妈吐槽大学生要提前吃光全家年货](https://www.baidu.com/s?wd=%E7%88%B8%E5%A6%88%E5%90%90%E6%A7%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A6%81%E6%8F%90%E5%89%8D%E5%90%83%E5%85%89%E5%85%A8%E5%AE%B6%E5%B9%B4%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [腐乳变“东方奶酪”在海外卖爆了](https://www.baidu.com/s?wd=%E8%85%90%E4%B9%B3%E5%8F%98%E2%80%9C%E4%B8%9C%E6%96%B9%E5%A5%B6%E9%85%AA%E2%80%9D%E5%9C%A8%E6%B5%B7%E5%A4%96%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [家长集资给老师送按摩椅？](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E9%9B%86%E8%B5%84%E7%BB%99%E8%80%81%E5%B8%88%E9%80%81%E6%8C%89%E6%91%A9%E6%A4%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
-1. [总书记心系受灾群众](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E5%8F%97%E7%81%BE%E7%BE%A4%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平向纳米比亚新任总统致唁电](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A%E6%96%B0%E4%BB%BB%E6%80%BB%E7%BB%9F%E8%87%B4%E5%94%81%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [00后女司机雪天翻车后淡定自拍](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E5%8F%B8%E6%9C%BA%E9%9B%AA%E5%A4%A9%E7%BF%BB%E8%BD%A6%E5%90%8E%E6%B7%A1%E5%AE%9A%E8%87%AA%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [爸妈吐槽大学生要提前吃光全家年货](https://www.baidu.com/s?wd=%E7%88%B8%E5%A6%88%E5%90%90%E6%A7%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A6%81%E6%8F%90%E5%89%8D%E5%90%83%E5%85%89%E5%85%A8%E5%AE%B6%E5%B9%B4%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [男子开车返乡摔下悬崖 3人仅受轻伤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E8%BF%94%E4%B9%A1%E6%91%94%E4%B8%8B%E6%82%AC%E5%B4%96+3%E4%BA%BA%E4%BB%85%E5%8F%97%E8%BD%BB%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [你听过龙的声音吗？](https://www.baidu.com/s?wd=%E4%BD%A0%E5%90%AC%E8%BF%87%E9%BE%99%E7%9A%84%E5%A3%B0%E9%9F%B3%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [孩子高铁上多次踢椅背 家长大打出手](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E9%AB%98%E9%93%81%E4%B8%8A%E5%A4%9A%E6%AC%A1%E8%B8%A2%E6%A4%85%E8%83%8C+%E5%AE%B6%E9%95%BF%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [武汉暴雪两只孔雀被冻在墙顶](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%AA%E4%B8%A4%E5%8F%AA%E5%AD%94%E9%9B%80%E8%A2%AB%E5%86%BB%E5%9C%A8%E5%A2%99%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [梅西：希望以后有机会在港比赛](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%EF%BC%9A%E5%B8%8C%E6%9C%9B%E4%BB%A5%E5%90%8E%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%9C%A8%E6%B8%AF%E6%AF%94%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [爸妈吐槽大学生要提前吃光全家年货](https://www.baidu.com/s?wd=%E7%88%B8%E5%A6%88%E5%90%90%E6%A7%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A6%81%E6%8F%90%E5%89%8D%E5%90%83%E5%85%89%E5%85%A8%E5%AE%B6%E5%B9%B4%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [腐乳变“东方奶酪”在海外卖爆了](https://www.baidu.com/s?wd=%E8%85%90%E4%B9%B3%E5%8F%98%E2%80%9C%E4%B8%9C%E6%96%B9%E5%A5%B6%E9%85%AA%E2%80%9D%E5%9C%A8%E6%B5%B7%E5%A4%96%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [家长集资给老师送按摩椅？](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E9%9B%86%E8%B5%84%E7%BB%99%E8%80%81%E5%B8%88%E9%80%81%E6%8C%89%E6%91%A9%E6%A4%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
