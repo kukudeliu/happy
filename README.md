@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 18:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 18:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [化妆师兔子](https://s.weibo.com/weibo?q=%E5%8C%96%E5%A6%86%E5%B8%88%E5%85%94%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [易烊千玺痛失本名](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%97%9B%E5%A4%B1%E6%9C%AC%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [梅西说自己没受伤但不舒服](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%B2%A1%E5%8F%97%E4%BC%A4%E4%BD%86%E4%B8%8D%E8%88%92%E6%9C%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [大小S孩子同游巴厘岛](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B0%8FS%E5%AD%A9%E5%AD%90%E5%90%8C%E6%B8%B8%E5%B7%B4%E5%8E%98%E5%B2%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [胡夏转发金晨微博](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A4%8F%E8%BD%AC%E5%8F%91%E9%87%91%E6%99%A8%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
