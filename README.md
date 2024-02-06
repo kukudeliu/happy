@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 08:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 08:38:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [我的龙年仪式感](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E9%BE%99%E5%B9%B4%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [英国国王确诊患癌](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B%E7%A1%AE%E8%AF%8A%E6%82%A3%E7%99%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [男子偷卖女朋友黄金用作恋爱开销](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B7%E5%8D%96%E5%A5%B3%E6%9C%8B%E5%8F%8B%E9%BB%84%E9%87%91%E7%94%A8%E4%BD%9C%E6%81%8B%E7%88%B1%E5%BC%80%E9%94%80%23&t=31&band_rank=5&Refer=top)<br />
-6. [日本小姐冠军承认当小三放弃桂冠](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A7%90%E5%86%A0%E5%86%9B%E6%89%BF%E8%AE%A4%E5%BD%93%E5%B0%8F%E4%B8%89%E6%94%BE%E5%BC%83%E6%A1%82%E5%86%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [全红婵大满贯](https://s.weibo.com/weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A4%A7%E6%BB%A1%E8%B4%AF&t=31&band_rank=7&Refer=top)<br />
+6. [全红婵大满贯](https://s.weibo.com/weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A4%A7%E6%BB%A1%E8%B4%AF&t=31&band_rank=6&Refer=top)<br />
+7. [日本小姐冠军承认当小三放弃桂冠](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A7%90%E5%86%A0%E5%86%9B%E6%89%BF%E8%AE%A4%E5%BD%93%E5%B0%8F%E4%B8%89%E6%94%BE%E5%BC%83%E6%A1%82%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [从脂肪肝到肝癌只需四步](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E8%84%82%E8%82%AA%E8%82%9D%E5%88%B0%E8%82%9D%E7%99%8C%E5%8F%AA%E9%9C%80%E5%9B%9B%E6%AD%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [张颂文 上你个头我要过年](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%20%E4%B8%8A%E4%BD%A0%E4%B8%AA%E5%A4%B4%E6%88%91%E8%A6%81%E8%BF%87%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
 
