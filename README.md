@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 14:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 14:58:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [举报黄某某学生已换课题将延期毕业](https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E9%BB%84%E6%9F%90%E6%9F%90%E5%AD%A6%E7%94%9F%E5%B7%B2%E6%8D%A2%E8%AF%BE%E9%A2%98%E5%B0%86%E5%BB%B6%E6%9C%9F%E6%AF%95%E4%B8%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [浦发银行不发年终奖发一封家书](https://s.weibo.com/weibo?q=%23%E6%B5%A6%E5%8F%91%E9%93%B6%E8%A1%8C%E4%B8%8D%E5%8F%91%E5%B9%B4%E7%BB%88%E5%A5%96%E5%8F%91%E4%B8%80%E5%B0%81%E5%AE%B6%E4%B9%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨紫曾在淘宝买红毯活动衣服](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9B%BE%E5%9C%A8%E6%B7%98%E5%AE%9D%E4%B9%B0%E7%BA%A2%E6%AF%AF%E6%B4%BB%E5%8A%A8%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [小S老公称20几岁女生是老妹](https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E8%80%81%E5%85%AC%E7%A7%B020%E5%87%A0%E5%B2%81%E5%A5%B3%E7%94%9F%E6%98%AF%E8%80%81%E5%A6%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [霍启刚说热情被狠狠践踏](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E8%AF%B4%E7%83%AD%E6%83%85%E8%A2%AB%E7%8B%A0%E7%8B%A0%E8%B7%B5%E8%B8%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [你什么冠军](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%80%E4%B9%88%E5%86%A0%E5%86%9B&t=31&band_rank=9&Refer=top)<br />
+7. [你什么冠军](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%80%E4%B9%88%E5%86%A0%E5%86%9B&t=31&band_rank=7&Refer=top)<br />
+8. [小S老公称20几岁女生是老妹](https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E8%80%81%E5%85%AC%E7%A7%B020%E5%87%A0%E5%B2%81%E5%A5%B3%E7%94%9F%E6%98%AF%E8%80%81%E5%A6%B9%23&t=31&band_rank=8&Refer=top)<br />
+9. [霍启刚说热情被狠狠践踏](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E8%AF%B4%E7%83%AD%E6%83%85%E8%A2%AB%E7%8B%A0%E7%8B%A0%E8%B7%B5%E8%B8%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
