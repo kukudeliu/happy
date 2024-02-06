@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 12:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-06 12:04:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [武汉暴雪两只孔雀被冻在墙顶](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%AA%E4%B8%A4%E5%8F%AA%E5%AD%94%E9%9B%80%E8%A2%AB%E5%86%BB%E5%9C%A8%E5%A2%99%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [年货经济带动农产品消费热潮](https://www.baidu.com/s?wd=%E5%B9%B4%E8%B4%A7%E7%BB%8F%E6%B5%8E%E5%B8%A6%E5%8A%A8%E5%86%9C%E4%BA%A7%E5%93%81%E6%B6%88%E8%B4%B9%E7%83%AD%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [孩子高铁上多次踢椅背 家长大打出手](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E9%AB%98%E9%93%81%E4%B8%8A%E5%A4%9A%E6%AC%A1%E8%B8%A2%E6%A4%85%E8%83%8C+%E5%AE%B6%E9%95%BF%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [爸妈吐槽大学生要提前吃光全家年货](https://www.baidu.com/s?wd=%E7%88%B8%E5%A6%88%E5%90%90%E6%A7%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A6%81%E6%8F%90%E5%89%8D%E5%90%83%E5%85%89%E5%85%A8%E5%AE%B6%E5%B9%B4%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [腐乳变“东方奶酪”在海外卖爆了](https://www.baidu.com/s?wd=%E8%85%90%E4%B9%B3%E5%8F%98%E2%80%9C%E4%B8%9C%E6%96%B9%E5%A5%B6%E9%85%AA%E2%80%9D%E5%9C%A8%E6%B5%B7%E5%A4%96%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生开放房车厕所给堵在高速的人](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%BC%80%E6%94%BE%E6%88%BF%E8%BD%A6%E5%8E%95%E6%89%80%E7%BB%99%E5%A0%B5%E5%9C%A8%E9%AB%98%E9%80%9F%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [印度派一艘潜艇抵达斯里兰卡](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%B4%BE%E4%B8%80%E8%89%98%E6%BD%9C%E8%89%87%E6%8A%B5%E8%BE%BE%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [爸妈吐槽大学生要提前吃光全家年货](https://www.baidu.com/s?wd=%E7%88%B8%E5%A6%88%E5%90%90%E6%A7%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A6%81%E6%8F%90%E5%89%8D%E5%90%83%E5%85%89%E5%85%A8%E5%AE%B6%E5%B9%B4%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [腐乳变“东方奶酪”在海外卖爆了](https://www.baidu.com/s?wd=%E8%85%90%E4%B9%B3%E5%8F%98%E2%80%9C%E4%B8%9C%E6%96%B9%E5%A5%B6%E9%85%AA%E2%80%9D%E5%9C%A8%E6%B5%B7%E5%A4%96%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [家长集资给老师送按摩椅？](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E9%9B%86%E8%B5%84%E7%BB%99%E8%80%81%E5%B8%88%E9%80%81%E6%8C%89%E6%91%A9%E6%A4%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [武汉暴雪两只孔雀被冻在墙顶](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%AA%E4%B8%A4%E5%8F%AA%E5%AD%94%E9%9B%80%E8%A2%AB%E5%86%BB%E5%9C%A8%E5%A2%99%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [年货经济带动农产品消费热潮](https://www.baidu.com/s?wd=%E5%B9%B4%E8%B4%A7%E7%BB%8F%E6%B5%8E%E5%B8%A6%E5%8A%A8%E5%86%9C%E4%BA%A7%E5%93%81%E6%B6%88%E8%B4%B9%E7%83%AD%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [孩子高铁上多次踢椅背 家长大打出手](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E9%AB%98%E9%93%81%E4%B8%8A%E5%A4%9A%E6%AC%A1%E8%B8%A2%E6%A4%85%E8%83%8C+%E5%AE%B6%E9%95%BF%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [爸妈吐槽大学生要提前吃光全家年货](https://www.baidu.com/s?wd=%E7%88%B8%E5%A6%88%E5%90%90%E6%A7%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A6%81%E6%8F%90%E5%89%8D%E5%90%83%E5%85%89%E5%85%A8%E5%AE%B6%E5%B9%B4%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [腐乳变“东方奶酪”在海外卖爆了](https://www.baidu.com/s?wd=%E8%85%90%E4%B9%B3%E5%8F%98%E2%80%9C%E4%B8%9C%E6%96%B9%E5%A5%B6%E9%85%AA%E2%80%9D%E5%9C%A8%E6%B5%B7%E5%A4%96%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生开放房车厕所给堵在高速的人](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%BC%80%E6%94%BE%E6%88%BF%E8%BD%A6%E5%8E%95%E6%89%80%E7%BB%99%E5%A0%B5%E5%9C%A8%E9%AB%98%E9%80%9F%E7%9A%84%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [印度派一艘潜艇抵达斯里兰卡](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%B4%BE%E4%B8%80%E8%89%98%E6%BD%9C%E8%89%87%E6%8A%B5%E8%BE%BE%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [爸妈吐槽大学生要提前吃光全家年货](https://www.baidu.com/s?wd=%E7%88%B8%E5%A6%88%E5%90%90%E6%A7%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A6%81%E6%8F%90%E5%89%8D%E5%90%83%E5%85%89%E5%85%A8%E5%AE%B6%E5%B9%B4%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [腐乳变“东方奶酪”在海外卖爆了](https://www.baidu.com/s?wd=%E8%85%90%E4%B9%B3%E5%8F%98%E2%80%9C%E4%B8%9C%E6%96%B9%E5%A5%B6%E9%85%AA%E2%80%9D%E5%9C%A8%E6%B5%B7%E5%A4%96%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [家长集资给老师送按摩椅？](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E9%9B%86%E8%B5%84%E7%BB%99%E8%80%81%E5%B8%88%E9%80%81%E6%8C%89%E6%91%A9%E6%A4%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
