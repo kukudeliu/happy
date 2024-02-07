@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 12:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 12:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘丹说小糯米每天上学前要挑衣配鞋](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%B9%E8%AF%B4%E5%B0%8F%E7%B3%AF%E7%B1%B3%E6%AF%8F%E5%A4%A9%E4%B8%8A%E5%AD%A6%E5%89%8D%E8%A6%81%E6%8C%91%E8%A1%A3%E9%85%8D%E9%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [贾玲剪影](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%89%AA%E5%BD%B1&t=31&band_rank=7&Refer=top)<br />
 8. [字节红包 减半](https://s.weibo.com/weibo?q=%E5%AD%97%E8%8A%82%E7%BA%A2%E5%8C%85%20%E5%87%8F%E5%8D%8A&t=31&band_rank=8&Refer=top)<br />
-9. [梅西日本](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E6%97%A5%E6%9C%AC&t=31&band_rank=9&Refer=top)<br />
+9. [有一部分人开始断亲了](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E9%83%A8%E5%88%86%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%96%AD%E4%BA%B2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
