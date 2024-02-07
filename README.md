@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 13:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 14:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [9岁小糯米近照](https://s.weibo.com/weibo?q=9%E5%B2%81%E5%B0%8F%E7%B3%AF%E7%B1%B3%E8%BF%91%E7%85%A7&t=31&band_rank=6&Refer=top)<br />
 7. [刘丹说小糯米每天上学前要挑衣配鞋](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%B9%E8%AF%B4%E5%B0%8F%E7%B3%AF%E7%B1%B3%E6%AF%8F%E5%A4%A9%E4%B8%8A%E5%AD%A6%E5%89%8D%E8%A6%81%E6%8C%91%E8%A1%A3%E9%85%8D%E9%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [6.8亿彩票](https://s.weibo.com/weibo?q=6.8%E4%BA%BF%E5%BD%A9%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
-9. [大雪封路村民15元方便面被批评贵](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%9B%AA%E5%B0%81%E8%B7%AF%E6%9D%91%E6%B0%9115%E5%85%83%E6%96%B9%E4%BE%BF%E9%9D%A2%E8%A2%AB%E6%89%B9%E8%AF%84%E8%B4%B5%23&t=31&band_rank=9&Refer=top)<br />
+9. [霍启刚直言梅西没有尊重球迷](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E7%9B%B4%E8%A8%80%E6%A2%85%E8%A5%BF%E6%B2%A1%E6%9C%89%E5%B0%8A%E9%87%8D%E7%90%83%E8%BF%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
