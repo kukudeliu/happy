@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 20:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 20:42:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [梅西上场了](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%B8%8A%E5%9C%BA%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [直击2024春运](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB2024%E6%98%A5%E8%BF%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [医学奇迹](https://s.weibo.com/weibo?q=%E5%8C%BB%E5%AD%A6%E5%A5%87%E8%BF%B9&t=31&band_rank=4&Refer=top)<br />
-5. [贵阳消防栓](https://s.weibo.com/weibo?q=%E8%B4%B5%E9%98%B3%E6%B6%88%E9%98%B2%E6%A0%93&t=31&band_rank=5&Refer=top)<br />
-6. [杨幂唐装](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%94%90%E8%A3%85%23&t=31&band_rank=6&Refer=top)<br />
+5. [杨幂唐装](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%94%90%E8%A3%85%23&t=31&band_rank=5&Refer=top)<br />
+6. [贵阳消防栓](https://s.weibo.com/weibo?q=%E8%B4%B5%E9%98%B3%E6%B6%88%E9%98%B2%E6%A0%93&t=31&band_rank=6&Refer=top)<br />
 7. [苏醒](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92&t=31&band_rank=7&Refer=top)<br />
 8. [梅西6场季前赛仅缺席香港行比赛](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF6%E5%9C%BA%E5%AD%A3%E5%89%8D%E8%B5%9B%E4%BB%85%E7%BC%BA%E5%B8%AD%E9%A6%99%E6%B8%AF%E8%A1%8C%E6%AF%94%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
 9. [张雪峰称不要试图说教年轻人消费](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E4%B8%8D%E8%A6%81%E8%AF%95%E5%9B%BE%E8%AF%B4%E6%95%99%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B6%88%E8%B4%B9%23&t=31&band_rank=9&Refer=top)<br />
