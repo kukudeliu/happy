@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 22:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 22:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [梅西不会出席日本行赛后发布会](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%AD%E6%97%A5%E6%9C%AC%E8%A1%8C%E8%B5%9B%E5%90%8E%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫文笔](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%96%87%E7%AC%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [小黑粉](https://s.weibo.com/weibo?q=%E5%B0%8F%E9%BB%91%E7%B2%89&t=31&band_rank=8&Refer=top)<br />
-9. [梅西向日本球迷告别](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%90%91%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E5%91%8A%E5%88%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [霍启刚重申梅西应给公众交代](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E9%87%8D%E7%94%B3%E6%A2%85%E8%A5%BF%E5%BA%94%E7%BB%99%E5%85%AC%E4%BC%97%E4%BA%A4%E4%BB%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
