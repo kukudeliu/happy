@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 07:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 07:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [朝鲜废除与韩国所有经济领域合作协议](https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E5%BA%9F%E9%99%A4%E4%B8%8E%E9%9F%A9%E5%9B%BD%E6%89%80%E6%9C%89%E7%BB%8F%E6%B5%8E%E9%A2%86%E5%9F%9F%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [梅西C罗上演爽约帽子戏法](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BFC%E7%BD%97%E4%B8%8A%E6%BC%94%E7%88%BD%E7%BA%A6%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%23&t=31&band_rank=6&Refer=top)<br />
 7. [00后小伙睡醒被亲戚围床边介绍对象](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E7%9D%A1%E9%86%92%E8%A2%AB%E4%BA%B2%E6%88%9A%E5%9B%B4%E5%BA%8A%E8%BE%B9%E4%BB%8B%E7%BB%8D%E5%AF%B9%E8%B1%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [北京明确不安排一线教师寒假值班](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%8E%E7%A1%AE%E4%B8%8D%E5%AE%89%E6%8E%92%E4%B8%80%E7%BA%BF%E6%95%99%E5%B8%88%E5%AF%92%E5%81%87%E5%80%BC%E7%8F%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [春晚节目](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE&t=31&band_rank=9&Refer=top)<br />
+8. [春晚节目](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE&t=31&band_rank=8&Refer=top)<br />
+9. [北京明确不安排一线教师寒假值班](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%8E%E7%A1%AE%E4%B8%8D%E5%AE%89%E6%8E%92%E4%B8%80%E7%BA%BF%E6%95%99%E5%B8%88%E5%AF%92%E5%81%87%E5%80%BC%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
