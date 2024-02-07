@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 08:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 08:19:02</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [上百度看2024总台春晚](https://www.baidu.com/s?wd=%E4%B8%8A%E7%99%BE%E5%BA%A6%E7%9C%8B2024%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [4个月龙凤胎被困高速 众人接力转移](https://www.baidu.com/s?wd=4%E4%B8%AA%E6%9C%88%E9%BE%99%E5%87%A4%E8%83%8E%E8%A2%AB%E5%9B%B0%E9%AB%98%E9%80%9F+%E4%BC%97%E4%BA%BA%E6%8E%A5%E5%8A%9B%E8%BD%AC%E7%A7%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [列车里飘出浓浓年味](https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E9%87%8C%E9%A3%98%E5%87%BA%E6%B5%93%E6%B5%93%E5%B9%B4%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [军嫂回应姐弟贴免费送热水挂二维码](https://www.baidu.com/s?wd=%E5%86%9B%E5%AB%82%E5%9B%9E%E5%BA%94%E5%A7%90%E5%BC%9F%E8%B4%B4%E5%85%8D%E8%B4%B9%E9%80%81%E7%83%AD%E6%B0%B4%E6%8C%82%E4%BA%8C%E7%BB%B4%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [聚餐被收7500元电费？酒店回应](https://www.baidu.com/s?wd=%E8%81%9A%E9%A4%90%E8%A2%AB%E6%94%B67500%E5%85%83%E7%94%B5%E8%B4%B9%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梅西评论区沦陷](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%B2%A6%E9%99%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [智利前总统坠机身亡](https://www.baidu.com/s?wd=%E6%99%BA%E5%88%A9%E5%89%8D%E6%80%BB%E7%BB%9F%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [腊月二十八 打糕蒸馍贴花花](https://www.baidu.com/s?wd=%E8%85%8A%E6%9C%88%E4%BA%8C%E5%8D%81%E5%85%AB+%E6%89%93%E7%B3%95%E8%92%B8%E9%A6%8D%E8%B4%B4%E8%8A%B1%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [上百度看2024总台春晚](https://www.baidu.com/s?wd=%E4%B8%8A%E7%99%BE%E5%BA%A6%E7%9C%8B2024%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [4个月龙凤胎被困高速 众人接力转移](https://www.baidu.com/s?wd=4%E4%B8%AA%E6%9C%88%E9%BE%99%E5%87%A4%E8%83%8E%E8%A2%AB%E5%9B%B0%E9%AB%98%E9%80%9F+%E4%BC%97%E4%BA%BA%E6%8E%A5%E5%8A%9B%E8%BD%AC%E7%A7%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [列车里飘出浓浓年味](https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E9%87%8C%E9%A3%98%E5%87%BA%E6%B5%93%E6%B5%93%E5%B9%B4%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [军嫂回应姐弟贴免费送热水挂二维码](https://www.baidu.com/s?wd=%E5%86%9B%E5%AB%82%E5%9B%9E%E5%BA%94%E5%A7%90%E5%BC%9F%E8%B4%B4%E5%85%8D%E8%B4%B9%E9%80%81%E7%83%AD%E6%B0%B4%E6%8C%82%E4%BA%8C%E7%BB%B4%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [聚餐被收7500元电费？酒店回应](https://www.baidu.com/s?wd=%E8%81%9A%E9%A4%90%E8%A2%AB%E6%94%B67500%E5%85%83%E7%94%B5%E8%B4%B9%EF%BC%9F%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梅西评论区沦陷](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%B2%A6%E9%99%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [智利前总统坠机身亡](https://www.baidu.com/s?wd=%E6%99%BA%E5%88%A9%E5%89%8D%E6%80%BB%E7%BB%9F%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [腊月二十八 打糕蒸馍贴花花](https://www.baidu.com/s?wd=%E8%85%8A%E6%9C%88%E4%BA%8C%E5%8D%81%E5%85%AB+%E6%89%93%E7%B3%95%E8%92%B8%E9%A6%8D%E8%B4%B4%E8%8A%B1%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
