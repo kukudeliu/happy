@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 10:56:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [总书记来我家串门儿喽](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%9D%A5%E6%88%91%E5%AE%B6%E4%B8%B2%E9%97%A8%E5%84%BF%E5%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [男生为提高相亲成功率开始化妆了](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%BA%E6%8F%90%E9%AB%98%E7%9B%B8%E4%BA%B2%E6%88%90%E5%8A%9F%E7%8E%87%E5%BC%80%E5%A7%8B%E5%8C%96%E5%A6%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [贵州开出双色球6.8亿巨奖创最高纪录](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E5%BC%80%E5%87%BA%E5%8F%8C%E8%89%B2%E7%90%836.8%E4%BA%BF%E5%B7%A8%E5%A5%96%E5%88%9B%E6%9C%80%E9%AB%98%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [男子欠56万勤恳打工被债主免25万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A056%E4%B8%87%E5%8B%A4%E6%81%B3%E6%89%93%E5%B7%A5%E8%A2%AB%E5%80%BA%E4%B8%BB%E5%85%8D25%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [列车里飘出浓浓年味](https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E9%87%8C%E9%A3%98%E5%87%BA%E6%B5%93%E6%B5%93%E5%B9%B4%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [湖北交投高管除雪期间休假被通报](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E4%BA%A4%E6%8A%95%E9%AB%98%E7%AE%A1%E9%99%A4%E9%9B%AA%E6%9C%9F%E9%97%B4%E4%BC%91%E5%81%87%E8%A2%AB%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [总书记来我家串门儿喽](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%9D%A5%E6%88%91%E5%AE%B6%E4%B8%B2%E9%97%A8%E5%84%BF%E5%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [男生为提高相亲成功率开始化妆了](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%BA%E6%8F%90%E9%AB%98%E7%9B%B8%E4%BA%B2%E6%88%90%E5%8A%9F%E7%8E%87%E5%BC%80%E5%A7%8B%E5%8C%96%E5%A6%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [贵州开出双色球6.8亿巨奖创最高纪录](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E5%BC%80%E5%87%BA%E5%8F%8C%E8%89%B2%E7%90%836.8%E4%BA%BF%E5%B7%A8%E5%A5%96%E5%88%9B%E6%9C%80%E9%AB%98%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [男子欠56万勤恳打工被债主免25万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AC%A056%E4%B8%87%E5%8B%A4%E6%81%B3%E6%89%93%E5%B7%A5%E8%A2%AB%E5%80%BA%E4%B8%BB%E5%85%8D25%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [列车里飘出浓浓年味](https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E9%87%8C%E9%A3%98%E5%87%BA%E6%B5%93%E6%B5%93%E5%B9%B4%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [湖北交投高管除雪期间休假被通报](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E4%BA%A4%E6%8A%95%E9%AB%98%E7%AE%A1%E9%99%A4%E9%9B%AA%E6%9C%9F%E9%97%B4%E4%BC%91%E5%81%87%E8%A2%AB%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
