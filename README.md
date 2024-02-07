@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 08:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 08:08:01</h4></div>
 
 > 微博  
 
-1. [你的微信聊天记录值多少钱](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E5%80%BC%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=31&band_rank=1&Refer=top)<br />
-2. [9岁小糯米近照](https://s.weibo.com/weibo?q=9%E5%B2%81%E5%B0%8F%E7%B3%AF%E7%B1%B3%E8%BF%91%E7%85%A7&t=31&band_rank=2&Refer=top)<br />
+1. [9岁小糯米近照](https://s.weibo.com/weibo?q=9%E5%B2%81%E5%B0%8F%E7%B3%AF%E7%B1%B3%E8%BF%91%E7%85%A7&t=31&band_rank=1&Refer=top)<br />
+2. [你的微信聊天记录值多少钱](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E5%80%BC%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=31&band_rank=2&Refer=top)<br />
 3. [我与家人合个影](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%8E%E5%AE%B6%E4%BA%BA%E5%90%88%E4%B8%AA%E5%BD%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [美媒下场报道梅西之乱](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E4%B8%8B%E5%9C%BA%E6%8A%A5%E9%81%93%E6%A2%85%E8%A5%BF%E4%B9%8B%E4%B9%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [县城彩礼从18.8万涨到3个9万9加房和车](https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%9F%8E%E5%BD%A9%E7%A4%BC%E4%BB%8E18.8%E4%B8%87%E6%B6%A8%E5%88%B03%E4%B8%AA9%E4%B8%879%E5%8A%A0%E6%88%BF%E5%92%8C%E8%BD%A6%23&t=31&band_rank=5&Refer=top)<br />
