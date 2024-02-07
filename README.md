@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 13:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 13:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贵州双色球6.8亿巨奖系一人独中](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E5%8F%8C%E8%89%B2%E7%90%836.8%E4%BA%BF%E5%B7%A8%E5%A5%96%E7%B3%BB%E4%B8%80%E4%BA%BA%E7%8B%AC%E4%B8%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [迈阿密国际回应梅西缺阵](https://s.weibo.com/weibo?q=%23%E8%BF%88%E9%98%BF%E5%AF%86%E5%9B%BD%E9%99%85%E5%9B%9E%E5%BA%94%E6%A2%85%E8%A5%BF%E7%BC%BA%E9%98%B5%23&t=31&band_rank=7&Refer=top)<br />
 8. [有一部分人开始断亲了](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E9%83%A8%E5%88%86%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%96%AD%E4%BA%B2%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [贾玲剪影](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%89%AA%E5%BD%B1&t=31&band_rank=9&Refer=top)<br />
+9. [大雪封路村民15元方便面被批评贵](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%9B%AA%E5%B0%81%E8%B7%AF%E6%9D%91%E6%B0%9115%E5%85%83%E6%96%B9%E4%BE%BF%E9%9D%A2%E8%A2%AB%E6%89%B9%E8%AF%84%E8%B4%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
