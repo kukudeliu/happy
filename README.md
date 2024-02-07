@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 20:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 20:25:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [贵阳消防栓](https://s.weibo.com/weibo?q=%E8%B4%B5%E9%98%B3%E6%B6%88%E9%98%B2%E6%A0%93&t=31&band_rank=5&Refer=top)<br />
 6. [papi酱 这个除夕快乐上班](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E8%BF%99%E4%B8%AA%E9%99%A4%E5%A4%95%E5%BF%AB%E4%B9%90%E4%B8%8A%E7%8F%AD&t=31&band_rank=6&Refer=top)<br />
 7. [梅西6场季前赛仅缺席香港行比赛](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF6%E5%9C%BA%E5%AD%A3%E5%89%8D%E8%B5%9B%E4%BB%85%E7%BC%BA%E5%B8%AD%E9%A6%99%E6%B8%AF%E8%A1%8C%E6%AF%94%E8%B5%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [易会满被免](https://s.weibo.com/weibo?q=%23%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%85%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [要久久爱大结局](https://s.weibo.com/weibo?q=%23%E8%A6%81%E4%B9%85%E4%B9%85%E7%88%B1%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=9&Refer=top)<br />
+8. [张雪峰称不要试图说教年轻人消费](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E4%B8%8D%E8%A6%81%E8%AF%95%E5%9B%BE%E8%AF%B4%E6%95%99%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B6%88%E8%B4%B9%23&t=31&band_rank=8&Refer=top)<br />
+9. [易会满被免](https://s.weibo.com/weibo?q=%23%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%85%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
