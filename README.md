@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 21:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-07 21:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [霍启刚愤怒回应梅西道歉](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E6%84%A4%E6%80%92%E5%9B%9E%E5%BA%94%E6%A2%85%E8%A5%BF%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [苏醒](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂唐装](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%94%90%E8%A3%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [日本场上座率](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%BA%E4%B8%8A%E5%BA%A7%E7%8E%87&t=31&band_rank=8&Refer=top)<br />
-9. [大美中国 冰雪之约](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%20%E5%86%B0%E9%9B%AA%E4%B9%8B%E7%BA%A6&t=31&band_rank=9&Refer=top)<br />
+8. [杨紫文笔](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%96%87%E7%AC%94%23&t=31&band_rank=8&Refer=top)<br />
+9. [日本场上座率](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%BA%E4%B8%8A%E5%BA%A7%E7%8E%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
