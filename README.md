@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 01:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 01:44:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [有一盏灯火](https://www.baidu.com/s?wd=%E6%9C%89%E4%B8%80%E7%9B%8F%E7%81%AF%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [霍启刚说梅西日本上场是伤口撒盐](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E8%AF%B4%E6%A2%85%E8%A5%BF%E6%97%A5%E6%9C%AC%E4%B8%8A%E5%9C%BA%E6%98%AF%E4%BC%A4%E5%8F%A3%E6%92%92%E7%9B%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被困司机谈20元餐：吃上热乎的就行](https://www.baidu.com/s?wd=%E8%A2%AB%E5%9B%B0%E5%8F%B8%E6%9C%BA%E8%B0%8820%E5%85%83%E9%A4%90%EF%BC%9A%E5%90%83%E4%B8%8A%E7%83%AD%E4%B9%8E%E7%9A%84%E5%B0%B1%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王涛：我认为梅西和迈阿密错了](https://www.baidu.com/s?wd=%E7%8E%8B%E6%B6%9B%EF%BC%9A%E6%88%91%E8%AE%A4%E4%B8%BA%E6%A2%85%E8%A5%BF%E5%92%8C%E8%BF%88%E9%98%BF%E5%AF%86%E9%94%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [年轻人节前挤爆美甲店](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%8A%82%E5%89%8D%E6%8C%A4%E7%88%86%E7%BE%8E%E7%94%B2%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杨幂唐装绝美舞台](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E5%94%90%E8%A3%85%E7%BB%9D%E7%BE%8E%E8%88%9E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川过云南的桥断了？谣言](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%BF%87%E4%BA%91%E5%8D%97%E7%9A%84%E6%A1%A5%E6%96%AD%E4%BA%86%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [有一盏灯火](https://www.baidu.com/s?wd=%E6%9C%89%E4%B8%80%E7%9B%8F%E7%81%AF%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [霍启刚说梅西日本上场是伤口撒盐](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E8%AF%B4%E6%A2%85%E8%A5%BF%E6%97%A5%E6%9C%AC%E4%B8%8A%E5%9C%BA%E6%98%AF%E4%BC%A4%E5%8F%A3%E6%92%92%E7%9B%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被困司机谈20元餐：吃上热乎的就行](https://www.baidu.com/s?wd=%E8%A2%AB%E5%9B%B0%E5%8F%B8%E6%9C%BA%E8%B0%8820%E5%85%83%E9%A4%90%EF%BC%9A%E5%90%83%E4%B8%8A%E7%83%AD%E4%B9%8E%E7%9A%84%E5%B0%B1%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王涛：我认为梅西和迈阿密错了](https://www.baidu.com/s?wd=%E7%8E%8B%E6%B6%9B%EF%BC%9A%E6%88%91%E8%AE%A4%E4%B8%BA%E6%A2%85%E8%A5%BF%E5%92%8C%E8%BF%88%E9%98%BF%E5%AF%86%E9%94%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [年轻人节前挤爆美甲店](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%8A%82%E5%89%8D%E6%8C%A4%E7%88%86%E7%BE%8E%E7%94%B2%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [杨幂唐装绝美舞台](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E5%94%90%E8%A3%85%E7%BB%9D%E7%BE%8E%E8%88%9E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四川过云南的桥断了？谣言](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%BF%87%E4%BA%91%E5%8D%97%E7%9A%84%E6%A1%A5%E6%96%AD%E4%BA%86%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
