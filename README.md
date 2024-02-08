@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 16:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 16:48:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [人民日报评三无四无婚礼](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%B8%89%E6%97%A0%E5%9B%9B%E6%97%A0%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=5&Refer=top)<br />
 6. [AppStore下架库迪APP](https://s.weibo.com/weibo?q=%23AppStore%E4%B8%8B%E6%9E%B6%E5%BA%93%E8%BF%AAAPP%23&t=31&band_rank=6&Refer=top)<br />
 7. [外交部两问日本核污染水泄漏](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E4%B8%A4%E9%97%AE%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%B3%84%E6%BC%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [短发的韩素希](https://s.weibo.com/weibo?q=%E7%9F%AD%E5%8F%91%E7%9A%84%E9%9F%A9%E7%B4%A0%E5%B8%8C&t=31&band_rank=8&Refer=top)<br />
-9. [梅西不是第一次缺席](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BC%BA%E5%B8%AD%23&t=31&band_rank=9&Refer=top)<br />
+8. [梅西不是第一次缺席](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BC%BA%E5%B8%AD%23&t=31&band_rank=8&Refer=top)<br />
+9. [短发的韩素希](https://s.weibo.com/weibo?q=%E7%9F%AD%E5%8F%91%E7%9A%84%E9%9F%A9%E7%B4%A0%E5%B8%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
