@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 17:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 17:59:01</h4></div>
 
 > 微博  
 
-1. [李佳琦红包](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%BA%A2%E5%8C%85%23&t=31&band_rank=1&Refer=top)<br />
+1. [龙不再翻译为dragon而是loong](https://s.weibo.com/weibo?q=%23%E9%BE%99%E4%B8%8D%E5%86%8D%E7%BF%BB%E8%AF%91%E4%B8%BAdragon%E8%80%8C%E6%98%AFloong%23&t=31&band_rank=1&Refer=top)<br />
 2. [民警女儿蹦蹦跳跳给每一辆警车挂中国结](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%A5%B3%E5%84%BF%E8%B9%A6%E8%B9%A6%E8%B7%B3%E8%B7%B3%E7%BB%99%E6%AF%8F%E4%B8%80%E8%BE%86%E8%AD%A6%E8%BD%A6%E6%8C%82%E4%B8%AD%E5%9B%BD%E7%BB%93%23&t=31&band_rank=2&Refer=top)<br />
 3. [电视春节档年味满满](https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E6%98%A5%E8%8A%82%E6%A1%A3%E5%B9%B4%E5%91%B3%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [中国足协已暂停与阿根廷足协合作](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%B7%B2%E6%9A%82%E5%81%9C%E4%B8%8E%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B6%B3%E5%8D%8F%E5%90%88%E4%BD%9C%23&t=31&band_rank=4&Refer=top)<br />
 5. [爷奶探望3500公里外的戍边新警](https://s.weibo.com/weibo?q=%23%E7%88%B7%E5%A5%B6%E6%8E%A2%E6%9C%9B3500%E5%85%AC%E9%87%8C%E5%A4%96%E7%9A%84%E6%88%8D%E8%BE%B9%E6%96%B0%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [龙不再翻译为dragon而是loong](https://s.weibo.com/weibo?q=%23%E9%BE%99%E4%B8%8D%E5%86%8D%E7%BF%BB%E8%AF%91%E4%B8%BAdragon%E8%80%8C%E6%98%AFloong%23&t=31&band_rank=6&Refer=top)<br />
+6. [李佳琦红包](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%BA%A2%E5%8C%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [C罗拜年](https://s.weibo.com/weibo?q=C%E7%BD%97%E6%8B%9C%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
 8. [梅西合同](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%90%88%E5%90%8C&t=31&band_rank=8&Refer=top)<br />
 9. [AppStore下架库迪APP](https://s.weibo.com/weibo?q=%23AppStore%E4%B8%8B%E6%9E%B6%E5%BA%93%E8%BF%AAAPP%23&t=31&band_rank=9&Refer=top)<br />
