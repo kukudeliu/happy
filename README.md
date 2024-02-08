@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 13:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 13:21:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [“捉奸人”帮撕小三被判刑](https://www.baidu.com/s?wd=%E2%80%9C%E6%8D%89%E5%A5%B8%E4%BA%BA%E2%80%9D%E5%B8%AE%E6%92%95%E5%B0%8F%E4%B8%89%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子花129元理发回家崩溃大哭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1129%E5%85%83%E7%90%86%E5%8F%91%E5%9B%9E%E5%AE%B6%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [博主撕毁梅西签名球衣](https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E6%92%95%E6%AF%81%E6%A2%85%E8%A5%BF%E7%AD%BE%E5%90%8D%E7%90%83%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川过云南的桥断了？谣言](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%BF%87%E4%BA%91%E5%8D%97%E7%9A%84%E6%A1%A5%E6%96%AD%E4%BA%86%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这张湖北高速路况图是AI制成的](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E6%B9%96%E5%8C%97%E9%AB%98%E9%80%9F%E8%B7%AF%E5%86%B5%E5%9B%BE%E6%98%AFAI%E5%88%B6%E6%88%90%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [“捉奸人”帮撕小三被判刑](https://www.baidu.com/s?wd=%E2%80%9C%E6%8D%89%E5%A5%B8%E4%BA%BA%E2%80%9D%E5%B8%AE%E6%92%95%E5%B0%8F%E4%B8%89%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子花129元理发回家崩溃大哭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1129%E5%85%83%E7%90%86%E5%8F%91%E5%9B%9E%E5%AE%B6%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [博主撕毁梅西签名球衣](https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E6%92%95%E6%AF%81%E6%A2%85%E8%A5%BF%E7%AD%BE%E5%90%8D%E7%90%83%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [四川过云南的桥断了？谣言](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E8%BF%87%E4%BA%91%E5%8D%97%E7%9A%84%E6%A1%A5%E6%96%AD%E4%BA%86%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [这张湖北高速路况图是AI制成的](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E6%B9%96%E5%8C%97%E9%AB%98%E9%80%9F%E8%B7%AF%E5%86%B5%E5%9B%BE%E6%98%AFAI%E5%88%B6%E6%88%90%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
