@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 10:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 10:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [霍启刚愤怒回应梅西道歉](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E6%84%A4%E6%80%92%E5%9B%9E%E5%BA%94%E6%A2%85%E8%A5%BF%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [梅西合同](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%90%88%E5%90%8C&t=31&band_rank=6&Refer=top)<br />
 7. [春晚节目](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE&t=31&band_rank=7&Refer=top)<br />
-8. [友情婚](https://s.weibo.com/weibo?q=%E5%8F%8B%E6%83%85%E5%A9%9A&t=31&band_rank=8&Refer=top)<br />
-9. [迈阿密主帅称梅西弃赛是团队决定](https://s.weibo.com/weibo?q=%23%E8%BF%88%E9%98%BF%E5%AF%86%E4%B8%BB%E5%B8%85%E7%A7%B0%E6%A2%85%E8%A5%BF%E5%BC%83%E8%B5%9B%E6%98%AF%E5%9B%A2%E9%98%9F%E5%86%B3%E5%AE%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [迈阿密主帅称梅西弃赛是团队决定](https://s.weibo.com/weibo?q=%23%E8%BF%88%E9%98%BF%E5%AF%86%E4%B8%BB%E5%B8%85%E7%A7%B0%E6%A2%85%E8%A5%BF%E5%BC%83%E8%B5%9B%E6%98%AF%E5%9B%A2%E9%98%9F%E5%86%B3%E5%AE%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [友情婚](https://s.weibo.com/weibo?q=%E5%8F%8B%E6%83%85%E5%A9%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
