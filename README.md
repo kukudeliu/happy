@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 04:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 04:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [霍启刚评论区](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%90%AF%E5%88%9A%E8%AF%84%E8%AE%BA%E5%8C%BA&t=31&band_rank=6&Refer=top)<br />
 7. [龙不再翻译为dragon而是loong](https://s.weibo.com/weibo?q=%23%E9%BE%99%E4%B8%8D%E5%86%8D%E7%BF%BB%E8%AF%91%E4%B8%BAdragon%E8%80%8C%E6%98%AFloong%23&t=31&band_rank=7&Refer=top)<br />
 8. [新闻联播镜头下的周冬雨](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E5%91%A8%E5%86%AC%E9%9B%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [梅西的伤与友谊赛的商](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E7%9A%84%E4%BC%A4%E4%B8%8E%E5%8F%8B%E8%B0%8A%E8%B5%9B%E7%9A%84%E5%95%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [一家4口回老家过年住酒店不住家](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B64%E5%8F%A3%E5%9B%9E%E8%80%81%E5%AE%B6%E8%BF%87%E5%B9%B4%E4%BD%8F%E9%85%92%E5%BA%97%E4%B8%8D%E4%BD%8F%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
