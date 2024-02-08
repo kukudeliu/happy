@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 07:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 07:26:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王者荣耀](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=6&Refer=top)<br />
 7. [龙不再翻译为dragon而是loong](https://s.weibo.com/weibo?q=%23%E9%BE%99%E4%B8%8D%E5%86%8D%E7%BF%BB%E8%AF%91%E4%B8%BAdragon%E8%80%8C%E6%98%AFloong%23&t=31&band_rank=7&Refer=top)<br />
 8. [郭冬临cos林俊杰](https://s.weibo.com/weibo?q=%E9%83%AD%E5%86%AC%E4%B8%B4cos%E6%9E%97%E4%BF%8A%E6%9D%B0&t=31&band_rank=8&Refer=top)<br />
-9. [丁俊晖回复吴磊](https://s.weibo.com/weibo?q=%23%E4%B8%81%E4%BF%8A%E6%99%96%E5%9B%9E%E5%A4%8D%E5%90%B4%E7%A3%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [除夕快乐](https://s.weibo.com/weibo?q=%23%E9%99%A4%E5%A4%95%E5%BF%AB%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
