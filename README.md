@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 23:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 23:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南柱赫校园暴力举报人与记者被起诉](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%9F%B1%E8%B5%AB%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B%E4%B8%BE%E6%8A%A5%E4%BA%BA%E4%B8%8E%E8%AE%B0%E8%80%85%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [长相思吧官博发长文](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E5%90%A7%E5%AE%98%E5%8D%9A%E5%8F%91%E9%95%BF%E6%96%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [龙不再翻译为dragon而是loong](https://s.weibo.com/weibo?q=%23%E9%BE%99%E4%B8%8D%E5%86%8D%E7%BF%BB%E8%AF%91%E4%B8%BAdragon%E8%80%8C%E6%98%AFloong%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么年轻人不爱吃糖果了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%88%B1%E5%90%83%E7%B3%96%E6%9E%9C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [王者荣耀回应梅西皮肤](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%9B%9E%E5%BA%94%E6%A2%85%E8%A5%BF%E7%9A%AE%E8%82%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
