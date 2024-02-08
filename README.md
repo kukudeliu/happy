@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 23:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 23:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王者荣耀回应梅西皮肤](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%9B%9E%E5%BA%94%E6%A2%85%E8%A5%BF%E7%9A%AE%E8%82%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [龙不再翻译为dragon而是loong](https://s.weibo.com/weibo?q=%23%E9%BE%99%E4%B8%8D%E5%86%8D%E7%BF%BB%E8%AF%91%E4%B8%BAdragon%E8%80%8C%E6%98%AFloong%23&t=31&band_rank=7&Refer=top)<br />
 8. [丁俊晖回复吴磊](https://s.weibo.com/weibo?q=%23%E4%B8%81%E4%BF%8A%E6%99%96%E5%9B%9E%E5%A4%8D%E5%90%B4%E7%A3%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [长相思吧官博发长文](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E5%90%A7%E5%AE%98%E5%8D%9A%E5%8F%91%E9%95%BF%E6%96%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [官方回应网传21岁男子领养5岁女孩](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A021%E5%B2%81%E7%94%B7%E5%AD%90%E9%A2%86%E5%85%BB5%E5%B2%81%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
