@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 14:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 14:59:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [全球点亮“中国红”](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%82%B9%E4%BA%AE%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%BA%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国龙叫Loong而不是Dragon](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%BE%99%E5%8F%ABLoong%E8%80%8C%E4%B8%8D%E6%98%AFDragon&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [阿根廷3月中国行大概率取消](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B73%E6%9C%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%A4%A7%E6%A6%82%E7%8E%87%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“捉奸人”帮撕小三被判刑](https://www.baidu.com/s?wd=%E2%80%9C%E6%8D%89%E5%A5%B8%E4%BA%BA%E2%80%9D%E5%B8%AE%E6%92%95%E5%B0%8F%E4%B8%89%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子花129元理发回家崩溃大哭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1129%E5%85%83%E7%90%86%E5%8F%91%E5%9B%9E%E5%AE%B6%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [证监会换帅 A股三大股指集体高开](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8D%A2%E5%B8%85+A%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“捉奸人”帮撕小三被判刑](https://www.baidu.com/s?wd=%E2%80%9C%E6%8D%89%E5%A5%B8%E4%BA%BA%E2%80%9D%E5%B8%AE%E6%92%95%E5%B0%8F%E4%B8%89%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这张湖北高速路况图是AI制成的](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E6%B9%96%E5%8C%97%E9%AB%98%E9%80%9F%E8%B7%AF%E5%86%B5%E5%9B%BE%E6%98%AFAI%E5%88%B6%E6%88%90%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [全球点亮“中国红”](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%82%B9%E4%BA%AE%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%BA%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国龙叫Loong而不是Dragon](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%BE%99%E5%8F%ABLoong%E8%80%8C%E4%B8%8D%E6%98%AFDragon&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [阿根廷3月中国行大概率取消](https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B73%E6%9C%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%A4%A7%E6%A6%82%E7%8E%87%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“捉奸人”帮撕小三被判刑](https://www.baidu.com/s?wd=%E2%80%9C%E6%8D%89%E5%A5%B8%E4%BA%BA%E2%80%9D%E5%B8%AE%E6%92%95%E5%B0%8F%E4%B8%89%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子花129元理发回家崩溃大哭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1129%E5%85%83%E7%90%86%E5%8F%91%E5%9B%9E%E5%AE%B6%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [证监会换帅 A股三大股指集体高开](https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8D%A2%E5%B8%85+A%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“捉奸人”帮撕小三被判刑](https://www.baidu.com/s?wd=%E2%80%9C%E6%8D%89%E5%A5%B8%E4%BA%BA%E2%80%9D%E5%B8%AE%E6%92%95%E5%B0%8F%E4%B8%89%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这张湖北高速路况图是AI制成的](https://www.baidu.com/s?wd=%E8%BF%99%E5%BC%A0%E6%B9%96%E5%8C%97%E9%AB%98%E9%80%9F%E8%B7%AF%E5%86%B5%E5%9B%BE%E6%98%AFAI%E5%88%B6%E6%88%90%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
