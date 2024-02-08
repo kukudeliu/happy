@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 10:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 10:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [梅西合同](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%90%88%E5%90%8C&t=31&band_rank=6&Refer=top)<br />
 7. [疯狂动物城2定档](https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [春晚节目](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE&t=31&band_rank=8&Refer=top)<br />
-9. [过年前先打开这九个安全锦囊](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E5%89%8D%E5%85%88%E6%89%93%E5%BC%80%E8%BF%99%E4%B9%9D%E4%B8%AA%E5%AE%89%E5%85%A8%E9%94%A6%E5%9B%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [迈阿密主帅称梅西弃赛是团队决定](https://s.weibo.com/weibo?q=%23%E8%BF%88%E9%98%BF%E5%AF%86%E4%B8%BB%E5%B8%85%E7%A7%B0%E6%A2%85%E8%A5%BF%E5%BC%83%E8%B5%9B%E6%98%AF%E5%9B%A2%E9%98%9F%E5%86%B3%E5%AE%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
