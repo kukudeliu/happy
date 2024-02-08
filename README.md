@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 09:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 09:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [春晚节目](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE&t=31&band_rank=6&Refer=top)<br />
 7. [梅西ins评论区沦陷](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BFins%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%B2%A6%E9%99%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [梅西C罗上演爽约帽子戏法](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BFC%E7%BD%97%E4%B8%8A%E6%BC%94%E7%88%BD%E7%BA%A6%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [00后小伙睡醒被亲戚围床边介绍对象](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E7%9D%A1%E9%86%92%E8%A2%AB%E4%BA%B2%E6%88%9A%E5%9B%B4%E5%BA%8A%E8%BE%B9%E4%BB%8B%E7%BB%8D%E5%AF%B9%E8%B1%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [友情婚](https://s.weibo.com/weibo?q=%E5%8F%8B%E6%83%85%E5%A9%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
