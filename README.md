@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 10:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 10:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [梅西合同](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%90%88%E5%90%8C&t=31&band_rank=6&Refer=top)<br />
 7. [春晚节目](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE&t=31&band_rank=7&Refer=top)<br />
 8. [友情婚](https://s.weibo.com/weibo?q=%E5%8F%8B%E6%83%85%E5%A9%9A&t=31&band_rank=8&Refer=top)<br />
-9. [刘涛刘诗诗李沁关晓彤同台](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E5%88%98%E8%AF%97%E8%AF%97%E6%9D%8E%E6%B2%81%E5%85%B3%E6%99%93%E5%BD%A4%E5%90%8C%E5%8F%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [迈阿密主帅称梅西弃赛是团队决定](https://s.weibo.com/weibo?q=%23%E8%BF%88%E9%98%BF%E5%AF%86%E4%B8%BB%E5%B8%85%E7%A7%B0%E6%A2%85%E8%A5%BF%E5%BC%83%E8%B5%9B%E6%98%AF%E5%9B%A2%E9%98%9F%E5%86%B3%E5%AE%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
