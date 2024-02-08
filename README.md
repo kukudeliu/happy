@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 15:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 15:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [阿根廷3月中国行大概率取消](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B73%E6%9C%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%A4%A7%E6%A6%82%E7%8E%87%E5%8F%96%E6%B6%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [梅西合同](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%90%88%E5%90%8C&t=31&band_rank=7&Refer=top)<br />
 8. [库迪咖啡下架AppStore](https://s.weibo.com/weibo?q=%23%E5%BA%93%E8%BF%AA%E5%92%96%E5%95%A1%E4%B8%8B%E6%9E%B6AppStore%23&t=31&band_rank=8&Refer=top)<br />
-9. [年终奖](https://s.weibo.com/weibo?q=%E5%B9%B4%E7%BB%88%E5%A5%96&t=31&band_rank=9&Refer=top)<br />
+9. [王者荣耀梅西皮肤](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%A2%85%E8%A5%BF%E7%9A%AE%E8%82%A4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
