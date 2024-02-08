@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 16:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 16:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [何超莲晒豪宅内景](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%8E%B2%E6%99%92%E8%B1%AA%E5%AE%85%E5%86%85%E6%99%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [梅西合同](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%90%88%E5%90%8C&t=31&band_rank=7&Refer=top)<br />
 8. [春晚节目](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE&t=31&band_rank=8&Refer=top)<br />
-9. [阿根廷3月中国行大概率取消](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B73%E6%9C%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%A4%A7%E6%A6%82%E7%8E%87%E5%8F%96%E6%B6%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [外交部两问日本核污染水泄漏](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E4%B8%A4%E9%97%AE%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%B3%84%E6%BC%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
