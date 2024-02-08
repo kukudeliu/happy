@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 21:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-08 21:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李梦太硬了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%A2%A6%E5%A4%AA%E7%A1%AC%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [霍启刚评论区](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%90%AF%E5%88%9A%E8%AF%84%E8%AE%BA%E5%8C%BA&t=31&band_rank=7&Refer=top)<br />
 8. [36岁的释小龙](https://s.weibo.com/weibo?q=36%E5%B2%81%E7%9A%84%E9%87%8A%E5%B0%8F%E9%BE%99&t=31&band_rank=8&Refer=top)<br />
-9. [科比被劝休息说攒钱看我比赛的人怎么办](https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%AF%94%E8%A2%AB%E5%8A%9D%E4%BC%91%E6%81%AF%E8%AF%B4%E6%94%92%E9%92%B1%E7%9C%8B%E6%88%91%E6%AF%94%E8%B5%9B%E7%9A%84%E4%BA%BA%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [梅西的伤与友谊赛的商](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E7%9A%84%E4%BC%A4%E4%B8%8E%E5%8F%8B%E8%B0%8A%E8%B5%9B%E7%9A%84%E5%95%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
