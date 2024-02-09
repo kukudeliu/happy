@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 16:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 16:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [胡歌杨幂唐嫣春晚开场](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E6%9D%A8%E5%B9%82%E5%94%90%E5%AB%A3%E6%98%A5%E6%99%9A%E5%BC%80%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [何炅上春晚](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E4%B8%8A%E6%98%A5%E6%99%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴 新疆的石榴花](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%96%B0%E7%96%86%E7%9A%84%E7%9F%B3%E6%A6%B4%E8%8A%B1&t=31&band_rank=8&Refer=top)<br />
-9. [年三十的仪式感要拉满](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E4%B8%89%E5%8D%81%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%E8%A6%81%E6%8B%89%E6%BB%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [早知道那么好笑就留到春晚看了](https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%9F%A5%E9%81%93%E9%82%A3%E4%B9%88%E5%A5%BD%E7%AC%91%E5%B0%B1%E7%95%99%E5%88%B0%E6%98%A5%E6%99%9A%E7%9C%8B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
