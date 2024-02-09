@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 19:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 19:23:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [锦绣中国年](https://s.weibo.com/weibo?q=%23%E9%94%A6%E7%BB%A3%E4%B8%AD%E5%9B%BD%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [开始放烟花了](https://s.weibo.com/weibo?q=%E5%BC%80%E5%A7%8B%E6%94%BE%E7%83%9F%E8%8A%B1%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [贾玲首秀亮相六公主直播](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E9%A6%96%E7%A7%80%E4%BA%AE%E7%9B%B8%E5%85%AD%E5%85%AC%E4%B8%BB%E7%9B%B4%E6%92%AD%23&t=31&band_rank=5&Refer=top)<br />
-6. [赵昭仪秒删](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E7%A7%92%E5%88%A0%23&t=31&band_rank=6&Refer=top)<br />
+6. [苏醒终于不用保留才艺了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E7%BB%88%E4%BA%8E%E4%B8%8D%E7%94%A8%E4%BF%9D%E7%95%99%E6%89%8D%E8%89%BA%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [花花是春晚最小的观众](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E6%98%AF%E6%98%A5%E6%99%9A%E6%9C%80%E5%B0%8F%E7%9A%84%E8%A7%82%E4%BC%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [苏醒终于不用保留才艺了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E7%BB%88%E4%BA%8E%E4%B8%8D%E7%94%A8%E4%BF%9D%E7%95%99%E6%89%8D%E8%89%BA%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [赵昭仪秒删](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E7%A7%92%E5%88%A0%23&t=31&band_rank=8&Refer=top)<br />
 9. [年夜饭文案](https://s.weibo.com/weibo?q=%E5%B9%B4%E5%A4%9C%E9%A5%AD%E6%96%87%E6%A1%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
