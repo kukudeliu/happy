@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 18:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 18:02:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [何炅上春晚](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E4%B8%8A%E6%98%A5%E6%99%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [花花是春晚最小的观众](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E6%98%AF%E6%98%A5%E6%99%9A%E6%9C%80%E5%B0%8F%E7%9A%84%E8%A7%82%E4%BC%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [胡歌杨幂唐嫣春晚开场](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E6%9D%A8%E5%B9%82%E5%94%90%E5%AB%A3%E6%98%A5%E6%99%9A%E5%BC%80%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [李谷一](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%B0%B7%E4%B8%80&t=31&band_rank=8&Refer=top)<br />
-9. [楼晚](https://s.weibo.com/weibo?q=%E6%A5%BC%E6%99%9A&t=31&band_rank=9&Refer=top)<br />
+8. [楼晚](https://s.weibo.com/weibo?q=%E6%A5%BC%E6%99%9A&t=31&band_rank=8&Refer=top)<br />
+9. [李谷一](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%B0%B7%E4%B8%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
