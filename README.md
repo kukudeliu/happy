@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 23:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 23:52:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [还得是沈腾马丽](https://s.weibo.com/weibo?q=%E8%BF%98%E5%BE%97%E6%98%AF%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD&t=31&band_rank=5&Refer=top)<br />
 6. [尼格买提穿帮](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E7%A9%BF%E5%B8%AE&t=31&band_rank=6&Refer=top)<br />
 7. [过年好](https://s.weibo.com/weibo?q=%E8%BF%87%E5%B9%B4%E5%A5%BD&t=31&band_rank=7&Refer=top)<br />
-8. [小尼你撒谎](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%B0%BC%E4%BD%A0%E6%92%92%E8%B0%8E&t=31&band_rank=8&Refer=top)<br />
+8. [新疆分会场像开了倍速](https://s.weibo.com/weibo?q=%E6%96%B0%E7%96%86%E5%88%86%E4%BC%9A%E5%9C%BA%E5%83%8F%E5%BC%80%E4%BA%86%E5%80%8D%E9%80%9F&t=31&band_rank=8&Refer=top)<br />
 9. [龙行龘龘](https://s.weibo.com/weibo?q=%E9%BE%99%E8%A1%8C%E9%BE%98%E9%BE%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
