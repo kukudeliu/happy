@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 21:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 21:08:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [章若楠毛衣](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E6%AF%9B%E8%A1%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [西安分会场 赢麻了](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E5%88%86%E4%BC%9A%E5%9C%BA%20%E8%B5%A2%E9%BA%BB%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [刘诗诗怼脸好美](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E6%80%BC%E8%84%B8%E5%A5%BD%E7%BE%8E&t=31&band_rank=7&Refer=top)<br />
-8. [胡歌杨幂唐嫣开场同台](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E6%9D%A8%E5%B9%82%E5%94%90%E5%AB%A3%E5%BC%80%E5%9C%BA%E5%90%8C%E5%8F%B0&t=31&band_rank=8&Refer=top)<br />
+8. [春晚cue烂梗](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9Acue%E7%83%82%E6%A2%97&t=31&band_rank=8&Refer=top)<br />
 9. [红包](https://s.weibo.com/weibo?q=%E7%BA%A2%E5%8C%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
