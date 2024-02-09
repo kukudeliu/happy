@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 23:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 23:12:01</h4></div>
 
 > 微博  
 
 1. [迪丽热巴美疯](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BE%8E%E7%96%AF&t=31&band_rank=1&Refer=top)<br />
 2. [春晚](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A&t=31&band_rank=2&Refer=top)<br />
-3. [还得是沈腾马丽](https://s.weibo.com/weibo?q=%E8%BF%98%E5%BE%97%E6%98%AF%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD&t=31&band_rank=3&Refer=top)<br />
-4. [沈腾也嘴瓢了](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E4%B9%9F%E5%98%B4%E7%93%A2%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+3. [沈腾也嘴瓢了](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E4%B9%9F%E5%98%B4%E7%93%A2%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
+4. [还得是沈腾马丽](https://s.weibo.com/weibo?q=%E8%BF%98%E5%BE%97%E6%98%AF%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD&t=31&band_rank=4&Refer=top)<br />
 5. [尼格买提穿帮](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E7%A9%BF%E5%B8%AE&t=31&band_rank=5&Refer=top)<br />
 6. [小尼你撒谎](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%B0%BC%E4%BD%A0%E6%92%92%E8%B0%8E&t=31&band_rank=6&Refer=top)<br />
 7. [西安分会场 赢麻了](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E5%88%86%E4%BC%9A%E5%9C%BA%20%E8%B5%A2%E9%BA%BB%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
