@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 19:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 19:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贾玲首秀亮相六公主直播](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E9%A6%96%E7%A7%80%E4%BA%AE%E7%9B%B8%E5%85%AD%E5%85%AC%E4%B8%BB%E7%9B%B4%E6%92%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [花花是春晚最小的观众](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E6%98%AF%E6%98%A5%E6%99%9A%E6%9C%80%E5%B0%8F%E7%9A%84%E8%A7%82%E4%BC%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [年夜饭文案](https://s.weibo.com/weibo?q=%E5%B9%B4%E5%A4%9C%E9%A5%AD%E6%96%87%E6%A1%88&t=31&band_rank=8&Refer=top)<br />
-9. [赵昭仪秒删](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E7%A7%92%E5%88%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [何炅上春晚](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E4%B8%8A%E6%98%A5%E6%99%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
