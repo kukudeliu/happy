@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 12:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 12:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [水龙吟](https://s.weibo.com/weibo?q=%E6%B0%B4%E9%BE%99%E5%90%9F&t=31&band_rank=6&Refer=top)<br />
 7. [为啥大年三十会消失初一却从不缺席](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E5%A4%A7%E5%B9%B4%E4%B8%89%E5%8D%81%E4%BC%9A%E6%B6%88%E5%A4%B1%E5%88%9D%E4%B8%80%E5%8D%B4%E4%BB%8E%E4%B8%8D%E7%BC%BA%E5%B8%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [第一次上春晚的贾玲](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E6%98%A5%E6%99%9A%E7%9A%84%E8%B4%BE%E7%8E%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [在非遗中邂逅龙年氛围感](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9D%9E%E9%81%97%E4%B8%AD%E9%82%82%E9%80%85%E9%BE%99%E5%B9%B4%E6%B0%9B%E5%9B%B4%E6%84%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [张远王栎鑫成立婚庆公司了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E7%8E%8B%E6%A0%8E%E9%91%AB%E6%88%90%E7%AB%8B%E5%A9%9A%E5%BA%86%E5%85%AC%E5%8F%B8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
