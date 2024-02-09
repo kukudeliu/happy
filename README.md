@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 05:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 05:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘谦耍大牌](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%B0%A6%E8%80%8D%E5%A4%A7%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [马丽的鞋好看](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%E7%9A%84%E9%9E%8B%E5%A5%BD%E7%9C%8B&t=31&band_rank=7&Refer=top)<br />
 8. [龙行龘龘](https://s.weibo.com/weibo?q=%E9%BE%99%E8%A1%8C%E9%BE%98%E9%BE%98&t=31&band_rank=8&Refer=top)<br />
-9. [40岁儿子跪着向妈妈讨要新年红包](https://s.weibo.com/weibo?q=%2340%E5%B2%81%E5%84%BF%E5%AD%90%E8%B7%AA%E7%9D%80%E5%90%91%E5%A6%88%E5%A6%88%E8%AE%A8%E8%A6%81%E6%96%B0%E5%B9%B4%E7%BA%A2%E5%8C%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [过年好](https://s.weibo.com/weibo?q=%E8%BF%87%E5%B9%B4%E5%A5%BD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
