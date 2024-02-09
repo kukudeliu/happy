@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 02:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 02:31:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [咏春女舞者眼神好杀](https://s.weibo.com/weibo?q=%23%E5%92%8F%E6%98%A5%E5%A5%B3%E8%88%9E%E8%80%85%E7%9C%BC%E7%A5%9E%E5%A5%BD%E6%9D%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨幂好甜](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%A5%BD%E7%94%9C&t=31&band_rank=4&Refer=top)<br />
 5. [新疆分会场像开了倍速](https://s.weibo.com/weibo?q=%E6%96%B0%E7%96%86%E5%88%86%E4%BC%9A%E5%9C%BA%E5%83%8F%E5%BC%80%E4%BA%86%E5%80%8D%E9%80%9F&t=31&band_rank=5&Refer=top)<br />
-6. [刘谦耍大牌](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%B0%A6%E8%80%8D%E5%A4%A7%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
+6. [春晚收视率破30%](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B430%25%23&t=31&band_rank=6&Refer=top)<br />
 7. [迪丽热巴随便截图](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%9A%8F%E4%BE%BF%E6%88%AA%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [40岁儿子跪着向妈妈讨要新年红包](https://s.weibo.com/weibo?q=%2340%E5%B2%81%E5%84%BF%E5%AD%90%E8%B7%AA%E7%9D%80%E5%90%91%E5%A6%88%E5%A6%88%E8%AE%A8%E8%A6%81%E6%96%B0%E5%B9%B4%E7%BA%A2%E5%8C%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [过年好](https://s.weibo.com/weibo?q=%E8%BF%87%E5%B9%B4%E5%A5%BD&t=31&band_rank=9&Refer=top)<br />
+8. [刘谦耍大牌](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%B0%A6%E8%80%8D%E5%A4%A7%E7%89%8C%23&t=31&band_rank=8&Refer=top)<br />
+9. [40岁儿子跪着向妈妈讨要新年红包](https://s.weibo.com/weibo?q=%2340%E5%B2%81%E5%84%BF%E5%AD%90%E8%B7%AA%E7%9D%80%E5%90%91%E5%A6%88%E5%A6%88%E8%AE%A8%E8%A6%81%E6%96%B0%E5%B9%B4%E7%BA%A2%E5%8C%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
