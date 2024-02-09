@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 21:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 21:27:01</h4></div>
 
 > 微博  
 
 1. [春晚](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A&t=31&band_rank=1&Refer=top)<br />
 2. [西安分会场 赢麻了](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E5%88%86%E4%BC%9A%E5%9C%BA%20%E8%B5%A2%E9%BA%BB%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [岳云鹏嘴瓢](https://s.weibo.com/weibo?q=%E5%B2%B3%E4%BA%91%E9%B9%8F%E5%98%B4%E7%93%A2&t=31&band_rank=3&Refer=top)<br />
-4. [章若楠毛衣](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E6%AF%9B%E8%A1%A3%23&t=31&band_rank=4&Refer=top)<br />
+4. [刘谦真的会魔法](https://s.weibo.com/weibo?q=%E5%88%98%E8%B0%A6%E7%9C%9F%E7%9A%84%E4%BC%9A%E9%AD%94%E6%B3%95&t=31&band_rank=4&Refer=top)<br />
 5. [春晚节目单](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=5&Refer=top)<br />
-6. [那能一样吗 尴尬](https://s.weibo.com/weibo?q=%E9%82%A3%E8%83%BD%E4%B8%80%E6%A0%B7%E5%90%97%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=6&Refer=top)<br />
-7. [0713圆梦了](https://s.weibo.com/weibo?q=0713%E5%9C%86%E6%A2%A6%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+6. [章若楠毛衣](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E6%AF%9B%E8%A1%A3%23&t=31&band_rank=6&Refer=top)<br />
+7. [那能一样吗 尴尬](https://s.weibo.com/weibo?q=%E9%82%A3%E8%83%BD%E4%B8%80%E6%A0%B7%E5%90%97%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=7&Refer=top)<br />
 8. [龙行龘龘](https://s.weibo.com/weibo?q=%E9%BE%99%E8%A1%8C%E9%BE%98%E9%BE%98&t=31&band_rank=8&Refer=top)<br />
 9. [红包](https://s.weibo.com/weibo?q=%E7%BA%A2%E5%8C%85&t=31&band_rank=9&Refer=top)<br />
 
