@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 20:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-09 20:41:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [岳云鹏嘴瓢](https://s.weibo.com/weibo?q=%E5%B2%B3%E4%BA%91%E9%B9%8F%E5%98%B4%E7%93%A2&t=31&band_rank=4&Refer=top)<br />
 5. [开场好热闹](https://s.weibo.com/weibo?q=%E5%BC%80%E5%9C%BA%E5%A5%BD%E7%83%AD%E9%97%B9&t=31&band_rank=5&Refer=top)<br />
 6. [胡歌杨幂唐嫣开场同台](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E6%9D%A8%E5%B9%82%E5%94%90%E5%AB%A3%E5%BC%80%E5%9C%BA%E5%90%8C%E5%8F%B0&t=31&band_rank=6&Refer=top)<br />
-7. [陈哲远发红包了](https://s.weibo.com/weibo?q=%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%91%E7%BA%A2%E5%8C%85%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+7. [刘诗诗首登央视春晚](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E9%A6%96%E7%99%BB%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [红包](https://s.weibo.com/weibo?q=%E7%BA%A2%E5%8C%85&t=31&band_rank=8&Refer=top)<br />
 9. [岳云鹏 餐馆小哥转身那滴泪](https://s.weibo.com/weibo?q=%E5%B2%B3%E4%BA%91%E9%B9%8F%20%E9%A4%90%E9%A6%86%E5%B0%8F%E5%93%A5%E8%BD%AC%E8%BA%AB%E9%82%A3%E6%BB%B4%E6%B3%AA&t=31&band_rank=9&Refer=top)<br />
 
