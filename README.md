@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 20:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 20:39:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [贾玲太美了](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%A4%AA%E7%BE%8E%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [贾玲腹肌](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E8%85%B9%E8%82%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [热辣滚烫上映](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E4%B8%8A%E6%98%A0&t=31&band_rank=6&Refer=top)<br />
-7. [现在的贾玲](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E8%B4%BE%E7%8E%B2%23&t=31&band_rank=7&Refer=top)<br />
+7. [陈楚生现挂 岳云鹏笑场](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%E7%8E%B0%E6%8C%82%20%E5%B2%B3%E4%BA%91%E9%B9%8F%E7%AC%91%E5%9C%BA&t=31&band_rank=7&Refer=top)<br />
 8. [花花的认养者去看花花也要排队](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E7%9A%84%E8%AE%A4%E5%85%BB%E8%80%85%E5%8E%BB%E7%9C%8B%E8%8A%B1%E8%8A%B1%E4%B9%9F%E8%A6%81%E6%8E%92%E9%98%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [初六前可以不用来看兵马俑了](https://s.weibo.com/weibo?q=%23%E5%88%9D%E5%85%AD%E5%89%8D%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%94%A8%E6%9D%A5%E7%9C%8B%E5%85%B5%E9%A9%AC%E4%BF%91%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
