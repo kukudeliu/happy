@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 21:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 21:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鞠婧祎 画中仙](https://s.weibo.com/weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E7%94%BB%E4%B8%AD%E4%BB%99&t=31&band_rank=6&Refer=top)<br />
 7. [肖战站C位果然是马丽雷佳音商量好的](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%AB%99C%E4%BD%8D%E6%9E%9C%E7%84%B6%E6%98%AF%E9%A9%AC%E4%B8%BD%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%95%86%E9%87%8F%E5%A5%BD%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [东方卫视春晚 繁花剧组](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A%20%E7%B9%81%E8%8A%B1%E5%89%A7%E7%BB%84&t=31&band_rank=8&Refer=top)<br />
-9. [微信用户除夕夜抢红包50.8亿个](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%94%A8%E6%88%B7%E9%99%A4%E5%A4%95%E5%A4%9C%E6%8A%A2%E7%BA%A2%E5%8C%8550.8%E4%BA%BF%E4%B8%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [初六前可以不用来看兵马俑了](https://s.weibo.com/weibo?q=%23%E5%88%9D%E5%85%AD%E5%89%8D%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%94%A8%E6%9D%A5%E7%9C%8B%E5%85%B5%E9%A9%AC%E4%BF%91%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
