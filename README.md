@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 14:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 14:58:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [任鲁豫春晚救场](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E9%B2%81%E8%B1%AB%E6%98%A5%E6%99%9A%E6%95%91%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [周深父母对儿子没参加春晚的反应](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E7%88%B6%E6%AF%8D%E5%AF%B9%E5%84%BF%E5%AD%90%E6%B2%A1%E5%8F%82%E5%8A%A0%E6%98%A5%E6%99%9A%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [陆之昂 我要上春晚肯定就红了](https://s.weibo.com/weibo?q=%E9%99%86%E4%B9%8B%E6%98%82%20%E6%88%91%E8%A6%81%E4%B8%8A%E6%98%A5%E6%99%9A%E8%82%AF%E5%AE%9A%E5%B0%B1%E7%BA%A2%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [大理通报游客被骂穷光蛋](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%90%86%E9%80%9A%E6%8A%A5%E6%B8%B8%E5%AE%A2%E8%A2%AB%E9%AA%82%E7%A9%B7%E5%85%89%E8%9B%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [新疆8分钟惊艳世界](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%868%E5%88%86%E9%92%9F%E6%83%8A%E8%89%B3%E4%B8%96%E7%95%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
