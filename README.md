@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 16:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 16:06:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [现在的贾玲](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E8%B4%BE%E7%8E%B2%23&t=31&band_rank=4&Refer=top)<br />
 5. [贾玲 不靠任何妆造的爆改](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%20%E4%B8%8D%E9%9D%A0%E4%BB%BB%E4%BD%95%E5%A6%86%E9%80%A0%E7%9A%84%E7%88%86%E6%94%B9&t=31&band_rank=5&Refer=top)<br />
 6. [热辣滚烫上映](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E4%B8%8A%E6%98%A0&t=31&band_rank=6&Refer=top)<br />
-7. [校方回应称单依纯上春晚不能加学分](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E7%A7%B0%E5%8D%95%E4%BE%9D%E7%BA%AF%E4%B8%8A%E6%98%A5%E6%99%9A%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%AD%A6%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [贾玲减肥全记录](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%87%8F%E8%82%A5%E5%85%A8%E8%AE%B0%E5%BD%95&t=31&band_rank=8&Refer=top)<br />
+7. [贾玲减肥全记录](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%87%8F%E8%82%A5%E5%85%A8%E8%AE%B0%E5%BD%95&t=31&band_rank=7&Refer=top)<br />
+8. [校方回应称单依纯上春晚不能加学分](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E7%A7%B0%E5%8D%95%E4%BE%9D%E7%BA%AF%E4%B8%8A%E6%98%A5%E6%99%9A%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%AD%A6%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [极兔速递否认发布争议言论](https://s.weibo.com/weibo?q=%23%E6%9E%81%E5%85%94%E9%80%9F%E9%80%92%E5%90%A6%E8%AE%A4%E5%8F%91%E5%B8%83%E4%BA%89%E8%AE%AE%E8%A8%80%E8%AE%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
