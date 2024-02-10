@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 18:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 18:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贾玲瘦下来和张小斐好像](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E7%98%A6%E4%B8%8B%E6%9D%A5%E5%92%8C%E5%BC%A0%E5%B0%8F%E6%96%90%E5%A5%BD%E5%83%8F&t=31&band_rank=6&Refer=top)<br />
 7. [初六前可以不用来看兵马俑了](https://s.weibo.com/weibo?q=%23%E5%88%9D%E5%85%AD%E5%89%8D%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%94%A8%E6%9D%A5%E7%9C%8B%E5%85%B5%E9%A9%AC%E4%BF%91%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [热巴春晚跳舞摔跤了](https://s.weibo.com/weibo?q=%E7%83%AD%E5%B7%B4%E6%98%A5%E6%99%9A%E8%B7%B3%E8%88%9E%E6%91%94%E8%B7%A4%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [锦绣中国年](https://s.weibo.com/weibo?q=%23%E9%94%A6%E7%BB%A3%E4%B8%AD%E5%9B%BD%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国女篮半场落后法国20分](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%8D%8A%E5%9C%BA%E8%90%BD%E5%90%8E%E6%B3%95%E5%9B%BD20%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
