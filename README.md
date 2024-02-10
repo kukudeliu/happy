@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 08:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 08:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘谦耍大牌](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%B0%A6%E8%80%8D%E5%A4%A7%E7%89%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [春晚最好笑的梗](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E6%9C%80%E5%A5%BD%E7%AC%91%E7%9A%84%E6%A2%97&t=31&band_rank=7&Refer=top)<br />
 8. [保洁阿姨 明年这个变魔术的别来了](https://s.weibo.com/weibo?q=%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%20%E6%98%8E%E5%B9%B4%E8%BF%99%E4%B8%AA%E5%8F%98%E9%AD%94%E6%9C%AF%E7%9A%84%E5%88%AB%E6%9D%A5%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [龙行龘龘](https://s.weibo.com/weibo?q=%E9%BE%99%E8%A1%8C%E9%BE%98%E9%BE%98&t=31&band_rank=9&Refer=top)<br />
+9. [大年初一](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
