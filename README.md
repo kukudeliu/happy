@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 21:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 21:06:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [陈楚生现挂 岳云鹏笑场](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%E7%8E%B0%E6%8C%82%20%E5%B2%B3%E4%BA%91%E9%B9%8F%E7%AC%91%E5%9C%BA&t=31&band_rank=5&Refer=top)<br />
 6. [肖战站C位果然是马丽雷佳音商量好的](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%AB%99C%E4%BD%8D%E6%9E%9C%E7%84%B6%E6%98%AF%E9%A9%AC%E4%B8%BD%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%95%86%E9%87%8F%E5%A5%BD%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [尼格买提有人陪你了](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%9C%89%E4%BA%BA%E9%99%AA%E4%BD%A0%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [热辣滚烫上映](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E4%B8%8A%E6%98%A0&t=31&band_rank=8&Refer=top)<br />
+8. [沈腾 巴音布鲁克之王](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E5%B7%B4%E9%9F%B3%E5%B8%83%E9%B2%81%E5%85%8B%E4%B9%8B%E7%8E%8B&t=31&band_rank=8&Refer=top)<br />
 9. [微信用户除夕夜抢红包50.8亿个](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%94%A8%E6%88%B7%E9%99%A4%E5%A4%95%E5%A4%9C%E6%8A%A2%E7%BA%A2%E5%8C%8550.8%E4%BA%BF%E4%B8%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
