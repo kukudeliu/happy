@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 17:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 17:09:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [贾玲减肥全记录](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%87%8F%E8%82%A5%E5%85%A8%E8%AE%B0%E5%BD%95&t=31&band_rank=5&Refer=top)<br />
 6. [尼格买提有人陪你了](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%9C%89%E4%BA%BA%E9%99%AA%E4%BD%A0%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [热辣滚烫上映](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E4%B8%8A%E6%98%A0&t=31&band_rank=7&Refer=top)<br />
-8. [校方回应称单依纯上春晚不能加学分](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E7%A7%B0%E5%8D%95%E4%BE%9D%E7%BA%AF%E4%B8%8A%E6%98%A5%E6%99%9A%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%AD%A6%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [热巴春晚跳舞摔跤了](https://s.weibo.com/weibo?q=%E7%83%AD%E5%B7%B4%E6%98%A5%E6%99%9A%E8%B7%B3%E8%88%9E%E6%91%94%E8%B7%A4%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [极兔速递否认发布争议言论](https://s.weibo.com/weibo?q=%23%E6%9E%81%E5%85%94%E9%80%9F%E9%80%92%E5%90%A6%E8%AE%A4%E5%8F%91%E5%B8%83%E4%BA%89%E8%AE%AE%E8%A8%80%E8%AE%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
