@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 14:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-10 14:05:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [贾玲 不靠任何妆造的爆改](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%20%E4%B8%8D%E9%9D%A0%E4%BB%BB%E4%BD%95%E5%A6%86%E9%80%A0%E7%9A%84%E7%88%86%E6%94%B9&t=31&band_rank=4&Refer=top)<br />
 5. [热辣滚烫上映](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E4%B8%8A%E6%98%A0&t=31&band_rank=5&Refer=top)<br />
 6. [周深父母对儿子没参加春晚的反应](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E7%88%B6%E6%AF%8D%E5%AF%B9%E5%84%BF%E5%AD%90%E6%B2%A1%E5%8F%82%E5%8A%A0%E6%98%A5%E6%99%9A%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=6&Refer=top)<br />
-7. [尼格买提偷偷藏不住](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F&t=31&band_rank=7&Refer=top)<br />
-8. [刘谦含着眼泪离开春晚舞台](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%B0%A6%E5%90%AB%E7%9D%80%E7%9C%BC%E6%B3%AA%E7%A6%BB%E5%BC%80%E6%98%A5%E6%99%9A%E8%88%9E%E5%8F%B0%23&t=31&band_rank=8&Refer=top)<br />
+7. [任鲁豫春晚救场](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E9%B2%81%E8%B1%AB%E6%98%A5%E6%99%9A%E6%95%91%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [尼格买提偷偷藏不住](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F&t=31&band_rank=8&Refer=top)<br />
 9. [新疆8分钟惊艳世界](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%868%E5%88%86%E9%92%9F%E6%83%8A%E8%89%B3%E4%B8%96%E7%95%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
