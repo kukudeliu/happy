@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-11 11:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-11 11:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男生误食椰子片被卡重庆民警火速送医](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%AF%AF%E9%A3%9F%E6%A4%B0%E5%AD%90%E7%89%87%E8%A2%AB%E5%8D%A1%E9%87%8D%E5%BA%86%E6%B0%91%E8%AD%A6%E7%81%AB%E9%80%9F%E9%80%81%E5%8C%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [爸爸素质不详遇强则强](https://s.weibo.com/weibo?q=%E7%88%B8%E7%88%B8%E7%B4%A0%E8%B4%A8%E4%B8%8D%E8%AF%A6%E9%81%87%E5%BC%BA%E5%88%99%E5%BC%BA&t=31&band_rank=7&Refer=top)<br />
 8. [喝牛奶拉肚子的人也不能戒奶](https://s.weibo.com/weibo?q=%23%E5%96%9D%E7%89%9B%E5%A5%B6%E6%8B%89%E8%82%9A%E5%AD%90%E7%9A%84%E4%BA%BA%E4%B9%9F%E4%B8%8D%E8%83%BD%E6%88%92%E5%A5%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [UP主实测40小时拆1888元红包](https://s.weibo.com/weibo?q=%23UP%E4%B8%BB%E5%AE%9E%E6%B5%8B40%E5%B0%8F%E6%97%B6%E6%8B%861888%E5%85%83%E7%BA%A2%E5%8C%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [小尼工作保住了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%BC%E5%B7%A5%E4%BD%9C%E4%BF%9D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
