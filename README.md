@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 02:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 02:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [关之琳61岁状态](https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%B9%8B%E7%90%B361%E5%B2%81%E7%8A%B6%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [送你一朵小红花导演回应](https://s.weibo.com/weibo?q=%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94&t=31&band_rank=7&Refer=top)<br />
 8. [于适被韩寒从彩蛋剪进正片](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E8%A2%AB%E9%9F%A9%E5%AF%92%E4%BB%8E%E5%BD%A9%E8%9B%8B%E5%89%AA%E8%BF%9B%E6%AD%A3%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [三大球目前仅中国女篮获奥运资格](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A4%A7%E7%90%83%E7%9B%AE%E5%89%8D%E4%BB%85%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%8E%B7%E5%A5%A5%E8%BF%90%E8%B5%84%E6%A0%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [吴磊你就宠赵今麦吧](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E4%BD%A0%E5%B0%B1%E5%AE%A0%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%90%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
