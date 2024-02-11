@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 07:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 07:47:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [全球同庆中国年](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E5%90%8C%E5%BA%86%E4%B8%AD%E5%9B%BD%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
 4. [大年初三](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%89&t=31&band_rank=4&Refer=top)<br />
 5. [眼看从3000元涨到了8000元](https://s.weibo.com/weibo?q=%23%E7%9C%BC%E7%9C%8B%E4%BB%8E3000%E5%85%83%E6%B6%A8%E5%88%B0%E4%BA%868000%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
-6. [全村小孩挨家挨户拜年大人封2元利是](https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%9D%91%E5%B0%8F%E5%AD%A9%E6%8C%A8%E5%AE%B6%E6%8C%A8%E6%88%B7%E6%8B%9C%E5%B9%B4%E5%A4%A7%E4%BA%BA%E5%B0%812%E5%85%83%E5%88%A9%E6%98%AF%23&t=31&band_rank=6&Refer=top)<br />
-7. [基普图姆去世](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%99%AE%E5%9B%BE%E5%A7%86%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
+6. [基普图姆去世](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%99%AE%E5%9B%BE%E5%A7%86%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
+7. [全村小孩挨家挨户拜年大人封2元利是](https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%9D%91%E5%B0%8F%E5%AD%A9%E6%8C%A8%E5%AE%B6%E6%8C%A8%E6%88%B7%E6%8B%9C%E5%B9%B4%E5%A4%A7%E4%BA%BA%E5%B0%812%E5%85%83%E5%88%A9%E6%98%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [潘展乐打破世界纪录](https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E6%89%93%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&t=31&band_rank=8&Refer=top)<br />
 9. [贾玲称过去一年不快乐但值得](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E7%A7%B0%E8%BF%87%E5%8E%BB%E4%B8%80%E5%B9%B4%E4%B8%8D%E5%BF%AB%E4%B9%90%E4%BD%86%E5%80%BC%E5%BE%97%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -25,7 +25,7 @@
 6. [光头强闷声发大财](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%B4%E5%BC%BA%E9%97%B7%E5%A3%B0%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子家养20年富贵竹 高3层楼超9米](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E5%85%BB20%E5%B9%B4%E5%AF%8C%E8%B4%B5%E7%AB%B9+%E9%AB%983%E5%B1%82%E6%A5%BC%E8%B6%859%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马丽谈之前忘给沈腾儿子准备红包](https://www.baidu.com/s?wd=%E9%A9%AC%E4%B8%BD%E8%B0%88%E4%B9%8B%E5%89%8D%E5%BF%98%E7%BB%99%E6%B2%88%E8%85%BE%E5%84%BF%E5%AD%90%E5%87%86%E5%A4%87%E7%BA%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [云南辟谣21岁男子收养5岁女孩](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E8%BE%9F%E8%B0%A321%E5%B2%81%E7%94%B7%E5%AD%90%E6%94%B6%E5%85%BB5%E5%B2%81%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [过年不能吃药？谣言](https://www.baidu.com/s?wd=%E8%BF%87%E5%B9%B4%E4%B8%8D%E8%83%BD%E5%90%83%E8%8D%AF%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [光头强闷声发大财](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%B4%E5%BC%BA%E9%97%B7%E5%A3%B0%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子家养20年富贵竹 高3层楼超9米](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E5%85%BB20%E5%B9%B4%E5%AF%8C%E8%B4%B5%E7%AB%B9+%E9%AB%983%E5%B1%82%E6%A5%BC%E8%B6%859%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [马丽谈之前忘给沈腾儿子准备红包](https://www.baidu.com/s?wd=%E9%A9%AC%E4%B8%BD%E8%B0%88%E4%B9%8B%E5%89%8D%E5%BF%98%E7%BB%99%E6%B2%88%E8%85%BE%E5%84%BF%E5%AD%90%E5%87%86%E5%A4%87%E7%BA%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [云南辟谣21岁男子收养5岁女孩](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E8%BE%9F%E8%B0%A321%E5%B2%81%E7%94%B7%E5%AD%90%E6%94%B6%E5%85%BB5%E5%B2%81%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [过年不能吃药？谣言](https://www.baidu.com/s?wd=%E8%BF%87%E5%B9%B4%E4%B8%8D%E8%83%BD%E5%90%83%E8%8D%AF%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
