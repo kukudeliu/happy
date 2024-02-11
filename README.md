@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-11 12:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-11 12:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [库里绝杀](https://s.weibo.com/weibo?q=%E5%BA%93%E9%87%8C%E7%BB%9D%E6%9D%80&t=31&band_rank=6&Refer=top)<br />
 7. [贾玲 我的减重是非常健康的](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%20%E6%88%91%E7%9A%84%E5%87%8F%E9%87%8D%E6%98%AF%E9%9D%9E%E5%B8%B8%E5%81%A5%E5%BA%B7%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
 8. [胡锡进 贾玲确实太牛了](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%20%E8%B4%BE%E7%8E%B2%E7%A1%AE%E5%AE%9E%E5%A4%AA%E7%89%9B%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [热辣滚烫票房](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E7%A5%A8%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
+9. [魏晨回应杨紫给他投票](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E5%9B%9E%E5%BA%94%E6%9D%A8%E7%B4%AB%E7%BB%99%E4%BB%96%E6%8A%95%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
