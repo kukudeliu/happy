@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 05:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 05:25:02</h4></div>
 
 > 微博  
 
 1. [爸爸去哪儿阿拉蕾长大了](https://s.weibo.com/weibo?q=%E7%88%B8%E7%88%B8%E5%8E%BB%E5%93%AA%E5%84%BF%E9%98%BF%E6%8B%89%E8%95%BE%E9%95%BF%E5%A4%A7%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
-2. [这是李焕英的女儿](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E6%9D%8E%E7%84%95%E8%8B%B1%E7%9A%84%E5%A5%B3%E5%84%BF&t=31&band_rank=2&Refer=top)<br />
+2. [眼看从3000元涨到了8000元](https://s.weibo.com/weibo?q=%23%E7%9C%BC%E7%9C%8B%E4%BB%8E3000%E5%85%83%E6%B6%A8%E5%88%B0%E4%BA%868000%E5%85%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [全球同庆中国年](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E5%90%8C%E5%BA%86%E4%B8%AD%E5%9B%BD%E5%B9%B4%23&t=31&band_rank=3&Refer=top)<br />
-4. [眼看从3000元涨到了8000元](https://s.weibo.com/weibo?q=%23%E7%9C%BC%E7%9C%8B%E4%BB%8E3000%E5%85%83%E6%B6%A8%E5%88%B0%E4%BA%868000%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
+4. [这是李焕英的女儿](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E6%9D%8E%E7%84%95%E8%8B%B1%E7%9A%84%E5%A5%B3%E5%84%BF&t=31&band_rank=4&Refer=top)<br />
 5. [张一山随地扔烟头](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E9%9A%8F%E5%9C%B0%E6%89%94%E7%83%9F%E5%A4%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [贾玲称过去一年不快乐但值得](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E7%A7%B0%E8%BF%87%E5%8E%BB%E4%B8%80%E5%B9%B4%E4%B8%8D%E5%BF%AB%E4%B9%90%E4%BD%86%E5%80%BC%E5%BE%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [李庚希回应摇太阳排片少](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E5%9B%9E%E5%BA%94%E6%91%87%E5%A4%AA%E9%98%B3%E6%8E%92%E7%89%87%E5%B0%91%23&t=31&band_rank=7&Refer=top)<br />
