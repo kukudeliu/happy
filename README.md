@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-11 10:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-11 10:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [热辣滚烫票房](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E7%A5%A8%E6%88%BF&t=31&band_rank=6&Refer=top)<br />
 7. [小尼工作保住了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%BC%E5%B7%A5%E4%BD%9C%E4%BF%9D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [初二开始走亲戚的你](https://s.weibo.com/weibo?q=%E5%88%9D%E4%BA%8C%E5%BC%80%E5%A7%8B%E8%B5%B0%E4%BA%B2%E6%88%9A%E7%9A%84%E4%BD%A0&t=31&band_rank=8&Refer=top)<br />
-9. [热辣滚烫治好了我的讨好型人格](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E6%B2%BB%E5%A5%BD%E4%BA%86%E6%88%91%E7%9A%84%E8%AE%A8%E5%A5%BD%E5%9E%8B%E4%BA%BA%E6%A0%BC&t=31&band_rank=9&Refer=top)<br />
+9. [UP主实测40小时拆1888元红包](https://s.weibo.com/weibo?q=%23UP%E4%B8%BB%E5%AE%9E%E6%B5%8B40%E5%B0%8F%E6%97%B6%E6%8B%861888%E5%85%83%E7%BA%A2%E5%8C%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
