@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-11 22:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-11 22:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贾玲和杨迪聊天五小时菜一口没动](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%92%8C%E6%9D%A8%E8%BF%AA%E8%81%8A%E5%A4%A9%E4%BA%94%E5%B0%8F%E6%97%B6%E8%8F%9C%E4%B8%80%E5%8F%A3%E6%B2%A1%E5%8A%A8&t=31&band_rank=6&Refer=top)<br />
 7. [姜妍好甜](https://s.weibo.com/weibo?q=%E5%A7%9C%E5%A6%8D%E5%A5%BD%E7%94%9C&t=31&band_rank=7&Refer=top)<br />
 8. [飞驰人生2 好看](https://s.weibo.com/weibo?q=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F2%20%E5%A5%BD%E7%9C%8B&t=31&band_rank=8&Refer=top)<br />
-9. [汕头烟花](https://s.weibo.com/weibo?q=%E6%B1%95%E5%A4%B4%E7%83%9F%E8%8A%B1&t=31&band_rank=9&Refer=top)<br />
+9. [眼看从3000元涨到了8000元](https://s.weibo.com/weibo?q=%23%E7%9C%BC%E7%9C%8B%E4%BB%8E3000%E5%85%83%E6%B6%A8%E5%88%B0%E4%BA%868000%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
