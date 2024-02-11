@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 07:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 07:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大年初三](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%89&t=31&band_rank=6&Refer=top)<br />
 7. [李庚希回应摇太阳排片少](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E5%9B%9E%E5%BA%94%E6%91%87%E5%A4%AA%E9%98%B3%E6%8E%92%E7%89%87%E5%B0%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [这是李焕英的女儿](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E6%9D%8E%E7%84%95%E8%8B%B1%E7%9A%84%E5%A5%B3%E5%84%BF&t=31&band_rank=8&Refer=top)<br />
-9. [于适被韩寒从彩蛋剪进正片](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E8%A2%AB%E9%9F%A9%E5%AF%92%E4%BB%8E%E5%BD%A9%E8%9B%8B%E5%89%AA%E8%BF%9B%E6%AD%A3%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [潘展乐打破世界纪录](https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E6%89%93%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
