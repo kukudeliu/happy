@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 01:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 01:06:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [于适被韩寒从彩蛋剪进正片](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E8%A2%AB%E9%9F%A9%E5%AF%92%E4%BB%8E%E5%BD%A9%E8%9B%8B%E5%89%AA%E8%BF%9B%E6%AD%A3%E7%89%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [送你一朵小红花导演回应](https://s.weibo.com/weibo?q=%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94&t=31&band_rank=7&Refer=top)<br />
 8. [沈腾说刘昊然飞驰2瘦得心疼](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E8%AF%B4%E5%88%98%E6%98%8A%E7%84%B6%E9%A3%9E%E9%A9%B02%E7%98%A6%E5%BE%97%E5%BF%83%E7%96%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [不是贾玲规训了我 而是我预设了她](https://s.weibo.com/weibo?q=%E4%B8%8D%E6%98%AF%E8%B4%BE%E7%8E%B2%E8%A7%84%E8%AE%AD%E4%BA%86%E6%88%91%20%E8%80%8C%E6%98%AF%E6%88%91%E9%A2%84%E8%AE%BE%E4%BA%86%E5%A5%B9&t=31&band_rank=9&Refer=top)<br />
+9. [李庚希回应摇太阳排片少](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E5%9B%9E%E5%BA%94%E6%91%87%E5%A4%AA%E9%98%B3%E6%8E%92%E7%89%87%E5%B0%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
