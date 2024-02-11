@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-11 23:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-11 23:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李庚希回应摇太阳排片少](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E5%9B%9E%E5%BA%94%E6%91%87%E5%A4%AA%E9%98%B3%E6%8E%92%E7%89%87%E5%B0%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [春晚为什么是八点开始](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%85%AB%E7%82%B9%E5%BC%80%E5%A7%8B&t=31&band_rank=7&Refer=top)<br />
 8. [送你一朵小红花导演回应](https://s.weibo.com/weibo?q=%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94&t=31&band_rank=8&Refer=top)<br />
-9. [贾玲和杨迪聊天五小时菜一口没动](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%92%8C%E6%9D%A8%E8%BF%AA%E8%81%8A%E5%A4%A9%E4%BA%94%E5%B0%8F%E6%97%B6%E8%8F%9C%E4%B8%80%E5%8F%A3%E6%B2%A1%E5%8A%A8&t=31&band_rank=9&Refer=top)<br />
+9. [热辣滚烫单日票房冠军](https://s.weibo.com/weibo?q=%23%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
