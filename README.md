@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-11 09:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-11 09:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [已婚已育的中年女性决定过年谁家也不回](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%A9%9A%E5%B7%B2%E8%82%B2%E7%9A%84%E4%B8%AD%E5%B9%B4%E5%A5%B3%E6%80%A7%E5%86%B3%E5%AE%9A%E8%BF%87%E5%B9%B4%E8%B0%81%E5%AE%B6%E4%B9%9F%E4%B8%8D%E5%9B%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [凯特王妃坐马车会晕车](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%9D%90%E9%A9%AC%E8%BD%A6%E4%BC%9A%E6%99%95%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [初二开始走亲戚的你](https://s.weibo.com/weibo?q=%E5%88%9D%E4%BA%8C%E5%BC%80%E5%A7%8B%E8%B5%B0%E4%BA%B2%E6%88%9A%E7%9A%84%E4%BD%A0&t=31&band_rank=8&Refer=top)<br />
-9. [春节档票房](https://s.weibo.com/weibo?q=%E6%98%A5%E8%8A%82%E6%A1%A3%E7%A5%A8%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
+9. [杨超越 医保不治恋爱脑](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%20%E5%8C%BB%E4%BF%9D%E4%B8%8D%E6%B2%BB%E6%81%8B%E7%88%B1%E8%84%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
