@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 13:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 13:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小伙开兰博基尼回村出事故撞报废](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%BC%80%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E5%9B%9E%E6%9D%91%E5%87%BA%E4%BA%8B%E6%95%85%E6%92%9E%E6%8A%A5%E5%BA%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [贾玲建议女生朋友关注当下远离糟心事](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E6%9C%8B%E5%8F%8B%E5%85%B3%E6%B3%A8%E5%BD%93%E4%B8%8B%E8%BF%9C%E7%A6%BB%E7%B3%9F%E5%BF%83%E4%BA%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [甜馨晒压岁钱](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E6%99%92%E5%8E%8B%E5%B2%81%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [美国春晚](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%98%A5%E6%99%9A&t=31&band_rank=9&Refer=top)<br />
+9. [霉霉拥吻庆祝男友获冠军](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E6%8B%A5%E5%90%BB%E5%BA%86%E7%A5%9D%E7%94%B7%E5%8F%8B%E8%8E%B7%E5%86%A0%E5%86%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
