@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 11:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 11:15:02</h4></div>
 
 > 微博  
 
-1. [甜馨晒压岁钱](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E6%99%92%E5%8E%8B%E5%B2%81%E9%92%B1%23&t=31&band_rank=1&Refer=top)<br />
-2. [小尼的失误被警方当成典型案例了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%BC%E7%9A%84%E5%A4%B1%E8%AF%AF%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BD%93%E6%88%90%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [小尼的失误被警方当成典型案例了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%BC%E7%9A%84%E5%A4%B1%E8%AF%AF%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BD%93%E6%88%90%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [甜馨晒压岁钱](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E6%99%92%E5%8E%8B%E5%B2%81%E9%92%B1%23&t=31&band_rank=2&Refer=top)<br />
 3. [我与家人合个影](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%8E%E5%AE%B6%E4%BA%BA%E5%90%88%E4%B8%AA%E5%BD%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [贾玲建议女生朋友关注当下远离糟心事](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E6%9C%8B%E5%8F%8B%E5%85%B3%E6%B3%A8%E5%BD%93%E4%B8%8B%E8%BF%9C%E7%A6%BB%E7%B3%9F%E5%BF%83%E4%BA%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [刘谦第一个魔术被剪](https://s.weibo.com/weibo?q=%E5%88%98%E8%B0%A6%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%AD%94%E6%9C%AF%E8%A2%AB%E5%89%AA&t=31&band_rank=5&Refer=top)<br />
