@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 23:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 23:05:02</h4></div>
 
 > 微博  
 
-1. [尼格买提说自己三天没笑过了](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%89%E5%A4%A9%E6%B2%A1%E7%AC%91%E8%BF%87%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [差不多行了啊](https://s.weibo.com/weibo?q=%E5%B7%AE%E4%B8%8D%E5%A4%9A%E8%A1%8C%E4%BA%86%E5%95%8A&t=31&band_rank=2&Refer=top)<br />
+1. [差不多行了啊](https://s.weibo.com/weibo?q=%E5%B7%AE%E4%B8%8D%E5%A4%9A%E8%A1%8C%E4%BA%86%E5%95%8A&t=31&band_rank=1&Refer=top)<br />
+2. [尼格买提说自己三天没笑过了](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%89%E5%A4%A9%E6%B2%A1%E7%AC%91%E8%BF%87%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [晒晒我家的年味](https://s.weibo.com/weibo?q=%23%E6%99%92%E6%99%92%E6%88%91%E5%AE%B6%E7%9A%84%E5%B9%B4%E5%91%B3%23&t=31&band_rank=3&Refer=top)<br />
 4. [技术修复上春山走位](https://s.weibo.com/weibo?q=%E6%8A%80%E6%9C%AF%E4%BF%AE%E5%A4%8D%E4%B8%8A%E6%98%A5%E5%B1%B1%E8%B5%B0%E4%BD%8D&t=31&band_rank=4&Refer=top)<br />
 5. [上春山彩排](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%98%A5%E5%B1%B1%E5%BD%A9%E6%8E%92&t=31&band_rank=5&Refer=top)<br />
