@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 06:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 06:13:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [央视文艺回复尼格买提](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%96%87%E8%89%BA%E5%9B%9E%E5%A4%8D%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [上春山现场直拍](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%98%A5%E5%B1%B1%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%8B%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [贾玲为了不让观众掏手机有多努力](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E4%B8%8D%E8%AE%A9%E8%A7%82%E4%BC%97%E6%8E%8F%E6%89%8B%E6%9C%BA%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [主持人王宁](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%8E%8B%E5%AE%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [甜馨 倒霉的一年也结束了](https://s.weibo.com/weibo?q=%E7%94%9C%E9%A6%A8%20%E5%80%92%E9%9C%89%E7%9A%84%E4%B8%80%E5%B9%B4%E4%B9%9F%E7%BB%93%E6%9D%9F%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
