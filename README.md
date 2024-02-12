@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 20:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 20:30:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [杨幂爸爸 贾玲在用命拍热辣滚烫](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%88%B8%E7%88%B8%20%E8%B4%BE%E7%8E%B2%E5%9C%A8%E7%94%A8%E5%91%BD%E6%8B%8D%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB&t=31&band_rank=4&Refer=top)<br />
 5. [金晨对白敬亭的初印象和现印象](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%AF%B9%E7%99%BD%E6%95%AC%E4%BA%AD%E7%9A%84%E5%88%9D%E5%8D%B0%E8%B1%A1%E5%92%8C%E7%8E%B0%E5%8D%B0%E8%B1%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [尼格买提问春晚还要重播几次](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E9%97%AE%E6%98%A5%E6%99%9A%E8%BF%98%E8%A6%81%E9%87%8D%E6%92%AD%E5%87%A0%E6%AC%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [马丽 拜托影院给第二十条多排片](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%20%E6%8B%9C%E6%89%98%E5%BD%B1%E9%99%A2%E7%BB%99%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%E5%A4%9A%E6%8E%92%E7%89%87&t=31&band_rank=7&Refer=top)<br />
-8. [大唐不夜城因人流量大取消今日演出](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%94%90%E4%B8%8D%E5%A4%9C%E5%9F%8E%E5%9B%A0%E4%BA%BA%E6%B5%81%E9%87%8F%E5%A4%A7%E5%8F%96%E6%B6%88%E4%BB%8A%E6%97%A5%E6%BC%94%E5%87%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [大唐不夜城因人流量大取消今日演出](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%94%90%E4%B8%8D%E5%A4%9C%E5%9F%8E%E5%9B%A0%E4%BA%BA%E6%B5%81%E9%87%8F%E5%A4%A7%E5%8F%96%E6%B6%88%E4%BB%8A%E6%97%A5%E6%BC%94%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [马丽 拜托影院给第二十条多排片](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%20%E6%8B%9C%E6%89%98%E5%BD%B1%E9%99%A2%E7%BB%99%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%E5%A4%9A%E6%8E%92%E7%89%87&t=31&band_rank=8&Refer=top)<br />
 9. [封神](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
