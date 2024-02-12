@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 17:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 17:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [关晓彤短发](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%9F%AD%E5%8F%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [比伯亲吻海莉](https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E4%BA%B2%E5%90%BB%E6%B5%B7%E8%8E%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [门票260元的山姆成南通最热景区](https://s.weibo.com/weibo?q=%23%E9%97%A8%E7%A5%A8260%E5%85%83%E7%9A%84%E5%B1%B1%E5%A7%86%E6%88%90%E5%8D%97%E9%80%9A%E6%9C%80%E7%83%AD%E6%99%AF%E5%8C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [上春山 逐帧分析](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%98%A5%E5%B1%B1%20%E9%80%90%E5%B8%A7%E5%88%86%E6%9E%90&t=31&band_rank=9&Refer=top)<br />
+9. [虽丑但巨好吃的丑零食们](https://s.weibo.com/weibo?q=%E8%99%BD%E4%B8%91%E4%BD%86%E5%B7%A8%E5%A5%BD%E5%90%83%E7%9A%84%E4%B8%91%E9%9B%B6%E9%A3%9F%E4%BB%AC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
