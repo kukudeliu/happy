@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 19:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 19:12:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [要到初四了得懂事点](https://s.weibo.com/weibo?q=%E8%A6%81%E5%88%B0%E5%88%9D%E5%9B%9B%E4%BA%86%E5%BE%97%E6%87%82%E4%BA%8B%E7%82%B9&t=31&band_rank=6&Refer=top)<br />
 7. [魏大勋临场反应](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B8%B4%E5%9C%BA%E5%8F%8D%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [小尼的失误被警方当成典型案例了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%BC%E7%9A%84%E5%A4%B1%E8%AF%AF%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BD%93%E6%88%90%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [丽颖点头马丽点赞高叶鼓掌](https://s.weibo.com/weibo?q=%E4%B8%BD%E9%A2%96%E7%82%B9%E5%A4%B4%E9%A9%AC%E4%B8%BD%E7%82%B9%E8%B5%9E%E9%AB%98%E5%8F%B6%E9%BC%93%E6%8E%8C&t=31&band_rank=9&Refer=top)<br />
+9. [谢娜采访](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E9%87%87%E8%AE%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
