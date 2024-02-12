@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 21:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 21:50:01</h4></div>
 
 > 微博  
 
 1. [尼格买提说自己三天没笑过了](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%89%E5%A4%A9%E6%B2%A1%E7%AC%91%E8%BF%87%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [春山学是什么梗](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%B1%B1%E5%AD%A6%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97%23&t=31&band_rank=2&Refer=top)<br />
 3. [晒晒我家的年味](https://s.weibo.com/weibo?q=%23%E6%99%92%E6%99%92%E6%88%91%E5%AE%B6%E7%9A%84%E5%B9%B4%E5%91%B3%23&t=31&band_rank=3&Refer=top)<br />
-4. [杨幂爸爸 贾玲在用命拍热辣滚烫](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%88%B8%E7%88%B8%20%E8%B4%BE%E7%8E%B2%E5%9C%A8%E7%94%A8%E5%91%BD%E6%8B%8D%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB&t=31&band_rank=4&Refer=top)<br />
-5. [飞驰2破十亿全员玩失忆](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E9%A9%B02%E7%A0%B4%E5%8D%81%E4%BA%BF%E5%85%A8%E5%91%98%E7%8E%A9%E5%A4%B1%E5%BF%86%23&t=31&band_rank=5&Refer=top)<br />
+4. [飞驰2破十亿全员玩失忆](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E9%A9%B02%E7%A0%B4%E5%8D%81%E4%BA%BF%E5%85%A8%E5%91%98%E7%8E%A9%E5%A4%B1%E5%BF%86%23&t=31&band_rank=4&Refer=top)<br />
+5. [杨幂爸爸 贾玲在用命拍热辣滚烫](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%88%B8%E7%88%B8%20%E8%B4%BE%E7%8E%B2%E5%9C%A8%E7%94%A8%E5%91%BD%E6%8B%8D%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB&t=31&band_rank=5&Refer=top)<br />
 6. [尼格买提回新疆陪爸妈了](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%9B%9E%E6%96%B0%E7%96%86%E9%99%AA%E7%88%B8%E5%A6%88%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [大导演和她捧红的影后](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AF%BC%E6%BC%94%E5%92%8C%E5%A5%B9%E6%8D%A7%E7%BA%A2%E7%9A%84%E5%BD%B1%E5%90%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [不敢相信这是76岁人的状态](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1%E8%BF%99%E6%98%AF76%E5%B2%81%E4%BA%BA%E7%9A%84%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
