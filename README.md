@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 20:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 20:16:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [马丽 拜托影院给第二十条多排片](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%20%E6%8B%9C%E6%89%98%E5%BD%B1%E9%99%A2%E7%BB%99%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%E5%A4%9A%E6%8E%92%E7%89%87&t=31&band_rank=5&Refer=top)<br />
 6. [尼格买提回新疆陪爸妈了](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%9B%9E%E6%96%B0%E7%96%86%E9%99%AA%E7%88%B8%E5%A6%88%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [封神](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E&t=31&band_rank=7&Refer=top)<br />
-8. [女孩1988年就收到400块压岁钱了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A91988%E5%B9%B4%E5%B0%B1%E6%94%B6%E5%88%B0400%E5%9D%97%E5%8E%8B%E5%B2%81%E9%92%B1%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [金晨对白敬亭的初印象和现印象](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%AF%B9%E7%99%BD%E6%95%AC%E4%BA%AD%E7%9A%84%E5%88%9D%E5%8D%B0%E8%B1%A1%E5%92%8C%E7%8E%B0%E5%8D%B0%E8%B1%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [金晨对白敬亭的初印象和现印象](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%AF%B9%E7%99%BD%E6%95%AC%E4%BA%AD%E7%9A%84%E5%88%9D%E5%8D%B0%E8%B1%A1%E5%92%8C%E7%8E%B0%E5%8D%B0%E8%B1%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [女孩1988年就收到400块压岁钱了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A91988%E5%B9%B4%E5%B0%B1%E6%94%B6%E5%88%B0400%E5%9D%97%E5%8E%8B%E5%B2%81%E9%92%B1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
