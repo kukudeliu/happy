@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 00:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 00:23:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [这条视频含龙量高到旁白都姓龙！](https://www.baidu.com/s?wd=%E8%BF%99%E6%9D%A1%E8%A7%86%E9%A2%91%E5%90%AB%E9%BE%99%E9%87%8F%E9%AB%98%E5%88%B0%E6%97%81%E7%99%BD%E9%83%BD%E5%A7%93%E9%BE%99%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海有金店1天卖出1000多根金条](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%9C%89%E9%87%91%E5%BA%971%E5%A4%A9%E5%8D%96%E5%87%BA1000%E5%A4%9A%E6%A0%B9%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [人人人人人人人人全是人](https://www.baidu.com/s?wd=%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E5%85%A8%E6%98%AF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新疆喀纳斯景区道路发生雪崩](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%96%80%E7%BA%B3%E6%96%AF%E6%99%AF%E5%8C%BA%E9%81%93%E8%B7%AF%E5%8F%91%E7%94%9F%E9%9B%AA%E5%B4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [春节旅游再现“人从众”](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E6%97%85%E6%B8%B8%E5%86%8D%E7%8E%B0%E2%80%9C%E4%BA%BA%E4%BB%8E%E4%BC%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [央视文艺回复尼格买提：再播亿遍](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%96%87%E8%89%BA%E5%9B%9E%E5%A4%8D%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%EF%BC%9A%E5%86%8D%E6%92%AD%E4%BA%BF%E9%81%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东过年红包50元就算是巨款](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E8%BF%87%E5%B9%B4%E7%BA%A2%E5%8C%8550%E5%85%83%E5%B0%B1%E7%AE%97%E6%98%AF%E5%B7%A8%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [火龙果红心比白心更有营养？](https://www.baidu.com/s?wd=%E7%81%AB%E9%BE%99%E6%9E%9C%E7%BA%A2%E5%BF%83%E6%AF%94%E7%99%BD%E5%BF%83%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [这条视频含龙量高到旁白都姓龙！](https://www.baidu.com/s?wd=%E8%BF%99%E6%9D%A1%E8%A7%86%E9%A2%91%E5%90%AB%E9%BE%99%E9%87%8F%E9%AB%98%E5%88%B0%E6%97%81%E7%99%BD%E9%83%BD%E5%A7%93%E9%BE%99%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海有金店1天卖出1000多根金条](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%9C%89%E9%87%91%E5%BA%971%E5%A4%A9%E5%8D%96%E5%87%BA1000%E5%A4%9A%E6%A0%B9%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [人人人人人人人人全是人](https://www.baidu.com/s?wd=%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E5%85%A8%E6%98%AF%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新疆喀纳斯景区道路发生雪崩](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%96%80%E7%BA%B3%E6%96%AF%E6%99%AF%E5%8C%BA%E9%81%93%E8%B7%AF%E5%8F%91%E7%94%9F%E9%9B%AA%E5%B4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [春节旅游再现“人从众”](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E6%97%85%E6%B8%B8%E5%86%8D%E7%8E%B0%E2%80%9C%E4%BA%BA%E4%BB%8E%E4%BC%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [央视文艺回复尼格买提：再播亿遍](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%96%87%E8%89%BA%E5%9B%9E%E5%A4%8D%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%EF%BC%9A%E5%86%8D%E6%92%AD%E4%BA%BF%E9%81%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东过年红包50元就算是巨款](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E8%BF%87%E5%B9%B4%E7%BA%A2%E5%8C%8550%E5%85%83%E5%B0%B1%E7%AE%97%E6%98%AF%E5%B7%A8%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [火龙果红心比白心更有营养？](https://www.baidu.com/s?wd=%E7%81%AB%E9%BE%99%E6%9E%9C%E7%BA%A2%E5%BF%83%E6%AF%94%E7%99%BD%E5%BF%83%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
