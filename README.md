@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 16:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 16:20:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [关晓彤短发](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%9F%AD%E5%8F%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [糖送八大家](https://s.weibo.com/weibo?q=%E7%B3%96%E9%80%81%E5%85%AB%E5%A4%A7%E5%AE%B6&t=31&band_rank=7&Refer=top)<br />
 8. [光与夜之恋 内涵](https://s.weibo.com/weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%20%E5%86%85%E6%B6%B5&t=31&band_rank=8&Refer=top)<br />
-9. [上春山](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%98%A5%E5%B1%B1&t=31&band_rank=9&Refer=top)<br />
+9. [罗翔看了电影第二十条](https://s.weibo.com/weibo?q=%23%E7%BD%97%E7%BF%94%E7%9C%8B%E4%BA%86%E7%94%B5%E5%BD%B1%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
