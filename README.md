@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 09:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 09:59:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [压岁钱200元拿不出手最低600](https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%B2%81%E9%92%B1200%E5%85%83%E6%8B%BF%E4%B8%8D%E5%87%BA%E6%89%8B%E6%9C%80%E4%BD%8E600%23&t=31&band_rank=6&Refer=top)<br />
 7. [霍思燕嗯哼开上黄博基尼了](https://s.weibo.com/weibo?q=%E9%9C%8D%E6%80%9D%E7%87%95%E5%97%AF%E5%93%BC%E5%BC%80%E4%B8%8A%E9%BB%84%E5%8D%9A%E5%9F%BA%E5%B0%BC%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [沈凌 贾玲用命在搏热辣滚烫](https://s.weibo.com/weibo?q=%E6%B2%88%E5%87%8C%20%E8%B4%BE%E7%8E%B2%E7%94%A8%E5%91%BD%E5%9C%A8%E6%90%8F%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB&t=31&band_rank=8&Refer=top)<br />
-9. [梅西超级碗广告](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%B6%85%E7%BA%A7%E7%A2%97%E5%B9%BF%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [天妒英才](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%A6%92%E8%8B%B1%E6%89%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
