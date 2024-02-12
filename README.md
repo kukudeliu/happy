@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 17:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 17:33:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [龙的形象最早出现在哪里](https://s.weibo.com/weibo?q=%23%E9%BE%99%E7%9A%84%E5%BD%A2%E8%B1%A1%E6%9C%80%E6%97%A9%E5%87%BA%E7%8E%B0%E5%9C%A8%E5%93%AA%E9%87%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [贾玲哭了](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%93%AD%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [小尼的失误被警方当成典型案例了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%BC%E7%9A%84%E5%A4%B1%E8%AF%AF%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BD%93%E6%88%90%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [关晓彤短发](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%9F%AD%E5%8F%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [门票260元的山姆成南通最热景区](https://s.weibo.com/weibo?q=%23%E9%97%A8%E7%A5%A8260%E5%85%83%E7%9A%84%E5%B1%B1%E5%A7%86%E6%88%90%E5%8D%97%E9%80%9A%E6%9C%80%E7%83%AD%E6%99%AF%E5%8C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [光与夜之恋 内涵](https://s.weibo.com/weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%20%E5%86%85%E6%B6%B5&t=31&band_rank=8&Refer=top)<br />
-9. [适量喝酒和滴酒不沾谁更健康](https://s.weibo.com/weibo?q=%23%E9%80%82%E9%87%8F%E5%96%9D%E9%85%92%E5%92%8C%E6%BB%B4%E9%85%92%E4%B8%8D%E6%B2%BE%E8%B0%81%E6%9B%B4%E5%81%A5%E5%BA%B7%23&t=31&band_rank=9&Refer=top)<br />
+6. [要到初四了得懂事点](https://s.weibo.com/weibo?q=%E8%A6%81%E5%88%B0%E5%88%9D%E5%9B%9B%E4%BA%86%E5%BE%97%E6%87%82%E4%BA%8B%E7%82%B9&t=31&band_rank=6&Refer=top)<br />
+7. [关晓彤短发](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%9F%AD%E5%8F%91%23&t=31&band_rank=7&Refer=top)<br />
+8. [门票260元的山姆成南通最热景区](https://s.weibo.com/weibo?q=%23%E9%97%A8%E7%A5%A8260%E5%85%83%E7%9A%84%E5%B1%B1%E5%A7%86%E6%88%90%E5%8D%97%E9%80%9A%E6%9C%80%E7%83%AD%E6%99%AF%E5%8C%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [光与夜之恋 内涵](https://s.weibo.com/weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%20%E5%86%85%E6%B6%B5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
