@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 23:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 23:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [春山学是什么梗](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%B1%B1%E5%AD%A6%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [甜馨 倒霉的一年也结束了](https://s.weibo.com/weibo?q=%E7%94%9C%E9%A6%A8%20%E5%80%92%E9%9C%89%E7%9A%84%E4%B8%80%E5%B9%B4%E4%B9%9F%E7%BB%93%E6%9D%9F%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [贾玲为了不让观众掏手机有多努力](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E4%B8%8D%E8%AE%A9%E8%A7%82%E4%BC%97%E6%8E%8F%E6%89%8B%E6%9C%BA%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [豆瓣崩了](https://s.weibo.com/weibo?q=%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [糖送八大家是什么梗](https://s.weibo.com/weibo?q=%E7%B3%96%E9%80%81%E5%85%AB%E5%A4%A7%E5%AE%B6%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97&t=31&band_rank=9&Refer=top)<br />
+8. [糖送八大家是什么梗](https://s.weibo.com/weibo?q=%E7%B3%96%E9%80%81%E5%85%AB%E5%A4%A7%E5%AE%B6%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97&t=31&band_rank=8&Refer=top)<br />
+9. [豆瓣崩了](https://s.weibo.com/weibo?q=%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
