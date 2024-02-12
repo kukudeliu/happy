@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 11:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 11:58:01</h4></div>
 
 > 微博  
 
 1. [小尼的失误被警方当成典型案例了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%BC%E7%9A%84%E5%A4%B1%E8%AF%AF%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BD%93%E6%88%90%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [甜馨晒压岁钱](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E6%99%92%E5%8E%8B%E5%B2%81%E9%92%B1%23&t=31&band_rank=2&Refer=top)<br />
 3. [晒晒我家的年味](https://s.weibo.com/weibo?q=%23%E6%99%92%E6%99%92%E6%88%91%E5%AE%B6%E7%9A%84%E5%B9%B4%E5%91%B3%23&t=31&band_rank=3&Refer=top)<br />
-4. [贾玲建议女生朋友关注当下远离糟心事](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E6%9C%8B%E5%8F%8B%E5%85%B3%E6%B3%A8%E5%BD%93%E4%B8%8B%E8%BF%9C%E7%A6%BB%E7%B3%9F%E5%BF%83%E4%BA%8B%23&t=31&band_rank=4&Refer=top)<br />
-5. [美国春晚](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%98%A5%E6%99%9A&t=31&band_rank=5&Refer=top)<br />
+4. [美国春晚](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%98%A5%E6%99%9A&t=31&band_rank=4&Refer=top)<br />
+5. [贾玲建议女生朋友关注当下远离糟心事](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E6%9C%8B%E5%8F%8B%E5%85%B3%E6%B3%A8%E5%BD%93%E4%B8%8B%E8%BF%9C%E7%A6%BB%E7%B3%9F%E5%BF%83%E4%BA%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [大年初三睡到饱](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%89%E7%9D%A1%E5%88%B0%E9%A5%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [华春莹发了迪丽热巴春晚舞台相关](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%91%E4%BA%86%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%A5%E6%99%9A%E8%88%9E%E5%8F%B0%E7%9B%B8%E5%85%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘谦第一个魔术被剪](https://s.weibo.com/weibo?q=%E5%88%98%E8%B0%A6%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%AD%94%E6%9C%AF%E8%A2%AB%E5%89%AA&t=31&band_rank=8&Refer=top)<br />
