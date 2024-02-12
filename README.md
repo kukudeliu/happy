@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 00:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 00:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [糖送八大家是什么梗](https://s.weibo.com/weibo?q=%E7%B3%96%E9%80%81%E5%85%AB%E5%A4%A7%E5%AE%B6%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97&t=31&band_rank=6&Refer=top)<br />
 7. [贾玲为了不让观众掏手机有多努力](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E4%B8%8D%E8%AE%A9%E8%A7%82%E4%BC%97%E6%8E%8F%E6%89%8B%E6%9C%BA%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [金晨对白敬亭的初印象和现印象](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%AF%B9%E7%99%BD%E6%95%AC%E4%BA%AD%E7%9A%84%E5%88%9D%E5%8D%B0%E8%B1%A1%E5%92%8C%E7%8E%B0%E5%8D%B0%E8%B1%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [上春山彩排](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%98%A5%E5%B1%B1%E5%BD%A9%E6%8E%92&t=31&band_rank=9&Refer=top)<br />
+9. [旅客带72斤新鲜水果入境被查](https://s.weibo.com/weibo?q=%23%E6%97%85%E5%AE%A2%E5%B8%A672%E6%96%A4%E6%96%B0%E9%B2%9C%E6%B0%B4%E6%9E%9C%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
