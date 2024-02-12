@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 21:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 21:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [尼格买提说自己三天没笑过了](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%89%E5%A4%A9%E6%B2%A1%E7%AC%91%E8%BF%87%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [主持人王宁](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%8E%8B%E5%AE%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [副局长春节期间酒驾被查](https://s.weibo.com/weibo?q=%23%E5%89%AF%E5%B1%80%E9%95%BF%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [大唐不夜城因人流量大取消今日演出](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%94%90%E4%B8%8D%E5%A4%9C%E5%9F%8E%E5%9B%A0%E4%BA%BA%E6%B5%81%E9%87%8F%E5%A4%A7%E5%8F%96%E6%B6%88%E4%BB%8A%E6%97%A5%E6%BC%94%E5%87%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [马丽 拜托影院给第二十条多排片](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%20%E6%8B%9C%E6%89%98%E5%BD%B1%E9%99%A2%E7%BB%99%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%E5%A4%9A%E6%8E%92%E7%89%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
