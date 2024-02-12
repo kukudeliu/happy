@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 09:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 09:19:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [压岁钱200元拿不出手最低600](https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%B2%81%E9%92%B1200%E5%85%83%E6%8B%BF%E4%B8%8D%E5%87%BA%E6%89%8B%E6%9C%80%E4%BD%8E600%23&t=31&band_rank=5&Refer=top)<br />
 6. [天妒英才](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%A6%92%E8%8B%B1%E6%89%8D&t=31&band_rank=6&Refer=top)<br />
 7. [沈凌 贾玲用命在搏热辣滚烫](https://s.weibo.com/weibo?q=%E6%B2%88%E5%87%8C%20%E8%B4%BE%E7%8E%B2%E7%94%A8%E5%91%BD%E5%9C%A8%E6%90%8F%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB&t=31&band_rank=7&Refer=top)<br />
-8. [基普图姆去世](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%99%AE%E5%9B%BE%E5%A7%86%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [美国春晚](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%98%A5%E6%99%9A&t=31&band_rank=9&Refer=top)<br />
+8. [美国春晚](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%98%A5%E6%99%9A&t=31&band_rank=8&Refer=top)<br />
+9. [基普图姆去世](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%99%AE%E5%9B%BE%E5%A7%86%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
