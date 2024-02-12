@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 20:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 20:55:02</h4></div>
 
 > 微博  
 
@@ -9,18 +9,18 @@
 5. [大唐不夜城因人流量大取消今日演出](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%94%90%E4%B8%8D%E5%A4%9C%E5%9F%8E%E5%9B%A0%E4%BA%BA%E6%B5%81%E9%87%8F%E5%A4%A7%E5%8F%96%E6%B6%88%E4%BB%8A%E6%97%A5%E6%BC%94%E5%87%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [金晨对白敬亭的初印象和现印象](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%AF%B9%E7%99%BD%E6%95%AC%E4%BA%AD%E7%9A%84%E5%88%9D%E5%8D%B0%E8%B1%A1%E5%92%8C%E7%8E%B0%E5%8D%B0%E8%B1%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [马丽 拜托影院给第二十条多排片](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%20%E6%8B%9C%E6%89%98%E5%BD%B1%E9%99%A2%E7%BB%99%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%E5%A4%9A%E6%8E%92%E7%89%87&t=31&band_rank=7&Refer=top)<br />
-8. [尼格买提问春晚还要重播几次](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E9%97%AE%E6%98%A5%E6%99%9A%E8%BF%98%E8%A6%81%E9%87%8D%E6%92%AD%E5%87%A0%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本火山列岛地区6.1级地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%81%AB%E5%B1%B1%E5%88%97%E5%B2%9B%E5%9C%B0%E5%8C%BA6.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [日本火山列岛地区6.1级地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%81%AB%E5%B1%B1%E5%88%97%E5%B2%9B%E5%9C%B0%E5%8C%BA6.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [尼格买提问春晚还要重播几次](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E9%97%AE%E6%98%A5%E6%99%9A%E8%BF%98%E8%A6%81%E9%87%8D%E6%92%AD%E5%87%A0%E6%AC%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 
 > 百度  
 
-1. [“跟着总书记一起过大年”](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E8%BF%87%E5%A4%A7%E5%B9%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [年年向好](https://www.baidu.com/s?wd=%E5%B9%B4%E5%B9%B4%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [尼格买提急了！问央视还要重播几次](https://www.baidu.com/s?wd=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%80%A5%E4%BA%86%EF%BC%81%E9%97%AE%E5%A4%AE%E8%A7%86%E8%BF%98%E8%A6%81%E9%87%8D%E6%92%AD%E5%87%A0%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [闹阁4岁小演员哈欠连天还坚持营业](https://www.baidu.com/s?wd=%E9%97%B9%E9%98%814%E5%B2%81%E5%B0%8F%E6%BC%94%E5%91%98%E5%93%88%E6%AC%A0%E8%BF%9E%E5%A4%A9%E8%BF%98%E5%9D%9A%E6%8C%81%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [千家万户和美过年](https://www.baidu.com/s?wd=%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7%E5%92%8C%E7%BE%8E%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [这条视频含龙量高到旁白都姓龙！](https://www.baidu.com/s?wd=%E8%BF%99%E6%9D%A1%E8%A7%86%E9%A2%91%E5%90%AB%E9%BE%99%E9%87%8F%E9%AB%98%E5%88%B0%E6%97%81%E7%99%BD%E9%83%BD%E5%A7%93%E9%BE%99%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [春节后寒潮或将影响我国大部地区](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E5%90%8E%E5%AF%92%E6%BD%AE%E6%88%96%E5%B0%86%E5%BD%B1%E5%93%8D%E6%88%91%E5%9B%BD%E5%A4%A7%E9%83%A8%E5%9C%B0%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瘦了的贾玲像张泉灵？张泉灵回应](https://www.baidu.com/s?wd=%E7%98%A6%E4%BA%86%E7%9A%84%E8%B4%BE%E7%8E%B2%E5%83%8F%E5%BC%A0%E6%B3%89%E7%81%B5%EF%BC%9F%E5%BC%A0%E6%B3%89%E7%81%B5%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩1988年就收到400块压岁钱了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A91988%E5%B9%B4%E5%B0%B1%E6%94%B6%E5%88%B0400%E5%9D%97%E5%8E%8B%E5%B2%81%E9%92%B1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [“跟着总书记一起过大年”](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E8%BF%87%E5%A4%A7%E5%B9%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [年年向好](https://www.baidu.com/s?wd=%E5%B9%B4%E5%B9%B4%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [尼格买提急了！问央视还要重播几次](https://www.baidu.com/s?wd=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%80%A5%E4%BA%86%EF%BC%81%E9%97%AE%E5%A4%AE%E8%A7%86%E8%BF%98%E8%A6%81%E9%87%8D%E6%92%AD%E5%87%A0%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [闹阁4岁小演员哈欠连天还坚持营业](https://www.baidu.com/s?wd=%E9%97%B9%E9%98%814%E5%B2%81%E5%B0%8F%E6%BC%94%E5%91%98%E5%93%88%E6%AC%A0%E8%BF%9E%E5%A4%A9%E8%BF%98%E5%9D%9A%E6%8C%81%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [千家万户和美过年](https://www.baidu.com/s?wd=%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7%E5%92%8C%E7%BE%8E%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [这条视频含龙量高到旁白都姓龙！](https://www.baidu.com/s?wd=%E8%BF%99%E6%9D%A1%E8%A7%86%E9%A2%91%E5%90%AB%E9%BE%99%E9%87%8F%E9%AB%98%E5%88%B0%E6%97%81%E7%99%BD%E9%83%BD%E5%A7%93%E9%BE%99%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [春节后寒潮或将影响我国大部地区](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E5%90%8E%E5%AF%92%E6%BD%AE%E6%88%96%E5%B0%86%E5%BD%B1%E5%93%8D%E6%88%91%E5%9B%BD%E5%A4%A7%E9%83%A8%E5%9C%B0%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瘦了的贾玲像张泉灵？张泉灵回应](https://www.baidu.com/s?wd=%E7%98%A6%E4%BA%86%E7%9A%84%E8%B4%BE%E7%8E%B2%E5%83%8F%E5%BC%A0%E6%B3%89%E7%81%B5%EF%BC%9F%E5%BC%A0%E6%B3%89%E7%81%B5%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩1988年就收到400块压岁钱了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A91988%E5%B9%B4%E5%B0%B1%E6%94%B6%E5%88%B0400%E5%9D%97%E5%8E%8B%E5%B2%81%E9%92%B1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
