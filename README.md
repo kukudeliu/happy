@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 12:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 12:54:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [逃犯大年初二到景区游玩被抓](https://www.baidu.com/s?wd=%E9%80%83%E7%8A%AF%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%8C%E5%88%B0%E6%99%AF%E5%8C%BA%E6%B8%B8%E7%8E%A9%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [来自老祖宗的吉祥话，请查收](https://www.baidu.com/s?wd=%E6%9D%A5%E8%87%AA%E8%80%81%E7%A5%96%E5%AE%97%E7%9A%84%E5%90%89%E7%A5%A5%E8%AF%9D%EF%BC%8C%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [贾玲肌肉被亲姐姐质疑是特效](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E8%82%8C%E8%82%89%E8%A2%AB%E4%BA%B2%E5%A7%90%E5%A7%90%E8%B4%A8%E7%96%91%E6%98%AF%E7%89%B9%E6%95%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [舅舅被人扶着强制营业](https://www.baidu.com/s?wd=%E8%88%85%E8%88%85%E8%A2%AB%E4%BA%BA%E6%89%B6%E7%9D%80%E5%BC%BA%E5%88%B6%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子偷香火钱 景区：会带走坏运气](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E9%A6%99%E7%81%AB%E9%92%B1+%E6%99%AF%E5%8C%BA%EF%BC%9A%E4%BC%9A%E5%B8%A6%E8%B5%B0%E5%9D%8F%E8%BF%90%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全村小孩挨家挨户拜年大人封2元利是](https://www.baidu.com/s?wd=%E5%85%A8%E6%9D%91%E5%B0%8F%E5%AD%A9%E6%8C%A8%E5%AE%B6%E6%8C%A8%E6%88%B7%E6%8B%9C%E5%B9%B4%E5%A4%A7%E4%BA%BA%E5%B0%812%E5%85%83%E5%88%A9%E6%98%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [三年级小学生攒下70万元压岁钱](https://www.baidu.com/s?wd=%E4%B8%89%E5%B9%B4%E7%BA%A7%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%94%92%E4%B8%8B70%E4%B8%87%E5%85%83%E5%8E%8B%E5%B2%81%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [舅舅被人扶着强制营业](https://www.baidu.com/s?wd=%E8%88%85%E8%88%85%E8%A2%AB%E4%BA%BA%E6%89%B6%E7%9D%80%E5%BC%BA%E5%88%B6%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子偷香火钱 景区：会带走坏运气](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E9%A6%99%E7%81%AB%E9%92%B1+%E6%99%AF%E5%8C%BA%EF%BC%9A%E4%BC%9A%E5%B8%A6%E8%B5%B0%E5%9D%8F%E8%BF%90%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鱼刺卡喉吃饭压下去就行？别信](https://www.baidu.com/s?wd=%E9%B1%BC%E5%88%BA%E5%8D%A1%E5%96%89%E5%90%83%E9%A5%AD%E5%8E%8B%E4%B8%8B%E5%8E%BB%E5%B0%B1%E8%A1%8C%EF%BC%9F%E5%88%AB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [逃犯大年初二到景区游玩被抓](https://www.baidu.com/s?wd=%E9%80%83%E7%8A%AF%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%8C%E5%88%B0%E6%99%AF%E5%8C%BA%E6%B8%B8%E7%8E%A9%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [来自老祖宗的吉祥话，请查收](https://www.baidu.com/s?wd=%E6%9D%A5%E8%87%AA%E8%80%81%E7%A5%96%E5%AE%97%E7%9A%84%E5%90%89%E7%A5%A5%E8%AF%9D%EF%BC%8C%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [贾玲肌肉被亲姐姐质疑是特效](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E8%82%8C%E8%82%89%E8%A2%AB%E4%BA%B2%E5%A7%90%E5%A7%90%E8%B4%A8%E7%96%91%E6%98%AF%E7%89%B9%E6%95%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [舅舅被人扶着强制营业](https://www.baidu.com/s?wd=%E8%88%85%E8%88%85%E8%A2%AB%E4%BA%BA%E6%89%B6%E7%9D%80%E5%BC%BA%E5%88%B6%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子偷香火钱 景区：会带走坏运气](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E9%A6%99%E7%81%AB%E9%92%B1+%E6%99%AF%E5%8C%BA%EF%BC%9A%E4%BC%9A%E5%B8%A6%E8%B5%B0%E5%9D%8F%E8%BF%90%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全村小孩挨家挨户拜年大人封2元利是](https://www.baidu.com/s?wd=%E5%85%A8%E6%9D%91%E5%B0%8F%E5%AD%A9%E6%8C%A8%E5%AE%B6%E6%8C%A8%E6%88%B7%E6%8B%9C%E5%B9%B4%E5%A4%A7%E4%BA%BA%E5%B0%812%E5%85%83%E5%88%A9%E6%98%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [三年级小学生攒下70万元压岁钱](https://www.baidu.com/s?wd=%E4%B8%89%E5%B9%B4%E7%BA%A7%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%94%92%E4%B8%8B70%E4%B8%87%E5%85%83%E5%8E%8B%E5%B2%81%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [舅舅被人扶着强制营业](https://www.baidu.com/s?wd=%E8%88%85%E8%88%85%E8%A2%AB%E4%BA%BA%E6%89%B6%E7%9D%80%E5%BC%BA%E5%88%B6%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子偷香火钱 景区：会带走坏运气](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E9%A6%99%E7%81%AB%E9%92%B1+%E6%99%AF%E5%8C%BA%EF%BC%9A%E4%BC%9A%E5%B8%A6%E8%B5%B0%E5%9D%8F%E8%BF%90%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [鱼刺卡喉吃饭压下去就行？别信](https://www.baidu.com/s?wd=%E9%B1%BC%E5%88%BA%E5%8D%A1%E5%96%89%E5%90%83%E9%A5%AD%E5%8E%8B%E4%B8%8B%E5%8E%BB%E5%B0%B1%E8%A1%8C%EF%BC%9F%E5%88%AB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
