@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 15:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 16:00:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [新家园里迎新春 牢记总书记嘱托](https://www.baidu.com/s?wd=%E6%96%B0%E5%AE%B6%E5%9B%AD%E9%87%8C%E8%BF%8E%E6%96%B0%E6%98%A5+%E7%89%A2%E8%AE%B0%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%98%B1%E6%89%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [“跟着总书记一起过大年”](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E8%BF%87%E5%A4%A7%E5%B9%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [三年级小学生攒下70万元压岁钱](https://www.baidu.com/s?wd=%E4%B8%89%E5%B9%B4%E7%BA%A7%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%94%92%E4%B8%8B70%E4%B8%87%E5%85%83%E5%8E%8B%E5%B2%81%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [贾玲肌肉被亲姐姐质疑是特效](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E8%82%8C%E8%82%89%E8%A2%AB%E4%BA%B2%E5%A7%90%E5%A7%90%E8%B4%A8%E7%96%91%E6%98%AF%E7%89%B9%E6%95%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [来自老祖宗的吉祥话，请查收](https://www.baidu.com/s?wd=%E6%9D%A5%E8%87%AA%E8%80%81%E7%A5%96%E5%AE%97%E7%9A%84%E5%90%89%E7%A5%A5%E8%AF%9D%EF%BC%8C%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [千家万户和美过年](https://www.baidu.com/s?wd=%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7%E5%92%8C%E7%BE%8E%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国防长被转移至重症监护病房](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%95%BF%E8%A2%AB%E8%BD%AC%E7%A7%BB%E8%87%B3%E9%87%8D%E7%97%87%E7%9B%91%E6%8A%A4%E7%97%85%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国首富手握两大“印钞机”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%AF%8C%E6%89%8B%E6%8F%A1%E4%B8%A4%E5%A4%A7%E2%80%9C%E5%8D%B0%E9%92%9E%E6%9C%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [95后女孩回村爆改奶奶变超模](https://www.baidu.com/s?wd=95%E5%90%8E%E5%A5%B3%E5%AD%A9%E5%9B%9E%E6%9D%91%E7%88%86%E6%94%B9%E5%A5%B6%E5%A5%B6%E5%8F%98%E8%B6%85%E6%A8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [新家园里迎新春 牢记总书记嘱托](https://www.baidu.com/s?wd=%E6%96%B0%E5%AE%B6%E5%9B%AD%E9%87%8C%E8%BF%8E%E6%96%B0%E6%98%A5+%E7%89%A2%E8%AE%B0%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%98%B1%E6%89%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [“跟着总书记一起过大年”](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E8%BF%87%E5%A4%A7%E5%B9%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [三年级小学生攒下70万元压岁钱](https://www.baidu.com/s?wd=%E4%B8%89%E5%B9%B4%E7%BA%A7%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%94%92%E4%B8%8B70%E4%B8%87%E5%85%83%E5%8E%8B%E5%B2%81%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [贾玲肌肉被亲姐姐质疑是特效](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E8%82%8C%E8%82%89%E8%A2%AB%E4%BA%B2%E5%A7%90%E5%A7%90%E8%B4%A8%E7%96%91%E6%98%AF%E7%89%B9%E6%95%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [来自老祖宗的吉祥话，请查收](https://www.baidu.com/s?wd=%E6%9D%A5%E8%87%AA%E8%80%81%E7%A5%96%E5%AE%97%E7%9A%84%E5%90%89%E7%A5%A5%E8%AF%9D%EF%BC%8C%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [千家万户和美过年](https://www.baidu.com/s?wd=%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7%E5%92%8C%E7%BE%8E%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国防长被转移至重症监护病房](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%95%BF%E8%A2%AB%E8%BD%AC%E7%A7%BB%E8%87%B3%E9%87%8D%E7%97%87%E7%9B%91%E6%8A%A4%E7%97%85%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国首富手握两大“印钞机”](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%AF%8C%E6%89%8B%E6%8F%A1%E4%B8%A4%E5%A4%A7%E2%80%9C%E5%8D%B0%E9%92%9E%E6%9C%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [95后女孩回村爆改奶奶变超模](https://www.baidu.com/s?wd=95%E5%90%8E%E5%A5%B3%E5%AD%A9%E5%9B%9E%E6%9D%91%E7%88%86%E6%94%B9%E5%A5%B6%E5%A5%B6%E5%8F%98%E8%B6%85%E6%A8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
