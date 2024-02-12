@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 08:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 08:58:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [舌尖上的含“龙”量你知道多少？](https://www.baidu.com/s?wd=%E8%88%8C%E5%B0%96%E4%B8%8A%E7%9A%84%E5%90%AB%E2%80%9C%E9%BE%99%E2%80%9D%E9%87%8F%E4%BD%A0%E7%9F%A5%E9%81%93%E5%A4%9A%E5%B0%91%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大年初三 睡到饱](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%89+%E7%9D%A1%E5%88%B0%E9%A5%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [24岁马拉松世界纪录保持者去世](https://www.baidu.com/s?wd=24%E5%B2%81%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E4%BF%9D%E6%8C%81%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东一家四口春节自驾游挨饿求助](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E6%98%A5%E8%8A%82%E8%87%AA%E9%A9%BE%E6%B8%B8%E6%8C%A8%E9%A5%BF%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [光头强闷声发大财](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%B4%E5%BC%BA%E9%97%B7%E5%A3%B0%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [拜登亲自拜年了，今年有点不一样](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%BA%B2%E8%87%AA%E6%8B%9C%E5%B9%B4%E4%BA%86%EF%BC%8C%E4%BB%8A%E5%B9%B4%E6%9C%89%E7%82%B9%E4%B8%8D%E4%B8%80%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东一家四口春节自驾游挨饿求助](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E6%98%A5%E8%8A%82%E8%87%AA%E9%A9%BE%E6%B8%B8%E6%8C%A8%E9%A5%BF%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [过年不能吃药？谣言](https://www.baidu.com/s?wd=%E8%BF%87%E5%B9%B4%E4%B8%8D%E8%83%BD%E5%90%83%E8%8D%AF%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [舌尖上的含“龙”量你知道多少？](https://www.baidu.com/s?wd=%E8%88%8C%E5%B0%96%E4%B8%8A%E7%9A%84%E5%90%AB%E2%80%9C%E9%BE%99%E2%80%9D%E9%87%8F%E4%BD%A0%E7%9F%A5%E9%81%93%E5%A4%9A%E5%B0%91%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大年初三 睡到饱](https://www.baidu.com/s?wd=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%89+%E7%9D%A1%E5%88%B0%E9%A5%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [24岁马拉松世界纪录保持者去世](https://www.baidu.com/s?wd=24%E5%B2%81%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E4%BF%9D%E6%8C%81%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东一家四口春节自驾游挨饿求助](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E6%98%A5%E8%8A%82%E8%87%AA%E9%A9%BE%E6%B8%B8%E6%8C%A8%E9%A5%BF%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [光头强闷声发大财](https://www.baidu.com/s?wd=%E5%85%89%E5%A4%B4%E5%BC%BA%E9%97%B7%E5%A3%B0%E5%8F%91%E5%A4%A7%E8%B4%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [拜登亲自拜年了，今年有点不一样](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E4%BA%B2%E8%87%AA%E6%8B%9C%E5%B9%B4%E4%BA%86%EF%BC%8C%E4%BB%8A%E5%B9%B4%E6%9C%89%E7%82%B9%E4%B8%8D%E4%B8%80%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东一家四口春节自驾游挨饿求助](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E6%98%A5%E8%8A%82%E8%87%AA%E9%A9%BE%E6%B8%B8%E6%8C%A8%E9%A5%BF%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [过年不能吃药？谣言](https://www.baidu.com/s?wd=%E8%BF%87%E5%B9%B4%E4%B8%8D%E8%83%BD%E5%90%83%E8%8D%AF%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
