@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 19:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 19:14:02</h4></div>
 
 > 微博  
 
 1. [尼格买提问春晚还要重播几次](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E9%97%AE%E6%98%A5%E6%99%9A%E8%BF%98%E8%A6%81%E9%87%8D%E6%92%AD%E5%87%A0%E6%AC%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [杨幂爸爸 贾玲在用命拍热辣滚烫](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%88%B8%E7%88%B8%20%E8%B4%BE%E7%8E%B2%E5%9C%A8%E7%94%A8%E5%91%BD%E6%8B%8D%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB&t=31&band_rank=2&Refer=top)<br />
+2. [主持人王宁](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%8E%8B%E5%AE%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [龙的形象最早出现在哪里](https://s.weibo.com/weibo?q=%23%E9%BE%99%E7%9A%84%E5%BD%A2%E8%B1%A1%E6%9C%80%E6%97%A9%E5%87%BA%E7%8E%B0%E5%9C%A8%E5%93%AA%E9%87%8C%23&t=31&band_rank=3&Refer=top)<br />
-4. [主持人王宁](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%8E%8B%E5%AE%81%23&t=31&band_rank=4&Refer=top)<br />
+4. [杨幂爸爸 贾玲在用命拍热辣滚烫](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%88%B8%E7%88%B8%20%E8%B4%BE%E7%8E%B2%E5%9C%A8%E7%94%A8%E5%91%BD%E6%8B%8D%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB&t=31&band_rank=4&Refer=top)<br />
 5. [贾玲 时尚芭莎](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%20%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E&t=31&band_rank=5&Refer=top)<br />
 6. [要到初四了得懂事点](https://s.weibo.com/weibo?q=%E8%A6%81%E5%88%B0%E5%88%9D%E5%9B%9B%E4%BA%86%E5%BE%97%E6%87%82%E4%BA%8B%E7%82%B9&t=31&band_rank=6&Refer=top)<br />
 7. [魏大勋临场反应](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B8%B4%E5%9C%BA%E5%8F%8D%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
@@ -23,8 +23,8 @@
 4. [千家万户和美过年](https://www.baidu.com/s?wd=%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7%E5%92%8C%E7%BE%8E%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [春节后寒潮或将影响我国大部地区](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E5%90%8E%E5%AF%92%E6%BD%AE%E6%88%96%E5%B0%86%E5%BD%B1%E5%93%8D%E6%88%91%E5%9B%BD%E5%A4%A7%E9%83%A8%E5%9C%B0%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨幂爸爸：贾玲在用命拍热辣滚烫](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%88%B8%E7%88%B8%EF%BC%9A%E8%B4%BE%E7%8E%B2%E5%9C%A8%E7%94%A8%E5%91%BD%E6%8B%8D%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“御弟哥哥”逛庙会被迫营业](https://www.baidu.com/s?wd=%E2%80%9C%E5%BE%A1%E5%BC%9F%E5%93%A5%E5%93%A5%E2%80%9D%E9%80%9B%E5%BA%99%E4%BC%9A%E8%A2%AB%E8%BF%AB%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [这条1500℃的“龙”火了](https://www.baidu.com/s?wd=%E8%BF%99%E6%9D%A11500%E2%84%83%E7%9A%84%E2%80%9C%E9%BE%99%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国防长被转移至重症监护病房](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%95%BF%E8%A2%AB%E8%BD%AC%E7%A7%BB%E8%87%B3%E9%87%8D%E7%97%87%E7%9B%91%E6%8A%A4%E7%97%85%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“御弟哥哥”逛庙会被迫营业](https://www.baidu.com/s?wd=%E2%80%9C%E5%BE%A1%E5%BC%9F%E5%93%A5%E5%93%A5%E2%80%9D%E9%80%9B%E5%BA%99%E4%BC%9A%E8%A2%AB%E8%BF%AB%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [运动时运动后只能喝热水？假的](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E6%97%B6%E8%BF%90%E5%8A%A8%E5%90%8E%E5%8F%AA%E8%83%BD%E5%96%9D%E7%83%AD%E6%B0%B4%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [千家万户和美过年](https://www.baidu.com/s?wd=%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7%E5%92%8C%E7%BE%8E%E8%BF%87%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [春节后寒潮或将影响我国大部地区](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E5%90%8E%E5%AF%92%E6%BD%AE%E6%88%96%E5%B0%86%E5%BD%B1%E5%93%8D%E6%88%91%E5%9B%BD%E5%A4%A7%E9%83%A8%E5%9C%B0%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杨幂爸爸：贾玲在用命拍热辣滚烫](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E7%88%B8%E7%88%B8%EF%BC%9A%E8%B4%BE%E7%8E%B2%E5%9C%A8%E7%94%A8%E5%91%BD%E6%8B%8D%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [“御弟哥哥”逛庙会被迫营业](https://www.baidu.com/s?wd=%E2%80%9C%E5%BE%A1%E5%BC%9F%E5%93%A5%E5%93%A5%E2%80%9D%E9%80%9B%E5%BA%99%E4%BC%9A%E8%A2%AB%E8%BF%AB%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [这条1500℃的“龙”火了](https://www.baidu.com/s?wd=%E8%BF%99%E6%9D%A11500%E2%84%83%E7%9A%84%E2%80%9C%E9%BE%99%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美国防长被转移至重症监护病房](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%95%BF%E8%A2%AB%E8%BD%AC%E7%A7%BB%E8%87%B3%E9%87%8D%E7%97%87%E7%9B%91%E6%8A%A4%E7%97%85%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“御弟哥哥”逛庙会被迫营业](https://www.baidu.com/s?wd=%E2%80%9C%E5%BE%A1%E5%BC%9F%E5%93%A5%E5%93%A5%E2%80%9D%E9%80%9B%E5%BA%99%E4%BC%9A%E8%A2%AB%E8%BF%AB%E8%90%A5%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [运动时运动后只能喝热水？假的](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E6%97%B6%E8%BF%90%E5%8A%A8%E5%90%8E%E5%8F%AA%E8%83%BD%E5%96%9D%E7%83%AD%E6%B0%B4%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
