@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 00:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 00:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金晨对白敬亭的初印象和现印象](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%AF%B9%E7%99%BD%E6%95%AC%E4%BA%AD%E7%9A%84%E5%88%9D%E5%8D%B0%E8%B1%A1%E5%92%8C%E7%8E%B0%E5%8D%B0%E8%B1%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [旅客带72斤新鲜水果入境被查](https://s.weibo.com/weibo?q=%23%E6%97%85%E5%AE%A2%E5%B8%A672%E6%96%A4%E6%96%B0%E9%B2%9C%E6%B0%B4%E6%9E%9C%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [豆瓣崩了](https://s.weibo.com/weibo?q=%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [差不多行了啊](https://s.weibo.com/weibo?q=%E5%B7%AE%E4%B8%8D%E5%A4%9A%E8%A1%8C%E4%BA%86%E5%95%8A&t=31&band_rank=9&Refer=top)<br />
+9. [但凡找个中国人问问](https://s.weibo.com/weibo?q=%E4%BD%86%E5%87%A1%E6%89%BE%E4%B8%AA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%97%AE%E9%97%AE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
