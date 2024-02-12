@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 13:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 13:03:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美国春晚](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%98%A5%E6%99%9A&t=31&band_rank=6&Refer=top)<br />
 7. [小伙开兰博基尼回村出事故撞报废](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%BC%80%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E5%9B%9E%E6%9D%91%E5%87%BA%E4%BA%8B%E6%95%85%E6%92%9E%E6%8A%A5%E5%BA%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [甜馨晒压岁钱](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E6%99%92%E5%8E%8B%E5%B2%81%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [大年初三睡到饱](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%89%E7%9D%A1%E5%88%B0%E9%A5%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [霉霉与男友顶峰相见](https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E4%B8%8E%E7%94%B7%E5%8F%8B%E9%A1%B6%E5%B3%B0%E7%9B%B8%E8%A7%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
