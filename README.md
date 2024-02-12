@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 11:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 11:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大年初三睡到饱](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%89%E7%9D%A1%E5%88%B0%E9%A5%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭春晚](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%A5%E6%99%9A&t=31&band_rank=7&Refer=top)<br />
 8. [霍思燕嗯哼开上黄博基尼了](https://s.weibo.com/weibo?q=%E9%9C%8D%E6%80%9D%E7%87%95%E5%97%AF%E5%93%BC%E5%BC%80%E4%B8%8A%E9%BB%84%E5%8D%9A%E5%9F%BA%E5%B0%BC%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [董力阿拉蕾](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%8A%9B%E9%98%BF%E6%8B%89%E8%95%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [春山学](https://s.weibo.com/weibo?q=%E6%98%A5%E5%B1%B1%E5%AD%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
