@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 21:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-12 21:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金晨对白敬亭的初印象和现印象](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%AF%B9%E7%99%BD%E6%95%AC%E4%BA%AD%E7%9A%84%E5%88%9D%E5%8D%B0%E8%B1%A1%E5%92%8C%E7%8E%B0%E5%8D%B0%E8%B1%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [马丽 拜托影院给第二十条多排片](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%20%E6%8B%9C%E6%89%98%E5%BD%B1%E9%99%A2%E7%BB%99%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%E5%A4%9A%E6%8E%92%E7%89%87&t=31&band_rank=7&Refer=top)<br />
 8. [日本火山列岛地区6.1级地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%81%AB%E5%B1%B1%E5%88%97%E5%B2%9B%E5%9C%B0%E5%8C%BA6.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [贾玲 时尚芭莎](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%20%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E&t=31&band_rank=9&Refer=top)<br />
+9. [魏大勋临场反应](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B8%B4%E5%9C%BA%E5%8F%8D%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
