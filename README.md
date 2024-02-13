@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 07:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 07:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱广权 这三天我们都没笑](https://s.weibo.com/weibo?q=%E6%9C%B1%E5%B9%BF%E6%9D%83%20%E8%BF%99%E4%B8%89%E5%A4%A9%E6%88%91%E4%BB%AC%E9%83%BD%E6%B2%A1%E7%AC%91&t=31&band_rank=6&Refer=top)<br />
 7. [再也不敢相信口罩下的面孔了](https://s.weibo.com/weibo?q=%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1%E5%8F%A3%E7%BD%A9%E4%B8%8B%E7%9A%84%E9%9D%A2%E5%AD%94%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [春晚每一个走位都精心设计并被准确呈现](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%AF%8F%E4%B8%80%E4%B8%AA%E8%B5%B0%E4%BD%8D%E9%83%BD%E7%B2%BE%E5%BF%83%E8%AE%BE%E8%AE%A1%E5%B9%B6%E8%A2%AB%E5%87%86%E7%A1%AE%E5%91%88%E7%8E%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [甜馨回应压岁钱争议](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E5%9B%9E%E5%BA%94%E5%8E%8B%E5%B2%81%E9%92%B1%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [钱辈请和我交往](https://s.weibo.com/weibo?q=%23%E9%92%B1%E8%BE%88%E8%AF%B7%E5%92%8C%E6%88%91%E4%BA%A4%E5%BE%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
