@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 16:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 16:18:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [奶奶嚼碎花生喂2岁孩子致其患病](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%9A%BC%E7%A2%8E%E8%8A%B1%E7%94%9F%E5%96%822%E5%B2%81%E5%AD%A9%E5%AD%90%E8%87%B4%E5%85%B6%E6%82%A3%E7%97%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [张艺兴连包18场支持贾玲新电影](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%BF%9E%E5%8C%8518%E5%9C%BA%E6%94%AF%E6%8C%81%E8%B4%BE%E7%8E%B2%E6%96%B0%E7%94%B5%E5%BD%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [难哄男主](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E7%94%B7%E4%B8%BB&t=31&band_rank=7&Refer=top)<br />
-8. [辛芷蕾回应花少被消音](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%8A%B1%E5%B0%91%E8%A2%AB%E6%B6%88%E9%9F%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [大城市消费降级小城市消费升级](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7%E5%B0%8F%E5%9F%8E%E5%B8%82%E6%B6%88%E8%B4%B9%E5%8D%87%E7%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
+8. [大城市消费降级小城市消费升级](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7%E5%B0%8F%E5%9F%8E%E5%B8%82%E6%B6%88%E8%B4%B9%E5%8D%87%E7%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [辛芷蕾回应花少被消音](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%8A%B1%E5%B0%91%E8%A2%AB%E6%B6%88%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
