@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 23:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 23:28:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [全世界的脚都抬了起来](https://s.weibo.com/weibo?q=%E5%85%A8%E4%B8%96%E7%95%8C%E7%9A%84%E8%84%9A%E9%83%BD%E6%8A%AC%E4%BA%86%E8%B5%B7%E6%9D%A5&t=31&band_rank=5&Refer=top)<br />
 6. [再也不敢相信口罩下的面孔了](https://s.weibo.com/weibo?q=%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1%E5%8F%A3%E7%BD%A9%E4%B8%8B%E7%9A%84%E9%9D%A2%E5%AD%94%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [2名游客擅自在道外滑野雪造成雪崩](https://s.weibo.com/weibo?q=%232%E5%90%8D%E6%B8%B8%E5%AE%A2%E6%93%85%E8%87%AA%E5%9C%A8%E9%81%93%E5%A4%96%E6%BB%91%E9%87%8E%E9%9B%AA%E9%80%A0%E6%88%90%E9%9B%AA%E5%B4%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [春山学](https://s.weibo.com/weibo?q=%E6%98%A5%E5%B1%B1%E5%AD%A6&t=31&band_rank=8&Refer=top)<br />
-9. [甜馨回应压岁钱争议](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E5%9B%9E%E5%BA%94%E5%8E%8B%E5%B2%81%E9%92%B1%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+8. [甜馨回应压岁钱争议](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E5%9B%9E%E5%BA%94%E5%8E%8B%E5%B2%81%E9%92%B1%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
+9. [小尼在新疆听到了朱广权的笑声](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%BC%E5%9C%A8%E6%96%B0%E7%96%86%E5%90%AC%E5%88%B0%E4%BA%86%E6%9C%B1%E5%B9%BF%E6%9D%83%E7%9A%84%E7%AC%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
