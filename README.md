@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 08:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 08:42:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [重庆解放碑逆行撞车男子被刑拘](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E8%A7%A3%E6%94%BE%E7%A2%91%E9%80%86%E8%A1%8C%E6%92%9E%E8%BD%A6%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=2&Refer=top)<br />
 3. [我与家人合个影](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%8E%E5%AE%B6%E4%BA%BA%E5%90%88%E4%B8%AA%E5%BD%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [尼格买提说自己三天没笑过了](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%89%E5%A4%A9%E6%B2%A1%E7%AC%91%E8%BF%87%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [上春山现场直拍](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%98%A5%E5%B1%B1%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%8B%8D%23&t=31&band_rank=5&Refer=top)<br />
-6. [金晨对白敬亭的初印象和现印象](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%AF%B9%E7%99%BD%E6%95%AC%E4%BA%AD%E7%9A%84%E5%88%9D%E5%8D%B0%E8%B1%A1%E5%92%8C%E7%8E%B0%E5%8D%B0%E8%B1%A1%23&t=31&band_rank=6&Refer=top)<br />
+5. [金晨对白敬亭的初印象和现印象](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%AF%B9%E7%99%BD%E6%95%AC%E4%BA%AD%E7%9A%84%E5%88%9D%E5%8D%B0%E8%B1%A1%E5%92%8C%E7%8E%B0%E5%8D%B0%E8%B1%A1%23&t=31&band_rank=5&Refer=top)<br />
+6. [上春山现场直拍](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%98%A5%E5%B1%B1%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%8B%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [陪贾玲训练的狗狗是拍李焕英时捡的](https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%B4%BE%E7%8E%B2%E8%AE%AD%E7%BB%83%E7%9A%84%E7%8B%97%E7%8B%97%E6%98%AF%E6%8B%8D%E6%9D%8E%E7%84%95%E8%8B%B1%E6%97%B6%E6%8D%A1%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [普京两年来首次接受美国记者采访](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%A4%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%23&t=31&band_rank=8&Refer=top)<br />
 9. [央视文艺回复尼格买提](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%96%87%E8%89%BA%E5%9B%9E%E5%A4%8D%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%23&t=31&band_rank=9&Refer=top)<br />
