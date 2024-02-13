@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 10:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 10:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [秋瓷炫和公公一起贴对联](https://s.weibo.com/weibo?q=%E7%A7%8B%E7%93%B7%E7%82%AB%E5%92%8C%E5%85%AC%E5%85%AC%E4%B8%80%E8%B5%B7%E8%B4%B4%E5%AF%B9%E8%81%94&t=31&band_rank=6&Refer=top)<br />
 7. [陈若琳谈全红婵眼里全是爱](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8B%A5%E7%90%B3%E8%B0%88%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9C%BC%E9%87%8C%E5%85%A8%E6%98%AF%E7%88%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [陪贾玲训练的狗狗是拍李焕英时捡的](https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%B4%BE%E7%8E%B2%E8%AE%AD%E7%BB%83%E7%9A%84%E7%8B%97%E7%8B%97%E6%98%AF%E6%8B%8D%E6%9D%8E%E7%84%95%E8%8B%B1%E6%97%B6%E6%8D%A1%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [农村悄然出现以家庭为单位的断亲](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E6%82%84%E7%84%B6%E5%87%BA%E7%8E%B0%E4%BB%A5%E5%AE%B6%E5%BA%AD%E4%B8%BA%E5%8D%95%E4%BD%8D%E7%9A%84%E6%96%AD%E4%BA%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [吴磊用漂亮形容赵今麦](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E7%94%A8%E6%BC%82%E4%BA%AE%E5%BD%A2%E5%AE%B9%E8%B5%B5%E4%BB%8A%E9%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
