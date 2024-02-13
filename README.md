@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 18:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 18:36:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2024龙年龘吉](https://s.weibo.com/weibo?q=%232024%E9%BE%99%E5%B9%B4%E9%BE%98%E5%90%89%23&t=31&band_rank=3&Refer=top)<br />
 4. [他换了三套衣服都没换你的](https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%8D%A2%E4%BA%86%E4%B8%89%E5%A5%97%E8%A1%A3%E6%9C%8D%E9%83%BD%E6%B2%A1%E6%8D%A2%E4%BD%A0%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
 5. [春晚每一个走位都精心设计并被准确呈现](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%AF%8F%E4%B8%80%E4%B8%AA%E8%B5%B0%E4%BD%8D%E9%83%BD%E7%B2%BE%E5%BF%83%E8%AE%BE%E8%AE%A1%E5%B9%B6%E8%A2%AB%E5%87%86%E7%A1%AE%E5%91%88%E7%8E%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [我要上春晚肯定就红了](https://s.weibo.com/weibo?q=%E6%88%91%E8%A6%81%E4%B8%8A%E6%98%A5%E6%99%9A%E8%82%AF%E5%AE%9A%E5%B0%B1%E7%BA%A2%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [上春山](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%98%A5%E5%B1%B1&t=31&band_rank=7&Refer=top)<br />
+6. [上春山](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%98%A5%E5%B1%B1&t=31&band_rank=6&Refer=top)<br />
+7. [我要上春晚肯定就红了](https://s.weibo.com/weibo?q=%E6%88%91%E8%A6%81%E4%B8%8A%E6%98%A5%E6%99%9A%E8%82%AF%E5%AE%9A%E5%B0%B1%E7%BA%A2%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [贾玲 阿姨我能抱抱你吗](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%20%E9%98%BF%E5%A7%A8%E6%88%91%E8%83%BD%E6%8A%B1%E6%8A%B1%E4%BD%A0%E5%90%97&t=31&band_rank=8&Refer=top)<br />
 9. [兄妹6人重拍45年前的童年合影](https://s.weibo.com/weibo?q=%23%E5%85%84%E5%A6%B96%E4%BA%BA%E9%87%8D%E6%8B%8D45%E5%B9%B4%E5%89%8D%E7%9A%84%E7%AB%A5%E5%B9%B4%E5%90%88%E5%BD%B1%23&t=31&band_rank=9&Refer=top)<br />
 
