@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 12:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 12:39:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [陪贾玲训练的狗是拍李焕英时捡的](https://www.baidu.com/s?wd=%E9%99%AA%E8%B4%BE%E7%8E%B2%E8%AE%AD%E7%BB%83%E7%9A%84%E7%8B%97%E6%98%AF%E6%8B%8D%E6%9D%8E%E7%84%95%E8%8B%B1%E6%97%B6%E6%8D%A1%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这条视频含龙量高到旁白都姓龙！](https://www.baidu.com/s?wd=%E8%BF%99%E6%9D%A1%E8%A7%86%E9%A2%91%E5%90%AB%E9%BE%99%E9%87%8F%E9%AB%98%E5%88%B0%E6%97%81%E7%99%BD%E9%83%BD%E5%A7%93%E9%BE%99%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [卖猪肉的舅舅按体重给外甥们发红包](https://www.baidu.com/s?wd=%E5%8D%96%E7%8C%AA%E8%82%89%E7%9A%84%E8%88%85%E8%88%85%E6%8C%89%E4%BD%93%E9%87%8D%E7%BB%99%E5%A4%96%E7%94%A5%E4%BB%AC%E5%8F%91%E7%BA%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [知情人称白敬亭走位没问题](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B5%B0%E4%BD%8D%E6%B2%A1%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [白敬亭口碑](https://www.baidu.com/s?wd=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%8F%A3%E7%A2%91%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [姐妹俩除夕包饺子 妈妈看到美甲无语](https://www.baidu.com/s?wd=%E5%A7%90%E5%A6%B9%E4%BF%A9%E9%99%A4%E5%A4%95%E5%8C%85%E9%A5%BA%E5%AD%90+%E5%A6%88%E5%A6%88%E7%9C%8B%E5%88%B0%E7%BE%8E%E7%94%B2%E6%97%A0%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [情人节前黄金巧克力搜索暴涨20倍](https://www.baidu.com/s?wd=%E6%83%85%E4%BA%BA%E8%8A%82%E5%89%8D%E9%BB%84%E9%87%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E6%90%9C%E7%B4%A2%E6%9A%B4%E6%B6%A820%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [姐妹俩除夕包饺子 妈妈看到美甲无语](https://www.baidu.com/s?wd=%E5%A7%90%E5%A6%B9%E4%BF%A9%E9%99%A4%E5%A4%95%E5%8C%85%E9%A5%BA%E5%AD%90+%E5%A6%88%E5%A6%88%E7%9C%8B%E5%88%B0%E7%BE%8E%E7%94%B2%E6%97%A0%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新老女婿回老婆娘家拜年区别太明显](https://www.baidu.com/s?wd=%E6%96%B0%E8%80%81%E5%A5%B3%E5%A9%BF%E5%9B%9E%E8%80%81%E5%A9%86%E5%A8%98%E5%AE%B6%E6%8B%9C%E5%B9%B4%E5%8C%BA%E5%88%AB%E5%A4%AA%E6%98%8E%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝蜂蜜水能解酒？](https://www.baidu.com/s?wd=%E5%96%9D%E8%9C%82%E8%9C%9C%E6%B0%B4%E8%83%BD%E8%A7%A3%E9%85%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [陪贾玲训练的狗是拍李焕英时捡的](https://www.baidu.com/s?wd=%E9%99%AA%E8%B4%BE%E7%8E%B2%E8%AE%AD%E7%BB%83%E7%9A%84%E7%8B%97%E6%98%AF%E6%8B%8D%E6%9D%8E%E7%84%95%E8%8B%B1%E6%97%B6%E6%8D%A1%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这条视频含龙量高到旁白都姓龙！](https://www.baidu.com/s?wd=%E8%BF%99%E6%9D%A1%E8%A7%86%E9%A2%91%E5%90%AB%E9%BE%99%E9%87%8F%E9%AB%98%E5%88%B0%E6%97%81%E7%99%BD%E9%83%BD%E5%A7%93%E9%BE%99%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [卖猪肉的舅舅按体重给外甥们发红包](https://www.baidu.com/s?wd=%E5%8D%96%E7%8C%AA%E8%82%89%E7%9A%84%E8%88%85%E8%88%85%E6%8C%89%E4%BD%93%E9%87%8D%E7%BB%99%E5%A4%96%E7%94%A5%E4%BB%AC%E5%8F%91%E7%BA%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [知情人称白敬亭走位没问题](https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B5%B0%E4%BD%8D%E6%B2%A1%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [白敬亭口碑](https://www.baidu.com/s?wd=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%8F%A3%E7%A2%91%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [姐妹俩除夕包饺子 妈妈看到美甲无语](https://www.baidu.com/s?wd=%E5%A7%90%E5%A6%B9%E4%BF%A9%E9%99%A4%E5%A4%95%E5%8C%85%E9%A5%BA%E5%AD%90+%E5%A6%88%E5%A6%88%E7%9C%8B%E5%88%B0%E7%BE%8E%E7%94%B2%E6%97%A0%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [情人节前黄金巧克力搜索暴涨20倍](https://www.baidu.com/s?wd=%E6%83%85%E4%BA%BA%E8%8A%82%E5%89%8D%E9%BB%84%E9%87%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E6%90%9C%E7%B4%A2%E6%9A%B4%E6%B6%A820%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [姐妹俩除夕包饺子 妈妈看到美甲无语](https://www.baidu.com/s?wd=%E5%A7%90%E5%A6%B9%E4%BF%A9%E9%99%A4%E5%A4%95%E5%8C%85%E9%A5%BA%E5%AD%90+%E5%A6%88%E5%A6%88%E7%9C%8B%E5%88%B0%E7%BE%8E%E7%94%B2%E6%97%A0%E8%AF%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新老女婿回老婆娘家拜年区别太明显](https://www.baidu.com/s?wd=%E6%96%B0%E8%80%81%E5%A5%B3%E5%A9%BF%E5%9B%9E%E8%80%81%E5%A9%86%E5%A8%98%E5%AE%B6%E6%8B%9C%E5%B9%B4%E5%8C%BA%E5%88%AB%E5%A4%AA%E6%98%8E%E6%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [喝蜂蜜水能解酒？](https://www.baidu.com/s?wd=%E5%96%9D%E8%9C%82%E8%9C%9C%E6%B0%B4%E8%83%BD%E8%A7%A3%E9%85%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
