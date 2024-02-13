@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 16:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 16:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [难哄男主](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E7%94%B7%E4%B8%BB&t=31&band_rank=6&Refer=top)<br />
 7. [辛芷蕾回应花少被消音](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%8A%B1%E5%B0%91%E8%A2%AB%E6%B6%88%E9%9F%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [95后孙女给75岁奶奶染火龙果发色](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%AD%99%E5%A5%B3%E7%BB%9975%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%9F%93%E7%81%AB%E9%BE%99%E6%9E%9C%E5%8F%91%E8%89%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [热辣滚烫评分涨至8.0](https://s.weibo.com/weibo?q=%23%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E8%AF%84%E5%88%86%E6%B6%A8%E8%87%B38.0%23&t=31&band_rank=9&Refer=top)<br />
+9. [大城市消费降级小城市消费升级](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7%E5%B0%8F%E5%9F%8E%E5%B8%82%E6%B6%88%E8%B4%B9%E5%8D%87%E7%BA%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
