@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 08:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 08:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陪贾玲训练的狗狗是拍李焕英时捡的](https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%B4%BE%E7%8E%B2%E8%AE%AD%E7%BB%83%E7%9A%84%E7%8B%97%E7%8B%97%E6%98%AF%E6%8B%8D%E6%9D%8E%E7%84%95%E8%8B%B1%E6%97%B6%E6%8D%A1%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [iPhone16ProMax续航有望突破30h](https://s.weibo.com/weibo?q=%23iPhone16ProMax%E7%BB%AD%E8%88%AA%E6%9C%89%E6%9C%9B%E7%AA%81%E7%A0%B430h%23&t=31&band_rank=7&Refer=top)<br />
 8. [普京两年来首次接受美国记者采访](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%A4%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [上春山现场直拍](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%98%A5%E5%B1%B1%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%8B%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [贾玲为了不让观众掏手机有多努力](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%B8%BA%E4%BA%86%E4%B8%8D%E8%AE%A9%E8%A7%82%E4%BC%97%E6%8E%8F%E6%89%8B%E6%9C%BA%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
