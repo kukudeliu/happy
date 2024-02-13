@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 16:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 16:07:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [2024龙年龘吉](https://s.weibo.com/weibo?q=%232024%E9%BE%99%E5%B9%B4%E9%BE%98%E5%90%89%23&t=31&band_rank=3&Refer=top)<br />
 4. [张艺兴连包18场支持贾玲新电影](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%BF%9E%E5%8C%8518%E5%9C%BA%E6%94%AF%E6%8C%81%E8%B4%BE%E7%8E%B2%E6%96%B0%E7%94%B5%E5%BD%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [难哄男主](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E7%94%B7%E4%B8%BB&t=31&band_rank=5&Refer=top)<br />
-6. [辛芷蕾回应花少被消音](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%8A%B1%E5%B0%91%E8%A2%AB%E6%B6%88%E9%9F%B3%23&t=31&band_rank=6&Refer=top)<br />
-7. [春晚每一个走位都精心设计并被准确呈现](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%AF%8F%E4%B8%80%E4%B8%AA%E8%B5%B0%E4%BD%8D%E9%83%BD%E7%B2%BE%E5%BF%83%E8%AE%BE%E8%AE%A1%E5%B9%B6%E8%A2%AB%E5%87%86%E7%A1%AE%E5%91%88%E7%8E%B0%23&t=31&band_rank=7&Refer=top)<br />
+6. [春晚每一个走位都精心设计并被准确呈现](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%AF%8F%E4%B8%80%E4%B8%AA%E8%B5%B0%E4%BD%8D%E9%83%BD%E7%B2%BE%E5%BF%83%E8%AE%BE%E8%AE%A1%E5%B9%B6%E8%A2%AB%E5%87%86%E7%A1%AE%E5%91%88%E7%8E%B0%23&t=31&band_rank=6&Refer=top)<br />
+7. [辛芷蕾回应花少被消音](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%9E%E5%BA%94%E8%8A%B1%E5%B0%91%E8%A2%AB%E6%B6%88%E9%9F%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [95后孙女给75岁奶奶染火龙果发色](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%AD%99%E5%A5%B3%E7%BB%9975%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%9F%93%E7%81%AB%E9%BE%99%E6%9E%9C%E5%8F%91%E8%89%B2%23&t=31&band_rank=8&Refer=top)<br />
-9. [马思纯是周冬雨唯一的姐](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%98%AF%E5%91%A8%E5%86%AC%E9%9B%A8%E5%94%AF%E4%B8%80%E7%9A%84%E5%A7%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [热辣滚烫评分涨至8.0](https://s.weibo.com/weibo?q=%23%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E8%AF%84%E5%88%86%E6%B6%A8%E8%87%B38.0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
