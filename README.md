@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 17:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 17:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [春节三亚回程机票暴涨至万元](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E4%B8%89%E4%BA%9A%E5%9B%9E%E7%A8%8B%E6%9C%BA%E7%A5%A8%E6%9A%B4%E6%B6%A8%E8%87%B3%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [六公主播魏大勋的紧急救援](https://www.baidu.com/s?wd=%E5%85%AD%E5%85%AC%E4%B8%BB%E6%92%AD%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9A%84%E7%B4%A7%E6%80%A5%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [安徽取暖神器一人一桶一坐半天](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%8F%96%E6%9A%96%E7%A5%9E%E5%99%A8%E4%B8%80%E4%BA%BA%E4%B8%80%E6%A1%B6%E4%B8%80%E5%9D%90%E5%8D%8A%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川00后小伙3小时做一个醒狮酥](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D00%E5%90%8E%E5%B0%8F%E4%BC%993%E5%B0%8F%E6%97%B6%E5%81%9A%E4%B8%80%E4%B8%AA%E9%86%92%E7%8B%AE%E9%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国一飞机发生舱门脱落事故](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%8F%91%E7%94%9F%E8%88%B1%E9%97%A8%E8%84%B1%E8%90%BD%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些“龙”谣言你听说过吗？](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E2%80%9C%E9%BE%99%E2%80%9D%E8%B0%A3%E8%A8%80%E4%BD%A0%E5%90%AC%E8%AF%B4%E8%BF%87%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [春节三亚回程机票暴涨至万元](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E4%B8%89%E4%BA%9A%E5%9B%9E%E7%A8%8B%E6%9C%BA%E7%A5%A8%E6%9A%B4%E6%B6%A8%E8%87%B3%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [六公主播魏大勋的紧急救援](https://www.baidu.com/s?wd=%E5%85%AD%E5%85%AC%E4%B8%BB%E6%92%AD%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9A%84%E7%B4%A7%E6%80%A5%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [安徽取暖神器一人一桶一坐半天](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%8F%96%E6%9A%96%E7%A5%9E%E5%99%A8%E4%B8%80%E4%BA%BA%E4%B8%80%E6%A1%B6%E4%B8%80%E5%9D%90%E5%8D%8A%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川00后小伙3小时做一个醒狮酥](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D00%E5%90%8E%E5%B0%8F%E4%BC%993%E5%B0%8F%E6%97%B6%E5%81%9A%E4%B8%80%E4%B8%AA%E9%86%92%E7%8B%AE%E9%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国一飞机发生舱门脱落事故](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%8F%91%E7%94%9F%E8%88%B1%E9%97%A8%E8%84%B1%E8%90%BD%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些“龙”谣言你听说过吗？](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E2%80%9C%E9%BE%99%E2%80%9D%E8%B0%A3%E8%A8%80%E4%BD%A0%E5%90%AC%E8%AF%B4%E8%BF%87%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
