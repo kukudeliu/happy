@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 09:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 09:42:01</h4></div>
 
 > 微博  
 
 1. [已经会唱上春山了](https://s.weibo.com/weibo?q=%E5%B7%B2%E7%BB%8F%E4%BC%9A%E5%94%B1%E4%B8%8A%E6%98%A5%E5%B1%B1%E4%BA%86&t=31&band_rank=1&Refer=top)<br />
 2. [农村悄然出现以家庭为单位的断亲](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E6%82%84%E7%84%B6%E5%87%BA%E7%8E%B0%E4%BB%A5%E5%AE%B6%E5%BA%AD%E4%B8%BA%E5%8D%95%E4%BD%8D%E7%9A%84%E6%96%AD%E4%BA%B2%23&t=31&band_rank=2&Refer=top)<br />
 3. [我与家人合个影](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%8E%E5%AE%B6%E4%BA%BA%E5%90%88%E4%B8%AA%E5%BD%B1%23&t=31&band_rank=3&Refer=top)<br />
-4. [重庆解放碑逆行撞车男子被刑拘](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E8%A7%A3%E6%94%BE%E7%A2%91%E9%80%86%E8%A1%8C%E6%92%9E%E8%BD%A6%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=4&Refer=top)<br />
-5. [垫底辣孩 安徽省服更有性价比](https://s.weibo.com/weibo?q=%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9%20%E5%AE%89%E5%BE%BD%E7%9C%81%E6%9C%8D%E6%9B%B4%E6%9C%89%E6%80%A7%E4%BB%B7%E6%AF%94&t=31&band_rank=5&Refer=top)<br />
+4. [垫底辣孩 安徽省服更有性价比](https://s.weibo.com/weibo?q=%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9%20%E5%AE%89%E5%BE%BD%E7%9C%81%E6%9C%8D%E6%9B%B4%E6%9C%89%E6%80%A7%E4%BB%B7%E6%AF%94&t=31&band_rank=4&Refer=top)<br />
+5. [重庆解放碑逆行撞车男子被刑拘](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E8%A7%A3%E6%94%BE%E7%A2%91%E9%80%86%E8%A1%8C%E6%92%9E%E8%BD%A6%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [秋瓷炫和公公一起贴对联](https://s.weibo.com/weibo?q=%E7%A7%8B%E7%93%B7%E7%82%AB%E5%92%8C%E5%85%AC%E5%85%AC%E4%B8%80%E8%B5%B7%E8%B4%B4%E5%AF%B9%E8%81%94&t=31&band_rank=6&Refer=top)<br />
 7. [尼格买提说自己三天没笑过了](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%89%E5%A4%A9%E6%B2%A1%E7%AC%91%E8%BF%87%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [iPhone16ProMax续航有望突破30h](https://s.weibo.com/weibo?q=%23iPhone16ProMax%E7%BB%AD%E8%88%AA%E6%9C%89%E6%9C%9B%E7%AA%81%E7%A0%B430h%23&t=31&band_rank=8&Refer=top)<br />
