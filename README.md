@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 12:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 12:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白敬亭粉丝澄清视频下架](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%B2%89%E4%B8%9D%E6%BE%84%E6%B8%85%E8%A7%86%E9%A2%91%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [上春山是贵州献礼](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%98%A5%E5%B1%B1%E6%98%AF%E8%B4%B5%E5%B7%9E%E7%8C%AE%E7%A4%BC&t=31&band_rank=7&Refer=top)<br />
 8. [大杨哥被鞭炮炸伤](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%9D%A8%E5%93%A5%E8%A2%AB%E9%9E%AD%E7%82%AE%E7%82%B8%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [元宵晚会 上春山](https://s.weibo.com/weibo?q=%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A%20%E4%B8%8A%E6%98%A5%E5%B1%B1&t=31&band_rank=9&Refer=top)<br />
+9. [专家称今年买房性价比更高](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BB%8A%E5%B9%B4%E4%B9%B0%E6%88%BF%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9B%B4%E9%AB%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
