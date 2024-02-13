@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 07:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 07:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [再也不敢相信口罩下的面孔了](https://s.weibo.com/weibo?q=%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1%E5%8F%A3%E7%BD%A9%E4%B8%8B%E7%9A%84%E9%9D%A2%E5%AD%94%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [朱广权 这三天我们都没笑](https://s.weibo.com/weibo?q=%E6%9C%B1%E5%B9%BF%E6%9D%83%20%E8%BF%99%E4%B8%89%E5%A4%A9%E6%88%91%E4%BB%AC%E9%83%BD%E6%B2%A1%E7%AC%91&t=31&band_rank=7&Refer=top)<br />
 8. [钱辈请和我交往](https://s.weibo.com/weibo?q=%23%E9%92%B1%E8%BE%88%E8%AF%B7%E5%92%8C%E6%88%91%E4%BA%A4%E5%BE%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [甜馨回应压岁钱争议](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E5%9B%9E%E5%BA%94%E5%8E%8B%E5%B2%81%E9%92%B1%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [河北邢台一小区发生爆燃](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E9%82%A2%E5%8F%B0%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%87%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
