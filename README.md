@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 10:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 10:31:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [双魏](https://s.weibo.com/weibo?q=%E5%8F%8C%E9%AD%8F&t=31&band_rank=4&Refer=top)<br />
 5. [尼格买提说自己三天没笑过了](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%89%E5%A4%A9%E6%B2%A1%E7%AC%91%E8%BF%87%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [金晨对白敬亭的初印象和现印象](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%AF%B9%E7%99%BD%E6%95%AC%E4%BA%AD%E7%9A%84%E5%88%9D%E5%8D%B0%E8%B1%A1%E5%92%8C%E7%8E%B0%E5%8D%B0%E8%B1%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [秋瓷炫和公公一起贴对联](https://s.weibo.com/weibo?q=%E7%A7%8B%E7%93%B7%E7%82%AB%E5%92%8C%E5%85%AC%E5%85%AC%E4%B8%80%E8%B5%B7%E8%B4%B4%E5%AF%B9%E8%81%94&t=31&band_rank=7&Refer=top)<br />
-8. [陈若琳谈全红婵眼里全是爱](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8B%A5%E7%90%B3%E8%B0%88%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9C%BC%E9%87%8C%E5%85%A8%E6%98%AF%E7%88%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [专家称今年买房性价比更高](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BB%8A%E5%B9%B4%E4%B9%B0%E6%88%BF%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9B%B4%E9%AB%98%23&t=31&band_rank=9&Refer=top)<br />
+7. [专家称今年买房性价比更高](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BB%8A%E5%B9%B4%E4%B9%B0%E6%88%BF%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9B%B4%E9%AB%98%23&t=31&band_rank=7&Refer=top)<br />
+8. [秋瓷炫和公公一起贴对联](https://s.weibo.com/weibo?q=%E7%A7%8B%E7%93%B7%E7%82%AB%E5%92%8C%E5%85%AC%E5%85%AC%E4%B8%80%E8%B5%B7%E8%B4%B4%E5%AF%B9%E8%81%94&t=31&band_rank=8&Refer=top)<br />
+9. [陈若琳谈全红婵眼里全是爱](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8B%A5%E7%90%B3%E8%B0%88%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9C%BC%E9%87%8C%E5%85%A8%E6%98%AF%E7%88%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
