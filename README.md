@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 07:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 07:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [再也不敢相信口罩下的面孔了](https://s.weibo.com/weibo?q=%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1%E5%8F%A3%E7%BD%A9%E4%B8%8B%E7%9A%84%E9%9D%A2%E5%AD%94%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [朱广权 这三天我们都没笑](https://s.weibo.com/weibo?q=%E6%9C%B1%E5%B9%BF%E6%9D%83%20%E8%BF%99%E4%B8%89%E5%A4%A9%E6%88%91%E4%BB%AC%E9%83%BD%E6%B2%A1%E7%AC%91&t=31&band_rank=7&Refer=top)<br />
 8. [钱辈请和我交往](https://s.weibo.com/weibo?q=%23%E9%92%B1%E8%BE%88%E8%AF%B7%E5%92%8C%E6%88%91%E4%BA%A4%E5%BE%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [财神爷](https://s.weibo.com/weibo?q=%E8%B4%A2%E7%A5%9E%E7%88%B7&t=31&band_rank=9&Refer=top)<br />
+9. [春晚每一个走位都精心设计并被准确呈现](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%AF%8F%E4%B8%80%E4%B8%AA%E8%B5%B0%E4%BD%8D%E9%83%BD%E7%B2%BE%E5%BF%83%E8%AE%BE%E8%AE%A1%E5%B9%B6%E8%A2%AB%E5%87%86%E7%A1%AE%E5%91%88%E7%8E%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [贾玲主演票房破80亿](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E4%B8%BB%E6%BC%94%E7%A5%A8%E6%88%BF%E7%A0%B480%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [赵丽颖等红灯时被认出用手语说谢谢](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%AD%89%E7%BA%A2%E7%81%AF%E6%97%B6%E8%A2%AB%E8%AE%A4%E5%87%BA%E7%94%A8%E6%89%8B%E8%AF%AD%E8%AF%B4%E8%B0%A2%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [回村后的董宇辉生活有多惬意](https://www.baidu.com/s?wd=%E5%9B%9E%E6%9D%91%E5%90%8E%E7%9A%84%E8%91%A3%E5%AE%87%E8%BE%89%E7%94%9F%E6%B4%BB%E6%9C%89%E5%A4%9A%E6%83%AC%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南来北往素芳去世哭惨了](https://www.baidu.com/s?wd=%E5%8D%97%E6%9D%A5%E5%8C%97%E5%BE%80%E7%B4%A0%E8%8A%B3%E5%8E%BB%E4%B8%96%E5%93%AD%E6%83%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小伙回家过年羽绒服被炕烤坏](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E7%82%95%E7%83%A4%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些“龙”谣言你听说过吗？](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E2%80%9C%E9%BE%99%E2%80%9D%E8%B0%A3%E8%A8%80%E4%BD%A0%E5%90%AC%E8%AF%B4%E8%BF%87%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [贾玲主演票房破80亿](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E4%B8%BB%E6%BC%94%E7%A5%A8%E6%88%BF%E7%A0%B480%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [赵丽颖等红灯时被认出用手语说谢谢](https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%AD%89%E7%BA%A2%E7%81%AF%E6%97%B6%E8%A2%AB%E8%AE%A4%E5%87%BA%E7%94%A8%E6%89%8B%E8%AF%AD%E8%AF%B4%E8%B0%A2%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [回村后的董宇辉生活有多惬意](https://www.baidu.com/s?wd=%E5%9B%9E%E6%9D%91%E5%90%8E%E7%9A%84%E8%91%A3%E5%AE%87%E8%BE%89%E7%94%9F%E6%B4%BB%E6%9C%89%E5%A4%9A%E6%83%AC%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南来北往素芳去世哭惨了](https://www.baidu.com/s?wd=%E5%8D%97%E6%9D%A5%E5%8C%97%E5%BE%80%E7%B4%A0%E8%8A%B3%E5%8E%BB%E4%B8%96%E5%93%AD%E6%83%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小伙回家过年羽绒服被炕烤坏](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E7%82%95%E7%83%A4%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些“龙”谣言你听说过吗？](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E2%80%9C%E9%BE%99%E2%80%9D%E8%B0%A3%E8%A8%80%E4%BD%A0%E5%90%AC%E8%AF%B4%E8%BF%87%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
