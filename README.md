@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 09:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 09:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [秋瓷炫和公公一起贴对联](https://s.weibo.com/weibo?q=%E7%A7%8B%E7%93%B7%E7%82%AB%E5%92%8C%E5%85%AC%E5%85%AC%E4%B8%80%E8%B5%B7%E8%B4%B4%E5%AF%B9%E8%81%94&t=31&band_rank=6&Refer=top)<br />
 7. [尼格买提说自己三天没笑过了](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%89%E5%A4%A9%E6%B2%A1%E7%AC%91%E8%BF%87%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [俄乌局势](https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B9%8C%E5%B1%80%E5%8A%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone16ProMax续航有望突破30h](https://s.weibo.com/weibo?q=%23iPhone16ProMax%E7%BB%AD%E8%88%AA%E6%9C%89%E6%9C%9B%E7%AA%81%E7%A0%B430h%23&t=31&band_rank=9&Refer=top)<br />
+9. [金晨对白敬亭的初印象和现印象](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%AF%B9%E7%99%BD%E6%95%AC%E4%BA%AD%E7%9A%84%E5%88%9D%E5%8D%B0%E8%B1%A1%E5%92%8C%E7%8E%B0%E5%8D%B0%E8%B1%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
