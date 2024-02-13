@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 20:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 20:22:01</h4></div>
 
 > 微博  
 
-1. [甜馨回应压岁钱争议](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E5%9B%9E%E5%BA%94%E5%8E%8B%E5%B2%81%E9%92%B1%E4%BA%89%E8%AE%AE%23&t=31&band_rank=1&Refer=top)<br />
-2. [白敬亭](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD&t=31&band_rank=2&Refer=top)<br />
+1. [白敬亭](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD&t=31&band_rank=1&Refer=top)<br />
+2. [甜馨回应压岁钱争议](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E5%9B%9E%E5%BA%94%E5%8E%8B%E5%B2%81%E9%92%B1%E4%BA%89%E8%AE%AE%23&t=31&band_rank=2&Refer=top)<br />
 3. [空中视角的打铁花如漫天繁星](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E4%B8%AD%E8%A7%86%E8%A7%92%E7%9A%84%E6%89%93%E9%93%81%E8%8A%B1%E5%A6%82%E6%BC%AB%E5%A4%A9%E7%B9%81%E6%98%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [春晚每一个走位都精心设计并被准确呈现](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%AF%8F%E4%B8%80%E4%B8%AA%E8%B5%B0%E4%BD%8D%E9%83%BD%E7%B2%BE%E5%BF%83%E8%AE%BE%E8%AE%A1%E5%B9%B6%E8%A2%AB%E5%87%86%E7%A1%AE%E5%91%88%E7%8E%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [莫斯科交易所暂停股票交易](https://s.weibo.com/weibo?q=%E8%8E%AB%E6%96%AF%E7%A7%91%E4%BA%A4%E6%98%93%E6%89%80%E6%9A%82%E5%81%9C%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93&t=31&band_rank=5&Refer=top)<br />
