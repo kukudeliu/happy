@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 13:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 13:12:02</h4></div>
 
 > 微博  
 
 1. [白敬亭 乔欣](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%20%E4%B9%94%E6%AC%A3&t=31&band_rank=1&Refer=top)<br />
 2. [难哄男主](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E7%94%B7%E4%B8%BB&t=31&band_rank=2&Refer=top)<br />
-3. [2024龙年龘吉](https://s.weibo.com/weibo?q=2024%E9%BE%99%E5%B9%B4%E9%BE%98%E5%90%89&t=31&band_rank=3&Refer=top)<br />
+3. [2024龙年龘吉](https://s.weibo.com/weibo?q=%232024%E9%BE%99%E5%B9%B4%E9%BE%98%E5%90%89%23&t=31&band_rank=3&Refer=top)<br />
 4. [福茂集团董事长车祸去世](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E8%8C%82%E9%9B%86%E5%9B%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [上春山是贵州献礼](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%98%A5%E5%B1%B1%E6%98%AF%E8%B4%B5%E5%B7%9E%E7%8C%AE%E7%A4%BC&t=31&band_rank=5&Refer=top)<br />
 6. [白敬亭粉丝澄清视频下架](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%B2%89%E4%B8%9D%E6%BE%84%E6%B8%85%E8%A7%86%E9%A2%91%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=6&Refer=top)<br />
