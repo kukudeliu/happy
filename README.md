@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 16:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-13 16:53:02</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [风调雨顺、国泰民安](https://www.baidu.com/s?wd=%E9%A3%8E%E8%B0%83%E9%9B%A8%E9%A1%BA%E3%80%81%E5%9B%BD%E6%B3%B0%E6%B0%91%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [这届年轻人返乡过年花式整活](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BF%94%E4%B9%A1%E8%BF%87%E5%B9%B4%E8%8A%B1%E5%BC%8F%E6%95%B4%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [刘涛：导演让穿什么就穿什么](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%EF%BC%9A%E5%AF%BC%E6%BC%94%E8%AE%A9%E7%A9%BF%E4%BB%80%E4%B9%88%E5%B0%B1%E7%A9%BF%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [刘涛：导演让穿什么就穿什么](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%EF%BC%9A%E5%AF%BC%E6%BC%94%E8%AE%A9%E7%A9%BF%E4%BB%80%E4%B9%88%E5%B0%B1%E7%A9%BF%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [95后孙女给75岁奶奶染火龙果发色](https://www.baidu.com/s?wd=95%E5%90%8E%E5%AD%99%E5%A5%B3%E7%BB%9975%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%9F%93%E7%81%AB%E9%BE%99%E6%9E%9C%E5%8F%91%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多姿多彩庆新春 欢欢喜喜过大年](https://www.baidu.com/s?wd=%E5%A4%9A%E5%A7%BF%E5%A4%9A%E5%BD%A9%E5%BA%86%E6%96%B0%E6%98%A5+%E6%AC%A2%E6%AC%A2%E5%96%9C%E5%96%9C%E8%BF%87%E5%A4%A7%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [春节三亚回程机票暴涨至万元](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E4%B8%89%E4%BA%9A%E5%9B%9E%E7%A8%8B%E6%9C%BA%E7%A5%A8%E6%9A%B4%E6%B6%A8%E8%87%B3%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [95后孙女给75岁奶奶染火龙果发色](https://www.baidu.com/s?wd=95%E5%90%8E%E5%AD%99%E5%A5%B3%E7%BB%9975%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%9F%93%E7%81%AB%E9%BE%99%E6%9E%9C%E5%8F%91%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [情人节前黄金巧克力搜索暴涨20倍](https://www.baidu.com/s?wd=%E6%83%85%E4%BA%BA%E8%8A%82%E5%89%8D%E9%BB%84%E9%87%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E6%90%9C%E7%B4%A2%E6%9A%B4%E6%B6%A820%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [越野车闹市撞车 司机被群众揍哭求饶](https://www.baidu.com/s?wd=%E8%B6%8A%E9%87%8E%E8%BD%A6%E9%97%B9%E5%B8%82%E6%92%9E%E8%BD%A6+%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%BE%A4%E4%BC%97%E6%8F%8D%E5%93%AD%E6%B1%82%E9%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [情人节前黄金巧克力搜索暴涨20倍](https://www.baidu.com/s?wd=%E6%83%85%E4%BA%BA%E8%8A%82%E5%89%8D%E9%BB%84%E9%87%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E6%90%9C%E7%B4%A2%E6%9A%B4%E6%B6%A820%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [越野车闹市撞车 司机被群众揍哭求饶](https://www.baidu.com/s?wd=%E8%B6%8A%E9%87%8E%E8%BD%A6%E9%97%B9%E5%B8%82%E6%92%9E%E8%BD%A6+%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%BE%A4%E4%BC%97%E6%8F%8D%E5%93%AD%E6%B1%82%E9%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川00后小伙3小时做一个醒狮酥](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D00%E5%90%8E%E5%B0%8F%E4%BC%993%E5%B0%8F%E6%97%B6%E5%81%9A%E4%B8%80%E4%B8%AA%E9%86%92%E7%8B%AE%E9%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些“龙”谣言你听说过吗？](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E2%80%9C%E9%BE%99%E2%80%9D%E8%B0%A3%E8%A8%80%E4%BD%A0%E5%90%AC%E8%AF%B4%E8%BF%87%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [风调雨顺、国泰民安](https://www.baidu.com/s?wd=%E9%A3%8E%E8%B0%83%E9%9B%A8%E9%A1%BA%E3%80%81%E5%9B%BD%E6%B3%B0%E6%B0%91%E5%AE%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [这届年轻人返乡过年花式整活](https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BF%94%E4%B9%A1%E8%BF%87%E5%B9%B4%E8%8A%B1%E5%BC%8F%E6%95%B4%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [刘涛：导演让穿什么就穿什么](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%EF%BC%9A%E5%AF%BC%E6%BC%94%E8%AE%A9%E7%A9%BF%E4%BB%80%E4%B9%88%E5%B0%B1%E7%A9%BF%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [刘涛：导演让穿什么就穿什么](https://www.baidu.com/s?wd=%E5%88%98%E6%B6%9B%EF%BC%9A%E5%AF%BC%E6%BC%94%E8%AE%A9%E7%A9%BF%E4%BB%80%E4%B9%88%E5%B0%B1%E7%A9%BF%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [95后孙女给75岁奶奶染火龙果发色](https://www.baidu.com/s?wd=95%E5%90%8E%E5%AD%99%E5%A5%B3%E7%BB%9975%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%9F%93%E7%81%AB%E9%BE%99%E6%9E%9C%E5%8F%91%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多姿多彩庆新春 欢欢喜喜过大年](https://www.baidu.com/s?wd=%E5%A4%9A%E5%A7%BF%E5%A4%9A%E5%BD%A9%E5%BA%86%E6%96%B0%E6%98%A5+%E6%AC%A2%E6%AC%A2%E5%96%9C%E5%96%9C%E8%BF%87%E5%A4%A7%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [春节三亚回程机票暴涨至万元](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E4%B8%89%E4%BA%9A%E5%9B%9E%E7%A8%8B%E6%9C%BA%E7%A5%A8%E6%9A%B4%E6%B6%A8%E8%87%B3%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [95后孙女给75岁奶奶染火龙果发色](https://www.baidu.com/s?wd=95%E5%90%8E%E5%AD%99%E5%A5%B3%E7%BB%9975%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%9F%93%E7%81%AB%E9%BE%99%E6%9E%9C%E5%8F%91%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [情人节前黄金巧克力搜索暴涨20倍](https://www.baidu.com/s?wd=%E6%83%85%E4%BA%BA%E8%8A%82%E5%89%8D%E9%BB%84%E9%87%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E6%90%9C%E7%B4%A2%E6%9A%B4%E6%B6%A820%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [越野车闹市撞车 司机被群众揍哭求饶](https://www.baidu.com/s?wd=%E8%B6%8A%E9%87%8E%E8%BD%A6%E9%97%B9%E5%B8%82%E6%92%9E%E8%BD%A6+%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%BE%A4%E4%BC%97%E6%8F%8D%E5%93%AD%E6%B1%82%E9%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [情人节前黄金巧克力搜索暴涨20倍](https://www.baidu.com/s?wd=%E6%83%85%E4%BA%BA%E8%8A%82%E5%89%8D%E9%BB%84%E9%87%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E6%90%9C%E7%B4%A2%E6%9A%B4%E6%B6%A820%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [越野车闹市撞车 司机被群众揍哭求饶](https://www.baidu.com/s?wd=%E8%B6%8A%E9%87%8E%E8%BD%A6%E9%97%B9%E5%B8%82%E6%92%9E%E8%BD%A6+%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%BE%A4%E4%BC%97%E6%8F%8D%E5%93%AD%E6%B1%82%E9%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川00后小伙3小时做一个醒狮酥](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D00%E5%90%8E%E5%B0%8F%E4%BC%993%E5%B0%8F%E6%97%B6%E5%81%9A%E4%B8%80%E4%B8%AA%E9%86%92%E7%8B%AE%E9%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些“龙”谣言你听说过吗？](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E2%80%9C%E9%BE%99%E2%80%9D%E8%B0%A3%E8%A8%80%E4%BD%A0%E5%90%AC%E8%AF%B4%E8%BF%87%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
