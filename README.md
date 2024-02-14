@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 13:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 13:35:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [钱辈请和我交往](https://s.weibo.com/weibo?q=%23%E9%92%B1%E8%BE%88%E8%AF%B7%E5%92%8C%E6%88%91%E4%BA%A4%E5%BE%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [农村老人沉迷刷APP挣钱](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E8%80%81%E4%BA%BA%E6%B2%89%E8%BF%B7%E5%88%B7APP%E6%8C%A3%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [财神壁纸](https://s.weibo.com/weibo?q=%E8%B4%A2%E7%A5%9E%E5%A3%81%E7%BA%B8&t=31&band_rank=8&Refer=top)<br />
-9. [庆余年第二季 谐音梗](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E8%B0%90%E9%9F%B3%E6%A2%97&t=31&band_rank=9&Refer=top)<br />
+9. [五路财神](https://s.weibo.com/weibo?q=%E4%BA%94%E8%B7%AF%E8%B4%A2%E7%A5%9E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
