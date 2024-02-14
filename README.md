@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 11:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 11:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [微信开放情人节520红包](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%BC%80%E6%94%BE%E6%83%85%E4%BA%BA%E8%8A%82520%E7%BA%A2%E5%8C%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [第二十条连续票房逆跌](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%E8%BF%9E%E7%BB%AD%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [财政部评论区成许愿池](https://s.weibo.com/weibo?q=%23%E8%B4%A2%E6%94%BF%E9%83%A8%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%88%90%E8%AE%B8%E6%84%BF%E6%B1%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [杨超越 我的歌不好看吗](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%20%E6%88%91%E7%9A%84%E6%AD%8C%E4%B8%8D%E5%A5%BD%E7%9C%8B%E5%90%97&t=31&band_rank=9&Refer=top)<br />
+9. [赵丽颖战损妆梦回楚乔](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%88%98%E6%8D%9F%E5%A6%86%E6%A2%A6%E5%9B%9E%E6%A5%9A%E4%B9%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
