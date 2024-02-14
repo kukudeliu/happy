@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 14:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 14:48:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [各地进入返程高峰期](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E8%BF%9B%E5%85%A5%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小伙情人节送女友发财树和零食花](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E6%83%85%E4%BA%BA%E8%8A%82%E9%80%81%E5%A5%B3%E5%8F%8B%E5%8F%91%E8%B4%A2%E6%A0%91%E5%92%8C%E9%9B%B6%E9%A3%9F%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [香港“财神爷”去年赚了2127亿](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E2%80%9C%E8%B4%A2%E7%A5%9E%E7%88%B7%E2%80%9D%E5%8E%BB%E5%B9%B4%E8%B5%9A%E4%BA%862127%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [很多女孩看热辣滚烫后想练拳击](https://www.baidu.com/s?wd=%E5%BE%88%E5%A4%9A%E5%A5%B3%E5%AD%A9%E7%9C%8B%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E5%90%8E%E6%83%B3%E7%BB%83%E6%8B%B3%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [灵顺寺凌晨3点全是人：根本挤不上](https://www.baidu.com/s?wd=%E7%81%B5%E9%A1%BA%E5%AF%BA%E5%87%8C%E6%99%A83%E7%82%B9%E5%85%A8%E6%98%AF%E4%BA%BA%EF%BC%9A%E6%A0%B9%E6%9C%AC%E6%8C%A4%E4%B8%8D%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [五台山景区桶装水是从厕所水管接的](https://www.baidu.com/s?wd=%E4%BA%94%E5%8F%B0%E5%B1%B1%E6%99%AF%E5%8C%BA%E6%A1%B6%E8%A3%85%E6%B0%B4%E6%98%AF%E4%BB%8E%E5%8E%95%E6%89%80%E6%B0%B4%E7%AE%A1%E6%8E%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [农村老人沉迷刷APP挣钱](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E8%80%81%E4%BA%BA%E6%B2%89%E8%BF%B7%E5%88%B7APP%E6%8C%A3%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣福建2.1亿元天价婚礼](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E7%A6%8F%E5%BB%BA2.1%E4%BA%BF%E5%85%83%E5%A4%A9%E4%BB%B7%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [各地进入返程高峰期](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E8%BF%9B%E5%85%A5%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小伙情人节送女友发财树和零食花](https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E6%83%85%E4%BA%BA%E8%8A%82%E9%80%81%E5%A5%B3%E5%8F%8B%E5%8F%91%E8%B4%A2%E6%A0%91%E5%92%8C%E9%9B%B6%E9%A3%9F%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [香港“财神爷”去年赚了2127亿](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E2%80%9C%E8%B4%A2%E7%A5%9E%E7%88%B7%E2%80%9D%E5%8E%BB%E5%B9%B4%E8%B5%9A%E4%BA%862127%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [很多女孩看热辣滚烫后想练拳击](https://www.baidu.com/s?wd=%E5%BE%88%E5%A4%9A%E5%A5%B3%E5%AD%A9%E7%9C%8B%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E5%90%8E%E6%83%B3%E7%BB%83%E6%8B%B3%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [灵顺寺凌晨3点全是人：根本挤不上](https://www.baidu.com/s?wd=%E7%81%B5%E9%A1%BA%E5%AF%BA%E5%87%8C%E6%99%A83%E7%82%B9%E5%85%A8%E6%98%AF%E4%BA%BA%EF%BC%9A%E6%A0%B9%E6%9C%AC%E6%8C%A4%E4%B8%8D%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [五台山景区桶装水是从厕所水管接的](https://www.baidu.com/s?wd=%E4%BA%94%E5%8F%B0%E5%B1%B1%E6%99%AF%E5%8C%BA%E6%A1%B6%E8%A3%85%E6%B0%B4%E6%98%AF%E4%BB%8E%E5%8E%95%E6%89%80%E6%B0%B4%E7%AE%A1%E6%8E%A5%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [农村老人沉迷刷APP挣钱](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E8%80%81%E4%BA%BA%E6%B2%89%E8%BF%B7%E5%88%B7APP%E6%8C%A3%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣福建2.1亿元天价婚礼](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E7%A6%8F%E5%BB%BA2.1%E4%BA%BF%E5%85%83%E5%A4%A9%E4%BB%B7%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
