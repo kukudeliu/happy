@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 13:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 13:48:01</h4></div>
 
 > 微博  
 
 1. [五路财神](https://s.weibo.com/weibo?q=%E4%BA%94%E8%B7%AF%E8%B4%A2%E7%A5%9E&t=31&band_rank=1&Refer=top)<br />
-2. [海清有两个神了](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%B8%85%E6%9C%89%E4%B8%A4%E4%B8%AA%E7%A5%9E%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [美国副总统称已准备好接班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E6%8E%A5%E7%8F%AD%23&t=31&band_rank=2&Refer=top)<br />
 3. [龙行龘龘前程朤朤](https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%A1%8C%E9%BE%98%E9%BE%98%E5%89%8D%E7%A8%8B%E6%9C%A4%E6%9C%A4%23&t=31&band_rank=3&Refer=top)<br />
-4. [美国副总统称已准备好接班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E6%8E%A5%E7%8F%AD%23&t=31&band_rank=4&Refer=top)<br />
+4. [海清有两个神了](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%B8%85%E6%9C%89%E4%B8%A4%E4%B8%AA%E7%A5%9E%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [热辣滚烫 自私又丰满的女性角色](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%20%E8%87%AA%E7%A7%81%E5%8F%88%E4%B8%B0%E6%BB%A1%E7%9A%84%E5%A5%B3%E6%80%A7%E8%A7%92%E8%89%B2&t=31&band_rank=5&Refer=top)<br />
 6. [钱辈请和我交往](https://s.weibo.com/weibo?q=%23%E9%92%B1%E8%BE%88%E8%AF%B7%E5%92%8C%E6%88%91%E4%BA%A4%E5%BE%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [迎财神](https://s.weibo.com/weibo?q=%23%E8%BF%8E%E8%B4%A2%E7%A5%9E%23&t=31&band_rank=7&Refer=top)<br />
@@ -22,8 +22,8 @@
 3. [春节相亲开启“群发模式”](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E7%9B%B8%E4%BA%B2%E5%BC%80%E5%90%AF%E2%80%9C%E7%BE%A4%E5%8F%91%E6%A8%A1%E5%BC%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地进入返程高峰期](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E8%BF%9B%E5%85%A5%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西安鼓楼时隔十几年开门洞疏散游客](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E9%BC%93%E6%A5%BC%E6%97%B6%E9%9A%94%E5%8D%81%E5%87%A0%E5%B9%B4%E5%BC%80%E9%97%A8%E6%B4%9E%E7%96%8F%E6%95%A3%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [香港“财神爷”去年赚了2127亿](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E2%80%9C%E8%B4%A2%E7%A5%9E%E7%88%B7%E2%80%9D%E5%8E%BB%E5%B9%B4%E8%B5%9A%E4%BA%862127%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [在县城开零食店春节能卖200万](https://www.baidu.com/s?wd=%E5%9C%A8%E5%8E%BF%E5%9F%8E%E5%BC%80%E9%9B%B6%E9%A3%9F%E5%BA%97%E6%98%A5%E8%8A%82%E8%83%BD%E5%8D%96200%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [17岁中国籍高中生在日本死亡](https://www.baidu.com/s?wd=17%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%B1%8D%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [香港“财神爷”去年赚了2127亿](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E2%80%9C%E8%B4%A2%E7%A5%9E%E7%88%B7%E2%80%9D%E5%8E%BB%E5%B9%B4%E8%B5%9A%E4%BA%862127%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [龙年用AI玩转整个春节](https://www.baidu.com/s?wd=%E9%BE%99%E5%B9%B4%E7%94%A8AI%E7%8E%A9%E8%BD%AC%E6%95%B4%E4%B8%AA%E6%98%A5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣福建2.1亿元天价婚礼](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E7%A6%8F%E5%BB%BA2.1%E4%BA%BF%E5%85%83%E5%A4%A9%E4%BB%B7%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [春节相亲开启“群发模式”](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E7%9B%B8%E4%BA%B2%E5%BC%80%E5%90%AF%E2%80%9C%E7%BE%A4%E5%8F%91%E6%A8%A1%E5%BC%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地进入返程高峰期](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E8%BF%9B%E5%85%A5%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西安鼓楼时隔十几年开门洞疏散游客](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E9%BC%93%E6%A5%BC%E6%97%B6%E9%9A%94%E5%8D%81%E5%87%A0%E5%B9%B4%E5%BC%80%E9%97%A8%E6%B4%9E%E7%96%8F%E6%95%A3%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [香港“财神爷”去年赚了2127亿](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E2%80%9C%E8%B4%A2%E7%A5%9E%E7%88%B7%E2%80%9D%E5%8E%BB%E5%B9%B4%E8%B5%9A%E4%BA%862127%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [在县城开零食店春节能卖200万](https://www.baidu.com/s?wd=%E5%9C%A8%E5%8E%BF%E5%9F%8E%E5%BC%80%E9%9B%B6%E9%A3%9F%E5%BA%97%E6%98%A5%E8%8A%82%E8%83%BD%E5%8D%96200%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [17岁中国籍高中生在日本死亡](https://www.baidu.com/s?wd=17%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%B1%8D%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [香港“财神爷”去年赚了2127亿](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E2%80%9C%E8%B4%A2%E7%A5%9E%E7%88%B7%E2%80%9D%E5%8E%BB%E5%B9%B4%E8%B5%9A%E4%BA%862127%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [龙年用AI玩转整个春节](https://www.baidu.com/s?wd=%E9%BE%99%E5%B9%B4%E7%94%A8AI%E7%8E%A9%E8%BD%AC%E6%95%B4%E4%B8%AA%E6%98%A5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣福建2.1亿元天价婚礼](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E7%A6%8F%E5%BB%BA2.1%E4%BA%BF%E5%85%83%E5%A4%A9%E4%BB%B7%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
