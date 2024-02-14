@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 13:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 13:19:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [海清有两个神了](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%B8%85%E6%9C%89%E4%B8%A4%E4%B8%AA%E7%A5%9E%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [美国副总统称已准备好接班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E6%8E%A5%E7%8F%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [钱辈请和我交往](https://s.weibo.com/weibo?q=%23%E9%92%B1%E8%BE%88%E8%AF%B7%E5%92%8C%E6%88%91%E4%BA%A4%E5%BE%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [上春山logo](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%98%A5%E5%B1%B1logo%23&t=31&band_rank=7&Refer=top)<br />
-8. [网友模仿上春山](https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E6%A8%A1%E4%BB%BF%E4%B8%8A%E6%98%A5%E5%B1%B1&t=31&band_rank=8&Refer=top)<br />
-9. [财神壁纸](https://s.weibo.com/weibo?q=%E8%B4%A2%E7%A5%9E%E5%A3%81%E7%BA%B8&t=31&band_rank=9&Refer=top)<br />
+7. [财神壁纸](https://s.weibo.com/weibo?q=%E8%B4%A2%E7%A5%9E%E5%A3%81%E7%BA%B8&t=31&band_rank=7&Refer=top)<br />
+8. [农村老人沉迷刷APP挣钱](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E8%80%81%E4%BA%BA%E6%B2%89%E8%BF%B7%E5%88%B7APP%E6%8C%A3%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
+9. [上春山logo](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%98%A5%E5%B1%B1logo%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
