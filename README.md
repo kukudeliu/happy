@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 22:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 22:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [化妆师供不应求](https://s.weibo.com/weibo?q=%23%E5%8C%96%E5%A6%86%E5%B8%88%E4%BE%9B%E4%B8%8D%E5%BA%94%E6%B1%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [钟楚曦侯雯元 大大方方](https://s.weibo.com/weibo?q=%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BE%AF%E9%9B%AF%E5%85%83%20%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9&t=31&band_rank=7&Refer=top)<br />
 8. [情人节好多人把花扔了](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BA%BA%E8%8A%82%E5%A5%BD%E5%A4%9A%E4%BA%BA%E6%8A%8A%E8%8A%B1%E6%89%94%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [贾玲 最美的盛开是反击](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%20%E6%9C%80%E7%BE%8E%E7%9A%84%E7%9B%9B%E5%BC%80%E6%98%AF%E5%8F%8D%E5%87%BB&t=31&band_rank=9&Refer=top)<br />
+9. [日本鹿儿岛县樱岛火山喷发](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%B9%BF%E5%84%BF%E5%B2%9B%E5%8E%BF%E6%A8%B1%E5%B2%9B%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
