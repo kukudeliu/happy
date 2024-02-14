@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 13:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 13:57:01</h4></div>
 
 > 微博  
 
-1. [热辣滚烫 自私又丰满的女性角色](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%20%E8%87%AA%E7%A7%81%E5%8F%88%E4%B8%B0%E6%BB%A1%E7%9A%84%E5%A5%B3%E6%80%A7%E8%A7%92%E8%89%B2&t=31&band_rank=1&Refer=top)<br />
-2. [海清有两个神了](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%B8%85%E6%9C%89%E4%B8%A4%E4%B8%AA%E7%A5%9E%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [女方要28.8万彩礼男方嫌贵别家出38.8万](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%96%B9%E8%A6%8128.8%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%94%B7%E6%96%B9%E5%AB%8C%E8%B4%B5%E5%88%AB%E5%AE%B6%E5%87%BA38.8%E4%B8%87&t=31&band_rank=1&Refer=top)<br />
+2. [热辣滚烫 自私又丰满的女性角色](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%20%E8%87%AA%E7%A7%81%E5%8F%88%E4%B8%B0%E6%BB%A1%E7%9A%84%E5%A5%B3%E6%80%A7%E8%A7%92%E8%89%B2&t=31&band_rank=2&Refer=top)<br />
 3. [龙行龘龘前程朤朤](https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%A1%8C%E9%BE%98%E9%BE%98%E5%89%8D%E7%A8%8B%E6%9C%A4%E6%9C%A4%23&t=31&band_rank=3&Refer=top)<br />
-4. [美国副总统称已准备好接班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E6%8E%A5%E7%8F%AD%23&t=31&band_rank=4&Refer=top)<br />
-5. [五路财神](https://s.weibo.com/weibo?q=%E4%BA%94%E8%B7%AF%E8%B4%A2%E7%A5%9E&t=31&band_rank=5&Refer=top)<br />
-6. [钱辈请和我交往](https://s.weibo.com/weibo?q=%23%E9%92%B1%E8%BE%88%E8%AF%B7%E5%92%8C%E6%88%91%E4%BA%A4%E5%BE%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [迎财神](https://s.weibo.com/weibo?q=%23%E8%BF%8E%E8%B4%A2%E7%A5%9E%23&t=31&band_rank=7&Refer=top)<br />
-8. [农村老人沉迷刷APP挣钱](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E8%80%81%E4%BA%BA%E6%B2%89%E8%BF%B7%E5%88%B7APP%E6%8C%A3%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [大侦探9](https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A29&t=31&band_rank=9&Refer=top)<br />
+4. [海清有两个神了](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%B8%85%E6%9C%89%E4%B8%A4%E4%B8%AA%E7%A5%9E%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+5. [美国副总统称已准备好接班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E6%8E%A5%E7%8F%AD%23&t=31&band_rank=5&Refer=top)<br />
+6. [五路财神](https://s.weibo.com/weibo?q=%E4%BA%94%E8%B7%AF%E8%B4%A2%E7%A5%9E&t=31&band_rank=6&Refer=top)<br />
+7. [钱辈请和我交往](https://s.weibo.com/weibo?q=%23%E9%92%B1%E8%BE%88%E8%AF%B7%E5%92%8C%E6%88%91%E4%BA%A4%E5%BE%80%23&t=31&band_rank=7&Refer=top)<br />
+8. [迎财神](https://s.weibo.com/weibo?q=%23%E8%BF%8E%E8%B4%A2%E7%A5%9E%23&t=31&band_rank=8&Refer=top)<br />
+9. [农村老人沉迷刷APP挣钱](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E8%80%81%E4%BA%BA%E6%B2%89%E8%BF%B7%E5%88%B7APP%E6%8C%A3%E9%92%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
