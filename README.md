@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 13:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 13:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [美国副总统称已准备好接班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E6%8E%A5%E7%8F%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [财神壁纸](https://s.weibo.com/weibo?q=%E8%B4%A2%E7%A5%9E%E5%A3%81%E7%BA%B8&t=31&band_rank=7&Refer=top)<br />
 8. [庆余年第二季 谐音梗](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E8%B0%90%E9%9F%B3%E6%A2%97&t=31&band_rank=8&Refer=top)<br />
-9. [财政部评论区成许愿池](https://s.weibo.com/weibo?q=%23%E8%B4%A2%E6%94%BF%E9%83%A8%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%88%90%E8%AE%B8%E6%84%BF%E6%B1%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [农村老人沉迷刷APP挣钱](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E8%80%81%E4%BA%BA%E6%B2%89%E8%BF%B7%E5%88%B7APP%E6%8C%A3%E9%92%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
