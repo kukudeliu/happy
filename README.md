@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 16:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-14 16:22:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [钟楚曦侯雯元 大大方方](https://s.weibo.com/weibo?q=%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BE%AF%E9%9B%AF%E5%85%83%20%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9&t=31&band_rank=6&Refer=top)<br />
 7. [魏晨吃了香菜味巧克力](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E5%90%83%E4%BA%86%E9%A6%99%E8%8F%9C%E5%91%B3%E5%B7%A7%E5%85%8B%E5%8A%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [情人节礼物](https://s.weibo.com/weibo?q=%E6%83%85%E4%BA%BA%E8%8A%82%E7%A4%BC%E7%89%A9&t=31&band_rank=8&Refer=top)<br />
-9. [魏大勋夹子音](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%A4%B9%E5%AD%90%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [财政部许愿池](https://s.weibo.com/weibo?q=%23%E8%B4%A2%E6%94%BF%E9%83%A8%E8%AE%B8%E6%84%BF%E6%B1%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
