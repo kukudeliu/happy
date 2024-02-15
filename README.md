@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-15 12:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-15 12:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨玏王玉雯同游英国](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%8E%8F%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%90%8C%E6%B8%B8%E8%8B%B1%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [谢晖婚礼](https://s.weibo.com/weibo?q=%E8%B0%A2%E6%99%96%E5%A9%9A%E7%A4%BC&t=31&band_rank=7&Refer=top)<br />
 8. [你们合不合适断联一下就知道了](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%AC%E5%90%88%E4%B8%8D%E5%90%88%E9%80%82%E6%96%AD%E8%81%94%E4%B8%80%E4%B8%8B%E5%B0%B1%E7%9F%A5%E9%81%93%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [婚姻给健康带来了什么](https://s.weibo.com/weibo?q=%E5%A9%9A%E5%A7%BB%E7%BB%99%E5%81%A5%E5%BA%B7%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=9&Refer=top)<br />
+9. [热辣滚烫口碑票房双第一](https://s.weibo.com/weibo?q=%23%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E5%8F%A3%E7%A2%91%E7%A5%A8%E6%88%BF%E5%8F%8C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
