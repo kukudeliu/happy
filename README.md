@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-15 19:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-15 19:01:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [吴尊纹身](https://s.weibo.com/weibo?q=%E5%90%B4%E5%B0%8A%E7%BA%B9%E8%BA%AB&t=31&band_rank=4&Refer=top)<br />
 5. [印尼发生多起涉中国游客交通及溺水事故](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E5%8F%91%E7%94%9F%E5%A4%9A%E8%B5%B7%E6%B6%89%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%BA%A4%E9%80%9A%E5%8F%8A%E6%BA%BA%E6%B0%B4%E4%BA%8B%E6%95%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [中文已经不是加密语言了](https://s.weibo.com/weibo?q=%E4%B8%AD%E6%96%87%E5%B7%B2%E7%BB%8F%E4%B8%8D%E6%98%AF%E5%8A%A0%E5%AF%86%E8%AF%AD%E8%A8%80%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [印尼](https://s.weibo.com/weibo?q=%E5%8D%B0%E5%B0%BC&t=31&band_rank=7&Refer=top)<br />
-8. [钟楚曦侯雯元和网友打招呼](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BE%AF%E9%9B%AF%E5%85%83%E5%92%8C%E7%BD%91%E5%8F%8B%E6%89%93%E6%8B%9B%E5%91%BC%23&t=31&band_rank=8&Refer=top)<br />
+7. [钟楚曦侯雯元和网友打招呼](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BE%AF%E9%9B%AF%E5%85%83%E5%92%8C%E7%BD%91%E5%8F%8B%E6%89%93%E6%8B%9B%E5%91%BC%23&t=31&band_rank=7&Refer=top)<br />
+8. [印尼](https://s.weibo.com/weibo?q=%E5%8D%B0%E5%B0%BC&t=31&band_rank=8&Refer=top)<br />
 9. [小姑娘练得满头汗笑着说喜欢舞狮](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A7%91%E5%A8%98%E7%BB%83%E5%BE%97%E6%BB%A1%E5%A4%B4%E6%B1%97%E7%AC%91%E7%9D%80%E8%AF%B4%E5%96%9C%E6%AC%A2%E8%88%9E%E7%8B%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [普京：遗憾没早点在乌开始积极行动](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E9%81%97%E6%86%BE%E6%B2%A1%E6%97%A9%E7%82%B9%E5%9C%A8%E4%B9%8C%E5%BC%80%E5%A7%8B%E7%A7%AF%E6%9E%81%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [粉丝拿签名照让刘德华鉴定](https://www.baidu.com/s?wd=%E7%B2%89%E4%B8%9D%E6%8B%BF%E7%AD%BE%E5%90%8D%E7%85%A7%E8%AE%A9%E5%88%98%E5%BE%B7%E5%8D%8E%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [汇丰银行:不要和美联储作对](https://www.baidu.com/s?wd=%E6%B1%87%E4%B8%B0%E9%93%B6%E8%A1%8C%3A%E4%B8%8D%E8%A6%81%E5%92%8C%E7%BE%8E%E8%81%94%E5%82%A8%E4%BD%9C%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全球能源安全面临持续威胁](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E5%AE%89%E5%85%A8%E9%9D%A2%E4%B8%B4%E6%8C%81%E7%BB%AD%E5%A8%81%E8%83%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多名中国游客在印尼遭遇事故伤亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%8D%B0%E5%B0%BC%E9%81%AD%E9%81%87%E4%BA%8B%E6%95%85%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [飞机有辐射孕妇不能坐？](https://www.baidu.com/s?wd=%E9%A3%9E%E6%9C%BA%E6%9C%89%E8%BE%90%E5%B0%84%E5%AD%95%E5%A6%87%E4%B8%8D%E8%83%BD%E5%9D%90%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [普京：遗憾没早点在乌开始积极行动](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E9%81%97%E6%86%BE%E6%B2%A1%E6%97%A9%E7%82%B9%E5%9C%A8%E4%B9%8C%E5%BC%80%E5%A7%8B%E7%A7%AF%E6%9E%81%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [粉丝拿签名照让刘德华鉴定](https://www.baidu.com/s?wd=%E7%B2%89%E4%B8%9D%E6%8B%BF%E7%AD%BE%E5%90%8D%E7%85%A7%E8%AE%A9%E5%88%98%E5%BE%B7%E5%8D%8E%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [汇丰银行:不要和美联储作对](https://www.baidu.com/s?wd=%E6%B1%87%E4%B8%B0%E9%93%B6%E8%A1%8C%3A%E4%B8%8D%E8%A6%81%E5%92%8C%E7%BE%8E%E8%81%94%E5%82%A8%E4%BD%9C%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全球能源安全面临持续威胁](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E5%AE%89%E5%85%A8%E9%9D%A2%E4%B8%B4%E6%8C%81%E7%BB%AD%E5%A8%81%E8%83%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多名中国游客在印尼遭遇事故伤亡](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%8D%B0%E5%B0%BC%E9%81%AD%E9%81%87%E4%BA%8B%E6%95%85%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [飞机有辐射孕妇不能坐？](https://www.baidu.com/s?wd=%E9%A3%9E%E6%9C%BA%E6%9C%89%E8%BE%90%E5%B0%84%E5%AD%95%E5%A6%87%E4%B8%8D%E8%83%BD%E5%9D%90%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
