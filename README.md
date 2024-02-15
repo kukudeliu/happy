@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-15 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-15 17:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [钟楚曦侯雯元和网友打招呼](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BE%AF%E9%9B%AF%E5%85%83%E5%92%8C%E7%BD%91%E5%8F%8B%E6%89%93%E6%8B%9B%E5%91%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [印尼](https://s.weibo.com/weibo?q=%E5%8D%B0%E5%B0%BC&t=31&band_rank=7&Refer=top)<br />
 8. [哪个星座厌蠢症最强烈](https://s.weibo.com/weibo?q=%E5%93%AA%E4%B8%AA%E6%98%9F%E5%BA%A7%E5%8E%8C%E8%A0%A2%E7%97%87%E6%9C%80%E5%BC%BA%E7%83%88&t=31&band_rank=8&Refer=top)<br />
-9. [今年正月初六不用往外走了](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%AD%A3%E6%9C%88%E5%88%9D%E5%85%AD%E4%B8%8D%E7%94%A8%E5%BE%80%E5%A4%96%E8%B5%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [小姑娘练得满头汗笑着说喜欢舞狮](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A7%91%E5%A8%98%E7%BB%83%E5%BE%97%E6%BB%A1%E5%A4%B4%E6%B1%97%E7%AC%91%E7%9D%80%E8%AF%B4%E5%96%9C%E6%AC%A2%E8%88%9E%E7%8B%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
