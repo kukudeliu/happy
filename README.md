@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-15 22:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-15 23:00:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [草莓盖浇饭](https://s.weibo.com/weibo?q=%E8%8D%89%E8%8E%93%E7%9B%96%E6%B5%87%E9%A5%AD&t=31&band_rank=6&Refer=top)<br />
 7. [手机充电一定要满充满放吗](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5%E4%B8%80%E5%AE%9A%E8%A6%81%E6%BB%A1%E5%85%85%E6%BB%A1%E6%94%BE%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [张艺兴旗下女团或即将出道](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%97%97%E4%B8%8B%E5%A5%B3%E5%9B%A2%E6%88%96%E5%8D%B3%E5%B0%86%E5%87%BA%E9%81%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘维春晚只上了59秒](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E6%98%A5%E6%99%9A%E5%8F%AA%E4%B8%8A%E4%BA%8659%E7%A7%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [孙千 外貌是最不应该去攻击的](https://s.weibo.com/weibo?q=%E5%AD%99%E5%8D%83%20%E5%A4%96%E8%B2%8C%E6%98%AF%E6%9C%80%E4%B8%8D%E5%BA%94%E8%AF%A5%E5%8E%BB%E6%94%BB%E5%87%BB%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
