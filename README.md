@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-15 15:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-15 15:39:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王骁团队回应路演被骂](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%AA%81%E5%9B%A2%E9%98%9F%E5%9B%9E%E5%BA%94%E8%B7%AF%E6%BC%94%E8%A2%AB%E9%AA%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子套圈套中十几只大鹅引热议](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A5%97%E5%9C%88%E5%A5%97%E4%B8%AD%E5%8D%81%E5%87%A0%E5%8F%AA%E5%A4%A7%E9%B9%85%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [回村后吃到的高仿](https://s.weibo.com/weibo?q=%23%E5%9B%9E%E6%9D%91%E5%90%8E%E5%90%83%E5%88%B0%E7%9A%84%E9%AB%98%E4%BB%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [飞驰人生2票房超前作](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F2%E7%A5%A8%E6%88%BF%E8%B6%85%E5%89%8D%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [张颂文情商](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%E6%83%85%E5%95%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
