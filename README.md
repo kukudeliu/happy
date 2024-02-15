@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-15 12:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-15 12:55:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨玏王玉雯同游英国](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%8E%8F%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%90%8C%E6%B8%B8%E8%8B%B1%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [谢晖婚礼](https://s.weibo.com/weibo?q=%E8%B0%A2%E6%99%96%E5%A9%9A%E7%A4%BC&t=31&band_rank=7&Refer=top)<br />
 8. [你们合不合适断联一下就知道了](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%AC%E5%90%88%E4%B8%8D%E5%90%88%E9%80%82%E6%96%AD%E8%81%94%E4%B8%80%E4%B8%8B%E5%B0%B1%E7%9F%A5%E9%81%93%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [女子为亡弟追凶24年曾和嫌疑人网聊3年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E4%BA%A1%E5%BC%9F%E8%BF%BD%E5%87%B624%E5%B9%B4%E6%9B%BE%E5%92%8C%E5%AB%8C%E7%96%91%E4%BA%BA%E7%BD%91%E8%81%8A3%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [婚姻给健康带来了什么](https://s.weibo.com/weibo?q=%E5%A9%9A%E5%A7%BB%E7%BB%99%E5%81%A5%E5%BA%B7%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,8 +24,8 @@
 5. [日本名义GDP跌出全球前三](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%8D%E4%B9%89GDP%E8%B7%8C%E5%87%BA%E5%85%A8%E7%90%83%E5%89%8D%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [景区飞斧表演 飞斧手多次失误砸中人](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E9%A3%9E%E6%96%A7%E8%A1%A8%E6%BC%94+%E9%A3%9E%E6%96%A7%E6%89%8B%E5%A4%9A%E6%AC%A1%E5%A4%B1%E8%AF%AF%E7%A0%B8%E4%B8%AD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子一回头被窜天猴精准击中眼睛](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%80%E5%9B%9E%E5%A4%B4%E8%A2%AB%E7%AA%9C%E5%A4%A9%E7%8C%B4%E7%B2%BE%E5%87%86%E5%87%BB%E4%B8%AD%E7%9C%BC%E7%9D%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京不满意美名嘴采访：不够尖锐](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8D%E6%BB%A1%E6%84%8F%E7%BE%8E%E5%90%8D%E5%98%B4%E9%87%87%E8%AE%BF%EF%BC%9A%E4%B8%8D%E5%A4%9F%E5%B0%96%E9%94%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [贾玲说减100斤的热度持续太久](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E8%AF%B4%E5%87%8F100%E6%96%A4%E7%9A%84%E7%83%AD%E5%BA%A6%E6%8C%81%E7%BB%AD%E5%A4%AA%E4%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客吐槽花60元门票看臭水沟](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E8%8A%B160%E5%85%83%E9%97%A8%E7%A5%A8%E7%9C%8B%E8%87%AD%E6%B0%B4%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [飞机有辐射孕妇不能坐？](https://www.baidu.com/s?wd=%E9%A3%9E%E6%9C%BA%E6%9C%89%E8%BE%90%E5%B0%84%E5%AD%95%E5%A6%87%E4%B8%8D%E8%83%BD%E5%9D%90%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [日本名义GDP跌出全球前三](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%8D%E4%B9%89GDP%E8%B7%8C%E5%87%BA%E5%85%A8%E7%90%83%E5%89%8D%E4%B8%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [景区飞斧表演 飞斧手多次失误砸中人](https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E9%A3%9E%E6%96%A7%E8%A1%A8%E6%BC%94+%E9%A3%9E%E6%96%A7%E6%89%8B%E5%A4%9A%E6%AC%A1%E5%A4%B1%E8%AF%AF%E7%A0%B8%E4%B8%AD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子一回头被窜天猴精准击中眼睛](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%80%E5%9B%9E%E5%A4%B4%E8%A2%AB%E7%AA%9C%E5%A4%A9%E7%8C%B4%E7%B2%BE%E5%87%86%E5%87%BB%E4%B8%AD%E7%9C%BC%E7%9D%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京不满意美名嘴采访：不够尖锐](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8D%E6%BB%A1%E6%84%8F%E7%BE%8E%E5%90%8D%E5%98%B4%E9%87%87%E8%AE%BF%EF%BC%9A%E4%B8%8D%E5%A4%9F%E5%B0%96%E9%94%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [贾玲说减100斤的热度持续太久](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E8%AF%B4%E5%87%8F100%E6%96%A4%E7%9A%84%E7%83%AD%E5%BA%A6%E6%8C%81%E7%BB%AD%E5%A4%AA%E4%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客吐槽花60元门票看臭水沟](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E8%8A%B160%E5%85%83%E9%97%A8%E7%A5%A8%E7%9C%8B%E8%87%AD%E6%B0%B4%E6%B2%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [飞机有辐射孕妇不能坐？](https://www.baidu.com/s?wd=%E9%A3%9E%E6%9C%BA%E6%9C%89%E8%BE%90%E5%B0%84%E5%AD%95%E5%A6%87%E4%B8%8D%E8%83%BD%E5%9D%90%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
