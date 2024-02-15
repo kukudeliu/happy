@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-15 09:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-15 09:37:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [三亚机票](https://s.weibo.com/weibo?q=%E4%B8%89%E4%BA%9A%E6%9C%BA%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
 7. [麻油蒸蛋 荨麻疹](https://s.weibo.com/weibo?q=%E9%BA%BB%E6%B2%B9%E8%92%B8%E8%9B%8B%20%E8%8D%A8%E9%BA%BB%E7%96%B9&t=31&band_rank=7&Refer=top)<br />
 8. [一男子被终身禁入成都熊猫基地](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%94%B7%E5%AD%90%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E5%85%A5%E6%88%90%E9%83%BD%E7%86%8A%E7%8C%AB%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [马思纯发了无修剧照](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%8F%91%E4%BA%86%E6%97%A0%E4%BF%AE%E5%89%A7%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [每天万名游客打卡刘亦菲同款古村落](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E4%B8%87%E5%90%8D%E6%B8%B8%E5%AE%A2%E6%89%93%E5%8D%A1%E5%88%98%E4%BA%A6%E8%8F%B2%E5%90%8C%E6%AC%BE%E5%8F%A4%E6%9D%91%E8%90%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
