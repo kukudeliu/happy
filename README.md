@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-16 22:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-16 22:49:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [各地迎来春运返程高峰](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E8%BF%8E%E6%9D%A5%E6%98%A5%E8%BF%90%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [薛之谦再回应盗摄：文字乃凶器](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%86%8D%E5%9B%9E%E5%BA%94%E7%9B%97%E6%91%84%EF%BC%9A%E6%96%87%E5%AD%97%E4%B9%83%E5%87%B6%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [开兰博基尼回村小伙称去年认亲成功](https://www.baidu.com/s?wd=%E5%BC%80%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E5%9B%9E%E6%9D%91%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%8E%BB%E5%B9%B4%E8%AE%A4%E4%BA%B2%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国游客春节遍布全球1700多城市](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%98%A5%E8%8A%82%E9%81%8D%E5%B8%83%E5%85%A8%E7%90%831700%E5%A4%9A%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子做饭高压锅爆炸 家人反应不一](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%9A%E9%A5%AD%E9%AB%98%E5%8E%8B%E9%94%85%E7%88%86%E7%82%B8+%E5%AE%B6%E4%BA%BA%E5%8F%8D%E5%BA%94%E4%B8%8D%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子做饭高压锅爆炸 家人反应不一](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%9A%E9%A5%AD%E9%AB%98%E5%8E%8B%E9%94%85%E7%88%86%E7%82%B8+%E5%AE%B6%E4%BA%BA%E5%8F%8D%E5%BA%94%E4%B8%8D%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [金与正喊话岸田文雄](https://www.baidu.com/s?wd=%E9%87%91%E4%B8%8E%E6%AD%A3%E5%96%8A%E8%AF%9D%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春节吃太多要多喝茶刮油？](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E5%90%83%E5%A4%AA%E5%A4%9A%E8%A6%81%E5%A4%9A%E5%96%9D%E8%8C%B6%E5%88%AE%E6%B2%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [各地迎来春运返程高峰](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E8%BF%8E%E6%9D%A5%E6%98%A5%E8%BF%90%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [薛之谦再回应盗摄：文字乃凶器](https://www.baidu.com/s?wd=%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%86%8D%E5%9B%9E%E5%BA%94%E7%9B%97%E6%91%84%EF%BC%9A%E6%96%87%E5%AD%97%E4%B9%83%E5%87%B6%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [开兰博基尼回村小伙称去年认亲成功](https://www.baidu.com/s?wd=%E5%BC%80%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E5%9B%9E%E6%9D%91%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%8E%BB%E5%B9%B4%E8%AE%A4%E4%BA%B2%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国游客春节遍布全球1700多城市](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%98%A5%E8%8A%82%E9%81%8D%E5%B8%83%E5%85%A8%E7%90%831700%E5%A4%9A%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子做饭高压锅爆炸 家人反应不一](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%9A%E9%A5%AD%E9%AB%98%E5%8E%8B%E9%94%85%E7%88%86%E7%82%B8+%E5%AE%B6%E4%BA%BA%E5%8F%8D%E5%BA%94%E4%B8%8D%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子做饭高压锅爆炸 家人反应不一](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%9A%E9%A5%AD%E9%AB%98%E5%8E%8B%E9%94%85%E7%88%86%E7%82%B8+%E5%AE%B6%E4%BA%BA%E5%8F%8D%E5%BA%94%E4%B8%8D%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [金与正喊话岸田文雄](https://www.baidu.com/s?wd=%E9%87%91%E4%B8%8E%E6%AD%A3%E5%96%8A%E8%AF%9D%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春节吃太多要多喝茶刮油？](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E5%90%83%E5%A4%AA%E5%A4%9A%E8%A6%81%E5%A4%9A%E5%96%9D%E8%8C%B6%E5%88%AE%E6%B2%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
