@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-16 11:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-16 11:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一宝妈妈产子](https://s.weibo.com/weibo?q=%E4%B8%80%E5%AE%9D%E5%A6%88%E5%A6%88%E4%BA%A7%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [薛之谦 盗摄](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E7%9B%97%E6%91%84&t=31&band_rank=7&Refer=top)<br />
 8. [江西警方通报电影院吵架打人事件](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B5%E5%BD%B1%E9%99%A2%E5%90%B5%E6%9E%B6%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙颖莎1比3穆克吉](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E1%E6%AF%943%E7%A9%86%E5%85%8B%E5%90%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [糖尿病一般不是吃糖吃出来的](https://s.weibo.com/weibo?q=%23%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%80%E8%88%AC%E4%B8%8D%E6%98%AF%E5%90%83%E7%B3%96%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
