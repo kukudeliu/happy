@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-16 10:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-16 10:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [一宝妈妈产子](https://s.weibo.com/weibo?q=%E4%B8%80%E5%AE%9D%E5%A6%88%E5%A6%88%E4%BA%A7%E5%AD%90&t=31&band_rank=5&Refer=top)<br />
 6. [薛之谦 盗摄](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E7%9B%97%E6%91%84&t=31&band_rank=6&Refer=top)<br />
 7. [孙颖莎1比3穆克吉](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E1%E6%AF%943%E7%A9%86%E5%85%8B%E5%90%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [糖尿病一般不是吃糖吃出来的](https://s.weibo.com/weibo?q=%23%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%80%E8%88%AC%E4%B8%8D%E6%98%AF%E5%90%83%E7%B3%96%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [买不到返程车票不能按时上班算旷工吗](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E4%B8%8D%E5%88%B0%E8%BF%94%E7%A8%8B%E8%BD%A6%E7%A5%A8%E4%B8%8D%E8%83%BD%E6%8C%89%E6%97%B6%E4%B8%8A%E7%8F%AD%E7%AE%97%E6%97%B7%E5%B7%A5%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [买不到返程车票不能按时上班算旷工吗](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E4%B8%8D%E5%88%B0%E8%BF%94%E7%A8%8B%E8%BD%A6%E7%A5%A8%E4%B8%8D%E8%83%BD%E6%8C%89%E6%97%B6%E4%B8%8A%E7%8F%AD%E7%AE%97%E6%97%B7%E5%B7%A5%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [糖尿病一般不是吃糖吃出来的](https://s.weibo.com/weibo?q=%23%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%80%E8%88%AC%E4%B8%8D%E6%98%AF%E5%90%83%E7%B3%96%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
