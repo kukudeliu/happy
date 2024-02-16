@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-17 07:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-17 07:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大年初八](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E5%85%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [过年采访我的丁克舅舅](https://s.weibo.com/weibo?q=%E8%BF%87%E5%B9%B4%E9%87%87%E8%AE%BF%E6%88%91%E7%9A%84%E4%B8%81%E5%85%8B%E8%88%85%E8%88%85&t=31&band_rank=7&Refer=top)<br />
 8. [粉丝模仿薛之谦晒盗摄图](https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E6%A8%A1%E4%BB%BF%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%99%92%E7%9B%97%E6%91%84%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [15岁初中生讲述为什么不爱读书](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%E8%AE%B2%E8%BF%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E8%AF%BB%E4%B9%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [红毯先生退出春节档](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%AF%AF%E5%85%88%E7%94%9F%E9%80%80%E5%87%BA%E6%98%A5%E8%8A%82%E6%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
