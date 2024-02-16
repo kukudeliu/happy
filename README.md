@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-16 11:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-16 11:12:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [总书记新春祝福中的年俗](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%96%B0%E6%98%A5%E7%A5%9D%E7%A6%8F%E4%B8%AD%E7%9A%84%E5%B9%B4%E4%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [人财两旺心气顺](https://www.baidu.com/s?wd=%E4%BA%BA%E8%B4%A2%E4%B8%A4%E6%97%BA%E5%BF%83%E6%B0%94%E9%A1%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [这一别不知何时相见了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E5%88%AB%E4%B8%8D%E7%9F%A5%E4%BD%95%E6%97%B6%E7%9B%B8%E8%A7%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [买不到票不能按时上班算旷工吗](https://www.baidu.com/s?wd=%E4%B9%B0%E4%B8%8D%E5%88%B0%E7%A5%A8%E4%B8%8D%E8%83%BD%E6%8C%89%E6%97%B6%E4%B8%8A%E7%8F%AD%E7%AE%97%E6%97%B7%E5%B7%A5%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [过年返程 那些装不下的爱](https://www.baidu.com/s?wd=%E8%BF%87%E5%B9%B4%E8%BF%94%E7%A8%8B+%E9%82%A3%E4%BA%9B%E8%A3%85%E4%B8%8D%E4%B8%8B%E7%9A%84%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [总书记新春祝福中的年俗](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%96%B0%E6%98%A5%E7%A5%9D%E7%A6%8F%E4%B8%AD%E7%9A%84%E5%B9%B4%E4%BF%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [人财两旺心气顺](https://www.baidu.com/s?wd=%E4%BA%BA%E8%B4%A2%E4%B8%A4%E6%97%BA%E5%BF%83%E6%B0%94%E9%A1%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [这一别不知何时相见了](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E5%88%AB%E4%B8%8D%E7%9F%A5%E4%BD%95%E6%97%B6%E7%9B%B8%E8%A7%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [买不到票不能按时上班算旷工吗](https://www.baidu.com/s?wd=%E4%B9%B0%E4%B8%8D%E5%88%B0%E7%A5%A8%E4%B8%8D%E8%83%BD%E6%8C%89%E6%97%B6%E4%B8%8A%E7%8F%AD%E7%AE%97%E6%97%B7%E5%B7%A5%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [过年返程 那些装不下的爱](https://www.baidu.com/s?wd=%E8%BF%87%E5%B9%B4%E8%BF%94%E7%A8%8B+%E9%82%A3%E4%BA%9B%E8%A3%85%E4%B8%8D%E4%B8%8B%E7%9A%84%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
