@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-16 12:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-16 12:53:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘松仁宣布不再拍戏](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9D%BE%E4%BB%81%E5%AE%A3%E5%B8%83%E4%B8%8D%E5%86%8D%E6%8B%8D%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [12306抢票](https://s.weibo.com/weibo?q=%2312306%E6%8A%A2%E7%A5%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [贾玲下个作品马上开机](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E4%B8%8B%E4%B8%AA%E4%BD%9C%E5%93%81%E9%A9%AC%E4%B8%8A%E5%BC%80%E6%9C%BA&t=31&band_rank=8&Refer=top)<br />
-9. [高考数学无耻得分法](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E6%97%A0%E8%80%BB%E5%BE%97%E5%88%86%E6%B3%95&t=31&band_rank=9&Refer=top)<br />
+9. [任子威被撞](https://s.weibo.com/weibo?q=%E4%BB%BB%E5%AD%90%E5%A8%81%E8%A2%AB%E6%92%9E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
