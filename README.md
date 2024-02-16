@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-16 15:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-16 15:04:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [伊能静儿子最新女装照](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E5%84%BF%E5%AD%90%E6%9C%80%E6%96%B0%E5%A5%B3%E8%A3%85%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴京与家人新加坡过春节](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E4%B8%8E%E5%AE%B6%E4%BA%BA%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%BF%87%E6%98%A5%E8%8A%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [李钟硕鼻子](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%92%9F%E7%A1%95%E9%BC%BB%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
-8. [任子威被撞](https://s.weibo.com/weibo?q=%E4%BB%BB%E5%AD%90%E5%A8%81%E8%A2%AB%E6%92%9E&t=31&band_rank=8&Refer=top)<br />
+8. [钟楚曦侯雯元喝同一瓶水](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BE%AF%E9%9B%AF%E5%85%83%E5%96%9D%E5%90%8C%E4%B8%80%E7%93%B6%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [薛之谦回应盗摄](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%9B%9E%E5%BA%94%E7%9B%97%E6%91%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
