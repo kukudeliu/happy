@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-17 12:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-17 12:38:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [傅园慧长白山被勒索求助 当地回应](https://www.baidu.com/s?wd=%E5%82%85%E5%9B%AD%E6%85%A7%E9%95%BF%E7%99%BD%E5%B1%B1%E8%A2%AB%E5%8B%92%E7%B4%A2%E6%B1%82%E5%8A%A9+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小学生寒假作业落在巴黎 被网友带回](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E8%90%BD%E5%9C%A8%E5%B7%B4%E9%BB%8E+%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%B8%A6%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [克宫：普京已知悉纳瓦利内死讯](https://www.baidu.com/s?wd=%E5%85%8B%E5%AE%AB%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%B7%B2%E7%9F%A5%E6%82%89%E7%BA%B3%E7%93%A6%E5%88%A9%E5%86%85%E6%AD%BB%E8%AE%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [傅园慧称问题已解决](https://www.baidu.com/s?wd=%E5%82%85%E5%9B%AD%E6%85%A7%E7%A7%B0%E9%97%AE%E9%A2%98%E5%B7%B2%E8%A7%A3%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江西通报电影院吵架打人事件](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%80%9A%E6%8A%A5%E7%94%B5%E5%BD%B1%E9%99%A2%E5%90%B5%E6%9E%B6%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [水果越酸维C含量越高？别信](https://www.baidu.com/s?wd=%E6%B0%B4%E6%9E%9C%E8%B6%8A%E9%85%B8%E7%BB%B4C%E5%90%AB%E9%87%8F%E8%B6%8A%E9%AB%98%EF%BC%9F%E5%88%AB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [傅园慧长白山被勒索求助 当地回应](https://www.baidu.com/s?wd=%E5%82%85%E5%9B%AD%E6%85%A7%E9%95%BF%E7%99%BD%E5%B1%B1%E8%A2%AB%E5%8B%92%E7%B4%A2%E6%B1%82%E5%8A%A9+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小学生寒假作业落在巴黎 被网友带回](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E8%90%BD%E5%9C%A8%E5%B7%B4%E9%BB%8E+%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%B8%A6%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [克宫：普京已知悉纳瓦利内死讯](https://www.baidu.com/s?wd=%E5%85%8B%E5%AE%AB%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%B7%B2%E7%9F%A5%E6%82%89%E7%BA%B3%E7%93%A6%E5%88%A9%E5%86%85%E6%AD%BB%E8%AE%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [傅园慧称问题已解决](https://www.baidu.com/s?wd=%E5%82%85%E5%9B%AD%E6%85%A7%E7%A7%B0%E9%97%AE%E9%A2%98%E5%B7%B2%E8%A7%A3%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江西通报电影院吵架打人事件](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%80%9A%E6%8A%A5%E7%94%B5%E5%BD%B1%E9%99%A2%E5%90%B5%E6%9E%B6%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [水果越酸维C含量越高？别信](https://www.baidu.com/s?wd=%E6%B0%B4%E6%9E%9C%E8%B6%8A%E9%85%B8%E7%BB%B4C%E5%90%AB%E9%87%8F%E8%B6%8A%E9%AB%98%EF%BC%9F%E5%88%AB%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
