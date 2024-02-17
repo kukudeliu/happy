@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 06:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 06:55:01</h4></div>
 
 > 微博  
 
-1. [专家谈胖东来开除当事员工](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%B0%88%E8%83%96%E4%B8%9C%E6%9D%A5%E5%BC%80%E9%99%A4%E5%BD%93%E4%BA%8B%E5%91%98%E5%B7%A5%23&t=31&band_rank=1&Refer=top)<br />
-2. [对傅园慧加价黑车司机被罚3万元](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%82%85%E5%9B%AD%E6%85%A7%E5%8A%A0%E4%BB%B7%E9%BB%91%E8%BD%A6%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%BD%9A3%E4%B8%87%E5%85%83%23&t=31&band_rank=2&Refer=top)<br />
+1. [对傅园慧加价黑车司机被罚3万元](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%82%85%E5%9B%AD%E6%85%A7%E5%8A%A0%E4%BB%B7%E9%BB%91%E8%BD%A6%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%BD%9A3%E4%B8%87%E5%85%83%23&t=31&band_rank=1&Refer=top)<br />
+2. [专家谈胖东来开除当事员工](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%B0%88%E8%83%96%E4%B8%9C%E6%9D%A5%E5%BC%80%E9%99%A4%E5%BD%93%E4%BA%8B%E5%91%98%E5%B7%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [感受祖国各地的新春新事](https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8F%97%E7%A5%96%E5%9B%BD%E5%90%84%E5%9C%B0%E7%9A%84%E6%96%B0%E6%98%A5%E6%96%B0%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [何老师给白敬亭擦脸](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%80%81%E5%B8%88%E7%BB%99%E7%99%BD%E6%95%AC%E4%BA%AD%E6%93%A6%E8%84%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子输错导航被丈夫怒抛高速](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BE%93%E9%94%99%E5%AF%BC%E8%88%AA%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%80%92%E6%8A%9B%E9%AB%98%E9%80%9F%23&t=31&band_rank=5&Refer=top)<br />
