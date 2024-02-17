@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 07:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 07:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子输错导航被丈夫怒抛高速](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BE%93%E9%94%99%E5%AF%BC%E8%88%AA%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%80%92%E6%8A%9B%E9%AB%98%E9%80%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [对台方无视大陆渔民生命安全决不容忍](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%8F%B0%E6%96%B9%E6%97%A0%E8%A7%86%E5%A4%A7%E9%99%86%E6%B8%94%E6%B0%91%E7%94%9F%E5%91%BD%E5%AE%89%E5%85%A8%E5%86%B3%E4%B8%8D%E5%AE%B9%E5%BF%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [张艺谋让高叶多拍好戏](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AE%A9%E9%AB%98%E5%8F%B6%E5%A4%9A%E6%8B%8D%E5%A5%BD%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [王心凌发长文告别声生不息](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E5%8F%91%E9%95%BF%E6%96%87%E5%91%8A%E5%88%AB%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [龙年开工第一天](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E5%BC%80%E5%B7%A5%E7%AC%AC%E4%B8%80%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
