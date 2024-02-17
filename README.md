@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 05:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 05:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [乙骨忧太也被腰斩](https://s.weibo.com/weibo?q=%E4%B9%99%E9%AA%A8%E5%BF%A7%E5%A4%AA%E4%B9%9F%E8%A2%AB%E8%85%B0%E6%96%A9&t=31&band_rank=6&Refer=top)<br />
 7. [优质朋友圈背景图](https://s.weibo.com/weibo?q=%23%E4%BC%98%E8%B4%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%83%8C%E6%99%AF%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [张艺谋让高叶多拍好戏](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AE%A9%E9%AB%98%E5%8F%B6%E5%A4%9A%E6%8B%8D%E5%A5%BD%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子输错导航被丈夫怒抛高速](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BE%93%E9%94%99%E5%AF%BC%E8%88%AA%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%80%92%E6%8A%9B%E9%AB%98%E9%80%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [王心凌发长文告别声生不息](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E5%8F%91%E9%95%BF%E6%96%87%E5%91%8A%E5%88%AB%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
