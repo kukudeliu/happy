@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 05:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 05:22:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [对傅园慧加价黑车司机被罚3万元](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%82%85%E5%9B%AD%E6%85%A7%E5%8A%A0%E4%BB%B7%E9%BB%91%E8%BD%A6%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%BD%9A3%E4%B8%87%E5%85%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [感受祖国各地的新春新事](https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8F%97%E7%A5%96%E5%9B%BD%E5%90%84%E5%9C%B0%E7%9A%84%E6%96%B0%E6%98%A5%E6%96%B0%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [贾玲大波浪](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%A4%A7%E6%B3%A2%E6%B5%AA%23&t=31&band_rank=4&Refer=top)<br />
-5. [乙骨忧太也被腰斩](https://s.weibo.com/weibo?q=%E4%B9%99%E9%AA%A8%E5%BF%A7%E5%A4%AA%E4%B9%9F%E8%A2%AB%E8%85%B0%E6%96%A9&t=31&band_rank=5&Refer=top)<br />
-6. [iPad的生产力远比你想象的要大](https://s.weibo.com/weibo?q=iPad%E7%9A%84%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%BF%9C%E6%AF%94%E4%BD%A0%E6%83%B3%E8%B1%A1%E7%9A%84%E8%A6%81%E5%A4%A7&t=31&band_rank=6&Refer=top)<br />
+5. [iPad的生产力远比你想象的要大](https://s.weibo.com/weibo?q=iPad%E7%9A%84%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%BF%9C%E6%AF%94%E4%BD%A0%E6%83%B3%E8%B1%A1%E7%9A%84%E8%A6%81%E5%A4%A7&t=31&band_rank=5&Refer=top)<br />
+6. [乙骨忧太也被腰斩](https://s.weibo.com/weibo?q=%E4%B9%99%E9%AA%A8%E5%BF%A7%E5%A4%AA%E4%B9%9F%E8%A2%AB%E8%85%B0%E6%96%A9&t=31&band_rank=6&Refer=top)<br />
 7. [优质朋友圈背景图](https://s.weibo.com/weibo?q=%23%E4%BC%98%E8%B4%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%83%8C%E6%99%AF%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [张艺谋让高叶多拍好戏](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AE%A9%E9%AB%98%E5%8F%B6%E5%A4%9A%E6%8B%8D%E5%A5%BD%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
 9. [女子输错导航被丈夫怒抛高速](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BE%93%E9%94%99%E5%AF%BC%E8%88%AA%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%80%92%E6%8A%9B%E9%AB%98%E9%80%9F%23&t=31&band_rank=9&Refer=top)<br />
