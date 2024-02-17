@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-17 22:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-17 22:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [优质朋友圈背景图](https://s.weibo.com/weibo?q=%23%E4%BC%98%E8%B4%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%83%8C%E6%99%AF%E5%9B%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子输错导航被丈夫怒抛高速](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BE%93%E9%94%99%E5%AF%BC%E8%88%AA%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%80%92%E6%8A%9B%E9%AB%98%E9%80%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [乙骨忧太也被腰斩](https://s.weibo.com/weibo?q=%E4%B9%99%E9%AA%A8%E5%BF%A7%E5%A4%AA%E4%B9%9F%E8%A2%AB%E8%85%B0%E6%96%A9&t=31&band_rank=8&Refer=top)<br />
-9. [海南离岛严重拥堵有人排14小时上船](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E7%A6%BB%E5%B2%9B%E4%B8%A5%E9%87%8D%E6%8B%A5%E5%A0%B5%E6%9C%89%E4%BA%BA%E6%8E%9214%E5%B0%8F%E6%97%B6%E4%B8%8A%E8%88%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴最美的石榴花特效](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9C%80%E7%BE%8E%E7%9A%84%E7%9F%B3%E6%A6%B4%E8%8A%B1%E7%89%B9%E6%95%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
