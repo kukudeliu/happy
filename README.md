@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 07:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 07:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贾玲大波浪](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%A4%A7%E6%B3%A2%E6%B5%AA%23&t=31&band_rank=6&Refer=top)<br />
 7. [张艺谋让高叶多拍好戏](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AE%A9%E9%AB%98%E5%8F%B6%E5%A4%9A%E6%8B%8D%E5%A5%BD%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [王心凌发长文告别声生不息](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E5%8F%91%E9%95%BF%E6%96%87%E5%91%8A%E5%88%AB%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [龙年开工第一天](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E5%BC%80%E5%B7%A5%E7%AC%AC%E4%B8%80%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [卜凡的卜原来是卜卦的卜](https://s.weibo.com/weibo?q=%23%E5%8D%9C%E5%87%A1%E7%9A%84%E5%8D%9C%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%8D%9C%E5%8D%A6%E7%9A%84%E5%8D%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
