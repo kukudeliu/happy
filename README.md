@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-17 11:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-17 11:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [毕志飞想请薛之谦出演电影屏摄](https://s.weibo.com/weibo?q=%E6%AF%95%E5%BF%97%E9%A3%9E%E6%83%B3%E8%AF%B7%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%87%BA%E6%BC%94%E7%94%B5%E5%BD%B1%E5%B1%8F%E6%91%84&t=31&band_rank=6&Refer=top)<br />
 7. [你好星期六全员晒最后一天假期计划](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E5%85%A8%E5%91%98%E6%99%92%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E5%81%87%E6%9C%9F%E8%AE%A1%E5%88%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [红毯先生退出春节档](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%AF%AF%E5%85%88%E7%94%9F%E9%80%80%E5%87%BA%E6%98%A5%E8%8A%82%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战龙年开工照](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%BE%99%E5%B9%B4%E5%BC%80%E5%B7%A5%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [胖东来未按标准试吃员工被开除](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E6%9C%AA%E6%8C%89%E6%A0%87%E5%87%86%E8%AF%95%E5%90%83%E5%91%98%E5%B7%A5%E8%A2%AB%E5%BC%80%E9%99%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
