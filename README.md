@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-17 14:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-17 14:05:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [嘴唇起泡是病毒感染](https://s.weibo.com/weibo?q=%E5%98%B4%E5%94%87%E8%B5%B7%E6%B3%A1%E6%98%AF%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93&t=31&band_rank=6&Refer=top)<br />
 7. [iPhone16或垂直排列摄像头](https://s.weibo.com/weibo?q=%23iPhone16%E6%88%96%E5%9E%82%E7%9B%B4%E6%8E%92%E5%88%97%E6%91%84%E5%83%8F%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [春节档还剩四部电影在映](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%E8%BF%98%E5%89%A9%E5%9B%9B%E9%83%A8%E7%94%B5%E5%BD%B1%E5%9C%A8%E6%98%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [宋亚轩第一次一个人领奖](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%A2%86%E5%A5%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [公式化的朋友圈](https://s.weibo.com/weibo?q=%E5%85%AC%E5%BC%8F%E5%8C%96%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
