@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-17 12:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-17 12:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张艺兴女团正面照](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%A5%B3%E5%9B%A2%E6%AD%A3%E9%9D%A2%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [吉林文旅](https://s.weibo.com/weibo?q=%E5%90%89%E6%9E%97%E6%96%87%E6%97%85&t=31&band_rank=7&Refer=top)<br />
 8. [日本男子被同事推入15米深山谷](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%A2%AB%E5%90%8C%E4%BA%8B%E6%8E%A8%E5%85%A515%E7%B1%B3%E6%B7%B1%E5%B1%B1%E8%B0%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [炎亚纶花150万元解除出境限制](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%8A%B1150%E4%B8%87%E5%85%83%E8%A7%A3%E9%99%A4%E5%87%BA%E5%A2%83%E9%99%90%E5%88%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [种地吧](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
