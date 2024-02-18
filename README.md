@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 10:24:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 10:25:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [摔跤吧爸爸小芭比塔演员去世](https://s.weibo.com/weibo?q=%23%E6%91%94%E8%B7%A4%E5%90%A7%E7%88%B8%E7%88%B8%E5%B0%8F%E8%8A%AD%E6%AF%94%E5%A1%94%E6%BC%94%E5%91%98%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [贾玲大波浪](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%A4%A7%E6%B3%A2%E6%B5%AA%23&t=31&band_rank=5&Refer=top)<br />
 6. [薛之谦演唱会迟到](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BF%9F%E5%88%B0&t=31&band_rank=6&Refer=top)<br />
-7. [苹果可折叠iPhone开发暂停](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%AF%E6%8A%98%E5%8F%A0iPhone%E5%BC%80%E5%8F%91%E6%9A%82%E5%81%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=8&Refer=top)<br />
+7. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=7&Refer=top)<br />
+8. [苹果可折叠iPhone开发暂停](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%AF%E6%8A%98%E5%8F%A0iPhone%E5%BC%80%E5%8F%91%E6%9A%82%E5%81%9C%23&t=31&band_rank=8&Refer=top)<br />
 9. [周杰伦感谢霉霉给的演唱会门票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%84%9F%E8%B0%A2%E9%9C%89%E9%9C%89%E7%BB%99%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
