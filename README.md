@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 19:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 19:23:01</h4></div>
 
 > 微博  
 
-1. [高合](https://s.weibo.com/weibo?q=%E9%AB%98%E5%90%88&t=31&band_rank=1&Refer=top)<br />
-2. [乐莹抽烟](https://s.weibo.com/weibo?q=%E4%B9%90%E8%8E%B9%E6%8A%BD%E7%83%9F&t=31&band_rank=2&Refer=top)<br />
+1. [乐莹抽烟](https://s.weibo.com/weibo?q=%E4%B9%90%E8%8E%B9%E6%8A%BD%E7%83%9F&t=31&band_rank=1&Refer=top)<br />
+2. [高合](https://s.weibo.com/weibo?q=%E9%AB%98%E5%90%88&t=31&band_rank=2&Refer=top)<br />
 3. [开年第一弹智造业强省](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%BC%B9%E6%99%BA%E9%80%A0%E4%B8%9A%E5%BC%BA%E7%9C%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [特朗普卖鞋](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [咒术回战全员死亡](https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E5%85%A8%E5%91%98%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
