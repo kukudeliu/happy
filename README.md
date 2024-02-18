@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 17:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [高伟光梁靖康 哑舍](https://s.weibo.com/weibo?q=%E9%AB%98%E4%BC%9F%E5%85%89%E6%A2%81%E9%9D%96%E5%BA%B7%20%E5%93%91%E8%88%8D&t=31&band_rank=5&Refer=top)<br />
 6. [贾玲仪态](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%BB%AA%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [丢寒假作业的秦朗家人回应](https://s.weibo.com/weibo?q=%23%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E7%9A%84%E7%A7%A6%E6%9C%97%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [开工首日iPhone15降至4588元](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B7%A5%E9%A6%96%E6%97%A5iPhone15%E9%99%8D%E8%87%B34588%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [薛之谦 你们人类有两幅面孔](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E4%BD%A0%E4%BB%AC%E4%BA%BA%E7%B1%BB%E6%9C%89%E4%B8%A4%E5%B9%85%E9%9D%A2%E5%AD%94&t=31&band_rank=9&Refer=top)<br />
+8. [特朗普卖鞋](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [开工首日iPhone15降至4588元](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B7%A5%E9%A6%96%E6%97%A5iPhone15%E9%99%8D%E8%87%B34588%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
