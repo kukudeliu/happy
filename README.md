@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 18:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 18:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [江苏一工厂爆炸致3死2失联](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%E8%87%B43%E6%AD%BB2%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子套大鹅精准打击 收获满满](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A5%97%E5%A4%A7%E9%B9%85%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB+%E6%94%B6%E8%8E%B7%E6%BB%A1%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李雪琴P图贾玲都等瘦了](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4P%E5%9B%BE%E8%B4%BE%E7%8E%B2%E9%83%BD%E7%AD%89%E7%98%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [开工第1天西安人均野生兵马俑](https://www.baidu.com/s?wd=%E5%BC%80%E5%B7%A5%E7%AC%AC1%E5%A4%A9%E8%A5%BF%E5%AE%89%E4%BA%BA%E5%9D%87%E9%87%8E%E7%94%9F%E5%85%B5%E9%A9%AC%E4%BF%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子酒驾逃逸拉交警投湖被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E9%80%83%E9%80%B8%E6%8B%89%E4%BA%A4%E8%AD%A6%E6%8A%95%E6%B9%96%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛警方辟谣捡钱包信息](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%8D%A1%E9%92%B1%E5%8C%85%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [江苏一工厂爆炸致3死2失联](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%E8%87%B43%E6%AD%BB2%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子套大鹅精准打击 收获满满](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A5%97%E5%A4%A7%E9%B9%85%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB+%E6%94%B6%E8%8E%B7%E6%BB%A1%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李雪琴P图贾玲都等瘦了](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4P%E5%9B%BE%E8%B4%BE%E7%8E%B2%E9%83%BD%E7%AD%89%E7%98%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [开工第1天西安人均野生兵马俑](https://www.baidu.com/s?wd=%E5%BC%80%E5%B7%A5%E7%AC%AC1%E5%A4%A9%E8%A5%BF%E5%AE%89%E4%BA%BA%E5%9D%87%E9%87%8E%E7%94%9F%E5%85%B5%E9%A9%AC%E4%BF%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子酒驾逃逸拉交警投湖被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E9%80%83%E9%80%B8%E6%8B%89%E4%BA%A4%E8%AD%A6%E6%8A%95%E6%B9%96%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛警方辟谣捡钱包信息](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%8D%A1%E9%92%B1%E5%8C%85%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
