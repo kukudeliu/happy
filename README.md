@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:54:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [开心消消乐崩了](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E5%B4%A9%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [瑞幸9.9元一杯活动缩水](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B89.9%E5%85%83%E4%B8%80%E6%9D%AF%E6%B4%BB%E5%8A%A8%E7%BC%A9%E6%B0%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [马思纯减肥Vlog](https://s.weibo.com/weibo?q=%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%87%8F%E8%82%A5Vlog&t=31&band_rank=7&Refer=top)<br />
-8. [人民网评飞驰人生2](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F2%23&t=31&band_rank=8&Refer=top)<br />
-9. [林孝埈摔出赛道没有回放](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E6%91%94%E5%87%BA%E8%B5%9B%E9%81%93%E6%B2%A1%E6%9C%89%E5%9B%9E%E6%94%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [前女友控诉卜凡家暴](https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%8E%A7%E8%AF%89%E5%8D%9C%E5%87%A1%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [人民网评飞驰人生2](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [中国经济新春面面观](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%98%A5%E9%9D%A2%E9%9D%A2%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [学校否认秦朗巴黎丢寒假作业](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%90%A6%E8%AE%A4%E7%A7%A6%E6%9C%97%E5%B7%B4%E9%BB%8E%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知名景区大量游客就餐后上吐下泻](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%87%8F%E6%B8%B8%E5%AE%A2%E5%B0%B1%E9%A4%90%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子高速遭陌生男子爬车顶抢方向盘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%80%9F%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E7%88%AC%E8%BD%A6%E9%A1%B6%E6%8A%A2%E6%96%B9%E5%90%91%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐冬冬尹子维官宣订婚](https://www.baidu.com/s?wd=%23%E5%BE%90%E5%86%AC%E5%86%AC%E5%B0%B9%E5%AD%90%E7%BB%B4%E5%AE%98%E5%AE%A3%E8%AE%A2%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [研究称2024年可能会更热](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%A7%B02024%E5%B9%B4%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%9B%B4%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胖瘦版两个贾玲对唱](https://www.baidu.com/s?wd=%E8%83%96%E7%98%A6%E7%89%88%E4%B8%A4%E4%B8%AA%E8%B4%BE%E7%8E%B2%E5%AF%B9%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国经济新春面面观](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%98%A5%E9%9D%A2%E9%9D%A2%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [学校否认秦朗巴黎丢寒假作业](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%90%A6%E8%AE%A4%E7%A7%A6%E6%9C%97%E5%B7%B4%E9%BB%8E%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知名景区大量游客就餐后上吐下泻](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%87%8F%E6%B8%B8%E5%AE%A2%E5%B0%B1%E9%A4%90%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子高速遭陌生男子爬车顶抢方向盘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%80%9F%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E7%88%AC%E8%BD%A6%E9%A1%B6%E6%8A%A2%E6%96%B9%E5%90%91%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐冬冬尹子维官宣订婚](https://www.baidu.com/s?wd=%23%E5%BE%90%E5%86%AC%E5%86%AC%E5%B0%B9%E5%AD%90%E7%BB%B4%E5%AE%98%E5%AE%A3%E8%AE%A2%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [研究称2024年可能会更热](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%A7%B02024%E5%B9%B4%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%9B%B4%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胖瘦版两个贾玲对唱](https://www.baidu.com/s?wd=%E8%83%96%E7%98%A6%E7%89%88%E4%B8%A4%E4%B8%AA%E8%B4%BE%E7%8E%B2%E5%AF%B9%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
