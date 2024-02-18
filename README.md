@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 22:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 22:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [飞驰2破25亿全员呼应上了](https://s.weibo.com/weibo?q=%E9%A3%9E%E9%A9%B02%E7%A0%B425%E4%BA%BF%E5%85%A8%E5%91%98%E5%91%BC%E5%BA%94%E4%B8%8A%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [制片人说赵今麦五页纸不卡词](https://s.weibo.com/weibo?q=%E5%88%B6%E7%89%87%E4%BA%BA%E8%AF%B4%E8%B5%B5%E4%BB%8A%E9%BA%A6%E4%BA%94%E9%A1%B5%E7%BA%B8%E4%B8%8D%E5%8D%A1%E8%AF%8D&t=31&band_rank=7&Refer=top)<br />
 8. [当97岁奶奶没戴假牙吃草莓](https://s.weibo.com/weibo?q=%23%E5%BD%9397%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%B2%A1%E6%88%B4%E5%81%87%E7%89%99%E5%90%83%E8%8D%89%E8%8E%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [第一拨靠Sora赚钱的人已经出现了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%8B%A8%E9%9D%A0Sora%E8%B5%9A%E9%92%B1%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [前女友控诉卜凡家暴](https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%8E%A7%E8%AF%89%E5%8D%9C%E5%87%A1%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
