@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 23:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 23:15:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [-52.3℃！新疆最低温破历史极值](https://www.baidu.com/s?wd=-52.3%E2%84%83%EF%BC%81%E6%96%B0%E7%96%86%E6%9C%80%E4%BD%8E%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [当97岁奶奶没戴假牙吃草莓](https://www.baidu.com/s?wd=%E5%BD%9397%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%B2%A1%E6%88%B4%E5%81%87%E7%89%99%E5%90%83%E8%8D%89%E8%8E%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [知名景区大量游客就餐后上吐下泻](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%87%8F%E6%B8%B8%E5%AE%A2%E5%B0%B1%E9%A4%90%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰外长接受采访时抽起了雪茄](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%96%E9%95%BF%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF%E6%97%B6%E6%8A%BD%E8%B5%B7%E4%BA%86%E9%9B%AA%E8%8C%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子带母亲试穿羊毛衫后未买遭嘲讽](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A6%E6%AF%8D%E4%BA%B2%E8%AF%95%E7%A9%BF%E7%BE%8A%E6%AF%9B%E8%A1%AB%E5%90%8E%E6%9C%AA%E4%B9%B0%E9%81%AD%E5%98%B2%E8%AE%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [-52.3℃！新疆最低温破历史极值](https://www.baidu.com/s?wd=-52.3%E2%84%83%EF%BC%81%E6%96%B0%E7%96%86%E6%9C%80%E4%BD%8E%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [当97岁奶奶没戴假牙吃草莓](https://www.baidu.com/s?wd=%E5%BD%9397%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%B2%A1%E6%88%B4%E5%81%87%E7%89%99%E5%90%83%E8%8D%89%E8%8E%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [知名景区大量游客就餐后上吐下泻](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%87%8F%E6%B8%B8%E5%AE%A2%E5%B0%B1%E9%A4%90%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌克兰外长接受采访时抽起了雪茄](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%96%E9%95%BF%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF%E6%97%B6%E6%8A%BD%E8%B5%B7%E4%BA%86%E9%9B%AA%E8%8C%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子带母亲试穿羊毛衫后未买遭嘲讽](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A6%E6%AF%8D%E4%BA%B2%E8%AF%95%E7%A9%BF%E7%BE%8A%E6%AF%9B%E8%A1%AB%E5%90%8E%E6%9C%AA%E4%B9%B0%E9%81%AD%E5%98%B2%E8%AE%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
