@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 23:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 23:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [-52.3℃！新疆最低温破历史极值](https://www.baidu.com/s?wd=-52.3%E2%84%83%EF%BC%81%E6%96%B0%E7%96%86%E6%9C%80%E4%BD%8E%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子吃席发现村里开始上预制菜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E5%B8%AD%E5%8F%91%E7%8E%B0%E6%9D%91%E9%87%8C%E5%BC%80%E5%A7%8B%E4%B8%8A%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [当97岁奶奶没戴假牙吃草莓](https://www.baidu.com/s?wd=%E5%BD%9397%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%B2%A1%E6%88%B4%E5%81%87%E7%89%99%E5%90%83%E8%8D%89%E8%8E%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [海南游客“八仙过海”曲线回家](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E6%B8%B8%E5%AE%A2%E2%80%9C%E5%85%AB%E4%BB%99%E8%BF%87%E6%B5%B7%E2%80%9D%E6%9B%B2%E7%BA%BF%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阿米尔·汗发文悼念“小芭比塔”](https://www.baidu.com/s?wd=%E9%98%BF%E7%B1%B3%E5%B0%94%C2%B7%E6%B1%97%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E2%80%9C%E5%B0%8F%E8%8A%AD%E6%AF%94%E5%A1%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [-52.3℃！新疆最低温破历史极值](https://www.baidu.com/s?wd=-52.3%E2%84%83%EF%BC%81%E6%96%B0%E7%96%86%E6%9C%80%E4%BD%8E%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子吃席发现村里开始上预制菜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E5%B8%AD%E5%8F%91%E7%8E%B0%E6%9D%91%E9%87%8C%E5%BC%80%E5%A7%8B%E4%B8%8A%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [当97岁奶奶没戴假牙吃草莓](https://www.baidu.com/s?wd=%E5%BD%9397%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%B2%A1%E6%88%B4%E5%81%87%E7%89%99%E5%90%83%E8%8D%89%E8%8E%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [海南游客“八仙过海”曲线回家](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E6%B8%B8%E5%AE%A2%E2%80%9C%E5%85%AB%E4%BB%99%E8%BF%87%E6%B5%B7%E2%80%9D%E6%9B%B2%E7%BA%BF%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [阿米尔·汗发文悼念“小芭比塔”](https://www.baidu.com/s?wd=%E9%98%BF%E7%B1%B3%E5%B0%94%C2%B7%E6%B1%97%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E2%80%9C%E5%B0%8F%E8%8A%AD%E6%AF%94%E5%A1%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
