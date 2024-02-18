@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 16:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 16:30:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [薛之谦 你们人类有两幅面孔](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E4%BD%A0%E4%BB%AC%E4%BA%BA%E7%B1%BB%E6%9C%89%E4%B8%A4%E5%B9%85%E9%9D%A2%E5%AD%94&t=31&band_rank=5&Refer=top)<br />
 6. [马丽测评了14条光腿神器](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E6%B5%8B%E8%AF%84%E4%BA%8614%E6%9D%A1%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [内娱大冰](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%A4%A7%E5%86%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [谷爱凌夺冠后要去做作业](https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%BA%E5%86%A0%E5%90%8E%E8%A6%81%E5%8E%BB%E5%81%9A%E4%BD%9C%E4%B8%9A&t=31&band_rank=8&Refer=top)<br />
-9. [两个贾玲对唱](https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AA%E8%B4%BE%E7%8E%B2%E5%AF%B9%E5%94%B1&t=31&band_rank=9&Refer=top)<br />
+8. [考研成绩倒计时](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E5%80%92%E8%AE%A1%E6%97%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [谷爱凌夺冠后要去做作业](https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%BA%E5%86%A0%E5%90%8E%E8%A6%81%E5%8E%BB%E5%81%9A%E4%BD%9C%E4%B8%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
