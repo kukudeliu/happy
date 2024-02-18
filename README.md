@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 09:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 09:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周杰伦感谢霉霉给的演唱会门票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%84%9F%E8%B0%A2%E9%9C%89%E9%9C%89%E7%BB%99%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
 7. [赵丽颖巴黎逛街](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%B4%E9%BB%8E%E9%80%9B%E8%A1%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [今年还有4次调休](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E8%BF%98%E6%9C%894%E6%AC%A1%E8%B0%83%E4%BC%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [一张照片宣布开工](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E7%85%A7%E7%89%87%E5%AE%A3%E5%B8%83%E5%BC%80%E5%B7%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [俄军已完全控制阿夫杰耶夫卡](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%86%9B%E5%B7%B2%E5%AE%8C%E5%85%A8%E6%8E%A7%E5%88%B6%E9%98%BF%E5%A4%AB%E6%9D%B0%E8%80%B6%E5%A4%AB%E5%8D%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
