@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 22:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 22:35:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [为什么卫生巾广告用蓝色液体](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%B9%BF%E5%91%8A%E7%94%A8%E8%93%9D%E8%89%B2%E6%B6%B2%E4%BD%93&t=31&band_rank=5&Refer=top)<br />
 6. [飞驰2破25亿全员呼应上了](https://s.weibo.com/weibo?q=%E9%A3%9E%E9%A9%B02%E7%A0%B425%E4%BA%BF%E5%85%A8%E5%91%98%E5%91%BC%E5%BA%94%E4%B8%8A%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [游客与傅园慧经历相似却维权失败](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E4%B8%8E%E5%82%85%E5%9B%AD%E6%85%A7%E7%BB%8F%E5%8E%86%E7%9B%B8%E4%BC%BC%E5%8D%B4%E7%BB%B4%E6%9D%83%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [制片人说赵今麦五页纸不卡词](https://s.weibo.com/weibo?q=%E5%88%B6%E7%89%87%E4%BA%BA%E8%AF%B4%E8%B5%B5%E4%BB%8A%E9%BA%A6%E4%BA%94%E9%A1%B5%E7%BA%B8%E4%B8%8D%E5%8D%A1%E8%AF%8D&t=31&band_rank=8&Refer=top)<br />
-9. [前女友控诉卜凡家暴](https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%8E%A7%E8%AF%89%E5%8D%9C%E5%87%A1%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=9&Refer=top)<br />
+8. [前女友控诉卜凡家暴](https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%8E%A7%E8%AF%89%E5%8D%9C%E5%87%A1%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [制片人说赵今麦五页纸不卡词](https://s.weibo.com/weibo?q=%E5%88%B6%E7%89%87%E4%BA%BA%E8%AF%B4%E8%B5%B5%E4%BB%8A%E9%BA%A6%E4%BA%94%E9%A1%B5%E7%BA%B8%E4%B8%8D%E5%8D%A1%E8%AF%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
