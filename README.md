@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 16:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 16:49:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [贾玲仪态](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%BB%AA%E6%80%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [薛之谦 你们人类有两幅面孔](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E4%BD%A0%E4%BB%AC%E4%BA%BA%E7%B1%BB%E6%9C%89%E4%B8%A4%E5%B9%85%E9%9D%A2%E5%AD%94&t=31&band_rank=5&Refer=top)<br />
 6. [林孝埈1000米小组第一](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%881000%E7%B1%B3%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [高三班主任被曝办公室强吻女学生](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%A2%AB%E6%9B%9D%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%BC%BA%E5%90%BB%E5%A5%B3%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [马丽测评了14条光腿神器](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E6%B5%8B%E8%AF%84%E4%BA%8614%E6%9D%A1%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [考研成绩倒计时](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E5%80%92%E8%AE%A1%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
+7. [马丽测评了14条光腿神器](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E6%B5%8B%E8%AF%84%E4%BA%8614%E6%9D%A1%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%23&t=31&band_rank=7&Refer=top)<br />
+8. [考研成绩倒计时](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E5%80%92%E8%AE%A1%E6%97%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [高三班主任被曝办公室强吻女学生](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%A2%AB%E6%9B%9D%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%BC%BA%E5%90%BB%E5%A5%B3%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [江苏一工厂爆炸致3死2失联](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%E8%87%B43%E6%AD%BB2%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [徐冬冬尹子维官宣订婚](https://www.baidu.com/s?wd=%23%E5%BE%90%E5%86%AC%E5%86%AC%E5%B0%B9%E5%AD%90%E7%BB%B4%E5%AE%98%E5%AE%A3%E8%AE%A2%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河南发生重大刑案 警方悬赏5万元](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88+%E8%AD%A6%E6%96%B9%E6%82%AC%E8%B5%8F5%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [演员李勤勤收养周海媚爱犬](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E6%9D%8E%E5%8B%A4%E5%8B%A4%E6%94%B6%E5%85%BB%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%88%B1%E7%8A%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [丢寒假作业的秦朗家人回应](https://www.baidu.com/s?wd=%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E7%9A%84%E7%A7%A6%E6%9C%97%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [海鲜与维生素C不能同吃？](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B2%9C%E4%B8%8E%E7%BB%B4%E7%94%9F%E7%B4%A0C%E4%B8%8D%E8%83%BD%E5%90%8C%E5%90%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [江苏一工厂爆炸致3死2失联](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%E8%87%B43%E6%AD%BB2%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [徐冬冬尹子维官宣订婚](https://www.baidu.com/s?wd=%23%E5%BE%90%E5%86%AC%E5%86%AC%E5%B0%B9%E5%AD%90%E7%BB%B4%E5%AE%98%E5%AE%A3%E8%AE%A2%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河南发生重大刑案 警方悬赏5万元](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88+%E8%AD%A6%E6%96%B9%E6%82%AC%E8%B5%8F5%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [演员李勤勤收养周海媚爱犬](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E6%9D%8E%E5%8B%A4%E5%8B%A4%E6%94%B6%E5%85%BB%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%88%B1%E7%8A%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [丢寒假作业的秦朗家人回应](https://www.baidu.com/s?wd=%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E7%9A%84%E7%A7%A6%E6%9C%97%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [海鲜与维生素C不能同吃？](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B2%9C%E4%B8%8E%E7%BB%B4%E7%94%9F%E7%B4%A0C%E4%B8%8D%E8%83%BD%E5%90%8C%E5%90%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
