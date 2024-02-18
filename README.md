@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 11:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 11:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [专家说上班第一天少干活儿](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%AF%B4%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%B0%91%E5%B9%B2%E6%B4%BB%E5%84%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [摔跤吧爸爸小芭比塔演员去世](https://s.weibo.com/weibo?q=%23%E6%91%94%E8%B7%A4%E5%90%A7%E7%88%B8%E7%88%B8%E5%B0%8F%E8%8A%AD%E6%AF%94%E5%A1%94%E6%BC%94%E5%91%98%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [今天正式退出春节档](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E6%98%A5%E8%8A%82%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [一切都来得及 记得爱自己](https://s.weibo.com/weibo?q=%E4%B8%80%E5%88%87%E9%83%BD%E6%9D%A5%E5%BE%97%E5%8F%8A%20%E8%AE%B0%E5%BE%97%E7%88%B1%E8%87%AA%E5%B7%B1&t=31&band_rank=9&Refer=top)<br />
+9. [甘肃超2万名旅客滞留](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E8%B6%852%E4%B8%87%E5%90%8D%E6%97%85%E5%AE%A2%E6%BB%9E%E7%95%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
