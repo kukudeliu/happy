@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 08:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 08:45:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周杰伦感谢霉霉给的演唱会门票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%84%9F%E8%B0%A2%E9%9C%89%E9%9C%89%E7%BB%99%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
 7. [傅园慧求助事件司机未取得从业资格](https://s.weibo.com/weibo?q=%23%E5%82%85%E5%9B%AD%E6%85%A7%E6%B1%82%E5%8A%A9%E4%BA%8B%E4%BB%B6%E5%8F%B8%E6%9C%BA%E6%9C%AA%E5%8F%96%E5%BE%97%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [何老师给白敬亭擦脸](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%80%81%E5%B8%88%E7%BB%99%E7%99%BD%E6%95%AC%E4%BA%AD%E6%93%A6%E8%84%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [贾玲大波浪](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%A4%A7%E6%B3%A2%E6%B5%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [昨晚失眠](https://s.weibo.com/weibo?q=%E6%98%A8%E6%99%9A%E5%A4%B1%E7%9C%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
