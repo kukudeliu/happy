@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 18:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 18:19:01</h4></div>
 
 > 微博  
 
-1. [林孝埈刘少昂摔出赛道](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E5%88%98%E5%B0%91%E6%98%82%E6%91%94%E5%87%BA%E8%B5%9B%E9%81%93%23&t=31&band_rank=1&Refer=top)<br />
-2. [特朗普卖鞋](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B%23&t=31&band_rank=2&Refer=top)<br />
+1. [特朗普卖鞋](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B%23&t=31&band_rank=1&Refer=top)<br />
+2. [林孝埈刘少昂摔出赛道](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E5%88%98%E5%B0%91%E6%98%82%E6%91%94%E5%87%BA%E8%B5%9B%E9%81%93%23&t=31&band_rank=2&Refer=top)<br />
 3. [开年第一弹智造业强省](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%BC%B9%E6%99%BA%E9%80%A0%E4%B8%9A%E5%BC%BA%E7%9C%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [咒术回战全员死亡](https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E5%85%A8%E5%91%98%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [高伟光梁靖康 哑舍](https://s.weibo.com/weibo?q=%E9%AB%98%E4%BC%9F%E5%85%89%E6%A2%81%E9%9D%96%E5%BA%B7%20%E5%93%91%E8%88%8D&t=31&band_rank=5&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [江苏一工厂爆炸致3死2失联](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%E8%87%B43%E6%AD%BB2%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [徐冬冬尹子维官宣订婚](https://www.baidu.com/s?wd=%23%E5%BE%90%E5%86%AC%E5%86%AC%E5%B0%B9%E5%AD%90%E7%BB%B4%E5%AE%98%E5%AE%A3%E8%AE%A2%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子套大鹅精准打击 收获满满](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A5%97%E5%A4%A7%E9%B9%85%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB+%E6%94%B6%E8%8E%B7%E6%BB%A1%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [丢寒假作业的秦朗家人回应](https://www.baidu.com/s?wd=%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E7%9A%84%E7%A7%A6%E6%9C%97%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“托尼老师”上线给军马设计发型](https://www.baidu.com/s?wd=%E2%80%9C%E6%89%98%E5%B0%BC%E8%80%81%E5%B8%88%E2%80%9D%E4%B8%8A%E7%BA%BF%E7%BB%99%E5%86%9B%E9%A9%AC%E8%AE%BE%E8%AE%A1%E5%8F%91%E5%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [海鲜与维生素C不能同吃？](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B2%9C%E4%B8%8E%E7%BB%B4%E7%94%9F%E7%B4%A0C%E4%B8%8D%E8%83%BD%E5%90%8C%E5%90%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [江苏一工厂爆炸致3死2失联](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%E8%87%B43%E6%AD%BB2%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [徐冬冬尹子维官宣订婚](https://www.baidu.com/s?wd=%23%E5%BE%90%E5%86%AC%E5%86%AC%E5%B0%B9%E5%AD%90%E7%BB%B4%E5%AE%98%E5%AE%A3%E8%AE%A2%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子套大鹅精准打击 收获满满](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A5%97%E5%A4%A7%E9%B9%85%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB+%E6%94%B6%E8%8E%B7%E6%BB%A1%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [丢寒假作业的秦朗家人回应](https://www.baidu.com/s?wd=%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E7%9A%84%E7%A7%A6%E6%9C%97%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“托尼老师”上线给军马设计发型](https://www.baidu.com/s?wd=%E2%80%9C%E6%89%98%E5%B0%BC%E8%80%81%E5%B8%88%E2%80%9D%E4%B8%8A%E7%BA%BF%E7%BB%99%E5%86%9B%E9%A9%AC%E8%AE%BE%E8%AE%A1%E5%8F%91%E5%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [海鲜与维生素C不能同吃？](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B2%9C%E4%B8%8E%E7%BB%B4%E7%94%9F%E7%B4%A0C%E4%B8%8D%E8%83%BD%E5%90%8C%E5%90%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
