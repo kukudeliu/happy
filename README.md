@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 19:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 19:40:01</h4></div>
 
 > 微博  
 
 1. [乐莹抽烟](https://s.weibo.com/weibo?q=%E4%B9%90%E8%8E%B9%E6%8A%BD%E7%83%9F&t=31&band_rank=1&Refer=top)<br />
-2. [高合](https://s.weibo.com/weibo?q=%E9%AB%98%E5%90%88&t=31&band_rank=2&Refer=top)<br />
+2. [正式确诊为魏晨](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%AD%8F%E6%99%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [开年第一弹智造业强省](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%BC%B9%E6%99%BA%E9%80%A0%E4%B8%9A%E5%BC%BA%E7%9C%81%23&t=31&band_rank=3&Refer=top)<br />
-4. [正式确诊为魏晨](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%AD%8F%E6%99%A8%23&t=31&band_rank=4&Refer=top)<br />
+4. [高合](https://s.weibo.com/weibo?q=%E9%AB%98%E5%90%88&t=31&band_rank=4&Refer=top)<br />
 5. [特朗普卖鞋](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [男歌手父亲吸入鞭炮烟气喘发作去世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%AD%8C%E6%89%8B%E7%88%B6%E4%BA%B2%E5%90%B8%E5%85%A5%E9%9E%AD%E7%82%AE%E7%83%9F%E6%B0%94%E5%96%98%E5%8F%91%E4%BD%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [咒术回战全员死亡](https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E5%85%A8%E5%91%98%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
