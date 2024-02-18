@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 21:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 21:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [前女友控诉卜凡家暴](https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%8E%A7%E8%AF%89%E5%8D%9C%E5%87%A1%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [制片人说赵今麦五页纸不卡词](https://s.weibo.com/weibo?q=%E5%88%B6%E7%89%87%E4%BA%BA%E8%AF%B4%E8%B5%B5%E4%BB%8A%E9%BA%A6%E4%BA%94%E9%A1%B5%E7%BA%B8%E4%B8%8D%E5%8D%A1%E8%AF%8D&t=31&band_rank=7&Refer=top)<br />
 8. [林允钻石背链](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E9%92%BB%E7%9F%B3%E8%83%8C%E9%93%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [开心消消乐崩了](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E5%B4%A9%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [瑞幸9.9元一杯活动缩水](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B89.9%E5%85%83%E4%B8%80%E6%9D%AF%E6%B4%BB%E5%8A%A8%E7%BC%A9%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
