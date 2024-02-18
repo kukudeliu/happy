@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 10:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 10:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [卜凡的卜原来是卜卦的卜](https://s.weibo.com/weibo?q=%23%E5%8D%9C%E5%87%A1%E7%9A%84%E5%8D%9C%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%8D%9C%E5%8D%A6%E7%9A%84%E5%8D%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=7&Refer=top)<br />
 8. [ZICO向所有爱豆道歉](https://s.weibo.com/weibo?q=%23ZICO%E5%90%91%E6%89%80%E6%9C%89%E7%88%B1%E8%B1%86%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [贾玲大波浪](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%A4%A7%E6%B3%A2%E6%B5%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [薛之谦演唱会迟到](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BF%9F%E5%88%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
