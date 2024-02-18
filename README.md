@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 21:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 21:11:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [学校否认秦朗巴黎丢寒假作业](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%90%A6%E8%AE%A4%E7%A7%A6%E6%9C%97%E5%B7%B4%E9%BB%8E%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [阿米尔·汗发文悼念“小芭比塔”](https://www.baidu.com/s?wd=%E9%98%BF%E7%B1%B3%E5%B0%94%C2%B7%E6%B1%97%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E2%80%9C%E5%B0%8F%E8%8A%AD%E6%AF%94%E5%A1%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友乘高铁看高速堵车](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B9%98%E9%AB%98%E9%93%81%E7%9C%8B%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知名景区大量游客就餐后上吐下泻](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%87%8F%E6%B8%B8%E5%AE%A2%E5%B0%B1%E9%A4%90%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高速免费最后时刻司机狂按喇叭](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%E5%8F%B8%E6%9C%BA%E7%8B%82%E6%8C%89%E5%96%87%E5%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [学校否认秦朗巴黎丢寒假作业](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%90%A6%E8%AE%A4%E7%A7%A6%E6%9C%97%E5%B7%B4%E9%BB%8E%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [阿米尔·汗发文悼念“小芭比塔”](https://www.baidu.com/s?wd=%E9%98%BF%E7%B1%B3%E5%B0%94%C2%B7%E6%B1%97%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E2%80%9C%E5%B0%8F%E8%8A%AD%E6%AF%94%E5%A1%94%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友乘高铁看高速堵车](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B9%98%E9%AB%98%E9%93%81%E7%9C%8B%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知名景区大量游客就餐后上吐下泻](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%87%8F%E6%B8%B8%E5%AE%A2%E5%B0%B1%E9%A4%90%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高速免费最后时刻司机狂按喇叭](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%E5%8F%B8%E6%9C%BA%E7%8B%82%E6%8C%89%E5%96%87%E5%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
