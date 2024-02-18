@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 21:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 21:18:02</h4></div>
 
 > 微博  
 
 1. [正式确诊为魏晨](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%AD%8F%E6%99%A8%23&t=31&band_rank=1&Refer=top)<br />
 2. [当97岁奶奶没戴假牙吃草莓](https://s.weibo.com/weibo?q=%23%E5%BD%9397%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%B2%A1%E6%88%B4%E5%81%87%E7%89%99%E5%90%83%E8%8D%89%E8%8E%93%23&t=31&band_rank=2&Refer=top)<br />
-3. [2024春节档电影票房创纪录](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E5%88%9B%E7%BA%AA%E5%BD%95%23&t=31&band_rank=3&Refer=top)<br />
+3. [龙年开工一起振奋龙马精神](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E5%BC%80%E5%B7%A5%E4%B8%80%E8%B5%B7%E6%8C%AF%E5%A5%8B%E9%BE%99%E9%A9%AC%E7%B2%BE%E7%A5%9E%23&t=31&band_rank=3&Refer=top)<br />
 4. [为什么卫生巾广告用蓝色液体](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%B9%BF%E5%91%8A%E7%94%A8%E8%93%9D%E8%89%B2%E6%B6%B2%E4%BD%93&t=31&band_rank=4&Refer=top)<br />
 5. [乐莹抽烟](https://s.weibo.com/weibo?q=%E4%B9%90%E8%8E%B9%E6%8A%BD%E7%83%9F&t=31&band_rank=5&Refer=top)<br />
 6. [制片人说赵今麦五页纸不卡词](https://s.weibo.com/weibo?q=%E5%88%B6%E7%89%87%E4%BA%BA%E8%AF%B4%E8%B5%B5%E4%BB%8A%E9%BA%A6%E4%BA%94%E9%A1%B5%E7%BA%B8%E4%B8%8D%E5%8D%A1%E8%AF%8D&t=31&band_rank=6&Refer=top)<br />
-7. [林允钻石背链](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E9%92%BB%E7%9F%B3%E8%83%8C%E9%93%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [前女友控诉卜凡家暴](https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%8E%A7%E8%AF%89%E5%8D%9C%E5%87%A1%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [瑞幸9.9元一杯活动缩水](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B89.9%E5%85%83%E4%B8%80%E6%9D%AF%E6%B4%BB%E5%8A%A8%E7%BC%A9%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
+7. [2024春节档电影票房创纪录](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E5%88%9B%E7%BA%AA%E5%BD%95%23&t=31&band_rank=7&Refer=top)<br />
+8. [林允钻石背链](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E9%92%BB%E7%9F%B3%E8%83%8C%E9%93%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [前女友控诉卜凡家暴](https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%8E%A7%E8%AF%89%E5%8D%9C%E5%87%A1%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
