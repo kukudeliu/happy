@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 09:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 09:48:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [想请假](https://s.weibo.com/weibo?q=%E6%83%B3%E8%AF%B7%E5%81%87&t=31&band_rank=4&Refer=top)<br />
 5. [卜凡的卜原来是卜卦的卜](https://s.weibo.com/weibo?q=%23%E5%8D%9C%E5%87%A1%E7%9A%84%E5%8D%9C%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%8D%9C%E5%8D%A6%E7%9A%84%E5%8D%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [周杰伦感谢霉霉给的演唱会门票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%84%9F%E8%B0%A2%E9%9C%89%E9%9C%89%E7%BB%99%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
-7. [俄军已完全控制阿夫杰耶夫卡](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%86%9B%E5%B7%B2%E5%AE%8C%E5%85%A8%E6%8E%A7%E5%88%B6%E9%98%BF%E5%A4%AB%E6%9D%B0%E8%80%B6%E5%A4%AB%E5%8D%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [薛之谦演唱会迟到](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BF%9F%E5%88%B0&t=31&band_rank=8&Refer=top)<br />
-9. [今年还有4次调休](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E8%BF%98%E6%9C%894%E6%AC%A1%E8%B0%83%E4%BC%91%23&t=31&band_rank=9&Refer=top)<br />
+7. [薛之谦演唱会迟到](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BF%9F%E5%88%B0&t=31&band_rank=7&Refer=top)<br />
+8. [俄军已完全控制阿夫杰耶夫卡](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%86%9B%E5%B7%B2%E5%AE%8C%E5%85%A8%E6%8E%A7%E5%88%B6%E9%98%BF%E5%A4%AB%E6%9D%B0%E8%80%B6%E5%A4%AB%E5%8D%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [贾玲大波浪](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%A4%A7%E6%B3%A2%E6%B5%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
