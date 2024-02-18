@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 18:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 18:37:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [咒术回战全员死亡](https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E5%85%A8%E5%91%98%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [高伟光梁靖康 哑舍](https://s.weibo.com/weibo?q=%E9%AB%98%E4%BC%9F%E5%85%89%E6%A2%81%E9%9D%96%E5%BA%B7%20%E5%93%91%E8%88%8D&t=31&band_rank=5&Refer=top)<br />
 6. [瑞幸9.9元一杯活动缩水](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B89.9%E5%85%83%E4%B8%80%E6%9D%AF%E6%B4%BB%E5%8A%A8%E7%BC%A9%E6%B0%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [贾玲仪态](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%BB%AA%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴 推理吧2](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%8E%A8%E7%90%86%E5%90%A72&t=31&band_rank=8&Refer=top)<br />
+7. [迪丽热巴 推理吧2](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%8E%A8%E7%90%86%E5%90%A72&t=31&band_rank=7&Refer=top)<br />
+8. [贾玲仪态](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%BB%AA%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
 9. [男子驾车昏迷民警手撕车窗救人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E6%98%8F%E8%BF%B7%E6%B0%91%E8%AD%A6%E6%89%8B%E6%92%95%E8%BD%A6%E7%AA%97%E6%95%91%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
