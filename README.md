@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 11:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 11:50:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [硅谷再现杀妻案](https://s.weibo.com/weibo?q=%23%E7%A1%85%E8%B0%B7%E5%86%8D%E7%8E%B0%E6%9D%80%E5%A6%BB%E6%A1%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [专家说上班第一天少干活儿](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%AF%B4%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%B0%91%E5%B9%B2%E6%B4%BB%E5%84%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [贾玲大波浪晚礼服](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%A4%A7%E6%B3%A2%E6%B5%AA%E6%99%9A%E7%A4%BC%E6%9C%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [摔跤吧爸爸小芭比塔演员去世](https://s.weibo.com/weibo?q=%23%E6%91%94%E8%B7%A4%E5%90%A7%E7%88%B8%E7%88%B8%E5%B0%8F%E8%8A%AD%E6%AF%94%E5%A1%94%E6%BC%94%E5%91%98%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [1家5口从三亚飞回新疆要花10万](https://s.weibo.com/weibo?q=%231%E5%AE%B65%E5%8F%A3%E4%BB%8E%E4%B8%89%E4%BA%9A%E9%A3%9E%E5%9B%9E%E6%96%B0%E7%96%86%E8%A6%81%E8%8A%B110%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [1家5口从三亚飞回新疆要花10万](https://s.weibo.com/weibo?q=%231%E5%AE%B65%E5%8F%A3%E4%BB%8E%E4%B8%89%E4%BA%9A%E9%A3%9E%E5%9B%9E%E6%96%B0%E7%96%86%E8%A6%81%E8%8A%B110%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [摔跤吧爸爸小芭比塔演员去世](https://s.weibo.com/weibo?q=%23%E6%91%94%E8%B7%A4%E5%90%A7%E7%88%B8%E7%88%B8%E5%B0%8F%E8%8A%AD%E6%AF%94%E5%A1%94%E6%BC%94%E5%91%98%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
