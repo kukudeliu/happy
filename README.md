@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 17:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 17:11:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贾玲仪态](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%BB%AA%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [薛之谦 你们人类有两幅面孔](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E4%BD%A0%E4%BB%AC%E4%BA%BA%E7%B1%BB%E6%9C%89%E4%B8%A4%E5%B9%85%E9%9D%A2%E5%AD%94&t=31&band_rank=7&Refer=top)<br />
 8. [开工首日iPhone15降至4588元](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B7%A5%E9%A6%96%E6%97%A5iPhone15%E9%99%8D%E8%87%B34588%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [考研成绩倒计时](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E5%80%92%E8%AE%A1%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [咒术回战全员死亡](https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E5%85%A8%E5%91%98%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
