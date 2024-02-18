@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男歌手父亲吸入鞭炮烟气喘发作去世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%AD%8C%E6%89%8B%E7%88%B6%E4%BA%B2%E5%90%B8%E5%85%A5%E9%9E%AD%E7%82%AE%E7%83%9F%E6%B0%94%E5%96%98%E5%8F%91%E4%BD%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [咒术回战全员死亡](https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E5%85%A8%E5%91%98%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [人民网评飞驰人生2](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F2%23&t=31&band_rank=8&Refer=top)<br />
-9. [特朗普卖鞋](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [马思纯减肥Vlog](https://s.weibo.com/weibo?q=%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%87%8F%E8%82%A5Vlog&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
