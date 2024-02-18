@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:56:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [开心消消乐崩了](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E5%B4%A9%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [前女友控诉卜凡家暴](https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%8E%A7%E8%AF%89%E5%8D%9C%E5%87%A1%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [瑞幸9.9元一杯活动缩水](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B89.9%E5%85%83%E4%B8%80%E6%9D%AF%E6%B4%BB%E5%8A%A8%E7%BC%A9%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [马思纯减肥Vlog](https://s.weibo.com/weibo?q=%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%87%8F%E8%82%A5Vlog&t=31&band_rank=8&Refer=top)<br />
+8. [人民网评飞驰人生2](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F2%23&t=31&band_rank=8&Refer=top)<br />
 9. [林孝埈摔出赛道没有回放](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E6%91%94%E5%87%BA%E8%B5%9B%E9%81%93%E6%B2%A1%E6%9C%89%E5%9B%9E%E6%94%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
