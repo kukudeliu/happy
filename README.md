@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 23:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 23:24:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [点燃运动激情 共赴冰雪之约](https://www.baidu.com/s?wd=%E7%82%B9%E7%87%83%E8%BF%90%E5%8A%A8%E6%BF%80%E6%83%85+%E5%85%B1%E8%B5%B4%E5%86%B0%E9%9B%AA%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [-52.3℃！新疆最低温破历史极值](https://www.baidu.com/s?wd=-52.3%E2%84%83%EF%BC%81%E6%96%B0%E7%96%86%E6%9C%80%E4%BD%8E%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子吃席发现村里开始上预制菜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E5%B8%AD%E5%8F%91%E7%8E%B0%E6%9D%91%E9%87%8C%E5%BC%80%E5%A7%8B%E4%B8%8A%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [当97岁奶奶没戴假牙吃草莓](https://www.baidu.com/s?wd=%E5%BD%9397%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%B2%A1%E6%88%B4%E5%81%87%E7%89%99%E5%90%83%E8%8D%89%E8%8E%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学校否认秦朗巴黎丢寒假作业](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%90%A6%E8%AE%A4%E7%A7%A6%E6%9C%97%E5%B7%B4%E9%BB%8E%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [丽江通报游客未买手镯被赶下车](https://www.baidu.com/s?wd=%E4%B8%BD%E6%B1%9F%E9%80%9A%E6%8A%A5%E6%B8%B8%E5%AE%A2%E6%9C%AA%E4%B9%B0%E6%89%8B%E9%95%AF%E8%A2%AB%E8%B5%B6%E4%B8%8B%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [研究称2024年可能会更热](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%A7%B02024%E5%B9%B4%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%9B%B4%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [点燃运动激情 共赴冰雪之约](https://www.baidu.com/s?wd=%E7%82%B9%E7%87%83%E8%BF%90%E5%8A%A8%E6%BF%80%E6%83%85+%E5%85%B1%E8%B5%B4%E5%86%B0%E9%9B%AA%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [-52.3℃！新疆最低温破历史极值](https://www.baidu.com/s?wd=-52.3%E2%84%83%EF%BC%81%E6%96%B0%E7%96%86%E6%9C%80%E4%BD%8E%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子吃席发现村里开始上预制菜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E5%B8%AD%E5%8F%91%E7%8E%B0%E6%9D%91%E9%87%8C%E5%BC%80%E5%A7%8B%E4%B8%8A%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [当97岁奶奶没戴假牙吃草莓](https://www.baidu.com/s?wd=%E5%BD%9397%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%B2%A1%E6%88%B4%E5%81%87%E7%89%99%E5%90%83%E8%8D%89%E8%8E%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学校否认秦朗巴黎丢寒假作业](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%90%A6%E8%AE%A4%E7%A7%A6%E6%9C%97%E5%B7%B4%E9%BB%8E%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [丽江通报游客未买手镯被赶下车](https://www.baidu.com/s?wd=%E4%B8%BD%E6%B1%9F%E9%80%9A%E6%8A%A5%E6%B8%B8%E5%AE%A2%E6%9C%AA%E4%B9%B0%E6%89%8B%E9%95%AF%E8%A2%AB%E8%B5%B6%E4%B8%8B%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [研究称2024年可能会更热](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%A7%B02024%E5%B9%B4%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%9B%B4%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
