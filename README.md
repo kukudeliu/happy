@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 17:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 17:59:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [高伟光梁靖康 哑舍](https://s.weibo.com/weibo?q=%E9%AB%98%E4%BC%9F%E5%85%89%E6%A2%81%E9%9D%96%E5%BA%B7%20%E5%93%91%E8%88%8D&t=31&band_rank=5&Refer=top)<br />
 6. [贾玲仪态](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%BB%AA%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [特朗普卖鞋](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [开工首日iPhone15降至4588元](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B7%A5%E9%A6%96%E6%97%A5iPhone15%E9%99%8D%E8%87%B34588%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [女儿舍不得父母返程时真情流泪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%88%8D%E4%B8%8D%E5%BE%97%E7%88%B6%E6%AF%8D%E8%BF%94%E7%A8%8B%E6%97%B6%E7%9C%9F%E6%83%85%E6%B5%81%E6%B3%AA%23&t=31&band_rank=9&Refer=top)<br />
+8. [女儿舍不得父母返程时真情流泪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%88%8D%E4%B8%8D%E5%BE%97%E7%88%B6%E6%AF%8D%E8%BF%94%E7%A8%8B%E6%97%B6%E7%9C%9F%E6%83%85%E6%B5%81%E6%B3%AA%23&t=31&band_rank=8&Refer=top)<br />
+9. [开工首日iPhone15降至4588元](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B7%A5%E9%A6%96%E6%97%A5iPhone15%E9%99%8D%E8%87%B34588%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [江苏一工厂爆炸致3死2失联](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%E8%87%B43%E6%AD%BB2%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [徐冬冬尹子维官宣订婚](https://www.baidu.com/s?wd=%23%E5%BE%90%E5%86%AC%E5%86%AC%E5%B0%B9%E5%AD%90%E7%BB%B4%E5%AE%98%E5%AE%A3%E8%AE%A2%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子套大鹅精准打击 收获满满](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A5%97%E5%A4%A7%E9%B9%85%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB+%E6%94%B6%E8%8E%B7%E6%BB%A1%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子返程20小时换乘5种交通工具](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%94%E7%A8%8B20%E5%B0%8F%E6%97%B6%E6%8D%A2%E4%B9%985%E7%A7%8D%E4%BA%A4%E9%80%9A%E5%B7%A5%E5%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高速应急车道停满车辆 交警挨个拍照](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%BA%94%E6%80%A5%E8%BD%A6%E9%81%93%E5%81%9C%E6%BB%A1%E8%BD%A6%E8%BE%86+%E4%BA%A4%E8%AD%A6%E6%8C%A8%E4%B8%AA%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [海鲜与维生素C不能同吃？](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B2%9C%E4%B8%8E%E7%BB%B4%E7%94%9F%E7%B4%A0C%E4%B8%8D%E8%83%BD%E5%90%8C%E5%90%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [江苏一工厂爆炸致3死2失联](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%E8%87%B43%E6%AD%BB2%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [徐冬冬尹子维官宣订婚](https://www.baidu.com/s?wd=%23%E5%BE%90%E5%86%AC%E5%86%AC%E5%B0%B9%E5%AD%90%E7%BB%B4%E5%AE%98%E5%AE%A3%E8%AE%A2%E5%A9%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子套大鹅精准打击 收获满满](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A5%97%E5%A4%A7%E9%B9%85%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB+%E6%94%B6%E8%8E%B7%E6%BB%A1%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子返程20小时换乘5种交通工具](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%94%E7%A8%8B20%E5%B0%8F%E6%97%B6%E6%8D%A2%E4%B9%985%E7%A7%8D%E4%BA%A4%E9%80%9A%E5%B7%A5%E5%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高速应急车道停满车辆 交警挨个拍照](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%BA%94%E6%80%A5%E8%BD%A6%E9%81%93%E5%81%9C%E6%BB%A1%E8%BD%A6%E8%BE%86+%E4%BA%A4%E8%AD%A6%E6%8C%A8%E4%B8%AA%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [海鲜与维生素C不能同吃？](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B2%9C%E4%B8%8E%E7%BB%B4%E7%94%9F%E7%B4%A0C%E4%B8%8D%E8%83%BD%E5%90%8C%E5%90%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
