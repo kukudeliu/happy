@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:07:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [2024春节档电影票房创纪录](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E5%88%9B%E7%BA%AA%E5%BD%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [开心消消乐崩了](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E5%B4%A9%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [特朗普卖鞋](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B%23&t=31&band_rank=5&Refer=top)<br />
-6. [高合](https://s.weibo.com/weibo?q=%E9%AB%98%E5%90%88&t=31&band_rank=6&Refer=top)<br />
-7. [男歌手父亲吸入鞭炮烟气喘发作去世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%AD%8C%E6%89%8B%E7%88%B6%E4%BA%B2%E5%90%B8%E5%85%A5%E9%9E%AD%E7%82%AE%E7%83%9F%E6%B0%94%E5%96%98%E5%8F%91%E4%BD%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [瑞幸9.9元一杯活动缩水](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B89.9%E5%85%83%E4%B8%80%E6%9D%AF%E6%B4%BB%E5%8A%A8%E7%BC%A9%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
+6. [男歌手父亲吸入鞭炮烟气喘发作去世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%AD%8C%E6%89%8B%E7%88%B6%E4%BA%B2%E5%90%B8%E5%85%A5%E9%9E%AD%E7%82%AE%E7%83%9F%E6%B0%94%E5%96%98%E5%8F%91%E4%BD%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
+7. [瑞幸9.9元一杯活动缩水](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B89.9%E5%85%83%E4%B8%80%E6%9D%AF%E6%B4%BB%E5%8A%A8%E7%BC%A9%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [高合](https://s.weibo.com/weibo?q=%E9%AB%98%E5%90%88&t=31&band_rank=8&Refer=top)<br />
 9. [咒术回战全员死亡](https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E5%85%A8%E5%91%98%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
