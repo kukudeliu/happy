@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 10:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 10:59:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [摔跤吧爸爸小芭比塔演员去世](https://s.weibo.com/weibo?q=%23%E6%91%94%E8%B7%A4%E5%90%A7%E7%88%B8%E7%88%B8%E5%B0%8F%E8%8A%AD%E6%AF%94%E5%A1%94%E6%BC%94%E5%91%98%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [今天正式退出春节档](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E6%98%A5%E8%8A%82%E6%A1%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [昨晚失眠](https://s.weibo.com/weibo?q=%E6%98%A8%E6%99%9A%E5%A4%B1%E7%9C%A0&t=31&band_rank=6&Refer=top)<br />
-7. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=7&Refer=top)<br />
-8. [贾玲热辣滚烫热辣蜕变曲MV](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E7%83%AD%E8%BE%A3%E8%9C%95%E5%8F%98%E6%9B%B2MV%23&t=31&band_rank=8&Refer=top)<br />
-9. [卜凡的卜原来是卜卦的卜](https://s.weibo.com/weibo?q=%23%E5%8D%9C%E5%87%A1%E7%9A%84%E5%8D%9C%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%8D%9C%E5%8D%A6%E7%9A%84%E5%8D%9C%23&t=31&band_rank=9&Refer=top)<br />
+7. [虞书欣父母退出涉诈骗公司](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%88%B6%E6%AF%8D%E9%80%80%E5%87%BA%E6%B6%89%E8%AF%88%E9%AA%97%E5%85%AC%E5%8F%B8%23&t=31&band_rank=7&Refer=top)<br />
+8. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=8&Refer=top)<br />
+9. [贾玲热辣滚烫热辣蜕变曲MV](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E7%83%AD%E8%BE%A3%E8%9C%95%E5%8F%98%E6%9B%B2MV%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
