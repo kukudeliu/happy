@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:15:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [2024春节档电影票房创纪录](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E5%88%9B%E7%BA%AA%E5%BD%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [开心消消乐崩了](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E5%B4%A9%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [瑞幸9.9元一杯活动缩水](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B89.9%E5%85%83%E4%B8%80%E6%9D%AF%E6%B4%BB%E5%8A%A8%E7%BC%A9%E6%B0%B4%23&t=31&band_rank=5&Refer=top)<br />
-6. [特朗普卖鞋](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [男歌手父亲吸入鞭炮烟气喘发作去世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%AD%8C%E6%89%8B%E7%88%B6%E4%BA%B2%E5%90%B8%E5%85%A5%E9%9E%AD%E7%82%AE%E7%83%9F%E6%B0%94%E5%96%98%E5%8F%91%E4%BD%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [高合](https://s.weibo.com/weibo?q=%E9%AB%98%E5%90%88&t=31&band_rank=8&Refer=top)<br />
-9. [咒术回战全员死亡](https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E5%85%A8%E5%91%98%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+6. [男歌手父亲吸入鞭炮烟气喘发作去世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%AD%8C%E6%89%8B%E7%88%B6%E4%BA%B2%E5%90%B8%E5%85%A5%E9%9E%AD%E7%82%AE%E7%83%9F%E6%B0%94%E5%96%98%E5%8F%91%E4%BD%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
+7. [特朗普卖鞋](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [咒术回战全员死亡](https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E5%85%A8%E5%91%98%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [高合](https://s.weibo.com/weibo?q=%E9%AB%98%E5%90%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,7 +23,7 @@
 4. [中国经济新春面面观](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%98%A5%E9%9D%A2%E9%9D%A2%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网友称因高速太堵跟领导请假被拒](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%9B%A0%E9%AB%98%E9%80%9F%E5%A4%AA%E5%A0%B5%E8%B7%9F%E9%A2%86%E5%AF%BC%E8%AF%B7%E5%81%87%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学校否认秦朗巴黎丢寒假作业](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%90%A6%E8%AE%A4%E7%A7%A6%E6%9C%97%E5%B7%B4%E9%BB%8E%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [列车上乘客搭人梯“传”小朋友如厕](https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E4%B8%8A%E4%B9%98%E5%AE%A2%E6%90%AD%E4%BA%BA%E6%A2%AF%E2%80%9C%E4%BC%A0%E2%80%9D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%A6%82%E5%8E%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国台办：坚决支持大陆海警部门行动](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%94%AF%E6%8C%81%E5%A4%A7%E9%99%86%E6%B5%B7%E8%AD%A6%E9%83%A8%E9%97%A8%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子高速遭陌生男子爬车顶抢方向盘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%80%9F%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E7%88%AC%E8%BD%A6%E9%A1%B6%E6%8A%A2%E6%96%B9%E5%90%91%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛警方辟谣捡钱包信息](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%8D%A1%E9%92%B1%E5%8C%85%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [中国经济新春面面观](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%98%A5%E9%9D%A2%E9%9D%A2%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网友称因高速太堵跟领导请假被拒](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%9B%A0%E9%AB%98%E9%80%9F%E5%A4%AA%E5%A0%B5%E8%B7%9F%E9%A2%86%E5%AF%BC%E8%AF%B7%E5%81%87%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学校否认秦朗巴黎丢寒假作业](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%90%A6%E8%AE%A4%E7%A7%A6%E6%9C%97%E5%B7%B4%E9%BB%8E%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [列车上乘客搭人梯“传”小朋友如厕](https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E4%B8%8A%E4%B9%98%E5%AE%A2%E6%90%AD%E4%BA%BA%E6%A2%AF%E2%80%9C%E4%BC%A0%E2%80%9D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%A6%82%E5%8E%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国台办：坚决支持大陆海警部门行动](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%94%AF%E6%8C%81%E5%A4%A7%E9%99%86%E6%B5%B7%E8%AD%A6%E9%83%A8%E9%97%A8%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子高速遭陌生男子爬车顶抢方向盘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%80%9F%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E7%88%AC%E8%BD%A6%E9%A1%B6%E6%8A%A2%E6%96%B9%E5%90%91%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛警方辟谣捡钱包信息](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%8D%A1%E9%92%B1%E5%8C%85%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
