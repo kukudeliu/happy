@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 11:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 11:11:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [甘肃超2万名旅客滞留](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E8%B6%852%E4%B8%87%E5%90%8D%E6%97%85%E5%AE%A2%E6%BB%9E%E7%95%99%23&t=31&band_rank=4&Refer=top)<br />
 5. [摔跤吧爸爸小芭比塔演员去世](https://s.weibo.com/weibo?q=%23%E6%91%94%E8%B7%A4%E5%90%A7%E7%88%B8%E7%88%B8%E5%B0%8F%E8%8A%AD%E6%AF%94%E5%A1%94%E6%BC%94%E5%91%98%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [今天正式退出春节档](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E6%98%A5%E8%8A%82%E6%A1%A3%23&t=31&band_rank=6&Refer=top)<br />
-7. [昨晚失眠](https://s.weibo.com/weibo?q=%E6%98%A8%E6%99%9A%E5%A4%B1%E7%9C%A0&t=31&band_rank=7&Refer=top)<br />
-8. [硅谷再现杀妻案](https://s.weibo.com/weibo?q=%23%E7%A1%85%E8%B0%B7%E5%86%8D%E7%8E%B0%E6%9D%80%E5%A6%BB%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
+7. [硅谷再现杀妻案](https://s.weibo.com/weibo?q=%23%E7%A1%85%E8%B0%B7%E5%86%8D%E7%8E%B0%E6%9D%80%E5%A6%BB%E6%A1%88%23&t=31&band_rank=7&Refer=top)<br />
+8. [昨晚失眠](https://s.weibo.com/weibo?q=%E6%98%A8%E6%99%9A%E5%A4%B1%E7%9C%A0&t=31&band_rank=8&Refer=top)<br />
 9. [卜凡的卜原来是卜卦的卜](https://s.weibo.com/weibo?q=%23%E5%8D%9C%E5%87%A1%E7%9A%84%E5%8D%9C%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%8D%9C%E5%8D%A6%E7%9A%84%E5%8D%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
