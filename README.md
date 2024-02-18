@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 17:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 17:58:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [咒术回战全员死亡](https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E5%85%A8%E5%91%98%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [高伟光梁靖康 哑舍](https://s.weibo.com/weibo?q=%E9%AB%98%E4%BC%9F%E5%85%89%E6%A2%81%E9%9D%96%E5%BA%B7%20%E5%93%91%E8%88%8D&t=31&band_rank=5&Refer=top)<br />
 6. [贾玲仪态](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%BB%AA%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [开工首日iPhone15降至4588元](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B7%A5%E9%A6%96%E6%97%A5iPhone15%E9%99%8D%E8%87%B34588%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [丢寒假作业的秦朗家人回应](https://s.weibo.com/weibo?q=%23%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E7%9A%84%E7%A7%A6%E6%9C%97%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
+7. [特朗普卖鞋](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [开工首日iPhone15降至4588元](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B7%A5%E9%A6%96%E6%97%A5iPhone15%E9%99%8D%E8%87%B34588%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [女儿舍不得父母返程时真情流泪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%88%8D%E4%B8%8D%E5%BE%97%E7%88%B6%E6%AF%8D%E8%BF%94%E7%A8%8B%E6%97%B6%E7%9C%9F%E6%83%85%E6%B5%81%E6%B3%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
