@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:01:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [开年第一弹智造业强省](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%BC%B9%E6%99%BA%E9%80%A0%E4%B8%9A%E5%BC%BA%E7%9C%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [特朗普卖鞋](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [高合](https://s.weibo.com/weibo?q=%E9%AB%98%E5%90%88&t=31&band_rank=5&Refer=top)<br />
-6. [男歌手父亲吸入鞭炮烟气喘发作去世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%AD%8C%E6%89%8B%E7%88%B6%E4%BA%B2%E5%90%B8%E5%85%A5%E9%9E%AD%E7%82%AE%E7%83%9F%E6%B0%94%E5%96%98%E5%8F%91%E4%BD%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [开心消消乐崩了](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E5%B4%A9%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [开心消消乐崩了](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E5%B4%A9%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [男歌手父亲吸入鞭炮烟气喘发作去世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%AD%8C%E6%89%8B%E7%88%B6%E4%BA%B2%E5%90%B8%E5%85%A5%E9%9E%AD%E7%82%AE%E7%83%9F%E6%B0%94%E5%96%98%E5%8F%91%E4%BD%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [瑞幸9.9元一杯活动缩水](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B89.9%E5%85%83%E4%B8%80%E6%9D%AF%E6%B4%BB%E5%8A%A8%E7%BC%A9%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [男子驾车昏迷民警手撕车窗救人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E6%98%8F%E8%BF%B7%E6%B0%91%E8%AD%A6%E6%89%8B%E6%92%95%E8%BD%A6%E7%AA%97%E6%95%91%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
