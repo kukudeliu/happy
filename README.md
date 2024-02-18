@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 10:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 10:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=6&Refer=top)<br />
 7. [薛之谦演唱会迟到](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BF%9F%E5%88%B0&t=31&band_rank=7&Refer=top)<br />
 8. [苹果可折叠iPhone开发暂停](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%AF%E6%8A%98%E5%8F%A0iPhone%E5%BC%80%E5%8F%91%E6%9A%82%E5%81%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [周杰伦感谢霉霉给的演唱会门票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%84%9F%E8%B0%A2%E9%9C%89%E9%9C%89%E7%BB%99%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
+9. [ZICO向所有爱豆道歉](https://s.weibo.com/weibo?q=%23ZICO%E5%90%91%E6%89%80%E6%9C%89%E7%88%B1%E8%B1%86%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
