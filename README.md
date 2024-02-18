@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 13:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 13:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [两个贾玲对唱](https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AA%E8%B4%BE%E7%8E%B2%E5%AF%B9%E5%94%B1&t=31&band_rank=5&Refer=top)<br />
 6. [虞书欣父母退出涉诈骗公司](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%88%B6%E6%AF%8D%E9%80%80%E5%87%BA%E6%B6%89%E8%AF%88%E9%AA%97%E5%85%AC%E5%8F%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [卜凡回应卜卦](https://s.weibo.com/weibo?q=%23%E5%8D%9C%E5%87%A1%E5%9B%9E%E5%BA%94%E5%8D%9C%E5%8D%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [硅谷再现杀妻案](https://s.weibo.com/weibo?q=%23%E7%A1%85%E8%B0%B7%E5%86%8D%E7%8E%B0%E6%9D%80%E5%A6%BB%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [国际金价下跌为何国内金价坚挺](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B8%BA%E4%BD%95%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E5%9D%9A%E6%8C%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [国际金价下跌为何国内金价坚挺](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B8%BA%E4%BD%95%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E5%9D%9A%E6%8C%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [硅谷再现杀妻案](https://s.weibo.com/weibo?q=%23%E7%A1%85%E8%B0%B7%E5%86%8D%E7%8E%B0%E6%9D%80%E5%A6%BB%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [春节经济“热辣滚烫”](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [胖瘦版两个贾玲对唱](https://www.baidu.com/s?wd=%E8%83%96%E7%98%A6%E7%89%88%E4%B8%A4%E4%B8%AA%E8%B4%BE%E7%8E%B2%E5%AF%B9%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特朗普卖鞋 售价399美元](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B+%E5%94%AE%E4%BB%B7399%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [1家5口从三亚飞回新疆要花10万](https://www.baidu.com/s?wd=1%E5%AE%B65%E5%8F%A3%E4%BB%8E%E4%B8%89%E4%BA%9A%E9%A3%9E%E5%9B%9E%E6%96%B0%E7%96%86%E8%A6%81%E8%8A%B110%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新疆富蕴县吐尔洪乡气温降至-52.3℃](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%AF%8C%E8%95%B4%E5%8E%BF%E5%90%90%E5%B0%94%E6%B4%AA%E4%B9%A1%E6%B0%94%E6%B8%A9%E9%99%8D%E8%87%B3-52.3%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [新疆富蕴县吐尔洪乡气温降至-52.3℃](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%AF%8C%E8%95%B4%E5%8E%BF%E5%90%90%E5%B0%94%E6%B4%AA%E4%B9%A1%E6%B0%94%E6%B8%A9%E9%99%8D%E8%87%B3-52.3%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [狗子在高速被堵到生下一窝狗崽](https://www.baidu.com/s?wd=%E7%8B%97%E5%AD%90%E5%9C%A8%E9%AB%98%E9%80%9F%E8%A2%AB%E5%A0%B5%E5%88%B0%E7%94%9F%E4%B8%8B%E4%B8%80%E7%AA%9D%E7%8B%97%E5%B4%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [海鲜与维生素C不能同吃？](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B2%9C%E4%B8%8E%E7%BB%B4%E7%94%9F%E7%B4%A0C%E4%B8%8D%E8%83%BD%E5%90%8C%E5%90%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [春节经济“热辣滚烫”](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [胖瘦版两个贾玲对唱](https://www.baidu.com/s?wd=%E8%83%96%E7%98%A6%E7%89%88%E4%B8%A4%E4%B8%AA%E8%B4%BE%E7%8E%B2%E5%AF%B9%E5%94%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特朗普卖鞋 售价399美元](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B+%E5%94%AE%E4%BB%B7399%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [1家5口从三亚飞回新疆要花10万](https://www.baidu.com/s?wd=1%E5%AE%B65%E5%8F%A3%E4%BB%8E%E4%B8%89%E4%BA%9A%E9%A3%9E%E5%9B%9E%E6%96%B0%E7%96%86%E8%A6%81%E8%8A%B110%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新疆富蕴县吐尔洪乡气温降至-52.3℃](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%AF%8C%E8%95%B4%E5%8E%BF%E5%90%90%E5%B0%94%E6%B4%AA%E4%B9%A1%E6%B0%94%E6%B8%A9%E9%99%8D%E8%87%B3-52.3%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [新疆富蕴县吐尔洪乡气温降至-52.3℃](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%AF%8C%E8%95%B4%E5%8E%BF%E5%90%90%E5%B0%94%E6%B4%AA%E4%B9%A1%E6%B0%94%E6%B8%A9%E9%99%8D%E8%87%B3-52.3%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [狗子在高速被堵到生下一窝狗崽](https://www.baidu.com/s?wd=%E7%8B%97%E5%AD%90%E5%9C%A8%E9%AB%98%E9%80%9F%E8%A2%AB%E5%A0%B5%E5%88%B0%E7%94%9F%E4%B8%8B%E4%B8%80%E7%AA%9D%E7%8B%97%E5%B4%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [海鲜与维生素C不能同吃？](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B2%9C%E4%B8%8E%E7%BB%B4%E7%94%9F%E7%B4%A0C%E4%B8%8D%E8%83%BD%E5%90%8C%E5%90%83%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
