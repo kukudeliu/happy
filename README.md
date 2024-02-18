@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 05:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 05:47:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [太古里牵手门女当事人直播间被封](https://www.baidu.com/s?wd=%E5%A4%AA%E5%8F%A4%E9%87%8C%E7%89%B5%E6%89%8B%E9%97%A8%E5%A5%B3%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%9B%B4%E6%92%AD%E9%97%B4%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子吃席发现村里开始上预制菜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E5%B8%AD%E5%8F%91%E7%8E%B0%E6%9D%91%E9%87%8C%E5%BC%80%E5%A7%8B%E4%B8%8A%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉多所学校延迟返校](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%9A%E6%89%80%E5%AD%A6%E6%A0%A1%E5%BB%B6%E8%BF%9F%E8%BF%94%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知名景区大量游客就餐后上吐下泻](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%87%8F%E6%B8%B8%E5%AE%A2%E5%B0%B1%E9%A4%90%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人旅游期间去世 家属索赔15万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%97%85%E6%B8%B8%E6%9C%9F%E9%97%B4%E5%8E%BB%E4%B8%96+%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9415%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [太古里牵手门女当事人直播间被封](https://www.baidu.com/s?wd=%E5%A4%AA%E5%8F%A4%E9%87%8C%E7%89%B5%E6%89%8B%E9%97%A8%E5%A5%B3%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%9B%B4%E6%92%AD%E9%97%B4%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子吃席发现村里开始上预制菜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E5%B8%AD%E5%8F%91%E7%8E%B0%E6%9D%91%E9%87%8C%E5%BC%80%E5%A7%8B%E4%B8%8A%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉多所学校延迟返校](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%9A%E6%89%80%E5%AD%A6%E6%A0%A1%E5%BB%B6%E8%BF%9F%E8%BF%94%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知名景区大量游客就餐后上吐下泻](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%87%8F%E6%B8%B8%E5%AE%A2%E5%B0%B1%E9%A4%90%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人旅游期间去世 家属索赔15万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%97%85%E6%B8%B8%E6%9C%9F%E9%97%B4%E5%8E%BB%E4%B8%96+%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9415%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
