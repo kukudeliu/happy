@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 10:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 10:53:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [今天正式退出春节档](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E6%98%A5%E8%8A%82%E6%A1%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [卜凡的卜原来是卜卦的卜](https://s.weibo.com/weibo?q=%23%E5%8D%9C%E5%87%A1%E7%9A%84%E5%8D%9C%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%8D%9C%E5%8D%A6%E7%9A%84%E5%8D%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=7&Refer=top)<br />
-8. [ZICO向所有爱豆道歉](https://s.weibo.com/weibo?q=%23ZICO%E5%90%91%E6%89%80%E6%9C%89%E7%88%B1%E8%B1%86%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
+8. [两个贾玲对唱](https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AA%E8%B4%BE%E7%8E%B2%E5%AF%B9%E5%94%B1&t=31&band_rank=8&Refer=top)<br />
 9. [贾玲热辣滚烫热辣蜕变曲MV](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E7%83%AD%E8%BE%A3%E8%9C%95%E5%8F%98%E6%9B%B2MV%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
