@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 18:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 18:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [特朗普卖鞋](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [贾玲仪态](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%BB%AA%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [开工首日iPhone15降至4588元](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B7%A5%E9%A6%96%E6%97%A5iPhone15%E9%99%8D%E8%87%B34588%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子驾车昏迷民警手撕车窗救人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E6%98%8F%E8%BF%B7%E6%B0%91%E8%AD%A6%E6%89%8B%E6%92%95%E8%BD%A6%E7%AA%97%E6%95%91%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [女儿舍不得父母返程时真情流泪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%88%8D%E4%B8%8D%E5%BE%97%E7%88%B6%E6%AF%8D%E8%BF%94%E7%A8%8B%E6%97%B6%E7%9C%9F%E6%83%85%E6%B5%81%E6%B3%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
