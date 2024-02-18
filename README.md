@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 04:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 04:23:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [太古里牵手门女当事人直播间被封](https://www.baidu.com/s?wd=%E5%A4%AA%E5%8F%A4%E9%87%8C%E7%89%B5%E6%89%8B%E9%97%A8%E5%A5%B3%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%9B%B4%E6%92%AD%E9%97%B4%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [星巴克回应推出红烧肉拿铁](https://www.baidu.com/s?wd=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%9B%9E%E5%BA%94%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%83%A7%E8%82%89%E6%8B%BF%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉多所学校延迟返校](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%9A%E6%89%80%E5%AD%A6%E6%A0%A1%E5%BB%B6%E8%BF%9F%E8%BF%94%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知名景区大量游客就餐后上吐下泻](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%87%8F%E6%B8%B8%E5%AE%A2%E5%B0%B1%E9%A4%90%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [-52.3℃！新疆最低温破历史极值](https://www.baidu.com/s?wd=-52.3%E2%84%83%EF%BC%81%E6%96%B0%E7%96%86%E6%9C%80%E4%BD%8E%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [太古里牵手门女当事人直播间被封](https://www.baidu.com/s?wd=%E5%A4%AA%E5%8F%A4%E9%87%8C%E7%89%B5%E6%89%8B%E9%97%A8%E5%A5%B3%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%9B%B4%E6%92%AD%E9%97%B4%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [星巴克回应推出红烧肉拿铁](https://www.baidu.com/s?wd=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%9B%9E%E5%BA%94%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%83%A7%E8%82%89%E6%8B%BF%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉多所学校延迟返校](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%9A%E6%89%80%E5%AD%A6%E6%A0%A1%E5%BB%B6%E8%BF%9F%E8%BF%94%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [知名景区大量游客就餐后上吐下泻](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%87%8F%E6%B8%B8%E5%AE%A2%E5%B0%B1%E9%A4%90%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [-52.3℃！新疆最低温破历史极值](https://www.baidu.com/s?wd=-52.3%E2%84%83%EF%BC%81%E6%96%B0%E7%96%86%E6%9C%80%E4%BD%8E%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
