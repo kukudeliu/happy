@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 22:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 22:08:02</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [中国冰雪，加油！](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%B0%E9%9B%AA%EF%BC%8C%E5%8A%A0%E6%B2%B9%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [江山就是人民](https://www.baidu.com/s?wd=%E6%B1%9F%E5%B1%B1%E5%B0%B1%E6%98%AF%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [网友称因高速太堵跟领导请假被拒](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%9B%A0%E9%AB%98%E9%80%9F%E5%A4%AA%E5%A0%B5%E8%B7%9F%E9%A2%86%E5%AF%BC%E8%AF%B7%E5%81%87%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多地结婚人数现近年来首次回升](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E7%8E%B0%E8%BF%91%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济新春面面观](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%98%A5%E9%9D%A2%E9%9D%A2%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [中国冰雪，加油！](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%B0%E9%9B%AA%EF%BC%8C%E5%8A%A0%E6%B2%B9%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [江山就是人民](https://www.baidu.com/s?wd=%E6%B1%9F%E5%B1%B1%E5%B0%B1%E6%98%AF%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [网友称因高速太堵跟领导请假被拒](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%9B%A0%E9%AB%98%E9%80%9F%E5%A4%AA%E5%A0%B5%E8%B7%9F%E9%A2%86%E5%AF%BC%E8%AF%B7%E5%81%87%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多地结婚人数现近年来首次回升](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E7%8E%B0%E8%BF%91%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济新春面面观](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%98%A5%E9%9D%A2%E9%9D%A2%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
