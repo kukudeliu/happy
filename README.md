@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:16:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [中国冰雪，加油！](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%B0%E9%9B%AA%EF%BC%8C%E5%8A%A0%E6%B2%B9%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [司机卡点最后一分钟免费下高速](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%8D%A1%E7%82%B9%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%86%E9%92%9F%E5%85%8D%E8%B4%B9%E4%B8%8B%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [演员李勤勤收养周海媚爱犬](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E6%9D%8E%E5%8B%A4%E5%8B%A4%E6%94%B6%E5%85%BB%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%88%B1%E7%8A%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [春节上门喂宠物8天挣上万](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E4%B8%8A%E9%97%A8%E5%96%82%E5%AE%A0%E7%89%A98%E5%A4%A9%E6%8C%A3%E4%B8%8A%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [网友称因高速太堵跟领导请假被拒](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%9B%A0%E9%AB%98%E9%80%9F%E5%A4%AA%E5%A0%B5%E8%B7%9F%E9%A2%86%E5%AF%BC%E8%AF%B7%E5%81%87%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济新春面面观](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%98%A5%E9%9D%A2%E9%9D%A2%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [网友称因高速太堵跟领导请假被拒](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%9B%A0%E9%AB%98%E9%80%9F%E5%A4%AA%E5%A0%B5%E8%B7%9F%E9%A2%86%E5%AF%BC%E8%AF%B7%E5%81%87%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [学校否认秦朗巴黎丢寒假作业](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%90%A6%E8%AE%A4%E7%A7%A6%E6%9C%97%E5%B7%B4%E9%BB%8E%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [国台办：坚决支持大陆海警部门行动](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%94%AF%E6%8C%81%E5%A4%A7%E9%99%86%E6%B5%B7%E8%AD%A6%E9%83%A8%E9%97%A8%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子高速遭陌生男子爬车顶抢方向盘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%80%9F%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E7%88%AC%E8%BD%A6%E9%A1%B6%E6%8A%A2%E6%96%B9%E5%90%91%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [学校否认秦朗巴黎丢寒假作业](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%90%A6%E8%AE%A4%E7%A7%A6%E6%9C%97%E5%B7%B4%E9%BB%8E%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国台办：坚决支持大陆海警部门行动](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%94%AF%E6%8C%81%E5%A4%A7%E9%99%86%E6%B5%B7%E8%AD%A6%E9%83%A8%E9%97%A8%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子高速遭陌生男子爬车顶抢方向盘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%80%9F%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E7%88%AC%E8%BD%A6%E9%A1%B6%E6%8A%A2%E6%96%B9%E5%90%91%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子汽车钥匙中藏123克黄金入境被查](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B1%BD%E8%BD%A6%E9%92%A5%E5%8C%99%E4%B8%AD%E8%97%8F123%E5%85%8B%E9%BB%84%E9%87%91%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛警方辟谣捡钱包信息](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%8D%A1%E9%92%B1%E5%8C%85%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [中国冰雪，加油！](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%B0%E9%9B%AA%EF%BC%8C%E5%8A%A0%E6%B2%B9%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [司机卡点最后一分钟免费下高速](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E5%8D%A1%E7%82%B9%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%86%E9%92%9F%E5%85%8D%E8%B4%B9%E4%B8%8B%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [演员李勤勤收养周海媚爱犬](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E6%9D%8E%E5%8B%A4%E5%8B%A4%E6%94%B6%E5%85%BB%E5%91%A8%E6%B5%B7%E5%AA%9A%E7%88%B1%E7%8A%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [春节上门喂宠物8天挣上万](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E4%B8%8A%E9%97%A8%E5%96%82%E5%AE%A0%E7%89%A98%E5%A4%A9%E6%8C%A3%E4%B8%8A%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [网友称因高速太堵跟领导请假被拒](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%9B%A0%E9%AB%98%E9%80%9F%E5%A4%AA%E5%A0%B5%E8%B7%9F%E9%A2%86%E5%AF%BC%E8%AF%B7%E5%81%87%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国经济新春面面观](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%98%A5%E9%9D%A2%E9%9D%A2%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [网友称因高速太堵跟领导请假被拒](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%9B%A0%E9%AB%98%E9%80%9F%E5%A4%AA%E5%A0%B5%E8%B7%9F%E9%A2%86%E5%AF%BC%E8%AF%B7%E5%81%87%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [学校否认秦朗巴黎丢寒假作业](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%90%A6%E8%AE%A4%E7%A7%A6%E6%9C%97%E5%B7%B4%E9%BB%8E%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [国台办：坚决支持大陆海警部门行动](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%94%AF%E6%8C%81%E5%A4%A7%E9%99%86%E6%B5%B7%E8%AD%A6%E9%83%A8%E9%97%A8%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子高速遭陌生男子爬车顶抢方向盘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%80%9F%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E7%88%AC%E8%BD%A6%E9%A1%B6%E6%8A%A2%E6%96%B9%E5%90%91%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [学校否认秦朗巴黎丢寒假作业](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%90%A6%E8%AE%A4%E7%A7%A6%E6%9C%97%E5%B7%B4%E9%BB%8E%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国台办：坚决支持大陆海警部门行动](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%94%AF%E6%8C%81%E5%A4%A7%E9%99%86%E6%B5%B7%E8%AD%A6%E9%83%A8%E9%97%A8%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子高速遭陌生男子爬车顶抢方向盘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%80%9F%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E7%88%AC%E8%BD%A6%E9%A1%B6%E6%8A%A2%E6%96%B9%E5%90%91%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子汽车钥匙中藏123克黄金入境被查](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B1%BD%E8%BD%A6%E9%92%A5%E5%8C%99%E4%B8%AD%E8%97%8F123%E5%85%8B%E9%BB%84%E9%87%91%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛警方辟谣捡钱包信息](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%8D%A1%E9%92%B1%E5%8C%85%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
