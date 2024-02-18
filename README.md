@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 16:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 16:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [薛之谦 你们人类有两幅面孔](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E4%BD%A0%E4%BB%AC%E4%BA%BA%E7%B1%BB%E6%9C%89%E4%B8%A4%E5%B9%85%E9%9D%A2%E5%AD%94&t=31&band_rank=6&Refer=top)<br />
 7. [林孝埈1000米小组第一](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%881000%E7%B1%B3%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [林孝埈刘少昂摔出赛道](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E5%88%98%E5%B0%91%E6%98%82%E6%91%94%E5%87%BA%E8%B5%9B%E9%81%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [马丽测评了14条光腿神器](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E6%B5%8B%E8%AF%84%E4%BA%8614%E6%9D%A1%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [开工首日iPhone15降至4588元](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B7%A5%E9%A6%96%E6%97%A5iPhone15%E9%99%8D%E8%87%B34588%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
