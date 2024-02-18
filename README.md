@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 09:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 09:04:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [周杰伦感谢霉霉给的演唱会门票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%84%9F%E8%B0%A2%E9%9C%89%E9%9C%89%E7%BB%99%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8&t=31&band_rank=5&Refer=top)<br />
 6. [赵丽颖巴黎逛街](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%B4%E9%BB%8E%E9%80%9B%E8%A1%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [昨晚失眠](https://s.weibo.com/weibo?q=%E6%98%A8%E6%99%9A%E5%A4%B1%E7%9C%A0&t=31&band_rank=7&Refer=top)<br />
-8. [何老师给白敬亭擦脸](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%80%81%E5%B8%88%E7%BB%99%E7%99%BD%E6%95%AC%E4%BA%AD%E6%93%A6%E8%84%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [对台方无视大陆渔民生命安全决不容忍](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%8F%B0%E6%96%B9%E6%97%A0%E8%A7%86%E5%A4%A7%E9%99%86%E6%B8%94%E6%B0%91%E7%94%9F%E5%91%BD%E5%AE%89%E5%85%A8%E5%86%B3%E4%B8%8D%E5%AE%B9%E5%BF%8D%23&t=31&band_rank=9&Refer=top)<br />
+8. [想请假](https://s.weibo.com/weibo?q=%E6%83%B3%E8%AF%B7%E5%81%87&t=31&band_rank=8&Refer=top)<br />
+9. [何老师给白敬亭擦脸](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%80%81%E5%B8%88%E7%BB%99%E7%99%BD%E6%95%AC%E4%BA%AD%E6%93%A6%E8%84%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
