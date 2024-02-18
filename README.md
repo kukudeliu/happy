@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 01:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 01:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张婧仪女教师](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%A5%B3%E6%95%99%E5%B8%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [成都一家三口共花不到两千离开海南](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%85%B1%E8%8A%B1%E4%B8%8D%E5%88%B0%E4%B8%A4%E5%8D%83%E7%A6%BB%E5%BC%80%E6%B5%B7%E5%8D%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [巴音布鲁克之王](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%9F%B3%E5%B8%83%E9%B2%81%E5%85%8B%E4%B9%8B%E7%8E%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [范丞丞 你们别告诉腾哥](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E4%BD%A0%E4%BB%AC%E5%88%AB%E5%91%8A%E8%AF%89%E8%85%BE%E5%93%A5&t=31&band_rank=9&Refer=top)<br />
+9. [前女友爆料卜凡的狗被毒死](https://s.weibo.com/weibo?q=%E5%89%8D%E5%A5%B3%E5%8F%8B%E7%88%86%E6%96%99%E5%8D%9C%E5%87%A1%E7%9A%84%E7%8B%97%E8%A2%AB%E6%AF%92%E6%AD%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
