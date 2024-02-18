@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:45:01</h4></div>
 
 > 微博  
 
 1. [乐莹抽烟](https://s.weibo.com/weibo?q=%E4%B9%90%E8%8E%B9%E6%8A%BD%E7%83%9F&t=31&band_rank=1&Refer=top)<br />
-2. [为什么卫生巾广告用蓝色液体](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%B9%BF%E5%91%8A%E7%94%A8%E8%93%9D%E8%89%B2%E6%B6%B2%E4%BD%93&t=31&band_rank=2&Refer=top)<br />
+2. [正式确诊为魏晨](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%AD%8F%E6%99%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024春节档电影票房创纪录](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E5%88%9B%E7%BA%AA%E5%BD%95%23&t=31&band_rank=3&Refer=top)<br />
-4. [正式确诊为魏晨](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%AD%8F%E6%99%A8%23&t=31&band_rank=4&Refer=top)<br />
+4. [为什么卫生巾广告用蓝色液体](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%B9%BF%E5%91%8A%E7%94%A8%E8%93%9D%E8%89%B2%E6%B6%B2%E4%BD%93&t=31&band_rank=4&Refer=top)<br />
 5. [开心消消乐崩了](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E5%B4%A9%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [瑞幸9.9元一杯活动缩水](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B89.9%E5%85%83%E4%B8%80%E6%9D%AF%E6%B4%BB%E5%8A%A8%E7%BC%A9%E6%B0%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [马思纯减肥Vlog](https://s.weibo.com/weibo?q=%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%87%8F%E8%82%A5Vlog&t=31&band_rank=7&Refer=top)<br />
