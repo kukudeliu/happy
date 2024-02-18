@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 22:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 22:27:01</h4></div>
 
 > 微博  
 
 1. [秦朗舅舅](https://s.weibo.com/weibo?q=%E7%A7%A6%E6%9C%97%E8%88%85%E8%88%85&t=31&band_rank=1&Refer=top)<br />
-2. [正式确诊为魏晨](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%AD%8F%E6%99%A8%23&t=31&band_rank=2&Refer=top)<br />
+2. [巴音布鲁克之王](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%9F%B3%E5%B8%83%E9%B2%81%E5%85%8B%E4%B9%8B%E7%8E%8B&t=31&band_rank=2&Refer=top)<br />
 3. [新春第一会为啥聚焦人才](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%98%A5%E7%AC%AC%E4%B8%80%E4%BC%9A%E4%B8%BA%E5%95%A5%E8%81%9A%E7%84%A6%E4%BA%BA%E6%89%8D%23&t=31&band_rank=3&Refer=top)<br />
-4. [巴音布鲁克之王](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%9F%B3%E5%B8%83%E9%B2%81%E5%85%8B%E4%B9%8B%E7%8E%8B&t=31&band_rank=4&Refer=top)<br />
+4. [正式确诊为魏晨](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%AD%8F%E6%99%A8%23&t=31&band_rank=4&Refer=top)<br />
 5. [为什么卫生巾广告用蓝色液体](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%B9%BF%E5%91%8A%E7%94%A8%E8%93%9D%E8%89%B2%E6%B6%B2%E4%BD%93&t=31&band_rank=5&Refer=top)<br />
 6. [飞驰2破25亿全员呼应上了](https://s.weibo.com/weibo?q=%E9%A3%9E%E9%A9%B02%E7%A0%B425%E4%BA%BF%E5%85%A8%E5%91%98%E5%91%BC%E5%BA%94%E4%B8%8A%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [制片人说赵今麦五页纸不卡词](https://s.weibo.com/weibo?q=%E5%88%B6%E7%89%87%E4%BA%BA%E8%AF%B4%E8%B5%B5%E4%BB%8A%E9%BA%A6%E4%BA%94%E9%A1%B5%E7%BA%B8%E4%B8%8D%E5%8D%A1%E8%AF%8D&t=31&band_rank=7&Refer=top)<br />
