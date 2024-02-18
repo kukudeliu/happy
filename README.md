@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 19:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 19:18:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [开年第一弹智造业强省](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%BC%B9%E6%99%BA%E9%80%A0%E4%B8%9A%E5%BC%BA%E7%9C%81%23&t=31&band_rank=3&Refer=top)<br />
 4. [咒术回战全员死亡](https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E5%85%A8%E5%91%98%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [男歌手父亲吸入鞭炮烟气喘发作去世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%AD%8C%E6%89%8B%E7%88%B6%E4%BA%B2%E5%90%B8%E5%85%A5%E9%9E%AD%E7%82%AE%E7%83%9F%E6%B0%94%E5%96%98%E5%8F%91%E4%BD%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [林孝埈摔出赛道没有回放](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E6%91%94%E5%87%BA%E8%B5%9B%E9%81%93%E6%B2%A1%E6%9C%89%E5%9B%9E%E6%94%BE%23&t=31&band_rank=6&Refer=top)<br />
-7. [瑞幸9.9元一杯活动缩水](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B89.9%E5%85%83%E4%B8%80%E6%9D%AF%E6%B4%BB%E5%8A%A8%E7%BC%A9%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [热辣滚烫票房破28亿](https://s.weibo.com/weibo?q=%23%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E7%A5%A8%E6%88%BF%E7%A0%B428%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
+6. [乐莹抽烟](https://s.weibo.com/weibo?q=%E4%B9%90%E8%8E%B9%E6%8A%BD%E7%83%9F&t=31&band_rank=6&Refer=top)<br />
+7. [林孝埈摔出赛道没有回放](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E6%91%94%E5%87%BA%E8%B5%9B%E9%81%93%E6%B2%A1%E6%9C%89%E5%9B%9E%E6%94%BE%23&t=31&band_rank=7&Refer=top)<br />
+8. [瑞幸9.9元一杯活动缩水](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B89.9%E5%85%83%E4%B8%80%E6%9D%AF%E6%B4%BB%E5%8A%A8%E7%BC%A9%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [男子驾车昏迷民警手撕车窗救人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E6%98%8F%E8%BF%B7%E6%B0%91%E8%AD%A6%E6%89%8B%E6%92%95%E8%BD%A6%E7%AA%97%E6%95%91%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [网友称因高速太堵跟领导请假被拒](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%9B%A0%E9%AB%98%E9%80%9F%E5%A4%AA%E5%A0%B5%E8%B7%9F%E9%A2%86%E5%AF%BC%E8%AF%B7%E5%81%87%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子套大鹅精准打击 收获满满](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A5%97%E5%A4%A7%E9%B9%85%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB+%E6%94%B6%E8%8E%B7%E6%BB%A1%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国际金价跌破2000美元每盎司](https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B42000%E7%BE%8E%E5%85%83%E6%AF%8F%E7%9B%8E%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子返程20小时换乘5种交通工具](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%94%E7%A8%8B20%E5%B0%8F%E6%97%B6%E6%8D%A2%E4%B9%985%E7%A7%8D%E4%BA%A4%E9%80%9A%E5%B7%A5%E5%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [丢寒假作业的秦朗家人回应](https://www.baidu.com/s?wd=%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E7%9A%84%E7%A7%A6%E6%9C%97%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛警方辟谣捡钱包信息](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%8D%A1%E9%92%B1%E5%8C%85%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [网友称因高速太堵跟领导请假被拒](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%9B%A0%E9%AB%98%E9%80%9F%E5%A4%AA%E5%A0%B5%E8%B7%9F%E9%A2%86%E5%AF%BC%E8%AF%B7%E5%81%87%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子套大鹅精准打击 收获满满](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A5%97%E5%A4%A7%E9%B9%85%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB+%E6%94%B6%E8%8E%B7%E6%BB%A1%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国际金价跌破2000美元每盎司](https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B42000%E7%BE%8E%E5%85%83%E6%AF%8F%E7%9B%8E%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子返程20小时换乘5种交通工具](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BF%94%E7%A8%8B20%E5%B0%8F%E6%97%B6%E6%8D%A2%E4%B9%985%E7%A7%8D%E4%BA%A4%E9%80%9A%E5%B7%A5%E5%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [丢寒假作业的秦朗家人回应](https://www.baidu.com/s?wd=%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E7%9A%84%E7%A7%A6%E6%9C%97%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛警方辟谣捡钱包信息](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%8D%A1%E9%92%B1%E5%8C%85%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
