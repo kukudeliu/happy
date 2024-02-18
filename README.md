@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 20:35:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2024春节档电影票房创纪录](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E5%88%9B%E7%BA%AA%E5%BD%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [开心消消乐崩了](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E5%B4%A9%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [瑞幸9.9元一杯活动缩水](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B89.9%E5%85%83%E4%B8%80%E6%9D%AF%E6%B4%BB%E5%8A%A8%E7%BC%A9%E6%B0%B4%23&t=31&band_rank=5&Refer=top)<br />
-6. [男歌手父亲吸入鞭炮烟气喘发作去世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%AD%8C%E6%89%8B%E7%88%B6%E4%BA%B2%E5%90%B8%E5%85%A5%E9%9E%AD%E7%82%AE%E7%83%9F%E6%B0%94%E5%96%98%E5%8F%91%E4%BD%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [马思纯减肥Vlog](https://s.weibo.com/weibo?q=%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%87%8F%E8%82%A5Vlog&t=31&band_rank=7&Refer=top)<br />
+6. [马思纯减肥Vlog](https://s.weibo.com/weibo?q=%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%87%8F%E8%82%A5Vlog&t=31&band_rank=6&Refer=top)<br />
+7. [男歌手父亲吸入鞭炮烟气喘发作去世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%AD%8C%E6%89%8B%E7%88%B6%E4%BA%B2%E5%90%B8%E5%85%A5%E9%9E%AD%E7%82%AE%E7%83%9F%E6%B0%94%E5%96%98%E5%8F%91%E4%BD%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [人民网评飞驰人生2](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F2%23&t=31&band_rank=8&Refer=top)<br />
 9. [林孝埈摔出赛道没有回放](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E6%91%94%E5%87%BA%E8%B5%9B%E9%81%93%E6%B2%A1%E6%9C%89%E5%9B%9E%E6%94%BE%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [学校否认秦朗巴黎丢寒假作业](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%90%A6%E8%AE%A4%E7%A7%A6%E6%9C%97%E5%B7%B4%E9%BB%8E%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家：上班前3天不宜安排高强度工作](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%8A%E7%8F%AD%E5%89%8D3%E5%A4%A9%E4%B8%8D%E5%AE%9C%E5%AE%89%E6%8E%92%E9%AB%98%E5%BC%BA%E5%BA%A6%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子高速遭陌生男子爬车顶抢方向盘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%80%9F%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E7%88%AC%E8%BD%A6%E9%A1%B6%E6%8A%A2%E6%96%B9%E5%90%91%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子套大鹅精准打击 收获满满](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A5%97%E5%A4%A7%E9%B9%85%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB+%E6%94%B6%E8%8E%B7%E6%BB%A1%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [知名景区大量游客就餐后上吐下泻](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%87%8F%E6%B8%B8%E5%AE%A2%E5%B0%B1%E9%A4%90%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛警方辟谣捡钱包信息](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%8D%A1%E9%92%B1%E5%8C%85%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [学校否认秦朗巴黎丢寒假作业](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E5%90%A6%E8%AE%A4%E7%A7%A6%E6%9C%97%E5%B7%B4%E9%BB%8E%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家：上班前3天不宜安排高强度工作](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%8A%E7%8F%AD%E5%89%8D3%E5%A4%A9%E4%B8%8D%E5%AE%9C%E5%AE%89%E6%8E%92%E9%AB%98%E5%BC%BA%E5%BA%A6%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子高速遭陌生男子爬车顶抢方向盘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%80%9F%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E7%88%AC%E8%BD%A6%E9%A1%B6%E6%8A%A2%E6%96%B9%E5%90%91%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子套大鹅精准打击 收获满满](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A5%97%E5%A4%A7%E9%B9%85%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB+%E6%94%B6%E8%8E%B7%E6%BB%A1%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [知名景区大量游客就餐后上吐下泻](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%87%8F%E6%B8%B8%E5%AE%A2%E5%B0%B1%E9%A4%90%E5%90%8E%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青岛警方辟谣捡钱包信息](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%8D%A1%E9%92%B1%E5%8C%85%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
