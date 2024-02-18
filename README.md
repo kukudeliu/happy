@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 14:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 14:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [两个贾玲对唱](https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AA%E8%B4%BE%E7%8E%B2%E5%AF%B9%E5%94%B1&t=31&band_rank=6&Refer=top)<br />
 7. [内娱大冰](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%A4%A7%E5%86%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [把掰了四年的朋友微博看完了](https://s.weibo.com/weibo?q=%E6%8A%8A%E6%8E%B0%E4%BA%86%E5%9B%9B%E5%B9%B4%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%BE%AE%E5%8D%9A%E7%9C%8B%E5%AE%8C%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [虞书欣父母退出涉诈骗公司](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%88%B6%E6%AF%8D%E9%80%80%E5%87%BA%E6%B6%89%E8%AF%88%E9%AA%97%E5%85%AC%E5%8F%B8%23&t=31&band_rank=9&Refer=top)<br />
+9. [YouTube前CEO之子在校突然身亡](https://s.weibo.com/weibo?q=%23YouTube%E5%89%8DCEO%E4%B9%8B%E5%AD%90%E5%9C%A8%E6%A0%A1%E7%AA%81%E7%84%B6%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
