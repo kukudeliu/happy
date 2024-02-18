@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 23:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-18 23:49:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [秦朗舅舅](https://s.weibo.com/weibo?q=%E7%A7%A6%E6%9C%97%E8%88%85%E8%88%85&t=31&band_rank=5&Refer=top)<br />
 6. [巴音布鲁克之王](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%9F%B3%E5%B8%83%E9%B2%81%E5%85%8B%E4%B9%8B%E7%8E%8B&t=31&band_rank=6&Refer=top)<br />
 7. [吴尊感谢昆凌给的霉霉演唱会门票](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E6%84%9F%E8%B0%A2%E6%98%86%E5%87%8C%E7%BB%99%E7%9A%84%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [范丞丞四年前考赛车执照的照片](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%9B%9B%E5%B9%B4%E5%89%8D%E8%80%83%E8%B5%9B%E8%BD%A6%E6%89%A7%E7%85%A7%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [曹县卖了3亿的马面裙依然供不应求](https://s.weibo.com/weibo?q=%23%E6%9B%B9%E5%8E%BF%E5%8D%96%E4%BA%863%E4%BA%BF%E7%9A%84%E9%A9%AC%E9%9D%A2%E8%A3%99%E4%BE%9D%E7%84%B6%E4%BE%9B%E4%B8%8D%E5%BA%94%E6%B1%82%23&t=31&band_rank=9&Refer=top)<br />
+8. [曹县卖了3亿的马面裙依然供不应求](https://s.weibo.com/weibo?q=%23%E6%9B%B9%E5%8E%BF%E5%8D%96%E4%BA%863%E4%BA%BF%E7%9A%84%E9%A9%AC%E9%9D%A2%E8%A3%99%E4%BE%9D%E7%84%B6%E4%BE%9B%E4%B8%8D%E5%BA%94%E6%B1%82%23&t=31&band_rank=8&Refer=top)<br />
+9. [范丞丞四年前考赛车执照的照片](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%9B%9B%E5%B9%B4%E5%89%8D%E8%80%83%E8%B5%9B%E8%BD%A6%E6%89%A7%E7%85%A7%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [-52.3℃！新疆最低温破历史极值](https://www.baidu.com/s?wd=-52.3%E2%84%83%EF%BC%81%E6%96%B0%E7%96%86%E6%9C%80%E4%BD%8E%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子吃席发现村里开始上预制菜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E5%B8%AD%E5%8F%91%E7%8E%B0%E6%9D%91%E9%87%8C%E5%BC%80%E5%A7%8B%E4%B8%8A%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [当97岁奶奶没戴假牙吃草莓](https://www.baidu.com/s?wd=%E5%BD%9397%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%B2%A1%E6%88%B4%E5%81%87%E7%89%99%E5%90%83%E8%8D%89%E8%8E%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [列车上乘客搭人梯“传”小朋友如厕](https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E4%B8%8A%E4%B9%98%E5%AE%A2%E6%90%AD%E4%BA%BA%E6%A2%AF%E2%80%9C%E4%BC%A0%E2%80%9D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%A6%82%E5%8E%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高速免费最后时刻司机狂按喇叭](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%E5%8F%B8%E6%9C%BA%E7%8B%82%E6%8C%89%E5%96%87%E5%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [-52.3℃！新疆最低温破历史极值](https://www.baidu.com/s?wd=-52.3%E2%84%83%EF%BC%81%E6%96%B0%E7%96%86%E6%9C%80%E4%BD%8E%E6%B8%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子吃席发现村里开始上预制菜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E5%B8%AD%E5%8F%91%E7%8E%B0%E6%9D%91%E9%87%8C%E5%BC%80%E5%A7%8B%E4%B8%8A%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [当97岁奶奶没戴假牙吃草莓](https://www.baidu.com/s?wd=%E5%BD%9397%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%B2%A1%E6%88%B4%E5%81%87%E7%89%99%E5%90%83%E8%8D%89%E8%8E%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [列车上乘客搭人梯“传”小朋友如厕](https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E4%B8%8A%E4%B9%98%E5%AE%A2%E6%90%AD%E4%BA%BA%E6%A2%AF%E2%80%9C%E4%BC%A0%E2%80%9D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%A6%82%E5%8E%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [高速免费最后时刻司机狂按喇叭](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%E5%8F%B8%E6%9C%BA%E7%8B%82%E6%8C%89%E5%96%87%E5%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“迷你蔬菜”更有营养？](https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%B7%E4%BD%A0%E8%94%AC%E8%8F%9C%E2%80%9D%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
