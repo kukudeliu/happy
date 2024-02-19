@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 16:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 16:13:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [学校通报“女教师出轨男学生”](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E7%94%B7%E5%AD%A6%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘雨欣洛杉矶家被偷空](https://www.baidu.com/s?wd=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%AE%B6%E8%A2%AB%E5%81%B7%E7%A9%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡夏带礼物见金晨父母](https://www.baidu.com/s?wd=%E8%83%A1%E5%A4%8F%E5%B8%A6%E7%A4%BC%E7%89%A9%E8%A7%81%E9%87%91%E6%99%A8%E7%88%B6%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [巴西总统称以色列实施种族灭绝](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%9E%E6%96%BD%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [徐冬冬婚礼喝椰汁](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E5%A9%9A%E7%A4%BC%E5%96%9D%E6%A4%B0%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [无锡发生多人命案？不实](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%8F%91%E7%94%9F%E5%A4%9A%E4%BA%BA%E5%91%BD%E6%A1%88%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [学校通报“女教师出轨男学生”](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E7%94%B7%E5%AD%A6%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘雨欣洛杉矶家被偷空](https://www.baidu.com/s?wd=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%AE%B6%E8%A2%AB%E5%81%B7%E7%A9%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡夏带礼物见金晨父母](https://www.baidu.com/s?wd=%E8%83%A1%E5%A4%8F%E5%B8%A6%E7%A4%BC%E7%89%A9%E8%A7%81%E9%87%91%E6%99%A8%E7%88%B6%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [巴西总统称以色列实施种族灭绝](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%9E%E6%96%BD%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [徐冬冬婚礼喝椰汁](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E5%A9%9A%E7%A4%BC%E5%96%9D%E6%A4%B0%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [无锡发生多人命案？不实](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%8F%91%E7%94%9F%E5%A4%9A%E4%BA%BA%E5%91%BD%E6%A1%88%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
