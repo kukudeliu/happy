@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 06:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 06:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女子吐槽高铁上不售卖卫生巾](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E9%AB%98%E9%93%81%E4%B8%8A%E4%B8%8D%E5%94%AE%E5%8D%96%E5%8D%AB%E7%94%9F%E5%B7%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [学校通报女教师出轨高中生](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E9%AB%98%E4%B8%AD%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [上海飞大阪机票仅8元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%A3%9E%E5%A4%A7%E9%98%AA%E6%9C%BA%E7%A5%A8%E4%BB%858%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [梅西13天3次回应均未道歉](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF13%E5%A4%A93%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%9D%87%E6%9C%AA%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [小学老师群发寒假作业烂尾预警](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E7%BE%A4%E5%8F%91%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E7%83%82%E5%B0%BE%E9%A2%84%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
