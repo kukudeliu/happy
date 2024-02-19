@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 16:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 16:24:02</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [谈人民至上 总书记引用了这些典故](https://www.baidu.com/s?wd=%E8%B0%88%E4%BA%BA%E6%B0%91%E8%87%B3%E4%B8%8A+%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E7%94%A8%E4%BA%86%E8%BF%99%E4%BA%9B%E5%85%B8%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [学校通报“女教师出轨男学生”](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E7%94%B7%E5%AD%A6%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [颜宁谈贾玲新造型：陷入刻板审美](https://www.baidu.com/s?wd=%E9%A2%9C%E5%AE%81%E8%B0%88%E8%B4%BE%E7%8E%B2%E6%96%B0%E9%80%A0%E5%9E%8B%EF%BC%9A%E9%99%B7%E5%85%A5%E5%88%BB%E6%9D%BF%E5%AE%A1%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [格力电器仍由董明珠掌舵](https://www.baidu.com/s?wd=%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%99%A8%E4%BB%8D%E7%94%B1%E8%91%A3%E6%98%8E%E7%8F%A0%E6%8E%8C%E8%88%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以实干开工！](https://www.baidu.com/s?wd=%E4%BB%A5%E5%AE%9E%E5%B9%B2%E5%BC%80%E5%B7%A5%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子举报妻子与副镇长非法同居](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%A6%BB%E5%AD%90%E4%B8%8E%E5%89%AF%E9%95%87%E9%95%BF%E9%9D%9E%E6%B3%95%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘雨欣洛杉矶家被偷空](https://www.baidu.com/s?wd=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%AE%B6%E8%A2%AB%E5%81%B7%E7%A9%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡夏带礼物见金晨父母](https://www.baidu.com/s?wd=%E8%83%A1%E5%A4%8F%E5%B8%A6%E7%A4%BC%E7%89%A9%E8%A7%81%E9%87%91%E6%99%A8%E7%88%B6%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐冬冬婚礼喝椰汁](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E5%A9%9A%E7%A4%BC%E5%96%9D%E6%A4%B0%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [颜宁谈贾玲新造型：陷入刻板审美](https://www.baidu.com/s?wd=%E9%A2%9C%E5%AE%81%E8%B0%88%E8%B4%BE%E7%8E%B2%E6%96%B0%E9%80%A0%E5%9E%8B%EF%BC%9A%E9%99%B7%E5%85%A5%E5%88%BB%E6%9D%BF%E5%AE%A1%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [无锡发生多人命案？不实](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%8F%91%E7%94%9F%E5%A4%9A%E4%BA%BA%E5%91%BD%E6%A1%88%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [谈人民至上 总书记引用了这些典故](https://www.baidu.com/s?wd=%E8%B0%88%E4%BA%BA%E6%B0%91%E8%87%B3%E4%B8%8A+%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E7%94%A8%E4%BA%86%E8%BF%99%E4%BA%9B%E5%85%B8%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [学校通报“女教师出轨男学生”](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E7%94%B7%E5%AD%A6%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [颜宁谈贾玲新造型：陷入刻板审美](https://www.baidu.com/s?wd=%E9%A2%9C%E5%AE%81%E8%B0%88%E8%B4%BE%E7%8E%B2%E6%96%B0%E9%80%A0%E5%9E%8B%EF%BC%9A%E9%99%B7%E5%85%A5%E5%88%BB%E6%9D%BF%E5%AE%A1%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [格力电器仍由董明珠掌舵](https://www.baidu.com/s?wd=%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%99%A8%E4%BB%8D%E7%94%B1%E8%91%A3%E6%98%8E%E7%8F%A0%E6%8E%8C%E8%88%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [以实干开工！](https://www.baidu.com/s?wd=%E4%BB%A5%E5%AE%9E%E5%B9%B2%E5%BC%80%E5%B7%A5%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子举报妻子与副镇长非法同居](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%A6%BB%E5%AD%90%E4%B8%8E%E5%89%AF%E9%95%87%E9%95%BF%E9%9D%9E%E6%B3%95%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘雨欣洛杉矶家被偷空](https://www.baidu.com/s?wd=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%AE%B6%E8%A2%AB%E5%81%B7%E7%A9%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡夏带礼物见金晨父母](https://www.baidu.com/s?wd=%E8%83%A1%E5%A4%8F%E5%B8%A6%E7%A4%BC%E7%89%A9%E8%A7%81%E9%87%91%E6%99%A8%E7%88%B6%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐冬冬婚礼喝椰汁](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E5%A9%9A%E7%A4%BC%E5%96%9D%E6%A4%B0%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [颜宁谈贾玲新造型：陷入刻板审美](https://www.baidu.com/s?wd=%E9%A2%9C%E5%AE%81%E8%B0%88%E8%B4%BE%E7%8E%B2%E6%96%B0%E9%80%A0%E5%9E%8B%EF%BC%9A%E9%99%B7%E5%85%A5%E5%88%BB%E6%9D%BF%E5%AE%A1%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [无锡发生多人命案？不实](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%8F%91%E7%94%9F%E5%A4%9A%E4%BA%BA%E5%91%BD%E6%A1%88%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
