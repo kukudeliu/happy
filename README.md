@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 18:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 18:11:02</h4></div>
 
 > 微博  
 
 1. [学校通报女教师出轨高中生](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E9%AB%98%E4%B8%AD%E7%94%9F%23&t=31&band_rank=1&Refer=top)<br />
 2. [妈妈一怒之下撤回了一个弟弟](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E4%B8%80%E6%80%92%E4%B9%8B%E4%B8%8B%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E5%BC%9F%E5%BC%9F&t=31&band_rank=2&Refer=top)<br />
 3. [一条微博总结春节假期](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%80%BB%E7%BB%93%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [邓为秒删](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E7%A7%92%E5%88%A0&t=31&band_rank=4&Refer=top)<br />
-5. [周杰伦 有狗还在吠代表你还是行的](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%9C%89%E7%8B%97%E8%BF%98%E5%9C%A8%E5%90%A0%E4%BB%A3%E8%A1%A8%E4%BD%A0%E8%BF%98%E6%98%AF%E8%A1%8C%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
+4. [周杰伦 有狗还在吠代表你还是行的](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%9C%89%E7%8B%97%E8%BF%98%E5%9C%A8%E5%90%A0%E4%BB%A3%E8%A1%A8%E4%BD%A0%E8%BF%98%E6%98%AF%E8%A1%8C%E7%9A%84&t=31&band_rank=4&Refer=top)<br />
+5. [邓为秒删](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E7%A7%92%E5%88%A0&t=31&band_rank=5&Refer=top)<br />
 6. [刘雨欣家被偷空](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E5%AE%B6%E8%A2%AB%E5%81%B7%E7%A9%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [寒假作业落巴黎事件舅舅账号被禁](https://s.weibo.com/weibo?q=%23%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E8%90%BD%E5%B7%B4%E9%BB%8E%E4%BA%8B%E4%BB%B6%E8%88%85%E8%88%85%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [徐志胜的经纪人是庞博](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E7%9A%84%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%98%AF%E5%BA%9E%E5%8D%9A%23&t=31&band_rank=8&Refer=top)<br />
