@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 03:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 03:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [东方甄选报警](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [律师称出轨女教师丈夫或涉嫌侮辱罪](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E5%87%BA%E8%BD%A8%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%88%E5%A4%AB%E6%88%96%E6%B6%89%E5%AB%8C%E4%BE%AE%E8%BE%B1%E7%BD%AA%23&t=31&band_rank=7&Refer=top)<br />
 8. [小学老师群发寒假作业烂尾预警](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E7%BE%A4%E5%8F%91%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E7%83%82%E5%B0%BE%E9%A2%84%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [邓为秒删](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E7%A7%92%E5%88%A0&t=31&band_rank=9&Refer=top)<br />
+9. [梅西13天3次回应均未道歉](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF13%E5%A4%A93%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%9D%87%E6%9C%AA%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
