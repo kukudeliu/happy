@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 10:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 10:55:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [吴尊评论](https://s.weibo.com/weibo?q=%E5%90%B4%E5%B0%8A%E8%AF%84%E8%AE%BA&t=31&band_rank=2&Refer=top)<br />
 3. [春节假期国内游4.74亿人次](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E5%9B%BD%E5%86%85%E6%B8%B84.74%E4%BA%BF%E4%BA%BA%E6%AC%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [胖东来未按标准试吃员工已不再开除](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E6%9C%AA%E6%8C%89%E6%A0%87%E5%87%86%E8%AF%95%E5%90%83%E5%91%98%E5%B7%A5%E5%B7%B2%E4%B8%8D%E5%86%8D%E5%BC%80%E9%99%A4%23&t=31&band_rank=4&Refer=top)<br />
-5. [车厘子到底是不是大号樱桃](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%8F%B7%E6%A8%B1%E6%A1%83%23&t=31&band_rank=5&Refer=top)<br />
-6. [比亚迪降价](https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%99%8D%E4%BB%B7&t=31&band_rank=6&Refer=top)<br />
+5. [比亚迪降价](https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%99%8D%E4%BB%B7&t=31&band_rank=5&Refer=top)<br />
+6. [车厘子到底是不是大号樱桃](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%8F%B7%E6%A8%B1%E6%A1%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [iPhone16Pro高清渲染图](https://s.weibo.com/weibo?q=%23iPhone16Pro%E9%AB%98%E6%B8%85%E6%B8%B2%E6%9F%93%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [自热火锅为什么失宠了](https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%83%AD%E7%81%AB%E9%94%85%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%B1%E5%AE%A0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [王鹤棣与詹姆斯见面](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%B8%8E%E8%A9%B9%E5%A7%86%E6%96%AF%E8%A7%81%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
