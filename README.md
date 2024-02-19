@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 16:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 16:05:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [邓为秒删](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E7%A7%92%E5%88%A0&t=31&band_rank=5&Refer=top)<br />
 6. [警方通报女网红在海底捞做不雅行为](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%81%9A%E4%B8%8D%E9%9B%85%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [17岁女孩误喝防冻液致多器官衰竭](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%87%B4%E5%A4%9A%E5%99%A8%E5%AE%98%E8%A1%B0%E7%AB%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [男子曝妻子虐待婆婆致死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9B%9D%E5%A6%BB%E5%AD%90%E8%99%90%E5%BE%85%E5%A9%86%E5%A9%86%E8%87%B4%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [颜宁](https://s.weibo.com/weibo?q=%E9%A2%9C%E5%AE%81&t=31&band_rank=9&Refer=top)<br />
+8. [种地吧](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
+9. [男子曝妻子虐待婆婆致死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9B%9D%E5%A6%BB%E5%AD%90%E8%99%90%E5%BE%85%E5%A9%86%E5%A9%86%E8%87%B4%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
