@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 16:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 16:04:02</h4></div>
 
 > 微博  
 
-1. [已暂停被举报出轨学生女教师工作](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E6%9A%82%E5%81%9C%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E5%AD%A6%E7%94%9F%E5%A5%B3%E6%95%99%E5%B8%88%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=1&Refer=top)<br />
-2. [学校通报女教师出轨高中生](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E9%AB%98%E4%B8%AD%E7%94%9F%23&t=31&band_rank=2&Refer=top)<br />
+1. [学校通报女教师出轨高中生](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E9%AB%98%E4%B8%AD%E7%94%9F%23&t=31&band_rank=1&Refer=top)<br />
+2. [已暂停被举报出轨学生女教师工作](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E6%9A%82%E5%81%9C%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E5%AD%A6%E7%94%9F%E5%A5%B3%E6%95%99%E5%B8%88%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=2&Refer=top)<br />
 3. [5架国产飞机新年组团出国门](https://s.weibo.com/weibo?q=%235%E6%9E%B6%E5%9B%BD%E4%BA%A7%E9%A3%9E%E6%9C%BA%E6%96%B0%E5%B9%B4%E7%BB%84%E5%9B%A2%E5%87%BA%E5%9B%BD%E9%97%A8%23&t=31&band_rank=3&Refer=top)<br />
 4. [刘雨欣家被偷空](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E5%AE%B6%E8%A2%AB%E5%81%B7%E7%A9%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [邓为秒删](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E7%A7%92%E5%88%A0&t=31&band_rank=5&Refer=top)<br />
@@ -23,8 +23,8 @@
 4. [以实干开工！](https://www.baidu.com/s?wd=%E4%BB%A5%E5%AE%9E%E5%B9%B2%E5%BC%80%E5%B7%A5%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [学校通报“女教师出轨男学生”](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E7%94%B7%E5%AD%A6%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘雨欣洛杉矶家被偷空](https://www.baidu.com/s?wd=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%AE%B6%E8%A2%AB%E5%81%B7%E7%A9%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [谷爱凌举水晶球庆祝夺冠](https://www.baidu.com/s?wd=%E8%B0%B7%E7%88%B1%E5%87%8C%E4%B8%BE%E6%B0%B4%E6%99%B6%E7%90%83%E5%BA%86%E7%A5%9D%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐冬冬婚礼喝椰汁](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E5%A9%9A%E7%A4%BC%E5%96%9D%E6%A4%B0%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [徐冬冬婚礼喝椰汁](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E5%A9%9A%E7%A4%BC%E5%96%9D%E6%A4%B0%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴西总统称以色列实施种族灭绝](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%9E%E6%96%BD%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [无锡发生多人命案？不实](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%8F%91%E7%94%9F%E5%A4%9A%E4%BA%BA%E5%91%BD%E6%A1%88%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [以实干开工！](https://www.baidu.com/s?wd=%E4%BB%A5%E5%AE%9E%E5%B9%B2%E5%BC%80%E5%B7%A5%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [学校通报“女教师出轨男学生”](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E7%94%B7%E5%AD%A6%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘雨欣洛杉矶家被偷空](https://www.baidu.com/s?wd=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%AE%B6%E8%A2%AB%E5%81%B7%E7%A9%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [谷爱凌举水晶球庆祝夺冠](https://www.baidu.com/s?wd=%E8%B0%B7%E7%88%B1%E5%87%8C%E4%B8%BE%E6%B0%B4%E6%99%B6%E7%90%83%E5%BA%86%E7%A5%9D%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐冬冬婚礼喝椰汁](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E5%A9%9A%E7%A4%BC%E5%96%9D%E6%A4%B0%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [徐冬冬婚礼喝椰汁](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E5%A9%9A%E7%A4%BC%E5%96%9D%E6%A4%B0%E6%B1%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴西总统称以色列实施种族灭绝](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%9E%E6%96%BD%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [无锡发生多人命案？不实](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%8F%91%E7%94%9F%E5%A4%9A%E4%BA%BA%E5%91%BD%E6%A1%88%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
