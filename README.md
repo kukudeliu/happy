@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 14:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 14:57:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [以实干开工！](https://www.baidu.com/s?wd=%E4%BB%A5%E5%AE%9E%E5%B9%B2%E5%BC%80%E5%B7%A5%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [胖东来试吃员工改为调离原岗位](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%AF%95%E5%90%83%E5%91%98%E5%B7%A5%E6%94%B9%E4%B8%BA%E8%B0%83%E7%A6%BB%E5%8E%9F%E5%B2%97%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [AI生成的西游记短片震惊网友](https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E7%9A%84%E8%A5%BF%E6%B8%B8%E8%AE%B0%E7%9F%AD%E7%89%87%E9%9C%87%E6%83%8A%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [巴西总统称以色列实施种族灭绝](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%9E%E6%96%BD%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蒙古国近66.8万头牲畜死亡](https://www.baidu.com/s?wd=%E8%92%99%E5%8F%A4%E5%9B%BD%E8%BF%9166.8%E4%B8%87%E5%A4%B4%E7%89%B2%E7%95%9C%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子举报妻子与副镇长非法同居](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%A6%BB%E5%AD%90%E4%B8%8E%E5%89%AF%E9%95%87%E9%95%BF%E9%9D%9E%E6%B3%95%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴西总统称以色列实施种族灭绝](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%9E%E6%96%BD%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [收费站提前1小时停止免费？不实](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E7%AB%99%E6%8F%90%E5%89%8D1%E5%B0%8F%E6%97%B6%E5%81%9C%E6%AD%A2%E5%85%8D%E8%B4%B9%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [以实干开工！](https://www.baidu.com/s?wd=%E4%BB%A5%E5%AE%9E%E5%B9%B2%E5%BC%80%E5%B7%A5%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [胖东来试吃员工改为调离原岗位](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%AF%95%E5%90%83%E5%91%98%E5%B7%A5%E6%94%B9%E4%B8%BA%E8%B0%83%E7%A6%BB%E5%8E%9F%E5%B2%97%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [AI生成的西游记短片震惊网友](https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E7%9A%84%E8%A5%BF%E6%B8%B8%E8%AE%B0%E7%9F%AD%E7%89%87%E9%9C%87%E6%83%8A%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [巴西总统称以色列实施种族灭绝](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%9E%E6%96%BD%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [蒙古国近66.8万头牲畜死亡](https://www.baidu.com/s?wd=%E8%92%99%E5%8F%A4%E5%9B%BD%E8%BF%9166.8%E4%B8%87%E5%A4%B4%E7%89%B2%E7%95%9C%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子举报妻子与副镇长非法同居](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%A6%BB%E5%AD%90%E4%B8%8E%E5%89%AF%E9%95%87%E9%95%BF%E9%9D%9E%E6%B3%95%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [巴西总统称以色列实施种族灭绝](https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%9E%E6%96%BD%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [收费站提前1小时停止免费？不实](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E7%AB%99%E6%8F%90%E5%89%8D1%E5%B0%8F%E6%97%B6%E5%81%9C%E6%AD%A2%E5%85%8D%E8%B4%B9%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
