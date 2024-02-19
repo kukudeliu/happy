@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 18:59:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [妈妈一怒之下撤回了一个弟弟](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E4%B8%80%E6%80%92%E4%B9%8B%E4%B8%8B%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E5%BC%9F%E5%BC%9F&t=31&band_rank=5&Refer=top)<br />
 6. [刘雨欣家被偷空](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E5%AE%B6%E8%A2%AB%E5%81%B7%E7%A9%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [邓为秒删](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E7%A7%92%E5%88%A0&t=31&band_rank=7&Refer=top)<br />
-8. [贾静雯回应女儿梧桐妹戴唇环舌环](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E9%9D%99%E9%9B%AF%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E6%A2%A7%E6%A1%90%E5%A6%B9%E6%88%B4%E5%94%87%E7%8E%AF%E8%88%8C%E7%8E%AF%23&t=31&band_rank=8&Refer=top)<br />
+8. [律师谈女教师出轨16岁高中生](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A816%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [这一刻姥姥也在想念她的孩子吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%88%BB%E5%A7%A5%E5%A7%A5%E4%B9%9F%E5%9C%A8%E6%83%B3%E5%BF%B5%E5%A5%B9%E7%9A%84%E5%AD%A9%E5%AD%90%E5%90%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
