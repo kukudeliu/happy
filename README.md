@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 20:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 20:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周杰伦 有狗还在吠代表你还是行的](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%9C%89%E7%8B%97%E8%BF%98%E5%9C%A8%E5%90%A0%E4%BB%A3%E8%A1%A8%E4%BD%A0%E8%BF%98%E6%98%AF%E8%A1%8C%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [曝光别人聊天记录违法吗](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%88%AB%E4%BA%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%BF%9D%E6%B3%95%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [白鹿和替身合照](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%92%8C%E6%9B%BF%E8%BA%AB%E5%90%88%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [想看BTS退伍结果注册成了士兵](https://s.weibo.com/weibo?q=%E6%83%B3%E7%9C%8BBTS%E9%80%80%E4%BC%8D%E7%BB%93%E6%9E%9C%E6%B3%A8%E5%86%8C%E6%88%90%E4%BA%86%E5%A3%AB%E5%85%B5&t=31&band_rank=9&Refer=top)<br />
+9. [再来十次大姨妈就过年了](https://s.weibo.com/weibo?q=%23%E5%86%8D%E6%9D%A5%E5%8D%81%E6%AC%A1%E5%A4%A7%E5%A7%A8%E5%A6%88%E5%B0%B1%E8%BF%87%E5%B9%B4%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
