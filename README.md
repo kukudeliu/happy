@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 19:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 19:49:02</h4></div>
 
 > 微博  
 
-1. [白鹿和替身合照](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%92%8C%E6%9B%BF%E8%BA%AB%E5%90%88%E7%85%A7%23&t=31&band_rank=1&Refer=top)<br />
-2. [刘雨欣 没绿卡没换国籍](https://s.weibo.com/weibo?q=%E5%88%98%E9%9B%A8%E6%AC%A3%20%E6%B2%A1%E7%BB%BF%E5%8D%A1%E6%B2%A1%E6%8D%A2%E5%9B%BD%E7%B1%8D&t=31&band_rank=2&Refer=top)<br />
+1. [刘雨欣 没绿卡没换国籍](https://s.weibo.com/weibo?q=%E5%88%98%E9%9B%A8%E6%AC%A3%20%E6%B2%A1%E7%BB%BF%E5%8D%A1%E6%B2%A1%E6%8D%A2%E5%9B%BD%E7%B1%8D&t=31&band_rank=1&Refer=top)<br />
+2. [白鹿和替身合照](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%92%8C%E6%9B%BF%E8%BA%AB%E5%90%88%E7%85%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [一条微博总结春节假期](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%80%BB%E7%BB%93%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [学校通报女教师出轨高中生](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E9%AB%98%E4%B8%AD%E7%94%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [周杰伦 有狗还在吠代表你还是行的](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%9C%89%E7%8B%97%E8%BF%98%E5%9C%A8%E5%90%A0%E4%BB%A3%E8%A1%A8%E4%BD%A0%E8%BF%98%E6%98%AF%E8%A1%8C%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
@@ -22,9 +22,9 @@
 3. [春晚观众中60万大奖 屏蔽客服电话](https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E8%A7%82%E4%BC%97%E4%B8%AD60%E4%B8%87%E5%A4%A7%E5%A5%96+%E5%B1%8F%E8%94%BD%E5%AE%A2%E6%9C%8D%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [长三角一体化发展迎来加速度](https://www.baidu.com/s?wd=%E9%95%BF%E4%B8%89%E8%A7%92%E4%B8%80%E4%BD%93%E5%8C%96%E5%8F%91%E5%B1%95%E8%BF%8E%E6%9D%A5%E5%8A%A0%E9%80%9F%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [菲称中国渔民使用氰化物 中方驳斥](https://www.baidu.com/s?wd=%E8%8F%B2%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%B8%94%E6%B0%91%E4%BD%BF%E7%94%A8%E6%B0%B0%E5%8C%96%E7%89%A9+%E4%B8%AD%E6%96%B9%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [特朗普限量球鞋上架两小时内售罄](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%99%90%E9%87%8F%E7%90%83%E9%9E%8B%E4%B8%8A%E6%9E%B6%E4%B8%A4%E5%B0%8F%E6%97%B6%E5%86%85%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深鞠躬告别的原市委书记被双开](https://www.baidu.com/s?wd=%E6%B7%B1%E9%9E%A0%E8%BA%AC%E5%91%8A%E5%88%AB%E7%9A%84%E5%8E%9F%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [LV回应上调中国市场售价](https://www.baidu.com/s?wd=LV%E5%9B%9E%E5%BA%94%E4%B8%8A%E8%B0%83%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%94%AE%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [深鞠躬告别的原市委书记被双开](https://www.baidu.com/s?wd=%E6%B7%B1%E9%9E%A0%E8%BA%AC%E5%91%8A%E5%88%AB%E7%9A%84%E5%8E%9F%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [特朗普限量球鞋上架两小时内售罄](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%99%90%E9%87%8F%E7%90%83%E9%9E%8B%E4%B8%8A%E6%9E%B6%E4%B8%A4%E5%B0%8F%E6%97%B6%E5%86%85%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西一面馆因春节涨价被停业整顿](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E9%9D%A2%E9%A6%86%E5%9B%A0%E6%98%A5%E8%8A%82%E6%B6%A8%E4%BB%B7%E8%A2%AB%E5%81%9C%E4%B8%9A%E6%95%B4%E9%A1%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃牛蛙会感染寄生虫？](https://www.baidu.com/s?wd=%E5%90%83%E7%89%9B%E8%9B%99%E4%BC%9A%E6%84%9F%E6%9F%93%E5%AF%84%E7%94%9F%E8%99%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [春晚观众中60万大奖 屏蔽客服电话](https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E8%A7%82%E4%BC%97%E4%B8%AD60%E4%B8%87%E5%A4%A7%E5%A5%96+%E5%B1%8F%E8%94%BD%E5%AE%A2%E6%9C%8D%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [长三角一体化发展迎来加速度](https://www.baidu.com/s?wd=%E9%95%BF%E4%B8%89%E8%A7%92%E4%B8%80%E4%BD%93%E5%8C%96%E5%8F%91%E5%B1%95%E8%BF%8E%E6%9D%A5%E5%8A%A0%E9%80%9F%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [菲称中国渔民使用氰化物 中方驳斥](https://www.baidu.com/s?wd=%E8%8F%B2%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%B8%94%E6%B0%91%E4%BD%BF%E7%94%A8%E6%B0%B0%E5%8C%96%E7%89%A9+%E4%B8%AD%E6%96%B9%E9%A9%B3%E6%96%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [特朗普限量球鞋上架两小时内售罄](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%99%90%E9%87%8F%E7%90%83%E9%9E%8B%E4%B8%8A%E6%9E%B6%E4%B8%A4%E5%B0%8F%E6%97%B6%E5%86%85%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [深鞠躬告别的原市委书记被双开](https://www.baidu.com/s?wd=%E6%B7%B1%E9%9E%A0%E8%BA%AC%E5%91%8A%E5%88%AB%E7%9A%84%E5%8E%9F%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [LV回应上调中国市场售价](https://www.baidu.com/s?wd=LV%E5%9B%9E%E5%BA%94%E4%B8%8A%E8%B0%83%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%94%AE%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [深鞠躬告别的原市委书记被双开](https://www.baidu.com/s?wd=%E6%B7%B1%E9%9E%A0%E8%BA%AC%E5%91%8A%E5%88%AB%E7%9A%84%E5%8E%9F%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [特朗普限量球鞋上架两小时内售罄](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%99%90%E9%87%8F%E7%90%83%E9%9E%8B%E4%B8%8A%E6%9E%B6%E4%B8%A4%E5%B0%8F%E6%97%B6%E5%86%85%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [山西一面馆因春节涨价被停业整顿](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E9%9D%A2%E9%A6%86%E5%9B%A0%E6%98%A5%E8%8A%82%E6%B6%A8%E4%BB%B7%E8%A2%AB%E5%81%9C%E4%B8%9A%E6%95%B4%E9%A1%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃牛蛙会感染寄生虫？](https://www.baidu.com/s?wd=%E5%90%83%E7%89%9B%E8%9B%99%E4%BC%9A%E6%84%9F%E6%9F%93%E5%AF%84%E7%94%9F%E8%99%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
