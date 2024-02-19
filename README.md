@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 19:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 19:41:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [周杰伦 有狗还在吠代表你还是行的](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%9C%89%E7%8B%97%E8%BF%98%E5%9C%A8%E5%90%A0%E4%BB%A3%E8%A1%A8%E4%BD%A0%E8%BF%98%E6%98%AF%E8%A1%8C%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
 6. [王俊凯王源 扫鼠岭](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%20%E6%89%AB%E9%BC%A0%E5%B2%AD&t=31&band_rank=6&Refer=top)<br />
 7. [女子称私照被恶意拼接为出轨女教师](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%A7%81%E7%85%A7%E8%A2%AB%E6%81%B6%E6%84%8F%E6%8B%BC%E6%8E%A5%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%A5%B3%E6%95%99%E5%B8%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [邓为秒删](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E7%A7%92%E5%88%A0&t=31&band_rank=8&Refer=top)<br />
+8. [曝光别人聊天记录违法吗](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%88%AB%E4%BA%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%BF%9D%E6%B3%95%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [这一刻姥姥也在想念她的孩子吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%88%BB%E5%A7%A5%E5%A7%A5%E4%B9%9F%E5%9C%A8%E6%83%B3%E5%BF%B5%E5%A5%B9%E7%9A%84%E5%AD%A9%E5%AD%90%E5%90%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
