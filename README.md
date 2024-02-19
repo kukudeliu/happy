@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 23:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 23:44:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [热辣滚烫进入中国影史票房TOP20](https://www.baidu.com/s?wd=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BFTOP20&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [返程路带上爱出发](https://www.baidu.com/s?wd=%E8%BF%94%E7%A8%8B%E8%B7%AF%E5%B8%A6%E4%B8%8A%E7%88%B1%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [胡锡进评梅西回应：我个人接受](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E6%A2%85%E8%A5%BF%E5%9B%9E%E5%BA%94%EF%BC%9A%E6%88%91%E4%B8%AA%E4%BA%BA%E6%8E%A5%E5%8F%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子走错站台手提行李箱翻越铁轨](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B5%B0%E9%94%99%E7%AB%99%E5%8F%B0%E6%89%8B%E6%8F%90%E8%A1%8C%E6%9D%8E%E7%AE%B1%E7%BF%BB%E8%B6%8A%E9%93%81%E8%BD%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中方回应俄反对派人士纳瓦利内死亡](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BF%84%E5%8F%8D%E5%AF%B9%E6%B4%BE%E4%BA%BA%E5%A3%AB%E7%BA%B3%E7%93%A6%E5%88%A9%E5%86%85%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [春晚观众中60万大奖 屏蔽客服电话](https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E8%A7%82%E4%BC%97%E4%B8%AD60%E4%B8%87%E5%A4%A7%E5%A5%96+%E5%B1%8F%E8%94%BD%E5%AE%A2%E6%9C%8D%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [格力电器仍由董明珠掌舵](https://www.baidu.com/s?wd=%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%99%A8%E4%BB%8D%E7%94%B1%E8%91%A3%E6%98%8E%E7%8F%A0%E6%8E%8C%E8%88%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [春晚观众中60万大奖 屏蔽客服电话](https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E8%A7%82%E4%BC%97%E4%B8%AD60%E4%B8%87%E5%A4%A7%E5%A5%96+%E5%B1%8F%E8%94%BD%E5%AE%A2%E6%9C%8D%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学校通报“女教师出轨男学生”](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E7%94%B7%E5%AD%A6%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [派出所辟谣中学生返校途中跳河](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%BF%94%E6%A0%A1%E9%80%94%E4%B8%AD%E8%B7%B3%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [热辣滚烫进入中国影史票房TOP20](https://www.baidu.com/s?wd=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BFTOP20&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [返程路带上爱出发](https://www.baidu.com/s?wd=%E8%BF%94%E7%A8%8B%E8%B7%AF%E5%B8%A6%E4%B8%8A%E7%88%B1%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [胡锡进评梅西回应：我个人接受](https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E6%A2%85%E8%A5%BF%E5%9B%9E%E5%BA%94%EF%BC%9A%E6%88%91%E4%B8%AA%E4%BA%BA%E6%8E%A5%E5%8F%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子走错站台手提行李箱翻越铁轨](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B5%B0%E9%94%99%E7%AB%99%E5%8F%B0%E6%89%8B%E6%8F%90%E8%A1%8C%E6%9D%8E%E7%AE%B1%E7%BF%BB%E8%B6%8A%E9%93%81%E8%BD%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中方回应俄反对派人士纳瓦利内死亡](https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BF%84%E5%8F%8D%E5%AF%B9%E6%B4%BE%E4%BA%BA%E5%A3%AB%E7%BA%B3%E7%93%A6%E5%88%A9%E5%86%85%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [春晚观众中60万大奖 屏蔽客服电话](https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E8%A7%82%E4%BC%97%E4%B8%AD60%E4%B8%87%E5%A4%A7%E5%A5%96+%E5%B1%8F%E8%94%BD%E5%AE%A2%E6%9C%8D%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [格力电器仍由董明珠掌舵](https://www.baidu.com/s?wd=%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%99%A8%E4%BB%8D%E7%94%B1%E8%91%A3%E6%98%8E%E7%8F%A0%E6%8E%8C%E8%88%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [春晚观众中60万大奖 屏蔽客服电话](https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E8%A7%82%E4%BC%97%E4%B8%AD60%E4%B8%87%E5%A4%A7%E5%A5%96+%E5%B1%8F%E8%94%BD%E5%AE%A2%E6%9C%8D%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学校通报“女教师出轨男学生”](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E7%94%B7%E5%AD%A6%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [派出所辟谣中学生返校途中跳河](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%BF%94%E6%A0%A1%E9%80%94%E4%B8%AD%E8%B7%B3%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
