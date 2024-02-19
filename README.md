@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 20:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 20:25:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [周杰伦 有狗还在吠代表你还是行的](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%9C%89%E7%8B%97%E8%BF%98%E5%9C%A8%E5%90%A0%E4%BB%A3%E8%A1%A8%E4%BD%A0%E8%BF%98%E6%98%AF%E8%A1%8C%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
 6. [杨迪爆改](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E7%88%86%E6%94%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [曝光别人聊天记录违法吗](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%88%AB%E4%BA%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%BF%9D%E6%B3%95%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [邓为秒删](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E7%A7%92%E5%88%A0&t=31&band_rank=8&Refer=top)<br />
+8. [想看BTS退伍结果注册成了士兵](https://s.weibo.com/weibo?q=%E6%83%B3%E7%9C%8BBTS%E9%80%80%E4%BC%8D%E7%BB%93%E6%9E%9C%E6%B3%A8%E5%86%8C%E6%88%90%E4%BA%86%E5%A3%AB%E5%85%B5&t=31&band_rank=8&Refer=top)<br />
 9. [湖北21岁晨跑女孩遇害案凶手被执行死刑](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%9721%E5%B2%81%E6%99%A8%E8%B7%91%E5%A5%B3%E5%AD%A9%E9%81%87%E5%AE%B3%E6%A1%88%E5%87%B6%E6%89%8B%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [深鞠躬告别的原市委书记被双开](https://www.baidu.com/s?wd=%E6%B7%B1%E9%9E%A0%E8%BA%AC%E5%91%8A%E5%88%AB%E7%9A%84%E5%8E%9F%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学校通报“女教师出轨男学生”](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E7%94%B7%E5%AD%A6%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王毅会见乌外长 这5个细节很不寻常](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%BC%9A%E8%A7%81%E4%B9%8C%E5%A4%96%E9%95%BF+%E8%BF%995%E4%B8%AA%E7%BB%86%E8%8A%82%E5%BE%88%E4%B8%8D%E5%AF%BB%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南航航班取消提供3天免费吃住](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88%E6%8F%90%E4%BE%9B3%E5%A4%A9%E5%85%8D%E8%B4%B9%E5%90%83%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [春节过后民政局遇离婚潮](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E8%BF%87%E5%90%8E%E6%B0%91%E6%94%BF%E5%B1%80%E9%81%87%E7%A6%BB%E5%A9%9A%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [派出所辟谣中学生返校途中跳河](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%BF%94%E6%A0%A1%E9%80%94%E4%B8%AD%E8%B7%B3%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [深鞠躬告别的原市委书记被双开](https://www.baidu.com/s?wd=%E6%B7%B1%E9%9E%A0%E8%BA%AC%E5%91%8A%E5%88%AB%E7%9A%84%E5%8E%9F%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学校通报“女教师出轨男学生”](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E7%94%B7%E5%AD%A6%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王毅会见乌外长 这5个细节很不寻常](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%BC%9A%E8%A7%81%E4%B9%8C%E5%A4%96%E9%95%BF+%E8%BF%995%E4%B8%AA%E7%BB%86%E8%8A%82%E5%BE%88%E4%B8%8D%E5%AF%BB%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南航航班取消提供3天免费吃住](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88%E6%8F%90%E4%BE%9B3%E5%A4%A9%E5%85%8D%E8%B4%B9%E5%90%83%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [春节过后民政局遇离婚潮](https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E8%BF%87%E5%90%8E%E6%B0%91%E6%94%BF%E5%B1%80%E9%81%87%E7%A6%BB%E5%A9%9A%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [派出所辟谣中学生返校途中跳河](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%BF%94%E6%A0%A1%E9%80%94%E4%B8%AD%E8%B7%B3%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
