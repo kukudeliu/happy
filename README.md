@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 00:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 00:12:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [女教师丈夫](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%88%E5%A4%AB&t=31&band_rank=4&Refer=top)<br />
 5. [杨迪爆改](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E7%88%86%E6%94%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [梅西13天3次回应均未道歉](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF13%E5%A4%A93%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%9D%87%E6%9C%AA%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [女教师丈夫或涉嫌侵犯未成年人隐私权](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%88%E5%A4%AB%E6%88%96%E6%B6%89%E5%AB%8C%E4%BE%B5%E7%8A%AF%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E9%9A%90%E7%A7%81%E6%9D%83%23&t=31&band_rank=7&Refer=top)<br />
+7. [学校通报女教师出轨高中生](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E9%AB%98%E4%B8%AD%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [上海飞大阪机票仅8元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%A3%9E%E5%A4%A7%E9%98%AA%E6%9C%BA%E7%A5%A8%E4%BB%858%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [内娱有自己的纯元皇后](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BA%AF%E5%85%83%E7%9A%87%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -19,22 +19,22 @@
 
 1. [关于党的领导 总书记引用了这些典故](https://www.baidu.com/s?wd=%E5%85%B3%E4%BA%8E%E5%85%9A%E7%9A%84%E9%A2%86%E5%AF%BC+%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E7%94%A8%E4%BA%86%E8%BF%99%E4%BA%9B%E5%85%B8%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [梅西出镜回应香港行未上场](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%87%BA%E9%95%9C%E5%9B%9E%E5%BA%94%E9%A6%99%E6%B8%AF%E8%A1%8C%E6%9C%AA%E4%B8%8A%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [热辣滚烫进入中国影史票房TOP20](https://www.baidu.com/s?wd=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BFTOP20&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [首次！大陆海警登船临检金门游艇](https://www.baidu.com/s?wd=%E9%A6%96%E6%AC%A1%EF%BC%81%E5%A4%A7%E9%99%86%E6%B5%B7%E8%AD%A6%E7%99%BB%E8%88%B9%E4%B8%B4%E6%A3%80%E9%87%91%E9%97%A8%E6%B8%B8%E8%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [返程路带上爱出发](https://www.baidu.com/s?wd=%E8%BF%94%E7%A8%8B%E8%B7%AF%E5%B8%A6%E4%B8%8A%E7%88%B1%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [普京称已准备好和平解决乌克兰冲突](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E5%92%8C%E5%B9%B3%E8%A7%A3%E5%86%B3%E4%B9%8C%E5%85%8B%E5%85%B0%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [南部战区回应菲方组织联合巡逻](https://www.baidu.com/s?wd=%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E8%8F%B2%E6%96%B9%E7%BB%84%E7%BB%87%E8%81%94%E5%90%88%E5%B7%A1%E9%80%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国务院：坚决防止罚款收入不合理增长](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%EF%BC%9A%E5%9D%9A%E5%86%B3%E9%98%B2%E6%AD%A2%E7%BD%9A%E6%AC%BE%E6%94%B6%E5%85%A5%E4%B8%8D%E5%90%88%E7%90%86%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友拍到马云现身新西兰](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E6%96%B0%E8%A5%BF%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [深鞠躬告别的原市委书记被双开](https://www.baidu.com/s?wd=%E6%B7%B1%E9%9E%A0%E8%BA%AC%E5%91%8A%E5%88%AB%E7%9A%84%E5%8E%9F%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [热辣滚烫进入中国影史票房TOP20](https://www.baidu.com/s?wd=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BFTOP20&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友拍到马云现身新西兰](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E6%96%B0%E8%A5%BF%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [派出所辟谣中学生返校途中跳河](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%BF%94%E6%A0%A1%E9%80%94%E4%B8%AD%E8%B7%B3%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [关于党的领导 总书记引用了这些典故](https://www.baidu.com/s?wd=%E5%85%B3%E4%BA%8E%E5%85%9A%E7%9A%84%E9%A2%86%E5%AF%BC+%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E7%94%A8%E4%BA%86%E8%BF%99%E4%BA%9B%E5%85%B8%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [梅西出镜回应香港行未上场](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E5%87%BA%E9%95%9C%E5%9B%9E%E5%BA%94%E9%A6%99%E6%B8%AF%E8%A1%8C%E6%9C%AA%E4%B8%8A%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [热辣滚烫进入中国影史票房TOP20](https://www.baidu.com/s?wd=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BFTOP20&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [首次！大陆海警登船临检金门游艇](https://www.baidu.com/s?wd=%E9%A6%96%E6%AC%A1%EF%BC%81%E5%A4%A7%E9%99%86%E6%B5%B7%E8%AD%A6%E7%99%BB%E8%88%B9%E4%B8%B4%E6%A3%80%E9%87%91%E9%97%A8%E6%B8%B8%E8%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [返程路带上爱出发](https://www.baidu.com/s?wd=%E8%BF%94%E7%A8%8B%E8%B7%AF%E5%B8%A6%E4%B8%8A%E7%88%B1%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [普京称已准备好和平解决乌克兰冲突](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E5%92%8C%E5%B9%B3%E8%A7%A3%E5%86%B3%E4%B9%8C%E5%85%8B%E5%85%B0%E5%86%B2%E7%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [南部战区回应菲方组织联合巡逻](https://www.baidu.com/s?wd=%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E8%8F%B2%E6%96%B9%E7%BB%84%E7%BB%87%E8%81%94%E5%90%88%E5%B7%A1%E9%80%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国务院：坚决防止罚款收入不合理增长](https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%EF%BC%9A%E5%9D%9A%E5%86%B3%E9%98%B2%E6%AD%A2%E7%BD%9A%E6%AC%BE%E6%94%B6%E5%85%A5%E4%B8%8D%E5%90%88%E7%90%86%E5%A2%9E%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友拍到马云现身新西兰](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E6%96%B0%E8%A5%BF%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [深鞠躬告别的原市委书记被双开](https://www.baidu.com/s?wd=%E6%B7%B1%E9%9E%A0%E8%BA%AC%E5%91%8A%E5%88%AB%E7%9A%84%E5%8E%9F%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [热辣滚烫进入中国影史票房TOP20](https://www.baidu.com/s?wd=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BFTOP20&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友拍到马云现身新西兰](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E6%96%B0%E8%A5%BF%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [派出所辟谣中学生返校途中跳河](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%BF%94%E6%A0%A1%E9%80%94%E4%B8%AD%E8%B7%B3%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
