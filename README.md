@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 13:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 13:06:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [颜宁谈贾玲新造型：陷入刻板审美](https://www.baidu.com/s?wd=%E9%A2%9C%E5%AE%81%E8%B0%88%E8%B4%BE%E7%8E%B2%E6%96%B0%E9%80%A0%E5%9E%8B%EF%BC%9A%E9%99%B7%E5%85%A5%E5%88%BB%E6%9D%BF%E5%AE%A1%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Sora刷屏视频出现多处失误](https://www.baidu.com/s?wd=Sora%E5%88%B7%E5%B1%8F%E8%A7%86%E9%A2%91%E5%87%BA%E7%8E%B0%E5%A4%9A%E5%A4%84%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [游客168元点一份鱼发现5条鱼尾](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2168%E5%85%83%E7%82%B9%E4%B8%80%E4%BB%BD%E9%B1%BC%E5%8F%91%E7%8E%B05%E6%9D%A1%E9%B1%BC%E5%B0%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [比亚迪打响龙年车市价格战第一枪](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%89%93%E5%93%8D%E9%BE%99%E5%B9%B4%E8%BD%A6%E5%B8%82%E4%BB%B7%E6%A0%BC%E6%88%98%E7%AC%AC%E4%B8%80%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子连续11天刮刮乐兑奖 店主报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E7%BB%AD11%E5%A4%A9%E5%88%AE%E5%88%AE%E4%B9%90%E5%85%91%E5%A5%96+%E5%BA%97%E4%B8%BB%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [收费站提前1小时停止免费？不实](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E7%AB%99%E6%8F%90%E5%89%8D1%E5%B0%8F%E6%97%B6%E5%81%9C%E6%AD%A2%E5%85%8D%E8%B4%B9%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [颜宁谈贾玲新造型：陷入刻板审美](https://www.baidu.com/s?wd=%E9%A2%9C%E5%AE%81%E8%B0%88%E8%B4%BE%E7%8E%B2%E6%96%B0%E9%80%A0%E5%9E%8B%EF%BC%9A%E9%99%B7%E5%85%A5%E5%88%BB%E6%9D%BF%E5%AE%A1%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Sora刷屏视频出现多处失误](https://www.baidu.com/s?wd=Sora%E5%88%B7%E5%B1%8F%E8%A7%86%E9%A2%91%E5%87%BA%E7%8E%B0%E5%A4%9A%E5%A4%84%E5%A4%B1%E8%AF%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [游客168元点一份鱼发现5条鱼尾](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2168%E5%85%83%E7%82%B9%E4%B8%80%E4%BB%BD%E9%B1%BC%E5%8F%91%E7%8E%B05%E6%9D%A1%E9%B1%BC%E5%B0%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [比亚迪打响龙年车市价格战第一枪](https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%89%93%E5%93%8D%E9%BE%99%E5%B9%B4%E8%BD%A6%E5%B8%82%E4%BB%B7%E6%A0%BC%E6%88%98%E7%AC%AC%E4%B8%80%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子连续11天刮刮乐兑奖 店主报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E7%BB%AD11%E5%A4%A9%E5%88%AE%E5%88%AE%E4%B9%90%E5%85%91%E5%A5%96+%E5%BA%97%E4%B8%BB%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [收费站提前1小时停止免费？不实](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E7%AB%99%E6%8F%90%E5%89%8D1%E5%B0%8F%E6%97%B6%E5%81%9C%E6%AD%A2%E5%85%8D%E8%B4%B9%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
