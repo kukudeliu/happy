@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 14:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 14:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男子曝妻子虐待婆婆致死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9B%9D%E5%A6%BB%E5%AD%90%E8%99%90%E5%BE%85%E5%A9%86%E5%A9%86%E8%87%B4%E6%AD%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [徐冬冬婚礼喝椰汁](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%E5%A9%9A%E7%A4%BC%E5%96%9D%E6%A4%B0%E6%B1%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [人民日报点评王鹤棣全明星赛](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%82%B9%E8%AF%84%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%85%A8%E6%98%8E%E6%98%9F%E8%B5%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [孙千老公妹](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E8%80%81%E5%85%AC%E5%A6%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [格力集团迎来新董事长](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%8A%9B%E9%9B%86%E5%9B%A2%E8%BF%8E%E6%9D%A5%E6%96%B0%E8%91%A3%E4%BA%8B%E9%95%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [邓为代言CT](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E4%BB%A3%E8%A8%80CT&t=31&band_rank=8&Refer=top)<br />
+9. [孙千老公妹](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E8%80%81%E5%85%AC%E5%A6%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
