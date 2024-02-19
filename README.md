@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 19:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 19:02:01</h4></div>
 
 > 微博  
 
 1. [学校通报女教师出轨高中生](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E9%AB%98%E4%B8%AD%E7%94%9F%23&t=31&band_rank=1&Refer=top)<br />
-2. [周杰伦 有狗还在吠代表你还是行的](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%9C%89%E7%8B%97%E8%BF%98%E5%9C%A8%E5%90%A0%E4%BB%A3%E8%A1%A8%E4%BD%A0%E8%BF%98%E6%98%AF%E8%A1%8C%E7%9A%84&t=31&band_rank=2&Refer=top)<br />
+2. [女子称私照被恶意拼接为出轨女教师](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%A7%81%E7%85%A7%E8%A2%AB%E6%81%B6%E6%84%8F%E6%8B%BC%E6%8E%A5%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%A5%B3%E6%95%99%E5%B8%88%23&t=31&band_rank=2&Refer=top)<br />
 3. [一条微博总结春节假期](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%80%BB%E7%BB%93%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [女子称私照被恶意拼接为出轨女教师](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%A7%81%E7%85%A7%E8%A2%AB%E6%81%B6%E6%84%8F%E6%8B%BC%E6%8E%A5%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%A5%B3%E6%95%99%E5%B8%88%23&t=31&band_rank=4&Refer=top)<br />
+4. [周杰伦 有狗还在吠代表你还是行的](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%9C%89%E7%8B%97%E8%BF%98%E5%9C%A8%E5%90%A0%E4%BB%A3%E8%A1%A8%E4%BD%A0%E8%BF%98%E6%98%AF%E8%A1%8C%E7%9A%84&t=31&band_rank=4&Refer=top)<br />
 5. [律师谈女教师出轨16岁高中生](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A816%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [邓为秒删](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E7%A7%92%E5%88%A0&t=31&band_rank=6&Refer=top)<br />
 7. [妈妈一怒之下撤回了一个弟弟](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E4%B8%80%E6%80%92%E4%B9%8B%E4%B8%8B%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E5%BC%9F%E5%BC%9F&t=31&band_rank=7&Refer=top)<br />
