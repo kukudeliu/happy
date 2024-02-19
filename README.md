@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 00:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 00:19:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [学校通报女教师出轨高中生](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E9%AB%98%E4%B8%AD%E7%94%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [梅西13天3次回应均未道歉](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF13%E5%A4%A93%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%9D%87%E6%9C%AA%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨迪爆改](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E7%88%86%E6%94%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [女教师丈夫](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%88%E5%A4%AB&t=31&band_rank=7&Refer=top)<br />
-8. [上海飞大阪机票仅8元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%A3%9E%E5%A4%A7%E9%98%AA%E6%9C%BA%E7%A5%A8%E4%BB%858%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+7. [上海飞大阪机票仅8元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%A3%9E%E5%A4%A7%E9%98%AA%E6%9C%BA%E7%A5%A8%E4%BB%858%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [女教师丈夫](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%88%E5%A4%AB&t=31&band_rank=8&Refer=top)<br />
 9. [内娱有自己的纯元皇后](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BA%AF%E5%85%83%E7%9A%87%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -22,9 +22,9 @@
 3. [首次！大陆海警登船临检金门游艇](https://www.baidu.com/s?wd=%E9%A6%96%E6%AC%A1%EF%BC%81%E5%A4%A7%E9%99%86%E6%B5%B7%E8%AD%A6%E7%99%BB%E8%88%B9%E4%B8%B4%E6%A3%80%E9%87%91%E9%97%A8%E6%B8%B8%E8%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [返程路带上爱出发](https://www.baidu.com/s?wd=%E8%BF%94%E7%A8%8B%E8%B7%AF%E5%B8%A6%E4%B8%8A%E7%88%B1%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [南部战区回应菲方组织联合巡逻](https://www.baidu.com/s?wd=%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E8%8F%B2%E6%96%B9%E7%BB%84%E7%BB%87%E8%81%94%E5%90%88%E5%B7%A1%E9%80%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [寒假作业落巴黎事件舅舅账号被禁](https://www.baidu.com/s?wd=%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E8%90%BD%E5%B7%B4%E9%BB%8E%E4%BA%8B%E4%BB%B6%E8%88%85%E8%88%85%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [营业部老总偷看百亿私募账户信息](https://www.baidu.com/s?wd=%E8%90%A5%E4%B8%9A%E9%83%A8%E8%80%81%E6%80%BB%E5%81%B7%E7%9C%8B%E7%99%BE%E4%BA%BF%E7%A7%81%E5%8B%9F%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [热辣滚烫进入中国影史票房TOP20](https://www.baidu.com/s?wd=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BFTOP20&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李思思离职央视后迎来综艺首秀](https://www.baidu.com/s?wd=%E6%9D%8E%E6%80%9D%E6%80%9D%E7%A6%BB%E8%81%8C%E5%A4%AE%E8%A7%86%E5%90%8E%E8%BF%8E%E6%9D%A5%E7%BB%BC%E8%89%BA%E9%A6%96%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [寒假作业落巴黎事件舅舅账号被禁](https://www.baidu.com/s?wd=%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E8%90%BD%E5%B7%B4%E9%BB%8E%E4%BA%8B%E4%BB%B6%E8%88%85%E8%88%85%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [营业部老总偷看百亿私募账户信息](https://www.baidu.com/s?wd=%E8%90%A5%E4%B8%9A%E9%83%A8%E8%80%81%E6%80%BB%E5%81%B7%E7%9C%8B%E7%99%BE%E4%BA%BF%E7%A7%81%E5%8B%9F%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [派出所辟谣中学生返校途中跳河](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%BF%94%E6%A0%A1%E9%80%94%E4%B8%AD%E8%B7%B3%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [首次！大陆海警登船临检金门游艇](https://www.baidu.com/s?wd=%E9%A6%96%E6%AC%A1%EF%BC%81%E5%A4%A7%E9%99%86%E6%B5%B7%E8%AD%A6%E7%99%BB%E8%88%B9%E4%B8%B4%E6%A3%80%E9%87%91%E9%97%A8%E6%B8%B8%E8%89%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [返程路带上爱出发](https://www.baidu.com/s?wd=%E8%BF%94%E7%A8%8B%E8%B7%AF%E5%B8%A6%E4%B8%8A%E7%88%B1%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [南部战区回应菲方组织联合巡逻](https://www.baidu.com/s?wd=%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E8%8F%B2%E6%96%B9%E7%BB%84%E7%BB%87%E8%81%94%E5%90%88%E5%B7%A1%E9%80%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [寒假作业落巴黎事件舅舅账号被禁](https://www.baidu.com/s?wd=%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E8%90%BD%E5%B7%B4%E9%BB%8E%E4%BA%8B%E4%BB%B6%E8%88%85%E8%88%85%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [营业部老总偷看百亿私募账户信息](https://www.baidu.com/s?wd=%E8%90%A5%E4%B8%9A%E9%83%A8%E8%80%81%E6%80%BB%E5%81%B7%E7%9C%8B%E7%99%BE%E4%BA%BF%E7%A7%81%E5%8B%9F%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [热辣滚烫进入中国影史票房TOP20](https://www.baidu.com/s?wd=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BFTOP20&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李思思离职央视后迎来综艺首秀](https://www.baidu.com/s?wd=%E6%9D%8E%E6%80%9D%E6%80%9D%E7%A6%BB%E8%81%8C%E5%A4%AE%E8%A7%86%E5%90%8E%E8%BF%8E%E6%9D%A5%E7%BB%BC%E8%89%BA%E9%A6%96%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [寒假作业落巴黎事件舅舅账号被禁](https://www.baidu.com/s?wd=%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E8%90%BD%E5%B7%B4%E9%BB%8E%E4%BA%8B%E4%BB%B6%E8%88%85%E8%88%85%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [营业部老总偷看百亿私募账户信息](https://www.baidu.com/s?wd=%E8%90%A5%E4%B8%9A%E9%83%A8%E8%80%81%E6%80%BB%E5%81%B7%E7%9C%8B%E7%99%BE%E4%BA%BF%E7%A7%81%E5%8B%9F%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [派出所辟谣中学生返校途中跳河](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%BF%94%E6%A0%A1%E9%80%94%E4%B8%AD%E8%B7%B3%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
