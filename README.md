@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 10:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 10:08:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [初八家长为孩子举行手机封机仪式](https://www.baidu.com/s?wd=%E5%88%9D%E5%85%AB%E5%AE%B6%E9%95%BF%E4%B8%BA%E5%AD%A9%E5%AD%90%E4%B8%BE%E8%A1%8C%E6%89%8B%E6%9C%BA%E5%B0%81%E6%9C%BA%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子连续11天刮刮乐兑奖 店主报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E7%BB%AD11%E5%A4%A9%E5%88%AE%E5%88%AE%E4%B9%90%E5%85%91%E5%A5%96+%E5%BA%97%E4%B8%BB%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉中小学延迟开学](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BB%B6%E8%BF%9F%E5%BC%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友称宠物狗从农村回城后萎靡不振](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%AE%A0%E7%89%A9%E7%8B%97%E4%BB%8E%E5%86%9C%E6%9D%91%E5%9B%9E%E5%9F%8E%E5%90%8E%E8%90%8E%E9%9D%A1%E4%B8%8D%E6%8C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友拍到马云现身新西兰](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E6%96%B0%E8%A5%BF%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [收费站提前1小时停止免费？不实](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E7%AB%99%E6%8F%90%E5%89%8D1%E5%B0%8F%E6%97%B6%E5%81%9C%E6%AD%A2%E5%85%8D%E8%B4%B9%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [初八家长为孩子举行手机封机仪式](https://www.baidu.com/s?wd=%E5%88%9D%E5%85%AB%E5%AE%B6%E9%95%BF%E4%B8%BA%E5%AD%A9%E5%AD%90%E4%B8%BE%E8%A1%8C%E6%89%8B%E6%9C%BA%E5%B0%81%E6%9C%BA%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子连续11天刮刮乐兑奖 店主报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E7%BB%AD11%E5%A4%A9%E5%88%AE%E5%88%AE%E4%B9%90%E5%85%91%E5%A5%96+%E5%BA%97%E4%B8%BB%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉中小学延迟开学](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BB%B6%E8%BF%9F%E5%BC%80%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网友称宠物狗从农村回城后萎靡不振](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%AE%A0%E7%89%A9%E7%8B%97%E4%BB%8E%E5%86%9C%E6%9D%91%E5%9B%9E%E5%9F%8E%E5%90%8E%E8%90%8E%E9%9D%A1%E4%B8%8D%E6%8C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友拍到马云现身新西兰](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E6%96%B0%E8%A5%BF%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [收费站提前1小时停止免费？不实](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E7%AB%99%E6%8F%90%E5%89%8D1%E5%B0%8F%E6%97%B6%E5%81%9C%E6%AD%A2%E5%85%8D%E8%B4%B9%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
