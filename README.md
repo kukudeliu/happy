@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 18:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 18:49:01</h4></div>
 
 > 微博  
 
 1. [学校通报女教师出轨高中生](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E9%AB%98%E4%B8%AD%E7%94%9F%23&t=31&band_rank=1&Refer=top)<br />
 2. [周杰伦 有狗还在吠代表你还是行的](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%9C%89%E7%8B%97%E8%BF%98%E5%9C%A8%E5%90%A0%E4%BB%A3%E8%A1%A8%E4%BD%A0%E8%BF%98%E6%98%AF%E8%A1%8C%E7%9A%84&t=31&band_rank=2&Refer=top)<br />
 3. [一条微博总结春节假期](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%80%BB%E7%BB%93%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%23&t=31&band_rank=3&Refer=top)<br />
-4. [妈妈一怒之下撤回了一个弟弟](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E4%B8%80%E6%80%92%E4%B9%8B%E4%B8%8B%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E5%BC%9F%E5%BC%9F&t=31&band_rank=4&Refer=top)<br />
-5. [刘雨欣家被偷空](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E5%AE%B6%E8%A2%AB%E5%81%B7%E7%A9%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [女子称私照被恶意拼接为出轨女教师](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%A7%81%E7%85%A7%E8%A2%AB%E6%81%B6%E6%84%8F%E6%8B%BC%E6%8E%A5%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%A5%B3%E6%95%99%E5%B8%88%23&t=31&band_rank=6&Refer=top)<br />
+4. [女子称私照被恶意拼接为出轨女教师](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%A7%81%E7%85%A7%E8%A2%AB%E6%81%B6%E6%84%8F%E6%8B%BC%E6%8E%A5%E4%B8%BA%E5%87%BA%E8%BD%A8%E5%A5%B3%E6%95%99%E5%B8%88%23&t=31&band_rank=4&Refer=top)<br />
+5. [妈妈一怒之下撤回了一个弟弟](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E4%B8%80%E6%80%92%E4%B9%8B%E4%B8%8B%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E5%BC%9F%E5%BC%9F&t=31&band_rank=5&Refer=top)<br />
+6. [刘雨欣家被偷空](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E5%AE%B6%E8%A2%AB%E5%81%B7%E7%A9%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [邓为秒删](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E7%A7%92%E5%88%A0&t=31&band_rank=7&Refer=top)<br />
 8. [贾静雯回应女儿梧桐妹戴唇环舌环](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E9%9D%99%E9%9B%AF%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E6%A2%A7%E6%A1%90%E5%A6%B9%E6%88%B4%E5%94%87%E7%8E%AF%E8%88%8C%E7%8E%AF%23&t=31&band_rank=8&Refer=top)<br />
 9. [这一刻姥姥也在想念她的孩子吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%88%BB%E5%A7%A5%E5%A7%A5%E4%B9%9F%E5%9C%A8%E6%83%B3%E5%BF%B5%E5%A5%B9%E7%9A%84%E5%AD%A9%E5%AD%90%E5%90%A7%23&t=31&band_rank=9&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [女教师出轨未成年学生是否涉嫌犯罪](https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E6%9C%AA%E6%88%90%E5%B9%B4%E5%AD%A6%E7%94%9F%E6%98%AF%E5%90%A6%E6%B6%89%E5%AB%8C%E7%8A%AF%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生相亲被拒躺沙发上盯手机发呆](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%9B%B8%E4%BA%B2%E8%A2%AB%E6%8B%92%E8%BA%BA%E6%B2%99%E5%8F%91%E4%B8%8A%E7%9B%AF%E6%89%8B%E6%9C%BA%E5%8F%91%E5%91%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李思思离职央视后迎来综艺首秀](https://www.baidu.com/s?wd=%E6%9D%8E%E6%80%9D%E6%80%9D%E7%A6%BB%E8%81%8C%E5%A4%AE%E8%A7%86%E5%90%8E%E8%BF%8E%E6%9D%A5%E7%BB%BC%E8%89%BA%E9%A6%96%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐志胜的经纪人是庞博](https://www.baidu.com/s?wd=%E5%BE%90%E5%BF%97%E8%83%9C%E7%9A%84%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%98%AF%E5%BA%9E%E5%8D%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [21岁晨跑女孩遇害案凶手被执行死刑](https://www.baidu.com/s?wd=21%E5%B2%81%E6%99%A8%E8%B7%91%E5%A5%B3%E5%AD%A9%E9%81%87%E5%AE%B3%E6%A1%88%E5%87%B6%E6%89%8B%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [无锡发生多人命案？不实](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%8F%91%E7%94%9F%E5%A4%9A%E4%BA%BA%E5%91%BD%E6%A1%88%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女教师出轨未成年学生是否涉嫌犯罪](https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E6%9C%AA%E6%88%90%E5%B9%B4%E5%AD%A6%E7%94%9F%E6%98%AF%E5%90%A6%E6%B6%89%E5%AB%8C%E7%8A%AF%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生相亲被拒躺沙发上盯手机发呆](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%9B%B8%E4%BA%B2%E8%A2%AB%E6%8B%92%E8%BA%BA%E6%B2%99%E5%8F%91%E4%B8%8A%E7%9B%AF%E6%89%8B%E6%9C%BA%E5%8F%91%E5%91%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [李思思离职央视后迎来综艺首秀](https://www.baidu.com/s?wd=%E6%9D%8E%E6%80%9D%E6%80%9D%E7%A6%BB%E8%81%8C%E5%A4%AE%E8%A7%86%E5%90%8E%E8%BF%8E%E6%9D%A5%E7%BB%BC%E8%89%BA%E9%A6%96%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐志胜的经纪人是庞博](https://www.baidu.com/s?wd=%E5%BE%90%E5%BF%97%E8%83%9C%E7%9A%84%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%98%AF%E5%BA%9E%E5%8D%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [21岁晨跑女孩遇害案凶手被执行死刑](https://www.baidu.com/s?wd=21%E5%B2%81%E6%99%A8%E8%B7%91%E5%A5%B3%E5%AD%A9%E9%81%87%E5%AE%B3%E6%A1%88%E5%87%B6%E6%89%8B%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [无锡发生多人命案？不实](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%8F%91%E7%94%9F%E5%A4%9A%E4%BA%BA%E5%91%BD%E6%A1%88%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
