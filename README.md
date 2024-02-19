@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 16:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 16:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [妈妈一怒之下撤回了一个弟弟](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E4%B8%80%E6%80%92%E4%B9%8B%E4%B8%8B%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E5%BC%9F%E5%BC%9F&t=31&band_rank=6&Refer=top)<br />
 7. [警方通报女网红在海底捞做不雅行为](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%81%9A%E4%B8%8D%E9%9B%85%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子曝妻子虐待婆婆致死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9B%9D%E5%A6%BB%E5%AD%90%E8%99%90%E5%BE%85%E5%A9%86%E5%A9%86%E8%87%B4%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [种地吧](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
+9. [17岁女孩误喝防冻液致多器官衰竭](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%87%B4%E5%A4%9A%E5%99%A8%E5%AE%98%E8%A1%B0%E7%AB%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [男子举报妻子与副镇长非法同居](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%A6%BB%E5%AD%90%E4%B8%8E%E5%89%AF%E9%95%87%E9%95%BF%E9%9D%9E%E6%B3%95%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘雨欣洛杉矶家被偷空](https://www.baidu.com/s?wd=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%AE%B6%E8%A2%AB%E5%81%B7%E7%A9%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡夏带礼物见金晨父母](https://www.baidu.com/s?wd=%E8%83%A1%E5%A4%8F%E5%B8%A6%E7%A4%BC%E7%89%A9%E8%A7%81%E9%87%91%E6%99%A8%E7%88%B6%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [颜宁谈贾玲新造型：陷入刻板审美](https://www.baidu.com/s?wd=%E9%A2%9C%E5%AE%81%E8%B0%88%E8%B4%BE%E7%8E%B2%E6%96%B0%E9%80%A0%E5%9E%8B%EF%BC%9A%E9%99%B7%E5%85%A5%E5%88%BB%E6%9D%BF%E5%AE%A1%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [AI生成的西游记短片震惊网友](https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E7%9A%84%E8%A5%BF%E6%B8%B8%E8%AE%B0%E7%9F%AD%E7%89%87%E9%9C%87%E6%83%8A%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [无锡发生多人命案？不实](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%8F%91%E7%94%9F%E5%A4%9A%E4%BA%BA%E5%91%BD%E6%A1%88%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子举报妻子与副镇长非法同居](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%A6%BB%E5%AD%90%E4%B8%8E%E5%89%AF%E9%95%87%E9%95%BF%E9%9D%9E%E6%B3%95%E5%90%8C%E5%B1%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [刘雨欣洛杉矶家被偷空](https://www.baidu.com/s?wd=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%AE%B6%E8%A2%AB%E5%81%B7%E7%A9%BA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡夏带礼物见金晨父母](https://www.baidu.com/s?wd=%E8%83%A1%E5%A4%8F%E5%B8%A6%E7%A4%BC%E7%89%A9%E8%A7%81%E9%87%91%E6%99%A8%E7%88%B6%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [颜宁谈贾玲新造型：陷入刻板审美](https://www.baidu.com/s?wd=%E9%A2%9C%E5%AE%81%E8%B0%88%E8%B4%BE%E7%8E%B2%E6%96%B0%E9%80%A0%E5%9E%8B%EF%BC%9A%E9%99%B7%E5%85%A5%E5%88%BB%E6%9D%BF%E5%AE%A1%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [AI生成的西游记短片震惊网友](https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E7%9A%84%E8%A5%BF%E6%B8%B8%E8%AE%B0%E7%9F%AD%E7%89%87%E9%9C%87%E6%83%8A%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [无锡发生多人命案？不实](https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E5%8F%91%E7%94%9F%E5%A4%9A%E4%BA%BA%E5%91%BD%E6%A1%88%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
