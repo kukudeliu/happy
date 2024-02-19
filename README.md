@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 10:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 10:41:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [江山就是人民](https://www.baidu.com/s?wd=%E6%B1%9F%E5%B1%B1%E5%B0%B1%E6%98%AF%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [降温图红到发黑 中央气象台直呼刺激](https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E5%9B%BE%E7%BA%A2%E5%88%B0%E5%8F%91%E9%BB%91+%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E7%9B%B4%E5%91%BC%E5%88%BA%E6%BF%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [格力集团迎来“新掌门”](https://www.baidu.com/s?wd=%E6%A0%BC%E5%8A%9B%E9%9B%86%E5%9B%A2%E8%BF%8E%E6%9D%A5%E2%80%9C%E6%96%B0%E6%8E%8C%E9%97%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [一家三口共花不到两千离开海南](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%85%B1%E8%8A%B1%E4%B8%8D%E5%88%B0%E4%B8%A4%E5%8D%83%E7%A6%BB%E5%BC%80%E6%B5%B7%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点燃运动激情 共赴冰雪之约](https://www.baidu.com/s?wd=%E7%82%B9%E7%87%83%E8%BF%90%E5%8A%A8%E6%BF%80%E6%83%85+%E5%85%B1%E8%B5%B4%E5%86%B0%E9%9B%AA%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [初八家长为孩子举行手机封机仪式](https://www.baidu.com/s?wd=%E5%88%9D%E5%85%AB%E5%AE%B6%E9%95%BF%E4%B8%BA%E5%AD%A9%E5%AD%90%E4%B8%BE%E8%A1%8C%E6%89%8B%E6%9C%BA%E5%B0%81%E6%9C%BA%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [格力集团迎来“新掌门”](https://www.baidu.com/s?wd=%E6%A0%BC%E5%8A%9B%E9%9B%86%E5%9B%A2%E8%BF%8E%E6%9D%A5%E2%80%9C%E6%96%B0%E6%8E%8C%E9%97%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子连续11天刮刮乐兑奖 店主报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E7%BB%AD11%E5%A4%A9%E5%88%AE%E5%88%AE%E4%B9%90%E5%85%91%E5%A5%96+%E5%BA%97%E4%B8%BB%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京：乌克兰战事关乎俄罗斯存亡](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%8B%E5%85%B3%E4%B9%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%AD%98%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子连续11天刮刮乐兑奖 店主报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E7%BB%AD11%E5%A4%A9%E5%88%AE%E5%88%AE%E4%B9%90%E5%85%91%E5%A5%96+%E5%BA%97%E4%B8%BB%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [普京：乌克兰战事关乎俄罗斯存亡](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%8B%E5%85%B3%E4%B9%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%AD%98%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友称宠物狗从农村回城后萎靡不振](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%AE%A0%E7%89%A9%E7%8B%97%E4%BB%8E%E5%86%9C%E6%9D%91%E5%9B%9E%E5%9F%8E%E5%90%8E%E8%90%8E%E9%9D%A1%E4%B8%8D%E6%8C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [收费站提前1小时停止免费？不实](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E7%AB%99%E6%8F%90%E5%89%8D1%E5%B0%8F%E6%97%B6%E5%81%9C%E6%AD%A2%E5%85%8D%E8%B4%B9%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [江山就是人民](https://www.baidu.com/s?wd=%E6%B1%9F%E5%B1%B1%E5%B0%B1%E6%98%AF%E4%BA%BA%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [降温图红到发黑 中央气象台直呼刺激](https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A9%E5%9B%BE%E7%BA%A2%E5%88%B0%E5%8F%91%E9%BB%91+%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E7%9B%B4%E5%91%BC%E5%88%BA%E6%BF%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [格力集团迎来“新掌门”](https://www.baidu.com/s?wd=%E6%A0%BC%E5%8A%9B%E9%9B%86%E5%9B%A2%E8%BF%8E%E6%9D%A5%E2%80%9C%E6%96%B0%E6%8E%8C%E9%97%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [一家三口共花不到两千离开海南](https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%85%B1%E8%8A%B1%E4%B8%8D%E5%88%B0%E4%B8%A4%E5%8D%83%E7%A6%BB%E5%BC%80%E6%B5%B7%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点燃运动激情 共赴冰雪之约](https://www.baidu.com/s?wd=%E7%82%B9%E7%87%83%E8%BF%90%E5%8A%A8%E6%BF%80%E6%83%85+%E5%85%B1%E8%B5%B4%E5%86%B0%E9%9B%AA%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [初八家长为孩子举行手机封机仪式](https://www.baidu.com/s?wd=%E5%88%9D%E5%85%AB%E5%AE%B6%E9%95%BF%E4%B8%BA%E5%AD%A9%E5%AD%90%E4%B8%BE%E8%A1%8C%E6%89%8B%E6%9C%BA%E5%B0%81%E6%9C%BA%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [格力集团迎来“新掌门”](https://www.baidu.com/s?wd=%E6%A0%BC%E5%8A%9B%E9%9B%86%E5%9B%A2%E8%BF%8E%E6%9D%A5%E2%80%9C%E6%96%B0%E6%8E%8C%E9%97%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子连续11天刮刮乐兑奖 店主报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E7%BB%AD11%E5%A4%A9%E5%88%AE%E5%88%AE%E4%B9%90%E5%85%91%E5%A5%96+%E5%BA%97%E4%B8%BB%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京：乌克兰战事关乎俄罗斯存亡](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%8B%E5%85%B3%E4%B9%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%AD%98%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子连续11天刮刮乐兑奖 店主报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E7%BB%AD11%E5%A4%A9%E5%88%AE%E5%88%AE%E4%B9%90%E5%85%91%E5%A5%96+%E5%BA%97%E4%B8%BB%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [普京：乌克兰战事关乎俄罗斯存亡](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%8B%E5%85%B3%E4%B9%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%AD%98%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友称宠物狗从农村回城后萎靡不振](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%AE%A0%E7%89%A9%E7%8B%97%E4%BB%8E%E5%86%9C%E6%9D%91%E5%9B%9E%E5%9F%8E%E5%90%8E%E8%90%8E%E9%9D%A1%E4%B8%8D%E6%8C%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [收费站提前1小时停止免费？不实](https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%B9%E7%AB%99%E6%8F%90%E5%89%8D1%E5%B0%8F%E6%97%B6%E5%81%9C%E6%AD%A2%E5%85%8D%E8%B4%B9%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
