@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 22:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-19 22:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [鲁豫 贾玲没变只是做回自己](https://s.weibo.com/weibo?q=%E9%B2%81%E8%B1%AB%20%E8%B4%BE%E7%8E%B2%E6%B2%A1%E5%8F%98%E5%8F%AA%E6%98%AF%E5%81%9A%E5%9B%9E%E8%87%AA%E5%B7%B1&t=31&band_rank=5&Refer=top)<br />
 6. [梅西 双手插兜](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%20%E5%8F%8C%E6%89%8B%E6%8F%92%E5%85%9C&t=31&band_rank=6&Refer=top)<br />
 7. [学校通报女教师出轨高中生](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E9%AB%98%E4%B8%AD%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [贾玲怕拍戏打扰群众上门发礼物](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E6%80%95%E6%8B%8D%E6%88%8F%E6%89%93%E6%89%B0%E7%BE%A4%E4%BC%97%E4%B8%8A%E9%97%A8%E5%8F%91%E7%A4%BC%E7%89%A9&t=31&band_rank=8&Refer=top)<br />
-9. [东方甄选报警](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [周杰伦 有狗还在吠代表你还是行的](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%9C%89%E7%8B%97%E8%BF%98%E5%9C%A8%E5%90%A0%E4%BB%A3%E8%A1%A8%E4%BD%A0%E8%BF%98%E6%98%AF%E8%A1%8C%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
+9. [贾玲怕拍戏打扰群众上门发礼物](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E6%80%95%E6%8B%8D%E6%88%8F%E6%89%93%E6%89%B0%E7%BE%A4%E4%BC%97%E4%B8%8A%E9%97%A8%E5%8F%91%E7%A4%BC%E7%89%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [热辣滚烫进入中国影史票房TOP20](https://www.baidu.com/s?wd=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BFTOP20&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [返程路带上爱出发](https://www.baidu.com/s?wd=%E8%BF%94%E7%A8%8B%E8%B7%AF%E5%B8%A6%E4%B8%8A%E7%88%B1%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [刘雨欣回应洛杉矶家中被盗](https://www.baidu.com/s?wd=%E5%88%98%E9%9B%A8%E6%AC%A3%E5%9B%9E%E5%BA%94%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%AE%B6%E4%B8%AD%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子走错站台手提行李箱翻越铁轨](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B5%B0%E9%94%99%E7%AB%99%E5%8F%B0%E6%89%8B%E6%8F%90%E8%A1%8C%E6%9D%8E%E7%AE%B1%E7%BF%BB%E8%B6%8A%E9%93%81%E8%BD%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [布林肯被曝要求中印劝说俄罗斯](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E8%A2%AB%E6%9B%9D%E8%A6%81%E6%B1%82%E4%B8%AD%E5%8D%B0%E5%8A%9D%E8%AF%B4%E4%BF%84%E7%BD%97%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [春晚观众中60万大奖 屏蔽客服电话](https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E8%A7%82%E4%BC%97%E4%B8%AD60%E4%B8%87%E5%A4%A7%E5%A5%96+%E5%B1%8F%E8%94%BD%E5%AE%A2%E6%9C%8D%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [布林肯被曝要求中印劝说俄罗斯](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E8%A2%AB%E6%9B%9D%E8%A6%81%E6%B1%82%E4%B8%AD%E5%8D%B0%E5%8A%9D%E8%AF%B4%E4%BF%84%E7%BD%97%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [春晚观众中60万大奖 屏蔽客服电话](https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E8%A7%82%E4%BC%97%E4%B8%AD60%E4%B8%87%E5%A4%A7%E5%A5%96+%E5%B1%8F%E8%94%BD%E5%AE%A2%E6%9C%8D%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学校通报“女教师出轨男学生”](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E7%94%B7%E5%AD%A6%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [派出所辟谣中学生返校途中跳河](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%BF%94%E6%A0%A1%E9%80%94%E4%B8%AD%E8%B7%B3%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [热辣滚烫进入中国影史票房TOP20](https://www.baidu.com/s?wd=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BFTOP20&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [返程路带上爱出发](https://www.baidu.com/s?wd=%E8%BF%94%E7%A8%8B%E8%B7%AF%E5%B8%A6%E4%B8%8A%E7%88%B1%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [刘雨欣回应洛杉矶家中被盗](https://www.baidu.com/s?wd=%E5%88%98%E9%9B%A8%E6%AC%A3%E5%9B%9E%E5%BA%94%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%AE%B6%E4%B8%AD%E8%A2%AB%E7%9B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子走错站台手提行李箱翻越铁轨](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B5%B0%E9%94%99%E7%AB%99%E5%8F%B0%E6%89%8B%E6%8F%90%E8%A1%8C%E6%9D%8E%E7%AE%B1%E7%BF%BB%E8%B6%8A%E9%93%81%E8%BD%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [布林肯被曝要求中印劝说俄罗斯](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E8%A2%AB%E6%9B%9D%E8%A6%81%E6%B1%82%E4%B8%AD%E5%8D%B0%E5%8A%9D%E8%AF%B4%E4%BF%84%E7%BD%97%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [春晚观众中60万大奖 屏蔽客服电话](https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E8%A7%82%E4%BC%97%E4%B8%AD60%E4%B8%87%E5%A4%A7%E5%A5%96+%E5%B1%8F%E8%94%BD%E5%AE%A2%E6%9C%8D%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [布林肯被曝要求中印劝说俄罗斯](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%E8%A2%AB%E6%9B%9D%E8%A6%81%E6%B1%82%E4%B8%AD%E5%8D%B0%E5%8A%9D%E8%AF%B4%E4%BF%84%E7%BD%97%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [春晚观众中60万大奖 屏蔽客服电话](https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E8%A7%82%E4%BC%97%E4%B8%AD60%E4%B8%87%E5%A4%A7%E5%A5%96+%E5%B1%8F%E8%94%BD%E5%AE%A2%E6%9C%8D%E7%94%B5%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学校通报“女教师出轨男学生”](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A5%B3%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E7%94%B7%E5%AD%A6%E7%94%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [派出所辟谣中学生返校途中跳河](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%BF%94%E6%A0%A1%E9%80%94%E4%B8%AD%E8%B7%B3%E6%B2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
