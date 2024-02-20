@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 19:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 19:53:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [cos赵世子男网红道歉](https://s.weibo.com/weibo?q=%23cos%E8%B5%B5%E4%B8%96%E5%AD%90%E7%94%B7%E7%BD%91%E7%BA%A2%E9%81%93%E6%AD%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [柳鑫宇发声](https://s.weibo.com/weibo?q=%E6%9F%B3%E9%91%AB%E5%AE%87%E5%8F%91%E5%A3%B0&t=31&band_rank=5&Refer=top)<br />
 6. [新疆地震](https://s.weibo.com/weibo?q=%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87&t=31&band_rank=6&Refer=top)<br />
-7. [柳鑫宇自曝事件](https://s.weibo.com/weibo?q=%E6%9F%B3%E9%91%AB%E5%AE%87%E8%87%AA%E6%9B%9D%E4%BA%8B%E4%BB%B6&t=31&band_rank=7&Refer=top)<br />
-8. [梅西AI](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BFAI&t=31&band_rank=8&Refer=top)<br />
+7. [梅西AI](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BFAI&t=31&band_rank=7&Refer=top)<br />
+8. [柳鑫宇自曝事件](https://s.weibo.com/weibo?q=%E6%9F%B3%E9%91%AB%E5%AE%87%E8%87%AA%E6%9B%9D%E4%BA%8B%E4%BB%B6&t=31&band_rank=8&Refer=top)<br />
 9. [2万多游客滞留5万人小县倾城接待](https://s.weibo.com/weibo?q=%232%E4%B8%87%E5%A4%9A%E6%B8%B8%E5%AE%A2%E6%BB%9E%E7%95%995%E4%B8%87%E4%BA%BA%E5%B0%8F%E5%8E%BF%E5%80%BE%E5%9F%8E%E6%8E%A5%E5%BE%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
