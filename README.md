@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 06:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 06:43:01</h4></div>
 
 > 微博  
 
-1. [上海暴雨](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&t=31&band_rank=1&Refer=top)<br />
-2. [央视网评秦朗丢寒假作业事件](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E7%A7%A6%E6%9C%97%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
+1. [央视网评秦朗丢寒假作业事件](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E7%A7%A6%E6%9C%97%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top)<br />
+2. [上海暴雨](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&t=31&band_rank=2&Refer=top)<br />
 3. [航天员拍摄的蔚蓝地球](https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E6%8B%8D%E6%91%84%E7%9A%84%E8%94%9A%E8%93%9D%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [肖战 请不要再蹲守了](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%AF%B7%E4%B8%8D%E8%A6%81%E5%86%8D%E8%B9%B2%E5%AE%88%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [目前票房前6都是跨界导演](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%89%8D%E7%A5%A8%E6%88%BF%E5%89%8D6%E9%83%BD%E6%98%AF%E8%B7%A8%E7%95%8C%E5%AF%BC%E6%BC%94%23&t=31&band_rank=5&Refer=top)<br />
