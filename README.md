@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 23:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 23:01:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [刘涛演妈祖 掷圣杯](https://s.weibo.com/weibo?q=%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%20%E6%8E%B7%E5%9C%A3%E6%9D%AF&t=31&band_rank=6&Refer=top)<br />
 7. [多部门已介入核查柳鑫宇自曝事件](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E9%83%A8%E9%97%A8%E5%B7%B2%E4%BB%8B%E5%85%A5%E6%A0%B8%E6%9F%A5%E6%9F%B3%E9%91%AB%E5%AE%87%E8%87%AA%E6%9B%9D%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [cos赵世子男网红道歉](https://s.weibo.com/weibo?q=%23cos%E8%B5%B5%E4%B8%96%E5%AD%90%E7%94%B7%E7%BD%91%E7%BA%A2%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [柳鑫宇发声](https://s.weibo.com/weibo?q=%E6%9F%B3%E9%91%AB%E5%AE%87%E5%8F%91%E5%A3%B0&t=31&band_rank=9&Refer=top)<br />
+9. [肖战工作室倡议书](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%80%A1%E8%AE%AE%E4%B9%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
