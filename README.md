@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 00:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 00:42:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [肖战 请不要再蹲守了](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%AF%B7%E4%B8%8D%E8%A6%81%E5%86%8D%E8%B9%B2%E5%AE%88%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [金晨 不存在白敬亭放鸽子](https://s.weibo.com/weibo?q=%E9%87%91%E6%99%A8%20%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%99%BD%E6%95%AC%E4%BA%AD%E6%94%BE%E9%B8%BD%E5%AD%90&t=31&band_rank=5&Refer=top)<br />
 6. [目前票房前6都是跨界导演](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%89%8D%E7%A5%A8%E6%88%BF%E5%89%8D6%E9%83%BD%E6%98%AF%E8%B7%A8%E7%95%8C%E5%AF%BC%E6%BC%94%23&t=31&band_rank=6&Refer=top)<br />
-7. [背薄真的显年轻](https://s.weibo.com/weibo?q=%E8%83%8C%E8%96%84%E7%9C%9F%E7%9A%84%E6%98%BE%E5%B9%B4%E8%BD%BB&t=31&band_rank=7&Refer=top)<br />
-8. [乐华为王一博报警](https://s.weibo.com/weibo?q=%E4%B9%90%E5%8D%8E%E4%B8%BA%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8A%A5%E8%AD%A6&t=31&band_rank=8&Refer=top)<br />
+7. [乐华为王一博报警](https://s.weibo.com/weibo?q=%E4%B9%90%E5%8D%8E%E4%B8%BA%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8A%A5%E8%AD%A6&t=31&band_rank=7&Refer=top)<br />
+8. [背薄真的显年轻](https://s.weibo.com/weibo?q=%E8%83%8C%E8%96%84%E7%9C%9F%E7%9A%84%E6%98%BE%E5%B9%B4%E8%BD%BB&t=31&band_rank=8&Refer=top)<br />
 9. [专家称现在不买房五年又白忙](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E7%8E%B0%E5%9C%A8%E4%B8%8D%E4%B9%B0%E6%88%BF%E4%BA%94%E5%B9%B4%E5%8F%88%E7%99%BD%E5%BF%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
