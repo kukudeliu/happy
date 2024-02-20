@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 11:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 11:14:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [返程路带上爱出发](https://www.baidu.com/s?wd=%E8%BF%94%E7%A8%8B%E8%B7%AF%E5%B8%A6%E4%B8%8A%E7%88%B1%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅西代言的赤水河酒下架](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E4%BB%A3%E8%A8%80%E7%9A%84%E8%B5%A4%E6%B0%B4%E6%B2%B3%E9%85%92%E4%B8%8B%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [青岛大雪上演现实版“流浪地球”](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%A4%A7%E9%9B%AA%E4%B8%8A%E6%BC%94%E7%8E%B0%E5%AE%9E%E7%89%88%E2%80%9C%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [业内谈春节万元机票定价依据](https://www.baidu.com/s?wd=%E4%B8%9A%E5%86%85%E8%B0%88%E6%98%A5%E8%8A%82%E4%B8%87%E5%85%83%E6%9C%BA%E7%A5%A8%E5%AE%9A%E4%BB%B7%E4%BE%9D%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一箱八宝粥只有10罐其余都是泡沫](https://www.baidu.com/s?wd=%E4%B8%80%E7%AE%B1%E5%85%AB%E5%AE%9D%E7%B2%A5%E5%8F%AA%E6%9C%8910%E7%BD%90%E5%85%B6%E4%BD%99%E9%83%BD%E6%98%AF%E6%B3%A1%E6%B2%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [开工3天痔疮膏销量翻3倍](https://www.baidu.com/s?wd=%E5%BC%80%E5%B7%A53%E5%A4%A9%E7%97%94%E7%96%AE%E8%86%8F%E9%94%80%E9%87%8F%E7%BF%BB3%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友提前爆料梅西21点“道歉”](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E7%88%86%E6%96%99%E6%A2%85%E8%A5%BF21%E7%82%B9%E2%80%9C%E9%81%93%E6%AD%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“托管中心虐待老人”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%89%98%E7%AE%A1%E4%B8%AD%E5%BF%83%E8%99%90%E5%BE%85%E8%80%81%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [返程路带上爱出发](https://www.baidu.com/s?wd=%E8%BF%94%E7%A8%8B%E8%B7%AF%E5%B8%A6%E4%B8%8A%E7%88%B1%E5%87%BA%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅西代言的赤水河酒下架](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E4%BB%A3%E8%A8%80%E7%9A%84%E8%B5%A4%E6%B0%B4%E6%B2%B3%E9%85%92%E4%B8%8B%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [青岛大雪上演现实版“流浪地球”](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%A4%A7%E9%9B%AA%E4%B8%8A%E6%BC%94%E7%8E%B0%E5%AE%9E%E7%89%88%E2%80%9C%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [业内谈春节万元机票定价依据](https://www.baidu.com/s?wd=%E4%B8%9A%E5%86%85%E8%B0%88%E6%98%A5%E8%8A%82%E4%B8%87%E5%85%83%E6%9C%BA%E7%A5%A8%E5%AE%9A%E4%BB%B7%E4%BE%9D%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [一箱八宝粥只有10罐其余都是泡沫](https://www.baidu.com/s?wd=%E4%B8%80%E7%AE%B1%E5%85%AB%E5%AE%9D%E7%B2%A5%E5%8F%AA%E6%9C%8910%E7%BD%90%E5%85%B6%E4%BD%99%E9%83%BD%E6%98%AF%E6%B3%A1%E6%B2%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [开工3天痔疮膏销量翻3倍](https://www.baidu.com/s?wd=%E5%BC%80%E5%B7%A53%E5%A4%A9%E7%97%94%E7%96%AE%E8%86%8F%E9%94%80%E9%87%8F%E7%BF%BB3%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友提前爆料梅西21点“道歉”](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%89%8D%E7%88%86%E6%96%99%E6%A2%85%E8%A5%BF21%E7%82%B9%E2%80%9C%E9%81%93%E6%AD%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“托管中心虐待老人”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%89%98%E7%AE%A1%E4%B8%AD%E5%BF%83%E8%99%90%E5%BE%85%E8%80%81%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
