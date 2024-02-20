@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 13:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 13:49:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [降息！100万房贷30年少还5.2万](https://www.baidu.com/s?wd=%E9%99%8D%E6%81%AF%EF%BC%81100%E4%B8%87%E6%88%BF%E8%B4%B730%E5%B9%B4%E5%B0%91%E8%BF%985.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [长滩岛飞上海航班上充电宝炸了](https://www.baidu.com/s?wd=%E9%95%BF%E6%BB%A9%E5%B2%9B%E9%A3%9E%E4%B8%8A%E6%B5%B7%E8%88%AA%E7%8F%AD%E4%B8%8A%E5%85%85%E7%94%B5%E5%AE%9D%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [徐冬冬要把婚礼做成真人秀](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E8%A6%81%E6%8A%8A%E5%A9%9A%E7%A4%BC%E5%81%9A%E6%88%90%E7%9C%9F%E4%BA%BA%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子花1万6买好全年假期旅行机票](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B11%E4%B8%876%E4%B9%B0%E5%A5%BD%E5%85%A8%E5%B9%B4%E5%81%87%E6%9C%9F%E6%97%85%E8%A1%8C%E6%9C%BA%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [26岁男子疑因高反在珠峰地区死亡](https://www.baidu.com/s?wd=26%E5%B2%81%E7%94%B7%E5%AD%90%E7%96%91%E5%9B%A0%E9%AB%98%E5%8F%8D%E5%9C%A8%E7%8F%A0%E5%B3%B0%E5%9C%B0%E5%8C%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“托管中心虐待老人”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%89%98%E7%AE%A1%E4%B8%AD%E5%BF%83%E8%99%90%E5%BE%85%E8%80%81%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [降息！100万房贷30年少还5.2万](https://www.baidu.com/s?wd=%E9%99%8D%E6%81%AF%EF%BC%81100%E4%B8%87%E6%88%BF%E8%B4%B730%E5%B9%B4%E5%B0%91%E8%BF%985.2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [长滩岛飞上海航班上充电宝炸了](https://www.baidu.com/s?wd=%E9%95%BF%E6%BB%A9%E5%B2%9B%E9%A3%9E%E4%B8%8A%E6%B5%B7%E8%88%AA%E7%8F%AD%E4%B8%8A%E5%85%85%E7%94%B5%E5%AE%9D%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [徐冬冬要把婚礼做成真人秀](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E8%A6%81%E6%8A%8A%E5%A9%9A%E7%A4%BC%E5%81%9A%E6%88%90%E7%9C%9F%E4%BA%BA%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子花1万6买好全年假期旅行机票](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B11%E4%B8%876%E4%B9%B0%E5%A5%BD%E5%85%A8%E5%B9%B4%E5%81%87%E6%9C%9F%E6%97%85%E8%A1%8C%E6%9C%BA%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [26岁男子疑因高反在珠峰地区死亡](https://www.baidu.com/s?wd=26%E5%B2%81%E7%94%B7%E5%AD%90%E7%96%91%E5%9B%A0%E9%AB%98%E5%8F%8D%E5%9C%A8%E7%8F%A0%E5%B3%B0%E5%9C%B0%E5%8C%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“托管中心虐待老人”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%89%98%E7%AE%A1%E4%B8%AD%E5%BF%83%E8%99%90%E5%BE%85%E8%80%81%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
