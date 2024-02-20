@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 21:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 21:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [cos赵世子男网红道歉](https://s.weibo.com/weibo?q=%23cos%E8%B5%B5%E4%B8%96%E5%AD%90%E7%94%B7%E7%BD%91%E7%BA%A2%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [清华大学教授称我们的教育没有教孩子如何开心](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E7%A7%B0%E6%88%91%E4%BB%AC%E7%9A%84%E6%95%99%E8%82%B2%E6%B2%A1%E6%9C%89%E6%95%99%E5%AD%A9%E5%AD%90%E5%A6%82%E4%BD%95%E5%BC%80%E5%BF%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨紫热辣红唇妆](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%83%AD%E8%BE%A3%E7%BA%A2%E5%94%87%E5%A6%86&t=31&band_rank=8&Refer=top)<br />
-9. [文旅局称没有邀请男网红扮游神](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E7%A7%B0%E6%B2%A1%E6%9C%89%E9%82%80%E8%AF%B7%E7%94%B7%E7%BD%91%E7%BA%A2%E6%89%AE%E6%B8%B8%E7%A5%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [iG零封BLG](https://s.weibo.com/weibo?q=%23iG%E9%9B%B6%E5%B0%81BLG%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
