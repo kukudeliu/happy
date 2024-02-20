@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 12:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 12:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [韩国大批医生集体辞职](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%A7%E6%89%B9%E5%8C%BB%E7%94%9F%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [考公正在成为印度年轻人的执念](https://s.weibo.com/weibo?q=%23%E8%80%83%E5%85%AC%E6%AD%A3%E5%9C%A8%E6%88%90%E4%B8%BA%E5%8D%B0%E5%BA%A6%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%89%A7%E5%BF%B5%23&t=31&band_rank=6&Refer=top)<br />
 7. [梅西本人已在中国注册姓名商标](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%9C%AC%E4%BA%BA%E5%B7%B2%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%B3%A8%E5%86%8C%E5%A7%93%E5%90%8D%E5%95%86%E6%A0%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [房贷又要降了](https://s.weibo.com/weibo?q=%23%E6%88%BF%E8%B4%B7%E5%8F%88%E8%A6%81%E9%99%8D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子花1万6买好全年假期旅行机票](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B11%E4%B8%876%E4%B9%B0%E5%A5%BD%E5%85%A8%E5%B9%B4%E5%81%87%E6%9C%9F%E6%97%85%E8%A1%8C%E6%9C%BA%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
+8. [女子花1万6买好全年假期旅行机票](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B11%E4%B8%876%E4%B9%B0%E5%A5%BD%E5%85%A8%E5%B9%B4%E5%81%87%E6%9C%9F%E6%97%85%E8%A1%8C%E6%9C%BA%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
+9. [房贷又要降了](https://s.weibo.com/weibo?q=%23%E6%88%BF%E8%B4%B7%E5%8F%88%E8%A6%81%E9%99%8D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
