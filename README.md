@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 07:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 07:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [目前票房前6都是跨界导演](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%89%8D%E7%A5%A8%E6%88%BF%E5%89%8D6%E9%83%BD%E6%98%AF%E8%B7%A8%E7%95%8C%E5%AF%BC%E6%BC%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [专家称现在不买房五年又白忙](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E7%8E%B0%E5%9C%A8%E4%B8%8D%E4%B9%B0%E6%88%BF%E4%BA%94%E5%B9%B4%E5%8F%88%E7%99%BD%E5%BF%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [许凯报警](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%87%AF%E6%8A%A5%E8%AD%A6&t=31&band_rank=8&Refer=top)<br />
-9. [冻雨](https://s.weibo.com/weibo?q=%E5%86%BB%E9%9B%A8&t=31&band_rank=9&Refer=top)<br />
+9. [贾玲第一次正视自己的才华](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AD%A3%E8%A7%86%E8%87%AA%E5%B7%B1%E7%9A%84%E6%89%8D%E5%8D%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
