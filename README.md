@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 23:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 23:48:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [乐华为王一博报警](https://s.weibo.com/weibo?q=%E4%B9%90%E5%8D%8E%E4%B8%BA%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8A%A5%E8%AD%A6&t=31&band_rank=6&Refer=top)<br />
 7. [冻雨](https://s.weibo.com/weibo?q=%E5%86%BB%E9%9B%A8&t=31&band_rank=7&Refer=top)<br />
 8. [刘涛演妈祖 掷圣杯](https://s.weibo.com/weibo?q=%E5%88%98%E6%B6%9B%E6%BC%94%E5%A6%88%E7%A5%96%20%E6%8E%B7%E5%9C%A3%E6%9D%AF&t=31&band_rank=8&Refer=top)<br />
-9. [多部门已介入核查柳鑫宇自曝事件](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E9%83%A8%E9%97%A8%E5%B7%B2%E4%BB%8B%E5%85%A5%E6%A0%B8%E6%9F%A5%E6%9F%B3%E9%91%AB%E5%AE%87%E8%87%AA%E6%9B%9D%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [背薄真的显年轻](https://s.weibo.com/weibo?q=%E8%83%8C%E8%96%84%E7%9C%9F%E7%9A%84%E6%98%BE%E5%B9%B4%E8%BD%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
