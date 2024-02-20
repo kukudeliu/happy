@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 13:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-20 13:42:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [多地召开“新春第一会”拼开局](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%8F%AC%E5%BC%80%E2%80%9C%E6%96%B0%E6%98%A5%E7%AC%AC%E4%B8%80%E4%BC%9A%E2%80%9D%E6%8B%BC%E5%BC%80%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅西代言的赤水河酒下架](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E4%BB%A3%E8%A8%80%E7%9A%84%E8%B5%A4%E6%B0%B4%E6%B2%B3%E9%85%92%E4%B8%8B%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [长滩岛飞上海航班上充电宝炸了](https://www.baidu.com/s?wd=%E9%95%BF%E6%BB%A9%E5%B2%9B%E9%A3%9E%E4%B8%8A%E6%B5%B7%E8%88%AA%E7%8F%AD%E4%B8%8A%E5%85%85%E7%94%B5%E5%AE%9D%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子花1万6买好全年假期旅行机票](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B11%E4%B8%876%E4%B9%B0%E5%A5%BD%E5%85%A8%E5%B9%B4%E5%81%87%E6%9C%9F%E6%97%85%E8%A1%8C%E6%9C%BA%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐冬冬要把婚礼做成真人秀](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E8%A6%81%E6%8A%8A%E5%A9%9A%E7%A4%BC%E5%81%9A%E6%88%90%E7%9C%9F%E4%BA%BA%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [徐冬冬要把婚礼做成真人秀](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E8%A6%81%E6%8A%8A%E5%A9%9A%E7%A4%BC%E5%81%9A%E6%88%90%E7%9C%9F%E4%BA%BA%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子花1万6买好全年假期旅行机票](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B11%E4%B8%876%E4%B9%B0%E5%A5%BD%E5%85%A8%E5%B9%B4%E5%81%87%E6%9C%9F%E6%97%85%E8%A1%8C%E6%9C%BA%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“托管中心虐待老人”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%89%98%E7%AE%A1%E4%B8%AD%E5%BF%83%E8%99%90%E5%BE%85%E8%80%81%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [多地召开“新春第一会”拼开局](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%8F%AC%E5%BC%80%E2%80%9C%E6%96%B0%E6%98%A5%E7%AC%AC%E4%B8%80%E4%BC%9A%E2%80%9D%E6%8B%BC%E5%BC%80%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [梅西代言的赤水河酒下架](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E4%BB%A3%E8%A8%80%E7%9A%84%E8%B5%A4%E6%B0%B4%E6%B2%B3%E9%85%92%E4%B8%8B%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [长滩岛飞上海航班上充电宝炸了](https://www.baidu.com/s?wd=%E9%95%BF%E6%BB%A9%E5%B2%9B%E9%A3%9E%E4%B8%8A%E6%B5%B7%E8%88%AA%E7%8F%AD%E4%B8%8A%E5%85%85%E7%94%B5%E5%AE%9D%E7%82%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子花1万6买好全年假期旅行机票](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B11%E4%B8%876%E4%B9%B0%E5%A5%BD%E5%85%A8%E5%B9%B4%E5%81%87%E6%9C%9F%E6%97%85%E8%A1%8C%E6%9C%BA%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐冬冬要把婚礼做成真人秀](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E8%A6%81%E6%8A%8A%E5%A9%9A%E7%A4%BC%E5%81%9A%E6%88%90%E7%9C%9F%E4%BA%BA%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [徐冬冬要把婚礼做成真人秀](https://www.baidu.com/s?wd=%E5%BE%90%E5%86%AC%E5%86%AC%E8%A6%81%E6%8A%8A%E5%A9%9A%E7%A4%BC%E5%81%9A%E6%88%90%E7%9C%9F%E4%BA%BA%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子花1万6买好全年假期旅行机票](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B11%E4%B8%876%E4%B9%B0%E5%A5%BD%E5%85%A8%E5%B9%B4%E5%81%87%E6%9C%9F%E6%97%85%E8%A1%8C%E6%9C%BA%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“托管中心虐待老人”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%89%98%E7%AE%A1%E4%B8%AD%E5%BF%83%E8%99%90%E5%BE%85%E8%80%81%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
