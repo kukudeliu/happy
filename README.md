@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 05:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 05:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金晨 不存在白敬亭放鸽子](https://s.weibo.com/weibo?q=%E9%87%91%E6%99%A8%20%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%99%BD%E6%95%AC%E4%BA%AD%E6%94%BE%E9%B8%BD%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [目前票房前6都是跨界导演](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%89%8D%E7%A5%A8%E6%88%BF%E5%89%8D6%E9%83%BD%E6%98%AF%E8%B7%A8%E7%95%8C%E5%AF%BC%E6%BC%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [cos赵世子男网红道歉](https://s.weibo.com/weibo?q=%23cos%E8%B5%B5%E4%B8%96%E5%AD%90%E7%94%B7%E7%BD%91%E7%BA%A2%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [冻雨](https://s.weibo.com/weibo?q=%E5%86%BB%E9%9B%A8&t=31&band_rank=9&Refer=top)<br />
+9. [乐华为王一博报警](https://s.weibo.com/weibo?q=%E4%B9%90%E5%8D%8E%E4%B8%BA%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8A%A5%E8%AD%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
