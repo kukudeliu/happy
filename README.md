@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 07:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 07:56:01</h4></div>
 
 > 微博  
 
-1. [央视网评秦朗丢寒假作业事件](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E7%A7%A6%E6%9C%97%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [节后浙江疾控艾滋病咨询电话增两三倍](https://s.weibo.com/weibo?q=%23%E8%8A%82%E5%90%8E%E6%B5%99%E6%B1%9F%E7%96%BE%E6%8E%A7%E8%89%BE%E6%BB%8B%E7%97%85%E5%92%A8%E8%AF%A2%E7%94%B5%E8%AF%9D%E5%A2%9E%E4%B8%A4%E4%B8%89%E5%80%8D%23&t=31&band_rank=2&Refer=top)<br />
+1. [节后浙江疾控艾滋病咨询电话增两三倍](https://s.weibo.com/weibo?q=%23%E8%8A%82%E5%90%8E%E6%B5%99%E6%B1%9F%E7%96%BE%E6%8E%A7%E8%89%BE%E6%BB%8B%E7%97%85%E5%92%A8%E8%AF%A2%E7%94%B5%E8%AF%9D%E5%A2%9E%E4%B8%A4%E4%B8%89%E5%80%8D%23&t=31&band_rank=1&Refer=top)<br />
+2. [央视网评秦朗丢寒假作业事件](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E7%A7%A6%E6%9C%97%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [航天员拍摄的蔚蓝地球](https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E6%8B%8D%E6%91%84%E7%9A%84%E8%94%9A%E8%93%9D%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [上海暴雨](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&t=31&band_rank=4&Refer=top)<br />
 5. [肖战 请不要再蹲守了](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%AF%B7%E4%B8%8D%E8%A6%81%E5%86%8D%E8%B9%B2%E5%AE%88%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
