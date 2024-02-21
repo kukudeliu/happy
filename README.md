@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 14:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 14:15:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [雪天出行安全指南](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%A4%A9%E5%87%BA%E8%A1%8C%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [养娃到本科毕业平均花费68万元](https://s.weibo.com/weibo?q=%23%E5%85%BB%E5%A8%83%E5%88%B0%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E5%B9%B3%E5%9D%87%E8%8A%B1%E8%B4%B968%E4%B8%87%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [马思纯后悔该骂回去时选择了逃走](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%90%8E%E6%82%94%E8%AF%A5%E9%AA%82%E5%9B%9E%E5%8E%BB%E6%97%B6%E9%80%89%E6%8B%A9%E4%BA%86%E9%80%83%E8%B5%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [迪丽热巴 大冰梗](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%A4%A7%E5%86%B0%E6%A2%97&t=31&band_rank=6&Refer=top)<br />
-7. [节后办公室7个人里5个咳](https://s.weibo.com/weibo?q=%23%E8%8A%82%E5%90%8E%E5%8A%9E%E5%85%AC%E5%AE%A47%E4%B8%AA%E4%BA%BA%E9%87%8C5%E4%B8%AA%E5%92%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [鹿晗关晓彤聚餐会友](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%85%B3%E6%99%93%E5%BD%A4%E8%81%9A%E9%A4%90%E4%BC%9A%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [齐齐哈尔体育馆坍塌事故51人被追责](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%8551%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3%23&t=31&band_rank=9&Refer=top)<br />
+6. [节后办公室7个人里5个咳](https://s.weibo.com/weibo?q=%23%E8%8A%82%E5%90%8E%E5%8A%9E%E5%85%AC%E5%AE%A47%E4%B8%AA%E4%BA%BA%E9%87%8C5%E4%B8%AA%E5%92%B3%23&t=31&band_rank=6&Refer=top)<br />
+7. [迪丽热巴 大冰梗](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%A4%A7%E5%86%B0%E6%A2%97&t=31&band_rank=7&Refer=top)<br />
+8. [齐齐哈尔体育馆坍塌事故51人被追责](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%8551%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [鹿晗关晓彤聚餐会友](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%85%B3%E6%99%93%E5%BD%A4%E8%81%9A%E9%A4%90%E4%BC%9A%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
