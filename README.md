@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 05:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 05:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贵阳8场山火10人被处理](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B38%E5%9C%BA%E5%B1%B1%E7%81%AB10%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%90%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [航班延误](https://s.weibo.com/weibo?q=%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF&t=31&band_rank=7&Refer=top)<br />
 8. [为啥就中国人看片要字幕](https://s.weibo.com/weibo?q=%E4%B8%BA%E5%95%A5%E5%B0%B1%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9C%8B%E7%89%87%E8%A6%81%E5%AD%97%E5%B9%95&t=31&band_rank=8&Refer=top)<br />
-9. [狂飙麻子爆改](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%99%E9%BA%BB%E5%AD%90%E7%88%86%E6%94%B9&t=31&band_rank=9&Refer=top)<br />
+9. [丽丽婚礼](https://s.weibo.com/weibo?q=%23%E4%B8%BD%E4%B8%BD%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
