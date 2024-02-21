@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 06:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 06:07:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [贵阳8场山火10人被处理](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B38%E5%9C%BA%E5%B1%B1%E7%81%AB10%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%90%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [航班延误](https://s.weibo.com/weibo?q=%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF&t=31&band_rank=6&Refer=top)<br />
 7. [王诗龄家豪宅内景](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E5%AE%B6%E8%B1%AA%E5%AE%85%E5%86%85%E6%99%AF%23&t=31&band_rank=7&Refer=top)<br />
-8. [为啥就中国人看片要字幕](https://s.weibo.com/weibo?q=%E4%B8%BA%E5%95%A5%E5%B0%B1%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9C%8B%E7%89%87%E8%A6%81%E5%AD%97%E5%B9%95&t=31&band_rank=8&Refer=top)<br />
-9. [河南医生成功分离罕见胎中胎](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8C%BB%E7%94%9F%E6%88%90%E5%8A%9F%E5%88%86%E7%A6%BB%E7%BD%95%E8%A7%81%E8%83%8E%E4%B8%AD%E8%83%8E%23&t=31&band_rank=9&Refer=top)<br />
+8. [河南医生成功分离罕见胎中胎](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8C%BB%E7%94%9F%E6%88%90%E5%8A%9F%E5%88%86%E7%A6%BB%E7%BD%95%E8%A7%81%E8%83%8E%E4%B8%AD%E8%83%8E%23&t=31&band_rank=8&Refer=top)<br />
+9. [为啥就中国人看片要字幕](https://s.weibo.com/weibo?q=%E4%B8%BA%E5%95%A5%E5%B0%B1%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9C%8B%E7%89%87%E8%A6%81%E5%AD%97%E5%B9%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
