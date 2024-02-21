@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 03:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 03:33:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [冰雪消费迸活力新场景激发新需求](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E6%B6%88%E8%B4%B9%E8%BF%B8%E6%B4%BB%E5%8A%9B%E6%96%B0%E5%9C%BA%E6%99%AF%E6%BF%80%E5%8F%91%E6%96%B0%E9%9C%80%E6%B1%82%23&t=31&band_rank=3&Refer=top)<br />
 4. [航班延误](https://s.weibo.com/weibo?q=%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF&t=31&band_rank=4&Refer=top)<br />
 5. [丽丽婚礼](https://s.weibo.com/weibo?q=%23%E4%B8%BD%E4%B8%BD%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=5&Refer=top)<br />
-6. [贵阳8场山火10人被处理](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B38%E5%9C%BA%E5%B1%B1%E7%81%AB10%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%90%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [王诗龄家豪宅内景](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E5%AE%B6%E8%B1%AA%E5%AE%85%E5%86%85%E6%99%AF%23&t=31&band_rank=7&Refer=top)<br />
+6. [王诗龄家豪宅内景](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E5%AE%B6%E8%B1%AA%E5%AE%85%E5%86%85%E6%99%AF%23&t=31&band_rank=6&Refer=top)<br />
+7. [贵阳8场山火10人被处理](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B38%E5%9C%BA%E5%B1%B1%E7%81%AB10%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%90%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [狂飙麻子爆改](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%99%E9%BA%BB%E5%AD%90%E7%88%86%E6%94%B9&t=31&band_rank=8&Refer=top)<br />
 9. [贾玲公开瘦身食谱](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%85%AC%E5%BC%80%E7%98%A6%E8%BA%AB%E9%A3%9F%E8%B0%B1%23&t=31&band_rank=9&Refer=top)<br />
 
