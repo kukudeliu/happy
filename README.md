@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 14:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 14:14:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [养娃到本科毕业平均花费68万元](https://s.weibo.com/weibo?q=%23%E5%85%BB%E5%A8%83%E5%88%B0%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E5%B9%B3%E5%9D%87%E8%8A%B1%E8%B4%B968%E4%B8%87%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [马思纯后悔该骂回去时选择了逃走](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%90%8E%E6%82%94%E8%AF%A5%E9%AA%82%E5%9B%9E%E5%8E%BB%E6%97%B6%E9%80%89%E6%8B%A9%E4%BA%86%E9%80%83%E8%B5%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴 大冰梗](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%A4%A7%E5%86%B0%E6%A2%97&t=31&band_rank=6&Refer=top)<br />
-7. [鹿晗关晓彤聚餐会友](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%85%B3%E6%99%93%E5%BD%A4%E8%81%9A%E9%A4%90%E4%BC%9A%E5%8F%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [节后办公室7个人里5个咳](https://s.weibo.com/weibo?q=%23%E8%8A%82%E5%90%8E%E5%8A%9E%E5%85%AC%E5%AE%A47%E4%B8%AA%E4%BA%BA%E9%87%8C5%E4%B8%AA%E5%92%B3%23&t=31&band_rank=8&Refer=top)<br />
+7. [节后办公室7个人里5个咳](https://s.weibo.com/weibo?q=%23%E8%8A%82%E5%90%8E%E5%8A%9E%E5%85%AC%E5%AE%A47%E4%B8%AA%E4%BA%BA%E9%87%8C5%E4%B8%AA%E5%92%B3%23&t=31&band_rank=7&Refer=top)<br />
+8. [鹿晗关晓彤聚餐会友](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%85%B3%E6%99%93%E5%BD%A4%E8%81%9A%E9%A4%90%E4%BC%9A%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [齐齐哈尔体育馆坍塌事故51人被追责](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%8551%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [黑龙江体育馆坍塌致11死 51人被追责](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E8%87%B411%E6%AD%BB+51%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国家早已明确禁止师生恋](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E6%97%A9%E5%B7%B2%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E5%B8%88%E7%94%9F%E6%81%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [员工请病假 暗中考研还领高薪](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AF%B7%E7%97%85%E5%81%87+%E6%9A%97%E4%B8%AD%E8%80%83%E7%A0%94%E8%BF%98%E9%A2%86%E9%AB%98%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [湖北多地降雪量已超10毫米](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%A4%9A%E5%9C%B0%E9%99%8D%E9%9B%AA%E9%87%8F%E5%B7%B2%E8%B6%8510%E6%AF%AB%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [布林肯：你不在餐桌上 就会在菜单上](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%EF%BC%9A%E4%BD%A0%E4%B8%8D%E5%9C%A8%E9%A4%90%E6%A1%8C%E4%B8%8A+%E5%B0%B1%E4%BC%9A%E5%9C%A8%E8%8F%9C%E5%8D%95%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃含酵母的面食伤胃还致癌？](https://www.baidu.com/s?wd=%E5%90%83%E5%90%AB%E9%85%B5%E6%AF%8D%E7%9A%84%E9%9D%A2%E9%A3%9F%E4%BC%A4%E8%83%83%E8%BF%98%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [黑龙江体育馆坍塌致11死 51人被追责](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E8%87%B411%E6%AD%BB+51%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国家早已明确禁止师生恋](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E6%97%A9%E5%B7%B2%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E5%B8%88%E7%94%9F%E6%81%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [员工请病假 暗中考研还领高薪](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AF%B7%E7%97%85%E5%81%87+%E6%9A%97%E4%B8%AD%E8%80%83%E7%A0%94%E8%BF%98%E9%A2%86%E9%AB%98%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [湖北多地降雪量已超10毫米](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%A4%9A%E5%9C%B0%E9%99%8D%E9%9B%AA%E9%87%8F%E5%B7%B2%E8%B6%8510%E6%AF%AB%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [布林肯：你不在餐桌上 就会在菜单上](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%EF%BC%9A%E4%BD%A0%E4%B8%8D%E5%9C%A8%E9%A4%90%E6%A1%8C%E4%B8%8A+%E5%B0%B1%E4%BC%9A%E5%9C%A8%E8%8F%9C%E5%8D%95%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃含酵母的面食伤胃还致癌？](https://www.baidu.com/s?wd=%E5%90%83%E5%90%AB%E9%85%B5%E6%AF%8D%E7%9A%84%E9%9D%A2%E9%A3%9F%E4%BC%A4%E8%83%83%E8%BF%98%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
