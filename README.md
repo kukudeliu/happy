@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 07:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 07:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王诗龄家豪宅内景](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E5%AE%B6%E8%B1%AA%E5%AE%85%E5%86%85%E6%99%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [河南医生成功分离罕见胎中胎](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8C%BB%E7%94%9F%E6%88%90%E5%8A%9F%E5%88%86%E7%A6%BB%E7%BD%95%E8%A7%81%E8%83%8E%E4%B8%AD%E8%83%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [夏克立 我从来没有家暴](https://s.weibo.com/weibo?q=%E5%A4%8F%E5%85%8B%E7%AB%8B%20%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E5%AE%B6%E6%9A%B4&t=31&band_rank=8&Refer=top)<br />
-9. [阿媒称梅西为国家队带来经济损失](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AA%92%E7%A7%B0%E6%A2%85%E8%A5%BF%E4%B8%BA%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%B8%A6%E6%9D%A5%E7%BB%8F%E6%B5%8E%E6%8D%9F%E5%A4%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [狂飙麻子爆改](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%99%E9%BA%BB%E5%AD%90%E7%88%86%E6%94%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
