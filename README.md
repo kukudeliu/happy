@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 22:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 22:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [长沙火车站](https://s.weibo.com/weibo?q=%E9%95%BF%E6%B2%99%E7%81%AB%E8%BD%A6%E7%AB%99&t=31&band_rank=6&Refer=top)<br />
 7. [16加8减肥](https://s.weibo.com/weibo?q=16%E5%8A%A08%E5%87%8F%E8%82%A5&t=31&band_rank=7&Refer=top)<br />
 8. [宋雨琦丸子头](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E4%B8%B8%E5%AD%90%E5%A4%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [我的阿勒泰过审](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E9%98%BF%E5%8B%92%E6%B3%B0%E8%BF%87%E5%AE%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [贵州2名扑火牺牲人员仅20来岁](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E2%E5%90%8D%E6%89%91%E7%81%AB%E7%89%BA%E7%89%B2%E4%BA%BA%E5%91%98%E4%BB%8520%E6%9D%A5%E5%B2%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
