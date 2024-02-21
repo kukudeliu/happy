@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 01:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 01:21:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [马云妻子被曝在新加坡购房](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%9B%9D%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%B4%AD%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [狂飙麻子爆改](https://www.baidu.com/s?wd=%E7%8B%82%E9%A3%99%E9%BA%BB%E5%AD%90%E7%88%86%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#姚安娜演技#](https://www.baidu.com/s?wd=%23%E5%A7%9A%E5%AE%89%E5%A8%9C%E6%BC%94%E6%8A%80%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日媒曝上百海上自卫队员集体拜鬼](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E6%9B%9D%E4%B8%8A%E7%99%BE%E6%B5%B7%E4%B8%8A%E8%87%AA%E5%8D%AB%E9%98%9F%E5%91%98%E9%9B%86%E4%BD%93%E6%8B%9C%E9%AC%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩寒假作业丢失哭着报警求助](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E4%B8%A2%E5%A4%B1%E5%93%AD%E7%9D%80%E6%8A%A5%E8%AD%A6%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [13岁女孩公厕产子并遗弃系谣言](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%85%AC%E5%8E%95%E4%BA%A7%E5%AD%90%E5%B9%B6%E9%81%97%E5%BC%83%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [马云妻子被曝在新加坡购房](https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%9B%9D%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%B4%AD%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [狂飙麻子爆改](https://www.baidu.com/s?wd=%E7%8B%82%E9%A3%99%E9%BA%BB%E5%AD%90%E7%88%86%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [#姚安娜演技#](https://www.baidu.com/s?wd=%23%E5%A7%9A%E5%AE%89%E5%A8%9C%E6%BC%94%E6%8A%80%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日媒曝上百海上自卫队员集体拜鬼](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E6%9B%9D%E4%B8%8A%E7%99%BE%E6%B5%B7%E4%B8%8A%E8%87%AA%E5%8D%AB%E9%98%9F%E5%91%98%E9%9B%86%E4%BD%93%E6%8B%9C%E9%AC%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女孩寒假作业丢失哭着报警求助](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E4%B8%A2%E5%A4%B1%E5%93%AD%E7%9D%80%E6%8A%A5%E8%AD%A6%E6%B1%82%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [13岁女孩公厕产子并遗弃系谣言](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%85%AC%E5%8E%95%E4%BA%A7%E5%AD%90%E5%B9%B6%E9%81%97%E5%BC%83%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
