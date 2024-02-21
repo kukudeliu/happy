@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 13:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 13:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [迪丽热巴 大冰梗](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%A4%A7%E5%86%B0%E6%A2%97&t=31&band_rank=5&Refer=top)<br />
 6. [养娃到本科毕业平均花费68万元](https://s.weibo.com/weibo?q=%23%E5%85%BB%E5%A8%83%E5%88%B0%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E5%B9%B3%E5%9D%87%E8%8A%B1%E8%B4%B968%E4%B8%87%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [朴敏英患抑郁症](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%95%8F%E8%8B%B1%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [上海飞青岛票价只要14元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%A3%9E%E9%9D%92%E5%B2%9B%E7%A5%A8%E4%BB%B7%E5%8F%AA%E8%A6%8114%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [感冒了](https://s.weibo.com/weibo?q=%E6%84%9F%E5%86%92%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [派出所回应网传父亲出轨儿子女友](https://s.weibo.com/weibo?q=%23%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E7%88%B6%E4%BA%B2%E5%87%BA%E8%BD%A8%E5%84%BF%E5%AD%90%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [上海飞青岛票价只要14元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%A3%9E%E9%9D%92%E5%B2%9B%E7%A5%A8%E4%BB%B7%E5%8F%AA%E8%A6%8114%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [耕海而作，向海而兴](https://www.baidu.com/s?wd=%E8%80%95%E6%B5%B7%E8%80%8C%E4%BD%9C%EF%BC%8C%E5%90%91%E6%B5%B7%E8%80%8C%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海飞青岛票价只要14元](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%A3%9E%E9%9D%92%E5%B2%9B%E7%A5%A8%E4%BB%B7%E5%8F%AA%E8%A6%8114%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梁建章：养娃到本科毕业平均花68万](https://www.baidu.com/s?wd=%E6%A2%81%E5%BB%BA%E7%AB%A0%EF%BC%9A%E5%85%BB%E5%A8%83%E5%88%B0%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E5%B9%B3%E5%9D%87%E8%8A%B168%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广西炮龙节男子抱孩子扯龙须被群殴](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%82%AE%E9%BE%99%E8%8A%82%E7%94%B7%E5%AD%90%E6%8A%B1%E5%AD%A9%E5%AD%90%E6%89%AF%E9%BE%99%E9%A1%BB%E8%A2%AB%E7%BE%A4%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [柯基跑丢后被人关鸡棚看了一年鸡](https://www.baidu.com/s?wd=%E6%9F%AF%E5%9F%BA%E8%B7%91%E4%B8%A2%E5%90%8E%E8%A2%AB%E4%BA%BA%E5%85%B3%E9%B8%A1%E6%A3%9A%E7%9C%8B%E4%BA%86%E4%B8%80%E5%B9%B4%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [柯基跑丢后被人关鸡棚看了一年鸡](https://www.baidu.com/s?wd=%E6%9F%AF%E5%9F%BA%E8%B7%91%E4%B8%A2%E5%90%8E%E8%A2%AB%E4%BA%BA%E5%85%B3%E9%B8%A1%E6%A3%9A%E7%9C%8B%E4%BA%86%E4%B8%80%E5%B9%B4%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广西炮龙节男子抱孩子扯龙须被群殴](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%82%AE%E9%BE%99%E8%8A%82%E7%94%B7%E5%AD%90%E6%8A%B1%E5%AD%A9%E5%AD%90%E6%89%AF%E9%BE%99%E9%A1%BB%E8%A2%AB%E7%BE%A4%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃含酵母的面食伤胃还致癌？](https://www.baidu.com/s?wd=%E5%90%83%E5%90%AB%E9%85%B5%E6%AF%8D%E7%9A%84%E9%9D%A2%E9%A3%9F%E4%BC%A4%E8%83%83%E8%BF%98%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [耕海而作，向海而兴](https://www.baidu.com/s?wd=%E8%80%95%E6%B5%B7%E8%80%8C%E4%BD%9C%EF%BC%8C%E5%90%91%E6%B5%B7%E8%80%8C%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海飞青岛票价只要14元](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%A3%9E%E9%9D%92%E5%B2%9B%E7%A5%A8%E4%BB%B7%E5%8F%AA%E8%A6%8114%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [梁建章：养娃到本科毕业平均花68万](https://www.baidu.com/s?wd=%E6%A2%81%E5%BB%BA%E7%AB%A0%EF%BC%9A%E5%85%BB%E5%A8%83%E5%88%B0%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E5%B9%B3%E5%9D%87%E8%8A%B168%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广西炮龙节男子抱孩子扯龙须被群殴](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%82%AE%E9%BE%99%E8%8A%82%E7%94%B7%E5%AD%90%E6%8A%B1%E5%AD%A9%E5%AD%90%E6%89%AF%E9%BE%99%E9%A1%BB%E8%A2%AB%E7%BE%A4%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [柯基跑丢后被人关鸡棚看了一年鸡](https://www.baidu.com/s?wd=%E6%9F%AF%E5%9F%BA%E8%B7%91%E4%B8%A2%E5%90%8E%E8%A2%AB%E4%BA%BA%E5%85%B3%E9%B8%A1%E6%A3%9A%E7%9C%8B%E4%BA%86%E4%B8%80%E5%B9%B4%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [柯基跑丢后被人关鸡棚看了一年鸡](https://www.baidu.com/s?wd=%E6%9F%AF%E5%9F%BA%E8%B7%91%E4%B8%A2%E5%90%8E%E8%A2%AB%E4%BA%BA%E5%85%B3%E9%B8%A1%E6%A3%9A%E7%9C%8B%E4%BA%86%E4%B8%80%E5%B9%B4%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广西炮龙节男子抱孩子扯龙须被群殴](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%82%AE%E9%BE%99%E8%8A%82%E7%94%B7%E5%AD%90%E6%8A%B1%E5%AD%A9%E5%AD%90%E6%89%AF%E9%BE%99%E9%A1%BB%E8%A2%AB%E7%BE%A4%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃含酵母的面食伤胃还致癌？](https://www.baidu.com/s?wd=%E5%90%83%E5%90%AB%E9%85%B5%E6%AF%8D%E7%9A%84%E9%9D%A2%E9%A3%9F%E4%BC%A4%E8%83%83%E8%BF%98%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
