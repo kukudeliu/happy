@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 12:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 12:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肖战 羽绒服](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=6&Refer=top)<br />
 7. [员工因bug事故被强制要求归还年终奖](https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E5%9B%A0bug%E4%BA%8B%E6%95%85%E8%A2%AB%E5%BC%BA%E5%88%B6%E8%A6%81%E6%B1%82%E5%BD%92%E8%BF%98%E5%B9%B4%E7%BB%88%E5%A5%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [四六级成绩 小牌大耍](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9%20%E5%B0%8F%E7%89%8C%E5%A4%A7%E8%80%8D&t=31&band_rank=8&Refer=top)<br />
-9. [县城经济](https://s.weibo.com/weibo?q=%E5%8E%BF%E5%9F%8E%E7%BB%8F%E6%B5%8E&t=31&band_rank=9&Refer=top)<br />
+9. [感冒了](https://s.weibo.com/weibo?q=%E6%84%9F%E5%86%92%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
