@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 18:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 18:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王诗玥柳鑫宇75.43分](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%AF%97%E7%8E%A5%E6%9F%B3%E9%91%AB%E5%AE%8775.43%E5%88%86&t=31&band_rank=6&Refer=top)<br />
 7. [胡强被查](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BC%BA%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [张凌赫健身奶茶两不误](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%81%A5%E8%BA%AB%E5%A5%B6%E8%8C%B6%E4%B8%A4%E4%B8%8D%E8%AF%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [被两只一脸懵懂的小奶狗治愈了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%A4%E5%8F%AA%E4%B8%80%E8%84%B8%E6%87%B5%E6%87%82%E7%9A%84%E5%B0%8F%E5%A5%B6%E7%8B%97%E6%B2%BB%E6%84%88%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [女孩寒假作业丢失哭着报警求助](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E4%B8%A2%E5%A4%B1%E5%93%AD%E7%9D%80%E6%8A%A5%E8%AD%A6%E6%B1%82%E5%8A%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
