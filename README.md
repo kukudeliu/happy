@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 15:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 15:32:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王诗玥柳鑫宇75.43分](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%AF%97%E7%8E%A5%E6%9F%B3%E9%91%AB%E5%AE%8775.43%E5%88%86&t=31&band_rank=5&Refer=top)<br />
 6. [王诗玥柳鑫宇登场](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%AF%97%E7%8E%A5%E6%9F%B3%E9%91%AB%E5%AE%87%E7%99%BB%E5%9C%BA&t=31&band_rank=6&Refer=top)<br />
 7. [节后办公室7个人里5个咳](https://s.weibo.com/weibo?q=%23%E8%8A%82%E5%90%8E%E5%8A%9E%E5%85%AC%E5%AE%A47%E4%B8%AA%E4%BA%BA%E9%87%8C5%E4%B8%AA%E5%92%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [柳鑫宇且试天下](https://s.weibo.com/weibo?q=%E6%9F%B3%E9%91%AB%E5%AE%87%E4%B8%94%E8%AF%95%E5%A4%A9%E4%B8%8B&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴 折翼天使](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%8A%98%E7%BF%BC%E5%A4%A9%E4%BD%BF&t=31&band_rank=9&Refer=top)<br />
+8. [迪丽热巴 折翼天使](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%8A%98%E7%BF%BC%E5%A4%A9%E4%BD%BF&t=31&band_rank=8&Refer=top)<br />
+9. [医生称贾玲式减肥要有诊疗团队](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%A7%B0%E8%B4%BE%E7%8E%B2%E5%BC%8F%E5%87%8F%E8%82%A5%E8%A6%81%E6%9C%89%E8%AF%8A%E7%96%97%E5%9B%A2%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
