@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 08:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 08:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [央视网评秦朗丢寒假作业事件](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E7%A7%A6%E6%9C%97%E4%B8%A2%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵世子](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%96%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
 8. [金晨 不存在白敬亭放鸽子](https://s.weibo.com/weibo?q=%E9%87%91%E6%99%A8%20%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%99%BD%E6%95%AC%E4%BA%AD%E6%94%BE%E9%B8%BD%E5%AD%90&t=31&band_rank=8&Refer=top)<br />
-9. [肖战 请不要再蹲守了](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%AF%B7%E4%B8%8D%E8%A6%81%E5%86%8D%E8%B9%B2%E5%AE%88%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [未买手镯被赶下车游客对通报不认可](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E4%B9%B0%E6%89%8B%E9%95%AF%E8%A2%AB%E8%B5%B6%E4%B8%8B%E8%BD%A6%E6%B8%B8%E5%AE%A2%E5%AF%B9%E9%80%9A%E6%8A%A5%E4%B8%8D%E8%AE%A4%E5%8F%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
