@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 10:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 10:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [谈恋爱最不受欢迎的星座](https://s.weibo.com/weibo?q=%E8%B0%88%E6%81%8B%E7%88%B1%E6%9C%80%E4%B8%8D%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=6&Refer=top)<br />
 7. [制片人评价白敬亭](https://s.weibo.com/weibo?q=%23%E5%88%B6%E7%89%87%E4%BA%BA%E8%AF%84%E4%BB%B7%E7%99%BD%E6%95%AC%E4%BA%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [北京暴雪](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%AA&t=31&band_rank=8&Refer=top)<br />
-9. [柯基跑丢后被人关鸡棚看了一年鸡](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%9F%BA%E8%B7%91%E4%B8%A2%E5%90%8E%E8%A2%AB%E4%BA%BA%E5%85%B3%E9%B8%A1%E6%A3%9A%E7%9C%8B%E4%BA%86%E4%B8%80%E5%B9%B4%E9%B8%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [朴敏英患抑郁症](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%95%8F%E8%8B%B1%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
