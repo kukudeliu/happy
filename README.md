@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 12:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 12:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [上海飞青岛票价只要14元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%A3%9E%E9%9D%92%E5%B2%9B%E7%A5%A8%E4%BB%B7%E5%8F%AA%E8%A6%8114%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [台媒曝夏克立家暴黄嘉千细节](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E5%A4%8F%E5%85%8B%E7%AB%8B%E5%AE%B6%E6%9A%B4%E9%BB%84%E5%98%89%E5%8D%83%E7%BB%86%E8%8A%82%23&t=31&band_rank=7&Refer=top)<br />
 8. [柳鑫宇收入](https://s.weibo.com/weibo?q=%E6%9F%B3%E9%91%AB%E5%AE%87%E6%94%B6%E5%85%A5&t=31&band_rank=8&Refer=top)<br />
-9. [赵世子 宅男](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%96%E5%AD%90%20%E5%AE%85%E7%94%B7&t=31&band_rank=9&Refer=top)<br />
+9. [肖战 羽绒服](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [耕海而作，向海而兴](https://www.baidu.com/s?wd=%E8%80%95%E6%B5%B7%E8%80%8C%E4%BD%9C%EF%BC%8C%E5%90%91%E6%B5%B7%E8%80%8C%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [贾玲健身细节首次曝光](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E5%81%A5%E8%BA%AB%E7%BB%86%E8%8A%82%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网传父亲出轨儿子女友 派出所回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%88%B6%E4%BA%B2%E5%87%BA%E8%BD%A8%E5%84%BF%E5%AD%90%E5%A5%B3%E5%8F%8B+%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马斯克称首位脑机接口受试者或已康复](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E9%A6%96%E4%BD%8D%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%8F%97%E8%AF%95%E8%80%85%E6%88%96%E5%B7%B2%E5%BA%B7%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [柯基跑丢后被人关鸡棚看了一年鸡](https://www.baidu.com/s?wd=%E6%9F%AF%E5%9F%BA%E8%B7%91%E4%B8%A2%E5%90%8E%E8%A2%AB%E4%BA%BA%E5%85%B3%E9%B8%A1%E6%A3%9A%E7%9C%8B%E4%BA%86%E4%B8%80%E5%B9%B4%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [柯基跑丢后被人关鸡棚看了一年鸡](https://www.baidu.com/s?wd=%E6%9F%AF%E5%9F%BA%E8%B7%91%E4%B8%A2%E5%90%8E%E8%A2%AB%E4%BA%BA%E5%85%B3%E9%B8%A1%E6%A3%9A%E7%9C%8B%E4%BA%86%E4%B8%80%E5%B9%B4%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国烧饼入选世界最好吃50种面包](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%83%A7%E9%A5%BC%E5%85%A5%E9%80%89%E4%B8%96%E7%95%8C%E6%9C%80%E5%A5%BD%E5%90%8350%E7%A7%8D%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃含酵母的面食伤胃还致癌？](https://www.baidu.com/s?wd=%E5%90%83%E5%90%AB%E9%85%B5%E6%AF%8D%E7%9A%84%E9%9D%A2%E9%A3%9F%E4%BC%A4%E8%83%83%E8%BF%98%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [耕海而作，向海而兴](https://www.baidu.com/s?wd=%E8%80%95%E6%B5%B7%E8%80%8C%E4%BD%9C%EF%BC%8C%E5%90%91%E6%B5%B7%E8%80%8C%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [贾玲健身细节首次曝光](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E5%81%A5%E8%BA%AB%E7%BB%86%E8%8A%82%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网传父亲出轨儿子女友 派出所回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%88%B6%E4%BA%B2%E5%87%BA%E8%BD%A8%E5%84%BF%E5%AD%90%E5%A5%B3%E5%8F%8B+%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马斯克称首位脑机接口受试者或已康复](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E9%A6%96%E4%BD%8D%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%8F%97%E8%AF%95%E8%80%85%E6%88%96%E5%B7%B2%E5%BA%B7%E5%A4%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [柯基跑丢后被人关鸡棚看了一年鸡](https://www.baidu.com/s?wd=%E6%9F%AF%E5%9F%BA%E8%B7%91%E4%B8%A2%E5%90%8E%E8%A2%AB%E4%BA%BA%E5%85%B3%E9%B8%A1%E6%A3%9A%E7%9C%8B%E4%BA%86%E4%B8%80%E5%B9%B4%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [柯基跑丢后被人关鸡棚看了一年鸡](https://www.baidu.com/s?wd=%E6%9F%AF%E5%9F%BA%E8%B7%91%E4%B8%A2%E5%90%8E%E8%A2%AB%E4%BA%BA%E5%85%B3%E9%B8%A1%E6%A3%9A%E7%9C%8B%E4%BA%86%E4%B8%80%E5%B9%B4%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国烧饼入选世界最好吃50种面包](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%83%A7%E9%A5%BC%E5%85%A5%E9%80%89%E4%B8%96%E7%95%8C%E6%9C%80%E5%A5%BD%E5%90%8350%E7%A7%8D%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃含酵母的面食伤胃还致癌？](https://www.baidu.com/s?wd=%E5%90%83%E5%90%AB%E9%85%B5%E6%AF%8D%E7%9A%84%E9%9D%A2%E9%A3%9F%E4%BC%A4%E8%83%83%E8%BF%98%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
