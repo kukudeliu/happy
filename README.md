@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 13:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 13:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴 大冰梗](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%A4%A7%E5%86%B0%E6%A2%97&t=31&band_rank=6&Refer=top)<br />
 7. [派出所回应网传父亲出轨儿子女友](https://s.weibo.com/weibo?q=%23%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E7%88%B6%E4%BA%B2%E5%87%BA%E8%BD%A8%E5%84%BF%E5%AD%90%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [朴敏英患抑郁症](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%95%8F%E8%8B%B1%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [感冒了](https://s.weibo.com/weibo?q=%E6%84%9F%E5%86%92%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [上海飞青岛票价只要14元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%A3%9E%E9%9D%92%E5%B2%9B%E7%A5%A8%E4%BB%B7%E5%8F%AA%E8%A6%8114%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
