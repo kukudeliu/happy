@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 10:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 10:38:01</h4></div>
 
 > 微博  
 
 1. [四六级成绩 小牌大耍](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9%20%E5%B0%8F%E7%89%8C%E5%A4%A7%E8%80%8D&t=31&band_rank=1&Refer=top)<br />
 2. [朴敏英患抑郁症](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%95%8F%E8%8B%B1%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [航天员拍摄的蔚蓝地球](https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E6%8B%8D%E6%91%84%E7%9A%84%E8%94%9A%E8%93%9D%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top)<br />
-4. [台媒曝夏克立家暴黄嘉千细节](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E5%A4%8F%E5%85%8B%E7%AB%8B%E5%AE%B6%E6%9A%B4%E9%BB%84%E5%98%89%E5%8D%83%E7%BB%86%E8%8A%82%23&t=31&band_rank=4&Refer=top)<br />
-5. [又一自称柳鑫宇账号爆料](https://s.weibo.com/weibo?q=%E5%8F%88%E4%B8%80%E8%87%AA%E7%A7%B0%E6%9F%B3%E9%91%AB%E5%AE%87%E8%B4%A6%E5%8F%B7%E7%88%86%E6%96%99&t=31&band_rank=5&Refer=top)<br />
+4. [又一自称柳鑫宇账号爆料](https://s.weibo.com/weibo?q=%E5%8F%88%E4%B8%80%E8%87%AA%E7%A7%B0%E6%9F%B3%E9%91%AB%E5%AE%87%E8%B4%A6%E5%8F%B7%E7%88%86%E6%96%99&t=31&band_rank=4&Refer=top)<br />
+5. [台媒曝夏克立家暴黄嘉千细节](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E5%A4%8F%E5%85%8B%E7%AB%8B%E5%AE%B6%E6%9A%B4%E9%BB%84%E5%98%89%E5%8D%83%E7%BB%86%E8%8A%82%23&t=31&band_rank=5&Refer=top)<br />
 6. [李翊云小儿子去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%BF%8A%E4%BA%91%E5%B0%8F%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96&t=31&band_rank=6&Refer=top)<br />
 7. [夫妻离婚要求分割2孩子26万压岁钱](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%A6%BB%E5%A9%9A%E8%A6%81%E6%B1%82%E5%88%86%E5%89%B22%E5%AD%A9%E5%AD%9026%E4%B8%87%E5%8E%8B%E5%B2%81%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [谈恋爱最不受欢迎的星座](https://s.weibo.com/weibo?q=%E8%B0%88%E6%81%8B%E7%88%B1%E6%9C%80%E4%B8%8D%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=8&Refer=top)<br />
