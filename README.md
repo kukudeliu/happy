@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 13:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 13:26:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [迪丽热巴 大冰梗](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%A4%A7%E5%86%B0%E6%A2%97&t=31&band_rank=4&Refer=top)<br />
 5. [上海飞青岛票价只要14元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%A3%9E%E9%9D%92%E5%B2%9B%E7%A5%A8%E4%BB%B7%E5%8F%AA%E8%A6%8114%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [朴敏英患抑郁症](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%95%8F%E8%8B%B1%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [赵世子 宅男](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%96%E5%AD%90%20%E5%AE%85%E7%94%B7&t=31&band_rank=7&Refer=top)<br />
-8. [感冒了](https://s.weibo.com/weibo?q=%E6%84%9F%E5%86%92%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+7. [感冒了](https://s.weibo.com/weibo?q=%E6%84%9F%E5%86%92%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [赵世子 宅男](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%96%E5%AD%90%20%E5%AE%85%E7%94%B7&t=31&band_rank=8&Refer=top)<br />
 9. [中国生育成本报告2024版](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%9F%E8%82%B2%E6%88%90%E6%9C%AC%E6%8A%A5%E5%91%8A2024%E7%89%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
