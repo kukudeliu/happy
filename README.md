@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 13:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 13:54:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [广西炮龙节男子抱孩子扯龙须被群殴](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%82%AE%E9%BE%99%E8%8A%82%E7%94%B7%E5%AD%90%E6%8A%B1%E5%AD%A9%E5%AD%90%E6%89%AF%E9%BE%99%E9%A1%BB%E8%A2%AB%E7%BE%A4%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [耕海而作，向海而兴](https://www.baidu.com/s?wd=%E8%80%95%E6%B5%B7%E8%80%8C%E4%BD%9C%EF%BC%8C%E5%90%91%E6%B5%B7%E8%80%8C%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [员工因bug事故被要求归还年终奖](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E5%9B%A0bug%E4%BA%8B%E6%95%85%E8%A2%AB%E8%A6%81%E6%B1%82%E5%BD%92%E8%BF%98%E5%B9%B4%E7%BB%88%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [布林肯：你不在餐桌上 就会在菜单上](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%EF%BC%9A%E4%BD%A0%E4%B8%8D%E5%9C%A8%E9%A4%90%E6%A1%8C%E4%B8%8A+%E5%B0%B1%E4%BC%9A%E5%9C%A8%E8%8F%9C%E5%8D%95%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [员工请病假 暗中考研还领高薪](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AF%B7%E7%97%85%E5%81%87+%E6%9A%97%E4%B8%AD%E8%80%83%E7%A0%94%E8%BF%98%E9%A2%86%E9%AB%98%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [梁建章：养娃到本科毕业平均花68万](https://www.baidu.com/s?wd=%E6%A2%81%E5%BB%BA%E7%AB%A0%EF%BC%9A%E5%85%BB%E5%A8%83%E5%88%B0%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E5%B9%B3%E5%9D%87%E8%8A%B168%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [员工请病假 暗中考研还领高薪](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AF%B7%E7%97%85%E5%81%87+%E6%9A%97%E4%B8%AD%E8%80%83%E7%A0%94%E8%BF%98%E9%A2%86%E9%AB%98%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张文才出任世界银行首席行政官](https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E6%89%8D%E5%87%BA%E4%BB%BB%E4%B8%96%E7%95%8C%E9%93%B6%E8%A1%8C%E9%A6%96%E5%B8%AD%E8%A1%8C%E6%94%BF%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [布林肯：你不在餐桌上 就会在菜单上](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%EF%BC%9A%E4%BD%A0%E4%B8%8D%E5%9C%A8%E9%A4%90%E6%A1%8C%E4%B8%8A+%E5%B0%B1%E4%BC%9A%E5%9C%A8%E8%8F%9C%E5%8D%95%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃含酵母的面食伤胃还致癌？](https://www.baidu.com/s?wd=%E5%90%83%E5%90%AB%E9%85%B5%E6%AF%8D%E7%9A%84%E9%9D%A2%E9%A3%9F%E4%BC%A4%E8%83%83%E8%BF%98%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [广西炮龙节男子抱孩子扯龙须被群殴](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%82%AE%E9%BE%99%E8%8A%82%E7%94%B7%E5%AD%90%E6%8A%B1%E5%AD%A9%E5%AD%90%E6%89%AF%E9%BE%99%E9%A1%BB%E8%A2%AB%E7%BE%A4%E6%AE%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [耕海而作，向海而兴](https://www.baidu.com/s?wd=%E8%80%95%E6%B5%B7%E8%80%8C%E4%BD%9C%EF%BC%8C%E5%90%91%E6%B5%B7%E8%80%8C%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [员工因bug事故被要求归还年终奖](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E5%9B%A0bug%E4%BA%8B%E6%95%85%E8%A2%AB%E8%A6%81%E6%B1%82%E5%BD%92%E8%BF%98%E5%B9%B4%E7%BB%88%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [布林肯：你不在餐桌上 就会在菜单上](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%EF%BC%9A%E4%BD%A0%E4%B8%8D%E5%9C%A8%E9%A4%90%E6%A1%8C%E4%B8%8A+%E5%B0%B1%E4%BC%9A%E5%9C%A8%E8%8F%9C%E5%8D%95%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [员工请病假 暗中考研还领高薪](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AF%B7%E7%97%85%E5%81%87+%E6%9A%97%E4%B8%AD%E8%80%83%E7%A0%94%E8%BF%98%E9%A2%86%E9%AB%98%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [梁建章：养娃到本科毕业平均花68万](https://www.baidu.com/s?wd=%E6%A2%81%E5%BB%BA%E7%AB%A0%EF%BC%9A%E5%85%BB%E5%A8%83%E5%88%B0%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E5%B9%B3%E5%9D%87%E8%8A%B168%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [员工请病假 暗中考研还领高薪](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AF%B7%E7%97%85%E5%81%87+%E6%9A%97%E4%B8%AD%E8%80%83%E7%A0%94%E8%BF%98%E9%A2%86%E9%AB%98%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张文才出任世界银行首席行政官](https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E6%89%8D%E5%87%BA%E4%BB%BB%E4%B8%96%E7%95%8C%E9%93%B6%E8%A1%8C%E9%A6%96%E5%B8%AD%E8%A1%8C%E6%94%BF%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [布林肯：你不在餐桌上 就会在菜单上](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%EF%BC%9A%E4%BD%A0%E4%B8%8D%E5%9C%A8%E9%A4%90%E6%A1%8C%E4%B8%8A+%E5%B0%B1%E4%BC%9A%E5%9C%A8%E8%8F%9C%E5%8D%95%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃含酵母的面食伤胃还致癌？](https://www.baidu.com/s?wd=%E5%90%83%E5%90%AB%E9%85%B5%E6%AF%8D%E7%9A%84%E9%9D%A2%E9%A3%9F%E4%BC%A4%E8%83%83%E8%BF%98%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
