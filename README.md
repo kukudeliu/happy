@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 15:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 15:25:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [推进马克思主义中国化时代化](https://www.baidu.com/s?wd=%E6%8E%A8%E8%BF%9B%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E4%B8%AD%E5%9B%BD%E5%8C%96%E6%97%B6%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [黑龙江体育馆坍塌致11死 51人被追责](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E8%87%B411%E6%AD%BB+51%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [生还渔民揭露台粗暴对待渔船真相](https://www.baidu.com/s?wd=%E7%94%9F%E8%BF%98%E6%B8%94%E6%B0%91%E6%8F%AD%E9%9C%B2%E5%8F%B0%E7%B2%97%E6%9A%B4%E5%AF%B9%E5%BE%85%E6%B8%94%E8%88%B9%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [上海飞青岛票价只要14元](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%A3%9E%E9%9D%92%E5%B2%9B%E7%A5%A8%E4%BB%B7%E5%8F%AA%E8%A6%8114%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [耕海而作，向海而兴](https://www.baidu.com/s?wd=%E8%80%95%E6%B5%B7%E8%80%8C%E4%BD%9C%EF%BC%8C%E5%90%91%E6%B5%B7%E8%80%8C%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国家早已明确禁止师生恋](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E6%97%A9%E5%B7%B2%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E5%B8%88%E7%94%9F%E6%81%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [推进马克思主义中国化时代化](https://www.baidu.com/s?wd=%E6%8E%A8%E8%BF%9B%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E4%B8%AD%E5%9B%BD%E5%8C%96%E6%97%B6%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [黑龙江体育馆坍塌致11死 51人被追责](https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E8%87%B411%E6%AD%BB+51%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [生还渔民揭露台粗暴对待渔船真相](https://www.baidu.com/s?wd=%E7%94%9F%E8%BF%98%E6%B8%94%E6%B0%91%E6%8F%AD%E9%9C%B2%E5%8F%B0%E7%B2%97%E6%9A%B4%E5%AF%B9%E5%BE%85%E6%B8%94%E8%88%B9%E7%9C%9F%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [上海飞青岛票价只要14元](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%A3%9E%E9%9D%92%E5%B2%9B%E7%A5%A8%E4%BB%B7%E5%8F%AA%E8%A6%8114%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [耕海而作，向海而兴](https://www.baidu.com/s?wd=%E8%80%95%E6%B5%B7%E8%80%8C%E4%BD%9C%EF%BC%8C%E5%90%91%E6%B5%B7%E8%80%8C%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国家早已明确禁止师生恋](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E6%97%A9%E5%B7%B2%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E5%B8%88%E7%94%9F%E6%81%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
