@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 12:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 12:10:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [四六级成绩 小牌大耍](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9%20%E5%B0%8F%E7%89%8C%E5%A4%A7%E8%80%8D&t=31&band_rank=2&Refer=top)<br />
 3. [雪天出行安全指南](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%A4%A9%E5%87%BA%E8%A1%8C%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [员工因bug事故被强制要求归还年终奖](https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E5%9B%A0bug%E4%BA%8B%E6%95%85%E8%A2%AB%E5%BC%BA%E5%88%B6%E8%A6%81%E6%B1%82%E5%BD%92%E8%BF%98%E5%B9%B4%E7%BB%88%E5%A5%96%23&t=31&band_rank=4&Refer=top)<br />
-5. [朴敏英患抑郁症](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%95%8F%E8%8B%B1%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [上海飞青岛票价只要14元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%A3%9E%E9%9D%92%E5%B2%9B%E7%A5%A8%E4%BB%B7%E5%8F%AA%E8%A6%8114%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [台媒曝夏克立家暴黄嘉千细节](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E5%A4%8F%E5%85%8B%E7%AB%8B%E5%AE%B6%E6%9A%B4%E9%BB%84%E5%98%89%E5%8D%83%E7%BB%86%E8%8A%82%23&t=31&band_rank=7&Refer=top)<br />
+5. [上海飞青岛票价只要14元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%A3%9E%E9%9D%92%E5%B2%9B%E7%A5%A8%E4%BB%B7%E5%8F%AA%E8%A6%8114%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
+6. [朴敏英患抑郁症](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%95%8F%E8%8B%B1%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=6&Refer=top)<br />
+7. [肖战 羽绒服](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=7&Refer=top)<br />
 8. [柳鑫宇收入](https://s.weibo.com/weibo?q=%E6%9F%B3%E9%91%AB%E5%AE%87%E6%94%B6%E5%85%A5&t=31&band_rank=8&Refer=top)<br />
-9. [肖战 羽绒服](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E7%BE%BD%E7%BB%92%E6%9C%8D&t=31&band_rank=9&Refer=top)<br />
+9. [赵世子 宅男](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%96%E5%AD%90%20%E5%AE%85%E7%94%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
