@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 14:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 14:56:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [雪天出行安全指南](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%A4%A9%E5%87%BA%E8%A1%8C%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [柳鑫宇且试天下](https://s.weibo.com/weibo?q=%E6%9F%B3%E9%91%AB%E5%AE%87%E4%B8%94%E8%AF%95%E5%A4%A9%E4%B8%8B&t=31&band_rank=4&Refer=top)<br />
 5. [节后办公室7个人里5个咳](https://s.weibo.com/weibo?q=%23%E8%8A%82%E5%90%8E%E5%8A%9E%E5%85%AC%E5%AE%A47%E4%B8%AA%E4%BA%BA%E9%87%8C5%E4%B8%AA%E5%92%B3%23&t=31&band_rank=5&Refer=top)<br />
-6. [齐齐哈尔体育馆坍塌事故51人被追责](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%8551%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3%23&t=31&band_rank=6&Refer=top)<br />
-7. [养娃到本科毕业平均花费68万元](https://s.weibo.com/weibo?q=%23%E5%85%BB%E5%A8%83%E5%88%B0%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E5%B9%B3%E5%9D%87%E8%8A%B1%E8%B4%B968%E4%B8%87%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
+6. [养娃到本科毕业平均花费68万元](https://s.weibo.com/weibo?q=%23%E5%85%BB%E5%A8%83%E5%88%B0%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E5%B9%B3%E5%9D%87%E8%8A%B1%E8%B4%B968%E4%B8%87%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
+7. [齐齐哈尔体育馆坍塌事故51人被追责](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%8551%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [梧桐妹戴了9个环](https://s.weibo.com/weibo?q=%23%E6%A2%A7%E6%A1%90%E5%A6%B9%E6%88%B4%E4%BA%869%E4%B8%AA%E7%8E%AF%23&t=31&band_rank=8&Refer=top)<br />
 9. [花滑协会回应柳鑫宇事件](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%BB%91%E5%8D%8F%E4%BC%9A%E5%9B%9E%E5%BA%94%E6%9F%B3%E9%91%AB%E5%AE%87%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
