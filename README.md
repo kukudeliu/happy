@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 11:16:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 11:17:01</h4></div>
 
 > 微博  
 
@@ -17,24 +17,24 @@
 
 > 百度  
 
-1. [传承弘扬中华优秀传统文化](https://www.baidu.com/s?wd=%E4%BC%A0%E6%89%BF%E5%BC%98%E6%89%AC%E4%B8%AD%E5%8D%8E%E4%BC%98%E7%A7%80%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [推进马克思主义中国化时代化](https://www.baidu.com/s?wd=%E6%8E%A8%E8%BF%9B%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E4%B8%AD%E5%9B%BD%E5%8C%96%E6%97%B6%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [布林肯：你不在餐桌上 就会在菜单上](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%EF%BC%9A%E4%BD%A0%E4%B8%8D%E5%9C%A8%E9%A4%90%E6%A1%8C%E4%B8%8A+%E5%B0%B1%E4%BC%9A%E5%9C%A8%E8%8F%9C%E5%8D%95%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [柯基跑丢后被人关鸡棚看了一年鸡](https://www.baidu.com/s?wd=%E6%9F%AF%E5%9F%BA%E8%B7%91%E4%B8%A2%E5%90%8E%E8%A2%AB%E4%BA%BA%E5%85%B3%E9%B8%A1%E6%A3%9A%E7%9C%8B%E4%BA%86%E4%B8%80%E5%B9%B4%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [听，春天里的奋斗者之歌](https://www.baidu.com/s?wd=%E5%90%AC%EF%BC%8C%E6%98%A5%E5%A4%A9%E9%87%8C%E7%9A%84%E5%A5%8B%E6%96%97%E8%80%85%E4%B9%8B%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [耕海而作，向海而兴](https://www.baidu.com/s?wd=%E8%80%95%E6%B5%B7%E8%80%8C%E4%BD%9C%EF%BC%8C%E5%90%91%E6%B5%B7%E8%80%8C%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国烧饼入选世界最好吃50种面包](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%83%A7%E9%A5%BC%E5%85%A5%E9%80%89%E4%B8%96%E7%95%8C%E6%9C%80%E5%A5%BD%E5%90%8350%E7%A7%8D%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [当故宫遇见龙年初雪](https://www.baidu.com/s?wd=%E5%BD%93%E6%95%85%E5%AE%AB%E9%81%87%E8%A7%81%E9%BE%99%E5%B9%B4%E5%88%9D%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网传父亲出轨儿子女友 派出所回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%88%B6%E4%BA%B2%E5%87%BA%E8%BD%A8%E5%84%BF%E5%AD%90%E5%A5%B3%E5%8F%8B+%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [网传父亲出轨儿子女友 派出所回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%88%B6%E4%BA%B2%E5%87%BA%E8%BD%A8%E5%84%BF%E5%AD%90%E5%A5%B3%E5%8F%8B+%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [当故宫遇见龙年初雪](https://www.baidu.com/s?wd=%E5%BD%93%E6%95%85%E5%AE%AB%E9%81%87%E8%A7%81%E9%BE%99%E5%B9%B4%E5%88%9D%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [数千元网课盗录后只卖几元](https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%83%E5%85%83%E7%BD%91%E8%AF%BE%E7%9B%97%E5%BD%95%E5%90%8E%E5%8F%AA%E5%8D%96%E5%87%A0%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃含酵母的面食伤胃还致癌？](https://www.baidu.com/s?wd=%E5%90%83%E5%90%AB%E9%85%B5%E6%AF%8D%E7%9A%84%E9%9D%A2%E9%A3%9F%E4%BC%A4%E8%83%83%E8%BF%98%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
-1. [传承弘扬中华优秀传统文化](https://www.baidu.com/s?wd=%E4%BC%A0%E6%89%BF%E5%BC%98%E6%89%AC%E4%B8%AD%E5%8D%8E%E4%BC%98%E7%A7%80%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [推进马克思主义中国化时代化](https://www.baidu.com/s?wd=%E6%8E%A8%E8%BF%9B%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E4%B8%AD%E5%9B%BD%E5%8C%96%E6%97%B6%E4%BB%A3%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [布林肯：你不在餐桌上 就会在菜单上](https://www.baidu.com/s?wd=%E5%B8%83%E6%9E%97%E8%82%AF%EF%BC%9A%E4%BD%A0%E4%B8%8D%E5%9C%A8%E9%A4%90%E6%A1%8C%E4%B8%8A+%E5%B0%B1%E4%BC%9A%E5%9C%A8%E8%8F%9C%E5%8D%95%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [柯基跑丢后被人关鸡棚看了一年鸡](https://www.baidu.com/s?wd=%E6%9F%AF%E5%9F%BA%E8%B7%91%E4%B8%A2%E5%90%8E%E8%A2%AB%E4%BA%BA%E5%85%B3%E9%B8%A1%E6%A3%9A%E7%9C%8B%E4%BA%86%E4%B8%80%E5%B9%B4%E9%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [听，春天里的奋斗者之歌](https://www.baidu.com/s?wd=%E5%90%AC%EF%BC%8C%E6%98%A5%E5%A4%A9%E9%87%8C%E7%9A%84%E5%A5%8B%E6%96%97%E8%80%85%E4%B9%8B%E6%AD%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [耕海而作，向海而兴](https://www.baidu.com/s?wd=%E8%80%95%E6%B5%B7%E8%80%8C%E4%BD%9C%EF%BC%8C%E5%90%91%E6%B5%B7%E8%80%8C%E5%85%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国烧饼入选世界最好吃50种面包](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%83%A7%E9%A5%BC%E5%85%A5%E9%80%89%E4%B8%96%E7%95%8C%E6%9C%80%E5%A5%BD%E5%90%8350%E7%A7%8D%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [当故宫遇见龙年初雪](https://www.baidu.com/s?wd=%E5%BD%93%E6%95%85%E5%AE%AB%E9%81%87%E8%A7%81%E9%BE%99%E5%B9%B4%E5%88%9D%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网传父亲出轨儿子女友 派出所回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%88%B6%E4%BA%B2%E5%87%BA%E8%BD%A8%E5%84%BF%E5%AD%90%E5%A5%B3%E5%8F%8B+%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [网传父亲出轨儿子女友 派出所回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%88%B6%E4%BA%B2%E5%87%BA%E8%BD%A8%E5%84%BF%E5%AD%90%E5%A5%B3%E5%8F%8B+%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [当故宫遇见龙年初雪](https://www.baidu.com/s?wd=%E5%BD%93%E6%95%85%E5%AE%AB%E9%81%87%E8%A7%81%E9%BE%99%E5%B9%B4%E5%88%9D%E9%9B%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [数千元网课盗录后只卖几元](https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%83%E5%85%83%E7%BD%91%E8%AF%BE%E7%9B%97%E5%BD%95%E5%90%8E%E5%8F%AA%E5%8D%96%E5%87%A0%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [吃含酵母的面食伤胃还致癌？](https://www.baidu.com/s?wd=%E5%90%83%E5%90%AB%E9%85%B5%E6%AF%8D%E7%9A%84%E9%9D%A2%E9%A3%9F%E4%BC%A4%E8%83%83%E8%BF%98%E8%87%B4%E7%99%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
