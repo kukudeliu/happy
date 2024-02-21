@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 10:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 10:04:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [航班延误男子花两千打车回上海上班](https://www.baidu.com/s?wd=%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF%E7%94%B7%E5%AD%90%E8%8A%B1%E4%B8%A4%E5%8D%83%E6%89%93%E8%BD%A6%E5%9B%9E%E4%B8%8A%E6%B5%B7%E4%B8%8A%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江苏宿迁一医院发生垮塌事件](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%AE%BF%E8%BF%81%E4%B8%80%E5%8C%BB%E9%99%A2%E5%8F%91%E7%94%9F%E5%9E%AE%E5%A1%8C%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厂家回应一箱八宝粥只有10罐](https://www.baidu.com/s?wd=%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94%E4%B8%80%E7%AE%B1%E5%85%AB%E5%AE%9D%E7%B2%A5%E5%8F%AA%E6%9C%8910%E7%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国烧饼入选世界最好吃50种面包](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%83%A7%E9%A5%BC%E5%85%A5%E9%80%89%E4%B8%96%E7%95%8C%E6%9C%80%E5%A5%BD%E5%90%8350%E7%A7%8D%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方通报在三亚租车被套路](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9C%A8%E4%B8%89%E4%BA%9A%E7%A7%9F%E8%BD%A6%E8%A2%AB%E5%A5%97%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高速免费政策宽限半小时？](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%94%BF%E7%AD%96%E5%AE%BD%E9%99%90%E5%8D%8A%E5%B0%8F%E6%97%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [航班延误男子花两千打车回上海上班](https://www.baidu.com/s?wd=%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF%E7%94%B7%E5%AD%90%E8%8A%B1%E4%B8%A4%E5%8D%83%E6%89%93%E8%BD%A6%E5%9B%9E%E4%B8%8A%E6%B5%B7%E4%B8%8A%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江苏宿迁一医院发生垮塌事件](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%AE%BF%E8%BF%81%E4%B8%80%E5%8C%BB%E9%99%A2%E5%8F%91%E7%94%9F%E5%9E%AE%E5%A1%8C%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [厂家回应一箱八宝粥只有10罐](https://www.baidu.com/s?wd=%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94%E4%B8%80%E7%AE%B1%E5%85%AB%E5%AE%9D%E7%B2%A5%E5%8F%AA%E6%9C%8910%E7%BD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国烧饼入选世界最好吃50种面包](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%83%A7%E9%A5%BC%E5%85%A5%E9%80%89%E4%B8%96%E7%95%8C%E6%9C%80%E5%A5%BD%E5%90%8350%E7%A7%8D%E9%9D%A2%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方通报在三亚租车被套路](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9C%A8%E4%B8%89%E4%BA%9A%E7%A7%9F%E8%BD%A6%E8%A2%AB%E5%A5%97%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [高速免费政策宽限半小时？](https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%94%BF%E7%AD%96%E5%AE%BD%E9%99%90%E5%8D%8A%E5%B0%8F%E6%97%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
