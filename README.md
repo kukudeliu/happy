@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 19:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 19:52:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [拼出热辣滚烫赢得飞驰人生](https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%87%BA%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E8%B5%A2%E5%BE%97%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [专家建议取消中考给孩子减压](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E7%BB%99%E5%AD%A9%E5%AD%90%E5%87%8F%E5%8E%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [孩子校服里掏出来的照片](https://s.weibo.com/weibo?q=%E5%AD%A9%E5%AD%90%E6%A0%A1%E6%9C%8D%E9%87%8C%E6%8E%8F%E5%87%BA%E6%9D%A5%E7%9A%84%E7%85%A7%E7%89%87&t=31&band_rank=5&Refer=top)<br />
-6. [钟楚曦泰国plog](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E6%B3%B0%E5%9B%BDplog%23&t=31&band_rank=6&Refer=top)<br />
-7. [为啥就中国人看片要字幕](https://s.weibo.com/weibo?q=%E4%B8%BA%E5%95%A5%E5%B0%B1%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9C%8B%E7%89%87%E8%A6%81%E5%AD%97%E5%B9%95&t=31&band_rank=7&Refer=top)<br />
-8. [贵州山火 火点](https://s.weibo.com/weibo?q=%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB%20%E7%81%AB%E7%82%B9&t=31&band_rank=8&Refer=top)<br />
+6. [为啥就中国人看片要字幕](https://s.weibo.com/weibo?q=%E4%B8%BA%E5%95%A5%E5%B0%B1%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9C%8B%E7%89%87%E8%A6%81%E5%AD%97%E5%B9%95&t=31&band_rank=6&Refer=top)<br />
+7. [贵州山火 火点](https://s.weibo.com/weibo?q=%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB%20%E7%81%AB%E7%82%B9&t=31&band_rank=7&Refer=top)<br />
+8. [钟楚曦泰国plog](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E6%B3%B0%E5%9B%BDplog%23&t=31&band_rank=8&Refer=top)<br />
 9. [女孩寒假作业丢失哭着报警求助](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E4%B8%A2%E5%A4%B1%E5%93%AD%E7%9D%80%E6%8A%A5%E8%AD%A6%E6%B1%82%E5%8A%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
