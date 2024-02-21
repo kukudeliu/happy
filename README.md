@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 09:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-21 09:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [北京暴雪](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%AA&t=31&band_rank=6&Refer=top)<br />
 7. [柯基跑丢后被人关鸡棚看了一年鸡](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%9F%BA%E8%B7%91%E4%B8%A2%E5%90%8E%E8%A2%AB%E4%BA%BA%E5%85%B3%E9%B8%A1%E6%A3%9A%E7%9C%8B%E4%BA%86%E4%B8%80%E5%B9%B4%E9%B8%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [第二十条票房反超熊出没](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%E7%A5%A8%E6%88%BF%E5%8F%8D%E8%B6%85%E7%86%8A%E5%87%BA%E6%B2%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [蕉太狼](https://s.weibo.com/weibo?q=%E8%95%89%E5%A4%AA%E7%8B%BC&t=31&band_rank=9&Refer=top)<br />
+9. [中方对美否决加沙停火决议强烈不满和失望](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E7%BE%8E%E5%90%A6%E5%86%B3%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%86%B3%E8%AE%AE%E5%BC%BA%E7%83%88%E4%B8%8D%E6%BB%A1%E5%92%8C%E5%A4%B1%E6%9C%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
