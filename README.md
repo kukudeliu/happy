@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 17:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 17:39:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [娃哈哈创始人宗庆后在ICU抢救](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%97%E5%BA%86%E5%90%8E%E5%9C%A8ICU%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大桥事故现场有落水车被打捞出水](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E6%9C%89%E8%90%BD%E6%B0%B4%E8%BD%A6%E8%A2%AB%E6%89%93%E6%8D%9E%E5%87%BA%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [凯特王妃疑患“绿色癌症”](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%82%A3%E2%80%9C%E7%BB%BF%E8%89%B2%E7%99%8C%E7%97%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [船舶公司回应撞断大桥：积极赔偿](https://www.baidu.com/s?wd=%E8%88%B9%E8%88%B6%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%92%9E%E6%96%AD%E5%A4%A7%E6%A1%A5%EF%BC%9A%E7%A7%AF%E6%9E%81%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [我国在光存储领域获重大突破](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E5%9C%A8%E5%85%89%E5%AD%98%E5%82%A8%E9%A2%86%E5%9F%9F%E8%8E%B7%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [员工讲粤语遭罚款？警方通报](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AE%B2%E7%B2%A4%E8%AF%AD%E9%81%AD%E7%BD%9A%E6%AC%BE%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [娃哈哈创始人宗庆后在ICU抢救](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%97%E5%BA%86%E5%90%8E%E5%9C%A8ICU%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大桥事故现场有落水车被打捞出水](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E6%9C%89%E8%90%BD%E6%B0%B4%E8%BD%A6%E8%A2%AB%E6%89%93%E6%8D%9E%E5%87%BA%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [凯特王妃疑患“绿色癌症”](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%82%A3%E2%80%9C%E7%BB%BF%E8%89%B2%E7%99%8C%E7%97%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [船舶公司回应撞断大桥：积极赔偿](https://www.baidu.com/s?wd=%E8%88%B9%E8%88%B6%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%92%9E%E6%96%AD%E5%A4%A7%E6%A1%A5%EF%BC%9A%E7%A7%AF%E6%9E%81%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [我国在光存储领域获重大突破](https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E5%9C%A8%E5%85%89%E5%AD%98%E5%82%A8%E9%A2%86%E5%9F%9F%E8%8E%B7%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [员工讲粤语遭罚款？警方通报](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AE%B2%E7%B2%A4%E8%AF%AD%E9%81%AD%E7%BD%9A%E6%AC%BE%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
