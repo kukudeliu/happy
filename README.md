@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 14:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 14:03:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [外甥正月理发舅舅去世成被告](https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%94%A5%E6%AD%A3%E6%9C%88%E7%90%86%E5%8F%91%E8%88%85%E8%88%85%E5%8E%BB%E4%B8%96%E6%88%90%E8%A2%AB%E5%91%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [20集她戴了22副耳环](https://s.weibo.com/weibo?q=20%E9%9B%86%E5%A5%B9%E6%88%B4%E4%BA%8622%E5%89%AF%E8%80%B3%E7%8E%AF&t=31&band_rank=5&Refer=top)<br />
 6. [考虫倒闭](https://s.weibo.com/weibo?q=%E8%80%83%E8%99%AB%E5%80%92%E9%97%AD&t=31&band_rank=6&Refer=top)<br />
-7. [官方通报沥心沙大桥事故情况](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E6%83%85%E5%86%B5%23&t=31&band_rank=7&Refer=top)<br />
-8. [中学男教师在办公室猥亵男生](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E7%94%B7%E6%95%99%E5%B8%88%E5%9C%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%8C%A5%E4%BA%B5%E7%94%B7%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+7. [中学男教师在办公室猥亵男生](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E7%94%B7%E6%95%99%E5%B8%88%E5%9C%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%8C%A5%E4%BA%B5%E7%94%B7%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [官方通报沥心沙大桥事故情况](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E6%83%85%E5%86%B5%23&t=31&band_rank=8&Refer=top)<br />
 9. [撒贝宁何炅 元宵晚会同台](https://s.weibo.com/weibo?q=%E6%92%92%E8%B4%9D%E5%AE%81%E4%BD%95%E7%82%85%20%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A%E5%90%8C%E5%8F%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
