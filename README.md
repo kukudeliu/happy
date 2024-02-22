@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 13:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 13:56:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [无人机视角看雪后长城多壮美](https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A7%86%E8%A7%92%E7%9C%8B%E9%9B%AA%E5%90%8E%E9%95%BF%E5%9F%8E%E5%A4%9A%E5%A3%AE%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [外甥正月理发舅舅去世成被告](https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%94%A5%E6%AD%A3%E6%9C%88%E7%90%86%E5%8F%91%E8%88%85%E8%88%85%E5%8E%BB%E4%B8%96%E6%88%90%E8%A2%AB%E5%91%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [20集她戴了22副耳环](https://s.weibo.com/weibo?q=20%E9%9B%86%E5%A5%B9%E6%88%B4%E4%BA%8622%E5%89%AF%E8%80%B3%E7%8E%AF&t=31&band_rank=5&Refer=top)<br />
-6. [考虫倒闭](https://s.weibo.com/weibo?q=%E8%80%83%E8%99%AB%E5%80%92%E9%97%AD&t=31&band_rank=6&Refer=top)<br />
-7. [迪丽热巴白发异世精灵](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%99%BD%E5%8F%91%E5%BC%82%E4%B8%96%E7%B2%BE%E7%81%B5%23&t=31&band_rank=7&Refer=top)<br />
+6. [迪丽热巴白发异世精灵](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%99%BD%E5%8F%91%E5%BC%82%E4%B8%96%E7%B2%BE%E7%81%B5%23&t=31&band_rank=6&Refer=top)<br />
+7. [考虫倒闭](https://s.weibo.com/weibo?q=%E8%80%83%E8%99%AB%E5%80%92%E9%97%AD&t=31&band_rank=7&Refer=top)<br />
 8. [中学男教师在办公室猥亵男生](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E7%94%B7%E6%95%99%E5%B8%88%E5%9C%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%8C%A5%E4%BA%B5%E7%94%B7%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [撒贝宁何炅 元宵晚会同台](https://s.weibo.com/weibo?q=%E6%92%92%E8%B4%9D%E5%AE%81%E4%BD%95%E7%82%85%20%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A%E5%90%8C%E5%8F%B0&t=31&band_rank=9&Refer=top)<br />
 
@@ -23,7 +23,7 @@
 4. [多地扩投资亮清单](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%89%A9%E6%8A%95%E8%B5%84%E4%BA%AE%E6%B8%85%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大桥被撞断 岛上居民：供水管断了](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A1%A5%E8%A2%AB%E6%92%9E%E6%96%AD+%E5%B2%9B%E4%B8%8A%E5%B1%85%E6%B0%91%EF%BC%9A%E4%BE%9B%E6%B0%B4%E7%AE%A1%E6%96%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [旅客坐飞机拍下贵州山火](https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E5%9D%90%E9%A3%9E%E6%9C%BA%E6%8B%8D%E4%B8%8B%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [疑沥心沙大桥被撞击画面曝光](https://www.baidu.com/s?wd=%E7%96%91%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E8%A2%AB%E6%92%9E%E5%87%BB%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [沥心沙大桥被撞瞬间监控曝光](https://www.baidu.com/s?wd=%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E8%A2%AB%E6%92%9E%E7%9E%AC%E9%97%B4%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [考生接到国企录用通知后又遭取消](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E6%8E%A5%E5%88%B0%E5%9B%BD%E4%BC%81%E5%BD%95%E7%94%A8%E9%80%9A%E7%9F%A5%E5%90%8E%E5%8F%88%E9%81%AD%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [开年第一天民政局遇离婚潮？假的](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%B0%91%E6%94%BF%E5%B1%80%E9%81%87%E7%A6%BB%E5%A9%9A%E6%BD%AE%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [多地扩投资亮清单](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%89%A9%E6%8A%95%E8%B5%84%E4%BA%AE%E6%B8%85%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大桥被撞断 岛上居民：供水管断了](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A1%A5%E8%A2%AB%E6%92%9E%E6%96%AD+%E5%B2%9B%E4%B8%8A%E5%B1%85%E6%B0%91%EF%BC%9A%E4%BE%9B%E6%B0%B4%E7%AE%A1%E6%96%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [旅客坐飞机拍下贵州山火](https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E5%9D%90%E9%A3%9E%E6%9C%BA%E6%8B%8D%E4%B8%8B%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [疑沥心沙大桥被撞击画面曝光](https://www.baidu.com/s?wd=%E7%96%91%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E8%A2%AB%E6%92%9E%E5%87%BB%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [沥心沙大桥被撞瞬间监控曝光](https://www.baidu.com/s?wd=%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E8%A2%AB%E6%92%9E%E7%9E%AC%E9%97%B4%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [考生接到国企录用通知后又遭取消](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E6%8E%A5%E5%88%B0%E5%9B%BD%E4%BC%81%E5%BD%95%E7%94%A8%E9%80%9A%E7%9F%A5%E5%90%8E%E5%8F%88%E9%81%AD%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [开年第一天民政局遇离婚潮？假的](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%B0%91%E6%94%BF%E5%B1%80%E9%81%87%E7%A6%BB%E5%A9%9A%E6%BD%AE%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
