@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 17:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 17:04:02</h4></div>
 
 > 微博  
 
@@ -17,9 +17,9 @@
 
 > 百度  
 
-1. [擘画鹭岛新画卷](https://www.baidu.com/s?wd=%E6%93%98%E7%94%BB%E9%B9%AD%E5%B2%9B%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [广州一大桥被撞断 已致2死3失联](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%A4%A7%E6%A1%A5%E8%A2%AB%E6%92%9E%E6%96%AD+%E5%B7%B2%E8%87%B42%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [人民网评网红扮演赵世子](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E7%BD%91%E7%BA%A2%E6%89%AE%E6%BC%94%E8%B5%B5%E4%B8%96%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平同刚果（布）总统互致贺电](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%88%9A%E6%9E%9C%EF%BC%88%E5%B8%83%EF%BC%89%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [人民网评网红扮演赵世子](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E7%BD%91%E7%BA%A2%E6%89%AE%E6%BC%94%E8%B5%B5%E4%B8%96%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [广州一大桥被撞断 已致2死3失联](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%A4%A7%E6%A1%A5%E8%A2%AB%E6%92%9E%E6%96%AD+%E5%B7%B2%E8%87%B42%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多重利好稳固外资信心](https://www.baidu.com/s?wd=%E5%A4%9A%E9%87%8D%E5%88%A9%E5%A5%BD%E7%A8%B3%E5%9B%BA%E5%A4%96%E8%B5%84%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大桥事故现场有落水车被打捞出水](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E6%9C%89%E8%90%BD%E6%B0%B4%E8%BD%A6%E8%A2%AB%E6%89%93%E6%8D%9E%E5%87%BA%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [娃哈哈创始人宗庆后在ICU抢救](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%97%E5%BA%86%E5%90%8E%E5%9C%A8ICU%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,9 +29,9 @@
 
 > 哔哩哔哩  
 
-1. [擘画鹭岛新画卷](https://www.baidu.com/s?wd=%E6%93%98%E7%94%BB%E9%B9%AD%E5%B2%9B%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [广州一大桥被撞断 已致2死3失联](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%A4%A7%E6%A1%A5%E8%A2%AB%E6%92%9E%E6%96%AD+%E5%B7%B2%E8%87%B42%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [人民网评网红扮演赵世子](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E7%BD%91%E7%BA%A2%E6%89%AE%E6%BC%94%E8%B5%B5%E4%B8%96%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平同刚果（布）总统互致贺电](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%88%9A%E6%9E%9C%EF%BC%88%E5%B8%83%EF%BC%89%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [人民网评网红扮演赵世子](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E7%BD%91%E7%BA%A2%E6%89%AE%E6%BC%94%E8%B5%B5%E4%B8%96%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [广州一大桥被撞断 已致2死3失联](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%A4%A7%E6%A1%A5%E8%A2%AB%E6%92%9E%E6%96%AD+%E5%B7%B2%E8%87%B42%E6%AD%BB3%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [多重利好稳固外资信心](https://www.baidu.com/s?wd=%E5%A4%9A%E9%87%8D%E5%88%A9%E5%A5%BD%E7%A8%B3%E5%9B%BA%E5%A4%96%E8%B5%84%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大桥事故现场有落水车被打捞出水](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E6%9C%89%E8%90%BD%E6%B0%B4%E8%BD%A6%E8%A2%AB%E6%89%93%E6%8D%9E%E5%87%BA%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [娃哈哈创始人宗庆后在ICU抢救](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%97%E5%BA%86%E5%90%8E%E5%9C%A8ICU%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
