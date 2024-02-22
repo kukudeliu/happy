@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 15:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 15:28:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [外甥正月理发舅舅去世成被告](https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%94%A5%E6%AD%A3%E6%9C%88%E7%90%86%E5%8F%91%E8%88%85%E8%88%85%E5%8E%BB%E4%B8%96%E6%88%90%E8%A2%AB%E5%91%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [贵州山火原因](https://s.weibo.com/weibo?q=%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB%E5%8E%9F%E5%9B%A0&t=31&band_rank=6&Refer=top)<br />
 7. [从怀孕到生娃十一个月的花销](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%80%80%E5%AD%95%E5%88%B0%E7%94%9F%E5%A8%83%E5%8D%81%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E8%8A%B1%E9%94%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [中学男教师在办公室猥亵男生](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E7%94%B7%E6%95%99%E5%B8%88%E5%9C%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%8C%A5%E4%BA%B5%E7%94%B7%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+8. [王逗逗结婚](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%80%97%E9%80%97%E7%BB%93%E5%A9%9A&t=31&band_rank=8&Refer=top)<br />
 9. [考虫倒闭](https://s.weibo.com/weibo?q=%E8%80%83%E8%99%AB%E5%80%92%E9%97%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
