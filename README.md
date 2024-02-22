@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 16:22:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 16:23:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [灿烈 好久不见](https://s.weibo.com/weibo?q=%E7%81%BF%E7%83%88%20%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81&t=31&band_rank=6&Refer=top)<br />
 7. [外甥正月理发舅舅去世成被告](https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%94%A5%E6%AD%A3%E6%9C%88%E7%90%86%E5%8F%91%E8%88%85%E8%88%85%E5%8E%BB%E4%B8%96%E6%88%90%E8%A2%AB%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴白发异世精灵](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%99%BD%E5%8F%91%E5%BC%82%E4%B8%96%E7%B2%BE%E7%81%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [老爸问老妈3万块的茶艺课学了些什么](https://s.weibo.com/weibo?q=%E8%80%81%E7%88%B8%E9%97%AE%E8%80%81%E5%A6%883%E4%B8%87%E5%9D%97%E7%9A%84%E8%8C%B6%E8%89%BA%E8%AF%BE%E5%AD%A6%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88&t=31&band_rank=9&Refer=top)<br />
+9. [热巴拿蛋糕](https://s.weibo.com/weibo?q=%E7%83%AD%E5%B7%B4%E6%8B%BF%E8%9B%8B%E7%B3%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [撞断大桥船只刚因未加强瞭望被罚](https://www.baidu.com/s?wd=%E6%92%9E%E6%96%AD%E5%A4%A7%E6%A1%A5%E8%88%B9%E5%8F%AA%E5%88%9A%E5%9B%A0%E6%9C%AA%E5%8A%A0%E5%BC%BA%E7%9E%AD%E6%9C%9B%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [凯特王妃疑患“绿色癌症”](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%82%A3%E2%80%9C%E7%BB%BF%E8%89%B2%E7%99%8C%E7%97%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山东航空回应航班大雪中起飞](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94%E8%88%AA%E7%8F%AD%E5%A4%A7%E9%9B%AA%E4%B8%AD%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [船舶公司回应撞断大桥：积极赔偿](https://www.baidu.com/s?wd=%E8%88%B9%E8%88%B6%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%92%9E%E6%96%AD%E5%A4%A7%E6%A1%A5%EF%BC%9A%E7%A7%AF%E6%9E%81%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广州坠桥公交平时乘客多为学生](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9D%A0%E6%A1%A5%E5%85%AC%E4%BA%A4%E5%B9%B3%E6%97%B6%E4%B9%98%E5%AE%A2%E5%A4%9A%E4%B8%BA%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [员工讲粤语遭罚款？警方通报](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AE%B2%E7%B2%A4%E8%AF%AD%E9%81%AD%E7%BD%9A%E6%AC%BE%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [撞断大桥船只刚因未加强瞭望被罚](https://www.baidu.com/s?wd=%E6%92%9E%E6%96%AD%E5%A4%A7%E6%A1%A5%E8%88%B9%E5%8F%AA%E5%88%9A%E5%9B%A0%E6%9C%AA%E5%8A%A0%E5%BC%BA%E7%9E%AD%E6%9C%9B%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [凯特王妃疑患“绿色癌症”](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%82%A3%E2%80%9C%E7%BB%BF%E8%89%B2%E7%99%8C%E7%97%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [山东航空回应航班大雪中起飞](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94%E8%88%AA%E7%8F%AD%E5%A4%A7%E9%9B%AA%E4%B8%AD%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [船舶公司回应撞断大桥：积极赔偿](https://www.baidu.com/s?wd=%E8%88%B9%E8%88%B6%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%92%9E%E6%96%AD%E5%A4%A7%E6%A1%A5%EF%BC%9A%E7%A7%AF%E6%9E%81%E8%B5%94%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广州坠桥公交平时乘客多为学生](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9D%A0%E6%A1%A5%E5%85%AC%E4%BA%A4%E5%B9%B3%E6%97%B6%E4%B9%98%E5%AE%A2%E5%A4%9A%E4%B8%BA%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [员工讲粤语遭罚款？警方通报](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AE%B2%E7%B2%A4%E8%AF%AD%E9%81%AD%E7%BD%9A%E6%AC%BE%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
