@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 18:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 18:28:01</h4></div>
 
 > 微博  
 
-1. [民政部通报2.2亿元彩票大奖情况](https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E9%83%A8%E9%80%9A%E6%8A%A52.2%E4%BA%BF%E5%85%83%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96%E6%83%85%E5%86%B5%23&t=31&band_rank=1&Refer=top)<br />
-2. [把学历改成高中后终于找到工作](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E5%AD%A6%E5%8E%86%E6%94%B9%E6%88%90%E9%AB%98%E4%B8%AD%E5%90%8E%E7%BB%88%E4%BA%8E%E6%89%BE%E5%88%B0%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=2&Refer=top)<br />
+1. [把学历改成高中后终于找到工作](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E5%AD%A6%E5%8E%86%E6%94%B9%E6%88%90%E9%AB%98%E4%B8%AD%E5%90%8E%E7%BB%88%E4%BA%8E%E6%89%BE%E5%88%B0%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=1&Refer=top)<br />
+2. [民政部通报2.2亿元彩票大奖情况](https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E9%83%A8%E9%80%9A%E6%8A%A52.2%E4%BA%BF%E5%85%83%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96%E6%83%85%E5%86%B5%23&t=31&band_rank=2&Refer=top)<br />
 3. [鹊桥二号中继星择机发射](https://s.weibo.com/weibo?q=%23%E9%B9%8A%E6%A1%A5%E4%BA%8C%E5%8F%B7%E4%B8%AD%E7%BB%A7%E6%98%9F%E6%8B%A9%E6%9C%BA%E5%8F%91%E5%B0%84%23&t=31&band_rank=3&Refer=top)<br />
 4. [娃哈哈创始人宗庆后在ICU抢救](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%97%E5%BA%86%E5%90%8E%E5%9C%A8ICU%E6%8A%A2%E6%95%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [沥心沙大桥事故致5人死亡](https://s.weibo.com/weibo?q=%23%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E8%87%B45%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
