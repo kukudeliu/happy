@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 13:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 13:11:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [20集她戴了22副耳环](https://s.weibo.com/weibo?q=20%E9%9B%86%E5%A5%B9%E6%88%B4%E4%BA%8622%E5%89%AF%E8%80%B3%E7%8E%AF&t=31&band_rank=5&Refer=top)<br />
 6. [沥心沙大桥事故已致2死3失联](https://s.weibo.com/weibo?q=%23%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B42%E6%AD%BB3%E5%A4%B1%E8%81%94%23&t=31&band_rank=6&Refer=top)<br />
 7. [17名博硕士研发的方便面里真的有肉](https://s.weibo.com/weibo?q=%2317%E5%90%8D%E5%8D%9A%E7%A1%95%E5%A3%AB%E7%A0%94%E5%8F%91%E7%9A%84%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%87%8C%E7%9C%9F%E7%9A%84%E6%9C%89%E8%82%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [贵州山火](https://s.weibo.com/weibo?q=%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB&t=31&band_rank=8&Refer=top)<br />
-9. [林志玲2岁儿子侧颜](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B22%E5%B2%81%E5%84%BF%E5%AD%90%E4%BE%A7%E9%A2%9C%23&t=31&band_rank=9&Refer=top)<br />
+8. [林志玲2岁儿子侧颜](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B22%E5%B2%81%E5%84%BF%E5%AD%90%E4%BE%A7%E9%A2%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [贵州山火](https://s.weibo.com/weibo?q=%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
