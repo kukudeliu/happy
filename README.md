@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 15:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 15:19:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [多地扩投资亮清单](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%89%A9%E6%8A%95%E8%B5%84%E4%BA%AE%E6%B8%85%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [撞断大桥船只刚因未加强瞭望被罚](https://www.baidu.com/s?wd=%E6%92%9E%E6%96%AD%E5%A4%A7%E6%A1%A5%E8%88%B9%E5%8F%AA%E5%88%9A%E5%9B%A0%E6%9C%AA%E5%8A%A0%E5%BC%BA%E7%9E%AD%E6%9C%9B%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#贵州山火需要关注和支援#](https://www.baidu.com/s?wd=%23%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB%E9%9C%80%E8%A6%81%E5%85%B3%E6%B3%A8%E5%92%8C%E6%94%AF%E6%8F%B4%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大桥被撞断 岛上居民：供水管断了](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A1%A5%E8%A2%AB%E6%92%9E%E6%96%AD+%E5%B2%9B%E4%B8%8A%E5%B1%85%E6%B0%91%EF%BC%9A%E4%BE%9B%E6%B0%B4%E7%AE%A1%E6%96%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [旅客坐飞机拍下贵州山火](https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E5%9D%90%E9%A3%9E%E6%9C%BA%E6%8B%8D%E4%B8%8B%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [威姆斯盛赞王鹤棣名人赛表现](https://www.baidu.com/s?wd=%E5%A8%81%E5%A7%86%E6%96%AF%E7%9B%9B%E8%B5%9E%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%90%8D%E4%BA%BA%E8%B5%9B%E8%A1%A8%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [首批Vision Pro退货潮调查](https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9Vision+Pro%E9%80%80%E8%B4%A7%E6%BD%AE%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [员工讲粤语遭罚款？警方通报](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AE%B2%E7%B2%A4%E8%AF%AD%E9%81%AD%E7%BD%9A%E6%AC%BE%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [多地扩投资亮清单](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%89%A9%E6%8A%95%E8%B5%84%E4%BA%AE%E6%B8%85%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [撞断大桥船只刚因未加强瞭望被罚](https://www.baidu.com/s?wd=%E6%92%9E%E6%96%AD%E5%A4%A7%E6%A1%A5%E8%88%B9%E5%8F%AA%E5%88%9A%E5%9B%A0%E6%9C%AA%E5%8A%A0%E5%BC%BA%E7%9E%AD%E6%9C%9B%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [#贵州山火需要关注和支援#](https://www.baidu.com/s?wd=%23%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB%E9%9C%80%E8%A6%81%E5%85%B3%E6%B3%A8%E5%92%8C%E6%94%AF%E6%8F%B4%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大桥被撞断 岛上居民：供水管断了](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A1%A5%E8%A2%AB%E6%92%9E%E6%96%AD+%E5%B2%9B%E4%B8%8A%E5%B1%85%E6%B0%91%EF%BC%9A%E4%BE%9B%E6%B0%B4%E7%AE%A1%E6%96%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [旅客坐飞机拍下贵州山火](https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E5%9D%90%E9%A3%9E%E6%9C%BA%E6%8B%8D%E4%B8%8B%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [威姆斯盛赞王鹤棣名人赛表现](https://www.baidu.com/s?wd=%E5%A8%81%E5%A7%86%E6%96%AF%E7%9B%9B%E8%B5%9E%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%90%8D%E4%BA%BA%E8%B5%9B%E8%A1%A8%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [首批Vision Pro退货潮调查](https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9Vision+Pro%E9%80%80%E8%B4%A7%E6%BD%AE%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [员工讲粤语遭罚款？警方通报](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AE%B2%E7%B2%A4%E8%AF%AD%E9%81%AD%E7%BD%9A%E6%AC%BE%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
