@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 14:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 14:24:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [多地扩投资亮清单](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%89%A9%E6%8A%95%E8%B5%84%E4%BA%AE%E6%B8%85%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大桥被撞断 岛上居民：供水管断了](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A1%A5%E8%A2%AB%E6%92%9E%E6%96%AD+%E5%B2%9B%E4%B8%8A%E5%B1%85%E6%B0%91%EF%BC%9A%E4%BE%9B%E6%B0%B4%E7%AE%A1%E6%96%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [旅客坐飞机拍下贵州山火](https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E5%9D%90%E9%A3%9E%E6%9C%BA%E6%8B%8D%E4%B8%8B%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日经指数超过35年前泡沫时代峰值](https://www.baidu.com/s?wd=%E6%97%A5%E7%BB%8F%E6%8C%87%E6%95%B0%E8%B6%85%E8%BF%8735%E5%B9%B4%E5%89%8D%E6%B3%A1%E6%B2%AB%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [湖北引进“雪地熨斗”清理冻雨](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%BC%95%E8%BF%9B%E2%80%9C%E9%9B%AA%E5%9C%B0%E7%86%A8%E6%96%97%E2%80%9D%E6%B8%85%E7%90%86%E5%86%BB%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国人四年存了58.24万亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9B%9B%E5%B9%B4%E5%AD%98%E4%BA%8658.24%E4%B8%87%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [开年第一天民政局遇离婚潮？假的](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%B0%91%E6%94%BF%E5%B1%80%E9%81%87%E7%A6%BB%E5%A9%9A%E6%BD%AE%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [多地扩投资亮清单](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%89%A9%E6%8A%95%E8%B5%84%E4%BA%AE%E6%B8%85%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大桥被撞断 岛上居民：供水管断了](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A1%A5%E8%A2%AB%E6%92%9E%E6%96%AD+%E5%B2%9B%E4%B8%8A%E5%B1%85%E6%B0%91%EF%BC%9A%E4%BE%9B%E6%B0%B4%E7%AE%A1%E6%96%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [旅客坐飞机拍下贵州山火](https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E5%9D%90%E9%A3%9E%E6%9C%BA%E6%8B%8D%E4%B8%8B%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [日经指数超过35年前泡沫时代峰值](https://www.baidu.com/s?wd=%E6%97%A5%E7%BB%8F%E6%8C%87%E6%95%B0%E8%B6%85%E8%BF%8735%E5%B9%B4%E5%89%8D%E6%B3%A1%E6%B2%AB%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [湖北引进“雪地熨斗”清理冻雨](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%BC%95%E8%BF%9B%E2%80%9C%E9%9B%AA%E5%9C%B0%E7%86%A8%E6%96%97%E2%80%9D%E6%B8%85%E7%90%86%E5%86%BB%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国人四年存了58.24万亿元](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9B%9B%E5%B9%B4%E5%AD%98%E4%BA%8658.24%E4%B8%87%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [开年第一天民政局遇离婚潮？假的](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%B0%91%E6%94%BF%E5%B1%80%E9%81%87%E7%A6%BB%E5%A9%9A%E6%BD%AE%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
