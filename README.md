@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 16:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 16:53:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [射雕定档](https://s.weibo.com/weibo?q=%E5%B0%84%E9%9B%95%E5%AE%9A%E6%A1%A3&t=31&band_rank=4&Refer=top)<br />
 5. [贵州山火原因](https://s.weibo.com/weibo?q=%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB%E5%8E%9F%E5%9B%A0&t=31&band_rank=5&Refer=top)<br />
 6. [老爸问老妈3万块的茶艺课学了些什么](https://s.weibo.com/weibo?q=%E8%80%81%E7%88%B8%E9%97%AE%E8%80%81%E5%A6%883%E4%B8%87%E5%9D%97%E7%9A%84%E8%8C%B6%E8%89%BA%E8%AF%BE%E5%AD%A6%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88&t=31&band_rank=6&Refer=top)<br />
-7. [9图掌握雪天出行注意啥](https://s.weibo.com/weibo?q=%239%E5%9B%BE%E6%8E%8C%E6%8F%A1%E9%9B%AA%E5%A4%A9%E5%87%BA%E8%A1%8C%E6%B3%A8%E6%84%8F%E5%95%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [热巴拿蛋糕](https://s.weibo.com/weibo?q=%E7%83%AD%E5%B7%B4%E6%8B%BF%E8%9B%8B%E7%B3%95&t=31&band_rank=8&Refer=top)<br />
-9. [郑秀晶签约新公司](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E6%99%B6%E7%AD%BE%E7%BA%A6%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=9&Refer=top)<br />
+7. [热巴拿蛋糕](https://s.weibo.com/weibo?q=%E7%83%AD%E5%B7%B4%E6%8B%BF%E8%9B%8B%E7%B3%95&t=31&band_rank=7&Refer=top)<br />
+8. [郑秀晶签约新公司](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E6%99%B6%E7%AD%BE%E7%BA%A6%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [灿烈 好久不见](https://s.weibo.com/weibo?q=%E7%81%BF%E7%83%88%20%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
