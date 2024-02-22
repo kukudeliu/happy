@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 15:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 15:36:02</h4></div>
 
 > 微博  
 
 1. [人民网评网红扮演赵世子](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E7%BD%91%E7%BA%A2%E6%89%AE%E6%BC%94%E8%B5%B5%E4%B8%96%E5%AD%90%23&t=31&band_rank=1&Refer=top)<br />
 2. [迪丽热巴白发异世精灵](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%99%BD%E5%8F%91%E5%BC%82%E4%B8%96%E7%B2%BE%E7%81%B5%23&t=31&band_rank=2&Refer=top)<br />
 3. [无人机视角看雪后长城多壮美](https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A7%86%E8%A7%92%E7%9C%8B%E9%9B%AA%E5%90%8E%E9%95%BF%E5%9F%8E%E5%A4%9A%E5%A3%AE%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
-4. [外甥正月理发舅舅去世成被告](https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%94%A5%E6%AD%A3%E6%9C%88%E7%90%86%E5%8F%91%E8%88%85%E8%88%85%E5%8E%BB%E4%B8%96%E6%88%90%E8%A2%AB%E5%91%8A%23&t=31&band_rank=4&Refer=top)<br />
-5. [灿烈 好久不见](https://s.weibo.com/weibo?q=%E7%81%BF%E7%83%88%20%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81&t=31&band_rank=5&Refer=top)<br />
-6. [杜乐莹 我生下来是你妹妹](https://s.weibo.com/weibo?q=%E6%9D%9C%E4%B9%90%E8%8E%B9%20%E6%88%91%E7%94%9F%E4%B8%8B%E6%9D%A5%E6%98%AF%E4%BD%A0%E5%A6%B9%E5%A6%B9&t=31&band_rank=6&Refer=top)<br />
-7. [王逗逗结婚](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%80%97%E9%80%97%E7%BB%93%E5%A9%9A&t=31&band_rank=7&Refer=top)<br />
+4. [灿烈 好久不见](https://s.weibo.com/weibo?q=%E7%81%BF%E7%83%88%20%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81&t=31&band_rank=4&Refer=top)<br />
+5. [外甥正月理发舅舅去世成被告](https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%94%A5%E6%AD%A3%E6%9C%88%E7%90%86%E5%8F%91%E8%88%85%E8%88%85%E5%8E%BB%E4%B8%96%E6%88%90%E8%A2%AB%E5%91%8A%23&t=31&band_rank=5&Refer=top)<br />
+6. [王逗逗结婚](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%80%97%E9%80%97%E7%BB%93%E5%A9%9A&t=31&band_rank=6&Refer=top)<br />
+7. [杜乐莹 我生下来是你妹妹](https://s.weibo.com/weibo?q=%E6%9D%9C%E4%B9%90%E8%8E%B9%20%E6%88%91%E7%94%9F%E4%B8%8B%E6%9D%A5%E6%98%AF%E4%BD%A0%E5%A6%B9%E5%A6%B9&t=31&band_rank=7&Refer=top)<br />
 8. [从怀孕到生娃十一个月的花销](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%80%80%E5%AD%95%E5%88%B0%E7%94%9F%E5%A8%83%E5%8D%81%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E8%8A%B1%E9%94%80%23&t=31&band_rank=8&Refer=top)<br />
 9. [贵州山火原因](https://s.weibo.com/weibo?q=%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB%E5%8E%9F%E5%9B%A0&t=31&band_rank=9&Refer=top)<br />
 
