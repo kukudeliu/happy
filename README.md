@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 15:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 16:00:02</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [灿烈 好久不见](https://s.weibo.com/weibo?q=%E7%81%BF%E7%83%88%20%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81&t=31&band_rank=2&Refer=top)<br />
 3. [无人机视角看雪后长城多壮美](https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A7%86%E8%A7%92%E7%9C%8B%E9%9B%AA%E5%90%8E%E9%95%BF%E5%9F%8E%E5%A4%9A%E5%A3%AE%E7%BE%8E%23&t=31&band_rank=3&Refer=top)<br />
 4. [贵州山火原因](https://s.weibo.com/weibo?q=%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB%E5%8E%9F%E5%9B%A0&t=31&band_rank=4&Refer=top)<br />
-5. [王逗逗结婚](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%80%97%E9%80%97%E7%BB%93%E5%A9%9A&t=31&band_rank=5&Refer=top)<br />
-6. [王阳 高斯](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%98%B3%20%E9%AB%98%E6%96%AF&t=31&band_rank=6&Refer=top)<br />
+5. [王阳 高斯](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%98%B3%20%E9%AB%98%E6%96%AF&t=31&band_rank=5&Refer=top)<br />
+6. [王逗逗结婚](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%80%97%E9%80%97%E7%BB%93%E5%A9%9A&t=31&band_rank=6&Refer=top)<br />
 7. [女子举报多位大学教师偷窥自己](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%A4%9A%E4%BD%8D%E5%A4%A7%E5%AD%A6%E6%95%99%E5%B8%88%E5%81%B7%E7%AA%A5%E8%87%AA%E5%B7%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [外甥正月理发舅舅去世成被告](https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%94%A5%E6%AD%A3%E6%9C%88%E7%90%86%E5%8F%91%E8%88%85%E8%88%85%E5%8E%BB%E4%B8%96%E6%88%90%E8%A2%AB%E5%91%8A%23&t=31&band_rank=8&Refer=top)<br />
 9. [迪丽热巴白发异世精灵](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%99%BD%E5%8F%91%E5%BC%82%E4%B8%96%E7%B2%BE%E7%81%B5%23&t=31&band_rank=9&Refer=top)<br />
