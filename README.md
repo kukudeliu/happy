@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 11:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 11:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中国人四年存了58.24万亿元](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9B%9B%E5%B9%B4%E5%AD%98%E4%BA%8658.24%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [郑州一海洋馆潜水员在馆内溺亡](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%80%E6%B5%B7%E6%B4%8B%E9%A6%86%E6%BD%9C%E6%B0%B4%E5%91%98%E5%9C%A8%E9%A6%86%E5%86%85%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [员工抑郁请病假暗中考研还领高薪](https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E6%8A%91%E9%83%81%E8%AF%B7%E7%97%85%E5%81%87%E6%9A%97%E4%B8%AD%E8%80%83%E7%A0%94%E8%BF%98%E9%A2%86%E9%AB%98%E8%96%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [专家建议将女性退休年龄延长到60岁](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%A5%B3%E6%80%A7%E9%80%80%E4%BC%91%E5%B9%B4%E9%BE%84%E5%BB%B6%E9%95%BF%E5%88%B060%E5%B2%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [沥心沙大桥上掉落公交只有1司机](https://s.weibo.com/weibo?q=%23%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E4%B8%8A%E6%8E%89%E8%90%BD%E5%85%AC%E4%BA%A4%E5%8F%AA%E6%9C%891%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [贵州省委原书记孙志刚被决定逮捕](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%AD%99%E5%BF%97%E5%88%9A%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [考生接到国企录用通知后又遭取消](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E6%8E%A5%E5%88%B0%E5%9B%BD%E4%BC%81%E5%BD%95%E7%94%A8%E9%80%9A%E7%9F%A5%E5%90%8E%E5%8F%88%E9%81%AD%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉人醒来发现自行车座结冰](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%BA%BA%E9%86%92%E6%9D%A5%E5%8F%91%E7%8E%B0%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%BA%A7%E7%BB%93%E5%86%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日媒曝上百海上自卫队员集体拜鬼](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E6%9B%9D%E4%B8%8A%E7%99%BE%E6%B5%B7%E4%B8%8A%E8%87%AA%E5%8D%AB%E9%98%9F%E5%91%98%E9%9B%86%E4%BD%93%E6%8B%9C%E9%AC%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [派出所刚开门小鸟飞进来“报警”](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E5%88%9A%E5%BC%80%E9%97%A8%E5%B0%8F%E9%B8%9F%E9%A3%9E%E8%BF%9B%E6%9D%A5%E2%80%9C%E6%8A%A5%E8%AD%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [开年第一天民政局遇离婚潮？假的](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%B0%91%E6%94%BF%E5%B1%80%E9%81%87%E7%A6%BB%E5%A9%9A%E6%BD%AE%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [贵州省委原书记孙志刚被决定逮捕](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%AD%99%E5%BF%97%E5%88%9A%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [考生接到国企录用通知后又遭取消](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E6%8E%A5%E5%88%B0%E5%9B%BD%E4%BC%81%E5%BD%95%E7%94%A8%E9%80%9A%E7%9F%A5%E5%90%8E%E5%8F%88%E9%81%AD%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉人醒来发现自行车座结冰](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%BA%BA%E9%86%92%E6%9D%A5%E5%8F%91%E7%8E%B0%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%BA%A7%E7%BB%93%E5%86%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日媒曝上百海上自卫队员集体拜鬼](https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E6%9B%9D%E4%B8%8A%E7%99%BE%E6%B5%B7%E4%B8%8A%E8%87%AA%E5%8D%AB%E9%98%9F%E5%91%98%E9%9B%86%E4%BD%93%E6%8B%9C%E9%AC%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [派出所刚开门小鸟飞进来“报警”](https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E5%88%9A%E5%BC%80%E9%97%A8%E5%B0%8F%E9%B8%9F%E9%A3%9E%E8%BF%9B%E6%9D%A5%E2%80%9C%E6%8A%A5%E8%AD%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [开年第一天民政局遇离婚潮？假的](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%B0%91%E6%94%BF%E5%B1%80%E9%81%87%E7%A6%BB%E5%A9%9A%E6%BD%AE%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
