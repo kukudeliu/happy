@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 19:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 19:48:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [cos赵世子男网红账号被禁言](https://s.weibo.com/weibo?q=%23cos%E8%B5%B5%E4%B8%96%E5%AD%90%E7%94%B7%E7%BD%91%E7%BA%A2%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E8%A8%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [娃哈哈声明](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E5%A3%B0%E6%98%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [娃哈哈创始人宗庆后在ICU抢救](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%97%E5%BA%86%E5%90%8E%E5%9C%A8ICU%E6%8A%A2%E6%95%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [宗庆后女儿回应](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%BA%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [樊振东vs松岛辉空](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [樊振东vs松岛辉空](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [宗庆后女儿回应](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [外卖小哥雪天送打不到车的女生回家](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E9%9B%AA%E5%A4%A9%E9%80%81%E6%89%93%E4%B8%8D%E5%88%B0%E8%BD%A6%E7%9A%84%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
