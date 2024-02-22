@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 16:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 16:30:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王阳 高斯](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%98%B3%20%E9%AB%98%E6%96%AF&t=31&band_rank=5&Refer=top)<br />
 6. [射雕定档](https://s.weibo.com/weibo?q=%E5%B0%84%E9%9B%95%E5%AE%9A%E6%A1%A3&t=31&band_rank=6&Refer=top)<br />
 7. [外甥正月理发舅舅去世成被告](https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%94%A5%E6%AD%A3%E6%9C%88%E7%90%86%E5%8F%91%E8%88%85%E8%88%85%E5%8E%BB%E4%B8%96%E6%88%90%E8%A2%AB%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [灿烈 好久不见](https://s.weibo.com/weibo?q=%E7%81%BF%E7%83%88%20%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81&t=31&band_rank=8&Refer=top)<br />
-9. [老爸问老妈3万块的茶艺课学了些什么](https://s.weibo.com/weibo?q=%E8%80%81%E7%88%B8%E9%97%AE%E8%80%81%E5%A6%883%E4%B8%87%E5%9D%97%E7%9A%84%E8%8C%B6%E8%89%BA%E8%AF%BE%E5%AD%A6%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88&t=31&band_rank=9&Refer=top)<br />
+8. [老爸问老妈3万块的茶艺课学了些什么](https://s.weibo.com/weibo?q=%E8%80%81%E7%88%B8%E9%97%AE%E8%80%81%E5%A6%883%E4%B8%87%E5%9D%97%E7%9A%84%E8%8C%B6%E8%89%BA%E8%AF%BE%E5%AD%A6%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88&t=31&band_rank=8&Refer=top)<br />
+9. [灿烈 好久不见](https://s.weibo.com/weibo?q=%E7%81%BF%E7%83%88%20%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
