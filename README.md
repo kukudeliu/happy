@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 12:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 12:04:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [外甥正月理发舅舅去世成被告](https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%94%A5%E6%AD%A3%E6%9C%88%E7%90%86%E5%8F%91%E8%88%85%E8%88%85%E5%8E%BB%E4%B8%96%E6%88%90%E8%A2%AB%E5%91%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [沥心沙大桥事故已致2死3失联](https://s.weibo.com/weibo?q=%23%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B42%E6%AD%BB3%E5%A4%B1%E8%81%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [撞断沥心沙大桥船主已被控制](https://s.weibo.com/weibo?q=%23%E6%92%9E%E6%96%AD%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E8%88%B9%E4%B8%BB%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [瑞幸心理价位9块9](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%BF%83%E7%90%86%E4%BB%B7%E4%BD%8D9%E5%9D%979%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国人四年存了58.24万亿元](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9B%9B%E5%B9%B4%E5%AD%98%E4%BA%8658.24%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [贵州山火](https://s.weibo.com/weibo?q=%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB&t=31&band_rank=9&Refer=top)<br />
+7. [贵州山火](https://s.weibo.com/weibo?q=%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB&t=31&band_rank=7&Refer=top)<br />
+8. [瑞幸心理价位9块9](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%BF%83%E7%90%86%E4%BB%B7%E4%BD%8D9%E5%9D%979%23&t=31&band_rank=8&Refer=top)<br />
+9. [中国人四年存了58.24万亿元](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9B%9B%E5%B9%B4%E5%AD%98%E4%BA%8658.24%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
