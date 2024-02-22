@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 17:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 17:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [射雕定档](https://s.weibo.com/weibo?q=%E5%B0%84%E9%9B%95%E5%AE%9A%E6%A1%A3&t=31&band_rank=5&Refer=top)<br />
 6. [老爸问老妈3万块的茶艺课学了些什么](https://s.weibo.com/weibo?q=%E8%80%81%E7%88%B8%E9%97%AE%E8%80%81%E5%A6%883%E4%B8%87%E5%9D%97%E7%9A%84%E8%8C%B6%E8%89%BA%E8%AF%BE%E5%AD%A6%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88&t=31&band_rank=6&Refer=top)<br />
 7. [热巴拿蛋糕](https://s.weibo.com/weibo?q=%E7%83%AD%E5%B7%B4%E6%8B%BF%E8%9B%8B%E7%B3%95&t=31&band_rank=7&Refer=top)<br />
-8. [贵州山火原因](https://s.weibo.com/weibo?q=%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB%E5%8E%9F%E5%9B%A0&t=31&band_rank=8&Refer=top)<br />
-9. [把学历改成高中后终于找到工作](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E5%AD%A6%E5%8E%86%E6%94%B9%E6%88%90%E9%AB%98%E4%B8%AD%E5%90%8E%E7%BB%88%E4%BA%8E%E6%89%BE%E5%88%B0%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
+8. [把学历改成高中后终于找到工作](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E5%AD%A6%E5%8E%86%E6%94%B9%E6%88%90%E9%AB%98%E4%B8%AD%E5%90%8E%E7%BB%88%E4%BA%8E%E6%89%BE%E5%88%B0%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [贵州山火原因](https://s.weibo.com/weibo?q=%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB%E5%8E%9F%E5%9B%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
