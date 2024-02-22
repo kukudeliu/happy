@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 19:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 19:36:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [cos赵世子男网红账号被禁言](https://s.weibo.com/weibo?q=%23cos%E8%B5%B5%E4%B8%96%E5%AD%90%E7%94%B7%E7%BD%91%E7%BA%A2%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E8%A8%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [民政部通报2.2亿元彩票大奖情况](https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E9%83%A8%E9%80%9A%E6%8A%A52.2%E4%BA%BF%E5%85%83%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96%E6%83%85%E5%86%B5%23&t=31&band_rank=6&Refer=top)<br />
 7. [柳鑫宇泪洒现场](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E9%91%AB%E5%AE%87%E6%B3%AA%E6%B4%92%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [2.2亿中奖者此前多次购买相同号码](https://s.weibo.com/weibo?q=%232.2%E4%BA%BF%E4%B8%AD%E5%A5%96%E8%80%85%E6%AD%A4%E5%89%8D%E5%A4%9A%E6%AC%A1%E8%B4%AD%E4%B9%B0%E7%9B%B8%E5%90%8C%E5%8F%B7%E7%A0%81%23&t=31&band_rank=8&Refer=top)<br />
+8. [娃哈哈声明](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E5%A3%B0%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [贵州山火救援的感人瞬间](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB%E6%95%91%E6%8F%B4%E7%9A%84%E6%84%9F%E4%BA%BA%E7%9E%AC%E9%97%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
