@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 17:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 17:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [人民网评网红扮演赵世子](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E7%BD%91%E7%BA%A2%E6%89%AE%E6%BC%94%E8%B5%B5%E4%B8%96%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [贵州全省共发生森林火情221起](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E5%85%A8%E7%9C%81%E5%85%B1%E5%8F%91%E7%94%9F%E6%A3%AE%E6%9E%97%E7%81%AB%E6%83%85221%E8%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [射雕定档](https://s.weibo.com/weibo?q=%E5%B0%84%E9%9B%95%E5%AE%9A%E6%A1%A3&t=31&band_rank=8&Refer=top)<br />
-9. [热巴拿蛋糕](https://s.weibo.com/weibo?q=%E7%83%AD%E5%B7%B4%E6%8B%BF%E8%9B%8B%E7%B3%95&t=31&band_rank=9&Refer=top)<br />
+9. [媒体评乙女游戏卷尺度现象](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E4%B9%99%E5%A5%B3%E6%B8%B8%E6%88%8F%E5%8D%B7%E5%B0%BA%E5%BA%A6%E7%8E%B0%E8%B1%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
