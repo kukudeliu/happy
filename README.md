@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 09:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 09:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [武汉大雪](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E9%9B%AA&t=31&band_rank=6&Refer=top)<br />
 7. [要睡多久觉才能把黑眼圈睡没](https://s.weibo.com/weibo?q=%23%E8%A6%81%E7%9D%A1%E5%A4%9A%E4%B9%85%E8%A7%89%E6%89%8D%E8%83%BD%E6%8A%8A%E9%BB%91%E7%9C%BC%E5%9C%88%E7%9D%A1%E6%B2%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [上海一杯4颗美式汤圆要38元](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E6%9D%AF4%E9%A2%97%E7%BE%8E%E5%BC%8F%E6%B1%A4%E5%9C%86%E8%A6%8138%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [近期高发的嗓子疼可能是这种急症](https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E9%AB%98%E5%8F%91%E7%9A%84%E5%97%93%E5%AD%90%E7%96%BC%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BF%99%E7%A7%8D%E6%80%A5%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [朱珠泳装](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E6%B3%B3%E8%A3%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
