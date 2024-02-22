@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 11:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 11:25:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [撞断沥心沙大桥船主已被控制](https://s.weibo.com/weibo?q=%23%E6%92%9E%E6%96%AD%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E8%88%B9%E4%B8%BB%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [中国人四年存了58.24万亿元](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9B%9B%E5%B9%B4%E5%AD%98%E4%BA%8658.24%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [郑州一海洋馆潜水员在馆内溺亡](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%80%E6%B5%B7%E6%B4%8B%E9%A6%86%E6%BD%9C%E6%B0%B4%E5%91%98%E5%9C%A8%E9%A6%86%E5%86%85%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [广州南沙沥心沙大桥被船只撞断](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E8%A2%AB%E8%88%B9%E5%8F%AA%E6%92%9E%E6%96%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [瑞幸心理价位9块9](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%BF%83%E7%90%86%E4%BB%B7%E4%BD%8D9%E5%9D%979%23&t=31&band_rank=8&Refer=top)<br />
+7. [瑞幸心理价位9块9](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%BF%83%E7%90%86%E4%BB%B7%E4%BD%8D9%E5%9D%979%23&t=31&band_rank=7&Refer=top)<br />
+8. [广州南沙沥心沙大桥被船只撞断](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E8%A2%AB%E8%88%B9%E5%8F%AA%E6%92%9E%E6%96%AD%23&t=31&band_rank=8&Refer=top)<br />
 9. [员工抑郁请病假暗中考研还领高薪](https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E6%8A%91%E9%83%81%E8%AF%B7%E7%97%85%E5%81%87%E6%9A%97%E4%B8%AD%E8%80%83%E7%A0%94%E8%BF%98%E9%A2%86%E9%AB%98%E8%96%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
