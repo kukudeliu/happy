@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 16:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 16:58:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [鹊桥二号中继星择机发射](https://s.weibo.com/weibo?q=%23%E9%B9%8A%E6%A1%A5%E4%BA%8C%E5%8F%B7%E4%B8%AD%E7%BB%A7%E6%98%9F%E6%8B%A9%E6%9C%BA%E5%8F%91%E5%B0%84%23&t=31&band_rank=3&Refer=top)<br />
 4. [射雕定档](https://s.weibo.com/weibo?q=%E5%B0%84%E9%9B%95%E5%AE%9A%E6%A1%A3&t=31&band_rank=4&Refer=top)<br />
 5. [贵州山火原因](https://s.weibo.com/weibo?q=%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB%E5%8E%9F%E5%9B%A0&t=31&band_rank=5&Refer=top)<br />
-6. [老爸问老妈3万块的茶艺课学了些什么](https://s.weibo.com/weibo?q=%E8%80%81%E7%88%B8%E9%97%AE%E8%80%81%E5%A6%883%E4%B8%87%E5%9D%97%E7%9A%84%E8%8C%B6%E8%89%BA%E8%AF%BE%E5%AD%A6%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88&t=31&band_rank=6&Refer=top)<br />
-7. [郑秀晶签约新公司](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E6%99%B6%E7%AD%BE%E7%BA%A6%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [热巴拿蛋糕](https://s.weibo.com/weibo?q=%E7%83%AD%E5%B7%B4%E6%8B%BF%E8%9B%8B%E7%B3%95&t=31&band_rank=8&Refer=top)<br />
-9. [娃哈哈创始人宗庆后在ICU抢救](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%97%E5%BA%86%E5%90%8E%E5%9C%A8ICU%E6%8A%A2%E6%95%91%23&t=31&band_rank=9&Refer=top)<br />
+6. [娃哈哈创始人宗庆后在ICU抢救](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%97%E5%BA%86%E5%90%8E%E5%9C%A8ICU%E6%8A%A2%E6%95%91%23&t=31&band_rank=6&Refer=top)<br />
+7. [老爸问老妈3万块的茶艺课学了些什么](https://s.weibo.com/weibo?q=%E8%80%81%E7%88%B8%E9%97%AE%E8%80%81%E5%A6%883%E4%B8%87%E5%9D%97%E7%9A%84%E8%8C%B6%E8%89%BA%E8%AF%BE%E5%AD%A6%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88&t=31&band_rank=7&Refer=top)<br />
+8. [郑秀晶签约新公司](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E6%99%B6%E7%AD%BE%E7%BA%A6%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [热巴拿蛋糕](https://s.weibo.com/weibo?q=%E7%83%AD%E5%B7%B4%E6%8B%BF%E8%9B%8B%E7%B3%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
