@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 16:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 16:54:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [多地扩投资亮清单](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%89%A9%E6%8A%95%E8%B5%84%E4%BA%AE%E6%B8%85%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大桥事故现场有落水车被打捞出水](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E6%9C%89%E8%90%BD%E6%B0%B4%E8%BD%A6%E8%A2%AB%E6%89%93%E6%8D%9E%E5%87%BA%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [凯特王妃疑患“绿色癌症”](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%82%A3%E2%80%9C%E7%BB%BF%E8%89%B2%E7%99%8C%E7%97%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山东航空回应航班大雪中起飞](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94%E8%88%AA%E7%8F%AD%E5%A4%A7%E9%9B%AA%E4%B8%AD%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广州坠桥公交平时乘客多为学生](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9D%A0%E6%A1%A5%E5%85%AC%E4%BA%A4%E5%B9%B3%E6%97%B6%E4%B9%98%E5%AE%A2%E5%A4%9A%E4%B8%BA%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [机票酒店近期频现白菜价](https://www.baidu.com/s?wd=%E6%9C%BA%E7%A5%A8%E9%85%92%E5%BA%97%E8%BF%91%E6%9C%9F%E9%A2%91%E7%8E%B0%E7%99%BD%E8%8F%9C%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖北已出现冰粒等七种降水形态](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%B7%B2%E5%87%BA%E7%8E%B0%E5%86%B0%E7%B2%92%E7%AD%89%E4%B8%83%E7%A7%8D%E9%99%8D%E6%B0%B4%E5%BD%A2%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [员工讲粤语遭罚款？警方通报](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AE%B2%E7%B2%A4%E8%AF%AD%E9%81%AD%E7%BD%9A%E6%AC%BE%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [多地扩投资亮清单](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%89%A9%E6%8A%95%E8%B5%84%E4%BA%AE%E6%B8%85%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大桥事故现场有落水车被打捞出水](https://www.baidu.com/s?wd=%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E6%9C%89%E8%90%BD%E6%B0%B4%E8%BD%A6%E8%A2%AB%E6%89%93%E6%8D%9E%E5%87%BA%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [凯特王妃疑患“绿色癌症”](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%82%A3%E2%80%9C%E7%BB%BF%E8%89%B2%E7%99%8C%E7%97%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [山东航空回应航班大雪中起飞](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94%E8%88%AA%E7%8F%AD%E5%A4%A7%E9%9B%AA%E4%B8%AD%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广州坠桥公交平时乘客多为学生](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9D%A0%E6%A1%A5%E5%85%AC%E4%BA%A4%E5%B9%B3%E6%97%B6%E4%B9%98%E5%AE%A2%E5%A4%9A%E4%B8%BA%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [机票酒店近期频现白菜价](https://www.baidu.com/s?wd=%E6%9C%BA%E7%A5%A8%E9%85%92%E5%BA%97%E8%BF%91%E6%9C%9F%E9%A2%91%E7%8E%B0%E7%99%BD%E8%8F%9C%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖北已出现冰粒等七种降水形态](https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%B7%B2%E5%87%BA%E7%8E%B0%E5%86%B0%E7%B2%92%E7%AD%89%E4%B8%83%E7%A7%8D%E9%99%8D%E6%B0%B4%E5%BD%A2%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [员工讲粤语遭罚款？警方通报](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AE%B2%E7%B2%A4%E8%AF%AD%E9%81%AD%E7%BD%9A%E6%AC%BE%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
