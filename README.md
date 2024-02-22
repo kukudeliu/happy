@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 14:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 14:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [考虫倒闭](https://s.weibo.com/weibo?q=%E8%80%83%E8%99%AB%E5%80%92%E9%97%AD&t=31&band_rank=6&Refer=top)<br />
 7. [20集她戴了22副耳环](https://s.weibo.com/weibo?q=20%E9%9B%86%E5%A5%B9%E6%88%B4%E4%BA%8622%E5%89%AF%E8%80%B3%E7%8E%AF&t=31&band_rank=7&Refer=top)<br />
 8. [官方通报沥心沙大桥事故情况](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E6%83%85%E5%86%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [撒贝宁何炅 元宵晚会同台](https://s.weibo.com/weibo?q=%E6%92%92%E8%B4%9D%E5%AE%81%E4%BD%95%E7%82%85%20%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A%E5%90%8C%E5%8F%B0&t=31&band_rank=9&Refer=top)<br />
+9. [林志玲2岁儿子侧颜](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B22%E5%B2%81%E5%84%BF%E5%AD%90%E4%BE%A7%E9%A2%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
