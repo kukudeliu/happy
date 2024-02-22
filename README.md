@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 12:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 12:57:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [考虫倒闭](https://s.weibo.com/weibo?q=%E8%80%83%E8%99%AB%E5%80%92%E9%97%AD&t=31&band_rank=6&Refer=top)<br />
 7. [17名博硕士研发的方便面里真的有肉](https://s.weibo.com/weibo?q=%2317%E5%90%8D%E5%8D%9A%E7%A1%95%E5%A3%AB%E7%A0%94%E5%8F%91%E7%9A%84%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%87%8C%E7%9C%9F%E7%9A%84%E6%9C%89%E8%82%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [撒贝宁何炅 元宵晚会同台](https://s.weibo.com/weibo?q=%E6%92%92%E8%B4%9D%E5%AE%81%E4%BD%95%E7%82%85%20%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A%E5%90%8C%E5%8F%B0&t=31&band_rank=8&Refer=top)<br />
-9. [杨国福换logo](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%9B%BD%E7%A6%8F%E6%8D%A2logo%23&t=31&band_rank=9&Refer=top)<br />
+9. [20集她戴了22副耳环](https://s.weibo.com/weibo?q=20%E9%9B%86%E5%A5%B9%E6%88%B4%E4%BA%8622%E5%89%AF%E8%80%B3%E7%8E%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
