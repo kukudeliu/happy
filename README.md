@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 11:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-22 11:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [广州南沙沥心沙大桥被船只撞断](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E8%A2%AB%E8%88%B9%E5%8F%AA%E6%92%9E%E6%96%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [撞断沥心沙大桥船主已被控制](https://s.weibo.com/weibo?q=%23%E6%92%9E%E6%96%AD%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E8%88%B9%E4%B8%BB%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [员工抑郁请病假暗中考研还领高薪](https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E6%8A%91%E9%83%81%E8%AF%B7%E7%97%85%E5%81%87%E6%9A%97%E4%B8%AD%E8%80%83%E7%A0%94%E8%BF%98%E9%A2%86%E9%AB%98%E8%96%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [白敬亭进组难哄](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%BF%9B%E7%BB%84%E9%9A%BE%E5%93%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [瑞幸心理价位9块9](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%BF%83%E7%90%86%E4%BB%B7%E4%BD%8D9%E5%9D%979%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
