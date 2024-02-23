@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 19:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 19:39:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [热热闹闹迎元宵节](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E9%97%B9%E9%97%B9%E8%BF%8E%E5%85%83%E5%AE%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央媒评乘务员餐车吃饭被怒怼](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E4%B9%98%E5%8A%A1%E5%91%98%E9%A4%90%E8%BD%A6%E5%90%83%E9%A5%AD%E8%A2%AB%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [富家千金接班7年累计亏损近32亿](https://www.baidu.com/s?wd=%E5%AF%8C%E5%AE%B6%E5%8D%83%E9%87%91%E6%8E%A5%E7%8F%AD7%E5%B9%B4%E7%B4%AF%E8%AE%A1%E4%BA%8F%E6%8D%9F%E8%BF%9132%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王小利回应被断绝父子关系](https://www.baidu.com/s?wd=%E7%8E%8B%E5%B0%8F%E5%88%A9%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%96%AD%E7%BB%9D%E7%88%B6%E5%AD%90%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [断桥幸存者：掉在上一辆车上有缓冲](https://www.baidu.com/s?wd=%E6%96%AD%E6%A1%A5%E5%B9%B8%E5%AD%98%E8%80%85%EF%BC%9A%E6%8E%89%E5%9C%A8%E4%B8%8A%E4%B8%80%E8%BE%86%E8%BD%A6%E4%B8%8A%E6%9C%89%E7%BC%93%E5%86%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [断桥幸存者：掉在上一辆车上有缓冲](https://www.baidu.com/s?wd=%E6%96%AD%E6%A1%A5%E5%B9%B8%E5%AD%98%E8%80%85%EF%BC%9A%E6%8E%89%E5%9C%A8%E4%B8%8A%E4%B8%80%E8%BE%86%E8%BD%A6%E4%B8%8A%E6%9C%89%E7%BC%93%E5%86%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [送妻子的金项链竟被磁铁吸起](https://www.baidu.com/s?wd=%E9%80%81%E5%A6%BB%E5%AD%90%E7%9A%84%E9%87%91%E9%A1%B9%E9%93%BE%E7%AB%9F%E8%A2%AB%E7%A3%81%E9%93%81%E5%90%B8%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣凉山山火致19人牺牲](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%87%89%E5%B1%B1%E5%B1%B1%E7%81%AB%E8%87%B419%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [热热闹闹迎元宵节](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E9%97%B9%E9%97%B9%E8%BF%8E%E5%85%83%E5%AE%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央媒评乘务员餐车吃饭被怒怼](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E4%B9%98%E5%8A%A1%E5%91%98%E9%A4%90%E8%BD%A6%E5%90%83%E9%A5%AD%E8%A2%AB%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [富家千金接班7年累计亏损近32亿](https://www.baidu.com/s?wd=%E5%AF%8C%E5%AE%B6%E5%8D%83%E9%87%91%E6%8E%A5%E7%8F%AD7%E5%B9%B4%E7%B4%AF%E8%AE%A1%E4%BA%8F%E6%8D%9F%E8%BF%9132%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王小利回应被断绝父子关系](https://www.baidu.com/s?wd=%E7%8E%8B%E5%B0%8F%E5%88%A9%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%96%AD%E7%BB%9D%E7%88%B6%E5%AD%90%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [断桥幸存者：掉在上一辆车上有缓冲](https://www.baidu.com/s?wd=%E6%96%AD%E6%A1%A5%E5%B9%B8%E5%AD%98%E8%80%85%EF%BC%9A%E6%8E%89%E5%9C%A8%E4%B8%8A%E4%B8%80%E8%BE%86%E8%BD%A6%E4%B8%8A%E6%9C%89%E7%BC%93%E5%86%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [断桥幸存者：掉在上一辆车上有缓冲](https://www.baidu.com/s?wd=%E6%96%AD%E6%A1%A5%E5%B9%B8%E5%AD%98%E8%80%85%EF%BC%9A%E6%8E%89%E5%9C%A8%E4%B8%8A%E4%B8%80%E8%BE%86%E8%BD%A6%E4%B8%8A%E6%9C%89%E7%BC%93%E5%86%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [送妻子的金项链竟被磁铁吸起](https://www.baidu.com/s?wd=%E9%80%81%E5%A6%BB%E5%AD%90%E7%9A%84%E9%87%91%E9%A1%B9%E9%93%BE%E7%AB%9F%E8%A2%AB%E7%A3%81%E9%93%81%E5%90%B8%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣凉山山火致19人牺牲](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%87%89%E5%B1%B1%E5%B1%B1%E7%81%AB%E8%87%B419%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
