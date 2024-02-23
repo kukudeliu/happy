@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 19:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 19:54:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [热热闹闹迎元宵节](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E9%97%B9%E9%97%B9%E8%BF%8E%E5%85%83%E5%AE%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央媒评乘务员餐车吃饭被怒怼](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E4%B9%98%E5%8A%A1%E5%91%98%E9%A4%90%E8%BD%A6%E5%90%83%E9%A5%AD%E8%A2%AB%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [富家千金接班7年累计亏损近32亿](https://www.baidu.com/s?wd=%E5%AF%8C%E5%AE%B6%E5%8D%83%E9%87%91%E6%8E%A5%E7%8F%AD7%E5%B9%B4%E7%B4%AF%E8%AE%A1%E4%BA%8F%E6%8D%9F%E8%BF%9132%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子自曝20年4次贩卖婴儿](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E6%9B%9D20%E5%B9%B44%E6%AC%A1%E8%B4%A9%E5%8D%96%E5%A9%B4%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [新加坡开刷厕所课](https://www.baidu.com/s?wd=%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%BC%80%E5%88%B7%E5%8E%95%E6%89%80%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [姚安娜现身华为发布会](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E7%8E%B0%E8%BA%AB%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣凉山山火致19人牺牲](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%87%89%E5%B1%B1%E5%B1%B1%E7%81%AB%E8%87%B419%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [热热闹闹迎元宵节](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E9%97%B9%E9%97%B9%E8%BF%8E%E5%85%83%E5%AE%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [央媒评乘务员餐车吃饭被怒怼](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E4%B9%98%E5%8A%A1%E5%91%98%E9%A4%90%E8%BD%A6%E5%90%83%E9%A5%AD%E8%A2%AB%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [富家千金接班7年累计亏损近32亿](https://www.baidu.com/s?wd=%E5%AF%8C%E5%AE%B6%E5%8D%83%E9%87%91%E6%8E%A5%E7%8F%AD7%E5%B9%B4%E7%B4%AF%E8%AE%A1%E4%BA%8F%E6%8D%9F%E8%BF%9132%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子自曝20年4次贩卖婴儿](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%87%AA%E6%9B%9D20%E5%B9%B44%E6%AC%A1%E8%B4%A9%E5%8D%96%E5%A9%B4%E5%84%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [新加坡开刷厕所课](https://www.baidu.com/s?wd=%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%BC%80%E5%88%B7%E5%8E%95%E6%89%80%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [姚安娜现身华为发布会](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E7%8E%B0%E8%BA%AB%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣凉山山火致19人牺牲](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%87%89%E5%B1%B1%E5%B1%B1%E7%81%AB%E8%87%B419%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
