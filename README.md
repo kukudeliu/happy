@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 09:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 09:50:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [闲置太久的鞋子就不要再穿了](https://s.weibo.com/weibo?q=%23%E9%97%B2%E7%BD%AE%E5%A4%AA%E4%B9%85%E7%9A%84%E9%9E%8B%E5%AD%90%E5%B0%B1%E4%B8%8D%E8%A6%81%E5%86%8D%E7%A9%BF%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [学校回应网传老师与学生在教室接吻](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E8%80%81%E5%B8%88%E4%B8%8E%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%95%99%E5%AE%A4%E6%8E%A5%E5%90%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [贵州一天通报6起山火原因](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%B8%80%E5%A4%A9%E9%80%9A%E6%8A%A56%E8%B5%B7%E5%B1%B1%E7%81%AB%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [大侦探 内娱不可复刻的推界春晚](https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A2%20%E5%86%85%E5%A8%B1%E4%B8%8D%E5%8F%AF%E5%A4%8D%E5%88%BB%E7%9A%84%E6%8E%A8%E7%95%8C%E6%98%A5%E6%99%9A&t=31&band_rank=8&Refer=top)<br />
-9. [存款和被爱才是疲意生活中的解药](https://s.weibo.com/weibo?q=%E5%AD%98%E6%AC%BE%E5%92%8C%E8%A2%AB%E7%88%B1%E6%89%8D%E6%98%AF%E7%96%B2%E6%84%8F%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E8%A7%A3%E8%8D%AF&t=31&band_rank=9&Refer=top)<br />
+8. [存款和被爱才是疲意生活中的解药](https://s.weibo.com/weibo?q=%E5%AD%98%E6%AC%BE%E5%92%8C%E8%A2%AB%E7%88%B1%E6%89%8D%E6%98%AF%E7%96%B2%E6%84%8F%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E8%A7%A3%E8%8D%AF&t=31&band_rank=8&Refer=top)<br />
+9. [大侦探 内娱不可复刻的推界春晚](https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A2%20%E5%86%85%E5%A8%B1%E4%B8%8D%E5%8F%AF%E5%A4%8D%E5%88%BB%E7%9A%84%E6%8E%A8%E7%95%8C%E6%98%A5%E6%99%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
