@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 18:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 18:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [新沙洞老虎去世](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%B2%99%E6%B4%9E%E8%80%81%E8%99%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战排面](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%8E%92%E9%9D%A2&t=31&band_rank=7&Refer=top)<br />
 8. [奎八 删照片](https://s.weibo.com/weibo?q=%E5%A5%8E%E5%85%AB%20%E5%88%A0%E7%85%A7%E7%89%87&t=31&band_rank=8&Refer=top)<br />
-9. [医生回应打HPV疫苗3年后患宫颈癌](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E6%89%93HPV%E7%96%AB%E8%8B%973%E5%B9%B4%E5%90%8E%E6%82%A3%E5%AE%AB%E9%A2%88%E7%99%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [被贩卖婴儿被洗白身份落户买主家](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B4%A9%E5%8D%96%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%B4%97%E7%99%BD%E8%BA%AB%E4%BB%BD%E8%90%BD%E6%88%B7%E4%B9%B0%E4%B8%BB%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
