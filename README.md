@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 13:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 13:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [33岁女子洗头后骑车成面瘫](https://s.weibo.com/weibo?q=%2333%E5%B2%81%E5%A5%B3%E5%AD%90%E6%B4%97%E5%A4%B4%E5%90%8E%E9%AA%91%E8%BD%A6%E6%88%90%E9%9D%A2%E7%98%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [我国彩礼最低的省份](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%BD%A9%E7%A4%BC%E6%9C%80%E4%BD%8E%E7%9A%84%E7%9C%81%E4%BB%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [张元英头发被拍卖](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E5%A4%B4%E5%8F%91%E8%A2%AB%E6%8B%8D%E5%8D%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [papi酱MCN公司涉广告违法被罚](https://s.weibo.com/weibo?q=%23papi%E9%85%B1MCN%E5%85%AC%E5%8F%B8%E6%B6%89%E5%B9%BF%E5%91%8A%E8%BF%9D%E6%B3%95%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [为何1点点奶茶不火了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%951%E7%82%B9%E7%82%B9%E5%A5%B6%E8%8C%B6%E4%B8%8D%E7%81%AB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
