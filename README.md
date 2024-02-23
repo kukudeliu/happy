@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 05:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 05:09:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [贾玲发文回应恶评](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E6%81%B6%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [雪天爬长城 爬2米微信步数1万](https://www.baidu.com/s?wd=%E9%9B%AA%E5%A4%A9%E7%88%AC%E9%95%BF%E5%9F%8E+%E7%88%AC2%E7%B1%B3%E5%BE%AE%E4%BF%A1%E6%AD%A5%E6%95%B01%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [贵人鸟公司及其董事长被立案](https://www.baidu.com/s?wd=%E8%B4%B5%E4%BA%BA%E9%B8%9F%E5%85%AC%E5%8F%B8%E5%8F%8A%E5%85%B6%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [20岁小伙患上“桃花癫” 医生提醒](https://www.baidu.com/s?wd=20%E5%B2%81%E5%B0%8F%E4%BC%99%E6%82%A3%E4%B8%8A%E2%80%9C%E6%A1%83%E8%8A%B1%E7%99%AB%E2%80%9D+%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [富家千金接班7年累计亏损近32亿](https://www.baidu.com/s?wd=%E5%AF%8C%E5%AE%B6%E5%8D%83%E9%87%91%E6%8E%A5%E7%8F%AD7%E5%B9%B4%E7%B4%AF%E8%AE%A1%E4%BA%8F%E6%8D%9F%E8%BF%9132%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣凉山山火致19人牺牲](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%87%89%E5%B1%B1%E5%B1%B1%E7%81%AB%E8%87%B419%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [贾玲发文回应恶评](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E6%81%B6%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [雪天爬长城 爬2米微信步数1万](https://www.baidu.com/s?wd=%E9%9B%AA%E5%A4%A9%E7%88%AC%E9%95%BF%E5%9F%8E+%E7%88%AC2%E7%B1%B3%E5%BE%AE%E4%BF%A1%E6%AD%A5%E6%95%B01%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [贵人鸟公司及其董事长被立案](https://www.baidu.com/s?wd=%E8%B4%B5%E4%BA%BA%E9%B8%9F%E5%85%AC%E5%8F%B8%E5%8F%8A%E5%85%B6%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [20岁小伙患上“桃花癫” 医生提醒](https://www.baidu.com/s?wd=20%E5%B2%81%E5%B0%8F%E4%BC%99%E6%82%A3%E4%B8%8A%E2%80%9C%E6%A1%83%E8%8A%B1%E7%99%AB%E2%80%9D+%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [富家千金接班7年累计亏损近32亿](https://www.baidu.com/s?wd=%E5%AF%8C%E5%AE%B6%E5%8D%83%E9%87%91%E6%8E%A5%E7%8F%AD7%E5%B9%B4%E7%B4%AF%E8%AE%A1%E4%BA%8F%E6%8D%9F%E8%BF%9132%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣凉山山火致19人牺牲](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%87%89%E5%B1%B1%E5%B1%B1%E7%81%AB%E8%87%B419%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
