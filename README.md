@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 18:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 18:44:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [热热闹闹迎元宵节](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E9%97%B9%E9%97%B9%E8%BF%8E%E5%85%83%E5%AE%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [花花被遗忘外场 饲养员被解雇](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E8%A2%AB%E9%81%97%E5%BF%98%E5%A4%96%E5%9C%BA+%E9%A5%B2%E5%85%BB%E5%91%98%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王小利回应被断绝父子关系](https://www.baidu.com/s?wd=%E7%8E%8B%E5%B0%8F%E5%88%A9%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%96%AD%E7%BB%9D%E7%88%B6%E5%AD%90%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [送妻子的金项链竟被磁铁吸起](https://www.baidu.com/s?wd=%E9%80%81%E5%A6%BB%E5%AD%90%E7%9A%84%E9%87%91%E9%A1%B9%E9%93%BE%E7%AB%9F%E8%A2%AB%E7%A3%81%E9%93%81%E5%90%B8%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医生回应打HPV疫苗3年后患宫颈癌](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E6%89%93HPV%E7%96%AB%E8%8B%973%E5%B9%B4%E5%90%8E%E6%82%A3%E5%AE%AB%E9%A2%88%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [新加坡开刷厕所课](https://www.baidu.com/s?wd=%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%BC%80%E5%88%B7%E5%8E%95%E6%89%80%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [送妻子的金项链竟被磁铁吸起](https://www.baidu.com/s?wd=%E9%80%81%E5%A6%BB%E5%AD%90%E7%9A%84%E9%87%91%E9%A1%B9%E9%93%BE%E7%AB%9F%E8%A2%AB%E7%A3%81%E9%93%81%E5%90%B8%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣凉山山火致19人牺牲](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%87%89%E5%B1%B1%E5%B1%B1%E7%81%AB%E8%87%B419%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [热热闹闹迎元宵节](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E9%97%B9%E9%97%B9%E8%BF%8E%E5%85%83%E5%AE%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [花花被遗忘外场 饲养员被解雇](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E8%A2%AB%E9%81%97%E5%BF%98%E5%A4%96%E5%9C%BA+%E9%A5%B2%E5%85%BB%E5%91%98%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王小利回应被断绝父子关系](https://www.baidu.com/s?wd=%E7%8E%8B%E5%B0%8F%E5%88%A9%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%96%AD%E7%BB%9D%E7%88%B6%E5%AD%90%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [送妻子的金项链竟被磁铁吸起](https://www.baidu.com/s?wd=%E9%80%81%E5%A6%BB%E5%AD%90%E7%9A%84%E9%87%91%E9%A1%B9%E9%93%BE%E7%AB%9F%E8%A2%AB%E7%A3%81%E9%93%81%E5%90%B8%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医生回应打HPV疫苗3年后患宫颈癌](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E6%89%93HPV%E7%96%AB%E8%8B%973%E5%B9%B4%E5%90%8E%E6%82%A3%E5%AE%AB%E9%A2%88%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [新加坡开刷厕所课](https://www.baidu.com/s?wd=%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%BC%80%E5%88%B7%E5%8E%95%E6%89%80%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [送妻子的金项链竟被磁铁吸起](https://www.baidu.com/s?wd=%E9%80%81%E5%A6%BB%E5%AD%90%E7%9A%84%E9%87%91%E9%A1%B9%E9%93%BE%E7%AB%9F%E8%A2%AB%E7%A3%81%E9%93%81%E5%90%B8%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣凉山山火致19人牺牲](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%87%89%E5%B1%B1%E5%B1%B1%E7%81%AB%E8%87%B419%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
