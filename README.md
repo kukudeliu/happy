@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 11:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 11:10:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平同刚果（布）总统互致贺电](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%88%9A%E6%9E%9C%EF%BC%88%E5%B8%83%EF%BC%89%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [把握共同富裕的深刻内涵](https://www.baidu.com/s?wd=%E6%8A%8A%E6%8F%A1%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%E7%9A%84%E6%B7%B1%E5%88%BB%E5%86%85%E6%B6%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [新冠或是首个X疾病](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E6%88%96%E6%98%AF%E9%A6%96%E4%B8%AAX%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多地判出彩礼新规“第一案”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%88%A4%E5%87%BA%E5%BD%A9%E7%A4%BC%E6%96%B0%E8%A7%84%E2%80%9C%E7%AC%AC%E4%B8%80%E6%A1%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [冰雪之上，青春绽放](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E4%B9%8B%E4%B8%8A%EF%BC%8C%E9%9D%92%E6%98%A5%E7%BB%BD%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平同刚果（布）总统互致贺电](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%88%9A%E6%9E%9C%EF%BC%88%E5%B8%83%EF%BC%89%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [把握共同富裕的深刻内涵](https://www.baidu.com/s?wd=%E6%8A%8A%E6%8F%A1%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%E7%9A%84%E6%B7%B1%E5%88%BB%E5%86%85%E6%B6%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [新冠或是首个X疾病](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E6%88%96%E6%98%AF%E9%A6%96%E4%B8%AAX%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多地判出彩礼新规“第一案”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%88%A4%E5%87%BA%E5%BD%A9%E7%A4%BC%E6%96%B0%E8%A7%84%E2%80%9C%E7%AC%AC%E4%B8%80%E6%A1%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [冰雪之上，青春绽放](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E4%B9%8B%E4%B8%8A%EF%BC%8C%E9%9D%92%E6%98%A5%E7%BB%BD%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
