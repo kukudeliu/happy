@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 09:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 09:33:01</h4></div>
 
 > 微博  
 
-1. [新冠或是首个X疾病](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E6%88%96%E6%98%AF%E9%A6%96%E4%B8%AAX%E7%96%BE%E7%97%85%23&t=31&band_rank=1&Refer=top)<br />
-2. [苏州高架](https://s.weibo.com/weibo?q=%E8%8B%8F%E5%B7%9E%E9%AB%98%E6%9E%B6&t=31&band_rank=2&Refer=top)<br />
+1. [苏州高架](https://s.weibo.com/weibo?q=%E8%8B%8F%E5%B7%9E%E9%AB%98%E6%9E%B6&t=31&band_rank=1&Refer=top)<br />
+2. [新冠或是首个X疾病](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E6%88%96%E6%98%AF%E9%A6%96%E4%B8%AAX%E7%96%BE%E7%97%85%23&t=31&band_rank=2&Refer=top)<br />
 3. [南腔北调见证冰雪运动热力十足](https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%85%94%E5%8C%97%E8%B0%83%E8%A7%81%E8%AF%81%E5%86%B0%E9%9B%AA%E8%BF%90%E5%8A%A8%E7%83%AD%E5%8A%9B%E5%8D%81%E8%B6%B3%23&t=31&band_rank=3&Refer=top)<br />
 4. [闲置太久的鞋子就不要再穿了](https://s.weibo.com/weibo?q=%23%E9%97%B2%E7%BD%AE%E5%A4%AA%E4%B9%85%E7%9A%84%E9%9E%8B%E5%AD%90%E5%B0%B1%E4%B8%8D%E8%A6%81%E5%86%8D%E7%A9%BF%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [学校回应网传老师与学生在教室接吻](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E8%80%81%E5%B8%88%E4%B8%8E%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%95%99%E5%AE%A4%E6%8E%A5%E5%90%BB%23&t=31&band_rank=5&Refer=top)<br />
