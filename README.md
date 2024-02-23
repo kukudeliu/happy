@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 11:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 11:39:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [一张最想炫耀的老家照片](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E6%9C%80%E6%83%B3%E7%82%AB%E8%80%80%E7%9A%84%E8%80%81%E5%AE%B6%E7%85%A7%E7%89%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [夫妻相约赴死妻子身亡丈夫反悔](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%9B%B8%E7%BA%A6%E8%B5%B4%E6%AD%BB%E5%A6%BB%E5%AD%90%E8%BA%AB%E4%BA%A1%E4%B8%88%E5%A4%AB%E5%8F%8D%E6%82%94%23&t=31&band_rank=4&Refer=top)<br />
 5. [我国彩礼最低的省份](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%BD%A9%E7%A4%BC%E6%9C%80%E4%BD%8E%E7%9A%84%E7%9C%81%E4%BB%BD%23&t=31&band_rank=5&Refer=top)<br />
-6. [章若楠 温以凡](https://s.weibo.com/weibo?q=%E7%AB%A0%E8%8B%A5%E6%A5%A0%20%E6%B8%A9%E4%BB%A5%E5%87%A1&t=31&band_rank=6&Refer=top)<br />
-7. [南京火灾](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E7%81%AB%E7%81%BE&t=31&band_rank=7&Refer=top)<br />
+6. [南京火灾](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E7%81%AB%E7%81%BE&t=31&band_rank=6&Refer=top)<br />
+7. [章若楠 温以凡](https://s.weibo.com/weibo?q=%E7%AB%A0%E8%8B%A5%E6%A5%A0%20%E6%B8%A9%E4%BB%A5%E5%87%A1&t=31&band_rank=7&Refer=top)<br />
 8. [苏州交警回应高架百车相撞](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E9%AB%98%E6%9E%B6%E7%99%BE%E8%BD%A6%E7%9B%B8%E6%92%9E%23&t=31&band_rank=8&Refer=top)<br />
 9. [白色橄榄树全阵容官宣](https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%89%B2%E6%A9%84%E6%A6%84%E6%A0%91%E5%85%A8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
