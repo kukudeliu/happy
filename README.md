@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 18:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 18:53:01</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [3月1日起快递不得擅自放驿站](https://www.baidu.com/s?wd=3%E6%9C%881%E6%97%A5%E8%B5%B7%E5%BF%AB%E9%80%92%E4%B8%8D%E5%BE%97%E6%93%85%E8%87%AA%E6%94%BE%E9%A9%BF%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [对话广州断桥事件“倒车拦车”车主](https://www.baidu.com/s?wd=%E5%AF%B9%E8%AF%9D%E5%B9%BF%E5%B7%9E%E6%96%AD%E6%A1%A5%E4%BA%8B%E4%BB%B6%E2%80%9C%E5%80%92%E8%BD%A6%E6%8B%A6%E8%BD%A6%E2%80%9D%E8%BD%A6%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [热热闹闹迎元宵节](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E9%97%B9%E9%97%B9%E8%BF%8E%E5%85%83%E5%AE%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [花花被遗忘外场 饲养员被解雇](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E8%A2%AB%E9%81%97%E5%BF%98%E5%A4%96%E5%9C%BA+%E9%A5%B2%E5%85%BB%E5%91%98%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [央媒评乘务员餐车吃饭被怒怼](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E4%B9%98%E5%8A%A1%E5%91%98%E9%A4%90%E8%BD%A6%E5%90%83%E9%A5%AD%E8%A2%AB%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王小利回应被断绝父子关系](https://www.baidu.com/s?wd=%E7%8E%8B%E5%B0%8F%E5%88%A9%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%96%AD%E7%BB%9D%E7%88%B6%E5%AD%90%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [送妻子的金项链竟被磁铁吸起](https://www.baidu.com/s?wd=%E9%80%81%E5%A6%BB%E5%AD%90%E7%9A%84%E9%87%91%E9%A1%B9%E9%93%BE%E7%AB%9F%E8%A2%AB%E7%A3%81%E9%93%81%E5%90%B8%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [医生回应打HPV疫苗3年后患宫颈癌](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E6%89%93HPV%E7%96%AB%E8%8B%973%E5%B9%B4%E5%90%8E%E6%82%A3%E5%AE%AB%E9%A2%88%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [3月1日起快递不得擅自放驿站](https://www.baidu.com/s?wd=3%E6%9C%881%E6%97%A5%E8%B5%B7%E5%BF%AB%E9%80%92%E4%B8%8D%E5%BE%97%E6%93%85%E8%87%AA%E6%94%BE%E9%A9%BF%E7%AB%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [对话广州断桥事件“倒车拦车”车主](https://www.baidu.com/s?wd=%E5%AF%B9%E8%AF%9D%E5%B9%BF%E5%B7%9E%E6%96%AD%E6%A1%A5%E4%BA%8B%E4%BB%B6%E2%80%9C%E5%80%92%E8%BD%A6%E6%8B%A6%E8%BD%A6%E2%80%9D%E8%BD%A6%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [热热闹闹迎元宵节](https://www.baidu.com/s?wd=%E7%83%AD%E7%83%AD%E9%97%B9%E9%97%B9%E8%BF%8E%E5%85%83%E5%AE%B5%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [花花被遗忘外场 饲养员被解雇](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E8%A2%AB%E9%81%97%E5%BF%98%E5%A4%96%E5%9C%BA+%E9%A5%B2%E5%85%BB%E5%91%98%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [央媒评乘务员餐车吃饭被怒怼](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E4%B9%98%E5%8A%A1%E5%91%98%E9%A4%90%E8%BD%A6%E5%90%83%E9%A5%AD%E8%A2%AB%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王小利回应被断绝父子关系](https://www.baidu.com/s?wd=%E7%8E%8B%E5%B0%8F%E5%88%A9%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%96%AD%E7%BB%9D%E7%88%B6%E5%AD%90%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [送妻子的金项链竟被磁铁吸起](https://www.baidu.com/s?wd=%E9%80%81%E5%A6%BB%E5%AD%90%E7%9A%84%E9%87%91%E9%A1%B9%E9%93%BE%E7%AB%9F%E8%A2%AB%E7%A3%81%E9%93%81%E5%90%B8%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [医生回应打HPV疫苗3年后患宫颈癌](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E6%89%93HPV%E7%96%AB%E8%8B%973%E5%B9%B4%E5%90%8E%E6%82%A3%E5%AE%AB%E9%A2%88%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
