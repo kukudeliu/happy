@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 11:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 11:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [苏州高架多车追尾致9人受伤](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E9%AB%98%E6%9E%B6%E5%A4%9A%E8%BD%A6%E8%BF%BD%E5%B0%BE%E8%87%B49%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [花花被遗忘外场 饲养员被解雇](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E8%A2%AB%E9%81%97%E5%BF%98%E5%A4%96%E5%9C%BA+%E9%A5%B2%E5%85%BB%E5%91%98%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [董事长操纵自家股票交易800亿亏2.4亿](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E6%93%8D%E7%BA%B5%E8%87%AA%E5%AE%B6%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93800%E4%BA%BF%E4%BA%8F2.4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子地铁遇“职业”断手大爷](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%B0%E9%93%81%E9%81%87%E2%80%9C%E8%81%8C%E4%B8%9A%E2%80%9D%E6%96%AD%E6%89%8B%E5%A4%A7%E7%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [夫妻宰杀活鸭被抓伤住进ICU](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%AE%B0%E6%9D%80%E6%B4%BB%E9%B8%AD%E8%A2%AB%E6%8A%93%E4%BC%A4%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣四川一镇打群架死20人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9B%9B%E5%B7%9D%E4%B8%80%E9%95%87%E6%89%93%E7%BE%A4%E6%9E%B6%E6%AD%BB20%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [苏州高架多车追尾致9人受伤](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E9%AB%98%E6%9E%B6%E5%A4%9A%E8%BD%A6%E8%BF%BD%E5%B0%BE%E8%87%B49%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [花花被遗忘外场 饲养员被解雇](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E8%A2%AB%E9%81%97%E5%BF%98%E5%A4%96%E5%9C%BA+%E9%A5%B2%E5%85%BB%E5%91%98%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [董事长操纵自家股票交易800亿亏2.4亿](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E6%93%8D%E7%BA%B5%E8%87%AA%E5%AE%B6%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93800%E4%BA%BF%E4%BA%8F2.4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子地铁遇“职业”断手大爷](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%B0%E9%93%81%E9%81%87%E2%80%9C%E8%81%8C%E4%B8%9A%E2%80%9D%E6%96%AD%E6%89%8B%E5%A4%A7%E7%88%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [夫妻宰杀活鸭被抓伤住进ICU](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%AE%B0%E6%9D%80%E6%B4%BB%E9%B8%AD%E8%A2%AB%E6%8A%93%E4%BC%A4%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣四川一镇打群架死20人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9B%9B%E5%B7%9D%E4%B8%80%E9%95%87%E6%89%93%E7%BE%A4%E6%9E%B6%E6%AD%BB20%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
