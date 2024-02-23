@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 19:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 19:18:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [元宵节为什么叫元宵节](https://s.weibo.com/weibo?q=%23%E5%85%83%E5%AE%B5%E8%8A%82%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E5%85%83%E5%AE%B5%E8%8A%82%23&t=31&band_rank=3&Refer=top)<br />
 4. [28岁网红菲菲公主因癌症去世](https://s.weibo.com/weibo?q=%2328%E5%B2%81%E7%BD%91%E7%BA%A2%E8%8F%B2%E8%8F%B2%E5%85%AC%E4%B8%BB%E5%9B%A0%E7%99%8C%E7%97%87%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [奎八 删照片](https://s.weibo.com/weibo?q=%E5%A5%8E%E5%85%AB%20%E5%88%A0%E7%85%A7%E7%89%87&t=31&band_rank=5&Refer=top)<br />
-6. [柿子汤圆](https://s.weibo.com/weibo?q=%E6%9F%BF%E5%AD%90%E6%B1%A4%E5%9C%86&t=31&band_rank=6&Refer=top)<br />
-7. [每年二月我都会痛哭一场](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%B9%B4%E4%BA%8C%E6%9C%88%E6%88%91%E9%83%BD%E4%BC%9A%E7%97%9B%E5%93%AD%E4%B8%80%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
+6. [每年二月我都会痛哭一场](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%B9%B4%E4%BA%8C%E6%9C%88%E6%88%91%E9%83%BD%E4%BC%9A%E7%97%9B%E5%93%AD%E4%B8%80%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [柿子汤圆](https://s.weibo.com/weibo?q=%E6%9F%BF%E5%AD%90%E6%B1%A4%E5%9C%86&t=31&band_rank=7&Refer=top)<br />
 8. [新沙洞老虎去世](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%B2%99%E6%B4%9E%E8%80%81%E8%99%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
 9. [南京秦淮灯会氛围感满满](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%A7%A6%E6%B7%AE%E7%81%AF%E4%BC%9A%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=9&Refer=top)<br />
 
