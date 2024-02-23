@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 15:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 15:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [jiejie摔倒](https://s.weibo.com/weibo?q=jiejie%E6%91%94%E5%80%92&t=31&band_rank=6&Refer=top)<br />
 7. [宋轶曾有一年多没戏拍](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E6%9B%BE%E6%9C%89%E4%B8%80%E5%B9%B4%E5%A4%9A%E6%B2%A1%E6%88%8F%E6%8B%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [张卫健过60大寿一根白发都没有](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%8D%AB%E5%81%A5%E8%BF%8760%E5%A4%A7%E5%AF%BF%E4%B8%80%E6%A0%B9%E7%99%BD%E5%8F%91%E9%83%BD%E6%B2%A1%E6%9C%89&t=31&band_rank=8&Refer=top)<br />
-9. [王一博 聋哑人测试](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E8%81%8B%E5%93%91%E4%BA%BA%E6%B5%8B%E8%AF%95&t=31&band_rank=9&Refer=top)<br />
+9. [人民日报评热辣滚烫出海](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E5%87%BA%E6%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
