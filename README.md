@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 13:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 13:50:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [苏州高架多车追尾致9人受伤](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E9%AB%98%E6%9E%B6%E5%A4%9A%E8%BD%A6%E8%BF%BD%E5%B0%BE%E8%87%B49%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚安娜演技再被审判](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E6%BC%94%E6%8A%80%E5%86%8D%E8%A2%AB%E5%AE%A1%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被“抬”起来表演的社火长啥样](https://www.baidu.com/s?wd=%E8%A2%AB%E2%80%9C%E6%8A%AC%E2%80%9D%E8%B5%B7%E6%9D%A5%E8%A1%A8%E6%BC%94%E7%9A%84%E7%A4%BE%E7%81%AB%E9%95%BF%E5%95%A5%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被拜登脏话辱骂 普京回应嘲讽拉满](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8B%9C%E7%99%BB%E8%84%8F%E8%AF%9D%E8%BE%B1%E9%AA%82+%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E5%98%B2%E8%AE%BD%E6%8B%89%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [20岁小伙患上“桃花癫” 医生提醒](https://www.baidu.com/s?wd=20%E5%B2%81%E5%B0%8F%E4%BC%99%E6%82%A3%E4%B8%8A%E2%80%9C%E6%A1%83%E8%8A%B1%E7%99%AB%E2%80%9D+%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣四川一镇打群架死20人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9B%9B%E5%B7%9D%E4%B8%80%E9%95%87%E6%89%93%E7%BE%A4%E6%9E%B6%E6%AD%BB20%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [苏州高架多车追尾致9人受伤](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E9%AB%98%E6%9E%B6%E5%A4%9A%E8%BD%A6%E8%BF%BD%E5%B0%BE%E8%87%B49%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚安娜演技再被审判](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E6%BC%94%E6%8A%80%E5%86%8D%E8%A2%AB%E5%AE%A1%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [被“抬”起来表演的社火长啥样](https://www.baidu.com/s?wd=%E8%A2%AB%E2%80%9C%E6%8A%AC%E2%80%9D%E8%B5%B7%E6%9D%A5%E8%A1%A8%E6%BC%94%E7%9A%84%E7%A4%BE%E7%81%AB%E9%95%BF%E5%95%A5%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被拜登脏话辱骂 普京回应嘲讽拉满](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8B%9C%E7%99%BB%E8%84%8F%E8%AF%9D%E8%BE%B1%E9%AA%82+%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E5%98%B2%E8%AE%BD%E6%8B%89%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [20岁小伙患上“桃花癫” 医生提醒](https://www.baidu.com/s?wd=20%E5%B2%81%E5%B0%8F%E4%BC%99%E6%82%A3%E4%B8%8A%E2%80%9C%E6%A1%83%E8%8A%B1%E7%99%AB%E2%80%9D+%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣四川一镇打群架死20人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9B%9B%E5%B7%9D%E4%B8%80%E9%95%87%E6%89%93%E7%BE%A4%E6%9E%B6%E6%AD%BB20%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
