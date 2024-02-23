@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 16:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 16:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [河南卫视元宵晚会有《上春山》](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A%E6%9C%89%E3%80%8A%E4%B8%8A%E6%98%A5%E5%B1%B1%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚安娜现身华为发布会](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E7%8E%B0%E8%BA%AB%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [对话广州断桥事件“倒车拦车”车主](https://www.baidu.com/s?wd=%E5%AF%B9%E8%AF%9D%E5%B9%BF%E5%B7%9E%E6%96%AD%E6%A1%A5%E4%BA%8B%E4%BB%B6%E2%80%9C%E5%80%92%E8%BD%A6%E6%8B%A6%E8%BD%A6%E2%80%9D%E8%BD%A6%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩国超8800名医生集体辞职](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%B6%858800%E5%90%8D%E5%8C%BB%E7%94%9F%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [去年存款定期化现象仍未改观](https://www.baidu.com/s?wd=%E5%8E%BB%E5%B9%B4%E5%AD%98%E6%AC%BE%E5%AE%9A%E6%9C%9F%E5%8C%96%E7%8E%B0%E8%B1%A1%E4%BB%8D%E6%9C%AA%E6%94%B9%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣四川一镇打群架死20人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9B%9B%E5%B7%9D%E4%B8%80%E9%95%87%E6%89%93%E7%BE%A4%E6%9E%B6%E6%AD%BB20%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [河南卫视元宵晚会有《上春山》](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A%E6%9C%89%E3%80%8A%E4%B8%8A%E6%98%A5%E5%B1%B1%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚安娜现身华为发布会](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E7%8E%B0%E8%BA%AB%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [对话广州断桥事件“倒车拦车”车主](https://www.baidu.com/s?wd=%E5%AF%B9%E8%AF%9D%E5%B9%BF%E5%B7%9E%E6%96%AD%E6%A1%A5%E4%BA%8B%E4%BB%B6%E2%80%9C%E5%80%92%E8%BD%A6%E6%8B%A6%E8%BD%A6%E2%80%9D%E8%BD%A6%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩国超8800名医生集体辞职](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%B6%858800%E5%90%8D%E5%8C%BB%E7%94%9F%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [去年存款定期化现象仍未改观](https://www.baidu.com/s?wd=%E5%8E%BB%E5%B9%B4%E5%AD%98%E6%AC%BE%E5%AE%9A%E6%9C%9F%E5%8C%96%E7%8E%B0%E8%B1%A1%E4%BB%8D%E6%9C%AA%E6%94%B9%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣四川一镇打群架死20人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9B%9B%E5%B7%9D%E4%B8%80%E9%95%87%E6%89%93%E7%BE%A4%E6%9E%B6%E6%AD%BB20%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
