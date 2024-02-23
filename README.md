@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 13:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 13:30:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [冰雪之上，青春绽放](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E4%B9%8B%E4%B8%8A%EF%BC%8C%E9%9D%92%E6%98%A5%E7%BB%BD%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [苏州高架多车追尾致9人受伤](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E9%AB%98%E6%9E%B6%E5%A4%9A%E8%BD%A6%E8%BF%BD%E5%B0%BE%E8%87%B49%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚安娜演技再被审判](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E6%BC%94%E6%8A%80%E5%86%8D%E8%A2%AB%E5%AE%A1%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被拜登脏话辱骂 普京回应嘲讽拉满](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8B%9C%E7%99%BB%E8%84%8F%E8%AF%9D%E8%BE%B1%E9%AA%82+%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E5%98%B2%E8%AE%BD%E6%8B%89%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻宰杀活鸭被抓伤住进ICU](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%AE%B0%E6%9D%80%E6%B4%BB%E9%B8%AD%E8%A2%AB%E6%8A%93%E4%BC%A4%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [夫妻宰杀活鸭被抓伤住进ICU](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%AE%B0%E6%9D%80%E6%B4%BB%E9%B8%AD%E8%A2%AB%E6%8A%93%E4%BC%A4%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被拜登脏话辱骂 普京回应嘲讽拉满](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8B%9C%E7%99%BB%E8%84%8F%E8%AF%9D%E8%BE%B1%E9%AA%82+%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E5%98%B2%E8%AE%BD%E6%8B%89%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣四川一镇打群架死20人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9B%9B%E5%B7%9D%E4%B8%80%E9%95%87%E6%89%93%E7%BE%A4%E6%9E%B6%E6%AD%BB20%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [冰雪之上，青春绽放](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E4%B9%8B%E4%B8%8A%EF%BC%8C%E9%9D%92%E6%98%A5%E7%BB%BD%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [苏州高架多车追尾致9人受伤](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E9%AB%98%E6%9E%B6%E5%A4%9A%E8%BD%A6%E8%BF%BD%E5%B0%BE%E8%87%B49%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚安娜演技再被审判](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E6%BC%94%E6%8A%80%E5%86%8D%E8%A2%AB%E5%AE%A1%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被拜登脏话辱骂 普京回应嘲讽拉满](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8B%9C%E7%99%BB%E8%84%8F%E8%AF%9D%E8%BE%B1%E9%AA%82+%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E5%98%B2%E8%AE%BD%E6%8B%89%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [夫妻宰杀活鸭被抓伤住进ICU](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%AE%B0%E6%9D%80%E6%B4%BB%E9%B8%AD%E8%A2%AB%E6%8A%93%E4%BC%A4%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [夫妻宰杀活鸭被抓伤住进ICU](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%AE%B0%E6%9D%80%E6%B4%BB%E9%B8%AD%E8%A2%AB%E6%8A%93%E4%BC%A4%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被拜登脏话辱骂 普京回应嘲讽拉满](https://www.baidu.com/s?wd=%E8%A2%AB%E6%8B%9C%E7%99%BB%E8%84%8F%E8%AF%9D%E8%BE%B1%E9%AA%82+%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E5%98%B2%E8%AE%BD%E6%8B%89%E6%BB%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣四川一镇打群架死20人](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9B%9B%E5%B7%9D%E4%B8%80%E9%95%87%E6%89%93%E7%BE%A4%E6%9E%B6%E6%AD%BB20%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
