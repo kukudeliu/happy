@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 10:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 10:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [闲置太久的鞋子就不要再穿了](https://s.weibo.com/weibo?q=%23%E9%97%B2%E7%BD%AE%E5%A4%AA%E4%B9%85%E7%9A%84%E9%9E%8B%E5%AD%90%E5%B0%B1%E4%B8%8D%E8%A6%81%E5%86%8D%E7%A9%BF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [苏州交警回应高架百车相撞](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E9%AB%98%E6%9E%B6%E7%99%BE%E8%BD%A6%E7%9B%B8%E6%92%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [章若楠 温以凡](https://s.weibo.com/weibo?q=%E7%AB%A0%E8%8B%A5%E6%A5%A0%20%E6%B8%A9%E4%BB%A5%E5%87%A1&t=31&band_rank=8&Refer=top)<br />
-9. [学校回应网传老师与学生在教室接吻](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E8%80%81%E5%B8%88%E4%B8%8E%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%95%99%E5%AE%A4%E6%8E%A5%E5%90%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [花花被遗忘在外场饲养被解雇](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E8%A2%AB%E9%81%97%E5%BF%98%E5%9C%A8%E5%A4%96%E5%9C%BA%E9%A5%B2%E5%85%BB%E8%A2%AB%E8%A7%A3%E9%9B%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
