@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 01:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 01:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [贾玲发文回应恶评](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E6%81%B6%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [雪天爬长城 爬2米微信步数1万](https://www.baidu.com/s?wd=%E9%9B%AA%E5%A4%A9%E7%88%AC%E9%95%BF%E5%9F%8E+%E7%88%AC2%E7%B1%B3%E5%BE%AE%E4%BF%A1%E6%AD%A5%E6%95%B01%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [游乐场设200米高网状游乐项目](https://www.baidu.com/s?wd=%E6%B8%B8%E4%B9%90%E5%9C%BA%E8%AE%BE200%E7%B1%B3%E9%AB%98%E7%BD%91%E7%8A%B6%E6%B8%B8%E4%B9%90%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国起重机威胁美安全？外交部回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B5%B7%E9%87%8D%E6%9C%BA%E5%A8%81%E8%83%81%E7%BE%8E%E5%AE%89%E5%85%A8%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [央媒评乘务员餐车吃饭被怒怼](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E4%B9%98%E5%8A%A1%E5%91%98%E9%A4%90%E8%BD%A6%E5%90%83%E9%A5%AD%E8%A2%AB%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣凉山山火致19人牺牲](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%87%89%E5%B1%B1%E5%B1%B1%E7%81%AB%E8%87%B419%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [贾玲发文回应恶评](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E6%81%B6%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [雪天爬长城 爬2米微信步数1万](https://www.baidu.com/s?wd=%E9%9B%AA%E5%A4%A9%E7%88%AC%E9%95%BF%E5%9F%8E+%E7%88%AC2%E7%B1%B3%E5%BE%AE%E4%BF%A1%E6%AD%A5%E6%95%B01%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [游乐场设200米高网状游乐项目](https://www.baidu.com/s?wd=%E6%B8%B8%E4%B9%90%E5%9C%BA%E8%AE%BE200%E7%B1%B3%E9%AB%98%E7%BD%91%E7%8A%B6%E6%B8%B8%E4%B9%90%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中国起重机威胁美安全？外交部回应](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B5%B7%E9%87%8D%E6%9C%BA%E5%A8%81%E8%83%81%E7%BE%8E%E5%AE%89%E5%85%A8%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [央媒评乘务员餐车吃饭被怒怼](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E4%B9%98%E5%8A%A1%E5%91%98%E9%A4%90%E8%BD%A6%E5%90%83%E9%A5%AD%E8%A2%AB%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣凉山山火致19人牺牲](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%87%89%E5%B1%B1%E5%B1%B1%E7%81%AB%E8%87%B419%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
