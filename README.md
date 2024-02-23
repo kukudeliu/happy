@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 17:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 17:04:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [花花被遗忘外场 饲养员被解雇](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E8%A2%AB%E9%81%97%E5%BF%98%E5%A4%96%E5%9C%BA+%E9%A5%B2%E5%85%BB%E5%91%98%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子毒死丈夫 卖老鼠药老板被判3年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%AF%92%E6%AD%BB%E4%B8%88%E5%A4%AB+%E5%8D%96%E8%80%81%E9%BC%A0%E8%8D%AF%E8%80%81%E6%9D%BF%E8%A2%AB%E5%88%A43%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姚安娜现身华为发布会](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E7%8E%B0%E8%BA%AB%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新冠或是首个X疾病](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E6%88%96%E6%98%AF%E9%A6%96%E4%B8%AAX%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乌克兰喊话逃兵役者回国](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%96%8A%E8%AF%9D%E9%80%83%E5%85%B5%E5%BD%B9%E8%80%85%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣凉山山火致19人牺牲](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%87%89%E5%B1%B1%E5%B1%B1%E7%81%AB%E8%87%B419%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [花花被遗忘外场 饲养员被解雇](https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E8%A2%AB%E9%81%97%E5%BF%98%E5%A4%96%E5%9C%BA+%E9%A5%B2%E5%85%BB%E5%91%98%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子毒死丈夫 卖老鼠药老板被判3年](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%AF%92%E6%AD%BB%E4%B8%88%E5%A4%AB+%E5%8D%96%E8%80%81%E9%BC%A0%E8%8D%AF%E8%80%81%E6%9D%BF%E8%A2%AB%E5%88%A43%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姚安娜现身华为发布会](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E7%8E%B0%E8%BA%AB%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新冠或是首个X疾病](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E6%88%96%E6%98%AF%E9%A6%96%E4%B8%AAX%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乌克兰喊话逃兵役者回国](https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%96%8A%E8%AF%9D%E9%80%83%E5%85%B5%E5%BD%B9%E8%80%85%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣凉山山火致19人牺牲](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%87%89%E5%B1%B1%E5%B1%B1%E7%81%AB%E8%87%B419%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
