@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 14:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 14:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [张卫健过60大寿一根白发都没有](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%AB%E5%81%A5%E8%BF%8760%E5%A4%A7%E5%AF%BF%E4%B8%80%E6%A0%B9%E7%99%BD%E5%8F%91%E9%83%BD%E6%B2%A1%E6%9C%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [花花被遗忘在外场饲养员被解雇](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E8%A2%AB%E9%81%97%E5%BF%98%E5%9C%A8%E5%A4%96%E5%9C%BA%E9%A5%B2%E5%85%BB%E5%91%98%E8%A2%AB%E8%A7%A3%E9%9B%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [猎冰 华为二公主追击小米代言人](https://s.weibo.com/weibo?q=%E7%8C%8E%E5%86%B0%20%E5%8D%8E%E4%B8%BA%E4%BA%8C%E5%85%AC%E4%B8%BB%E8%BF%BD%E5%87%BB%E5%B0%8F%E7%B1%B3%E4%BB%A3%E8%A8%80%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
-8. [我国彩礼最低的省份](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%BD%A9%E7%A4%BC%E6%9C%80%E4%BD%8E%E7%9A%84%E7%9C%81%E4%BB%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [上春山](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%98%A5%E5%B1%B1&t=31&band_rank=9&Refer=top)<br />
+8. [上春山](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%98%A5%E5%B1%B1&t=31&band_rank=8&Refer=top)<br />
+9. [我国彩礼最低的省份](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%BD%A9%E7%A4%BC%E6%9C%80%E4%BD%8E%E7%9A%84%E7%9C%81%E4%BB%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
