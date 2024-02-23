@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 21:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 22:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南北 229](https://s.weibo.com/weibo?q=%E5%8D%97%E5%8C%97%20229&t=31&band_rank=6&Refer=top)<br />
 7. [佛山电翰又开始直播打螺丝了](https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%E5%8F%88%E5%BC%80%E5%A7%8B%E7%9B%B4%E6%92%AD%E6%89%93%E8%9E%BA%E4%B8%9D%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [富家千金接班7年累计亏损近32亿](https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%AE%B6%E5%8D%83%E9%87%91%E6%8E%A5%E7%8F%AD7%E5%B9%B4%E7%B4%AF%E8%AE%A1%E4%BA%8F%E6%8D%9F%E8%BF%9132%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [李子柒公司工商变更](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E5%85%AC%E5%8F%B8%E5%B7%A5%E5%95%86%E5%8F%98%E6%9B%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [Gucci大秀](https://s.weibo.com/weibo?q=Gucci%E5%A4%A7%E7%A7%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
