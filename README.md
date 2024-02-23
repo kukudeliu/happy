@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 11:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 11:09:01</h4></div>
 
 > 微博  
 
@@ -17,24 +17,24 @@
 
 > 百度  
 
-1. [把握共同富裕的深刻内涵](https://www.baidu.com/s?wd=%E6%8A%8A%E6%8F%A1%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%E7%9A%84%E6%B7%B1%E5%88%BB%E5%86%85%E6%B6%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平同刚果（布）总统互致贺电](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%88%9A%E6%9E%9C%EF%BC%88%E5%B8%83%EF%BC%89%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [新冠或是首个X疾病](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E6%88%96%E6%98%AF%E9%A6%96%E4%B8%AAX%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多地判出彩礼新规“第一案”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%88%A4%E5%87%BA%E5%BD%A9%E7%A4%BC%E6%96%B0%E8%A7%84%E2%80%9C%E7%AC%AC%E4%B8%80%E6%A1%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [冰雪之上，青春绽放](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E4%B9%8B%E4%B8%8A%EF%BC%8C%E9%9D%92%E6%98%A5%E7%BB%BD%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [夫妻相约赴死 妻子身亡丈夫反悔](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E7%9B%B8%E7%BA%A6%E8%B5%B4%E6%AD%BB+%E5%A6%BB%E5%AD%90%E8%BA%AB%E4%BA%A1%E4%B8%88%E5%A4%AB%E5%8F%8D%E6%82%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [董事长操纵自家股票交易800亿亏2.4亿](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E6%93%8D%E7%BA%B5%E8%87%AA%E5%AE%B6%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93800%E4%BA%BF%E4%BA%8F2.4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [苏州一高架路面结冰上百辆车相撞](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E4%B8%80%E9%AB%98%E6%9E%B6%E8%B7%AF%E9%9D%A2%E7%BB%93%E5%86%B0%E4%B8%8A%E7%99%BE%E8%BE%86%E8%BD%A6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄乌冲突明天进入第三年](https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E6%98%8E%E5%A4%A9%E8%BF%9B%E5%85%A5%E7%AC%AC%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [俄乌冲突明天进入第三年](https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E6%98%8E%E5%A4%A9%E8%BF%9B%E5%85%A5%E7%AC%AC%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [董事长操纵自家股票交易800亿亏2.4亿](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E6%93%8D%E7%BA%B5%E8%87%AA%E5%AE%B6%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93800%E4%BA%BF%E4%BA%8F2.4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [苏州一高架路面结冰上百辆车相撞](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E4%B8%80%E9%AB%98%E6%9E%B6%E8%B7%AF%E9%9D%A2%E7%BB%93%E5%86%B0%E4%B8%8A%E7%99%BE%E8%BE%86%E8%BD%A6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州公租房可以买卖了？](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E5%85%AC%E7%A7%9F%E6%88%BF%E5%8F%AF%E4%BB%A5%E4%B9%B0%E5%8D%96%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
-1. [把握共同富裕的深刻内涵](https://www.baidu.com/s?wd=%E6%8A%8A%E6%8F%A1%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%E7%9A%84%E6%B7%B1%E5%88%BB%E5%86%85%E6%B6%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平同刚果（布）总统互致贺电](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%88%9A%E6%9E%9C%EF%BC%88%E5%B8%83%EF%BC%89%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [新冠或是首个X疾病](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E6%88%96%E6%98%AF%E9%A6%96%E4%B8%AAX%E7%96%BE%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [多地判出彩礼新规“第一案”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%88%A4%E5%87%BA%E5%BD%A9%E7%A4%BC%E6%96%B0%E8%A7%84%E2%80%9C%E7%AC%AC%E4%B8%80%E6%A1%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [冰雪之上，青春绽放](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E4%B9%8B%E4%B8%8A%EF%BC%8C%E9%9D%92%E6%98%A5%E7%BB%BD%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [夫妻相约赴死 妻子身亡丈夫反悔](https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E7%9B%B8%E7%BA%A6%E8%B5%B4%E6%AD%BB+%E5%A6%BB%E5%AD%90%E8%BA%AB%E4%BA%A1%E4%B8%88%E5%A4%AB%E5%8F%8D%E6%82%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [董事长操纵自家股票交易800亿亏2.4亿](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E6%93%8D%E7%BA%B5%E8%87%AA%E5%AE%B6%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93800%E4%BA%BF%E4%BA%8F2.4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [苏州一高架路面结冰上百辆车相撞](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E4%B8%80%E9%AB%98%E6%9E%B6%E8%B7%AF%E9%9D%A2%E7%BB%93%E5%86%B0%E4%B8%8A%E7%99%BE%E8%BE%86%E8%BD%A6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄乌冲突明天进入第三年](https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E6%98%8E%E5%A4%A9%E8%BF%9B%E5%85%A5%E7%AC%AC%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [俄乌冲突明天进入第三年](https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E6%98%8E%E5%A4%A9%E8%BF%9B%E5%85%A5%E7%AC%AC%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [董事长操纵自家股票交易800亿亏2.4亿](https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E6%93%8D%E7%BA%B5%E8%87%AA%E5%AE%B6%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93800%E4%BA%BF%E4%BA%8F2.4%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [苏州一高架路面结冰上百辆车相撞](https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E4%B8%80%E9%AB%98%E6%9E%B6%E8%B7%AF%E9%9D%A2%E7%BB%93%E5%86%B0%E4%B8%8A%E7%99%BE%E8%BE%86%E8%BD%A6%E7%9B%B8%E6%92%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州公租房可以买卖了？](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E5%85%AC%E7%A7%9F%E6%88%BF%E5%8F%AF%E4%BB%A5%E4%B9%B0%E5%8D%96%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
