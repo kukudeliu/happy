@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 08:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 08:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [魏晨 我招谁惹谁了](https://s.weibo.com/weibo?q=%E9%AD%8F%E6%99%A8%20%E6%88%91%E6%8B%9B%E8%B0%81%E6%83%B9%E8%B0%81%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [身体出现这5个迹象说明你累过头了](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E5%87%BA%E7%8E%B0%E8%BF%995%E4%B8%AA%E8%BF%B9%E8%B1%A1%E8%AF%B4%E6%98%8E%E4%BD%A0%E7%B4%AF%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [上海地铁5号线9号线触网挂冰故障](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%815%E5%8F%B7%E7%BA%BF9%E5%8F%B7%E7%BA%BF%E8%A7%A6%E7%BD%91%E6%8C%82%E5%86%B0%E6%95%85%E9%9A%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [上海地铁](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81&t=31&band_rank=8&Refer=top)<br />
-9. [一旦出现这个姿势要立即就医](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%97%A6%E5%87%BA%E7%8E%B0%E8%BF%99%E4%B8%AA%E5%A7%BF%E5%8A%BF%E8%A6%81%E7%AB%8B%E5%8D%B3%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [一旦出现这个姿势要立即就医](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%97%A6%E5%87%BA%E7%8E%B0%E8%BF%99%E4%B8%AA%E5%A7%BF%E5%8A%BF%E8%A6%81%E7%AB%8B%E5%8D%B3%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [上海地铁](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
