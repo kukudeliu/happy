@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 22:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 22:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [汪东城回应吴尊](https://s.weibo.com/weibo?q=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E5%9B%9E%E5%BA%94%E5%90%B4%E5%B0%8A&t=31&band_rank=6&Refer=top)<br />
 7. [肖战第二套看秀造型](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%AC%AC%E4%BA%8C%E5%A5%97%E7%9C%8B%E7%A7%80%E9%80%A0%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [富家千金接班7年累计亏损近32亿](https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%AE%B6%E5%8D%83%E9%87%91%E6%8E%A5%E7%8F%AD7%E5%B9%B4%E7%B4%AF%E8%AE%A1%E4%BA%8F%E6%8D%9F%E8%BF%9132%E4%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [佛山电翰又开始直播打螺丝了](https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%E5%8F%88%E5%BC%80%E5%A7%8B%E7%9B%B4%E6%92%AD%E6%89%93%E8%9E%BA%E4%B8%9D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [KPL](https://s.weibo.com/weibo?q=KPL&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
