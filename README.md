@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 16:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 16:52:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肖战看秀look](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9C%8B%E7%A7%80look%23&t=31&band_rank=6&Refer=top)<br />
 7. [人民日报评热辣滚烫出海](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E5%87%BA%E6%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [侯雯元到底给钟楚曦拍了多少美照](https://s.weibo.com/weibo?q=%23%E4%BE%AF%E9%9B%AF%E5%85%83%E5%88%B0%E5%BA%95%E7%BB%99%E9%92%9F%E6%A5%9A%E6%9B%A6%E6%8B%8D%E4%BA%86%E5%A4%9A%E5%B0%91%E7%BE%8E%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑爽被冻结百万股权](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%88%BD%E8%A2%AB%E5%86%BB%E7%BB%93%E7%99%BE%E4%B8%87%E8%82%A1%E6%9D%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [被贩卖婴儿被洗白身份落户买主家](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B4%A9%E5%8D%96%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%B4%97%E7%99%BD%E8%BA%AB%E4%BB%BD%E8%90%BD%E6%88%B7%E4%B9%B0%E4%B8%BB%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
