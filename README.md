@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 21:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-23 21:29:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [南北 229](https://s.weibo.com/weibo?q=%E5%8D%97%E5%8C%97%20229&t=31&band_rank=5&Refer=top)<br />
 6. [富家千金接班7年累计亏损近32亿](https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%AE%B6%E5%8D%83%E9%87%91%E6%8E%A5%E7%8F%AD7%E5%B9%B4%E7%B4%AF%E8%AE%A1%E4%BA%8F%E6%8D%9F%E8%BF%9132%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [希望所有爱豆都来学习](https://s.weibo.com/weibo?q=%E5%B8%8C%E6%9C%9B%E6%89%80%E6%9C%89%E7%88%B1%E8%B1%86%E9%83%BD%E6%9D%A5%E5%AD%A6%E4%B9%A0&t=31&band_rank=7&Refer=top)<br />
-8. [汪新马燕结婚了](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E6%96%B0%E9%A9%AC%E7%87%95%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [郭品超顶上好了](https://s.weibo.com/weibo?q=%E9%83%AD%E5%93%81%E8%B6%85%E9%A1%B6%E4%B8%8A%E5%A5%BD%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [张继科已经与安踏解约](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%B7%B2%E7%BB%8F%E4%B8%8E%E5%AE%89%E8%B8%8F%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
