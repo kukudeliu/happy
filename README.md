@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 03:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 03:39:01</h4></div>
 
 > 微博  
 
@@ -24,8 +24,8 @@
 5. [王楚钦赛后称庆幸我们还活着](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%B5%9B%E5%90%8E%E7%A7%B0%E5%BA%86%E5%B9%B8%E6%88%91%E4%BB%AC%E8%BF%98%E6%B4%BB%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [越来越多二手房业主开始自己卖房](https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%8C%E6%89%8B%E6%88%BF%E4%B8%9A%E4%B8%BB%E5%BC%80%E5%A7%8B%E8%87%AA%E5%B7%B1%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国科学家获国际血液病学奖项](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%8E%B7%E5%9B%BD%E9%99%85%E8%A1%80%E6%B6%B2%E7%97%85%E5%AD%A6%E5%A5%96%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中学生发现微信“抢最大红包”秘诀](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B0%E5%BE%AE%E4%BF%A1%E2%80%9C%E6%8A%A2%E6%9C%80%E5%A4%A7%E7%BA%A2%E5%8C%85%E2%80%9D%E7%A7%98%E8%AF%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网红墨江小宗哥去世 妻子发讣告](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%A2%A8%E6%B1%9F%E5%B0%8F%E5%AE%97%E5%93%A5%E5%8E%BB%E4%B8%96+%E5%A6%BB%E5%AD%90%E5%8F%91%E8%AE%A3%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家回应“惩罚不生孩子的人”言论](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E2%80%9C%E6%83%A9%E7%BD%9A%E4%B8%8D%E7%94%9F%E5%AD%A9%E5%AD%90%E7%9A%84%E4%BA%BA%E2%80%9D%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [年轻人不再轻易为“国潮”买单](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E5%86%8D%E8%BD%BB%E6%98%93%E4%B8%BA%E2%80%9C%E5%9B%BD%E6%BD%AE%E2%80%9D%E4%B9%B0%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -36,5 +36,5 @@
 5. [王楚钦赛后称庆幸我们还活着](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%B5%9B%E5%90%8E%E7%A7%B0%E5%BA%86%E5%B9%B8%E6%88%91%E4%BB%AC%E8%BF%98%E6%B4%BB%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [越来越多二手房业主开始自己卖房](https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%8C%E6%89%8B%E6%88%BF%E4%B8%9A%E4%B8%BB%E5%BC%80%E5%A7%8B%E8%87%AA%E5%B7%B1%E5%8D%96%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国科学家获国际血液病学奖项](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%8E%B7%E5%9B%BD%E9%99%85%E8%A1%80%E6%B6%B2%E7%97%85%E5%AD%A6%E5%A5%96%E9%A1%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中学生发现微信“抢最大红包”秘诀](https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B0%E5%BE%AE%E4%BF%A1%E2%80%9C%E6%8A%A2%E6%9C%80%E5%A4%A7%E7%BA%A2%E5%8C%85%E2%80%9D%E7%A7%98%E8%AF%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网红墨江小宗哥去世 妻子发讣告](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%A2%A8%E6%B1%9F%E5%B0%8F%E5%AE%97%E5%93%A5%E5%8E%BB%E4%B8%96+%E5%A6%BB%E5%AD%90%E5%8F%91%E8%AE%A3%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家回应“惩罚不生孩子的人”言论](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E2%80%9C%E6%83%A9%E7%BD%9A%E4%B8%8D%E7%94%9F%E5%AD%A9%E5%AD%90%E7%9A%84%E4%BA%BA%E2%80%9D%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [年轻人不再轻易为“国潮”买单](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E5%86%8D%E8%BD%BB%E6%98%93%E4%B8%BA%E2%80%9C%E5%9B%BD%E6%BD%AE%E2%80%9D%E4%B9%B0%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
