@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 10:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肖战ins](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98ins&t=31&band_rank=6&Refer=top)<br />
 7. [VOGUE主编章凝离职](https://s.weibo.com/weibo?q=%23VOGUE%E4%B8%BB%E7%BC%96%E7%AB%A0%E5%87%9D%E7%A6%BB%E8%81%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [元宵节快乐](https://s.weibo.com/weibo?q=%23%E5%85%83%E5%AE%B5%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [南京市长道歉](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%B8%82%E9%95%BF%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [主人捡鸡蛋发现鸡被雪埋3天还活着](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E6%8D%A1%E9%B8%A1%E8%9B%8B%E5%8F%91%E7%8E%B0%E9%B8%A1%E8%A2%AB%E9%9B%AA%E5%9F%8B3%E5%A4%A9%E8%BF%98%E6%B4%BB%E7%9D%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
