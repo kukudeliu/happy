@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 10:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 10:01:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [南京市长道歉](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%B8%82%E9%95%BF%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [空间站里都有哪些科学装置](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E9%97%B4%E7%AB%99%E9%87%8C%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E7%A7%91%E5%AD%A6%E8%A3%85%E7%BD%AE%23&t=31&band_rank=3&Refer=top)<br />
 4. [秦岚染发](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E6%9F%93%E5%8F%91&t=31&band_rank=4&Refer=top)<br />
-5. [韩国超万名医学生申请休学](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B6%85%E4%B8%87%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%94%B3%E8%AF%B7%E4%BC%91%E5%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [肖战ins](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98ins&t=31&band_rank=6&Refer=top)<br />
+5. [肖战ins](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98ins&t=31&band_rank=5&Refer=top)<br />
+6. [韩国超万名医学生申请休学](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B6%85%E4%B8%87%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%94%B3%E8%AF%B7%E4%BC%91%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [元宵节快乐](https://s.weibo.com/weibo?q=%23%E5%85%83%E5%AE%B5%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [3月1日起快递不得擅自放驿站](https://s.weibo.com/weibo?q=%233%E6%9C%881%E6%97%A5%E8%B5%B7%E5%BF%AB%E9%80%92%E4%B8%8D%E5%BE%97%E6%93%85%E8%87%AA%E6%94%BE%E9%A9%BF%E7%AB%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [香港自由行率先开放西安青岛](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%87%AA%E7%94%B1%E8%A1%8C%E7%8E%87%E5%85%88%E5%BC%80%E6%94%BE%E8%A5%BF%E5%AE%89%E9%9D%92%E5%B2%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [VOGUE主编章凝离职](https://s.weibo.com/weibo?q=%23VOGUE%E4%B8%BB%E7%BC%96%E7%AB%A0%E5%87%9D%E7%A6%BB%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
