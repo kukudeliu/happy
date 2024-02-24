@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 13:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 13:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [肖战ins](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98ins&t=31&band_rank=5&Refer=top)<br />
 6. [王楚钦vs张禹珍](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BC%A0%E7%A6%B9%E7%8F%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [业主开始自己卖房了](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E5%BC%80%E5%A7%8B%E8%87%AA%E5%B7%B1%E5%8D%96%E6%88%BF%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [起火小区30楼孕妇和老公打湿枕套逃生](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%81%AB%E5%B0%8F%E5%8C%BA30%E6%A5%BC%E5%AD%95%E5%A6%87%E5%92%8C%E8%80%81%E5%85%AC%E6%89%93%E6%B9%BF%E6%9E%95%E5%A5%97%E9%80%83%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴Wonderland封面预告](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4Wonderland%E5%B0%81%E9%9D%A2%E9%A2%84%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
+8. [迪丽热巴Wonderland封面预告](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4Wonderland%E5%B0%81%E9%9D%A2%E9%A2%84%E5%91%8A%23&t=31&band_rank=8&Refer=top)<br />
+9. [起火小区30楼孕妇和老公打湿枕套逃生](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%81%AB%E5%B0%8F%E5%8C%BA30%E6%A5%BC%E5%AD%95%E5%A6%87%E5%92%8C%E8%80%81%E5%85%AC%E6%89%93%E6%B9%BF%E6%9E%95%E5%A5%97%E9%80%83%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
