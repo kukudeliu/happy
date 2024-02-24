@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 10:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 10:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [秦岚染发](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E6%9F%93%E5%8F%91&t=31&band_rank=6&Refer=top)<br />
 7. [肖战ins](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98ins&t=31&band_rank=7&Refer=top)<br />
 8. [元宵节快乐](https://s.weibo.com/weibo?q=%23%E5%85%83%E5%AE%B5%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国超万名医学生申请休学](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B6%85%E4%B8%87%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%94%B3%E8%AF%B7%E4%BC%91%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [VOGUE主编章凝离职](https://s.weibo.com/weibo?q=%23VOGUE%E4%B8%BB%E7%BC%96%E7%AB%A0%E5%87%9D%E7%A6%BB%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
