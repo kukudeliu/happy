@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 20:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 20:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [元宵节](https://s.weibo.com/weibo?q=%E5%85%83%E5%AE%B5%E8%8A%82&t=31&band_rank=5&Refer=top)<br />
 6. [央视元宵晚会](https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
 7. [湖南卫视相声 尴尬](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E7%9B%B8%E5%A3%B0%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=7&Refer=top)<br />
-8. [papi酱 这个年真的过完了](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E8%BF%99%E4%B8%AA%E5%B9%B4%E7%9C%9F%E7%9A%84%E8%BF%87%E5%AE%8C%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [尼格买提对上了](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%AF%B9%E4%B8%8A%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+8. [尼格买提对上了](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%AF%B9%E4%B8%8A%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [papi酱 这个年真的过完了](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E8%BF%99%E4%B8%AA%E5%B9%B4%E7%9C%9F%E7%9A%84%E8%BF%87%E5%AE%8C%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
