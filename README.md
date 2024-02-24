@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 12:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 12:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南京一小区火灾15人遇难44人受伤](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%81%AB%E7%81%BE15%E4%BA%BA%E9%81%87%E9%9A%BE44%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [业主开始自己卖房了](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E5%BC%80%E5%A7%8B%E8%87%AA%E5%B7%B1%E5%8D%96%E6%88%BF%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [14岁的施暴者与被伤害者](https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%9A%84%E6%96%BD%E6%9A%B4%E8%80%85%E4%B8%8E%E8%A2%AB%E4%BC%A4%E5%AE%B3%E8%80%85%23&t=31&band_rank=8&Refer=top)<br />
-9. [王楚然古装提灯](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%8F%A4%E8%A3%85%E6%8F%90%E7%81%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [榴莲汤圆](https://s.weibo.com/weibo?q=%23%E6%A6%B4%E8%8E%B2%E6%B1%A4%E5%9C%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
