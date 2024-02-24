@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 20:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 20:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [元宵节](https://s.weibo.com/weibo?q=%E5%85%83%E5%AE%B5%E8%8A%82&t=31&band_rank=6&Refer=top)<br />
 7. [合肥地震](https://s.weibo.com/weibo?q=%E5%90%88%E8%82%A5%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
 8. [孙颖莎 张本美和](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C&t=31&band_rank=8&Refer=top)<br />
-9. [元宵晚会节目单](https://s.weibo.com/weibo?q=%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=9&Refer=top)<br />
+9. [陈梦 早田希娜](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6%20%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
