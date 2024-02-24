@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 22:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 22:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中学生发现微信抢最大红包秘诀](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B0%E5%BE%AE%E4%BF%A1%E6%8A%A2%E6%9C%80%E5%A4%A7%E7%BA%A2%E5%8C%85%E7%A7%98%E8%AF%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈梦1比3早田希娜](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A61%E6%AF%943%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [沙溢唱戏](https://s.weibo.com/weibo?q=%E6%B2%99%E6%BA%A2%E5%94%B1%E6%88%8F&t=31&band_rank=8&Refer=top)<br />
-9. [女团决赛](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%9B%A2%E5%86%B3%E8%B5%9B&t=31&band_rank=9&Refer=top)<br />
+9. [黄旭熙以前是因为太孤单了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%AD%E7%86%99%E4%BB%A5%E5%89%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%A4%AA%E5%AD%A4%E5%8D%95%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
