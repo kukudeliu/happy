@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 09:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 09:39:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [父子赌气吃碳酸钡粉儿子身亡](https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%AD%90%E8%B5%8C%E6%B0%94%E5%90%83%E7%A2%B3%E9%85%B8%E9%92%A1%E7%B2%89%E5%84%BF%E5%AD%90%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [秦岚染发](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E6%9F%93%E5%8F%91&t=31&band_rank=5&Refer=top)<br />
 6. [3月1日起快递不得擅自放驿站](https://s.weibo.com/weibo?q=%233%E6%9C%881%E6%97%A5%E8%B5%B7%E5%BF%AB%E9%80%92%E4%B8%8D%E5%BE%97%E6%93%85%E8%87%AA%E6%94%BE%E9%A9%BF%E7%AB%99%23&t=31&band_rank=6&Refer=top)<br />
-7. [元宵节快乐](https://s.weibo.com/weibo?q=%23%E5%85%83%E5%AE%B5%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [韩国超万名医学生申请休学](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B6%85%E4%B8%87%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%94%B3%E8%AF%B7%E4%BC%91%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
+7. [韩国超万名医学生申请休学](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B6%85%E4%B8%87%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%94%B3%E8%AF%B7%E4%BC%91%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
+8. [元宵节快乐](https://s.weibo.com/weibo?q=%23%E5%85%83%E5%AE%B5%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=8&Refer=top)<br />
 9. [南京火灾小区曾因电动车停放引发投诉](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%81%AB%E7%81%BE%E5%B0%8F%E5%8C%BA%E6%9B%BE%E5%9B%A0%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%81%9C%E6%94%BE%E5%BC%95%E5%8F%91%E6%8A%95%E8%AF%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
