@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 21:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 22:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [沙溢唱戏](https://s.weibo.com/weibo?q=%E6%B2%99%E6%BA%A2%E5%94%B1%E6%88%8F&t=31&band_rank=5&Refer=top)<br />
 6. [黄旭熙以前是因为太孤单了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%AD%E7%86%99%E4%BB%A5%E5%89%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%A4%AA%E5%AD%A4%E5%8D%95%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [女团决赛](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%9B%A2%E5%86%B3%E8%B5%9B&t=31&band_rank=7&Refer=top)<br />
-8. [尼格买提对上了](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%AF%B9%E4%B8%8A%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [马琳](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%90%B3&t=31&band_rank=9&Refer=top)<br />
+8. [马琳](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%90%B3&t=31&band_rank=8&Refer=top)<br />
+9. [尼格买提对上了](https://s.weibo.com/weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%AF%B9%E4%B8%8A%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
