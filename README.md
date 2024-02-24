@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 21:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 21:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄旭熙以前是因为太孤单了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%AD%E7%86%99%E4%BB%A5%E5%89%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%A4%AA%E5%AD%A4%E5%8D%95%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈梦1比3早田希娜](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A61%E6%AF%943%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [元宵节](https://s.weibo.com/weibo?q=%E5%85%83%E5%AE%B5%E8%8A%82&t=31&band_rank=8&Refer=top)<br />
-9. [陈梦 早田希娜](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6%20%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C&t=31&band_rank=9&Refer=top)<br />
+9. [王艺迪vs平野美宇](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%BA%E8%BF%AAvs%E5%B9%B3%E9%87%8E%E7%BE%8E%E5%AE%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
