@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 10:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 10:30:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [专家：一二线城市房价大概率要涨](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%80%E4%BA%8C%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E5%A4%A7%E6%A6%82%E7%8E%87%E8%A6%81%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [今年元宵满月有“三巧”](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%85%83%E5%AE%B5%E6%BB%A1%E6%9C%88%E6%9C%89%E2%80%9C%E4%B8%89%E5%B7%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南京小区火灾致15死44伤 原因查明](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%B0%8F%E5%8C%BA%E7%81%AB%E7%81%BE%E8%87%B415%E6%AD%BB44%E4%BC%A4+%E5%8E%9F%E5%9B%A0%E6%9F%A5%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌总统：我支持率最高 眼下不能选举](https://www.baidu.com/s?wd=%E4%B9%8C%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%88%91%E6%94%AF%E6%8C%81%E7%8E%87%E6%9C%80%E9%AB%98+%E7%9C%BC%E4%B8%8B%E4%B8%8D%E8%83%BD%E9%80%89%E4%B8%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国超万名医学生申请休学](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%B6%85%E4%B8%87%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%94%B3%E8%AF%B7%E4%BC%91%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [李铁一审被判无期是谣言](https://www.baidu.com/s?wd=%E6%9D%8E%E9%93%81%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%E6%98%AF%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [专家：一二线城市房价大概率要涨](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%80%E4%BA%8C%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E5%A4%A7%E6%A6%82%E7%8E%87%E8%A6%81%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [今年元宵满月有“三巧”](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%85%83%E5%AE%B5%E6%BB%A1%E6%9C%88%E6%9C%89%E2%80%9C%E4%B8%89%E5%B7%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [南京小区火灾致15死44伤 原因查明](https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E5%B0%8F%E5%8C%BA%E7%81%AB%E7%81%BE%E8%87%B415%E6%AD%BB44%E4%BC%A4+%E5%8E%9F%E5%9B%A0%E6%9F%A5%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌总统：我支持率最高 眼下不能选举](https://www.baidu.com/s?wd=%E4%B9%8C%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%88%91%E6%94%AF%E6%8C%81%E7%8E%87%E6%9C%80%E9%AB%98+%E7%9C%BC%E4%B8%8B%E4%B8%8D%E8%83%BD%E9%80%89%E4%B8%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国超万名医学生申请休学](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%B6%85%E4%B8%87%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%94%B3%E8%AF%B7%E4%BC%91%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [李铁一审被判无期是谣言](https://www.baidu.com/s?wd=%E6%9D%8E%E9%93%81%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%E6%98%AF%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
