@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 14:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 14:05:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [南京火灾中有一家4人遇难小孩仅4岁](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%81%AB%E7%81%BE%E4%B8%AD%E6%9C%89%E4%B8%80%E5%AE%B64%E4%BA%BA%E9%81%87%E9%9A%BE%E5%B0%8F%E5%AD%A9%E4%BB%854%E5%B2%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [马龙vs李尚洙](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99vs%E6%9D%8E%E5%B0%9A%E6%B4%99%23&t=31&band_rank=5&Refer=top)<br />
 6. [苏醒把老婆拉黑了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E6%8A%8A%E8%80%81%E5%A9%86%E6%8B%89%E9%BB%91%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [王楚钦1比3张禹珍](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A61%E6%AF%943%E5%BC%A0%E7%A6%B9%E7%8F%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [中公教育4千万元退费缺口急坏学员](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B24%E5%8D%83%E4%B8%87%E5%85%83%E9%80%80%E8%B4%B9%E7%BC%BA%E5%8F%A3%E6%80%A5%E5%9D%8F%E5%AD%A6%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
+7. [中公教育4千万元退费缺口急坏学员](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B24%E5%8D%83%E4%B8%87%E5%85%83%E9%80%80%E8%B4%B9%E7%BC%BA%E5%8F%A3%E6%80%A5%E5%9D%8F%E5%AD%A6%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
+8. [王楚钦1比3张禹珍](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A61%E6%AF%943%E5%BC%A0%E7%A6%B9%E7%8F%8D%23&t=31&band_rank=8&Refer=top)<br />
 9. [肖战ins](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98ins&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
