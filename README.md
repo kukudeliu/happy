@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 09:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 09:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国超万名医学生申请休学](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B6%85%E4%B8%87%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%94%B3%E8%AF%B7%E4%BC%91%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [3月1日起快递不得擅自放驿站](https://s.weibo.com/weibo?q=%233%E6%9C%881%E6%97%A5%E8%B5%B7%E5%BF%AB%E9%80%92%E4%B8%8D%E5%BE%97%E6%93%85%E8%87%AA%E6%94%BE%E9%A9%BF%E7%AB%99%23&t=31&band_rank=7&Refer=top)<br />
 8. [元宵节快乐](https://s.weibo.com/weibo?q=%23%E5%85%83%E5%AE%B5%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战文淇身高差](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%96%87%E6%B7%87%E8%BA%AB%E9%AB%98%E5%B7%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [肖战ins](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98ins&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
