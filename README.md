@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 20:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 20:53:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [元宵节](https://s.weibo.com/weibo?q=%E5%85%83%E5%AE%B5%E8%8A%82&t=31&band_rank=6&Refer=top)<br />
 7. [中学生发现微信抢最大红包秘诀](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B0%E5%BE%AE%E4%BF%A1%E6%8A%A2%E6%9C%80%E5%A4%A7%E7%BA%A2%E5%8C%85%E7%A7%98%E8%AF%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [央视元宵晚会](https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
-9. [papi酱 这个年真的过完了](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E8%BF%99%E4%B8%AA%E5%B9%B4%E7%9C%9F%E7%9A%84%E8%BF%87%E5%AE%8C%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [黄旭熙以前是因为太孤单了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%AD%E7%86%99%E4%BB%A5%E5%89%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%A4%AA%E5%AD%A4%E5%8D%95%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
