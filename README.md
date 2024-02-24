@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 13:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 13:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [马龙vs李尚洙](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99vs%E6%9D%8E%E5%B0%9A%E6%B4%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [何炅撒贝宁元宵晚会坐一桌](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E6%92%92%E8%B4%9D%E5%AE%81%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A%E5%9D%90%E4%B8%80%E6%A1%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [中公教育4千万元退费缺口急坏学员](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B24%E5%8D%83%E4%B8%87%E5%85%83%E9%80%80%E8%B4%B9%E7%BC%BA%E5%8F%A3%E6%80%A5%E5%9D%8F%E5%AD%A6%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战ins](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98ins&t=31&band_rank=9&Refer=top)<br />
+9. [樊振东3比0战胜林钟勋](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%940%E6%88%98%E8%83%9C%E6%9E%97%E9%92%9F%E5%8B%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
