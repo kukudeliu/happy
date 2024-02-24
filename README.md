@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 13:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 13:28:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [王楚钦1比3张禹珍](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A61%E6%AF%943%E5%BC%A0%E7%A6%B9%E7%8F%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [肖战ins](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98ins&t=31&band_rank=6&Refer=top)<br />
 7. [业主开始自己卖房了](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E5%BC%80%E5%A7%8B%E8%87%AA%E5%B7%B1%E5%8D%96%E6%88%BF%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴Wonderland封面预告](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4Wonderland%E5%B0%81%E9%9D%A2%E9%A2%84%E5%91%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [载12人山东籍渔船在东海沉没](https://s.weibo.com/weibo?q=%23%E8%BD%BD12%E4%BA%BA%E5%B1%B1%E4%B8%9C%E7%B1%8D%E6%B8%94%E8%88%B9%E5%9C%A8%E4%B8%9C%E6%B5%B7%E6%B2%89%E6%B2%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [载12人山东籍渔船在东海沉没](https://s.weibo.com/weibo?q=%23%E8%BD%BD12%E4%BA%BA%E5%B1%B1%E4%B8%9C%E7%B1%8D%E6%B8%94%E8%88%B9%E5%9C%A8%E4%B8%9C%E6%B5%B7%E6%B2%89%E6%B2%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [迪丽热巴Wonderland封面预告](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4Wonderland%E5%B0%81%E9%9D%A2%E9%A2%84%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
