@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 05:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 05:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么理发店里见不到女Tony](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%90%86%E5%8F%91%E5%BA%97%E9%87%8C%E8%A7%81%E4%B8%8D%E5%88%B0%E5%A5%B3Tony%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙颖莎陈梦哭了](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%99%88%E6%A2%A6%E5%93%AD%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [戚薇后脑勺被妈妈用书睡平](https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E5%90%8E%E8%84%91%E5%8B%BA%E8%A2%AB%E5%A6%88%E5%A6%88%E7%94%A8%E4%B9%A6%E7%9D%A1%E5%B9%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [何炅工作室发了双北](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E4%BA%86%E5%8F%8C%E5%8C%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [当班主任哭了班里的同学belike](https://s.weibo.com/weibo?q=%E5%BD%93%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%93%AD%E4%BA%86%E7%8F%AD%E9%87%8C%E7%9A%84%E5%90%8C%E5%AD%A6belike&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
