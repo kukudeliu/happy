@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 09:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-24 09:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [美欧宣布对俄“毁灭性”制裁](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%A7%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BF%84%E2%80%9C%E6%AF%81%E7%81%AD%E6%80%A7%E2%80%9D%E5%88%B6%E8%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [父子赌气吃碳酸钡粉儿子身亡](https://www.baidu.com/s?wd=%E7%88%B6%E5%AD%90%E8%B5%8C%E6%B0%94%E5%90%83%E7%A2%B3%E9%85%B8%E9%92%A1%E7%B2%89%E5%84%BF%E5%AD%90%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [今年元宵满月有“三巧”](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%85%83%E5%AE%B5%E6%BB%A1%E6%9C%88%E6%9C%89%E2%80%9C%E4%B8%89%E5%B7%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [贾玲发文回应恶评](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E6%81%B6%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生回应打HPV疫苗3年后患宫颈癌](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E6%89%93HPV%E7%96%AB%E8%8B%973%E5%B9%B4%E5%90%8E%E6%82%A3%E5%AE%AB%E9%A2%88%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [李铁一审被判无期是谣言](https://www.baidu.com/s?wd=%E6%9D%8E%E9%93%81%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%E6%98%AF%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [美欧宣布对俄“毁灭性”制裁](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%A7%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BF%84%E2%80%9C%E6%AF%81%E7%81%AD%E6%80%A7%E2%80%9D%E5%88%B6%E8%A3%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [父子赌气吃碳酸钡粉儿子身亡](https://www.baidu.com/s?wd=%E7%88%B6%E5%AD%90%E8%B5%8C%E6%B0%94%E5%90%83%E7%A2%B3%E9%85%B8%E9%92%A1%E7%B2%89%E5%84%BF%E5%AD%90%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [今年元宵满月有“三巧”](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%85%83%E5%AE%B5%E6%BB%A1%E6%9C%88%E6%9C%89%E2%80%9C%E4%B8%89%E5%B7%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [贾玲发文回应恶评](https://www.baidu.com/s?wd=%E8%B4%BE%E7%8E%B2%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E6%81%B6%E8%AF%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医生回应打HPV疫苗3年后患宫颈癌](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E6%89%93HPV%E7%96%AB%E8%8B%973%E5%B9%B4%E5%90%8E%E6%82%A3%E5%AE%AB%E9%A2%88%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [李铁一审被判无期是谣言](https://www.baidu.com/s?wd=%E6%9D%8E%E9%93%81%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%E6%98%AF%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
