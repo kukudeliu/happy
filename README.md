@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 23:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 23:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张艺兴跳了咆哮](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%B7%B3%E4%BA%86%E5%92%86%E5%93%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [AD钙奶](https://s.weibo.com/weibo?q=AD%E9%92%99%E5%A5%B6&t=31&band_rank=7&Refer=top)<br />
 8. [马龙说这是我最后一届世锦赛](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AF%B4%E8%BF%99%E6%98%AF%E6%88%91%E6%9C%80%E5%90%8E%E4%B8%80%E5%B1%8A%E4%B8%96%E9%94%A6%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [国乒男团11连冠](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A211%E8%BF%9E%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [林诗栋](https://s.weibo.com/weibo?q=%E6%9E%97%E8%AF%97%E6%A0%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
