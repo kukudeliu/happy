@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 19:14:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [迪丽热巴紫罗兰公主](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%B4%AB%E7%BD%97%E5%85%B0%E5%85%AC%E4%B8%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [宗庆后逝世](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E9%80%9D%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [反诈老陈喊话全国警方求工作](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E5%96%8A%E8%AF%9D%E5%85%A8%E5%9B%BD%E8%AD%A6%E6%96%B9%E6%B1%82%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [难哄或将改名万事美好](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E6%88%96%E5%B0%86%E6%94%B9%E5%90%8D%E4%B8%87%E4%BA%8B%E7%BE%8E%E5%A5%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [小尼从来不用尼格买提对不上表情包](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%BC%E4%BB%8E%E6%9D%A5%E4%B8%8D%E7%94%A8%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%AF%B9%E4%B8%8D%E4%B8%8A%E8%A1%A8%E6%83%85%E5%8C%85%23&t=31&band_rank=9&Refer=top)<br />
+8. [小尼从来不用尼格买提对不上表情包](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%BC%E4%BB%8E%E6%9D%A5%E4%B8%8D%E7%94%A8%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%AF%B9%E4%B8%8D%E4%B8%8A%E8%A1%A8%E6%83%85%E5%8C%85%23&t=31&band_rank=8&Refer=top)<br />
+9. [难哄或将改名万事美好](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E6%88%96%E5%B0%86%E6%94%B9%E5%90%8D%E4%B8%87%E4%BA%8B%E7%BE%8E%E5%A5%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,7 +23,7 @@
 4. [说走就走的冰雪之约](https://www.baidu.com/s?wd=%E8%AF%B4%E8%B5%B0%E5%B0%B1%E8%B5%B0%E7%9A%84%E5%86%B0%E9%9B%AA%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [听说大家上班都穿得很恶心](https://www.baidu.com/s?wd=%E5%90%AC%E8%AF%B4%E5%A4%A7%E5%AE%B6%E4%B8%8A%E7%8F%AD%E9%83%BD%E7%A9%BF%E5%BE%97%E5%BE%88%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多家大润发宣布闭店](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%A4%A7%E6%B6%A6%E5%8F%91%E5%AE%A3%E5%B8%83%E9%97%AD%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [英国国王查尔斯被曝制定继承计划](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B%E6%9F%A5%E5%B0%94%E6%96%AF%E8%A2%AB%E6%9B%9D%E5%88%B6%E5%AE%9A%E7%BB%A7%E6%89%BF%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女儿结婚父亲不舍上前拥抱被拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A%E7%88%B6%E4%BA%B2%E4%B8%8D%E8%88%8D%E4%B8%8A%E5%89%8D%E6%8B%A5%E6%8A%B1%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [娃哈哈创始人宗庆后去世](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%97%E5%BA%86%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣武汉地铁发生爆炸事故](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [说走就走的冰雪之约](https://www.baidu.com/s?wd=%E8%AF%B4%E8%B5%B0%E5%B0%B1%E8%B5%B0%E7%9A%84%E5%86%B0%E9%9B%AA%E4%B9%8B%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [听说大家上班都穿得很恶心](https://www.baidu.com/s?wd=%E5%90%AC%E8%AF%B4%E5%A4%A7%E5%AE%B6%E4%B8%8A%E7%8F%AD%E9%83%BD%E7%A9%BF%E5%BE%97%E5%BE%88%E6%81%B6%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [多家大润发宣布闭店](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%A4%A7%E6%B6%A6%E5%8F%91%E5%AE%A3%E5%B8%83%E9%97%AD%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [英国国王查尔斯被曝制定继承计划](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B%E6%9F%A5%E5%B0%94%E6%96%AF%E8%A2%AB%E6%9B%9D%E5%88%B6%E5%AE%9A%E7%BB%A7%E6%89%BF%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女儿结婚父亲不舍上前拥抱被拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A%E7%88%B6%E4%BA%B2%E4%B8%8D%E8%88%8D%E4%B8%8A%E5%89%8D%E6%8B%A5%E6%8A%B1%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [娃哈哈创始人宗庆后去世](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%97%E5%BA%86%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣武汉地铁发生爆炸事故](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
