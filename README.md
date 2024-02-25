@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 11:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 11:56:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [习近平心中的“千年大计”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E4%B8%AD%E7%9A%84%E2%80%9C%E5%8D%83%E5%B9%B4%E5%A4%A7%E8%AE%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [杭州宾利司机持械伤人 已被刑拘](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%AE%BE%E5%88%A9%E5%8F%B8%E6%9C%BA%E6%8C%81%E6%A2%B0%E4%BC%A4%E4%BA%BA+%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [黄晓明祝贺表妹陈梦：你真的很棒](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%A5%9D%E8%B4%BA%E8%A1%A8%E5%A6%B9%E9%99%88%E6%A2%A6%EF%BC%9A%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%BE%88%E6%A3%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [娃哈哈创始人宗庆后去世](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%97%E5%BA%86%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [杭州宾利司机持械伤人 已被刑拘](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%AE%BE%E5%88%A9%E5%8F%B8%E6%9C%BA%E6%8C%81%E6%A2%B0%E4%BC%A4%E4%BA%BA+%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [梦舟揽月如何带中国人登月](https://www.baidu.com/s?wd=%E6%A2%A6%E8%88%9F%E6%8F%BD%E6%9C%88%E5%A6%82%E4%BD%95%E5%B8%A6%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“阿根廷特朗普”亲密拥抱特朗普](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9D%E4%BA%B2%E5%AF%86%E6%8B%A5%E6%8A%B1%E7%89%B9%E6%9C%97%E6%99%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子6分钟选10个号中1264万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%906%E5%88%86%E9%92%9F%E9%80%8910%E4%B8%AA%E5%8F%B7%E4%B8%AD1264%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [习近平心中的“千年大计”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E4%B8%AD%E7%9A%84%E2%80%9C%E5%8D%83%E5%B9%B4%E5%A4%A7%E8%AE%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [杭州宾利司机持械伤人 已被刑拘](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%AE%BE%E5%88%A9%E5%8F%B8%E6%9C%BA%E6%8C%81%E6%A2%B0%E4%BC%A4%E4%BA%BA+%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [黄晓明祝贺表妹陈梦：你真的很棒](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%A5%9D%E8%B4%BA%E8%A1%A8%E5%A6%B9%E9%99%88%E6%A2%A6%EF%BC%9A%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%BE%88%E6%A3%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [娃哈哈创始人宗庆后去世](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%97%E5%BA%86%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [杭州宾利司机持械伤人 已被刑拘](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%AE%BE%E5%88%A9%E5%8F%B8%E6%9C%BA%E6%8C%81%E6%A2%B0%E4%BC%A4%E4%BA%BA+%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [梦舟揽月如何带中国人登月](https://www.baidu.com/s?wd=%E6%A2%A6%E8%88%9F%E6%8F%BD%E6%9C%88%E5%A6%82%E4%BD%95%E5%B8%A6%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“阿根廷特朗普”亲密拥抱特朗普](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9D%E4%BA%B2%E5%AF%86%E6%8B%A5%E6%8A%B1%E7%89%B9%E6%9C%97%E6%99%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子6分钟选10个号中1264万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%906%E5%88%86%E9%92%9F%E9%80%8910%E4%B8%AA%E5%8F%B7%E4%B8%AD1264%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
