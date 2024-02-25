@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 19:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 19:06:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [比亚迪为劝架车主奖励20万](https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%BA%E5%8A%9D%E6%9E%B6%E8%BD%A6%E4%B8%BB%E5%A5%96%E5%8A%B120%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [子弟兵奋战9小时雪中抢通川藏线](https://s.weibo.com/weibo?q=%23%E5%AD%90%E5%BC%9F%E5%85%B5%E5%A5%8B%E6%88%989%E5%B0%8F%E6%97%B6%E9%9B%AA%E4%B8%AD%E6%8A%A2%E9%80%9A%E5%B7%9D%E8%97%8F%E7%BA%BF%23&t=31&band_rank=3&Refer=top)<br />
 4. [肖战戒碳失败](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%88%92%E7%A2%B3%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=4&Refer=top)<br />
-5. [宗庆后逝世](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E9%80%9D%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
-6. [迪丽热巴紫罗兰公主](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%B4%AB%E7%BD%97%E5%85%B0%E5%85%AC%E4%B8%BB%23&t=31&band_rank=6&Refer=top)<br />
+5. [迪丽热巴紫罗兰公主](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%B4%AB%E7%BD%97%E5%85%B0%E5%85%AC%E4%B8%BB%23&t=31&band_rank=5&Refer=top)<br />
+6. [宗庆后逝世](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E9%80%9D%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [反诈老陈喊话全国警方求工作](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E5%96%8A%E8%AF%9D%E5%85%A8%E5%9B%BD%E8%AD%A6%E6%96%B9%E6%B1%82%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [小尼从来不用尼格买提对不上表情包](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%BC%E4%BB%8E%E6%9D%A5%E4%B8%8D%E7%94%A8%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%AF%B9%E4%B8%8D%E4%B8%8A%E8%A1%A8%E6%83%85%E5%8C%85%23&t=31&band_rank=8&Refer=top)<br />
 9. [难哄或将改名万事美好](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E6%88%96%E5%B0%86%E6%94%B9%E5%90%8D%E4%B8%87%E4%BA%8B%E7%BE%8E%E5%A5%BD%23&t=31&band_rank=9&Refer=top)<br />
