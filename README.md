@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 17:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 17:40:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [王力宏 娃哈哈矿泉水](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%20%E5%A8%83%E5%93%88%E5%93%88%E7%9F%BF%E6%B3%89%E6%B0%B4&t=31&band_rank=6&Refer=top)<br />
 7. [民众自发到娃哈哈总部献花悼念](https://s.weibo.com/weibo?q=%23%E6%B0%91%E4%BC%97%E8%87%AA%E5%8F%91%E5%88%B0%E5%A8%83%E5%93%88%E5%93%88%E6%80%BB%E9%83%A8%E7%8C%AE%E8%8A%B1%E6%82%BC%E5%BF%B5%23&t=31&band_rank=7&Refer=top)<br />
 8. [白血病女孩长胖40斤笑称蛮可爱](https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%A1%80%E7%97%85%E5%A5%B3%E5%AD%A9%E9%95%BF%E8%83%9640%E6%96%A4%E7%AC%91%E7%A7%B0%E8%9B%AE%E5%8F%AF%E7%88%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [SM三大神颜同框](https://s.weibo.com/weibo?q=%23SM%E4%B8%89%E5%A4%A7%E7%A5%9E%E9%A2%9C%E5%90%8C%E6%A1%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [比亚迪公关](https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%AC%E5%85%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
