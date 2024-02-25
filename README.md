@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 20:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 20:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宗庆后逝世](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E9%80%9D%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [比亚迪为劝架车主奖励20万](https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%BA%E5%8A%9D%E6%9E%B6%E8%BD%A6%E4%B8%BB%E5%A5%96%E5%8A%B120%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [南来北往大结局](https://s.weibo.com/weibo?q=%E5%8D%97%E6%9D%A5%E5%8C%97%E5%BE%80%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=8&Refer=top)<br />
-9. [肖战戒碳失败](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%88%92%E7%A2%B3%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [国乒男团vs法国男团](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2vs%E6%B3%95%E5%9B%BD%E7%94%B7%E5%9B%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
