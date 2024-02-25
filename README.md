@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 15:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 15:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [宾利司机伤人事件双方系表兄弟](https://www.baidu.com/s?wd=%E5%AE%BE%E5%88%A9%E5%8F%B8%E6%9C%BA%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E5%8F%8C%E6%96%B9%E7%B3%BB%E8%A1%A8%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女儿结婚父亲不舍上前拥抱被拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A%E7%88%B6%E4%BA%B2%E4%B8%8D%E8%88%8D%E4%B8%8A%E5%89%8D%E6%8B%A5%E6%8A%B1%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [沙溢爆改](https://www.baidu.com/s?wd=%E6%B2%99%E6%BA%A2%E7%88%86%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宗馥莉曾称宗庆后是神一样的存在](https://www.baidu.com/s?wd=%E5%AE%97%E9%A6%A5%E8%8E%89%E6%9B%BE%E7%A7%B0%E5%AE%97%E5%BA%86%E5%90%8E%E6%98%AF%E7%A5%9E%E4%B8%80%E6%A0%B7%E7%9A%84%E5%AD%98%E5%9C%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [G7联合声明竟公开点名中国](https://www.baidu.com/s?wd=G7%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E7%AB%9F%E5%85%AC%E5%BC%80%E7%82%B9%E5%90%8D%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣武汉地铁发生爆炸事故](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [宾利司机伤人事件双方系表兄弟](https://www.baidu.com/s?wd=%E5%AE%BE%E5%88%A9%E5%8F%B8%E6%9C%BA%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E5%8F%8C%E6%96%B9%E7%B3%BB%E8%A1%A8%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女儿结婚父亲不舍上前拥抱被拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A%E7%88%B6%E4%BA%B2%E4%B8%8D%E8%88%8D%E4%B8%8A%E5%89%8D%E6%8B%A5%E6%8A%B1%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [沙溢爆改](https://www.baidu.com/s?wd=%E6%B2%99%E6%BA%A2%E7%88%86%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宗馥莉曾称宗庆后是神一样的存在](https://www.baidu.com/s?wd=%E5%AE%97%E9%A6%A5%E8%8E%89%E6%9B%BE%E7%A7%B0%E5%AE%97%E5%BA%86%E5%90%8E%E6%98%AF%E7%A5%9E%E4%B8%80%E6%A0%B7%E7%9A%84%E5%AD%98%E5%9C%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [G7联合声明竟公开点名中国](https://www.baidu.com/s?wd=G7%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E7%AB%9F%E5%85%AC%E5%BC%80%E7%82%B9%E5%90%8D%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣武汉地铁发生爆炸事故](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
