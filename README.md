@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 20:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 20:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [演员李影去世](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%9D%8E%E5%BD%B1%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [宗庆后逝世](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E9%80%9D%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [国乒男团vs法国男团](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2vs%E6%B3%95%E5%9B%BD%E7%94%B7%E5%9B%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [比亚迪为劝架车主奖励20万](https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%BA%E5%8A%9D%E6%9E%B6%E8%BD%A6%E4%B8%BB%E5%A5%96%E5%8A%B120%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [草莓价格腰斩了](https://s.weibo.com/weibo?q=%23%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
