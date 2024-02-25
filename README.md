@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 11:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 11:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [“阿根廷特朗普”亲密拥抱特朗普](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9D%E4%BA%B2%E5%AF%86%E6%8B%A5%E6%8A%B1%E7%89%B9%E6%9C%97%E6%99%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子6分钟选10个号中1264万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%906%E5%88%86%E9%92%9F%E9%80%8910%E4%B8%AA%E5%8F%B7%E4%B8%AD1264%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴镇宇问金莎愿意和男友演母子吗](https://www.baidu.com/s?wd=%E5%90%B4%E9%95%87%E5%AE%87%E9%97%AE%E9%87%91%E8%8E%8E%E6%84%BF%E6%84%8F%E5%92%8C%E7%94%B7%E5%8F%8B%E6%BC%94%E6%AF%8D%E5%AD%90%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泽连斯基：俄军死亡人数是乌军5倍](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%BF%84%E5%86%9B%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E6%98%AF%E4%B9%8C%E5%86%9B5%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张雪峰称不推荐专业也不打压专业](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E4%B8%8D%E6%8E%A8%E8%8D%90%E4%B8%93%E4%B8%9A%E4%B9%9F%E4%B8%8D%E6%89%93%E5%8E%8B%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣武汉地铁发生爆炸事故](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [“阿根廷特朗普”亲密拥抱特朗普](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9D%E4%BA%B2%E5%AF%86%E6%8B%A5%E6%8A%B1%E7%89%B9%E6%9C%97%E6%99%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子6分钟选10个号中1264万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%906%E5%88%86%E9%92%9F%E9%80%8910%E4%B8%AA%E5%8F%B7%E4%B8%AD1264%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴镇宇问金莎愿意和男友演母子吗](https://www.baidu.com/s?wd=%E5%90%B4%E9%95%87%E5%AE%87%E9%97%AE%E9%87%91%E8%8E%8E%E6%84%BF%E6%84%8F%E5%92%8C%E7%94%B7%E5%8F%8B%E6%BC%94%E6%AF%8D%E5%AD%90%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泽连斯基：俄军死亡人数是乌军5倍](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%BF%84%E5%86%9B%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E6%98%AF%E4%B9%8C%E5%86%9B5%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张雪峰称不推荐专业也不打压专业](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E4%B8%8D%E6%8E%A8%E8%8D%90%E4%B8%93%E4%B8%9A%E4%B9%9F%E4%B8%8D%E6%89%93%E5%8E%8B%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣武汉地铁发生爆炸事故](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
