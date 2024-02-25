@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 16:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 16:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄子韬公司CEO被调查](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%85%AC%E5%8F%B8CEO%E8%A2%AB%E8%B0%83%E6%9F%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [王力宏 娃哈哈矿泉水](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%20%E5%A8%83%E5%93%88%E5%93%88%E7%9F%BF%E6%B3%89%E6%B0%B4&t=31&band_rank=7&Refer=top)<br />
 8. [沙溢爆改](https://s.weibo.com/weibo?q=%E6%B2%99%E6%BA%A2%E7%88%86%E6%94%B9&t=31&band_rank=8&Refer=top)<br />
-9. [腿姐 明天的你已经在录取名单里了](https://s.weibo.com/weibo?q=%E8%85%BF%E5%A7%90%20%E6%98%8E%E5%A4%A9%E7%9A%84%E4%BD%A0%E5%B7%B2%E7%BB%8F%E5%9C%A8%E5%BD%95%E5%8F%96%E5%90%8D%E5%8D%95%E9%87%8C%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [军艺校草](https://s.weibo.com/weibo?q=%E5%86%9B%E8%89%BA%E6%A0%A1%E8%8D%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
