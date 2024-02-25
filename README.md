@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 18:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 18:36:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [比亚迪公关](https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%AC%E5%85%B3&t=31&band_rank=5&Refer=top)<br />
 6. [宗庆后逝世](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E9%80%9D%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [难哄或将改名万事美好](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E6%88%96%E5%B0%86%E6%94%B9%E5%90%8D%E4%B8%87%E4%BA%8B%E7%BE%8E%E5%A5%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [王力宏 娃哈哈矿泉水](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%20%E5%A8%83%E5%93%88%E5%93%88%E7%9F%BF%E6%B3%89%E6%B0%B4&t=31&band_rank=8&Refer=top)<br />
-9. [反诈老陈喊话全国警方求工作](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E5%96%8A%E8%AF%9D%E5%85%A8%E5%9B%BD%E8%AD%A6%E6%96%B9%E6%B1%82%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=9&Refer=top)<br />
+8. [反诈老陈喊话全国警方求工作](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E5%96%8A%E8%AF%9D%E5%85%A8%E5%9B%BD%E8%AD%A6%E6%96%B9%E6%B1%82%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [王力宏 娃哈哈矿泉水](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%20%E5%A8%83%E5%93%88%E5%93%88%E7%9F%BF%E6%B3%89%E6%B0%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
