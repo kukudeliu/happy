@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 21:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 21:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [与主播发生关系的住持已被注销戒牒](https://www.baidu.com/s?wd=%E4%B8%8E%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E7%9A%84%E4%BD%8F%E6%8C%81%E5%B7%B2%E8%A2%AB%E6%B3%A8%E9%94%80%E6%88%92%E7%89%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国乒男队3:0完胜法国队夺冠](https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F3%3A0%E5%AE%8C%E8%83%9C%E6%B3%95%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女校长回应在群里发不雅视频](https://www.baidu.com/s?wd=%E5%A5%B3%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E5%9C%A8%E7%BE%A4%E9%87%8C%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [草莓价格腰斩了](https://www.baidu.com/s?wd=%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本计划利用废木材生产乙醇](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AE%A1%E5%88%92%E5%88%A9%E7%94%A8%E5%BA%9F%E6%9C%A8%E6%9D%90%E7%94%9F%E4%BA%A7%E4%B9%99%E9%86%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣宾利司机有后台](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%AE%BE%E5%88%A9%E5%8F%B8%E6%9C%BA%E6%9C%89%E5%90%8E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [与主播发生关系的住持已被注销戒牒](https://www.baidu.com/s?wd=%E4%B8%8E%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E7%9A%84%E4%BD%8F%E6%8C%81%E5%B7%B2%E8%A2%AB%E6%B3%A8%E9%94%80%E6%88%92%E7%89%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [国乒男队3:0完胜法国队夺冠](https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F3%3A0%E5%AE%8C%E8%83%9C%E6%B3%95%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女校长回应在群里发不雅视频](https://www.baidu.com/s?wd=%E5%A5%B3%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E5%9C%A8%E7%BE%A4%E9%87%8C%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [草莓价格腰斩了](https://www.baidu.com/s?wd=%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [日本计划利用废木材生产乙醇](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AE%A1%E5%88%92%E5%88%A9%E7%94%A8%E5%BA%9F%E6%9C%A8%E6%9D%90%E7%94%9F%E4%BA%A7%E4%B9%99%E9%86%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣宾利司机有后台](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%AE%BE%E5%88%A9%E5%8F%B8%E6%9C%BA%E6%9C%89%E5%90%8E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
