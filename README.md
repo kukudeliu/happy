@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 09:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 09:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [水谷隼 孙颖莎太强了](https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%20%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%AA%E5%BC%BA%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [杭州宾利](https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E5%AE%BE%E5%88%A9&t=31&band_rank=6&Refer=top)<br />
 7. [张雪峰称不推荐专业也不打压专业](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A7%B0%E4%B8%8D%E6%8E%A8%E8%8D%90%E4%B8%93%E4%B8%9A%E4%B9%9F%E4%B8%8D%E6%89%93%E5%8E%8B%E4%B8%93%E4%B8%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [韩国医疗](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%96%97&t=31&band_rank=8&Refer=top)<br />
-9. [玩王者花掉外婆一万六自称人生无常](https://s.weibo.com/weibo?q=%23%E7%8E%A9%E7%8E%8B%E8%80%85%E8%8A%B1%E6%8E%89%E5%A4%96%E5%A9%86%E4%B8%80%E4%B8%87%E5%85%AD%E8%87%AA%E7%A7%B0%E4%BA%BA%E7%94%9F%E6%97%A0%E5%B8%B8%23&t=31&band_rank=9&Refer=top)<br />
+8. [玩王者花掉外婆一万六自称人生无常](https://s.weibo.com/weibo?q=%23%E7%8E%A9%E7%8E%8B%E8%80%85%E8%8A%B1%E6%8E%89%E5%A4%96%E5%A9%86%E4%B8%80%E4%B8%87%E5%85%AD%E8%87%AA%E7%A7%B0%E4%BA%BA%E7%94%9F%E6%97%A0%E5%B8%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [韩国医疗](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%96%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
