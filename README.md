@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 20:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 20:49:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [与主播发生关系的住持已被注销戒牒](https://www.baidu.com/s?wd=%E4%B8%8E%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E7%9A%84%E4%BD%8F%E6%8C%81%E5%B7%B2%E8%A2%AB%E6%B3%A8%E9%94%80%E6%88%92%E7%89%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女校长回应在群里发不雅视频](https://www.baidu.com/s?wd=%E5%A5%B3%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E5%9C%A8%E7%BE%A4%E9%87%8C%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [草莓价格腰斩了](https://www.baidu.com/s?wd=%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女儿结婚父亲不舍上前拥抱被拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A%E7%88%B6%E4%BA%B2%E4%B8%8D%E8%88%8D%E4%B8%8A%E5%89%8D%E6%8B%A5%E6%8A%B1%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [驾校教练集体学习夸夸语录](https://www.baidu.com/s?wd=%E9%A9%BE%E6%A0%A1%E6%95%99%E7%BB%83%E9%9B%86%E4%BD%93%E5%AD%A6%E4%B9%A0%E5%A4%B8%E5%A4%B8%E8%AF%AD%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣武汉地铁发生爆炸事故](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [与主播发生关系的住持已被注销戒牒](https://www.baidu.com/s?wd=%E4%B8%8E%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E7%9A%84%E4%BD%8F%E6%8C%81%E5%B7%B2%E8%A2%AB%E6%B3%A8%E9%94%80%E6%88%92%E7%89%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女校长回应在群里发不雅视频](https://www.baidu.com/s?wd=%E5%A5%B3%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E5%9C%A8%E7%BE%A4%E9%87%8C%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [草莓价格腰斩了](https://www.baidu.com/s?wd=%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女儿结婚父亲不舍上前拥抱被拒](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A%E7%88%B6%E4%BA%B2%E4%B8%8D%E8%88%8D%E4%B8%8A%E5%89%8D%E6%8B%A5%E6%8A%B1%E8%A2%AB%E6%8B%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [驾校教练集体学习夸夸语录](https://www.baidu.com/s?wd=%E9%A9%BE%E6%A0%A1%E6%95%99%E7%BB%83%E9%9B%86%E4%BD%93%E5%AD%A6%E4%B9%A0%E5%A4%B8%E5%A4%B8%E8%AF%AD%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣武汉地铁发生爆炸事故](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
