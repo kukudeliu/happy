@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 09:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 09:40:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国医疗](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%96%97&t=31&band_rank=6&Refer=top)<br />
 7. [水谷隼 孙颖莎太强了](https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%20%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%AA%E5%BC%BA%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [黄晓明说陈梦你真的很棒](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%AF%B4%E9%99%88%E6%A2%A6%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%BE%88%E6%A3%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [朱梓骁说直播带货才是后路](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%A2%93%E9%AA%81%E8%AF%B4%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E6%89%8D%E6%98%AF%E5%90%8E%E8%B7%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [为什么不上王曼昱](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%8A%E7%8E%8B%E6%9B%BC%E6%98%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
