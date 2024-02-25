@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 22:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 22:53:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [袁姗姗鼻子](https://s.weibo.com/weibo?q=%E8%A2%81%E5%A7%97%E5%A7%97%E9%BC%BB%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
 7. [为何年轻人上班不愿意精致打扮](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8A%E7%8F%AD%E4%B8%8D%E6%84%BF%E6%84%8F%E7%B2%BE%E8%87%B4%E6%89%93%E6%89%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [与女主播发生关系住持已被注销戒牒](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E4%BD%8F%E6%8C%81%E5%B7%B2%E8%A2%AB%E6%B3%A8%E9%94%80%E6%88%92%E7%89%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [女校长称微信群不雅视频非本人发](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%A0%A1%E9%95%BF%E7%A7%B0%E5%BE%AE%E4%BF%A1%E7%BE%A4%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E9%9D%9E%E6%9C%AC%E4%BA%BA%E5%8F%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [张艺兴跳了咆哮](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%B7%B3%E4%BA%86%E5%92%86%E5%93%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
