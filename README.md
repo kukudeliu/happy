@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 16:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 16:53:01</h4></div>
 
 > 微博  
 
 1. [比亚迪为劝架车主奖励20万](https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%BA%E5%8A%9D%E6%9E%B6%E8%BD%A6%E4%B8%BB%E5%A5%96%E5%8A%B120%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [肖战戒碳失败](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%88%92%E7%A2%B3%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=2&Refer=top)<br />
+2. [最惨文科专业](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%83%A8%E6%96%87%E7%A7%91%E4%B8%93%E4%B8%9A%23&t=31&band_rank=2&Refer=top)<br />
 3. [子弟兵奋战9小时雪中抢通川藏线](https://s.weibo.com/weibo?q=%23%E5%AD%90%E5%BC%9F%E5%85%B5%E5%A5%8B%E6%88%989%E5%B0%8F%E6%97%B6%E9%9B%AA%E4%B8%AD%E6%8A%A2%E9%80%9A%E5%B7%9D%E8%97%8F%E7%BA%BF%23&t=31&band_rank=3&Refer=top)<br />
-4. [最惨文科专业](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%83%A8%E6%96%87%E7%A7%91%E4%B8%93%E4%B8%9A%23&t=31&band_rank=4&Refer=top)<br />
+4. [肖战戒碳失败](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%88%92%E7%A2%B3%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [宗庆后逝世](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E9%80%9D%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [王力宏 娃哈哈矿泉水](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%20%E5%A8%83%E5%93%88%E5%93%88%E7%9F%BF%E6%B3%89%E6%B0%B4&t=31&band_rank=6&Refer=top)<br />
 7. [沙溢爆改](https://s.weibo.com/weibo?q=%E6%B2%99%E6%BA%A2%E7%88%86%E6%94%B9&t=31&band_rank=7&Refer=top)<br />
