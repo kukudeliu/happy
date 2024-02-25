@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 09:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 09:45:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [龙年第一轮满月](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E7%AC%AC%E4%B8%80%E8%BD%AE%E6%BB%A1%E6%9C%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [纪凌尘 你喜欢大海我爱过你很浪漫](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E4%BD%A0%E5%96%9C%E6%AC%A2%E5%A4%A7%E6%B5%B7%E6%88%91%E7%88%B1%E8%BF%87%E4%BD%A0%E5%BE%88%E6%B5%AA%E6%BC%AB&t=31&band_rank=4&Refer=top)<br />
 5. [玩王者花掉外婆一万六自称人生无常](https://s.weibo.com/weibo?q=%23%E7%8E%A9%E7%8E%8B%E8%80%85%E8%8A%B1%E6%8E%89%E5%A4%96%E5%A9%86%E4%B8%80%E4%B8%87%E5%85%AD%E8%87%AA%E7%A7%B0%E4%BA%BA%E7%94%9F%E6%97%A0%E5%B8%B8%23&t=31&band_rank=5&Refer=top)<br />
-6. [韩国医疗](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%96%97&t=31&band_rank=6&Refer=top)<br />
-7. [水谷隼 孙颖莎太强了](https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%20%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%AA%E5%BC%BA%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [杭州交警回应网传宾利车主伤人视频](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AE%BE%E5%88%A9%E8%BD%A6%E4%B8%BB%E4%BC%A4%E4%BA%BA%E8%A7%86%E9%A2%91%23&t=31&band_rank=8&Refer=top)<br />
+6. [杭州交警回应网传宾利车主伤人视频](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AE%BE%E5%88%A9%E8%BD%A6%E4%B8%BB%E4%BC%A4%E4%BA%BA%E8%A7%86%E9%A2%91%23&t=31&band_rank=6&Refer=top)<br />
+7. [韩国医疗](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%96%97&t=31&band_rank=7&Refer=top)<br />
+8. [水谷隼 孙颖莎太强了](https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%20%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%AA%E5%BC%BA%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [黄晓明说陈梦你真的很棒](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%AF%B4%E9%99%88%E6%A2%A6%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%BE%88%E6%A3%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
