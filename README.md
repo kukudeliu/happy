@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 15:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 15:41:01</h4></div>
 
 > 微博  
 
-1. [宗庆后逝世](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E9%80%9D%E4%B8%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [比亚迪车主劝架](https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BD%A6%E4%B8%BB%E5%8A%9D%E6%9E%B6%23&t=31&band_rank=2&Refer=top)<br />
+1. [比亚迪车主劝架](https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BD%A6%E4%B8%BB%E5%8A%9D%E6%9E%B6%23&t=31&band_rank=1&Refer=top)<br />
+2. [宗庆后逝世](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E9%80%9D%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [春天限量版的绝美配色](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E9%99%90%E9%87%8F%E7%89%88%E7%9A%84%E7%BB%9D%E7%BE%8E%E9%85%8D%E8%89%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄子韬公司CEO被调查](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%85%AC%E5%8F%B8CEO%E8%A2%AB%E8%B0%83%E6%9F%A5%23&t=31&band_rank=4&Refer=top)<br />
 5. [王力宏 娃哈哈矿泉水](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%20%E5%A8%83%E5%93%88%E5%93%88%E7%9F%BF%E6%B3%89%E6%B0%B4&t=31&band_rank=5&Refer=top)<br />
