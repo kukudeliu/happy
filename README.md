@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 11:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 11:49:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [茶刀](https://s.weibo.com/weibo?q=%E8%8C%B6%E5%88%80&t=31&band_rank=4&Refer=top)<br />
 5. [曾志伟郝蕾起争执](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%BF%97%E4%BC%9F%E9%83%9D%E8%95%BE%E8%B5%B7%E4%BA%89%E6%89%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [宾利宝马车主系表兄弟](https://s.weibo.com/weibo?q=%23%E5%AE%BE%E5%88%A9%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E7%B3%BB%E8%A1%A8%E5%85%84%E5%BC%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [考研 上岸](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%20%E4%B8%8A%E5%B2%B8&t=31&band_rank=7&Refer=top)<br />
-8. [纪凌尘 你喜欢大海我爱过你很浪漫](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E4%BD%A0%E5%96%9C%E6%AC%A2%E5%A4%A7%E6%B5%B7%E6%88%91%E7%88%B1%E8%BF%87%E4%BD%A0%E5%BE%88%E6%B5%AA%E6%BC%AB&t=31&band_rank=8&Refer=top)<br />
+7. [纪凌尘 你喜欢大海我爱过你很浪漫](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E4%BD%A0%E5%96%9C%E6%AC%A2%E5%A4%A7%E6%B5%B7%E6%88%91%E7%88%B1%E8%BF%87%E4%BD%A0%E5%BE%88%E6%B5%AA%E6%BC%AB&t=31&band_rank=7&Refer=top)<br />
+8. [考研 上岸](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%20%E4%B8%8A%E5%B2%B8&t=31&band_rank=8&Refer=top)<br />
 9. [赵昭仪李晋晔在录恋综吗](https://s.weibo.com/weibo?q=%E8%B5%B5%E6%98%AD%E4%BB%AA%E6%9D%8E%E6%99%8B%E6%99%94%E5%9C%A8%E5%BD%95%E6%81%8B%E7%BB%BC%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [梦舟揽月如何带中国人登月](https://www.baidu.com/s?wd=%E6%A2%A6%E8%88%9F%E6%8F%BD%E6%9C%88%E5%A6%82%E4%BD%95%E5%B8%A6%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“阿根廷特朗普”亲密拥抱特朗普](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9D%E4%BA%B2%E5%AF%86%E6%8B%A5%E6%8A%B1%E7%89%B9%E6%9C%97%E6%99%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子6分钟选10个号中1264万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%906%E5%88%86%E9%92%9F%E9%80%8910%E4%B8%AA%E5%8F%B7%E4%B8%AD1264%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多地结婚人数回升 传递了什么信号](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E5%9B%9E%E5%8D%87+%E4%BC%A0%E9%80%92%E4%BA%86%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泽连斯基：俄军死亡人数是乌军5倍](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%BF%84%E5%86%9B%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E6%98%AF%E4%B9%8C%E5%86%9B5%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山西一焦化厂煤气中毒事故致4死](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E7%84%A6%E5%8C%96%E5%8E%82%E7%85%A4%E6%B0%94%E4%B8%AD%E6%AF%92%E4%BA%8B%E6%95%85%E8%87%B44%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地结婚人数回升 传递了什么信号](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E5%9B%9E%E5%8D%87+%E4%BC%A0%E9%80%92%E4%BA%86%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣武汉地铁发生爆炸事故](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [梦舟揽月如何带中国人登月](https://www.baidu.com/s?wd=%E6%A2%A6%E8%88%9F%E6%8F%BD%E6%9C%88%E5%A6%82%E4%BD%95%E5%B8%A6%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“阿根廷特朗普”亲密拥抱特朗普](https://www.baidu.com/s?wd=%E2%80%9C%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9D%E4%BA%B2%E5%AF%86%E6%8B%A5%E6%8A%B1%E7%89%B9%E6%9C%97%E6%99%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子6分钟选10个号中1264万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%906%E5%88%86%E9%92%9F%E9%80%8910%E4%B8%AA%E5%8F%B7%E4%B8%AD1264%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多地结婚人数回升 传递了什么信号](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E5%9B%9E%E5%8D%87+%E4%BC%A0%E9%80%92%E4%BA%86%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [泽连斯基：俄军死亡人数是乌军5倍](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%BF%84%E5%86%9B%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E6%98%AF%E4%B9%8C%E5%86%9B5%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山西一焦化厂煤气中毒事故致4死](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E7%84%A6%E5%8C%96%E5%8E%82%E7%85%A4%E6%B0%94%E4%B8%AD%E6%AF%92%E4%BA%8B%E6%95%85%E8%87%B44%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多地结婚人数回升 传递了什么信号](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E5%9B%9E%E5%8D%87+%E4%BC%A0%E9%80%92%E4%BA%86%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣武汉地铁发生爆炸事故](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
