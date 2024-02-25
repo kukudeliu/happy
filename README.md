@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 08:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 08:40:01</h4></div>
 
 > 微博  
 
 1. [纪凌尘 你喜欢大海我爱过你很浪漫](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E4%BD%A0%E5%96%9C%E6%AC%A2%E5%A4%A7%E6%B5%B7%E6%88%91%E7%88%B1%E8%BF%87%E4%BD%A0%E5%BE%88%E6%B5%AA%E6%BC%AB&t=31&band_rank=1&Refer=top)<br />
-2. [孙颖莎陈梦哭了](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%99%88%E6%A2%A6%E5%93%AD%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [水谷隼 孙颖莎太强了](https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%20%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%AA%E5%BC%BA%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [龙年第一轮满月](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E7%AC%AC%E4%B8%80%E8%BD%AE%E6%BB%A1%E6%9C%88%23&t=31&band_rank=3&Refer=top)<br />
-4. [水谷隼 孙颖莎太强了](https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%20%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%AA%E5%BC%BA%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
+4. [孙颖莎陈梦哭了](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%99%88%E6%A2%A6%E5%93%AD%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [中学生发现微信抢最大红包秘诀](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B0%E5%BE%AE%E4%BF%A1%E6%8A%A2%E6%9C%80%E5%A4%A7%E7%BA%A2%E5%8C%85%E7%A7%98%E8%AF%80%23&t=31&band_rank=5&Refer=top)<br />
 6. [俄罗斯可能无缘巴黎奥运会](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%AF%E8%83%BD%E6%97%A0%E7%BC%98%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [为什么理发店里见不到女Tony](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%90%86%E5%8F%91%E5%BA%97%E9%87%8C%E8%A7%81%E4%B8%8D%E5%88%B0%E5%A5%B3Tony%23&t=31&band_rank=7&Refer=top)<br />
 8. [元宵节高铁好像变成了校车](https://s.weibo.com/weibo?q=%23%E5%85%83%E5%AE%B5%E8%8A%82%E9%AB%98%E9%93%81%E5%A5%BD%E5%83%8F%E5%8F%98%E6%88%90%E4%BA%86%E6%A0%A1%E8%BD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [央视元宵晚会没有节目单](https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A%E6%B2%A1%E6%9C%89%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=9&Refer=top)<br />
+9. [王艺迪](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%89%BA%E8%BF%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
