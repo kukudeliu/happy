@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 21:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 21:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [与女主播发生关系住持已被注销戒牒](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E4%BD%8F%E6%8C%81%E5%B7%B2%E8%A2%AB%E6%B3%A8%E9%94%80%E6%88%92%E7%89%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [姚玉玲结局](https://s.weibo.com/weibo?q=%E5%A7%9A%E7%8E%89%E7%8E%B2%E7%BB%93%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
 8. [王皓情绪价值拉满](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E6%8B%89%E6%BB%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [国乒男团vs法国男团](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2vs%E6%B3%95%E5%9B%BD%E7%94%B7%E5%9B%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [种地吧2被质疑的原因](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A72%E8%A2%AB%E8%B4%A8%E7%96%91%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
