@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 12:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 12:03:01</h4></div>
 
 > 微博  
 
 1. [杭州持械伤人宾利车主已被抓](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%8C%81%E6%A2%B0%E4%BC%A4%E4%BA%BA%E5%AE%BE%E5%88%A9%E8%BD%A6%E4%B8%BB%E5%B7%B2%E8%A2%AB%E6%8A%93%23&t=31&band_rank=1&Refer=top)<br />
-2. [警方通报杭州高架伤人事件](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%9E%B6%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
+2. [宗庆后逝世](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E9%80%9D%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [春天限量版的绝美配色](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E9%99%90%E9%87%8F%E7%89%88%E7%9A%84%E7%BB%9D%E7%BE%8E%E9%85%8D%E8%89%B2%23&t=31&band_rank=3&Refer=top)<br />
-4. [宗庆后逝世](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E9%80%9D%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
+4. [警方通报杭州高架伤人事件](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%9E%B6%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [茶刀](https://s.weibo.com/weibo?q=%E8%8C%B6%E5%88%80&t=31&band_rank=5&Refer=top)<br />
 6. [曾志伟郝蕾起争执](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%BF%97%E4%BC%9F%E9%83%9D%E8%95%BE%E8%B5%B7%E4%BA%89%E6%89%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [宾利宝马车主系表兄弟](https://s.weibo.com/weibo?q=%23%E5%AE%BE%E5%88%A9%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E7%B3%BB%E8%A1%A8%E5%85%84%E5%BC%9F%23&t=31&band_rank=7&Refer=top)<br />
