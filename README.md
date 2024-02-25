@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 20:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 20:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [与主播发生关系的住持已被注销戒牒](https://www.baidu.com/s?wd=%E4%B8%8E%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E7%9A%84%E4%BD%8F%E6%8C%81%E5%B7%B2%E8%A2%AB%E6%B3%A8%E9%94%80%E6%88%92%E7%89%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女校长回应在群里发不雅视频](https://www.baidu.com/s?wd=%E5%A5%B3%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E5%9C%A8%E7%BE%A4%E9%87%8C%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [草莓价格腰斩了](https://www.baidu.com/s?wd=%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宗庆后最后一次公开露面在去年末](https://www.baidu.com/s?wd=%E5%AE%97%E5%BA%86%E5%90%8E%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%85%AC%E5%BC%80%E9%9C%B2%E9%9D%A2%E5%9C%A8%E5%8E%BB%E5%B9%B4%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宾利司机伤人事件双方系表兄弟](https://www.baidu.com/s?wd=%E5%AE%BE%E5%88%A9%E5%8F%B8%E6%9C%BA%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E5%8F%8C%E6%96%B9%E7%B3%BB%E8%A1%A8%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣武汉地铁发生爆炸事故](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [与主播发生关系的住持已被注销戒牒](https://www.baidu.com/s?wd=%E4%B8%8E%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E7%9A%84%E4%BD%8F%E6%8C%81%E5%B7%B2%E8%A2%AB%E6%B3%A8%E9%94%80%E6%88%92%E7%89%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女校长回应在群里发不雅视频](https://www.baidu.com/s?wd=%E5%A5%B3%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E5%9C%A8%E7%BE%A4%E9%87%8C%E5%8F%91%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [草莓价格腰斩了](https://www.baidu.com/s?wd=%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [宗庆后最后一次公开露面在去年末](https://www.baidu.com/s?wd=%E5%AE%97%E5%BA%86%E5%90%8E%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%85%AC%E5%BC%80%E9%9C%B2%E9%9D%A2%E5%9C%A8%E5%8E%BB%E5%B9%B4%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宾利司机伤人事件双方系表兄弟](https://www.baidu.com/s?wd=%E5%AE%BE%E5%88%A9%E5%8F%B8%E6%9C%BA%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E5%8F%8C%E6%96%B9%E7%B3%BB%E8%A1%A8%E5%85%84%E5%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣武汉地铁发生爆炸事故](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
