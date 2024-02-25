@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 19:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 19:55:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [宗庆后逝世](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E9%80%9D%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [比亚迪为劝架车主奖励20万](https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%BA%E5%8A%9D%E6%9E%B6%E8%BD%A6%E4%B8%BB%E5%A5%96%E5%8A%B120%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战戒碳失败](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%88%92%E7%A2%B3%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [王楚钦3比0F勒布伦](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940F%E5%8B%92%E5%B8%83%E4%BC%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [小尼从来不用尼格买提对不上表情包](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%BC%E4%BB%8E%E6%9D%A5%E4%B8%8D%E7%94%A8%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%AF%B9%E4%B8%8D%E4%B8%8A%E8%A1%A8%E6%83%85%E5%8C%85%23&t=31&band_rank=9&Refer=top)<br />
+8. [小尼从来不用尼格买提对不上表情包](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%BC%E4%BB%8E%E6%9D%A5%E4%B8%8D%E7%94%A8%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%AF%B9%E4%B8%8D%E4%B8%8A%E8%A1%A8%E6%83%85%E5%8C%85%23&t=31&band_rank=8&Refer=top)<br />
+9. [王楚钦3比0F勒布伦](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940F%E5%8B%92%E5%B8%83%E4%BC%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
