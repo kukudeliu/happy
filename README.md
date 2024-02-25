@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 10:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 10:19:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [跟总书记一起解锁传统文化新内涵](https://www.baidu.com/s?wd=%E8%B7%9F%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E8%A7%A3%E9%94%81%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E6%96%B0%E5%86%85%E6%B6%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [杭州宾利司机行凶打人 已被抓获](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%AE%BE%E5%88%A9%E5%8F%B8%E6%9C%BA%E8%A1%8C%E5%87%B6%E6%89%93%E4%BA%BA+%E5%B7%B2%E8%A2%AB%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [杭州宾利司机行凶打人 已被刑拘](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%AE%BE%E5%88%A9%E5%8F%B8%E6%9C%BA%E8%A1%8C%E5%87%B6%E6%89%93%E4%BA%BA+%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [黄晓明祝贺表妹陈梦：你真的很棒](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%A5%9D%E8%B4%BA%E8%A1%A8%E5%A6%B9%E9%99%88%E6%A2%A6%EF%BC%9A%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%BE%88%E6%A3%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让网络正能量更强劲](https://www.baidu.com/s?wd=%E8%AE%A9%E7%BD%91%E7%BB%9C%E6%AD%A3%E8%83%BD%E9%87%8F%E6%9B%B4%E5%BC%BA%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [泽连斯基：俄军死亡人数是乌军5倍](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%BF%84%E5%86%9B%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E6%98%AF%E4%B9%8C%E5%86%9B5%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [跟总书记一起解锁传统文化新内涵](https://www.baidu.com/s?wd=%E8%B7%9F%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E8%A7%A3%E9%94%81%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E6%96%B0%E5%86%85%E6%B6%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [杭州宾利司机行凶打人 已被抓获](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%AE%BE%E5%88%A9%E5%8F%B8%E6%9C%BA%E8%A1%8C%E5%87%B6%E6%89%93%E4%BA%BA+%E5%B7%B2%E8%A2%AB%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [杭州宾利司机行凶打人 已被刑拘](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%AE%BE%E5%88%A9%E5%8F%B8%E6%9C%BA%E8%A1%8C%E5%87%B6%E6%89%93%E4%BA%BA+%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [黄晓明祝贺表妹陈梦：你真的很棒](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E7%A5%9D%E8%B4%BA%E8%A1%A8%E5%A6%B9%E9%99%88%E6%A2%A6%EF%BC%9A%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%BE%88%E6%A3%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让网络正能量更强劲](https://www.baidu.com/s?wd=%E8%AE%A9%E7%BD%91%E7%BB%9C%E6%AD%A3%E8%83%BD%E9%87%8F%E6%9B%B4%E5%BC%BA%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [泽连斯基：俄军死亡人数是乌军5倍](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%BF%84%E5%86%9B%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E6%98%AF%E4%B9%8C%E5%86%9B5%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
