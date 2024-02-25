@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 12:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-25 12:25:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [娃哈哈集团讣告](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E9%9B%86%E5%9B%A2%E8%AE%A3%E5%91%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [警方通报杭州高架伤人事件](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%AD%E5%B7%9E%E9%AB%98%E6%9E%B6%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [宾利宝马车主系表兄弟](https://s.weibo.com/weibo?q=%23%E5%AE%BE%E5%88%A9%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E7%B3%BB%E8%A1%A8%E5%85%84%E5%BC%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [茶刀](https://s.weibo.com/weibo?q=%E8%8C%B6%E5%88%80&t=31&band_rank=8&Refer=top)<br />
-9. [曾志伟郝蕾起争执](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%BF%97%E4%BC%9F%E9%83%9D%E8%95%BE%E8%B5%B7%E4%BA%89%E6%89%A7%23&t=31&band_rank=9&Refer=top)<br />
+8. [曾志伟郝蕾起争执](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%BF%97%E4%BC%9F%E9%83%9D%E8%95%BE%E8%B5%B7%E4%BA%89%E6%89%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [茶刀](https://s.weibo.com/weibo?q=%E8%8C%B6%E5%88%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
