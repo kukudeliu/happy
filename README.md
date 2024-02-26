@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 17:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 17:16:01</h4></div>
 
 > 微博  
 
-1. [小徐上岸](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%BE%90%E4%B8%8A%E5%B2%B8&t=31&band_rank=1&Refer=top)<br />
-2. [巴勒斯坦政府宣布辞职](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C%23&t=31&band_rank=2&Refer=top)<br />
+1. [巴勒斯坦政府宣布辞职](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C%23&t=31&band_rank=1&Refer=top)<br />
+2. [小徐上岸](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%BE%90%E4%B8%8A%E5%B2%B8&t=31&band_rank=2&Refer=top)<br />
 3. [京津冀交通一体化取得非凡成就](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E4%BA%A4%E9%80%9A%E4%B8%80%E4%BD%93%E5%8C%96%E5%8F%96%E5%BE%97%E9%9D%9E%E5%87%A1%E6%88%90%E5%B0%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [林志玲林志颖是幼儿园同学](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E6%9E%97%E5%BF%97%E9%A2%96%E6%98%AF%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8C%E5%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [考研成绩](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9&t=31&band_rank=5&Refer=top)<br />
