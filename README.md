@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 18:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 18:54:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [苹果公司警告手机进水别插米里](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%AD%A6%E5%91%8A%E6%89%8B%E6%9C%BA%E8%BF%9B%E6%B0%B4%E5%88%AB%E6%8F%92%E7%B1%B3%E9%87%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [京津冀交通一体化取得非凡成就](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E4%BA%A4%E9%80%9A%E4%B8%80%E4%BD%93%E5%8C%96%E5%8F%96%E5%BE%97%E9%9D%9E%E5%87%A1%E6%88%90%E5%B0%B1%23&t=31&band_rank=3&Refer=top)<br />
 4. [李湘晒王诗龄送的礼物](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B9%98%E6%99%92%E7%8E%8B%E8%AF%97%E9%BE%84%E9%80%81%E7%9A%84%E7%A4%BC%E7%89%A9%23&t=31&band_rank=4&Refer=top)<br />
-5. [林志玲林志颖是幼儿园同学](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E6%9E%97%E5%BF%97%E9%A2%96%E6%98%AF%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8C%E5%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [怎么劝退我买这件衣服](https://s.weibo.com/weibo?q=%E6%80%8E%E4%B9%88%E5%8A%9D%E9%80%80%E6%88%91%E4%B9%B0%E8%BF%99%E4%BB%B6%E8%A1%A3%E6%9C%8D&t=31&band_rank=6&Refer=top)<br />
-7. [男生在机场查到考研408分激动大喊](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%9C%A8%E6%9C%BA%E5%9C%BA%E6%9F%A5%E5%88%B0%E8%80%83%E7%A0%94408%E5%88%86%E6%BF%80%E5%8A%A8%E5%A4%A7%E5%96%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [考研国家线](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=8&Refer=top)<br />
+5. [怎么劝退我买这件衣服](https://s.weibo.com/weibo?q=%E6%80%8E%E4%B9%88%E5%8A%9D%E9%80%80%E6%88%91%E4%B9%B0%E8%BF%99%E4%BB%B6%E8%A1%A3%E6%9C%8D&t=31&band_rank=5&Refer=top)<br />
+6. [林志玲林志颖是幼儿园同学](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E6%9E%97%E5%BF%97%E9%A2%96%E6%98%AF%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8C%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
+7. [考研国家线](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=7&Refer=top)<br />
+8. [男生在机场查到考研408分激动大喊](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%9C%A8%E6%9C%BA%E5%9C%BA%E6%9F%A5%E5%88%B0%E8%80%83%E7%A0%94408%E5%88%86%E6%BF%80%E5%8A%A8%E5%A4%A7%E5%96%8A%23&t=31&band_rank=8&Refer=top)<br />
 9. [巴勒斯坦政府宣布辞职](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
