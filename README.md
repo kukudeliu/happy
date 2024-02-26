@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 20:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 20:54:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [一趟趟务工返岗专列向着春天进发](https://www.baidu.com/s?wd=%E4%B8%80%E8%B6%9F%E8%B6%9F%E5%8A%A1%E5%B7%A5%E8%BF%94%E5%B2%97%E4%B8%93%E5%88%97%E5%90%91%E7%9D%80%E6%98%A5%E5%A4%A9%E8%BF%9B%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [民警被实名举报强暴未成年女孩](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%BC%BA%E6%9A%B4%E6%9C%AA%E6%88%90%E5%B9%B4%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [林志玲林志颖是幼儿园同学](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E6%9E%97%E5%BF%97%E9%A2%96%E6%98%AF%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8C%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [黄文胜被查](https://www.baidu.com/s?wd=%E9%BB%84%E6%96%87%E8%83%9C%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [滑雪场缆车脱轨游客摔落 文旅局回应](https://www.baidu.com/s?wd=%E6%BB%91%E9%9B%AA%E5%9C%BA%E7%BC%86%E8%BD%A6%E8%84%B1%E8%BD%A8%E6%B8%B8%E5%AE%A2%E6%91%94%E8%90%BD+%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#如何扛过人生的至暗时刻#](https://www.baidu.com/s?wd=%23%E5%A6%82%E4%BD%95%E6%89%9B%E8%BF%87%E4%BA%BA%E7%94%9F%E7%9A%84%E8%87%B3%E6%9A%97%E6%97%B6%E5%88%BB%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [山东一钢板厂4名员工死亡？](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E9%92%A2%E6%9D%BF%E5%8E%824%E5%90%8D%E5%91%98%E5%B7%A5%E6%AD%BB%E4%BA%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [一趟趟务工返岗专列向着春天进发](https://www.baidu.com/s?wd=%E4%B8%80%E8%B6%9F%E8%B6%9F%E5%8A%A1%E5%B7%A5%E8%BF%94%E5%B2%97%E4%B8%93%E5%88%97%E5%90%91%E7%9D%80%E6%98%A5%E5%A4%A9%E8%BF%9B%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [民警被实名举报强暴未成年女孩](https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%BC%BA%E6%9A%B4%E6%9C%AA%E6%88%90%E5%B9%B4%E5%A5%B3%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [林志玲林志颖是幼儿园同学](https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%97%E7%8E%B2%E6%9E%97%E5%BF%97%E9%A2%96%E6%98%AF%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8C%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [黄文胜被查](https://www.baidu.com/s?wd=%E9%BB%84%E6%96%87%E8%83%9C%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [滑雪场缆车脱轨游客摔落 文旅局回应](https://www.baidu.com/s?wd=%E6%BB%91%E9%9B%AA%E5%9C%BA%E7%BC%86%E8%BD%A6%E8%84%B1%E8%BD%A8%E6%B8%B8%E5%AE%A2%E6%91%94%E8%90%BD+%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#如何扛过人生的至暗时刻#](https://www.baidu.com/s?wd=%23%E5%A6%82%E4%BD%95%E6%89%9B%E8%BF%87%E4%BA%BA%E7%94%9F%E7%9A%84%E8%87%B3%E6%9A%97%E6%97%B6%E5%88%BB%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [山东一钢板厂4名员工死亡？](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E9%92%A2%E6%9D%BF%E5%8E%824%E5%90%8D%E5%91%98%E5%B7%A5%E6%AD%BB%E4%BA%A1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
