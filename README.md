@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 13:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 13:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [在县城相亲189次我凑合结婚了](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%8E%BF%E5%9F%8E%E7%9B%B8%E4%BA%B2189%E6%AC%A1%E6%88%91%E5%87%91%E5%90%88%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [考研国家线](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=7&Refer=top)<br />
 8. [西安平均招聘薪酬9326元/月](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%B9%B3%E5%9D%87%E6%8B%9B%E8%81%98%E8%96%AA%E9%85%AC9326%E5%85%83%2F%E6%9C%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [人体不会癌变的器官](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E4%B8%8D%E4%BC%9A%E7%99%8C%E5%8F%98%E7%9A%84%E5%99%A8%E5%AE%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [爸爸每周给29岁女儿备好一周饭菜](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E6%AF%8F%E5%91%A8%E7%BB%9929%E5%B2%81%E5%A5%B3%E5%84%BF%E5%A4%87%E5%A5%BD%E4%B8%80%E5%91%A8%E9%A5%AD%E8%8F%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
