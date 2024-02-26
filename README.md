@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 13:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 13:19:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [京津冀十年协同发展谱新篇](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E5%8D%81%E5%B9%B4%E5%8D%8F%E5%90%8C%E5%8F%91%E5%B1%95%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [西安丢刀侍卫换新刀了](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%B8%A2%E5%88%80%E4%BE%8D%E5%8D%AB%E6%8D%A2%E6%96%B0%E5%88%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [开学第一天就收到“免作业卡”](https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%B0%B1%E6%94%B6%E5%88%B0%E2%80%9C%E5%85%8D%E4%BD%9C%E4%B8%9A%E5%8D%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [外国人在中国有钱难花](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%9C%89%E9%92%B1%E9%9A%BE%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [强信心 鼓实劲](https://www.baidu.com/s?wd=%E5%BC%BA%E4%BF%A1%E5%BF%83+%E9%BC%93%E5%AE%9E%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [C罗做不雅动作回应球迷喊梅西](https://www.baidu.com/s?wd=C%E7%BD%97%E5%81%9A%E4%B8%8D%E9%9B%85%E5%8A%A8%E4%BD%9C%E5%9B%9E%E5%BA%94%E7%90%83%E8%BF%B7%E5%96%8A%E6%A2%85%E8%A5%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [京津冀十年协同发展谱新篇](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E5%8D%81%E5%B9%B4%E5%8D%8F%E5%90%8C%E5%8F%91%E5%B1%95%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [西安丢刀侍卫换新刀了](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%B8%A2%E5%88%80%E4%BE%8D%E5%8D%AB%E6%8D%A2%E6%96%B0%E5%88%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [开学第一天就收到“免作业卡”](https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%B0%B1%E6%94%B6%E5%88%B0%E2%80%9C%E5%85%8D%E4%BD%9C%E4%B8%9A%E5%8D%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [外国人在中国有钱难花](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%9C%89%E9%92%B1%E9%9A%BE%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [强信心 鼓实劲](https://www.baidu.com/s?wd=%E5%BC%BA%E4%BF%A1%E5%BF%83+%E9%BC%93%E5%AE%9E%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [C罗做不雅动作回应球迷喊梅西](https://www.baidu.com/s?wd=C%E7%BD%97%E5%81%9A%E4%B8%8D%E9%9B%85%E5%8A%A8%E4%BD%9C%E5%9B%9E%E5%BA%94%E7%90%83%E8%BF%B7%E5%96%8A%E6%A2%85%E8%A5%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
