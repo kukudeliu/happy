@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 11:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 11:17:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [333](https://s.weibo.com/weibo?q=333&t=31&band_rank=4&Refer=top)<br />
 5. [C罗做不雅动作回应球迷喊梅西](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%81%9A%E4%B8%8D%E9%9B%85%E5%8A%A8%E4%BD%9C%E5%9B%9E%E5%BA%94%E7%90%83%E8%BF%B7%E5%96%8A%E6%A2%85%E8%A5%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [考研国家线](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=6&Refer=top)<br />
-7. [妈妈喜欢把洗碗布放水龙头上](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E5%96%9C%E6%AC%A2%E6%8A%8A%E6%B4%97%E7%A2%97%E5%B8%83%E6%94%BE%E6%B0%B4%E9%BE%99%E5%A4%B4%E4%B8%8A&t=31&band_rank=7&Refer=top)<br />
-8. [演唱会门票秒没票务那儿大把](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%A7%92%E6%B2%A1%E7%A5%A8%E5%8A%A1%E9%82%A3%E5%84%BF%E5%A4%A7%E6%8A%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [一家三口同患上甲状腺癌](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%8C%E6%82%A3%E4%B8%8A%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%23&t=31&band_rank=9&Refer=top)<br />
+7. [三个月喝了近一千块的奶茶](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%AA%E6%9C%88%E5%96%9D%E4%BA%86%E8%BF%91%E4%B8%80%E5%8D%83%E5%9D%97%E7%9A%84%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=7&Refer=top)<br />
+8. [妈妈喜欢把洗碗布放水龙头上](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E5%96%9C%E6%AC%A2%E6%8A%8A%E6%B4%97%E7%A2%97%E5%B8%83%E6%94%BE%E6%B0%B4%E9%BE%99%E5%A4%B4%E4%B8%8A&t=31&band_rank=8&Refer=top)<br />
+9. [演唱会门票秒没票务那儿大把](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%A7%92%E6%B2%A1%E7%A5%A8%E5%8A%A1%E9%82%A3%E5%84%BF%E5%A4%A7%E6%8A%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
