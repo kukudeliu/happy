@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 19:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 19:44:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [怎么劝退我买这件衣服](https://s.weibo.com/weibo?q=%E6%80%8E%E4%B9%88%E5%8A%9D%E9%80%80%E6%88%91%E4%B9%B0%E8%BF%99%E4%BB%B6%E8%A1%A3%E6%9C%8D&t=31&band_rank=5&Refer=top)<br />
 6. [帮邻居卖芹菜赚14元被罚10万](https://s.weibo.com/weibo?q=%23%E5%B8%AE%E9%82%BB%E5%B1%85%E5%8D%96%E8%8A%B9%E8%8F%9C%E8%B5%9A14%E5%85%83%E8%A2%AB%E7%BD%9A10%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [TES对战FPX](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98FPX%23&t=31&band_rank=7&Refer=top)<br />
-8. [六盘水](https://s.weibo.com/weibo?q=%E5%85%AD%E7%9B%98%E6%B0%B4&t=31&band_rank=8&Refer=top)<br />
+8. [papi酱 工作中的崩溃时刻](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E5%B7%A5%E4%BD%9C%E4%B8%AD%E7%9A%84%E5%B4%A9%E6%BA%83%E6%97%B6%E5%88%BB&t=31&band_rank=8&Refer=top)<br />
 9. [带状疱疹是最疼的皮肤病之一](https://s.weibo.com/weibo?q=%23%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E6%98%AF%E6%9C%80%E7%96%BC%E7%9A%84%E7%9A%AE%E8%82%A4%E7%97%85%E4%B9%8B%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
