@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 14:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 14:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [娃哈哈纯净水为什么是596ml](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E7%BA%AF%E5%87%80%E6%B0%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF596ml%23&t=31&band_rank=6&Refer=top)<br />
 7. [周深把杨幂的英雄池摸透了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%8A%8A%E6%9D%A8%E5%B9%82%E7%9A%84%E8%8B%B1%E9%9B%84%E6%B1%A0%E6%91%B8%E9%80%8F%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [爸爸每周给29岁女儿备好一周饭菜](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E6%AF%8F%E5%91%A8%E7%BB%9929%E5%B2%81%E5%A5%B3%E5%84%BF%E5%A4%87%E5%A5%BD%E4%B8%80%E5%91%A8%E9%A5%AD%E8%8F%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [王安宇登门拜访姐夫了吗](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E7%99%BB%E9%97%A8%E6%8B%9C%E8%AE%BF%E5%A7%90%E5%A4%AB%E4%BA%86%E5%90%97&t=31&band_rank=9&Refer=top)<br />
+9. [韩国超一万名实习和住院医生辞职](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B6%85%E4%B8%80%E4%B8%87%E5%90%8D%E5%AE%9E%E4%B9%A0%E5%92%8C%E4%BD%8F%E9%99%A2%E5%8C%BB%E7%94%9F%E8%BE%9E%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
