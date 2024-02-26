@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 09:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 09:46:01</h4></div>
 
 > 微博  
 
 1. [考研成绩](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9&t=31&band_rank=1&Refer=top)<br />
-2. [考研](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94&t=31&band_rank=2&Refer=top)<br />
+2. [考研国家线](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=2&Refer=top)<br />
 3. [中国载人月球探测任务正有序推进](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BD%BD%E4%BA%BA%E6%9C%88%E7%90%83%E6%8E%A2%E6%B5%8B%E4%BB%BB%E5%8A%A1%E6%AD%A3%E6%9C%89%E5%BA%8F%E6%8E%A8%E8%BF%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [我直接把家庭群给掀了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9B%B4%E6%8E%A5%E6%8A%8A%E5%AE%B6%E5%BA%AD%E7%BE%A4%E7%BB%99%E6%8E%80%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [考研国家线](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=5&Refer=top)<br />
+5. [考研](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94&t=31&band_rank=5&Refer=top)<br />
 6. [娃哈哈 实验室御用水](https://s.weibo.com/weibo?q=%E5%A8%83%E5%93%88%E5%93%88%20%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%BE%A1%E7%94%A8%E6%B0%B4&t=31&band_rank=6&Refer=top)<br />
 7. [宗庆后曾公开怼马云后握手言和](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E6%9B%BE%E5%85%AC%E5%BC%80%E6%80%BC%E9%A9%AC%E4%BA%91%E5%90%8E%E6%8F%A1%E6%89%8B%E8%A8%80%E5%92%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [演唱会门票秒没票务那儿大把](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%A7%92%E6%B2%A1%E7%A5%A8%E5%8A%A1%E9%82%A3%E5%84%BF%E5%A4%A7%E6%8A%8A%23&t=31&band_rank=8&Refer=top)<br />
