@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 17:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 17:02:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [考研成绩](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9&t=31&band_rank=5&Refer=top)<br />
 6. [考研国家线](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=6&Refer=top)<br />
 7. [英语二国家线](https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E4%BA%8C%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=7&Refer=top)<br />
-8. [为什么快递名都要写假名字](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BF%AB%E9%80%92%E5%90%8D%E9%83%BD%E8%A6%81%E5%86%99%E5%81%87%E5%90%8D%E5%AD%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子听老婆话挪车成功躲过一劫](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%AC%E8%80%81%E5%A9%86%E8%AF%9D%E6%8C%AA%E8%BD%A6%E6%88%90%E5%8A%9F%E8%BA%B2%E8%BF%87%E4%B8%80%E5%8A%AB%23&t=31&band_rank=9&Refer=top)<br />
+8. [男子听老婆话挪车成功躲过一劫](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%AC%E8%80%81%E5%A9%86%E8%AF%9D%E6%8C%AA%E8%BD%A6%E6%88%90%E5%8A%9F%E8%BA%B2%E8%BF%87%E4%B8%80%E5%8A%AB%23&t=31&band_rank=8&Refer=top)<br />
+9. [为什么快递名都要写假名字](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BF%AB%E9%80%92%E5%90%8D%E9%83%BD%E8%A6%81%E5%86%99%E5%81%87%E5%90%8D%E5%AD%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
