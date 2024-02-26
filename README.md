@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 08:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 08:23:01</h4></div>
 
 > 微博  
 
-1. [考研](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94&t=31&band_rank=1&Refer=top)<br />
-2. [娃哈哈 实验室御用水](https://s.weibo.com/weibo?q=%E5%A8%83%E5%93%88%E5%93%88%20%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%BE%A1%E7%94%A8%E6%B0%B4&t=31&band_rank=2&Refer=top)<br />
+1. [娃哈哈 实验室御用水](https://s.weibo.com/weibo?q=%E5%A8%83%E5%93%88%E5%93%88%20%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%BE%A1%E7%94%A8%E6%B0%B4&t=31&band_rank=1&Refer=top)<br />
+2. [考研](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94&t=31&band_rank=2&Refer=top)<br />
 3. [中国载人月球探测任务正有序推进](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BD%BD%E4%BA%BA%E6%9C%88%E7%90%83%E6%8E%A2%E6%B5%8B%E4%BB%BB%E5%8A%A1%E6%AD%A3%E6%9C%89%E5%BA%8F%E6%8E%A8%E8%BF%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [赴华韩国游客数量暴增900%](https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%8D%8E%E9%9F%A9%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%95%B0%E9%87%8F%E6%9A%B4%E5%A2%9E900%25%23&t=31&band_rank=4&Refer=top)<br />
 5. [张小斐曾陪贾玲考研自己考上了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%9B%BE%E9%99%AA%E8%B4%BE%E7%8E%B2%E8%80%83%E7%A0%94%E8%87%AA%E5%B7%B1%E8%80%83%E4%B8%8A%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
