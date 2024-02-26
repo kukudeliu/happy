@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 16:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 16:34:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郭涛儿子石头17岁近照](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%B6%9B%E5%84%BF%E5%AD%90%E7%9F%B3%E5%A4%B417%E5%B2%81%E8%BF%91%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [考研国家线](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=7&Refer=top)<br />
 8. [娃哈哈纯净水为什么是596ml](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E7%BA%AF%E5%87%80%E6%B0%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF596ml%23&t=31&band_rank=8&Refer=top)<br />
-9. [A股超3600只个股上涨](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%B6%853600%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [人体不会癌变的器官](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E4%B8%8D%E4%BC%9A%E7%99%8C%E5%8F%98%E7%9A%84%E5%99%A8%E5%AE%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
