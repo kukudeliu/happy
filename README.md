@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 10:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 10:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [英语二](https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E4%BA%8C&t=31&band_rank=6&Refer=top)<br />
 7. [马云发挽联悼念宗庆后](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BA%91%E5%8F%91%E6%8C%BD%E8%81%94%E6%82%BC%E5%BF%B5%E5%AE%97%E5%BA%86%E5%90%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [演唱会门票秒没票务那儿大把](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%A7%92%E6%B2%A1%E7%A5%A8%E5%8A%A1%E9%82%A3%E5%84%BF%E5%A4%A7%E6%8A%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [宗庆后曾公开怼马云后握手言和](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E6%9B%BE%E5%85%AC%E5%BC%80%E6%80%BC%E9%A9%AC%E4%BA%91%E5%90%8E%E6%8F%A1%E6%89%8B%E8%A8%80%E5%92%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [肖战发型 龙头](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%91%E5%9E%8B%20%E9%BE%99%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
