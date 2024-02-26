@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 11:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 11:48:01</h4></div>
 
 > 微博  
 
-1. [考研成绩](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9&t=31&band_rank=1&Refer=top)<br />
-2. [三个月喝了近一千块的奶茶](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%AA%E6%9C%88%E5%96%9D%E4%BA%86%E8%BF%91%E4%B8%80%E5%8D%83%E5%9D%97%E7%9A%84%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=2&Refer=top)<br />
+1. [三个月喝了近一千块的奶茶](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%AA%E6%9C%88%E5%96%9D%E4%BA%86%E8%BF%91%E4%B8%80%E5%8D%83%E5%9D%97%E7%9A%84%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=1&Refer=top)<br />
+2. [考研成绩](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9&t=31&band_rank=2&Refer=top)<br />
 3. [中国载人月球探测任务正有序推进](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BD%BD%E4%BA%BA%E6%9C%88%E7%90%83%E6%8E%A2%E6%B5%8B%E4%BB%BB%E5%8A%A1%E6%AD%A3%E6%9C%89%E5%BA%8F%E6%8E%A8%E8%BF%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [333](https://s.weibo.com/weibo?q=333&t=31&band_rank=4&Refer=top)<br />
 5. [失踪4姐弟凌晨被发现在芦苇丛睡觉](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%B8%AA4%E5%A7%90%E5%BC%9F%E5%87%8C%E6%99%A8%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%9C%A8%E8%8A%A6%E8%8B%87%E4%B8%9B%E7%9D%A1%E8%A7%89%23&t=31&band_rank=5&Refer=top)<br />
