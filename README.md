@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 16:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 16:48:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么快递名都要写假名字](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BF%AB%E9%80%92%E5%90%8D%E9%83%BD%E8%A6%81%E5%86%99%E5%81%87%E5%90%8D%E5%AD%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [郭涛儿子石头17岁近照](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%B6%9B%E5%84%BF%E5%AD%90%E7%9F%B3%E5%A4%B417%E5%B2%81%E8%BF%91%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [英语二国家线](https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E4%BA%8C%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=8&Refer=top)<br />
-9. [龙年一起向更高的目标进发](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E4%B8%80%E8%B5%B7%E5%90%91%E6%9B%B4%E9%AB%98%E7%9A%84%E7%9B%AE%E6%A0%87%E8%BF%9B%E5%8F%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子听老婆话挪车成功躲过一劫](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%AC%E8%80%81%E5%A9%86%E8%AF%9D%E6%8C%AA%E8%BD%A6%E6%88%90%E5%8A%9F%E8%BA%B2%E8%BF%87%E4%B8%80%E5%8A%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
