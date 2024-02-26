@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 16:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 16:55:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [考研成绩](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9&t=31&band_rank=4&Refer=top)<br />
 5. [考研国家线](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=5&Refer=top)<br />
 6. [英语二国家线](https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E4%BA%8C%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=6&Refer=top)<br />
-7. [为什么快递名都要写假名字](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BF%AB%E9%80%92%E5%90%8D%E9%83%BD%E8%A6%81%E5%86%99%E5%81%87%E5%90%8D%E5%AD%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [巴勒斯坦政府宣布辞职](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
+7. [巴勒斯坦政府宣布辞职](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [为什么快递名都要写假名字](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BF%AB%E9%80%92%E5%90%8D%E9%83%BD%E8%A6%81%E5%86%99%E5%81%87%E5%90%8D%E5%AD%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [郭涛儿子石头17岁近照](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%B6%9B%E5%84%BF%E5%AD%90%E7%9F%B3%E5%A4%B417%E5%B2%81%E8%BF%91%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
