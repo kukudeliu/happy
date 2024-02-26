@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 19:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 19:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [帮邻居卖芹菜赚14元被罚10万](https://s.weibo.com/weibo?q=%23%E5%B8%AE%E9%82%BB%E5%B1%85%E5%8D%96%E8%8A%B9%E8%8F%9C%E8%B5%9A14%E5%85%83%E8%A2%AB%E7%BD%9A10%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [TES对战FPX](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98FPX%23&t=31&band_rank=7&Refer=top)<br />
 8. [六盘水](https://s.weibo.com/weibo?q=%E5%85%AD%E7%9B%98%E6%B0%B4&t=31&band_rank=8&Refer=top)<br />
-9. [林志玲林志颖是幼儿园同学](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E6%9E%97%E5%BF%97%E9%A2%96%E6%98%AF%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8C%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [带状疱疹是最疼的皮肤病之一](https://s.weibo.com/weibo?q=%23%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E6%98%AF%E6%9C%80%E7%96%BC%E7%9A%84%E7%9A%AE%E8%82%A4%E7%97%85%E4%B9%8B%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
