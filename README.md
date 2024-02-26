@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 10:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 11:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [我直接把家庭群给掀了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9B%B4%E6%8E%A5%E6%8A%8A%E5%AE%B6%E5%BA%AD%E7%BE%A4%E7%BB%99%E6%8E%80%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [英语二](https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E4%BA%8C&t=31&band_rank=7&Refer=top)<br />
 8. [演唱会门票秒没票务那儿大把](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%A7%92%E6%B2%A1%E7%A5%A8%E5%8A%A1%E9%82%A3%E5%84%BF%E5%A4%A7%E6%8A%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战发型 龙头](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%91%E5%9E%8B%20%E9%BE%99%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
+9. [333](https://s.weibo.com/weibo?q=333&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
