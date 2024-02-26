@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 13:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 13:01:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [京津冀十年协同发展谱新篇](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E5%8D%81%E5%B9%B4%E5%8D%8F%E5%90%8C%E5%8F%91%E5%B1%95%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [宗馥莉接任娃哈哈电商执行董事](https://www.baidu.com/s?wd=%E5%AE%97%E9%A6%A5%E8%8E%89%E6%8E%A5%E4%BB%BB%E5%A8%83%E5%93%88%E5%93%88%E7%94%B5%E5%95%86%E6%89%A7%E8%A1%8C%E8%91%A3%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [西安丢刀侍卫换新刀了](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%B8%A2%E5%88%80%E4%BE%8D%E5%8D%AB%E6%8D%A2%E6%96%B0%E5%88%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [外国人在中国有钱难花](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%9C%89%E9%92%B1%E9%9A%BE%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [强信心 鼓实劲](https://www.baidu.com/s?wd=%E5%BC%BA%E4%BF%A1%E5%BF%83+%E9%BC%93%E5%AE%9E%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [娃哈哈老总部附近AD钙奶售罄](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E8%80%81%E6%80%BB%E9%83%A8%E9%99%84%E8%BF%91AD%E9%92%99%E5%A5%B6%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [C罗做不雅动作回应球迷喊梅西](https://www.baidu.com/s?wd=C%E7%BD%97%E5%81%9A%E4%B8%8D%E9%9B%85%E5%8A%A8%E4%BD%9C%E5%9B%9E%E5%BA%94%E7%90%83%E8%BF%B7%E5%96%8A%E6%A2%85%E8%A5%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [失踪4姐弟凌晨被发现在芦苇丛睡觉](https://www.baidu.com/s?wd=%E5%A4%B1%E8%B8%AA4%E5%A7%90%E5%BC%9F%E5%87%8C%E6%99%A8%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%9C%A8%E8%8A%A6%E8%8B%87%E4%B8%9B%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宗庆后留给女儿500亿重担](https://www.baidu.com/s?wd=%E5%AE%97%E5%BA%86%E5%90%8E%E7%95%99%E7%BB%99%E5%A5%B3%E5%84%BF500%E4%BA%BF%E9%87%8D%E6%8B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [房价越降越不敢买](https://www.baidu.com/s?wd=%E6%88%BF%E4%BB%B7%E8%B6%8A%E9%99%8D%E8%B6%8A%E4%B8%8D%E6%95%A2%E4%B9%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友吐槽海葬太贵了](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%B5%B7%E8%91%AC%E5%A4%AA%E8%B4%B5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [外卖员在车站被围殴？](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E8%BD%A6%E7%AB%99%E8%A2%AB%E5%9B%B4%E6%AE%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [京津冀十年协同发展谱新篇](https://www.baidu.com/s?wd=%E4%BA%AC%E6%B4%A5%E5%86%80%E5%8D%81%E5%B9%B4%E5%8D%8F%E5%90%8C%E5%8F%91%E5%B1%95%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [宗馥莉接任娃哈哈电商执行董事](https://www.baidu.com/s?wd=%E5%AE%97%E9%A6%A5%E8%8E%89%E6%8E%A5%E4%BB%BB%E5%A8%83%E5%93%88%E5%93%88%E7%94%B5%E5%95%86%E6%89%A7%E8%A1%8C%E8%91%A3%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [西安丢刀侍卫换新刀了](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%B8%A2%E5%88%80%E4%BE%8D%E5%8D%AB%E6%8D%A2%E6%96%B0%E5%88%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [外国人在中国有钱难花](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%9C%89%E9%92%B1%E9%9A%BE%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [强信心 鼓实劲](https://www.baidu.com/s?wd=%E5%BC%BA%E4%BF%A1%E5%BF%83+%E9%BC%93%E5%AE%9E%E5%8A%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [娃哈哈老总部附近AD钙奶售罄](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E8%80%81%E6%80%BB%E9%83%A8%E9%99%84%E8%BF%91AD%E9%92%99%E5%A5%B6%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [C罗做不雅动作回应球迷喊梅西](https://www.baidu.com/s?wd=C%E7%BD%97%E5%81%9A%E4%B8%8D%E9%9B%85%E5%8A%A8%E4%BD%9C%E5%9B%9E%E5%BA%94%E7%90%83%E8%BF%B7%E5%96%8A%E6%A2%85%E8%A5%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [失踪4姐弟凌晨被发现在芦苇丛睡觉](https://www.baidu.com/s?wd=%E5%A4%B1%E8%B8%AA4%E5%A7%90%E5%BC%9F%E5%87%8C%E6%99%A8%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%9C%A8%E8%8A%A6%E8%8B%87%E4%B8%9B%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [宗庆后留给女儿500亿重担](https://www.baidu.com/s?wd=%E5%AE%97%E5%BA%86%E5%90%8E%E7%95%99%E7%BB%99%E5%A5%B3%E5%84%BF500%E4%BA%BF%E9%87%8D%E6%8B%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [房价越降越不敢买](https://www.baidu.com/s?wd=%E6%88%BF%E4%BB%B7%E8%B6%8A%E9%99%8D%E8%B6%8A%E4%B8%8D%E6%95%A2%E4%B9%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网友吐槽海葬太贵了](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%B5%B7%E8%91%AC%E5%A4%AA%E8%B4%B5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [外卖员在车站被围殴？](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E8%BD%A6%E7%AB%99%E8%A2%AB%E5%9B%B4%E6%AE%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
