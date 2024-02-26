@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 14:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 14:27:03</h4></div>
 
 > 微博  
 
-1. [考研成绩](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9&t=31&band_rank=1&Refer=top)<br />
-2. [小徐上岸](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%BE%90%E4%B8%8A%E5%B2%B8&t=31&band_rank=2&Refer=top)<br />
+1. [小徐上岸](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%BE%90%E4%B8%8A%E5%B2%B8&t=31&band_rank=1&Refer=top)<br />
+2. [考研成绩](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9&t=31&band_rank=2&Refer=top)<br />
 3. [龙年一起向更高的目标进发](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E4%B8%80%E8%B5%B7%E5%90%91%E6%9B%B4%E9%AB%98%E7%9A%84%E7%9B%AE%E6%A0%87%E8%BF%9B%E5%8F%91%23&t=31&band_rank=3&Refer=top)<br />
 4. [三个月喝了近一千块的奶茶](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%AA%E6%9C%88%E5%96%9D%E4%BA%86%E8%BF%91%E4%B8%80%E5%8D%83%E5%9D%97%E7%9A%84%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [爸爸每周给29岁女儿备好一周饭菜](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E6%AF%8F%E5%91%A8%E7%BB%9929%E5%B2%81%E5%A5%B3%E5%84%BF%E5%A4%87%E5%A5%BD%E4%B8%80%E5%91%A8%E9%A5%AD%E8%8F%9C%23&t=31&band_rank=5&Refer=top)<br />
