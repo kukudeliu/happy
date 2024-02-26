@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 20:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 20:49:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [暨南大学 谁查到了](https://s.weibo.com/weibo?q=%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%20%E8%B0%81%E6%9F%A5%E5%88%B0%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [掌心 刘诗诗窦骁](https://s.weibo.com/weibo?q=%E6%8E%8C%E5%BF%83%20%E5%88%98%E8%AF%97%E8%AF%97%E7%AA%A6%E9%AA%81&t=31&band_rank=7&Refer=top)<br />
 8. [刘亦菲晒阿布扎比随拍](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%99%92%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E9%9A%8F%E6%8B%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [带状疱疹是最疼的皮肤病之一](https://s.weibo.com/weibo?q=%23%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E6%98%AF%E6%9C%80%E7%96%BC%E7%9A%84%E7%9A%AE%E8%82%A4%E7%97%85%E4%B9%8B%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [年轻人为啥总穿丑衣服上班](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E5%95%A5%E6%80%BB%E7%A9%BF%E4%B8%91%E8%A1%A3%E6%9C%8D%E4%B8%8A%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
