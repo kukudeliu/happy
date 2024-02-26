@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 17:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 17:46:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [韩国承诺医生们29日前返岗不追责](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%89%BF%E8%AF%BA%E5%8C%BB%E7%94%9F%E4%BB%AC29%E6%97%A5%E5%89%8D%E8%BF%94%E5%B2%97%E4%B8%8D%E8%BF%BD%E8%B4%A3%23&t=31&band_rank=4&Refer=top)<br />
 5. [林志玲林志颖是幼儿园同学](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E6%9E%97%E5%BF%97%E9%A2%96%E6%98%AF%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8C%E5%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [考研国家线](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=6&Refer=top)<br />
-7. [英语二国家线](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%AF%AD%E4%BA%8C%E5%9B%BD%E5%AE%B6%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [小徐回应考研上岸](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%BE%90%E5%9B%9E%E5%BA%94%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%23&t=31&band_rank=8&Refer=top)<br />
+7. [小徐回应考研上岸](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%BE%90%E5%9B%9E%E5%BA%94%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%23&t=31&band_rank=7&Refer=top)<br />
+8. [英语二国家线](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%AF%AD%E4%BA%8C%E5%9B%BD%E5%AE%B6%E7%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
 9. [考研成绩](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
