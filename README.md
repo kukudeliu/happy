@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 22:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-26 22:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [清华大学澄清停招土木工程专业](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%BE%84%E6%B8%85%E5%81%9C%E6%8B%9B%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂穿高定打游戏](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%A9%BF%E9%AB%98%E5%AE%9A%E6%89%93%E6%B8%B8%E6%88%8F%23&t=31&band_rank=7&Refer=top)<br />
 8. [经常熬夜的人脸有多垮](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E7%86%AC%E5%A4%9C%E7%9A%84%E4%BA%BA%E8%84%B8%E6%9C%89%E5%A4%9A%E5%9E%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [王鹤棣录制全员加速中](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%BD%95%E5%88%B6%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [宗庆后不裁45岁以上员工](https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E4%B8%8D%E8%A3%8145%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%91%98%E5%B7%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
