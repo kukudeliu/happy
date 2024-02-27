@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 04:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 04:18:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [上海到北京仅需2.5小时](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [53城房价跌回一年前](https://www.baidu.com/s?wd=53%E5%9F%8E%E6%88%BF%E4%BB%B7%E8%B7%8C%E5%9B%9E%E4%B8%80%E5%B9%B4%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蔡英文财产曝光](https://www.baidu.com/s?wd=%E8%94%A1%E8%8B%B1%E6%96%87%E8%B4%A2%E4%BA%A7%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [自焚美国军人临终遗言公开](https://www.baidu.com/s?wd=%E8%87%AA%E7%84%9A%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%BA%E4%B8%B4%E7%BB%88%E9%81%97%E8%A8%80%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2男子持加特林向文物扫射被拘](https://www.baidu.com/s?wd=2%E7%94%B7%E5%AD%90%E6%8C%81%E5%8A%A0%E7%89%B9%E6%9E%97%E5%90%91%E6%96%87%E7%89%A9%E6%89%AB%E5%B0%84%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [上海到北京仅需2.5小时](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [53城房价跌回一年前](https://www.baidu.com/s?wd=53%E5%9F%8E%E6%88%BF%E4%BB%B7%E8%B7%8C%E5%9B%9E%E4%B8%80%E5%B9%B4%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [蔡英文财产曝光](https://www.baidu.com/s?wd=%E8%94%A1%E8%8B%B1%E6%96%87%E8%B4%A2%E4%BA%A7%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [自焚美国军人临终遗言公开](https://www.baidu.com/s?wd=%E8%87%AA%E7%84%9A%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%BA%E4%B8%B4%E7%BB%88%E9%81%97%E8%A8%80%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2男子持加特林向文物扫射被拘](https://www.baidu.com/s?wd=2%E7%94%B7%E5%AD%90%E6%8C%81%E5%8A%A0%E7%89%B9%E6%9E%97%E5%90%91%E6%96%87%E7%89%A9%E6%89%AB%E5%B0%84%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
