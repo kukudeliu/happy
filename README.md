@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 02:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 02:24:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [美国共产主义者宣布成立政党](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%80%85%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E6%94%BF%E5%85%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024年全国两会新闻中心启用](https://www.baidu.com/s?wd=2024%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83%E5%90%AF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海到北京仅需2.5小时](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [32岁“母单”女孩：6年相亲百人](https://www.baidu.com/s?wd=32%E5%B2%81%E2%80%9C%E6%AF%8D%E5%8D%95%E2%80%9D%E5%A5%B3%E5%AD%A9%EF%BC%9A6%E5%B9%B4%E7%9B%B8%E4%BA%B2%E7%99%BE%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [理想市值一天涨了1个小鹏](https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%A9%E6%B6%A8%E4%BA%861%E4%B8%AA%E5%B0%8F%E9%B9%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王自如被强执3383万](https://www.baidu.com/s?wd=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%A2%AB%E5%BC%BA%E6%89%A73383%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [2男子穿东北大花袄演美人鱼走红](https://www.baidu.com/s?wd=2%E7%94%B7%E5%AD%90%E7%A9%BF%E4%B8%9C%E5%8C%97%E5%A4%A7%E8%8A%B1%E8%A2%84%E6%BC%94%E7%BE%8E%E4%BA%BA%E9%B1%BC%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [陈梦重回世界第二](https://www.baidu.com/s?wd=%E9%99%88%E6%A2%A6%E9%87%8D%E5%9B%9E%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [比特币现货突破5.7万美元](https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E7%8E%B0%E8%B4%A7%E7%AA%81%E7%A0%B45.7%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [美国共产主义者宣布成立政党](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%80%85%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E6%94%BF%E5%85%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024年全国两会新闻中心启用](https://www.baidu.com/s?wd=2024%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83%E5%90%AF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海到北京仅需2.5小时](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [32岁“母单”女孩：6年相亲百人](https://www.baidu.com/s?wd=32%E5%B2%81%E2%80%9C%E6%AF%8D%E5%8D%95%E2%80%9D%E5%A5%B3%E5%AD%A9%EF%BC%9A6%E5%B9%B4%E7%9B%B8%E4%BA%B2%E7%99%BE%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [理想市值一天涨了1个小鹏](https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%A9%E6%B6%A8%E4%BA%861%E4%B8%AA%E5%B0%8F%E9%B9%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王自如被强执3383万](https://www.baidu.com/s?wd=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%A2%AB%E5%BC%BA%E6%89%A73383%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [2男子穿东北大花袄演美人鱼走红](https://www.baidu.com/s?wd=2%E7%94%B7%E5%AD%90%E7%A9%BF%E4%B8%9C%E5%8C%97%E5%A4%A7%E8%8A%B1%E8%A2%84%E6%BC%94%E7%BE%8E%E4%BA%BA%E9%B1%BC%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [陈梦重回世界第二](https://www.baidu.com/s?wd=%E9%99%88%E6%A2%A6%E9%87%8D%E5%9B%9E%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [比特币现货突破5.7万美元](https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E7%8E%B0%E8%B4%A7%E7%AA%81%E7%A0%B45.7%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
