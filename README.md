@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 07:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 07:55:01</h4></div>
 
 > 微博  
 
 1. [27岁才意识到朋友都是阶段性的](https://s.weibo.com/weibo?q=27%E5%B2%81%E6%89%8D%E6%84%8F%E8%AF%86%E5%88%B0%E6%9C%8B%E5%8F%8B%E9%83%BD%E6%98%AF%E9%98%B6%E6%AE%B5%E6%80%A7%E7%9A%84&t=31&band_rank=1&Refer=top)<br />
-2. [台湾省](https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E7%9C%81&t=31&band_rank=2&Refer=top)<br />
+2. [李湘前夫李厚霖给李亚鹏直播打赏](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B9%98%E5%89%8D%E5%A4%AB%E6%9D%8E%E5%8E%9A%E9%9C%96%E7%BB%99%E6%9D%8E%E4%BA%9A%E9%B9%8F%E7%9B%B4%E6%92%AD%E6%89%93%E8%B5%8F%23&t=31&band_rank=2&Refer=top)<br />
 3. [中国空间站进入常态化运营模式](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E8%BF%9B%E5%85%A5%E5%B8%B8%E6%80%81%E5%8C%96%E8%BF%90%E8%90%A5%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=3&Refer=top)<br />
-4. [李湘前夫李厚霖给李亚鹏直播打赏](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B9%98%E5%89%8D%E5%A4%AB%E6%9D%8E%E5%8E%9A%E9%9C%96%E7%BB%99%E6%9D%8E%E4%BA%9A%E9%B9%8F%E7%9B%B4%E6%92%AD%E6%89%93%E8%B5%8F%23&t=31&band_rank=4&Refer=top)<br />
+4. [台湾省](https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E7%9C%81&t=31&band_rank=4&Refer=top)<br />
 5. [地铁小姐姐连摔两跤滑跪按下急停按钮](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%B0%8F%E5%A7%90%E5%A7%90%E8%BF%9E%E6%91%94%E4%B8%A4%E8%B7%A4%E6%BB%91%E8%B7%AA%E6%8C%89%E4%B8%8B%E6%80%A5%E5%81%9C%E6%8C%89%E9%92%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [第5例被治愈的艾滋病患者](https://s.weibo.com/weibo?q=%23%E7%AC%AC5%E4%BE%8B%E8%A2%AB%E6%B2%BB%E6%84%88%E7%9A%84%E8%89%BE%E6%BB%8B%E7%97%85%E6%82%A3%E8%80%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [为何山姆穷鬼套餐让中产疯狂](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E5%B1%B1%E5%A7%86%E7%A9%B7%E9%AC%BC%E5%A5%97%E9%A4%90%E8%AE%A9%E4%B8%AD%E4%BA%A7%E7%96%AF%E7%8B%82%23&t=31&band_rank=7&Refer=top)<br />
