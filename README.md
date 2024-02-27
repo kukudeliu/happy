@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 18:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 18:54:02</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [李亚鹏直播哭穷](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%E7%9B%B4%E6%92%AD%E5%93%AD%E7%A9%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [美国共产主义者宣布成立政党](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%80%85%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E6%94%BF%E5%85%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [双体制意味着什么](https://s.weibo.com/weibo?q=%E5%8F%8C%E4%BD%93%E5%88%B6%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&t=31&band_rank=6&Refer=top)<br />
-7. [笑果艺人现状](https://s.weibo.com/weibo?q=%E7%AC%91%E6%9E%9C%E8%89%BA%E4%BA%BA%E7%8E%B0%E7%8A%B6&t=31&band_rank=7&Refer=top)<br />
+7. [日本去年新生婴儿75万人](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8E%BB%E5%B9%B4%E6%96%B0%E7%94%9F%E5%A9%B4%E5%84%BF75%E4%B8%87%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [苏炳添60米6秒66](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB60%E7%B1%B36%E7%A7%9266%23&t=31&band_rank=8&Refer=top)<br />
 9. [警察用胸口为老人捂脚取暖](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E7%94%A8%E8%83%B8%E5%8F%A3%E4%B8%BA%E8%80%81%E4%BA%BA%E6%8D%82%E8%84%9A%E5%8F%96%E6%9A%96%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -23,7 +23,7 @@
 4. [在世界屋脊仰望浩瀚宇宙](https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%96%E7%95%8C%E5%B1%8B%E8%84%8A%E4%BB%B0%E6%9C%9B%E6%B5%A9%E7%80%9A%E5%AE%87%E5%AE%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李亚鹏直播哭穷](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BA%9A%E9%B9%8F%E7%9B%B4%E6%92%AD%E5%93%AD%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2男子持加特林向文物扫射被拘](https://www.baidu.com/s?wd=2%E7%94%B7%E5%AD%90%E6%8C%81%E5%8A%A0%E7%89%B9%E6%9E%97%E5%90%91%E6%96%87%E7%89%A9%E6%89%AB%E5%B0%84%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩国宣布辞职医生再不复岗司法处理](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C%E5%8C%BB%E7%94%9F%E5%86%8D%E4%B8%8D%E5%A4%8D%E5%B2%97%E5%8F%B8%E6%B3%95%E5%A4%84%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网红博主在曼谷航拍被逮捕](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%8D%9A%E4%B8%BB%E5%9C%A8%E6%9B%BC%E8%B0%B7%E8%88%AA%E6%8B%8D%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#财经牛气节#](https://www.baidu.com/s?wd=%23%E8%B4%A2%E7%BB%8F%E7%89%9B%E6%B0%94%E8%8A%82%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [在世界屋脊仰望浩瀚宇宙](https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%96%E7%95%8C%E5%B1%8B%E8%84%8A%E4%BB%B0%E6%9C%9B%E6%B5%A9%E7%80%9A%E5%AE%87%E5%AE%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李亚鹏直播哭穷](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BA%9A%E9%B9%8F%E7%9B%B4%E6%92%AD%E5%93%AD%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2男子持加特林向文物扫射被拘](https://www.baidu.com/s?wd=2%E7%94%B7%E5%AD%90%E6%8C%81%E5%8A%A0%E7%89%B9%E6%9E%97%E5%90%91%E6%96%87%E7%89%A9%E6%89%AB%E5%B0%84%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩国宣布辞职医生再不复岗司法处理](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C%E5%8C%BB%E7%94%9F%E5%86%8D%E4%B8%8D%E5%A4%8D%E5%B2%97%E5%8F%B8%E6%B3%95%E5%A4%84%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网红博主在曼谷航拍被逮捕](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%8D%9A%E4%B8%BB%E5%9C%A8%E6%9B%BC%E8%B0%B7%E8%88%AA%E6%8B%8D%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#财经牛气节#](https://www.baidu.com/s?wd=%23%E8%B4%A2%E7%BB%8F%E7%89%9B%E6%B0%94%E8%8A%82%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
