@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 10:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈乔恩过年胖了快5公斤](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E8%BF%87%E5%B9%B4%E8%83%96%E4%BA%86%E5%BF%AB5%E5%85%AC%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [老人报警称丢了2000元民警找回5万2](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8A%A5%E8%AD%A6%E7%A7%B0%E4%B8%A2%E4%BA%862000%E5%85%83%E6%B0%91%E8%AD%A6%E6%89%BE%E5%9B%9E5%E4%B8%872%23&t=31&band_rank=7&Refer=top)<br />
 8. [C罗将因不雅动作被停赛两场](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%B0%86%E5%9B%A0%E4%B8%8D%E9%9B%85%E5%8A%A8%E4%BD%9C%E8%A2%AB%E5%81%9C%E8%B5%9B%E4%B8%A4%E5%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPhone16Pro配四重棱镜](https://s.weibo.com/weibo?q=%23iPhone16Pro%E9%85%8D%E5%9B%9B%E9%87%8D%E6%A3%B1%E9%95%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [四六级分数出了](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%88%86%E6%95%B0%E5%87%BA%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
