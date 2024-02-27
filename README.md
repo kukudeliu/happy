@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 21:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 21:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李亚鹏直播哭穷](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%E7%9B%B4%E6%92%AD%E5%93%AD%E7%A9%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [网友向王鹤棣道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%91%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [紫川空降](https://s.weibo.com/weibo?q=%23%E7%B4%AB%E5%B7%9D%E7%A9%BA%E9%99%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [seventeen成员将于第四季度开始入伍](https://s.weibo.com/weibo?q=%23seventeen%E6%88%90%E5%91%98%E5%B0%86%E4%BA%8E%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6%E5%BC%80%E5%A7%8B%E5%85%A5%E4%BC%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [喜欢了一个比自己大7岁的姐姐](https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%BA%86%E4%B8%80%E4%B8%AA%E6%AF%94%E8%87%AA%E5%B7%B1%E5%A4%A77%E5%B2%81%E7%9A%84%E5%A7%90%E5%A7%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
