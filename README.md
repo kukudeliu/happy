@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 01:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 01:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小徐英语六级考了353分](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%BE%90%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%80%83%E4%BA%86353%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [喜欢了一个比自己大7岁的姐姐](https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%BA%86%E4%B8%80%E4%B8%AA%E6%AF%94%E8%87%AA%E5%B7%B1%E5%A4%A77%E5%B2%81%E7%9A%84%E5%A7%90%E5%A7%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [为何山姆穷鬼套餐让中产疯狂](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E5%B1%B1%E5%A7%86%E7%A9%B7%E9%AC%BC%E5%A5%97%E9%A4%90%E8%AE%A9%E4%B8%AD%E4%BA%A7%E7%96%AF%E7%8B%82%23&t=31&band_rank=8&Refer=top)<br />
-9. [张致恒儿子患自闭症](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%87%B4%E6%81%92%E5%84%BF%E5%AD%90%E6%82%A3%E8%87%AA%E9%97%AD%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [姜思达 中国的Miley](https://s.weibo.com/weibo?q=%E5%A7%9C%E6%80%9D%E8%BE%BE%20%E4%B8%AD%E5%9B%BD%E7%9A%84Miley&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
