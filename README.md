@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 07:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 07:36:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [风好正是扬帆时](https://www.baidu.com/s?wd=%E9%A3%8E%E5%A5%BD%E6%AD%A3%E6%98%AF%E6%89%AC%E5%B8%86%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [住建部：防止房地产市场大起大落](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E9%98%B2%E6%AD%A2%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E5%A4%A7%E8%B5%B7%E5%A4%A7%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [苹果被曝取消电动汽车项目](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D%E5%8F%96%E6%B6%88%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [苹果被曝取消电动汽车项目](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D%E5%8F%96%E6%B6%88%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [住建部：防止房地产市场大起大落](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E9%98%B2%E6%AD%A2%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E5%A4%A7%E8%B5%B7%E5%A4%A7%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024年全国两会新闻中心启用](https://www.baidu.com/s?wd=2024%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83%E5%90%AF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海到北京仅需2.5小时](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国共产主义者宣布成立政党](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%80%85%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E6%94%BF%E5%85%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [风好正是扬帆时](https://www.baidu.com/s?wd=%E9%A3%8E%E5%A5%BD%E6%AD%A3%E6%98%AF%E6%89%AC%E5%B8%86%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [住建部：防止房地产市场大起大落](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E9%98%B2%E6%AD%A2%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E5%A4%A7%E8%B5%B7%E5%A4%A7%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [苹果被曝取消电动汽车项目](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D%E5%8F%96%E6%B6%88%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [苹果被曝取消电动汽车项目](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D%E5%8F%96%E6%B6%88%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [住建部：防止房地产市场大起大落](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E9%98%B2%E6%AD%A2%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E5%A4%A7%E8%B5%B7%E5%A4%A7%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024年全国两会新闻中心启用](https://www.baidu.com/s?wd=2024%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83%E5%90%AF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海到北京仅需2.5小时](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国共产主义者宣布成立政党](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%80%85%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E6%94%BF%E5%85%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
