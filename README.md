@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 09:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 09:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高群书为姚安娜回怼汪海林](https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%BE%A4%E4%B9%A6%E4%B8%BA%E5%A7%9A%E5%AE%89%E5%A8%9C%E5%9B%9E%E6%80%BC%E6%B1%AA%E6%B5%B7%E6%9E%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [布洛芬 能给卑职一个明示吗](https://s.weibo.com/weibo?q=%E5%B8%83%E6%B4%9B%E8%8A%AC%20%E8%83%BD%E7%BB%99%E5%8D%91%E8%81%8C%E4%B8%80%E4%B8%AA%E6%98%8E%E7%A4%BA%E5%90%97&t=31&band_rank=7&Refer=top)<br />
 8. [文韬受伤](https://s.weibo.com/weibo?q=%E6%96%87%E9%9F%AC%E5%8F%97%E4%BC%A4&t=31&band_rank=8&Refer=top)<br />
-9. [坐高铁由于好奇选了静音车厢](https://s.weibo.com/weibo?q=%E5%9D%90%E9%AB%98%E9%93%81%E7%94%B1%E4%BA%8E%E5%A5%BD%E5%A5%87%E9%80%89%E4%BA%86%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2&t=31&band_rank=9&Refer=top)<br />
+9. [人民网评上班比丑](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E4%B8%8A%E7%8F%AD%E6%AF%94%E4%B8%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
