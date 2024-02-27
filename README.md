@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 13:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 13:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Aespa Drama](https://s.weibo.com/weibo?q=Aespa%20Drama&t=31&band_rank=6&Refer=top)<br />
 7. [董宇辉微博](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [沈月算命](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E7%AE%97%E5%91%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [低彩礼子女优先入学是否公平](https://s.weibo.com/weibo?q=%23%E4%BD%8E%E5%BD%A9%E7%A4%BC%E5%AD%90%E5%A5%B3%E4%BC%98%E5%85%88%E5%85%A5%E5%AD%A6%E6%98%AF%E5%90%A6%E5%85%AC%E5%B9%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [西安领结婚证送10元刮刮乐](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%8110%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
