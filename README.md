@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 02:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 02:38:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [上海到北京仅需2.5小时](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [委员建议元旦端午中秋高速免费](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%85%83%E6%97%A6%E7%AB%AF%E5%8D%88%E4%B8%AD%E7%A7%8B%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子买无座票坐卧铺袭警被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%97%A0%E5%BA%A7%E7%A5%A8%E5%9D%90%E5%8D%A7%E9%93%BA%E8%A2%AD%E8%AD%A6%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [华为将收购高合？知情人士回应](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%86%E6%94%B6%E8%B4%AD%E9%AB%98%E5%90%88%EF%BC%9F%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [两兄弟晚饭后外出失联已一周](https://www.baidu.com/s?wd=%E4%B8%A4%E5%85%84%E5%BC%9F%E6%99%9A%E9%A5%AD%E5%90%8E%E5%A4%96%E5%87%BA%E5%A4%B1%E8%81%94%E5%B7%B2%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [上海到北京仅需2.5小时](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [委员建议元旦端午中秋高速免费](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%85%83%E6%97%A6%E7%AB%AF%E5%8D%88%E4%B8%AD%E7%A7%8B%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子买无座票坐卧铺袭警被刑拘](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%97%A0%E5%BA%A7%E7%A5%A8%E5%9D%90%E5%8D%A7%E9%93%BA%E8%A2%AD%E8%AD%A6%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [华为将收购高合？知情人士回应](https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%86%E6%94%B6%E8%B4%AD%E9%AB%98%E5%90%88%EF%BC%9F%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [两兄弟晚饭后外出失联已一周](https://www.baidu.com/s?wd=%E4%B8%A4%E5%85%84%E5%BC%9F%E6%99%9A%E9%A5%AD%E5%90%8E%E5%A4%96%E5%87%BA%E5%A4%B1%E8%81%94%E5%B7%B2%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
