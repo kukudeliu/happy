@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 20:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 20:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [网友向王鹤棣道歉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%91%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [上海到北京仅需2.5小时](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [女子买无座票坐卧铺袭警被刑拘](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%97%A0%E5%BA%A7%E7%A5%A8%E5%9D%90%E5%8D%A7%E9%93%BA%E8%A2%AD%E8%AD%A6%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [全智贤被要求出示就业证明](https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%99%BA%E8%B4%A4%E8%A2%AB%E8%A6%81%E6%B1%82%E5%87%BA%E7%A4%BA%E5%B0%B1%E4%B8%9A%E8%AF%81%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [seventeen成员将于第四季度开始入伍](https://s.weibo.com/weibo?q=%23seventeen%E6%88%90%E5%91%98%E5%B0%86%E4%BA%8E%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6%E5%BC%80%E5%A7%8B%E5%85%A5%E4%BC%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
