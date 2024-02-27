@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 18:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 18:39:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [我的网络成长故事](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E7%BD%91%E7%BB%9C%E6%88%90%E9%95%BF%E6%95%85%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [美国共产主义者宣布成立政党](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%80%85%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E6%94%BF%E5%85%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [笑果艺人现状](https://s.weibo.com/weibo?q=%E7%AC%91%E6%9E%9C%E8%89%BA%E4%BA%BA%E7%8E%B0%E7%8A%B6&t=31&band_rank=5&Refer=top)<br />
-6. [双体制意味着什么](https://s.weibo.com/weibo?q=%E5%8F%8C%E4%BD%93%E5%88%B6%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&t=31&band_rank=6&Refer=top)<br />
-7. [日本去年新生婴儿75万人](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8E%BB%E5%B9%B4%E6%96%B0%E7%94%9F%E5%A9%B4%E5%84%BF75%E4%B8%87%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
+6. [日本去年新生婴儿75万人](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8E%BB%E5%B9%B4%E6%96%B0%E7%94%9F%E5%A9%B4%E5%84%BF75%E4%B8%87%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
+7. [双体制意味着什么](https://s.weibo.com/weibo?q=%E5%8F%8C%E4%BD%93%E5%88%B6%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&t=31&band_rank=7&Refer=top)<br />
 8. [十四届全国人大实有代表2956人](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%AE%9E%E6%9C%89%E4%BB%A3%E8%A1%A82956%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [警察用胸口为老人捂脚取暖](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E7%94%A8%E8%83%B8%E5%8F%A3%E4%B8%BA%E8%80%81%E4%BA%BA%E6%8D%82%E8%84%9A%E5%8F%96%E6%9A%96%23&t=31&band_rank=9&Refer=top)<br />
 
