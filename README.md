@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 18:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 18:18:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [“绿”绘京津冀](https://www.baidu.com/s?wd=%E2%80%9C%E7%BB%BF%E2%80%9D%E7%BB%98%E4%BA%AC%E6%B4%A5%E5%86%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李亚鹏直播哭穷](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BA%9A%E9%B9%8F%E7%9B%B4%E6%92%AD%E5%93%AD%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [两兄弟晚饭后外出失联已一周](https://www.baidu.com/s?wd=%E4%B8%A4%E5%85%84%E5%BC%9F%E6%99%9A%E9%A5%AD%E5%90%8E%E5%A4%96%E5%87%BA%E5%A4%B1%E8%81%94%E5%B7%B2%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [自焚美国军人临终遗言公开](https://www.baidu.com/s?wd=%E8%87%AA%E7%84%9A%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%BA%E4%B8%B4%E7%BB%88%E9%81%97%E8%A8%80%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [2男子持加特林向文物扫射被拘](https://www.baidu.com/s?wd=2%E7%94%B7%E5%AD%90%E6%8C%81%E5%8A%A0%E7%89%B9%E6%9E%97%E5%90%91%E6%96%87%E7%89%A9%E6%89%AB%E5%B0%84%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#财经牛气节#](https://www.baidu.com/s?wd=%23%E8%B4%A2%E7%BB%8F%E7%89%9B%E6%B0%94%E8%8A%82%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [“绿”绘京津冀](https://www.baidu.com/s?wd=%E2%80%9C%E7%BB%BF%E2%80%9D%E7%BB%98%E4%BA%AC%E6%B4%A5%E5%86%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [李亚鹏直播哭穷](https://www.baidu.com/s?wd=%E6%9D%8E%E4%BA%9A%E9%B9%8F%E7%9B%B4%E6%92%AD%E5%93%AD%E7%A9%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [两兄弟晚饭后外出失联已一周](https://www.baidu.com/s?wd=%E4%B8%A4%E5%85%84%E5%BC%9F%E6%99%9A%E9%A5%AD%E5%90%8E%E5%A4%96%E5%87%BA%E5%A4%B1%E8%81%94%E5%B7%B2%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [自焚美国军人临终遗言公开](https://www.baidu.com/s?wd=%E8%87%AA%E7%84%9A%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%BA%E4%B8%B4%E7%BB%88%E9%81%97%E8%A8%80%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [2男子持加特林向文物扫射被拘](https://www.baidu.com/s?wd=2%E7%94%B7%E5%AD%90%E6%8C%81%E5%8A%A0%E7%89%B9%E6%9E%97%E5%90%91%E6%96%87%E7%89%A9%E6%89%AB%E5%B0%84%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#财经牛气节#](https://www.baidu.com/s?wd=%23%E8%B4%A2%E7%BB%8F%E7%89%9B%E6%B0%94%E8%8A%82%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
