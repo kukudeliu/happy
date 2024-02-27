@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 21:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 21:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [紫川空降](https://s.weibo.com/weibo?q=%23%E7%B4%AB%E5%B7%9D%E7%A9%BA%E9%99%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [因为出圈被骂到永久停办](https://s.weibo.com/weibo?q=%E5%9B%A0%E4%B8%BA%E5%87%BA%E5%9C%88%E8%A2%AB%E9%AA%82%E5%88%B0%E6%B0%B8%E4%B9%85%E5%81%9C%E5%8A%9E&t=31&band_rank=7&Refer=top)<br />
 8. [极氪001](https://s.weibo.com/weibo?q=%E6%9E%81%E6%B0%AA001&t=31&band_rank=8&Refer=top)<br />
-9. [李亚鹏直播哭穷](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%E7%9B%B4%E6%92%AD%E5%93%AD%E7%A9%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [董宇辉不能既享受流量红利又逃避舆论](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E4%B8%8D%E8%83%BD%E6%97%A2%E4%BA%AB%E5%8F%97%E6%B5%81%E9%87%8F%E7%BA%A2%E5%88%A9%E5%8F%88%E9%80%83%E9%81%BF%E8%88%86%E8%AE%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
