@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 00:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 00:04:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [美国共产主义者宣布成立政党](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%80%85%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E6%94%BF%E5%85%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024年全国两会新闻中心启用](https://www.baidu.com/s?wd=2024%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83%E5%90%AF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海到北京仅需2.5小时](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女生回应世乒赛上与日本观众斗舞](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E4%B8%96%E4%B9%92%E8%B5%9B%E4%B8%8A%E4%B8%8E%E6%97%A5%E6%9C%AC%E8%A7%82%E4%BC%97%E6%96%97%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [贵州省长：全面清理拖欠企业账款](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%95%BF%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%B8%85%E7%90%86%E6%8B%96%E6%AC%A0%E4%BC%81%E4%B8%9A%E8%B4%A6%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子未拔充电器将枕头烧出洞](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9C%AA%E6%8B%94%E5%85%85%E7%94%B5%E5%99%A8%E5%B0%86%E6%9E%95%E5%A4%B4%E7%83%A7%E5%87%BA%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [爆火的秦岭隧道视频系拼接 作者道歉](https://www.baidu.com/s?wd=%E7%88%86%E7%81%AB%E7%9A%84%E7%A7%A6%E5%B2%AD%E9%9A%A7%E9%81%93%E8%A7%86%E9%A2%91%E7%B3%BB%E6%8B%BC%E6%8E%A5+%E4%BD%9C%E8%80%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多名赤身男子陡坡滚落“抢花炮”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E8%B5%A4%E8%BA%AB%E7%94%B7%E5%AD%90%E9%99%A1%E5%9D%A1%E6%BB%9A%E8%90%BD%E2%80%9C%E6%8A%A2%E8%8A%B1%E7%82%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [委员建议元旦端午中秋高速免费](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%85%83%E6%97%A6%E7%AB%AF%E5%8D%88%E4%B8%AD%E7%A7%8B%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [美国共产主义者宣布成立政党](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%80%85%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E6%94%BF%E5%85%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024年全国两会新闻中心启用](https://www.baidu.com/s?wd=2024%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83%E5%90%AF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海到北京仅需2.5小时](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女生回应世乒赛上与日本观众斗舞](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E4%B8%96%E4%B9%92%E8%B5%9B%E4%B8%8A%E4%B8%8E%E6%97%A5%E6%9C%AC%E8%A7%82%E4%BC%97%E6%96%97%E8%88%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [贵州省长：全面清理拖欠企业账款](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%95%BF%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%B8%85%E7%90%86%E6%8B%96%E6%AC%A0%E4%BC%81%E4%B8%9A%E8%B4%A6%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子未拔充电器将枕头烧出洞](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9C%AA%E6%8B%94%E5%85%85%E7%94%B5%E5%99%A8%E5%B0%86%E6%9E%95%E5%A4%B4%E7%83%A7%E5%87%BA%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [爆火的秦岭隧道视频系拼接 作者道歉](https://www.baidu.com/s?wd=%E7%88%86%E7%81%AB%E7%9A%84%E7%A7%A6%E5%B2%AD%E9%9A%A7%E9%81%93%E8%A7%86%E9%A2%91%E7%B3%BB%E6%8B%BC%E6%8E%A5+%E4%BD%9C%E8%80%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多名赤身男子陡坡滚落“抢花炮”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E8%B5%A4%E8%BA%AB%E7%94%B7%E5%AD%90%E9%99%A1%E5%9D%A1%E6%BB%9A%E8%90%BD%E2%80%9C%E6%8A%A2%E8%8A%B1%E7%82%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [委员建议元旦端午中秋高速免费](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%85%83%E6%97%A6%E7%AB%AF%E5%8D%88%E4%B8%AD%E7%A7%8B%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
