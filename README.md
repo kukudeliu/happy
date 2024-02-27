@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 19:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 19:26:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [美国共产主义者宣布成立政党](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%80%85%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E6%94%BF%E5%85%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [世界杯](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=6&Refer=top)<br />
 7. [父母迷信偏方14岁男孩身高定格在160](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E8%BF%B7%E4%BF%A1%E5%81%8F%E6%96%B914%E5%B2%81%E7%94%B7%E5%AD%A9%E8%BA%AB%E9%AB%98%E5%AE%9A%E6%A0%BC%E5%9C%A8160%23&t=31&band_rank=7&Refer=top)<br />
-8. [苏炳添60米6秒66](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB60%E7%B1%B36%E7%A7%9266%23&t=31&band_rank=8&Refer=top)<br />
+8. [笑果艺人现状](https://s.weibo.com/weibo?q=%E7%AC%91%E6%9E%9C%E8%89%BA%E4%BA%BA%E7%8E%B0%E7%8A%B6&t=31&band_rank=8&Refer=top)<br />
 9. [警察用胸口为老人捂脚取暖](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E7%94%A8%E8%83%B8%E5%8F%A3%E4%B8%BA%E8%80%81%E4%BA%BA%E6%8D%82%E8%84%9A%E5%8F%96%E6%9A%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
