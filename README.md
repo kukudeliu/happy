@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 07:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 07:30:02</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [风好正是扬帆时](https://www.baidu.com/s?wd=%E9%A3%8E%E5%A5%BD%E6%AD%A3%E6%98%AF%E6%89%AC%E5%B8%86%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [住建部：防止房地产市场大起大落](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E9%98%B2%E6%AD%A2%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E5%A4%A7%E8%B5%B7%E5%A4%A7%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [美国共产主义者宣布成立政党](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%80%85%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E6%94%BF%E5%85%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [苹果被曝取消电动汽车项目](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D%E5%8F%96%E6%B6%88%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024年全国两会新闻中心启用](https://www.baidu.com/s?wd=2024%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83%E5%90%AF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海到北京仅需2.5小时](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [董宇辉红了又想低调可能吗](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%BA%A2%E4%BA%86%E5%8F%88%E6%83%B3%E4%BD%8E%E8%B0%83%E5%8F%AF%E8%83%BD%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [53城房价跌回一年前](https://www.baidu.com/s?wd=53%E5%9F%8E%E6%88%BF%E4%BB%B7%E8%B7%8C%E5%9B%9E%E4%B8%80%E5%B9%B4%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学生抢不到车票报旅游团返校](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%A2%E4%B8%8D%E5%88%B0%E8%BD%A6%E7%A5%A8%E6%8A%A5%E6%97%85%E6%B8%B8%E5%9B%A2%E8%BF%94%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国共产主义者宣布成立政党](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%80%85%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E6%94%BF%E5%85%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [董宇辉红了又想低调可能吗](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%BA%A2%E4%BA%86%E5%8F%88%E6%83%B3%E4%BD%8E%E8%B0%83%E5%8F%AF%E8%83%BD%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子替班演美人鱼走红](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%BF%E7%8F%AD%E6%BC%94%E7%BE%8E%E4%BA%BA%E9%B1%BC%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [风好正是扬帆时](https://www.baidu.com/s?wd=%E9%A3%8E%E5%A5%BD%E6%AD%A3%E6%98%AF%E6%89%AC%E5%B8%86%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [住建部：防止房地产市场大起大落](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E9%98%B2%E6%AD%A2%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E5%A4%A7%E8%B5%B7%E5%A4%A7%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [美国共产主义者宣布成立政党](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%80%85%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E6%94%BF%E5%85%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [苹果被曝取消电动汽车项目](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D%E5%8F%96%E6%B6%88%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024年全国两会新闻中心启用](https://www.baidu.com/s?wd=2024%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83%E5%90%AF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海到北京仅需2.5小时](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [董宇辉红了又想低调可能吗](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%BA%A2%E4%BA%86%E5%8F%88%E6%83%B3%E4%BD%8E%E8%B0%83%E5%8F%AF%E8%83%BD%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [53城房价跌回一年前](https://www.baidu.com/s?wd=53%E5%9F%8E%E6%88%BF%E4%BB%B7%E8%B7%8C%E5%9B%9E%E4%B8%80%E5%B9%B4%E5%89%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大学生抢不到车票报旅游团返校](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%A2%E4%B8%8D%E5%88%B0%E8%BD%A6%E7%A5%A8%E6%8A%A5%E6%97%85%E6%B8%B8%E5%9B%A2%E8%BF%94%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国共产主义者宣布成立政党](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%80%85%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E6%94%BF%E5%85%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [董宇辉红了又想低调可能吗](https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E7%BA%A2%E4%BA%86%E5%8F%88%E6%83%B3%E4%BD%8E%E8%B0%83%E5%8F%AF%E8%83%BD%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子替班演美人鱼走红](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9B%BF%E7%8F%AD%E6%BC%94%E7%BE%8E%E4%BA%BA%E9%B1%BC%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
