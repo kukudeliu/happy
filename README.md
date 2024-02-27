@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 18:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 18:15:01</h4></div>
 
 > 微博  
 
-1. [双体制意味着什么](https://s.weibo.com/weibo?q=%E5%8F%8C%E4%BD%93%E5%88%B6%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&t=31&band_rank=1&Refer=top)<br />
-2. [上海到北京仅需2.5小时](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6%23&t=31&band_rank=2&Refer=top)<br />
+1. [上海到北京仅需2.5小时](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6%23&t=31&band_rank=1&Refer=top)<br />
+2. [双体制意味着什么](https://s.weibo.com/weibo?q=%E5%8F%8C%E4%BD%93%E5%88%B6%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&t=31&band_rank=2&Refer=top)<br />
 3. [我的网络成长故事](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E7%BD%91%E7%BB%9C%E6%88%90%E9%95%BF%E6%95%85%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [笑果艺人现状](https://s.weibo.com/weibo?q=%E7%AC%91%E6%9E%9C%E8%89%BA%E4%BA%BA%E7%8E%B0%E7%8A%B6&t=31&band_rank=4&Refer=top)<br />
 5. [日本去年新生婴儿75万人](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8E%BB%E5%B9%B4%E6%96%B0%E7%94%9F%E5%A9%B4%E5%84%BF75%E4%B8%87%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
