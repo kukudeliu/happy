@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 05:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 05:30:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [2024年全国两会新闻中心启用](https://www.baidu.com/s?wd=2024%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83%E5%90%AF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海到北京仅需2.5小时](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蔡英文财产曝光](https://www.baidu.com/s?wd=%E8%94%A1%E8%8B%B1%E6%96%87%E8%B4%A2%E4%BA%A7%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [自焚美国军人临终遗言公开](https://www.baidu.com/s?wd=%E8%87%AA%E7%84%9A%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%BA%E4%B8%B4%E7%BB%88%E9%81%97%E8%A8%80%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [我丢了个包里面全是黄金](https://www.baidu.com/s?wd=%E6%88%91%E4%B8%A2%E4%BA%86%E4%B8%AA%E5%8C%85%E9%87%8C%E9%9D%A2%E5%85%A8%E6%98%AF%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [我丢了个包里面全是黄金](https://www.baidu.com/s?wd=%E6%88%91%E4%B8%A2%E4%BA%86%E4%B8%AA%E5%8C%85%E9%87%8C%E9%9D%A2%E5%85%A8%E6%98%AF%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [自焚美国军人临终遗言公开](https://www.baidu.com/s?wd=%E8%87%AA%E7%84%9A%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%BA%E4%B8%B4%E7%BB%88%E9%81%97%E8%A8%80%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [2024年全国两会新闻中心启用](https://www.baidu.com/s?wd=2024%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83%E5%90%AF%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海到北京仅需2.5小时](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%88%B0%E5%8C%97%E4%BA%AC%E4%BB%85%E9%9C%802.5%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [蔡英文财产曝光](https://www.baidu.com/s?wd=%E8%94%A1%E8%8B%B1%E6%96%87%E8%B4%A2%E4%BA%A7%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [自焚美国军人临终遗言公开](https://www.baidu.com/s?wd=%E8%87%AA%E7%84%9A%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%BA%E4%B8%B4%E7%BB%88%E9%81%97%E8%A8%80%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [我丢了个包里面全是黄金](https://www.baidu.com/s?wd=%E6%88%91%E4%B8%A2%E4%BA%86%E4%B8%AA%E5%8C%85%E9%87%8C%E9%9D%A2%E5%85%A8%E6%98%AF%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [我丢了个包里面全是黄金](https://www.baidu.com/s?wd=%E6%88%91%E4%B8%A2%E4%BA%86%E4%B8%AA%E5%8C%85%E9%87%8C%E9%9D%A2%E5%85%A8%E6%98%AF%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [自焚美国军人临终遗言公开](https://www.baidu.com/s?wd=%E8%87%AA%E7%84%9A%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%BA%E4%B8%B4%E7%BB%88%E9%81%97%E8%A8%80%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
