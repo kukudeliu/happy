@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 23:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-27 23:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为何山姆穷鬼套餐让中产疯狂](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E5%B1%B1%E5%A7%86%E7%A9%B7%E9%AC%BC%E5%A5%97%E9%A4%90%E8%AE%A9%E4%B8%AD%E4%BA%A7%E7%96%AF%E7%8B%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [DIOR全球公关总监接待刘雨昕](https://s.weibo.com/weibo?q=%23DIOR%E5%85%A8%E7%90%83%E5%85%AC%E5%85%B3%E6%80%BB%E7%9B%91%E6%8E%A5%E5%BE%85%E5%88%98%E9%9B%A8%E6%98%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [喜欢了一个比自己大7岁的姐姐](https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%BA%86%E4%B8%80%E4%B8%AA%E6%AF%94%E8%87%AA%E5%B7%B1%E5%A4%A77%E5%B2%81%E7%9A%84%E5%A7%90%E5%A7%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [金智秀世趋](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%BA%E7%A7%80%E4%B8%96%E8%B6%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [阮经天好帅](https://s.weibo.com/weibo?q=%E9%98%AE%E7%BB%8F%E5%A4%A9%E5%A5%BD%E5%B8%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
