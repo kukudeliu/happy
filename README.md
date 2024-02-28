@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 14:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 14:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴新高定](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%B0%E9%AB%98%E5%AE%9A&t=31&band_rank=6&Refer=top)<br />
 7. [2岁宝宝已穿1年小腿假肢](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%B7%B2%E7%A9%BF1%E5%B9%B4%E5%B0%8F%E8%85%BF%E5%81%87%E8%82%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [同事称挖呀挖黄老师已离职](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E7%A7%B0%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E5%B7%B2%E7%A6%BB%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子欲买小体比熊不料狗狗飙长变熊大](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AC%B2%E4%B9%B0%E5%B0%8F%E4%BD%93%E6%AF%94%E7%86%8A%E4%B8%8D%E6%96%99%E7%8B%97%E7%8B%97%E9%A3%99%E9%95%BF%E5%8F%98%E7%86%8A%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [黄嘉千称夏天被夏克立家暴](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%98%89%E5%8D%83%E7%A7%B0%E5%A4%8F%E5%A4%A9%E8%A2%AB%E5%A4%8F%E5%85%8B%E7%AB%8B%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
