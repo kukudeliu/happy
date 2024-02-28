@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 13:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 13:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [专升本女孩考研389分与室友相拥尖叫](https://www.baidu.com/s?wd=%E4%B8%93%E5%8D%87%E6%9C%AC%E5%A5%B3%E5%AD%A9%E8%80%83%E7%A0%94389%E5%88%86%E4%B8%8E%E5%AE%A4%E5%8F%8B%E7%9B%B8%E6%8B%A5%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [反诈老陈直播时哭了](https://www.baidu.com/s?wd=%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E7%9B%B4%E6%92%AD%E6%97%B6%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [研究生多到无宿舍可住](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%A4%9A%E5%88%B0%E6%97%A0%E5%AE%BF%E8%88%8D%E5%8F%AF%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老人扶倒地者却被车撞成植物人](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%89%B6%E5%80%92%E5%9C%B0%E8%80%85%E5%8D%B4%E8%A2%AB%E8%BD%A6%E6%92%9E%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖南一河道水面燃起熊熊大火](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%B2%B3%E9%81%93%E6%B0%B4%E9%9D%A2%E7%87%83%E8%B5%B7%E7%86%8A%E7%86%8A%E5%A4%A7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆机场一飞机突然起火？假的](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9C%BA%E5%9C%BA%E4%B8%80%E9%A3%9E%E6%9C%BA%E7%AA%81%E7%84%B6%E8%B5%B7%E7%81%AB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [专升本女孩考研389分与室友相拥尖叫](https://www.baidu.com/s?wd=%E4%B8%93%E5%8D%87%E6%9C%AC%E5%A5%B3%E5%AD%A9%E8%80%83%E7%A0%94389%E5%88%86%E4%B8%8E%E5%AE%A4%E5%8F%8B%E7%9B%B8%E6%8B%A5%E5%B0%96%E5%8F%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [反诈老陈直播时哭了](https://www.baidu.com/s?wd=%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E7%9B%B4%E6%92%AD%E6%97%B6%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [研究生多到无宿舍可住](https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%A4%9A%E5%88%B0%E6%97%A0%E5%AE%BF%E8%88%8D%E5%8F%AF%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老人扶倒地者却被车撞成植物人](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%89%B6%E5%80%92%E5%9C%B0%E8%80%85%E5%8D%B4%E8%A2%AB%E8%BD%A6%E6%92%9E%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [湖南一河道水面燃起熊熊大火](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%B2%B3%E9%81%93%E6%B0%B4%E9%9D%A2%E7%87%83%E8%B5%B7%E7%86%8A%E7%86%8A%E5%A4%A7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆机场一飞机突然起火？假的](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9C%BA%E5%9C%BA%E4%B8%80%E9%A3%9E%E6%9C%BA%E7%AA%81%E7%84%B6%E8%B5%B7%E7%81%AB%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
