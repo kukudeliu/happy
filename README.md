@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 21:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 21:46:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [网剧唐人街探案2定档](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%89%A7%E5%94%90%E4%BA%BA%E8%A1%97%E6%8E%A2%E6%A1%882%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [重庆姐弟坠亡案生母宣布将直播带货](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E7%94%9F%E6%AF%8D%E5%AE%A3%E5%B8%83%E5%B0%86%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [贵州夫妻17年间生下9女1男](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E5%A4%AB%E5%A6%BB17%E5%B9%B4%E9%97%B4%E7%94%9F%E4%B8%8B9%E5%A5%B31%E7%94%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [王俊凯新加坡登上全球发音](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%99%BB%E4%B8%8A%E5%85%A8%E7%90%83%E5%8F%91%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [宗馥莉哽咽追忆父亲宗庆后](https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%93%BD%E5%92%BD%E8%BF%BD%E5%BF%86%E7%88%B6%E4%BA%B2%E5%AE%97%E5%BA%86%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
