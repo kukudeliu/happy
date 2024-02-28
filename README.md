@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 22:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 22:21:02</h4></div>
 
 > 微博  
 
 1. [霍建华 要拍现在拍别跟着我](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%BB%BA%E5%8D%8E%20%E8%A6%81%E6%8B%8D%E7%8E%B0%E5%9C%A8%E6%8B%8D%E5%88%AB%E8%B7%9F%E7%9D%80%E6%88%91&t=31&band_rank=1&Refer=top)<br />
 2. [演员王迅游荆州怒批古城墙刻字行为](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E7%8E%8B%E8%BF%85%E6%B8%B8%E8%8D%86%E5%B7%9E%E6%80%92%E6%89%B9%E5%8F%A4%E5%9F%8E%E5%A2%99%E5%88%BB%E5%AD%97%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国海上巨无霸已安装就位](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%B5%B7%E4%B8%8A%E5%B7%A8%E6%97%A0%E9%9C%B8%E5%B7%B2%E5%AE%89%E8%A3%85%E5%B0%B1%E4%BD%8D%23&t=31&band_rank=3&Refer=top)<br />
-4. [被指吃绝户男子发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8C%87%E5%90%83%E7%BB%9D%E6%88%B7%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
-5. [教育局回应女老师打骂学生](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E6%89%93%E9%AA%82%E5%AD%A6%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
+4. [教育局回应女老师打骂学生](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E6%89%93%E9%AA%82%E5%AD%A6%E7%94%9F%23&t=31&band_rank=4&Refer=top)<br />
+5. [被指吃绝户男子发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8C%87%E5%90%83%E7%BB%9D%E6%88%B7%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [艾滋病病毒无法在唾液中存活](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E7%97%85%E7%97%85%E6%AF%92%E6%97%A0%E6%B3%95%E5%9C%A8%E5%94%BE%E6%B6%B2%E4%B8%AD%E5%AD%98%E6%B4%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙千陈靖可朋友圈签名](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E9%99%88%E9%9D%96%E5%8F%AF%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%AD%BE%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [宗馥莉哽咽追忆父亲宗庆后](https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%93%BD%E5%92%BD%E8%BF%BD%E5%BF%86%E7%88%B6%E4%BA%B2%E5%AE%97%E5%BA%86%E5%90%8E%23&t=31&band_rank=8&Refer=top)<br />
