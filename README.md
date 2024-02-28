@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 21:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 21:20:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [将进酒广播剧播放量破两亿](https://s.weibo.com/weibo?q=%23%E5%B0%86%E8%BF%9B%E9%85%92%E5%B9%BF%E6%92%AD%E5%89%A7%E6%92%AD%E6%94%BE%E9%87%8F%E7%A0%B4%E4%B8%A4%E4%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [女教师办公室殴打学生](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [重庆姐弟坠亡案生母宣布将直播带货](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E7%94%9F%E6%AF%8D%E5%AE%A3%E5%B8%83%E5%B0%86%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [烟火人家 乳腺通了泪腺崩了](https://s.weibo.com/weibo?q=%E7%83%9F%E7%81%AB%E4%BA%BA%E5%AE%B6%20%E4%B9%B3%E8%85%BA%E9%80%9A%E4%BA%86%E6%B3%AA%E8%85%BA%E5%B4%A9%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [王俊凯新加坡登上全球发音](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%99%BB%E4%B8%8A%E5%85%A8%E7%90%83%E5%8F%91%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
+8. [王俊凯新加坡登上全球发音](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%99%BB%E4%B8%8A%E5%85%A8%E7%90%83%E5%8F%91%E9%9F%B3%23&t=31&band_rank=8&Refer=top)<br />
+9. [烟火人家 乳腺通了泪腺崩了](https://s.weibo.com/weibo?q=%E7%83%9F%E7%81%AB%E4%BA%BA%E5%AE%B6%20%E4%B9%B3%E8%85%BA%E9%80%9A%E4%BA%86%E6%B3%AA%E8%85%BA%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
