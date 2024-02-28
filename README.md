@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 18:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 18:10:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [贡菜就是晒干的莴笋](https://s.weibo.com/weibo?q=%E8%B4%A1%E8%8F%9C%E5%B0%B1%E6%98%AF%E6%99%92%E5%B9%B2%E7%9A%84%E8%8E%B4%E7%AC%8B&t=31&band_rank=4&Refer=top)<br />
 5. [被时代淘汰的水果](https://s.weibo.com/weibo?q=%E8%A2%AB%E6%97%B6%E4%BB%A3%E6%B7%98%E6%B1%B0%E7%9A%84%E6%B0%B4%E6%9E%9C&t=31&band_rank=5&Refer=top)<br />
 6. [上海一饭堂发生情杀案致2人死亡](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E9%A5%AD%E5%A0%82%E5%8F%91%E7%94%9F%E6%83%85%E6%9D%80%E6%A1%88%E8%87%B42%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
-7. [泰国版张雨绮](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%89%88%E5%BC%A0%E9%9B%A8%E7%BB%AE%23&t=31&band_rank=7&Refer=top)<br />
-8. [热心市民魏大勋](https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%BF%83%E5%B8%82%E6%B0%91%E9%AD%8F%E5%A4%A7%E5%8B%8B%23&t=31&band_rank=8&Refer=top)<br />
+7. [热心市民魏大勋](https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%BF%83%E5%B8%82%E6%B0%91%E9%AD%8F%E5%A4%A7%E5%8B%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [泰国版张雨绮](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%89%88%E5%BC%A0%E9%9B%A8%E7%BB%AE%23&t=31&band_rank=8&Refer=top)<br />
 9. [退役搜救犬跳车狂奔扑向训导员](https://s.weibo.com/weibo?q=%23%E9%80%80%E5%BD%B9%E6%90%9C%E6%95%91%E7%8A%AC%E8%B7%B3%E8%BD%A6%E7%8B%82%E5%A5%94%E6%89%91%E5%90%91%E8%AE%AD%E5%AF%BC%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
