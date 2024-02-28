@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 21:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 21:01:01</h4></div>
 
 > 微博  
 
-1. [艾滋病病毒无法在唾液中存活](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E7%97%85%E7%97%85%E6%AF%92%E6%97%A0%E6%B3%95%E5%9C%A8%E5%94%BE%E6%B6%B2%E4%B8%AD%E5%AD%98%E6%B4%BB%23&t=31&band_rank=1&Refer=top)<br />
-2. [孙千陈靖可朋友圈签名](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E9%99%88%E9%9D%96%E5%8F%AF%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%AD%BE%E5%90%8D%23&t=31&band_rank=2&Refer=top)<br />
+1. [孙千陈靖可朋友圈签名](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E9%99%88%E9%9D%96%E5%8F%AF%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%AD%BE%E5%90%8D%23&t=31&band_rank=1&Refer=top)<br />
+2. [艾滋病病毒无法在唾液中存活](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E7%97%85%E7%97%85%E6%AF%92%E6%97%A0%E6%B3%95%E5%9C%A8%E5%94%BE%E6%B6%B2%E4%B8%AD%E5%AD%98%E6%B4%BB%23&t=31&band_rank=2&Refer=top)<br />
 3. [e法e同行 京彩新征程](https://s.weibo.com/weibo?q=e%E6%B3%95e%E5%90%8C%E8%A1%8C%20%E4%BA%AC%E5%BD%A9%E6%96%B0%E5%BE%81%E7%A8%8B&t=31&band_rank=3&Refer=top)<br />
 4. [贵州夫妻17年间生下9女1男](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E5%A4%AB%E5%A6%BB17%E5%B9%B4%E9%97%B4%E7%94%9F%E4%B8%8B9%E5%A5%B31%E7%94%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [雷军](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B&t=31&band_rank=5&Refer=top)<br />
