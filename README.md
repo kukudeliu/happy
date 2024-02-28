@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 22:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 22:10:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [被指吃绝户男子发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8C%87%E5%90%83%E7%BB%9D%E6%88%B7%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [孙千陈靖可朋友圈签名](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E9%99%88%E9%9D%96%E5%8F%AF%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%AD%BE%E5%90%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [艾滋病病毒无法在唾液中存活](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E7%97%85%E7%97%85%E6%AF%92%E6%97%A0%E6%B3%95%E5%9C%A8%E5%94%BE%E6%B6%B2%E4%B8%AD%E5%AD%98%E6%B4%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [网剧唐人街探案2定档](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%89%A7%E5%94%90%E4%BA%BA%E8%A1%97%E6%8E%A2%E6%A1%882%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [宗馥莉哽咽追忆父亲宗庆后](https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%93%BD%E5%92%BD%E8%BF%BD%E5%BF%86%E7%88%B6%E4%BA%B2%E5%AE%97%E5%BA%86%E5%90%8E%23&t=31&band_rank=8&Refer=top)<br />
+7. [宗馥莉哽咽追忆父亲宗庆后](https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%93%BD%E5%92%BD%E8%BF%BD%E5%BF%86%E7%88%B6%E4%BA%B2%E5%AE%97%E5%BA%86%E5%90%8E%23&t=31&band_rank=7&Refer=top)<br />
+8. [网剧唐人街探案2定档](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%89%A7%E5%94%90%E4%BA%BA%E8%A1%97%E6%8E%A2%E6%A1%882%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
 9. [重庆姐弟坠亡案生母宣布将直播带货](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E7%94%9F%E6%AF%8D%E5%AE%A3%E5%B8%83%E5%B0%86%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [宗馥莉哽咽追忆父亲宗庆后](https://www.baidu.com/s?wd=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%93%BD%E5%92%BD%E8%BF%BD%E5%BF%86%E7%88%B6%E4%BA%B2%E5%AE%97%E5%BA%86%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [艾滋病已是可防可控可治的慢性病](https://www.baidu.com/s?wd=%E8%89%BE%E6%BB%8B%E7%97%85%E5%B7%B2%E6%98%AF%E5%8F%AF%E9%98%B2%E5%8F%AF%E6%8E%A7%E5%8F%AF%E6%B2%BB%E7%9A%84%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [热心市民魏大勋](https://www.baidu.com/s?wd=%E7%83%AD%E5%BF%83%E5%B8%82%E6%B0%91%E9%AD%8F%E5%A4%A7%E5%8B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西安出租车司机疑联合字画店宰客](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA%E7%96%91%E8%81%94%E5%90%88%E5%AD%97%E7%94%BB%E5%BA%97%E5%AE%B0%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河南一中学学生挤大通铺？官方通报](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%AD%A6%E7%94%9F%E6%8C%A4%E5%A4%A7%E9%80%9A%E9%93%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [带状疱疹一次中招终身免疫？](https://www.baidu.com/s?wd=%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E4%B8%80%E6%AC%A1%E4%B8%AD%E6%8B%9B%E7%BB%88%E8%BA%AB%E5%85%8D%E7%96%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [宗馥莉哽咽追忆父亲宗庆后](https://www.baidu.com/s?wd=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%93%BD%E5%92%BD%E8%BF%BD%E5%BF%86%E7%88%B6%E4%BA%B2%E5%AE%97%E5%BA%86%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [艾滋病已是可防可控可治的慢性病](https://www.baidu.com/s?wd=%E8%89%BE%E6%BB%8B%E7%97%85%E5%B7%B2%E6%98%AF%E5%8F%AF%E9%98%B2%E5%8F%AF%E6%8E%A7%E5%8F%AF%E6%B2%BB%E7%9A%84%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [热心市民魏大勋](https://www.baidu.com/s?wd=%E7%83%AD%E5%BF%83%E5%B8%82%E6%B0%91%E9%AD%8F%E5%A4%A7%E5%8B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [西安出租车司机疑联合字画店宰客](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA%E7%96%91%E8%81%94%E5%90%88%E5%AD%97%E7%94%BB%E5%BA%97%E5%AE%B0%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河南一中学学生挤大通铺？官方通报](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%AD%A6%E7%94%9F%E6%8C%A4%E5%A4%A7%E9%80%9A%E9%93%BA%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [带状疱疹一次中招终身免疫？](https://www.baidu.com/s?wd=%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E4%B8%80%E6%AC%A1%E4%B8%AD%E6%8B%9B%E7%BB%88%E8%BA%AB%E5%85%8D%E7%96%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
