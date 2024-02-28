@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 03:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 03:04:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [面包店的浪费现象有多严重](https://www.baidu.com/s?wd=%E9%9D%A2%E5%8C%85%E5%BA%97%E7%9A%84%E6%B5%AA%E8%B4%B9%E7%8E%B0%E8%B1%A1%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [艾滋病已是可防可控可治的慢性病](https://www.baidu.com/s?wd=%E8%89%BE%E6%BB%8B%E7%97%85%E5%B7%B2%E6%98%AF%E5%8F%AF%E9%98%B2%E5%8F%AF%E6%8E%A7%E5%8F%AF%E6%B2%BB%E7%9A%84%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家预测全球楼市拐点已至](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E9%A2%84%E6%B5%8B%E5%85%A8%E7%90%83%E6%A5%BC%E5%B8%82%E6%8B%90%E7%82%B9%E5%B7%B2%E8%87%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [湖南一水渠因柴油泄漏被引燃](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%B0%B4%E6%B8%A0%E5%9B%A0%E6%9F%B4%E6%B2%B9%E6%B3%84%E6%BC%8F%E8%A2%AB%E5%BC%95%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河北一男子打鼓迷倒万千网友](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E7%94%B7%E5%AD%90%E6%89%93%E9%BC%93%E8%BF%B7%E5%80%92%E4%B8%87%E5%8D%83%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [带状疱疹一次中招终身免疫？](https://www.baidu.com/s?wd=%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E4%B8%80%E6%AC%A1%E4%B8%AD%E6%8B%9B%E7%BB%88%E8%BA%AB%E5%85%8D%E7%96%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [面包店的浪费现象有多严重](https://www.baidu.com/s?wd=%E9%9D%A2%E5%8C%85%E5%BA%97%E7%9A%84%E6%B5%AA%E8%B4%B9%E7%8E%B0%E8%B1%A1%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [艾滋病已是可防可控可治的慢性病](https://www.baidu.com/s?wd=%E8%89%BE%E6%BB%8B%E7%97%85%E5%B7%B2%E6%98%AF%E5%8F%AF%E9%98%B2%E5%8F%AF%E6%8E%A7%E5%8F%AF%E6%B2%BB%E7%9A%84%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家预测全球楼市拐点已至](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E9%A2%84%E6%B5%8B%E5%85%A8%E7%90%83%E6%A5%BC%E5%B8%82%E6%8B%90%E7%82%B9%E5%B7%B2%E8%87%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [湖南一水渠因柴油泄漏被引燃](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%B0%B4%E6%B8%A0%E5%9B%A0%E6%9F%B4%E6%B2%B9%E6%B3%84%E6%BC%8F%E8%A2%AB%E5%BC%95%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河北一男子打鼓迷倒万千网友](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%80%E7%94%B7%E5%AD%90%E6%89%93%E9%BC%93%E8%BF%B7%E5%80%92%E4%B8%87%E5%8D%83%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [带状疱疹一次中招终身免疫？](https://www.baidu.com/s?wd=%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E4%B8%80%E6%AC%A1%E4%B8%AD%E6%8B%9B%E7%BB%88%E8%BA%AB%E5%85%8D%E7%96%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
