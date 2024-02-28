@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 13:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 13:38:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴新高定](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%B0%E9%AB%98%E5%AE%9A&t=31&band_rank=6&Refer=top)<br />
 7. [艾滋病阻断药最佳服用时间](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E7%97%85%E9%98%BB%E6%96%AD%E8%8D%AF%E6%9C%80%E4%BD%B3%E6%9C%8D%E7%94%A8%E6%97%B6%E9%97%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [一个县城妈妈不相信天生坏种](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E5%8E%BF%E5%9F%8E%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9B%B8%E4%BF%A1%E5%A4%A9%E7%94%9F%E5%9D%8F%E7%A7%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [碧桂园](https://s.weibo.com/weibo?q=%E7%A2%A7%E6%A1%82%E5%9B%AD&t=31&band_rank=9&Refer=top)<br />
+9. [老凤祥回应](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%87%A4%E7%A5%A5%E5%9B%9E%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
