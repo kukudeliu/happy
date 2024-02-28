@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 17:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 17:55:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [老公姐 人夫哥](https://s.weibo.com/weibo?q=%E8%80%81%E5%85%AC%E5%A7%90%20%E4%BA%BA%E5%A4%AB%E5%93%A5&t=31&band_rank=2&Refer=top)<br />
 3. [中国建成航天领域首个大科学装置](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BB%BA%E6%88%90%E8%88%AA%E5%A4%A9%E9%A2%86%E5%9F%9F%E9%A6%96%E4%B8%AA%E5%A4%A7%E7%A7%91%E5%AD%A6%E8%A3%85%E7%BD%AE%23&t=31&band_rank=3&Refer=top)<br />
 4. [上海一饭堂发生情杀案致2人死亡](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E9%A5%AD%E5%A0%82%E5%8F%91%E7%94%9F%E6%83%85%E6%9D%80%E6%A1%88%E8%87%B42%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
-5. [被时代淘汰的水果](https://s.weibo.com/weibo?q=%E8%A2%AB%E6%97%B6%E4%BB%A3%E6%B7%98%E6%B1%B0%E7%9A%84%E6%B0%B4%E6%9E%9C&t=31&band_rank=5&Refer=top)<br />
-6. [比亚迪价格](https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%BB%B7%E6%A0%BC&t=31&band_rank=6&Refer=top)<br />
-7. [海关查获人体组织制品玩具](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B7%E4%BA%BA%E4%BD%93%E7%BB%84%E7%BB%87%E5%88%B6%E5%93%81%E7%8E%A9%E5%85%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [娃哈哈感谢信](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E6%84%9F%E8%B0%A2%E4%BF%A1%23&t=31&band_rank=8&Refer=top)<br />
+5. [亚洲首富之子18个月减重超200斤](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E9%A6%96%E5%AF%8C%E4%B9%8B%E5%AD%9018%E4%B8%AA%E6%9C%88%E5%87%8F%E9%87%8D%E8%B6%85200%E6%96%A4%23&t=31&band_rank=5&Refer=top)<br />
+6. [被时代淘汰的水果](https://s.weibo.com/weibo?q=%E8%A2%AB%E6%97%B6%E4%BB%A3%E6%B7%98%E6%B1%B0%E7%9A%84%E6%B0%B4%E6%9E%9C&t=31&band_rank=6&Refer=top)<br />
+7. [比亚迪价格](https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%BB%B7%E6%A0%BC&t=31&band_rank=7&Refer=top)<br />
+8. [海关查获人体组织制品玩具](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B7%E4%BA%BA%E4%BD%93%E7%BB%84%E7%BB%87%E5%88%B6%E5%93%81%E7%8E%A9%E5%85%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [黄嘉千称夏天被夏克立家暴](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%98%89%E5%8D%83%E7%A7%B0%E5%A4%8F%E5%A4%A9%E8%A2%AB%E5%A4%8F%E5%85%8B%E7%AB%8B%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
