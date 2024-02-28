@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 20:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 20:24:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [亚洲首富之子18个月减重超200斤](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E9%A6%96%E5%AF%8C%E4%B9%8B%E5%AD%9018%E4%B8%AA%E6%9C%88%E5%87%8F%E9%87%8D%E8%B6%85200%E6%96%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [重庆姐弟坠亡案生母宣布将直播带货](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E7%94%9F%E6%AF%8D%E5%AE%A3%E5%B8%83%E5%B0%86%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈赫晒妻子女儿背影照](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E6%99%92%E5%A6%BB%E5%AD%90%E5%A5%B3%E5%84%BF%E8%83%8C%E5%BD%B1%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [凤凰传奇演唱会预约人数](https://s.weibo.com/weibo?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%BC%94%E5%94%B1%E4%BC%9A%E9%A2%84%E7%BA%A6%E4%BA%BA%E6%95%B0&t=31&band_rank=8&Refer=top)<br />
-9. [为什么汉堡王没火起来](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B1%89%E5%A0%A1%E7%8E%8B%E6%B2%A1%E7%81%AB%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
+8. [为什么汉堡王没火起来](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B1%89%E5%A0%A1%E7%8E%8B%E6%B2%A1%E7%81%AB%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
+9. [凤凰传奇演唱会预约人数](https://s.weibo.com/weibo?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%BC%94%E5%94%B1%E4%BC%9A%E9%A2%84%E7%BA%A6%E4%BA%BA%E6%95%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
