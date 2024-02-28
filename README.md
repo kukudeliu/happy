@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 16:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 16:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄嘉千称夏天被夏克立家暴](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%98%89%E5%8D%83%E7%A7%B0%E5%A4%8F%E5%A4%A9%E8%A2%AB%E5%A4%8F%E5%85%8B%E7%AB%8B%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [甜馨cos初音未来](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8cos%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [泰国版张雨绮](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%89%88%E5%BC%A0%E9%9B%A8%E7%BB%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [化妆的尽头是素妆](https://s.weibo.com/weibo?q=%E5%8C%96%E5%A6%86%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E7%B4%A0%E5%A6%86&t=31&band_rank=9&Refer=top)<br />
+9. [相亲第三天就领证了](https://s.weibo.com/weibo?q=%E7%9B%B8%E4%BA%B2%E7%AC%AC%E4%B8%89%E5%A4%A9%E5%B0%B1%E9%A2%86%E8%AF%81%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
