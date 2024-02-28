@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 17:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 17:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [比亚迪价格](https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%BB%B7%E6%A0%BC&t=31&band_rank=6&Refer=top)<br />
 7. [微信不能改名文件传输助手](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E4%B8%8D%E8%83%BD%E6%94%B9%E5%90%8D%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [娃哈哈感谢信](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E6%84%9F%E8%B0%A2%E4%BF%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [张家界 韩国孝道](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E7%95%8C%20%E9%9F%A9%E5%9B%BD%E5%AD%9D%E9%81%93&t=31&band_rank=9&Refer=top)<br />
+9. [黄嘉千称夏天被夏克立家暴](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%98%89%E5%8D%83%E7%A7%B0%E5%A4%8F%E5%A4%A9%E8%A2%AB%E5%A4%8F%E5%85%8B%E7%AB%8B%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
