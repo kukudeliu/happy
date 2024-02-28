@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 08:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 08:29:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李湘前夫李厚霖给李亚鹏直播打赏](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B9%98%E5%89%8D%E5%A4%AB%E6%9D%8E%E5%8E%9A%E9%9C%96%E7%BB%99%E6%9D%8E%E4%BA%9A%E9%B9%8F%E7%9B%B4%E6%92%AD%E6%89%93%E8%B5%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [苹果取消造车](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%96%E6%B6%88%E9%80%A0%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [母亲将唯一银镯打成首饰送2个女儿](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%B0%86%E5%94%AF%E4%B8%80%E9%93%B6%E9%95%AF%E6%89%93%E6%88%90%E9%A6%96%E9%A5%B0%E9%80%812%E4%B8%AA%E5%A5%B3%E5%84%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [警方回应派出所警车撞死老人](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B4%BE%E5%87%BA%E6%89%80%E8%AD%A6%E8%BD%A6%E6%92%9E%E6%AD%BB%E8%80%81%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [医院筹建7年未开业却已聘515人](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E7%AD%B9%E5%BB%BA7%E5%B9%B4%E6%9C%AA%E5%BC%80%E4%B8%9A%E5%8D%B4%E5%B7%B2%E8%81%98515%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
