@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 12:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 12:05:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [研究生招生人数6年翻倍](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E4%BA%BA%E6%95%B06%E5%B9%B4%E7%BF%BB%E5%80%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈乔恩6天减六斤](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A96%E5%A4%A9%E5%87%8F%E5%85%AD%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [全员加速中主持人快碎了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%BF%AB%E7%A2%8E%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [国台办再回应台撞击大陆渔船恶性事件](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%86%8D%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%92%9E%E5%87%BB%E5%A4%A7%E9%99%86%E6%B8%94%E8%88%B9%E6%81%B6%E6%80%A7%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [董宇辉再回应不理解女生做美甲](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%86%8D%E5%9B%9E%E5%BA%94%E4%B8%8D%E7%90%86%E8%A7%A3%E5%A5%B3%E7%94%9F%E5%81%9A%E7%BE%8E%E7%94%B2%23&t=31&band_rank=9&Refer=top)<br />
+8. [女子被好友改名文件传输助手骗5年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%A5%BD%E5%8F%8B%E6%94%B9%E5%90%8D%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%E9%AA%975%E5%B9%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [花少团支持胡先煦新剧](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E6%94%AF%E6%8C%81%E8%83%A1%E5%85%88%E7%85%A6%E6%96%B0%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
