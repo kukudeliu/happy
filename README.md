@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 10:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 10:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [D社放弃跟拍的女爱豆](https://s.weibo.com/weibo?q=D%E7%A4%BE%E6%94%BE%E5%BC%83%E8%B7%9F%E6%8B%8D%E7%9A%84%E5%A5%B3%E7%88%B1%E8%B1%86&t=31&band_rank=6&Refer=top)<br />
 7. [台湾省](https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E7%9C%81&t=31&band_rank=7&Refer=top)<br />
 8. [400名大学生回曹县小镇卖马面裙](https://s.weibo.com/weibo?q=%23400%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E6%9B%B9%E5%8E%BF%E5%B0%8F%E9%95%87%E5%8D%96%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [张颂文谈猎冰争议](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E8%B0%88%E7%8C%8E%E5%86%B0%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈乔恩6天减六斤](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A96%E5%A4%A9%E5%87%8F%E5%85%AD%E6%96%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [第5例被治愈的艾滋病患者出现](https://www.baidu.com/s?wd=%E7%AC%AC5%E4%BE%8B%E8%A2%AB%E6%B2%BB%E6%84%88%E7%9A%84%E8%89%BE%E6%BB%8B%E7%97%85%E6%82%A3%E8%80%85%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张颂文发文回应《猎冰》争议](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E3%80%8A%E7%8C%8E%E5%86%B0%E3%80%8B%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [400名大学生回曹县小镇卖马面裙](https://www.baidu.com/s?wd=400%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E6%9B%B9%E5%8E%BF%E5%B0%8F%E9%95%87%E5%8D%96%E9%A9%AC%E9%9D%A2%E8%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“挖呀挖黄老师”疑似被造黄谣](https://www.baidu.com/s?wd=%E2%80%9C%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E2%80%9D%E7%96%91%E4%BC%BC%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“飞行汽车”首飞成功](https://www.baidu.com/s?wd=%E2%80%9C%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E2%80%9D%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [第5例被治愈的艾滋病患者出现](https://www.baidu.com/s?wd=%E7%AC%AC5%E4%BE%8B%E8%A2%AB%E6%B2%BB%E6%84%88%E7%9A%84%E8%89%BE%E6%BB%8B%E7%97%85%E6%82%A3%E8%80%85%E5%87%BA%E7%8E%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张颂文发文回应《猎冰》争议](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E3%80%8A%E7%8C%8E%E5%86%B0%E3%80%8B%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [400名大学生回曹县小镇卖马面裙](https://www.baidu.com/s?wd=400%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E6%9B%B9%E5%8E%BF%E5%B0%8F%E9%95%87%E5%8D%96%E9%A9%AC%E9%9D%A2%E8%A3%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“挖呀挖黄老师”疑似被造黄谣](https://www.baidu.com/s?wd=%E2%80%9C%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E2%80%9D%E7%96%91%E4%BC%BC%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“飞行汽车”首飞成功](https://www.baidu.com/s?wd=%E2%80%9C%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E2%80%9D%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [河南多地发生山火？](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
