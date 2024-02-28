@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 04:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 04:18:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [我国载人航天工程取得4000多项发明专利](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%BD%BD%E4%BA%BA%E8%88%AA%E5%A4%A9%E5%B7%A5%E7%A8%8B%E5%8F%96%E5%BE%974000%E5%A4%9A%E9%A1%B9%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [厅长退休后买13套房给子孙](https://s.weibo.com/weibo?q=%23%E5%8E%85%E9%95%BF%E9%80%80%E4%BC%91%E5%90%8E%E4%B9%B013%E5%A5%97%E6%88%BF%E7%BB%99%E5%AD%90%E5%AD%99%23&t=31&band_rank=4&Refer=top)<br />
 5. [被指吃绝户男子发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8C%87%E5%90%83%E7%BB%9D%E6%88%B7%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
-6. [官方通报广东一初中生跳楼自杀](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%88%9D%E4%B8%AD%E7%94%9F%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [重庆姐弟坠亡案生母宣布将直播带货](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E7%94%9F%E6%AF%8D%E5%AE%A3%E5%B8%83%E5%B0%86%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=7&Refer=top)<br />
+6. [重庆姐弟坠亡案生母宣布将直播带货](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E7%94%9F%E6%AF%8D%E5%AE%A3%E5%B8%83%E5%B0%86%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=6&Refer=top)<br />
+7. [官方通报广东一初中生跳楼自杀](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%88%9D%E4%B8%AD%E7%94%9F%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [艾滋病病毒无法在唾液中存活](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E7%97%85%E7%97%85%E6%AF%92%E6%97%A0%E6%B3%95%E5%9C%A8%E5%94%BE%E6%B6%B2%E4%B8%AD%E5%AD%98%E6%B4%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [迪丽热巴的天使蹲为什么劝你别学](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E5%A4%A9%E4%BD%BF%E8%B9%B2%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%9D%E4%BD%A0%E5%88%AB%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
