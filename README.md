@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 00:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 00:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [面包店的浪费现象有多严重](https://www.baidu.com/s?wd=%E9%9D%A2%E5%8C%85%E5%BA%97%E7%9A%84%E6%B5%AA%E8%B4%B9%E7%8E%B0%E8%B1%A1%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张小斐当选北京视协副主席](https://www.baidu.com/s?wd=%E5%BC%A0%E5%B0%8F%E6%96%90%E5%BD%93%E9%80%89%E5%8C%97%E4%BA%AC%E8%A7%86%E5%8D%8F%E5%89%AF%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [商人称遭套路贷 数十亿地产项目被抢](https://www.baidu.com/s?wd=%E5%95%86%E4%BA%BA%E7%A7%B0%E9%81%AD%E5%A5%97%E8%B7%AF%E8%B4%B7+%E6%95%B0%E5%8D%81%E4%BA%BF%E5%9C%B0%E4%BA%A7%E9%A1%B9%E7%9B%AE%E8%A2%AB%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [霍建华 要拍现在拍别跟着我](https://www.baidu.com/s?wd=%E9%9C%8D%E5%BB%BA%E5%8D%8E+%E8%A6%81%E6%8B%8D%E7%8E%B0%E5%9C%A8%E6%8B%8D%E5%88%AB%E8%B7%9F%E7%9D%80%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [蛋仔派对低龄用户成诈骗特定目标](https://www.baidu.com/s?wd=%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%E4%BD%8E%E9%BE%84%E7%94%A8%E6%88%B7%E6%88%90%E8%AF%88%E9%AA%97%E7%89%B9%E5%AE%9A%E7%9B%AE%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [带状疱疹一次中招终身免疫？](https://www.baidu.com/s?wd=%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E4%B8%80%E6%AC%A1%E4%B8%AD%E6%8B%9B%E7%BB%88%E8%BA%AB%E5%85%8D%E7%96%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [面包店的浪费现象有多严重](https://www.baidu.com/s?wd=%E9%9D%A2%E5%8C%85%E5%BA%97%E7%9A%84%E6%B5%AA%E8%B4%B9%E7%8E%B0%E8%B1%A1%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张小斐当选北京视协副主席](https://www.baidu.com/s?wd=%E5%BC%A0%E5%B0%8F%E6%96%90%E5%BD%93%E9%80%89%E5%8C%97%E4%BA%AC%E8%A7%86%E5%8D%8F%E5%89%AF%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [商人称遭套路贷 数十亿地产项目被抢](https://www.baidu.com/s?wd=%E5%95%86%E4%BA%BA%E7%A7%B0%E9%81%AD%E5%A5%97%E8%B7%AF%E8%B4%B7+%E6%95%B0%E5%8D%81%E4%BA%BF%E5%9C%B0%E4%BA%A7%E9%A1%B9%E7%9B%AE%E8%A2%AB%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [霍建华 要拍现在拍别跟着我](https://www.baidu.com/s?wd=%E9%9C%8D%E5%BB%BA%E5%8D%8E+%E8%A6%81%E6%8B%8D%E7%8E%B0%E5%9C%A8%E6%8B%8D%E5%88%AB%E8%B7%9F%E7%9D%80%E6%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [蛋仔派对低龄用户成诈骗特定目标](https://www.baidu.com/s?wd=%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%E4%BD%8E%E9%BE%84%E7%94%A8%E6%88%B7%E6%88%90%E8%AF%88%E9%AA%97%E7%89%B9%E5%AE%9A%E7%9B%AE%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [带状疱疹一次中招终身免疫？](https://www.baidu.com/s?wd=%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E4%B8%80%E6%AC%A1%E4%B8%AD%E6%8B%9B%E7%BB%88%E8%BA%AB%E5%85%8D%E7%96%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
