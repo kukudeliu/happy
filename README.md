@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 21:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 21:15:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [中国航天再添国之重器](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%86%8D%E6%B7%BB%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [宗馥莉哽咽追忆父亲宗庆后](https://www.baidu.com/s?wd=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%93%BD%E5%92%BD%E8%BF%BD%E5%BF%86%E7%88%B6%E4%BA%B2%E5%AE%97%E5%BA%86%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [商人称遭套路贷 数十亿地产项目被抢](https://www.baidu.com/s?wd=%E5%95%86%E4%BA%BA%E7%A7%B0%E9%81%AD%E5%A5%97%E8%B7%AF%E8%B4%B7+%E6%95%B0%E5%8D%81%E4%BA%BF%E5%9C%B0%E4%BA%A7%E9%A1%B9%E7%9B%AE%E8%A2%AB%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [沪深两市成交额突破10000亿](https://www.baidu.com/s?wd=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B410000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [艾滋病已是可防可控可治的慢性病](https://www.baidu.com/s?wd=%E8%89%BE%E6%BB%8B%E7%97%85%E5%B7%B2%E6%98%AF%E5%8F%AF%E9%98%B2%E5%8F%AF%E6%8E%A7%E5%8F%AF%E6%B2%BB%E7%9A%84%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [三八节送礼购买推荐](https://www.baidu.com/s?wd=%E4%B8%89%E5%85%AB%E8%8A%82%E9%80%81%E7%A4%BC%E8%B4%AD%E4%B9%B0%E6%8E%A8%E8%8D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [带状疱疹一次中招终身免疫？](https://www.baidu.com/s?wd=%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E4%B8%80%E6%AC%A1%E4%B8%AD%E6%8B%9B%E7%BB%88%E8%BA%AB%E5%85%8D%E7%96%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [中国航天再添国之重器](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%86%8D%E6%B7%BB%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [宗馥莉哽咽追忆父亲宗庆后](https://www.baidu.com/s?wd=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%93%BD%E5%92%BD%E8%BF%BD%E5%BF%86%E7%88%B6%E4%BA%B2%E5%AE%97%E5%BA%86%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [商人称遭套路贷 数十亿地产项目被抢](https://www.baidu.com/s?wd=%E5%95%86%E4%BA%BA%E7%A7%B0%E9%81%AD%E5%A5%97%E8%B7%AF%E8%B4%B7+%E6%95%B0%E5%8D%81%E4%BA%BF%E5%9C%B0%E4%BA%A7%E9%A1%B9%E7%9B%AE%E8%A2%AB%E6%8A%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [沪深两市成交额突破10000亿](https://www.baidu.com/s?wd=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B410000%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [艾滋病已是可防可控可治的慢性病](https://www.baidu.com/s?wd=%E8%89%BE%E6%BB%8B%E7%97%85%E5%B7%B2%E6%98%AF%E5%8F%AF%E9%98%B2%E5%8F%AF%E6%8E%A7%E5%8F%AF%E6%B2%BB%E7%9A%84%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [三八节送礼购买推荐](https://www.baidu.com/s?wd=%E4%B8%89%E5%85%AB%E8%8A%82%E9%80%81%E7%A4%BC%E8%B4%AD%E4%B9%B0%E6%8E%A8%E8%8D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [带状疱疹一次中招终身免疫？](https://www.baidu.com/s?wd=%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E4%B8%80%E6%AC%A1%E4%B8%AD%E6%8B%9B%E7%BB%88%E8%BA%AB%E5%85%8D%E7%96%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
