@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 16:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 16:13:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [上海一饭堂发生情杀案致2人死亡](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E9%A5%AD%E5%A0%82%E5%8F%91%E7%94%9F%E6%83%85%E6%9D%80%E6%A1%88%E8%87%B42%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [黄嘉千称夏天被夏克立家暴](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%98%89%E5%8D%83%E7%A7%B0%E5%A4%8F%E5%A4%A9%E8%A2%AB%E5%A4%8F%E5%85%8B%E7%AB%8B%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [泰国版张雨绮](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%89%88%E5%BC%A0%E9%9B%A8%E7%BB%AE%23&t=31&band_rank=6&Refer=top)<br />
-7. [甜馨cos初音未来](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8cos%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [贡菜就是晒干的莴笋](https://s.weibo.com/weibo?q=%E8%B4%A1%E8%8F%9C%E5%B0%B1%E6%98%AF%E6%99%92%E5%B9%B2%E7%9A%84%E8%8E%B4%E7%AC%8B&t=31&band_rank=8&Refer=top)<br />
+7. [贡菜就是晒干的莴笋](https://s.weibo.com/weibo?q=%E8%B4%A1%E8%8F%9C%E5%B0%B1%E6%98%AF%E6%99%92%E5%B9%B2%E7%9A%84%E8%8E%B4%E7%AC%8B&t=31&band_rank=7&Refer=top)<br />
+8. [甜馨cos初音未来](https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8cos%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [国产剧洗澡戏越来越见外了](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BA%A7%E5%89%A7%E6%B4%97%E6%BE%A1%E6%88%8F%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%A7%81%E5%A4%96%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
