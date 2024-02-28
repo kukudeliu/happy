@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 15:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 15:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2岁宝宝已穿1年小腿假肢](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%B7%B2%E7%A9%BF1%E5%B9%B4%E5%B0%8F%E8%85%BF%E5%81%87%E8%82%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [凤凰传奇官宣演唱会](https://s.weibo.com/weibo?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%AE%98%E5%AE%A3%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
 8. [迪丽热巴新高定](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%B0%E9%AB%98%E5%AE%9A&t=31&band_rank=8&Refer=top)<br />
-9. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=9&Refer=top)<br />
+9. [HIV预防性疫苗研发全军覆没](https://s.weibo.com/weibo?q=%23HIV%E9%A2%84%E9%98%B2%E6%80%A7%E7%96%AB%E8%8B%97%E7%A0%94%E5%8F%91%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
