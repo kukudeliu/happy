@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 10:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 10:01:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [台湾省](https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E7%9C%81&t=31&band_rank=4&Refer=top)<br />
 5. [第5例被治愈的艾滋病患者](https://s.weibo.com/weibo?q=%23%E7%AC%AC5%E4%BE%8B%E8%A2%AB%E6%B2%BB%E6%84%88%E7%9A%84%E8%89%BE%E6%BB%8B%E7%97%85%E6%82%A3%E8%80%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [全员加速中直播](https://s.weibo.com/weibo?q=%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD%E7%9B%B4%E6%92%AD&t=31&band_rank=6&Refer=top)<br />
-7. [张颂文谈猎冰争议](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E8%B0%88%E7%8C%8E%E5%86%B0%E4%BA%89%E8%AE%AE%23&t=31&band_rank=7&Refer=top)<br />
-8. [400名大学生回曹县小镇卖马面裙](https://s.weibo.com/weibo?q=%23400%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E6%9B%B9%E5%8E%BF%E5%B0%8F%E9%95%87%E5%8D%96%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=8&Refer=top)<br />
+7. [400名大学生回曹县小镇卖马面裙](https://s.weibo.com/weibo?q=%23400%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E6%9B%B9%E5%8E%BF%E5%B0%8F%E9%95%87%E5%8D%96%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=7&Refer=top)<br />
+8. [张颂文谈猎冰争议](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E8%B0%88%E7%8C%8E%E5%86%B0%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
 9. [地铁小姐姐连摔两跤滑跪按下急停按钮](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%B0%8F%E5%A7%90%E5%A7%90%E8%BF%9E%E6%91%94%E4%B8%A4%E8%B7%A4%E6%BB%91%E8%B7%AA%E6%8C%89%E4%B8%8B%E6%80%A5%E5%81%9C%E6%8C%89%E9%92%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
