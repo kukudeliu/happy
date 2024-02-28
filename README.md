@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 23:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 23:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴的天使蹲为什么劝你别学](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E5%A4%A9%E4%BD%BF%E8%B9%B2%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%9D%E4%BD%A0%E5%88%AB%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [艾滋病病毒无法在唾液中存活](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E7%97%85%E7%97%85%E6%AF%92%E6%97%A0%E6%B3%95%E5%9C%A8%E5%94%BE%E6%B6%B2%E4%B8%AD%E5%AD%98%E6%B4%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [演员王迅游荆州怒批古城墙刻字行为](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E7%8E%8B%E8%BF%85%E6%B8%B8%E8%8D%86%E5%B7%9E%E6%80%92%E6%89%B9%E5%8F%A4%E5%9F%8E%E5%A2%99%E5%88%BB%E5%AD%97%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙千陈靖可朋友圈签名](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E9%99%88%E9%9D%96%E5%8F%AF%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%AD%BE%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [我国有近1亿人是慢阻肺人群](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%9C%89%E8%BF%911%E4%BA%BF%E4%BA%BA%E6%98%AF%E6%85%A2%E9%98%BB%E8%82%BA%E4%BA%BA%E7%BE%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
