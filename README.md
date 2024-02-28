@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 09:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 09:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [台湾省](https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E7%9C%81&t=31&band_rank=6&Refer=top)<br />
 7. [全员加速中直播](https://s.weibo.com/weibo?q=%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD%E7%9B%B4%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
 8. [地铁小姐姐连摔两跤滑跪按下急停按钮](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%B0%8F%E5%A7%90%E5%A7%90%E8%BF%9E%E6%91%94%E4%B8%A4%E8%B7%A4%E6%BB%91%E8%B7%AA%E6%8C%89%E4%B8%8B%E6%80%A5%E5%81%9C%E6%8C%89%E9%92%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [母亲将唯一银镯打成首饰送2个女儿](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%B0%86%E5%94%AF%E4%B8%80%E9%93%B6%E9%95%AF%E6%89%93%E6%88%90%E9%A6%96%E9%A5%B0%E9%80%812%E4%B8%AA%E5%A5%B3%E5%84%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [张颂文谈猎冰争议](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E8%B0%88%E7%8C%8E%E5%86%B0%E4%BA%89%E8%AE%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
