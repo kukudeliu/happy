@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 04:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 04:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [官方通报广东一初中生跳楼自杀](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%88%9D%E4%B8%AD%E7%94%9F%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [重庆姐弟坠亡案生母宣布将直播带货](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E7%94%9F%E6%AF%8D%E5%AE%A3%E5%B8%83%E5%B0%86%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [艾滋病病毒无法在唾液中存活](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E7%97%85%E7%97%85%E6%AF%92%E6%97%A0%E6%B3%95%E5%9C%A8%E5%94%BE%E6%B6%B2%E4%B8%AD%E5%AD%98%E6%B4%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴的天使蹲为什么劝你别学](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E5%A4%A9%E4%BD%BF%E8%B9%B2%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%9D%E4%BD%A0%E5%88%AB%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [霍建华 要拍现在拍别跟着我](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%BB%BA%E5%8D%8E%20%E8%A6%81%E6%8B%8D%E7%8E%B0%E5%9C%A8%E6%8B%8D%E5%88%AB%E8%B7%9F%E7%9D%80%E6%88%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,8 +22,8 @@
 3. [人大代表建议取消商品房预售制度](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%95%86%E5%93%81%E6%88%BF%E9%A2%84%E5%94%AE%E5%88%B6%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国互联网“蝶变”成长](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E2%80%9C%E8%9D%B6%E5%8F%98%E2%80%9D%E6%88%90%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [面包店的浪费现象有多严重](https://www.baidu.com/s?wd=%E9%9D%A2%E5%8C%85%E5%BA%97%E7%9A%84%E6%B5%AA%E8%B4%B9%E7%8E%B0%E8%B1%A1%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [艾滋病已是可防可控可治的慢性病](https://www.baidu.com/s?wd=%E8%89%BE%E6%BB%8B%E7%97%85%E5%B7%B2%E6%98%AF%E5%8F%AF%E9%98%B2%E5%8F%AF%E6%8E%A7%E5%8F%AF%E6%B2%BB%E7%9A%84%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [张小斐当选北京视协副主席](https://www.baidu.com/s?wd=%E5%BC%A0%E5%B0%8F%E6%96%90%E5%BD%93%E9%80%89%E5%8C%97%E4%BA%AC%E8%A7%86%E5%8D%8F%E5%89%AF%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [湖南一水渠因柴油泄漏被引燃](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%B0%B4%E6%B8%A0%E5%9B%A0%E6%9F%B4%E6%B2%B9%E6%B3%84%E6%BC%8F%E8%A2%AB%E5%BC%95%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [艾滋病已是可防可控可治的慢性病](https://www.baidu.com/s?wd=%E8%89%BE%E6%BB%8B%E7%97%85%E5%B7%B2%E6%98%AF%E5%8F%AF%E9%98%B2%E5%8F%AF%E6%8E%A7%E5%8F%AF%E6%B2%BB%E7%9A%84%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国安部女警揪出潜伏10年间谍](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E9%83%A8%E5%A5%B3%E8%AD%A6%E6%8F%AA%E5%87%BA%E6%BD%9C%E4%BC%8F10%E5%B9%B4%E9%97%B4%E8%B0%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [带状疱疹一次中招终身免疫？](https://www.baidu.com/s?wd=%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E4%B8%80%E6%AC%A1%E4%B8%AD%E6%8B%9B%E7%BB%88%E8%BA%AB%E5%85%8D%E7%96%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [人大代表建议取消商品房预售制度](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%95%86%E5%93%81%E6%88%BF%E9%A2%84%E5%94%AE%E5%88%B6%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国互联网“蝶变”成长](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E2%80%9C%E8%9D%B6%E5%8F%98%E2%80%9D%E6%88%90%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [面包店的浪费现象有多严重](https://www.baidu.com/s?wd=%E9%9D%A2%E5%8C%85%E5%BA%97%E7%9A%84%E6%B5%AA%E8%B4%B9%E7%8E%B0%E8%B1%A1%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [艾滋病已是可防可控可治的慢性病](https://www.baidu.com/s?wd=%E8%89%BE%E6%BB%8B%E7%97%85%E5%B7%B2%E6%98%AF%E5%8F%AF%E9%98%B2%E5%8F%AF%E6%8E%A7%E5%8F%AF%E6%B2%BB%E7%9A%84%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [张小斐当选北京视协副主席](https://www.baidu.com/s?wd=%E5%BC%A0%E5%B0%8F%E6%96%90%E5%BD%93%E9%80%89%E5%8C%97%E4%BA%AC%E8%A7%86%E5%8D%8F%E5%89%AF%E4%B8%BB%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [湖南一水渠因柴油泄漏被引燃](https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E6%B0%B4%E6%B8%A0%E5%9B%A0%E6%9F%B4%E6%B2%B9%E6%B3%84%E6%BC%8F%E8%A2%AB%E5%BC%95%E7%87%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [艾滋病已是可防可控可治的慢性病](https://www.baidu.com/s?wd=%E8%89%BE%E6%BB%8B%E7%97%85%E5%B7%B2%E6%98%AF%E5%8F%AF%E9%98%B2%E5%8F%AF%E6%8E%A7%E5%8F%AF%E6%B2%BB%E7%9A%84%E6%85%A2%E6%80%A7%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [国安部女警揪出潜伏10年间谍](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E9%83%A8%E5%A5%B3%E8%AD%A6%E6%8F%AA%E5%87%BA%E6%BD%9C%E4%BC%8F10%E5%B9%B4%E9%97%B4%E8%B0%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [带状疱疹一次中招终身免疫？](https://www.baidu.com/s?wd=%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E4%B8%80%E6%AC%A1%E4%B8%AD%E6%8B%9B%E7%BB%88%E8%BA%AB%E5%85%8D%E7%96%AB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
