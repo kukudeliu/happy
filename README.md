@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 11:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 11:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈乔恩6天减六斤](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A96%E5%A4%A9%E5%87%8F%E5%85%AD%E6%96%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [国台办再回应台撞击大陆渔船恶性事件](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%86%8D%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%92%9E%E5%87%BB%E5%A4%A7%E9%99%86%E6%B8%94%E8%88%B9%E6%81%B6%E6%80%A7%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [姚安娜芭蕾水平](https://s.weibo.com/weibo?q=%E5%A7%9A%E5%AE%89%E5%A8%9C%E8%8A%AD%E8%95%BE%E6%B0%B4%E5%B9%B3&t=31&band_rank=8&Refer=top)<br />
-9. [D社放弃跟拍的女爱豆](https://s.weibo.com/weibo?q=D%E7%A4%BE%E6%94%BE%E5%BC%83%E8%B7%9F%E6%8B%8D%E7%9A%84%E5%A5%B3%E7%88%B1%E8%B1%86&t=31&band_rank=9&Refer=top)<br />
+9. [老凤祥回应](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%87%A4%E7%A5%A5%E5%9B%9E%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
