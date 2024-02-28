@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 22:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-28 22:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [演员王迅游荆州怒批古城墙刻字行为](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E7%8E%8B%E8%BF%85%E6%B8%B8%E8%8D%86%E5%B7%9E%E6%80%92%E6%89%B9%E5%8F%A4%E5%9F%8E%E5%A2%99%E5%88%BB%E5%AD%97%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [挖呀挖黄老师家人回应被造黄谣](https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [艾滋病病毒无法在唾液中存活](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E7%97%85%E7%97%85%E6%AF%92%E6%97%A0%E6%B3%95%E5%9C%A8%E5%94%BE%E6%B6%B2%E4%B8%AD%E5%AD%98%E6%B4%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [被指吃绝户男子发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8C%87%E5%90%83%E7%BB%9D%E6%88%B7%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴的天使蹲为什么劝你别学](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E5%A4%A9%E4%BD%BF%E8%B9%B2%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%9D%E4%BD%A0%E5%88%AB%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [迪丽热巴的天使蹲为什么劝你别学](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E5%A4%A9%E4%BD%BF%E8%B9%B2%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%9D%E4%BD%A0%E5%88%AB%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [被指吃绝户男子发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8C%87%E5%90%83%E7%BB%9D%E6%88%B7%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
