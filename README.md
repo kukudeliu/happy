@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 12:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 12:15:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [唯一天价救命药将退市](https://www.baidu.com/s?wd=%E5%94%AF%E4%B8%80%E5%A4%A9%E4%BB%B7%E6%95%91%E5%91%BD%E8%8D%AF%E5%B0%86%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明大爹把小松鼠喂得随叫随到](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E5%A4%A7%E7%88%B9%E6%8A%8A%E5%B0%8F%E6%9D%BE%E9%BC%A0%E5%96%82%E5%BE%97%E9%9A%8F%E5%8F%AB%E9%9A%8F%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国孕妇可随时鉴定胎儿性别](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%AD%95%E5%A6%87%E5%8F%AF%E9%9A%8F%E6%97%B6%E9%89%B4%E5%AE%9A%E8%83%8E%E5%84%BF%E6%80%A7%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [班主任一个月直播超百场？教委回应](https://www.baidu.com/s?wd=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9B%B4%E6%92%AD%E8%B6%85%E7%99%BE%E5%9C%BA%EF%BC%9F%E6%95%99%E5%A7%94%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子高铁吸烟狂言：不差钱随便罚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E5%90%B8%E7%83%9F%E7%8B%82%E8%A8%80%EF%BC%9A%E4%B8%8D%E5%B7%AE%E9%92%B1%E9%9A%8F%E4%BE%BF%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆户口高考加80分？](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%88%B7%E5%8F%A3%E9%AB%98%E8%80%83%E5%8A%A080%E5%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [唯一天价救命药将退市](https://www.baidu.com/s?wd=%E5%94%AF%E4%B8%80%E5%A4%A9%E4%BB%B7%E6%95%91%E5%91%BD%E8%8D%AF%E5%B0%86%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明大爹把小松鼠喂得随叫随到](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E5%A4%A7%E7%88%B9%E6%8A%8A%E5%B0%8F%E6%9D%BE%E9%BC%A0%E5%96%82%E5%BE%97%E9%9A%8F%E5%8F%AB%E9%9A%8F%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国孕妇可随时鉴定胎儿性别](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%AD%95%E5%A6%87%E5%8F%AF%E9%9A%8F%E6%97%B6%E9%89%B4%E5%AE%9A%E8%83%8E%E5%84%BF%E6%80%A7%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [班主任一个月直播超百场？教委回应](https://www.baidu.com/s?wd=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9B%B4%E6%92%AD%E8%B6%85%E7%99%BE%E5%9C%BA%EF%BC%9F%E6%95%99%E5%A7%94%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子高铁吸烟狂言：不差钱随便罚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E5%90%B8%E7%83%9F%E7%8B%82%E8%A8%80%EF%BC%9A%E4%B8%8D%E5%B7%AE%E9%92%B1%E9%9A%8F%E4%BE%BF%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆户口高考加80分？](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%88%B7%E5%8F%A3%E9%AB%98%E8%80%83%E5%8A%A080%E5%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
