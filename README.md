@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 16:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 16:59:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [京东物流被曝将招聘上万人](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E7%89%A9%E6%B5%81%E8%A2%AB%E6%9B%9D%E5%B0%86%E6%8B%9B%E8%81%98%E4%B8%8A%E4%B8%87%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [港剧是懂女性痛经的](https://s.weibo.com/weibo?q=%E6%B8%AF%E5%89%A7%E6%98%AF%E6%87%82%E5%A5%B3%E6%80%A7%E7%97%9B%E7%BB%8F%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
 6. [任泉回应街头拥抱陌生人](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%B3%89%E5%9B%9E%E5%BA%94%E8%A1%97%E5%A4%B4%E6%8B%A5%E6%8A%B1%E9%99%8C%E7%94%9F%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [马航失联乘客家属再次赴马参会](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AA%E5%A4%B1%E8%81%94%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E5%86%8D%E6%AC%A1%E8%B5%B4%E9%A9%AC%E5%8F%82%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [李溪芮自荐报名浪姐](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%BA%AA%E8%8A%AE%E8%87%AA%E8%8D%90%E6%8A%A5%E5%90%8D%E6%B5%AA%E5%A7%90&t=31&band_rank=8&Refer=top)<br />
+7. [李溪芮自荐报名浪姐](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%BA%AA%E8%8A%AE%E8%87%AA%E8%8D%90%E6%8A%A5%E5%90%8D%E6%B5%AA%E5%A7%90&t=31&band_rank=7&Refer=top)<br />
+8. [马航失联乘客家属再次赴马参会](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AA%E5%A4%B1%E8%81%94%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E5%86%8D%E6%AC%A1%E8%B5%B4%E9%A9%AC%E5%8F%82%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
 9. [刘忻 浪姐](https://s.weibo.com/weibo?q=%E5%88%98%E5%BF%BB%20%E6%B5%AA%E5%A7%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [超80种罕见病用药进医保](https://www.baidu.com/s?wd=%E8%B6%8580%E7%A7%8D%E7%BD%95%E8%A7%81%E7%97%85%E7%94%A8%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [一个普通上班族的不租房计划](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%B8%8A%E7%8F%AD%E6%97%8F%E7%9A%84%E4%B8%8D%E7%A7%9F%E6%88%BF%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [侃爷妻子或因穿着暴露坐牢](https://www.baidu.com/s?wd=%E4%BE%83%E7%88%B7%E5%A6%BB%E5%AD%90%E6%88%96%E5%9B%A0%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [律师解读打人老师是否涉嫌违法](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E6%89%93%E4%BA%BA%E8%80%81%E5%B8%88%E6%98%AF%E5%90%A6%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雷军建议苹果用户选购小米汽车](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E9%80%89%E8%B4%AD%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武汉大学 莞莞类卿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6+%E8%8E%9E%E8%8E%9E%E7%B1%BB%E5%8D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [28年一遇的疯狂星期四](https://www.baidu.com/s?wd=28%E5%B9%B4%E4%B8%80%E9%81%87%E7%9A%84%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆户口高考加80分？](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%88%B7%E5%8F%A3%E9%AB%98%E8%80%83%E5%8A%A080%E5%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [超80种罕见病用药进医保](https://www.baidu.com/s?wd=%E8%B6%8580%E7%A7%8D%E7%BD%95%E8%A7%81%E7%97%85%E7%94%A8%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [一个普通上班族的不租房计划](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%B8%8A%E7%8F%AD%E6%97%8F%E7%9A%84%E4%B8%8D%E7%A7%9F%E6%88%BF%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [侃爷妻子或因穿着暴露坐牢](https://www.baidu.com/s?wd=%E4%BE%83%E7%88%B7%E5%A6%BB%E5%AD%90%E6%88%96%E5%9B%A0%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [律师解读打人老师是否涉嫌违法](https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E6%89%93%E4%BA%BA%E8%80%81%E5%B8%88%E6%98%AF%E5%90%A6%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雷军建议苹果用户选购小米汽车](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E9%80%89%E8%B4%AD%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [武汉大学 莞莞类卿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6+%E8%8E%9E%E8%8E%9E%E7%B1%BB%E5%8D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [28年一遇的疯狂星期四](https://www.baidu.com/s?wd=28%E5%B9%B4%E4%B8%80%E9%81%87%E7%9A%84%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆户口高考加80分？](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%88%B7%E5%8F%A3%E9%AB%98%E8%80%83%E5%8A%A080%E5%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
