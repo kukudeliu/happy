@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 13:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 13:59:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫票房总成绩破80亿](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%A5%A8%E6%88%BF%E6%80%BB%E6%88%90%E7%BB%A9%E7%A0%B480%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩国允许对胎儿进行性别鉴定](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%85%81%E8%AE%B8%E5%AF%B9%E8%83%8E%E5%84%BF%E8%BF%9B%E8%A1%8C%E6%80%A7%E5%88%AB%E9%89%B4%E5%AE%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [詹姆斯离4万分越来越近](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E7%A6%BB4%E4%B8%87%E5%88%86%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%BF%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [挖呀挖黄老师已向警方提供证据](https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E5%B7%B2%E5%90%91%E8%AD%A6%E6%96%B9%E6%8F%90%E4%BE%9B%E8%AF%81%E6%8D%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [院士说科学不可能靠上班8小时搞出来](https://s.weibo.com/weibo?q=%23%E9%99%A2%E5%A3%AB%E8%AF%B4%E7%A7%91%E5%AD%A6%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%9D%A0%E4%B8%8A%E7%8F%AD8%E5%B0%8F%E6%97%B6%E6%90%9E%E5%87%BA%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [唯一天价救命药将退市](https://www.baidu.com/s?wd=%E5%94%AF%E4%B8%80%E5%A4%A9%E4%BB%B7%E6%95%91%E5%91%BD%E8%8D%AF%E5%B0%86%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [包小柏用AI“复活”女儿为妻子庆生](https://www.baidu.com/s?wd=%E5%8C%85%E5%B0%8F%E6%9F%8F%E7%94%A8AI%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D%E5%A5%B3%E5%84%BF%E4%B8%BA%E5%A6%BB%E5%AD%90%E5%BA%86%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电车一再降价 油车慌不慌？](https://www.baidu.com/s?wd=%E7%94%B5%E8%BD%A6%E4%B8%80%E5%86%8D%E9%99%8D%E4%BB%B7+%E6%B2%B9%E8%BD%A6%E6%85%8C%E4%B8%8D%E6%85%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美媒：中国短剧迷倒大批国际观众](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E8%BF%B7%E5%80%92%E5%A4%A7%E6%89%B9%E5%9B%BD%E9%99%85%E8%A7%82%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孕前筛查是预防罕见病的有效途径](https://www.baidu.com/s?wd=%E5%AD%95%E5%89%8D%E7%AD%9B%E6%9F%A5%E6%98%AF%E9%A2%84%E9%98%B2%E7%BD%95%E8%A7%81%E7%97%85%E7%9A%84%E6%9C%89%E6%95%88%E9%80%94%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆户口高考加80分？](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%88%B7%E5%8F%A3%E9%AB%98%E8%80%83%E5%8A%A080%E5%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [唯一天价救命药将退市](https://www.baidu.com/s?wd=%E5%94%AF%E4%B8%80%E5%A4%A9%E4%BB%B7%E6%95%91%E5%91%BD%E8%8D%AF%E5%B0%86%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [包小柏用AI“复活”女儿为妻子庆生](https://www.baidu.com/s?wd=%E5%8C%85%E5%B0%8F%E6%9F%8F%E7%94%A8AI%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D%E5%A5%B3%E5%84%BF%E4%B8%BA%E5%A6%BB%E5%AD%90%E5%BA%86%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电车一再降价 油车慌不慌？](https://www.baidu.com/s?wd=%E7%94%B5%E8%BD%A6%E4%B8%80%E5%86%8D%E9%99%8D%E4%BB%B7+%E6%B2%B9%E8%BD%A6%E6%85%8C%E4%B8%8D%E6%85%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美媒：中国短剧迷倒大批国际观众](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E8%BF%B7%E5%80%92%E5%A4%A7%E6%89%B9%E5%9B%BD%E9%99%85%E8%A7%82%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孕前筛查是预防罕见病的有效途径](https://www.baidu.com/s?wd=%E5%AD%95%E5%89%8D%E7%AD%9B%E6%9F%A5%E6%98%AF%E9%A2%84%E9%98%B2%E7%BD%95%E8%A7%81%E7%97%85%E7%9A%84%E6%9C%89%E6%95%88%E9%80%94%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆户口高考加80分？](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%88%B7%E5%8F%A3%E9%AB%98%E8%80%83%E5%8A%A080%E5%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
