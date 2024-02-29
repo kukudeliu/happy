@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 02:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 02:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小团团](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9B%A2%E5%9B%A2&t=31&band_rank=6&Refer=top)<br />
 7. [赵露思女友感](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%A5%B3%E5%8F%8B%E6%84%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [花少团真的去了秦岚家](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E7%9C%9F%E7%9A%84%E5%8E%BB%E4%BA%86%E7%A7%A6%E5%B2%9A%E5%AE%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈靖可曾因外貌遭校园暴力](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9D%96%E5%8F%AF%E6%9B%BE%E5%9B%A0%E5%A4%96%E8%B2%8C%E9%81%AD%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [王力宏点赞十几年前和宗庆后合照微博](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%82%B9%E8%B5%9E%E5%8D%81%E5%87%A0%E5%B9%B4%E5%89%8D%E5%92%8C%E5%AE%97%E5%BA%86%E5%90%8E%E5%90%88%E7%85%A7%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
