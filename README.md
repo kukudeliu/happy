@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 18:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 18:51:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2023中国科学十大进展公布](https://s.weibo.com/weibo?q=%232023%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%8D%81%E5%A4%A7%E8%BF%9B%E5%B1%95%E5%85%AC%E5%B8%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [泰国男子寺庙闹事意外被佛像刺死](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [曹璐 没来浪姐](https://s.weibo.com/weibo?q=%E6%9B%B9%E7%92%90%20%E6%B2%A1%E6%9D%A5%E6%B5%AA%E5%A7%90&t=31&band_rank=5&Refer=top)<br />
-6. [手机电池不喜欢100%的饱和状态](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%94%B5%E6%B1%A0%E4%B8%8D%E5%96%9C%E6%AC%A2100%25%E7%9A%84%E9%A5%B1%E5%92%8C%E7%8A%B6%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [老师粗暴对学生涉事学校校长被免职](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E7%B2%97%E6%9A%B4%E5%AF%B9%E5%AD%A6%E7%94%9F%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=7&Refer=top)<br />
+6. [老师粗暴对学生涉事学校校长被免职](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E7%B2%97%E6%9A%B4%E5%AF%B9%E5%AD%A6%E7%94%9F%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
+7. [手机电池不喜欢100%的饱和状态](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%94%B5%E6%B1%A0%E4%B8%8D%E5%96%9C%E6%AC%A2100%25%E7%9A%84%E9%A5%B1%E5%92%8C%E7%8A%B6%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [浪姐路透](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E8%B7%AF%E9%80%8F&t=31&band_rank=8&Refer=top)<br />
 9. [一条plog告别二月](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1plog%E5%91%8A%E5%88%AB%E4%BA%8C%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
 
