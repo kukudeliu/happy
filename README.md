@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 20:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 20:40:01</h4></div>
 
 > 微博  
 
-1. [PDD](https://s.weibo.com/weibo?q=PDD&t=31&band_rank=1&Refer=top)<br />
-2. [教育局回应50岁班主任和学生谈恋爱](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%9450%E5%B2%81%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%92%8C%E5%AD%A6%E7%94%9F%E8%B0%88%E6%81%8B%E7%88%B1%23&t=31&band_rank=2&Refer=top)<br />
+1. [教育局回应50岁班主任和学生谈恋爱](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%9450%E5%B2%81%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%92%8C%E5%AD%A6%E7%94%9F%E8%B0%88%E6%81%8B%E7%88%B1%23&t=31&band_rank=1&Refer=top)<br />
+2. [PDD](https://s.weibo.com/weibo?q=PDD&t=31&band_rank=2&Refer=top)<br />
 3. [2023中国科学十大进展公布](https://s.weibo.com/weibo?q=%232023%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%8D%81%E5%A4%A7%E8%BF%9B%E5%B1%95%E5%85%AC%E5%B8%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [南波万好吵](https://s.weibo.com/weibo?q=%E5%8D%97%E6%B3%A2%E4%B8%87%E5%A5%BD%E5%90%B5&t=31&band_rank=4&Refer=top)<br />
 5. [王力宏点赞十几年前和宗庆后合照微博](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%82%B9%E8%B5%9E%E5%8D%81%E5%87%A0%E5%B9%B4%E5%89%8D%E5%92%8C%E5%AE%97%E5%BA%86%E5%90%8E%E5%90%88%E7%85%A7%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=5&Refer=top)<br />
