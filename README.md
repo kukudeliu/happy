@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 19:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 19:36:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [超80种罕见病用药进医保](https://www.baidu.com/s?wd=%E8%B6%8580%E7%A7%8D%E7%BD%95%E8%A7%81%E7%97%85%E7%94%A8%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [泰国男子寺庙闹事意外被佛像刺死](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [作家程雪莉因意外事故去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E7%A8%8B%E9%9B%AA%E8%8E%89%E5%9B%A0%E6%84%8F%E5%A4%96%E4%BA%8B%E6%95%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马天宇为女教师殴打学生事件发声](https://www.baidu.com/s?wd=%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%B8%BA%E5%A5%B3%E6%95%99%E5%B8%88%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国人在非洲当酋长：能娶4个老婆](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E9%9D%9E%E6%B4%B2%E5%BD%93%E9%85%8B%E9%95%BF%EF%BC%9A%E8%83%BD%E5%A8%B64%E4%B8%AA%E8%80%81%E5%A9%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女神节送什么](https://www.baidu.com/s?wd=%E5%A5%B3%E7%A5%9E%E8%8A%82%E9%80%81%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都领结婚证送足球套票？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%81%E8%B6%B3%E7%90%83%E5%A5%97%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [超80种罕见病用药进医保](https://www.baidu.com/s?wd=%E8%B6%8580%E7%A7%8D%E7%BD%95%E8%A7%81%E7%97%85%E7%94%A8%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [泰国男子寺庙闹事意外被佛像刺死](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [作家程雪莉因意外事故去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E7%A8%8B%E9%9B%AA%E8%8E%89%E5%9B%A0%E6%84%8F%E5%A4%96%E4%BA%8B%E6%95%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马天宇为女教师殴打学生事件发声](https://www.baidu.com/s?wd=%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%B8%BA%E5%A5%B3%E6%95%99%E5%B8%88%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [中国人在非洲当酋长：能娶4个老婆](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E9%9D%9E%E6%B4%B2%E5%BD%93%E9%85%8B%E9%95%BF%EF%BC%9A%E8%83%BD%E5%A8%B64%E4%B8%AA%E8%80%81%E5%A9%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女神节送什么](https://www.baidu.com/s?wd=%E5%A5%B3%E7%A5%9E%E8%8A%82%E9%80%81%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都领结婚证送足球套票？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%81%E8%B6%B3%E7%90%83%E5%A5%97%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
