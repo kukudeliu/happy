@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 07:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 07:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [退税](https://s.weibo.com/weibo?q=%E9%80%80%E7%A8%8E&t=31&band_rank=6&Refer=top)<br />
 7. [郭麒麟胖了](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E8%83%96%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [花少团真的去了秦岚家](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E7%9C%9F%E7%9A%84%E5%8E%BB%E4%BA%86%E7%A7%A6%E5%B2%9A%E5%AE%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [曹璐回应落选浪姐](https://s.weibo.com/weibo?q=%E6%9B%B9%E7%92%90%E5%9B%9E%E5%BA%94%E8%90%BD%E9%80%89%E6%B5%AA%E5%A7%90&t=31&band_rank=9&Refer=top)<br />
+9. [周星驰将为新片女足海选素人](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E5%B0%86%E4%B8%BA%E6%96%B0%E7%89%87%E5%A5%B3%E8%B6%B3%E6%B5%B7%E9%80%89%E7%B4%A0%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
