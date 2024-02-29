@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 11:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 11:45:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [中国互联网“蝶变”成长](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E2%80%9C%E8%9D%B6%E5%8F%98%E2%80%9D%E6%88%90%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [唯一天价救命药将退市](https://www.baidu.com/s?wd=%E5%94%AF%E4%B8%80%E5%A4%A9%E4%BB%B7%E6%95%91%E5%91%BD%E8%8D%AF%E5%B0%86%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明大爹把小松鼠喂得随叫随到](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E5%A4%A7%E7%88%B9%E6%8A%8A%E5%B0%8F%E6%9D%BE%E9%BC%A0%E5%96%82%E5%BE%97%E9%9A%8F%E5%8F%AB%E9%9A%8F%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美军人在以色列使馆前自焚身亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E4%BD%BF%E9%A6%86%E5%89%8D%E8%87%AA%E7%84%9A%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子高铁吸烟狂言：不差钱随便罚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E5%90%B8%E7%83%9F%E7%8B%82%E8%A8%80%EF%BC%9A%E4%B8%8D%E5%B7%AE%E9%92%B1%E9%9A%8F%E4%BE%BF%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩国孕妇可随时鉴定胎儿性别](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%AD%95%E5%A6%87%E5%8F%AF%E9%9A%8F%E6%97%B6%E9%89%B4%E5%AE%9A%E8%83%8E%E5%84%BF%E6%80%A7%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美军人在以色列使馆前自焚身亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E4%BD%BF%E9%A6%86%E5%89%8D%E8%87%AA%E7%84%9A%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆户口高考加80分？](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%88%B7%E5%8F%A3%E9%AB%98%E8%80%83%E5%8A%A080%E5%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中国互联网“蝶变”成长](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E2%80%9C%E8%9D%B6%E5%8F%98%E2%80%9D%E6%88%90%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [唯一天价救命药将退市](https://www.baidu.com/s?wd=%E5%94%AF%E4%B8%80%E5%A4%A9%E4%BB%B7%E6%95%91%E5%91%BD%E8%8D%AF%E5%B0%86%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明大爹把小松鼠喂得随叫随到](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E5%A4%A7%E7%88%B9%E6%8A%8A%E5%B0%8F%E6%9D%BE%E9%BC%A0%E5%96%82%E5%BE%97%E9%9A%8F%E5%8F%AB%E9%9A%8F%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美军人在以色列使馆前自焚身亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E4%BD%BF%E9%A6%86%E5%89%8D%E8%87%AA%E7%84%9A%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子高铁吸烟狂言：不差钱随便罚](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E5%90%B8%E7%83%9F%E7%8B%82%E8%A8%80%EF%BC%9A%E4%B8%8D%E5%B7%AE%E9%92%B1%E9%9A%8F%E4%BE%BF%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩国孕妇可随时鉴定胎儿性别](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%AD%95%E5%A6%87%E5%8F%AF%E9%9A%8F%E6%97%B6%E9%89%B4%E5%AE%9A%E8%83%8E%E5%84%BF%E6%80%A7%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美军人在以色列使馆前自焚身亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E4%BD%BF%E9%A6%86%E5%89%8D%E8%87%AA%E7%84%9A%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆户口高考加80分？](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%88%B7%E5%8F%A3%E9%AB%98%E8%80%83%E5%8A%A080%E5%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
