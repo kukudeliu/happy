@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 19:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 19:31:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [习近平为全国干部学习培训教材作序](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E5%85%A8%E5%9B%BD%E5%B9%B2%E9%83%A8%E5%AD%A6%E4%B9%A0%E5%9F%B9%E8%AE%AD%E6%95%99%E6%9D%90%E4%BD%9C%E5%BA%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [女老师粗暴对待学生 校长已被免职](https://www.baidu.com/s?wd=%E5%A5%B3%E8%80%81%E5%B8%88%E7%B2%97%E6%9A%B4%E5%AF%B9%E5%BE%85%E5%AD%A6%E7%94%9F+%E6%A0%A1%E9%95%BF%E5%B7%B2%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [普京：战略核力量处于完全战备状态](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E6%88%98%E7%95%A5%E6%A0%B8%E5%8A%9B%E9%87%8F%E5%A4%84%E4%BA%8E%E5%AE%8C%E5%85%A8%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [酒驾最新标准3月1日起实施](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E6%9C%80%E6%96%B0%E6%A0%87%E5%87%863%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [超80种罕见病用药进医保](https://www.baidu.com/s?wd=%E8%B6%8580%E7%A7%8D%E7%BD%95%E8%A7%81%E7%97%85%E7%94%A8%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [泰国男子寺庙闹事意外被佛像刺死](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [习近平为全国干部学习培训教材作序](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E5%85%A8%E5%9B%BD%E5%B9%B2%E9%83%A8%E5%AD%A6%E4%B9%A0%E5%9F%B9%E8%AE%AD%E6%95%99%E6%9D%90%E4%BD%9C%E5%BA%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [女老师粗暴对待学生 校长已被免职](https://www.baidu.com/s?wd=%E5%A5%B3%E8%80%81%E5%B8%88%E7%B2%97%E6%9A%B4%E5%AF%B9%E5%BE%85%E5%AD%A6%E7%94%9F+%E6%A0%A1%E9%95%BF%E5%B7%B2%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [普京：战略核力量处于完全战备状态](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E6%88%98%E7%95%A5%E6%A0%B8%E5%8A%9B%E9%87%8F%E5%A4%84%E4%BA%8E%E5%AE%8C%E5%85%A8%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [酒驾最新标准3月1日起实施](https://www.baidu.com/s?wd=%E9%85%92%E9%A9%BE%E6%9C%80%E6%96%B0%E6%A0%87%E5%87%863%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [超80种罕见病用药进医保](https://www.baidu.com/s?wd=%E8%B6%8580%E7%A7%8D%E7%BD%95%E8%A7%81%E7%97%85%E7%94%A8%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [泰国男子寺庙闹事意外被佛像刺死](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
