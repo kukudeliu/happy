@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 08:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 08:51:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [厅长退休后买13套房给子孙](https://s.weibo.com/weibo?q=%23%E5%8E%85%E9%95%BF%E9%80%80%E4%BC%91%E5%90%8E%E4%B9%B013%E5%A5%97%E6%88%BF%E7%BB%99%E5%AD%90%E5%AD%99%23&t=31&band_rank=4&Refer=top)<br />
 5. [小洋睡不着道歉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B4%8B%E7%9D%A1%E4%B8%8D%E7%9D%80%E9%81%93%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [健身教练评热巴踮脚动作](https://s.weibo.com/weibo?q=%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83%E8%AF%84%E7%83%AD%E5%B7%B4%E8%B8%AE%E8%84%9A%E5%8A%A8%E4%BD%9C&t=31&band_rank=6&Refer=top)<br />
-7. [教育局回应女老师打骂学生](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E6%89%93%E9%AA%82%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [北京将举办2027世界田径锦标赛](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B0%86%E4%B8%BE%E5%8A%9E2027%E4%B8%96%E7%95%8C%E7%94%B0%E5%BE%84%E9%94%A6%E6%A0%87%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [抖音火花bug](https://s.weibo.com/weibo?q=%E6%8A%96%E9%9F%B3%E7%81%AB%E8%8A%B1bug&t=31&band_rank=9&Refer=top)<br />
+7. [祁厅长的情商属实太高](https://s.weibo.com/weibo?q=%E7%A5%81%E5%8E%85%E9%95%BF%E7%9A%84%E6%83%85%E5%95%86%E5%B1%9E%E5%AE%9E%E5%A4%AA%E9%AB%98&t=31&band_rank=7&Refer=top)<br />
+8. [教育局回应女老师打骂学生](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E6%89%93%E9%AA%82%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [北京将举办2027世界田径锦标赛](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B0%86%E4%B8%BE%E5%8A%9E2027%E4%B8%96%E7%95%8C%E7%94%B0%E5%BE%84%E9%94%A6%E6%A0%87%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
