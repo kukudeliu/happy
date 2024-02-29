@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 21:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 21:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南波万好吵](https://s.weibo.com/weibo?q=%E5%8D%97%E6%B3%A2%E4%B8%87%E5%A5%BD%E5%90%B5&t=31&band_rank=6&Refer=top)<br />
 7. [泰国男子寺庙闹事意外被佛像刺死](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [小团团](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9B%A2%E5%9B%A2&t=31&band_rank=8&Refer=top)<br />
-9. [蒲熠星好帅](https://s.weibo.com/weibo?q=%E8%92%B2%E7%86%A0%E6%98%9F%E5%A5%BD%E5%B8%85&t=31&band_rank=9&Refer=top)<br />
+9. [女子吐槽花1588元请跟拍成片太草率](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E8%8A%B11588%E5%85%83%E8%AF%B7%E8%B7%9F%E6%8B%8D%E6%88%90%E7%89%87%E5%A4%AA%E8%8D%89%E7%8E%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
