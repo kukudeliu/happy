@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 18:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 18:46:03</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [超80种罕见病用药进医保](https://www.baidu.com/s?wd=%E8%B6%8580%E7%A7%8D%E7%BD%95%E8%A7%81%E7%97%85%E7%94%A8%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [一个普通上班族的不租房计划](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%B8%8A%E7%8F%AD%E6%97%8F%E7%9A%84%E4%B8%8D%E7%A7%9F%E6%88%BF%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比特币市场近18万人被爆仓](https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E5%B8%82%E5%9C%BA%E8%BF%9118%E4%B8%87%E4%BA%BA%E8%A2%AB%E7%88%86%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [京东物流被曝将招聘上万人](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E7%89%A9%E6%B5%81%E8%A2%AB%E6%9B%9D%E5%B0%86%E6%8B%9B%E8%81%98%E4%B8%8A%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小鹏P7雨天超速失控翻飞散架后起火](https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8FP7%E9%9B%A8%E5%A4%A9%E8%B6%85%E9%80%9F%E5%A4%B1%E6%8E%A7%E7%BF%BB%E9%A3%9E%E6%95%A3%E6%9E%B6%E5%90%8E%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女神节送什么](https://www.baidu.com/s?wd=%E5%A5%B3%E7%A5%9E%E8%8A%82%E9%80%81%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都领结婚证送足球套票？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%81%E8%B6%B3%E7%90%83%E5%A5%97%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [超80种罕见病用药进医保](https://www.baidu.com/s?wd=%E8%B6%8580%E7%A7%8D%E7%BD%95%E8%A7%81%E7%97%85%E7%94%A8%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [一个普通上班族的不租房计划](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%B8%8A%E7%8F%AD%E6%97%8F%E7%9A%84%E4%B8%8D%E7%A7%9F%E6%88%BF%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比特币市场近18万人被爆仓](https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E5%B8%82%E5%9C%BA%E8%BF%9118%E4%B8%87%E4%BA%BA%E8%A2%AB%E7%88%86%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [京东物流被曝将招聘上万人](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E7%89%A9%E6%B5%81%E8%A2%AB%E6%9B%9D%E5%B0%86%E6%8B%9B%E8%81%98%E4%B8%8A%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小鹏P7雨天超速失控翻飞散架后起火](https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8FP7%E9%9B%A8%E5%A4%A9%E8%B6%85%E9%80%9F%E5%A4%B1%E6%8E%A7%E7%BF%BB%E9%A3%9E%E6%95%A3%E6%9E%B6%E5%90%8E%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女神节送什么](https://www.baidu.com/s?wd=%E5%A5%B3%E7%A5%9E%E8%8A%82%E9%80%81%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都领结婚证送足球套票？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%81%E8%B6%B3%E7%90%83%E5%A5%97%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
