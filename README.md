@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 00:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 00:10:02</h4></div>
 
 > 微博  
 
-1. [花少团真的去了秦岚家](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E7%9C%9F%E7%9A%84%E5%8E%BB%E4%BA%86%E7%A7%A6%E5%B2%9A%E5%AE%B6%23&t=31&band_rank=1&Refer=top)<br />
-2. [韩国医生若辞职须立刻入伍](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E8%8B%A5%E8%BE%9E%E8%81%8C%E9%A1%BB%E7%AB%8B%E5%88%BB%E5%85%A5%E4%BC%8D%23&t=31&band_rank=2&Refer=top)<br />
+1. [韩国医生若辞职须立刻入伍](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E8%8B%A5%E8%BE%9E%E8%81%8C%E9%A1%BB%E7%AB%8B%E5%88%BB%E5%85%A5%E4%BC%8D%23&t=31&band_rank=1&Refer=top)<br />
+2. [花少团真的去了秦岚家](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E7%9C%9F%E7%9A%84%E5%8E%BB%E4%BA%86%E7%A7%A6%E5%B2%9A%E5%AE%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [微观两会](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%A7%82%E4%B8%A4%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [PDD](https://s.weibo.com/weibo?q=PDD&t=31&band_rank=4&Refer=top)<br />
 5. [郭麒麟胖了](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E8%83%96%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
