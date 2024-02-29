@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 17:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 17:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [一个普通上班族的不租房计划](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%B8%8A%E7%8F%AD%E6%97%8F%E7%9A%84%E4%B8%8D%E7%A7%9F%E6%88%BF%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [侃爷妻子或因穿着暴露坐牢](https://www.baidu.com/s?wd=%E4%BE%83%E7%88%B7%E5%A6%BB%E5%AD%90%E6%88%96%E5%9B%A0%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉大学 莞莞类卿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6+%E8%8E%9E%E8%8E%9E%E7%B1%BB%E5%8D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [电车一再降价 油车慌不慌？](https://www.baidu.com/s?wd=%E7%94%B5%E8%BD%A6%E4%B8%80%E5%86%8D%E9%99%8D%E4%BB%B7+%E6%B2%B9%E8%BD%A6%E6%85%8C%E4%B8%8D%E6%85%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [成都教育局回应初中取消晚自习](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%88%9D%E4%B8%AD%E5%8F%96%E6%B6%88%E6%99%9A%E8%87%AA%E4%B9%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆户口高考加80分？](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%88%B7%E5%8F%A3%E9%AB%98%E8%80%83%E5%8A%A080%E5%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [一个普通上班族的不租房计划](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%B8%8A%E7%8F%AD%E6%97%8F%E7%9A%84%E4%B8%8D%E7%A7%9F%E6%88%BF%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [侃爷妻子或因穿着暴露坐牢](https://www.baidu.com/s?wd=%E4%BE%83%E7%88%B7%E5%A6%BB%E5%AD%90%E6%88%96%E5%9B%A0%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [武汉大学 莞莞类卿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6+%E8%8E%9E%E8%8E%9E%E7%B1%BB%E5%8D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [电车一再降价 油车慌不慌？](https://www.baidu.com/s?wd=%E7%94%B5%E8%BD%A6%E4%B8%80%E5%86%8D%E9%99%8D%E4%BB%B7+%E6%B2%B9%E8%BD%A6%E6%85%8C%E4%B8%8D%E6%85%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [成都教育局回应初中取消晚自习](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%88%9D%E4%B8%AD%E5%8F%96%E6%B6%88%E6%99%9A%E8%87%AA%E4%B9%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆户口高考加80分？](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%88%B7%E5%8F%A3%E9%AB%98%E8%80%83%E5%8A%A080%E5%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
