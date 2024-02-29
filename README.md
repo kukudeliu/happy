@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 15:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 15:29:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [唯一天价救命药将退市](https://www.baidu.com/s?wd=%E5%94%AF%E4%B8%80%E5%A4%A9%E4%BB%B7%E6%95%91%E5%91%BD%E8%8D%AF%E5%B0%86%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [28年一遇的疯狂星期四](https://www.baidu.com/s?wd=28%E5%B9%B4%E4%B8%80%E9%81%87%E7%9A%84%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [侃爷妻子或因穿着暴露坐牢](https://www.baidu.com/s?wd=%E4%BE%83%E7%88%B7%E5%A6%BB%E5%AD%90%E6%88%96%E5%9B%A0%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老戏骨批评年轻演员阵仗大](https://www.baidu.com/s?wd=%E8%80%81%E6%88%8F%E9%AA%A8%E6%89%B9%E8%AF%84%E5%B9%B4%E8%BD%BB%E6%BC%94%E5%91%98%E9%98%B5%E4%BB%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育局为被殴打学生安排心理辅导](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E4%B8%BA%E8%A2%AB%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E5%AE%89%E6%8E%92%E5%BF%83%E7%90%86%E8%BE%85%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆户口高考加80分？](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%88%B7%E5%8F%A3%E9%AB%98%E8%80%83%E5%8A%A080%E5%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [唯一天价救命药将退市](https://www.baidu.com/s?wd=%E5%94%AF%E4%B8%80%E5%A4%A9%E4%BB%B7%E6%95%91%E5%91%BD%E8%8D%AF%E5%B0%86%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [28年一遇的疯狂星期四](https://www.baidu.com/s?wd=28%E5%B9%B4%E4%B8%80%E9%81%87%E7%9A%84%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [侃爷妻子或因穿着暴露坐牢](https://www.baidu.com/s?wd=%E4%BE%83%E7%88%B7%E5%A6%BB%E5%AD%90%E6%88%96%E5%9B%A0%E7%A9%BF%E7%9D%80%E6%9A%B4%E9%9C%B2%E5%9D%90%E7%89%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [老戏骨批评年轻演员阵仗大](https://www.baidu.com/s?wd=%E8%80%81%E6%88%8F%E9%AA%A8%E6%89%B9%E8%AF%84%E5%B9%B4%E8%BD%BB%E6%BC%94%E5%91%98%E9%98%B5%E4%BB%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育局为被殴打学生安排心理辅导](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E4%B8%BA%E8%A2%AB%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E5%AE%89%E6%8E%92%E5%BF%83%E7%90%86%E8%BE%85%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆户口高考加80分？](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%88%B7%E5%8F%A3%E9%AB%98%E8%80%83%E5%8A%A080%E5%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
