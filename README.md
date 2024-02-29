@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 19:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 19:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [泰国男子寺庙闹事意外被佛像刺死](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [浪姐官博回复李溪芮](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E5%AE%98%E5%8D%9A%E5%9B%9E%E5%A4%8D%E6%9D%8E%E6%BA%AA%E8%8A%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [老师粗暴对学生涉事学校校长被免职](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E7%B2%97%E6%9A%B4%E5%AF%B9%E5%AD%A6%E7%94%9F%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [一条plog告别二月](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1plog%E5%91%8A%E5%88%AB%E4%BA%8C%E6%9C%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [斗鱼主播](https://s.weibo.com/weibo?q=%E6%96%97%E9%B1%BC%E4%B8%BB%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
