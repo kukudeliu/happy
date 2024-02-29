@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 13:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 13:46:01</h4></div>
 
 > 微博  
 
-1. [3月8日妇女放假半天](https://s.weibo.com/weibo?q=%233%E6%9C%888%E6%97%A5%E5%A6%87%E5%A5%B3%E6%94%BE%E5%81%87%E5%8D%8A%E5%A4%A9%23&t=31&band_rank=1&Refer=top)<br />
-2. [李亚鹏全网悬赏直播哭穷视频](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%85%A8%E7%BD%91%E6%82%AC%E8%B5%8F%E7%9B%B4%E6%92%AD%E5%93%AD%E7%A9%B7%E8%A7%86%E9%A2%91%23&t=31&band_rank=2&Refer=top)<br />
+1. [李亚鹏全网悬赏直播哭穷视频](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%85%A8%E7%BD%91%E6%82%AC%E8%B5%8F%E7%9B%B4%E6%92%AD%E5%93%AD%E7%A9%B7%E8%A7%86%E9%A2%91%23&t=31&band_rank=1&Refer=top)<br />
+2. [3月8日妇女放假半天](https://s.weibo.com/weibo?q=%233%E6%9C%888%E6%97%A5%E5%A6%87%E5%A5%B3%E6%94%BE%E5%81%87%E5%8D%8A%E5%A4%A9%23&t=31&band_rank=2&Refer=top)<br />
 3. [3月这批新规将施行](https://s.weibo.com/weibo?q=%233%E6%9C%88%E8%BF%99%E6%89%B9%E6%96%B0%E8%A7%84%E5%B0%86%E6%96%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [吴镇宇唯一害怕的女人](https://s.weibo.com/weibo?q=%E5%90%B4%E9%95%87%E5%AE%87%E5%94%AF%E4%B8%80%E5%AE%B3%E6%80%95%E7%9A%84%E5%A5%B3%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [挖呀挖黄老师已向警方提供证据](https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E5%B7%B2%E5%90%91%E8%AD%A6%E6%96%B9%E6%8F%90%E4%BE%9B%E8%AF%81%E6%8D%AE%23&t=31&band_rank=5&Refer=top)<br />
