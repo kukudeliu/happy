@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 17:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 17:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [一个普通上班族的不租房计划](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%B8%8A%E7%8F%AD%E6%97%8F%E7%9A%84%E4%B8%8D%E7%A7%9F%E6%88%BF%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比特币市场近18万人被爆仓](https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E5%B8%82%E5%9C%BA%E8%BF%9118%E4%B8%87%E4%BA%BA%E8%A2%AB%E7%88%86%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [京东物流被曝将招聘上万人](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E7%89%A9%E6%B5%81%E8%A2%AB%E6%9B%9D%E5%B0%86%E6%8B%9B%E8%81%98%E4%B8%8A%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育局为被殴打学生安排心理辅导](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E4%B8%BA%E8%A2%AB%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E5%AE%89%E6%8E%92%E5%BF%83%E7%90%86%E8%BE%85%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武汉大学 莞莞类卿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6+%E8%8E%9E%E8%8E%9E%E7%B1%BB%E5%8D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都领结婚证送足球套票？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%81%E8%B6%B3%E7%90%83%E5%A5%97%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [一个普通上班族的不租房计划](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%B8%8A%E7%8F%AD%E6%97%8F%E7%9A%84%E4%B8%8D%E7%A7%9F%E6%88%BF%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比特币市场近18万人被爆仓](https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E5%B8%82%E5%9C%BA%E8%BF%9118%E4%B8%87%E4%BA%BA%E8%A2%AB%E7%88%86%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [京东物流被曝将招聘上万人](https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E7%89%A9%E6%B5%81%E8%A2%AB%E6%9B%9D%E5%B0%86%E6%8B%9B%E8%81%98%E4%B8%8A%E4%B8%87%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育局为被殴打学生安排心理辅导](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E4%B8%BA%E8%A2%AB%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E5%AE%89%E6%8E%92%E5%BF%83%E7%90%86%E8%BE%85%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武汉大学 莞莞类卿](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6+%E8%8E%9E%E8%8E%9E%E7%B1%BB%E5%8D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都领结婚证送足球套票？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%81%E8%B6%B3%E7%90%83%E5%A5%97%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
