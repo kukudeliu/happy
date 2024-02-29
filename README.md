@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 07:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 07:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [泰国男子寺庙闹事意外被佛像刺死](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [郭麒麟胖了](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E8%83%96%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [花少团真的去了秦岚家](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E7%9C%9F%E7%9A%84%E5%8E%BB%E4%BA%86%E7%A7%A6%E5%B2%9A%E5%AE%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [周星驰将为新片女足海选素人](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E5%B0%86%E4%B8%BA%E6%96%B0%E7%89%87%E5%A5%B3%E8%B6%B3%E6%B5%B7%E9%80%89%E7%B4%A0%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [家长吐槽被学校要求下午到校值班](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E8%A2%AB%E5%AD%A6%E6%A0%A1%E8%A6%81%E6%B1%82%E4%B8%8B%E5%8D%88%E5%88%B0%E6%A0%A1%E5%80%BC%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
