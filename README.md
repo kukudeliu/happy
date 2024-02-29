@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 11:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 11:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [今天是四年一遇的日子](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%9B%9B%E5%B9%B4%E4%B8%80%E9%81%87%E7%9A%84%E6%97%A5%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
 7. [教育局回应女老师打骂学生](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E6%89%93%E9%AA%82%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [周处除三害 删减](https://s.weibo.com/weibo?q=%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3%20%E5%88%A0%E5%87%8F&t=31&band_rank=8&Refer=top)<br />
-9. [3月8日妇女放假半天](https://s.weibo.com/weibo?q=%233%E6%9C%888%E6%97%A5%E5%A6%87%E5%A5%B3%E6%94%BE%E5%81%87%E5%8D%8A%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [2月29日出生怎么过生日](https://s.weibo.com/weibo?q=%232%E6%9C%8829%E6%97%A5%E5%87%BA%E7%94%9F%E6%80%8E%E4%B9%88%E8%BF%87%E7%94%9F%E6%97%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
