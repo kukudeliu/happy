@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 20:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 20:46:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [超80种罕见病用药进医保](https://www.baidu.com/s?wd=%E8%B6%8580%E7%A7%8D%E7%BD%95%E8%A7%81%E7%97%85%E7%94%A8%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知名主播小团团被曝涉案金额大](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%92%AD%E5%B0%8F%E5%9B%A2%E5%9B%A2%E8%A2%AB%E6%9B%9D%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Angelababy晒全家福庆生](https://www.baidu.com/s?wd=Angelababy%E6%99%92%E5%85%A8%E5%AE%B6%E7%A6%8F%E5%BA%86%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [作家程雪莉因意外事故去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E7%A8%8B%E9%9B%AA%E8%8E%89%E5%9B%A0%E6%84%8F%E5%A4%96%E4%BA%8B%E6%95%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育局回应50岁班主任和学生谈恋爱](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%9450%E5%B2%81%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%92%8C%E5%AD%A6%E7%94%9F%E8%B0%88%E6%81%8B%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女神节送什么](https://www.baidu.com/s?wd=%E5%A5%B3%E7%A5%9E%E8%8A%82%E9%80%81%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都领结婚证送足球套票？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%81%E8%B6%B3%E7%90%83%E5%A5%97%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [超80种罕见病用药进医保](https://www.baidu.com/s?wd=%E8%B6%8580%E7%A7%8D%E7%BD%95%E8%A7%81%E7%97%85%E7%94%A8%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [知名主播小团团被曝涉案金额大](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%92%AD%E5%B0%8F%E5%9B%A2%E5%9B%A2%E8%A2%AB%E6%9B%9D%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Angelababy晒全家福庆生](https://www.baidu.com/s?wd=Angelababy%E6%99%92%E5%85%A8%E5%AE%B6%E7%A6%8F%E5%BA%86%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [作家程雪莉因意外事故去世](https://www.baidu.com/s?wd=%E4%BD%9C%E5%AE%B6%E7%A8%8B%E9%9B%AA%E8%8E%89%E5%9B%A0%E6%84%8F%E5%A4%96%E4%BA%8B%E6%95%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [教育局回应50岁班主任和学生谈恋爱](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%9450%E5%B2%81%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%92%8C%E5%AD%A6%E7%94%9F%E8%B0%88%E6%81%8B%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女神节送什么](https://www.baidu.com/s?wd=%E5%A5%B3%E7%A5%9E%E8%8A%82%E9%80%81%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都领结婚证送足球套票？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%81%E8%B6%B3%E7%90%83%E5%A5%97%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
