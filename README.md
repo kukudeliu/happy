@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 21:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 21:42:01</h4></div>
 
 > 微博  
 
-1. [教育局回应50岁班主任和学生谈恋爱](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%9450%E5%B2%81%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%92%8C%E5%AD%A6%E7%94%9F%E8%B0%88%E6%81%8B%E7%88%B1%23&t=31&band_rank=1&Refer=top)<br />
-2. [韩国人吃玉米芯](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%90%83%E7%8E%89%E7%B1%B3%E8%8A%AF&t=31&band_rank=2&Refer=top)<br />
+1. [韩国人吃玉米芯](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%90%83%E7%8E%89%E7%B1%B3%E8%8A%AF&t=31&band_rank=1&Refer=top)<br />
+2. [教育局回应50岁班主任和学生谈恋爱](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%9450%E5%B2%81%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%92%8C%E5%AD%A6%E7%94%9F%E8%B0%88%E6%81%8B%E7%88%B1%23&t=31&band_rank=2&Refer=top)<br />
 3. [微观两会](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%A7%82%E4%B8%A4%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [PDD](https://s.weibo.com/weibo?q=PDD&t=31&band_rank=4&Refer=top)<br />
 5. [郭麒麟胖了](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E8%83%96%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
