@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 20:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 20:14:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [超80种罕见病用药进医保](https://www.baidu.com/s?wd=%E8%B6%8580%E7%A7%8D%E7%BD%95%E8%A7%81%E7%97%85%E7%94%A8%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [最新居民收入五档划分](https://www.baidu.com/s?wd=%E6%9C%80%E6%96%B0%E5%B1%85%E6%B0%91%E6%94%B6%E5%85%A5%E4%BA%94%E6%A1%A3%E5%88%92%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知名主播小团团被曝涉案金额大](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%92%AD%E5%B0%8F%E5%9B%A2%E5%9B%A2%E8%A2%AB%E6%9B%9D%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰国男子寺庙闹事意外被佛像刺死](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [肯德基爆单](https://www.baidu.com/s?wd=%E8%82%AF%E5%BE%B7%E5%9F%BA%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女神节送什么](https://www.baidu.com/s?wd=%E5%A5%B3%E7%A5%9E%E8%8A%82%E9%80%81%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都领结婚证送足球套票？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%81%E8%B6%B3%E7%90%83%E5%A5%97%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [超80种罕见病用药进医保](https://www.baidu.com/s?wd=%E8%B6%8580%E7%A7%8D%E7%BD%95%E8%A7%81%E7%97%85%E7%94%A8%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [最新居民收入五档划分](https://www.baidu.com/s?wd=%E6%9C%80%E6%96%B0%E5%B1%85%E6%B0%91%E6%94%B6%E5%85%A5%E4%BA%94%E6%A1%A3%E5%88%92%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [知名主播小团团被曝涉案金额大](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%92%AD%E5%B0%8F%E5%9B%A2%E5%9B%A2%E8%A2%AB%E6%9B%9D%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [泰国男子寺庙闹事意外被佛像刺死](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [肯德基爆单](https://www.baidu.com/s?wd=%E8%82%AF%E5%BE%B7%E5%9F%BA%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女神节送什么](https://www.baidu.com/s?wd=%E5%A5%B3%E7%A5%9E%E8%8A%82%E9%80%81%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都领结婚证送足球套票？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%81%E8%B6%B3%E7%90%83%E5%A5%97%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
