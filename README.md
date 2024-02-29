@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 18:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 18:26:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [超80种罕见病用药进医保](https://www.baidu.com/s?wd=%E8%B6%8580%E7%A7%8D%E7%BD%95%E8%A7%81%E7%97%85%E7%94%A8%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [一个普通上班族的不租房计划](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%B8%8A%E7%8F%AD%E6%97%8F%E7%9A%84%E4%B8%8D%E7%A7%9F%E6%88%BF%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比特币市场近18万人被爆仓](https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E5%B8%82%E5%9C%BA%E8%BF%9118%E4%B8%87%E4%BA%BA%E8%A2%AB%E7%88%86%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [28年一遇的疯狂星期四](https://www.baidu.com/s?wd=28%E5%B9%B4%E4%B8%80%E9%81%87%E7%9A%84%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [成都教育局回应初中取消晚自习](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%88%9D%E4%B8%AD%E5%8F%96%E6%B6%88%E6%99%9A%E8%87%AA%E4%B9%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女神节送什么](https://www.baidu.com/s?wd=%E5%A5%B3%E7%A5%9E%E8%8A%82%E9%80%81%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都领结婚证送足球套票？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%81%E8%B6%B3%E7%90%83%E5%A5%97%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [超80种罕见病用药进医保](https://www.baidu.com/s?wd=%E8%B6%8580%E7%A7%8D%E7%BD%95%E8%A7%81%E7%97%85%E7%94%A8%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [一个普通上班族的不租房计划](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%B8%8A%E7%8F%AD%E6%97%8F%E7%9A%84%E4%B8%8D%E7%A7%9F%E6%88%BF%E8%AE%A1%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [比特币市场近18万人被爆仓](https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E5%B8%82%E5%9C%BA%E8%BF%9118%E4%B8%87%E4%BA%BA%E8%A2%AB%E7%88%86%E4%BB%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [28年一遇的疯狂星期四](https://www.baidu.com/s?wd=28%E5%B9%B4%E4%B8%80%E9%81%87%E7%9A%84%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [成都教育局回应初中取消晚自习](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%88%9D%E4%B8%AD%E5%8F%96%E6%B6%88%E6%99%9A%E8%87%AA%E4%B9%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女神节送什么](https://www.baidu.com/s?wd=%E5%A5%B3%E7%A5%9E%E8%8A%82%E9%80%81%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都领结婚证送足球套票？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%81%E8%B6%B3%E7%90%83%E5%A5%97%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
