@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 23:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 23:47:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱珠女儿近照](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E5%A5%B3%E5%84%BF%E8%BF%91%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [曹璐回应落选浪姐](https://s.weibo.com/weibo?q=%E6%9B%B9%E7%92%90%E5%9B%9E%E5%BA%94%E8%90%BD%E9%80%89%E6%B5%AA%E5%A7%90&t=31&band_rank=7&Refer=top)<br />
 8. [泰国男子寺庙闹事意外被佛像刺死](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [县城一中到底有多重要](https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%9F%8E%E4%B8%80%E4%B8%AD%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [韩国医生若辞职须立刻入伍](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E8%8B%A5%E8%BE%9E%E8%81%8C%E9%A1%BB%E7%AB%8B%E5%88%BB%E5%85%A5%E4%BC%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
