@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 00:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 00:16:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [PDD](https://s.weibo.com/weibo?q=PDD&t=31&band_rank=4&Refer=top)<br />
 5. [点读机女孩自称患罕见脑瘤](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E8%87%AA%E7%A7%B0%E6%82%A3%E7%BD%95%E8%A7%81%E8%84%91%E7%98%A4%23&t=31&band_rank=5&Refer=top)<br />
 6. [郭麒麟胖了](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E8%83%96%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [朱珠女儿近照](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E5%A5%B3%E5%84%BF%E8%BF%91%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [泰国男子寺庙闹事意外被佛像刺死](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
+7. [泰国男子寺庙闹事意外被佛像刺死](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [朱珠女儿近照](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E5%A5%B3%E5%84%BF%E8%BF%91%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [曹璐回应落选浪姐](https://s.weibo.com/weibo?q=%E6%9B%B9%E7%92%90%E5%9B%9E%E5%BA%94%E8%90%BD%E9%80%89%E6%B5%AA%E5%A7%90&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
