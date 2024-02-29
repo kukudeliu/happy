@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 14:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 14:36:03</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴镇宇唯一害怕的女人](https://s.weibo.com/weibo?q=%E5%90%B4%E9%95%87%E5%AE%87%E5%94%AF%E4%B8%80%E5%AE%B3%E6%80%95%E7%9A%84%E5%A5%B3%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫票房总成绩破80亿](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%A5%A8%E6%88%BF%E6%80%BB%E6%88%90%E7%BB%A9%E7%A0%B480%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [院士说科学不可能靠上班8小时搞出来](https://s.weibo.com/weibo?q=%23%E9%99%A2%E5%A3%AB%E8%AF%B4%E7%A7%91%E5%AD%A6%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%9D%A0%E4%B8%8A%E7%8F%AD8%E5%B0%8F%E6%97%B6%E6%90%9E%E5%87%BA%E6%9D%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [林俊杰演唱会四城官宣](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%9B%E5%9F%8E%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [2月29日出生怎么过生日](https://s.weibo.com/weibo?q=%232%E6%9C%8829%E6%97%A5%E5%87%BA%E7%94%9F%E6%80%8E%E4%B9%88%E8%BF%87%E7%94%9F%E6%97%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
