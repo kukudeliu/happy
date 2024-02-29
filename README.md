@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 19:14:01</h4></div>
 
 > 微博  
 
-1. [小团团](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9B%A2%E5%9B%A2&t=31&band_rank=1&Refer=top)<br />
-2. [肯德基爆单](https://s.weibo.com/weibo?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E7%88%86%E5%8D%95&t=31&band_rank=2&Refer=top)<br />
+1. [肯德基爆单](https://s.weibo.com/weibo?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E7%88%86%E5%8D%95&t=31&band_rank=1&Refer=top)<br />
+2. [小团团](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9B%A2%E5%9B%A2&t=31&band_rank=2&Refer=top)<br />
 3. [2023中国科学十大进展公布](https://s.weibo.com/weibo?q=%232023%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%8D%81%E5%A4%A7%E8%BF%9B%E5%B1%95%E5%85%AC%E5%B8%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [马天宇为女教师殴打学生事件发声](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%B8%BA%E5%A5%B3%E6%95%99%E5%B8%88%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [泰国男子寺庙闹事意外被佛像刺死](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB%23&t=31&band_rank=5&Refer=top)<br />
