@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 02:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 02:45:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [快递员预测新规实施或引发离职潮](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E5%91%98%E9%A2%84%E6%B5%8B%E6%96%B0%E8%A7%84%E5%AE%9E%E6%96%BD%E6%88%96%E5%BC%95%E5%8F%91%E7%A6%BB%E8%81%8C%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学前教育在园幼儿数量连续3年减少](https://www.baidu.com/s?wd=%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2%E5%9C%A8%E5%9B%AD%E5%B9%BC%E5%84%BF%E6%95%B0%E9%87%8F%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E5%87%8F%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [知名主播小团团被曝涉案金额大](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%92%AD%E5%B0%8F%E5%9B%A2%E5%9B%A2%E8%A2%AB%E6%9B%9D%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [郭麒麟胖了](https://www.baidu.com/s?wd=%E9%83%AD%E9%BA%92%E9%BA%9F%E8%83%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国人在非洲当酋长：能娶4个老婆](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E9%9D%9E%E6%B4%B2%E5%BD%93%E9%85%8B%E9%95%BF%EF%BC%9A%E8%83%BD%E5%A8%B64%E4%B8%AA%E8%80%81%E5%A9%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都领结婚证送足球套票？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%81%E8%B6%B3%E7%90%83%E5%A5%97%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [快递员预测新规实施或引发离职潮](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E5%91%98%E9%A2%84%E6%B5%8B%E6%96%B0%E8%A7%84%E5%AE%9E%E6%96%BD%E6%88%96%E5%BC%95%E5%8F%91%E7%A6%BB%E8%81%8C%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [学前教育在园幼儿数量连续3年减少](https://www.baidu.com/s?wd=%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2%E5%9C%A8%E5%9B%AD%E5%B9%BC%E5%84%BF%E6%95%B0%E9%87%8F%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E5%87%8F%E5%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [知名主播小团团被曝涉案金额大](https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%92%AD%E5%B0%8F%E5%9B%A2%E5%9B%A2%E8%A2%AB%E6%9B%9D%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [郭麒麟胖了](https://www.baidu.com/s?wd=%E9%83%AD%E9%BA%92%E9%BA%9F%E8%83%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国人在非洲当酋长：能娶4个老婆](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E9%9D%9E%E6%B4%B2%E5%BD%93%E9%85%8B%E9%95%BF%EF%BC%9A%E8%83%BD%E5%A8%B64%E4%B8%AA%E8%80%81%E5%A9%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [成都领结婚证送足球套票？](https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%81%E8%B6%B3%E7%90%83%E5%A5%97%E7%A5%A8%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
