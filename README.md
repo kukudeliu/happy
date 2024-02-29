@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 16:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 16:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [港剧是懂女性痛经的](https://s.weibo.com/weibo?q=%E6%B8%AF%E5%89%A7%E6%98%AF%E6%87%82%E5%A5%B3%E6%80%A7%E7%97%9B%E7%BB%8F%E7%9A%84&t=31&band_rank=6&Refer=top)<br />
 7. [刘忻 浪姐](https://s.weibo.com/weibo?q=%E5%88%98%E5%BF%BB%20%E6%B5%AA%E5%A7%90&t=31&band_rank=7&Refer=top)<br />
 8. [警方回应医院未发现肿瘤仍切除器官](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%BB%E9%99%A2%E6%9C%AA%E5%8F%91%E7%8E%B0%E8%82%BF%E7%98%A4%E4%BB%8D%E5%88%87%E9%99%A4%E5%99%A8%E5%AE%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [3月这批新规将施行](https://s.weibo.com/weibo?q=%233%E6%9C%88%E8%BF%99%E6%89%B9%E6%96%B0%E8%A7%84%E5%B0%86%E6%96%BD%E8%A1%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [王者 菜狗天幕](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%20%E8%8F%9C%E7%8B%97%E5%A4%A9%E5%B9%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
