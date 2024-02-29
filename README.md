@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 19:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 19:53:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2023中国科学十大进展公布](https://s.weibo.com/weibo?q=%232023%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%8D%81%E5%A4%A7%E8%BF%9B%E5%B1%95%E5%85%AC%E5%B8%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [浪姐官博回复李溪芮](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E5%AE%98%E5%8D%9A%E5%9B%9E%E5%A4%8D%E6%9D%8E%E6%BA%AA%E8%8A%AE%23&t=31&band_rank=4&Refer=top)<br />
 5. [泰国男子寺庙闹事意外被佛像刺死](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB%23&t=31&band_rank=5&Refer=top)<br />
-6. [曹璐 没来浪姐](https://s.weibo.com/weibo?q=%E6%9B%B9%E7%92%90%20%E6%B2%A1%E6%9D%A5%E6%B5%AA%E5%A7%90&t=31&band_rank=6&Refer=top)<br />
-7. [南波万好吵](https://s.weibo.com/weibo?q=%E5%8D%97%E6%B3%A2%E4%B8%87%E5%A5%BD%E5%90%B5&t=31&band_rank=7&Refer=top)<br />
+6. [南波万好吵](https://s.weibo.com/weibo?q=%E5%8D%97%E6%B3%A2%E4%B8%87%E5%A5%BD%E5%90%B5&t=31&band_rank=6&Refer=top)<br />
+7. [曹璐 没来浪姐](https://s.weibo.com/weibo?q=%E6%9B%B9%E7%92%90%20%E6%B2%A1%E6%9D%A5%E6%B5%AA%E5%A7%90&t=31&band_rank=7&Refer=top)<br />
 8. [NEWJEANS官宣北京签售](https://s.weibo.com/weibo?q=%23NEWJEANS%E5%AE%98%E5%AE%A3%E5%8C%97%E4%BA%AC%E7%AD%BE%E5%94%AE%23&t=31&band_rank=8&Refer=top)<br />
 9. [女子为母亲销户泪崩民警帮其找出旧照](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%AF%8D%E4%BA%B2%E9%94%80%E6%88%B7%E6%B3%AA%E5%B4%A9%E6%B0%91%E8%AD%A6%E5%B8%AE%E5%85%B6%E6%89%BE%E5%87%BA%E6%97%A7%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
