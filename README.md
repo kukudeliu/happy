@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 18:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 18:01:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [2023中国科学十大进展公布](https://s.weibo.com/weibo?q=%232023%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%8D%81%E5%A4%A7%E8%BF%9B%E5%B1%95%E5%85%AC%E5%B8%83%23&t=31&band_rank=3&Refer=top)<br />
 4. [汪峰女儿小苹果晒留学照](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8B%B9%E6%9E%9C%E6%99%92%E7%95%99%E5%AD%A6%E7%85%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [浪姐路透](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E8%B7%AF%E9%80%8F&t=31&band_rank=5&Refer=top)<br />
-6. [公安介入调查女教师殴打学生](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%AE%89%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E5%A5%B3%E6%95%99%E5%B8%88%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [武汉大学 莞莞类卿](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%20%E8%8E%9E%E8%8E%9E%E7%B1%BB%E5%8D%BF&t=31&band_rank=7&Refer=top)<br />
-8. [何洁录制浪姐](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B4%81%E5%BD%95%E5%88%B6%E6%B5%AA%E5%A7%90%23&t=31&band_rank=8&Refer=top)<br />
+6. [武汉大学 莞莞类卿](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%20%E8%8E%9E%E8%8E%9E%E7%B1%BB%E5%8D%BF&t=31&band_rank=6&Refer=top)<br />
+7. [公安介入调查女教师殴打学生](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%AE%89%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E5%A5%B3%E6%95%99%E5%B8%88%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [小团团](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9B%A2%E5%9B%A2&t=31&band_rank=8&Refer=top)<br />
 9. [女生二战考研成绩提高102分](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%BA%8C%E6%88%98%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%8F%90%E9%AB%98102%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
