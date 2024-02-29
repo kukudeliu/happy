@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 20:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 20:08:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [南波万好吵](https://s.weibo.com/weibo?q=%E5%8D%97%E6%B3%A2%E4%B8%87%E5%A5%BD%E5%90%B5&t=31&band_rank=4&Refer=top)<br />
 5. [浪姐官博回复李溪芮](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E5%AE%98%E5%8D%9A%E5%9B%9E%E5%A4%8D%E6%9D%8E%E6%BA%AA%E8%8A%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [小团团](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9B%A2%E5%9B%A2&t=31&band_rank=6&Refer=top)<br />
-7. [泰国男子寺庙闹事意外被佛像刺死](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [教育局回应50岁班主任和学生谈恋爱](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%9450%E5%B2%81%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%92%8C%E5%AD%A6%E7%94%9F%E8%B0%88%E6%81%8B%E7%88%B1%23&t=31&band_rank=8&Refer=top)<br />
+7. [教育局回应50岁班主任和学生谈恋爱](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%9450%E5%B2%81%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%92%8C%E5%AD%A6%E7%94%9F%E8%B0%88%E6%81%8B%E7%88%B1%23&t=31&band_rank=7&Refer=top)<br />
+8. [泰国男子寺庙闹事意外被佛像刺死](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AF%BA%E5%BA%99%E9%97%B9%E4%BA%8B%E6%84%8F%E5%A4%96%E8%A2%AB%E4%BD%9B%E5%83%8F%E5%88%BA%E6%AD%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [NEWJEANS官宣北京签售](https://s.weibo.com/weibo?q=%23NEWJEANS%E5%AE%98%E5%AE%A3%E5%8C%97%E4%BA%AC%E7%AD%BE%E5%94%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
