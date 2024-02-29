@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 15:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 15:06:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [唯一天价救命药将退市](https://www.baidu.com/s?wd=%E5%94%AF%E4%B8%80%E5%A4%A9%E4%BB%B7%E6%95%91%E5%91%BD%E8%8D%AF%E5%B0%86%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [28年一遇的疯狂星期四](https://www.baidu.com/s?wd=28%E5%B9%B4%E4%B8%80%E9%81%87%E7%9A%84%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老戏骨批评年轻演员阵仗大](https://www.baidu.com/s?wd=%E8%80%81%E6%88%8F%E9%AA%A8%E6%89%B9%E8%AF%84%E5%B9%B4%E8%BD%BB%E6%BC%94%E5%91%98%E9%98%B5%E4%BB%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [36%受访村民认为彩礼应超过10万](https://www.baidu.com/s?wd=36%25%E5%8F%97%E8%AE%BF%E6%9D%91%E6%B0%91%E8%AE%A4%E4%B8%BA%E5%BD%A9%E7%A4%BC%E5%BA%94%E8%B6%85%E8%BF%8710%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美媒：中国短剧迷倒大批国际观众](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E8%BF%B7%E5%80%92%E5%A4%A7%E6%89%B9%E5%9B%BD%E9%99%85%E8%A7%82%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆户口高考加80分？](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%88%B7%E5%8F%A3%E9%AB%98%E8%80%83%E5%8A%A080%E5%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [唯一天价救命药将退市](https://www.baidu.com/s?wd=%E5%94%AF%E4%B8%80%E5%A4%A9%E4%BB%B7%E6%95%91%E5%91%BD%E8%8D%AF%E5%B0%86%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [28年一遇的疯狂星期四](https://www.baidu.com/s?wd=28%E5%B9%B4%E4%B8%80%E9%81%87%E7%9A%84%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E5%9B%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老戏骨批评年轻演员阵仗大](https://www.baidu.com/s?wd=%E8%80%81%E6%88%8F%E9%AA%A8%E6%89%B9%E8%AF%84%E5%B9%B4%E8%BD%BB%E6%BC%94%E5%91%98%E9%98%B5%E4%BB%97%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [36%受访村民认为彩礼应超过10万](https://www.baidu.com/s?wd=36%25%E5%8F%97%E8%AE%BF%E6%9D%91%E6%B0%91%E8%AE%A4%E4%B8%BA%E5%BD%A9%E7%A4%BC%E5%BA%94%E8%B6%85%E8%BF%8710%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美媒：中国短剧迷倒大批国际观众](https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E8%BF%B7%E5%80%92%E5%A4%A7%E6%89%B9%E5%9B%BD%E9%99%85%E8%A7%82%E4%BC%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [新疆户口高考加80分？](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%88%B7%E5%8F%A3%E9%AB%98%E8%80%83%E5%8A%A080%E5%88%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
