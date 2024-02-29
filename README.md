@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 08:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 08:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [健身教练评热巴踮脚动作](https://s.weibo.com/weibo?q=%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83%E8%AF%84%E7%83%AD%E5%B7%B4%E8%B8%AE%E8%84%9A%E5%8A%A8%E4%BD%9C&t=31&band_rank=6&Refer=top)<br />
 7. [祁厅长的情商属实太高](https://s.weibo.com/weibo?q=%E7%A5%81%E5%8E%85%E9%95%BF%E7%9A%84%E6%83%85%E5%95%86%E5%B1%9E%E5%AE%9E%E5%A4%AA%E9%AB%98&t=31&band_rank=7&Refer=top)<br />
 8. [教育局回应女老师打骂学生](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E6%89%93%E9%AA%82%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [北京将举办2027世界田径锦标赛](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B0%86%E4%B8%BE%E5%8A%9E2027%E4%B8%96%E7%95%8C%E7%94%B0%E5%BE%84%E9%94%A6%E6%A0%87%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [挖呀挖黄老师直播](https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E7%9B%B4%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
