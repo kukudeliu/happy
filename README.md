@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 15:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 15:40:01</h4></div>
 
 > 微博  
 
-1. [马航失联乘客家属再次赴马参会](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AA%E5%A4%B1%E8%81%94%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E5%86%8D%E6%AC%A1%E8%B5%B4%E9%A9%AC%E5%8F%82%E4%BC%9A%23&t=31&band_rank=1&Refer=top)<br />
-2. [武汉大学 莞莞类卿](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%20%E8%8E%9E%E8%8E%9E%E7%B1%BB%E5%8D%BF&t=31&band_rank=2&Refer=top)<br />
+1. [武汉大学 莞莞类卿](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%20%E8%8E%9E%E8%8E%9E%E7%B1%BB%E5%8D%BF&t=31&band_rank=1&Refer=top)<br />
+2. [马航失联乘客家属再次赴马参会](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AA%E5%A4%B1%E8%81%94%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E5%86%8D%E6%AC%A1%E8%B5%B4%E9%A9%AC%E5%8F%82%E4%BC%9A%23&t=31&band_rank=2&Refer=top)<br />
 3. [3月这批新规将施行](https://s.weibo.com/weibo?q=%233%E6%9C%88%E8%BF%99%E6%89%B9%E6%96%B0%E8%A7%84%E5%B0%86%E6%96%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [iPhone15官旗全系降至历史最低价](https://s.weibo.com/weibo?q=%23iPhone15%E5%AE%98%E6%97%97%E5%85%A8%E7%B3%BB%E9%99%8D%E8%87%B3%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%8E%E4%BB%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [刘忻 浪姐](https://s.weibo.com/weibo?q=%E5%88%98%E5%BF%BB%20%E6%B5%AA%E5%A7%90&t=31&band_rank=5&Refer=top)<br />
