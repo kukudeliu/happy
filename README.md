@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 13:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-02-29 13:17:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张杰官宣演唱会](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%AE%98%E5%AE%A3%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [女生二战考研成绩提高102分](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%BA%8C%E6%88%98%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%8F%90%E9%AB%98102%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [2月29日出生怎么过生日](https://s.weibo.com/weibo?q=%232%E6%9C%8829%E6%97%A5%E5%87%BA%E7%94%9F%E6%80%8E%E4%B9%88%E8%BF%87%E7%94%9F%E6%97%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [李现的文案是网易云热评](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%9A%84%E6%96%87%E6%A1%88%E6%98%AF%E7%BD%91%E6%98%93%E4%BA%91%E7%83%AD%E8%AF%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [官方回应女老师打骂学生拍摄者疑遭威胁](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E6%89%93%E9%AA%82%E5%AD%A6%E7%94%9F%E6%8B%8D%E6%91%84%E8%80%85%E7%96%91%E9%81%AD%E5%A8%81%E8%83%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
