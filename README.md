@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 22:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 22:08:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [大力推动我国新能源高质量发展](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8A%9B%E6%8E%A8%E5%8A%A8%E6%88%91%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [山东男子驾车撞人致2死6重伤](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B42%E6%AD%BB6%E9%87%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [最高法详解核准劳荣枝死刑原因](https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%B3%95%E8%AF%A6%E8%A7%A3%E6%A0%B8%E5%87%86%E5%8A%B3%E8%8D%A3%E6%9E%9D%E6%AD%BB%E5%88%91%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [小鹏汽车发布苏州P7事故通报](https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E8%8B%8F%E5%B7%9EP7%E4%BA%8B%E6%95%85%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国式现代化步履坚实](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%AD%A5%E5%B1%A5%E5%9D%9A%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [市民排队为德州受伤学生献血](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E6%8E%92%E9%98%9F%E4%B8%BA%E5%BE%B7%E5%B7%9E%E5%8F%97%E4%BC%A4%E5%AD%A6%E7%94%9F%E7%8C%AE%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [6旬老汉出轨妻子闺蜜遭仙人跳](https://www.baidu.com/s?wd=6%E6%97%AC%E8%80%81%E6%B1%89%E5%87%BA%E8%BD%A8%E5%A6%BB%E5%AD%90%E9%97%BA%E8%9C%9C%E9%81%AD%E4%BB%99%E4%BA%BA%E8%B7%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [大力推动我国新能源高质量发展](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8A%9B%E6%8E%A8%E5%8A%A8%E6%88%91%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [山东男子驾车撞人致2死6重伤](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B42%E6%AD%BB6%E9%87%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [最高法详解核准劳荣枝死刑原因](https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%B3%95%E8%AF%A6%E8%A7%A3%E6%A0%B8%E5%87%86%E5%8A%B3%E8%8D%A3%E6%9E%9D%E6%AD%BB%E5%88%91%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [小鹏汽车发布苏州P7事故通报](https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E8%8B%8F%E5%B7%9EP7%E4%BA%8B%E6%95%85%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国式现代化步履坚实](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%AD%A5%E5%B1%A5%E5%9D%9A%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [市民排队为德州受伤学生献血](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E6%8E%92%E9%98%9F%E4%B8%BA%E5%BE%B7%E5%B7%9E%E5%8F%97%E4%BC%A4%E5%AD%A6%E7%94%9F%E7%8C%AE%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [6旬老汉出轨妻子闺蜜遭仙人跳](https://www.baidu.com/s?wd=6%E6%97%AC%E8%80%81%E6%B1%89%E5%87%BA%E8%BD%A8%E5%A6%BB%E5%AD%90%E9%97%BA%E8%9C%9C%E9%81%AD%E4%BB%99%E4%BA%BA%E8%B7%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
