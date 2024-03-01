@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 07:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 07:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [蔡英文办公室一卫兵中枪](https://s.weibo.com/weibo?q=%23%E8%94%A1%E8%8B%B1%E6%96%87%E5%8A%9E%E5%85%AC%E5%AE%A4%E4%B8%80%E5%8D%AB%E5%85%B5%E4%B8%AD%E6%9E%AA%23&t=31&band_rank=6&Refer=top)<br />
 7. [知情人士称小团团疑涉案金额太大](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%B0%8F%E5%9B%A2%E5%9B%A2%E7%96%91%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E5%A4%AA%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [终于知道娃哈哈为啥用纸箱包装了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%A8%83%E5%93%88%E5%93%88%E4%B8%BA%E5%95%A5%E7%94%A8%E7%BA%B8%E7%AE%B1%E5%8C%85%E8%A3%85%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [酒店回应只能外国人穿拖鞋用餐](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E5%8F%AA%E8%83%BD%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%A9%BF%E6%8B%96%E9%9E%8B%E7%94%A8%E9%A4%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [河南一小学拖欠教师工资无人上课](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%8B%96%E6%AC%A0%E6%95%99%E5%B8%88%E5%B7%A5%E8%B5%84%E6%97%A0%E4%BA%BA%E4%B8%8A%E8%AF%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
