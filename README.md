@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 06:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 06:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [知情人士称小团团疑涉案金额太大](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%B0%8F%E5%9B%A2%E5%9B%A2%E7%96%91%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E5%A4%AA%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [酒店回应只能外国人穿拖鞋用餐](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E5%8F%AA%E8%83%BD%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%A9%BF%E6%8B%96%E9%9E%8B%E7%94%A8%E9%A4%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [终于知道娃哈哈为啥用纸箱包装了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%A8%83%E5%93%88%E5%93%88%E4%B8%BA%E5%95%A5%E7%94%A8%E7%BA%B8%E7%AE%B1%E5%8C%85%E8%A3%85%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [彩票店回应女生花4元中500万](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%8A%B14%E5%85%83%E4%B8%AD500%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [倒春寒真的要来了](https://s.weibo.com/weibo?q=%23%E5%80%92%E6%98%A5%E5%AF%92%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
