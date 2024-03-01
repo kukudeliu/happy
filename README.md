@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 10:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 10:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [成龙金泰亨合作](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%E9%87%91%E6%B3%B0%E4%BA%A8%E5%90%88%E4%BD%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [11届快女 最癫的选秀](https://s.weibo.com/weibo?q=11%E5%B1%8A%E5%BF%AB%E5%A5%B3%20%E6%9C%80%E7%99%AB%E7%9A%84%E9%80%89%E7%A7%80&t=31&band_rank=6&Refer=top)<br />
 7. [崔胜澈免除兵役](https://s.weibo.com/weibo?q=%23%E5%B4%94%E8%83%9C%E6%BE%88%E5%85%8D%E9%99%A4%E5%85%B5%E5%BD%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [中泰免签正式生效](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%B3%B0%E5%85%8D%E7%AD%BE%E6%AD%A3%E5%BC%8F%E7%94%9F%E6%95%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [老人救人被撞成植物人申见义勇为被驳回](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%95%91%E4%BA%BA%E8%A2%AB%E6%92%9E%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%94%B3%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
+8. [老人救人被撞成植物人申见义勇为被驳回](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%95%91%E4%BA%BA%E8%A2%AB%E6%92%9E%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%94%B3%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=8&Refer=top)<br />
+9. [中泰免签正式生效](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%B3%B0%E5%85%8D%E7%AD%BE%E6%AD%A3%E5%BC%8F%E7%94%9F%E6%95%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
