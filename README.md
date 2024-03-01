@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 23:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 23:07:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [山东一轿车撞伤10余名儿童](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E8%BD%BF%E8%BD%A6%E6%92%9E%E4%BC%A410%E4%BD%99%E5%90%8D%E5%84%BF%E7%AB%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [全国两会怎样影响我们的生活](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%80%8E%E6%A0%B7%E5%BD%B1%E5%93%8D%E6%88%91%E4%BB%AC%E7%9A%84%E7%94%9F%E6%B4%BB%23&t=31&band_rank=3&Refer=top)<br />
 4. [车厘子榴莲山竹都便宜了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E6%A6%B4%E8%8E%B2%E5%B1%B1%E7%AB%B9%E9%83%BD%E4%BE%BF%E5%AE%9C%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [修杰楷回应梧桐妹迷恋穿环](https://s.weibo.com/weibo?q=%23%E4%BF%AE%E6%9D%B0%E6%A5%B7%E5%9B%9E%E5%BA%94%E6%A2%A7%E6%A1%90%E5%A6%B9%E8%BF%B7%E6%81%8B%E7%A9%BF%E7%8E%AF%23&t=31&band_rank=5&Refer=top)<br />
-6. [彩票店回应女生花4元中500万](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%8A%B14%E5%85%83%E4%B8%AD500%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
+5. [彩票店回应女生花4元中500万](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%8A%B14%E5%85%83%E4%B8%AD500%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
+6. [修杰楷回应梧桐妹迷恋穿环](https://s.weibo.com/weibo?q=%23%E4%BF%AE%E6%9D%B0%E6%A5%B7%E5%9B%9E%E5%BA%94%E6%A2%A7%E6%A1%90%E5%A6%B9%E8%BF%B7%E6%81%8B%E7%A9%BF%E7%8E%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [大学生花4块钱中了500万](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%B14%E5%9D%97%E9%92%B1%E4%B8%AD%E4%BA%86500%E4%B8%87&t=31&band_rank=7&Refer=top)<br />
 8. [松子狂炫中国火锅](https://s.weibo.com/weibo?q=%E6%9D%BE%E5%AD%90%E7%8B%82%E7%82%AB%E4%B8%AD%E5%9B%BD%E7%81%AB%E9%94%85&t=31&band_rank=8&Refer=top)<br />
 9. [教育部将增加专硕招生规模](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%B0%86%E5%A2%9E%E5%8A%A0%E4%B8%93%E7%A1%95%E6%8B%9B%E7%94%9F%E8%A7%84%E6%A8%A1%23&t=31&band_rank=9&Refer=top)<br />
