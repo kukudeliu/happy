@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 20:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 20:27:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大学生花4块钱中了500万](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%B14%E5%9D%97%E9%92%B1%E4%B8%AD%E4%BA%86500%E4%B8%87&t=31&band_rank=6&Refer=top)<br />
 7. [宋昕冉晒迪丽热巴to签](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%98%95%E5%86%89%E6%99%92%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4to%E7%AD%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [终于知道娃哈哈为啥用纸箱包装了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%A8%83%E5%93%88%E5%93%88%E4%B8%BA%E5%95%A5%E7%94%A8%E7%BA%B8%E7%AE%B1%E5%8C%85%E8%A3%85%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [市民排队为德州受伤学生献血](https://s.weibo.com/weibo?q=%23%E5%B8%82%E6%B0%91%E6%8E%92%E9%98%9F%E4%B8%BA%E5%BE%B7%E5%B7%9E%E5%8F%97%E4%BC%A4%E5%AD%A6%E7%94%9F%E7%8C%AE%E8%A1%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [全员加速中](https://s.weibo.com/weibo?q=%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
