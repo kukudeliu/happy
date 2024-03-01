@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 15:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 15:33:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [兔子咬断11个月大婴儿手指](https://www.baidu.com/s?wd=%E5%85%94%E5%AD%90%E5%92%AC%E6%96%AD11%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%A9%B4%E5%84%BF%E6%89%8B%E6%8C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [快递员：每个都打电话几乎不可能](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E5%91%98%EF%BC%9A%E6%AF%8F%E4%B8%AA%E9%83%BD%E6%89%93%E7%94%B5%E8%AF%9D%E5%87%A0%E4%B9%8E%E4%B8%8D%E5%8F%AF%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [40米大刀突然具象化了](https://www.baidu.com/s?wd=40%E7%B1%B3%E5%A4%A7%E5%88%80%E7%AA%81%E7%84%B6%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方辟谣天津一银行发生抢劫](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A4%A9%E6%B4%A5%E4%B8%80%E9%93%B6%E8%A1%8C%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家辟谣青岛三浴海边有火山蛋](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%BE%9F%E8%B0%A3%E9%9D%92%E5%B2%9B%E4%B8%89%E6%B5%B4%E6%B5%B7%E8%BE%B9%E6%9C%89%E7%81%AB%E5%B1%B1%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [兔子咬断11个月大婴儿手指](https://www.baidu.com/s?wd=%E5%85%94%E5%AD%90%E5%92%AC%E6%96%AD11%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%A9%B4%E5%84%BF%E6%89%8B%E6%8C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [快递员：每个都打电话几乎不可能](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E5%91%98%EF%BC%9A%E6%AF%8F%E4%B8%AA%E9%83%BD%E6%89%93%E7%94%B5%E8%AF%9D%E5%87%A0%E4%B9%8E%E4%B8%8D%E5%8F%AF%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [40米大刀突然具象化了](https://www.baidu.com/s?wd=40%E7%B1%B3%E5%A4%A7%E5%88%80%E7%AA%81%E7%84%B6%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [警方辟谣天津一银行发生抢劫](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A4%A9%E6%B4%A5%E4%B8%80%E9%93%B6%E8%A1%8C%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [专家辟谣青岛三浴海边有火山蛋](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%BE%9F%E8%B0%A3%E9%9D%92%E5%B2%9B%E4%B8%89%E6%B5%B4%E6%B5%B7%E8%BE%B9%E6%9C%89%E7%81%AB%E5%B1%B1%E8%9B%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
