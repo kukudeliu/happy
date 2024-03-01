@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 00:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 00:26:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [小鹏汽车发布苏州P7事故通报](https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E8%8B%8F%E5%B7%9EP7%E4%BA%8B%E6%95%85%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [倒春寒真的要来了](https://www.baidu.com/s?wd=%E5%80%92%E6%98%A5%E5%AF%92%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨幂总裁出街](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E6%80%BB%E8%A3%81%E5%87%BA%E8%A1%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克：AI发展速度前所未见](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E5%8F%91%E5%B1%95%E9%80%9F%E5%BA%A6%E5%89%8D%E6%89%80%E6%9C%AA%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生痛经严重 查出长了2个“子宫”](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%97%9B%E7%BB%8F%E4%B8%A5%E9%87%8D+%E6%9F%A5%E5%87%BA%E9%95%BF%E4%BA%862%E4%B8%AA%E2%80%9C%E5%AD%90%E5%AE%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [海鱼比淡水鱼更有营养？](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B1%BC%E6%AF%94%E6%B7%A1%E6%B0%B4%E9%B1%BC%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [小鹏汽车发布苏州P7事故通报](https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E8%8B%8F%E5%B7%9EP7%E4%BA%8B%E6%95%85%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [倒春寒真的要来了](https://www.baidu.com/s?wd=%E5%80%92%E6%98%A5%E5%AF%92%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [杨幂总裁出街](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E6%80%BB%E8%A3%81%E5%87%BA%E8%A1%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [马斯克：AI发展速度前所未见](https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E5%8F%91%E5%B1%95%E9%80%9F%E5%BA%A6%E5%89%8D%E6%89%80%E6%9C%AA%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生痛经严重 查出长了2个“子宫”](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%97%9B%E7%BB%8F%E4%B8%A5%E9%87%8D+%E6%9F%A5%E5%87%BA%E9%95%BF%E4%BA%862%E4%B8%AA%E2%80%9C%E5%AD%90%E5%AE%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [海鱼比淡水鱼更有营养？](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B1%BC%E6%AF%94%E6%B7%A1%E6%B0%B4%E9%B1%BC%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
