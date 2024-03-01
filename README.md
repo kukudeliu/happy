@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 05:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 05:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [姚安娜回应演技争议](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%AE%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E6%BC%94%E6%8A%80%E4%BA%89%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [终于知道娃哈哈为啥用纸箱包装了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%A8%83%E5%93%88%E5%93%88%E4%B8%BA%E5%95%A5%E7%94%A8%E7%BA%B8%E7%AE%B1%E5%8C%85%E8%A3%85%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [彩票店回应女生花4元中500万](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%8A%B14%E5%85%83%E4%B8%AD500%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [车厘子榴莲山竹都便宜了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E6%A6%B4%E8%8E%B2%E5%B1%B1%E7%AB%B9%E9%83%BD%E4%BE%BF%E5%AE%9C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [酒店回应只能外国人穿拖鞋用餐](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E5%8F%AA%E8%83%BD%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%A9%BF%E6%8B%96%E9%9E%8B%E7%94%A8%E9%A4%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
