@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 21:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 21:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [德州驾车撞人男子已被当场抓获](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%B7%9E%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E7%94%B7%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%BD%93%E5%9C%BA%E6%8A%93%E8%8E%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂张小斐袁姗姗是一个宿舍的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%A0%E5%B0%8F%E6%96%90%E8%A2%81%E5%A7%97%E5%A7%97%E6%98%AF%E4%B8%80%E4%B8%AA%E5%AE%BF%E8%88%8D%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [大学生花4块钱中了500万](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%B14%E5%9D%97%E9%92%B1%E4%B8%AD%E4%BA%86500%E4%B8%87&t=31&band_rank=8&Refer=top)<br />
-9. [林心如方否认参加浪姐](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E6%96%B9%E5%90%A6%E8%AE%A4%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [IU看亲弟弟的眼神](https://s.weibo.com/weibo?q=%23IU%E7%9C%8B%E4%BA%B2%E5%BC%9F%E5%BC%9F%E7%9A%84%E7%9C%BC%E7%A5%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
