@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 20:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 20:40:02</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [德州驾车撞人男子已被当场抓获](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%B7%9E%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E7%94%B7%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%BD%93%E5%9C%BA%E6%8A%93%E8%8E%B7%23&t=31&band_rank=2&Refer=top)<br />
 3. [横琴全岛正式封关运行](https://s.weibo.com/weibo?q=%23%E6%A8%AA%E7%90%B4%E5%85%A8%E5%B2%9B%E6%AD%A3%E5%BC%8F%E5%B0%81%E5%85%B3%E8%BF%90%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [山东一轿车撞伤10余名儿童](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E8%BD%BF%E8%BD%A6%E6%92%9E%E4%BC%A410%E4%BD%99%E5%90%8D%E5%84%BF%E7%AB%A5%23&t=31&band_rank=4&Refer=top)<br />
-5. [大学生花4块钱中了500万](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%B14%E5%9D%97%E9%92%B1%E4%B8%AD%E4%BA%86500%E4%B8%87&t=31&band_rank=5&Refer=top)<br />
-6. [杨幂张小斐袁姗姗是一个宿舍的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%A0%E5%B0%8F%E6%96%90%E8%A2%81%E5%A7%97%E5%A7%97%E6%98%AF%E4%B8%80%E4%B8%AA%E5%AE%BF%E8%88%8D%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
+5. [杨幂张小斐袁姗姗是一个宿舍的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%A0%E5%B0%8F%E6%96%90%E8%A2%81%E5%A7%97%E5%A7%97%E6%98%AF%E4%B8%80%E4%B8%AA%E5%AE%BF%E8%88%8D%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
+6. [大学生花4块钱中了500万](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%B14%E5%9D%97%E9%92%B1%E4%B8%AD%E4%BA%86500%E4%B8%87&t=31&band_rank=6&Refer=top)<br />
 7. [原神 混池](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E%20%E6%B7%B7%E6%B1%A0&t=31&band_rank=7&Refer=top)<br />
-8. [终于知道娃哈哈为啥用纸箱包装了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%A8%83%E5%93%88%E5%93%88%E4%B8%BA%E5%95%A5%E7%94%A8%E7%BA%B8%E7%AE%B1%E5%8C%85%E8%A3%85%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [宋昕冉晒迪丽热巴to签](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%98%95%E5%86%89%E6%99%92%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4to%E7%AD%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [宋昕冉晒迪丽热巴to签](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%98%95%E5%86%89%E6%99%92%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4to%E7%AD%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [终于知道娃哈哈为啥用纸箱包装了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%A8%83%E5%93%88%E5%93%88%E4%B8%BA%E5%95%A5%E7%94%A8%E7%BA%B8%E7%AE%B1%E5%8C%85%E8%A3%85%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
