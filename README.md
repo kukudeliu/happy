@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 00:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 00:13:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [彩票店回应女生花4元中500万](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%8A%B14%E5%85%83%E4%B8%AD500%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [青海洪水](https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E6%B4%AA%E6%B0%B4&t=31&band_rank=6&Refer=top)<br />
 7. [百词斩崩了](https://s.weibo.com/weibo?q=%E7%99%BE%E8%AF%8D%E6%96%A9%E5%B4%A9%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [修杰楷回应梧桐妹迷恋穿环](https://s.weibo.com/weibo?q=%23%E4%BF%AE%E6%9D%B0%E6%A5%B7%E5%9B%9E%E5%BA%94%E6%A2%A7%E6%A1%90%E5%A6%B9%E8%BF%B7%E6%81%8B%E7%A9%BF%E7%8E%AF%23&t=31&band_rank=8&Refer=top)<br />
-9. [车厘子榴莲山竹都便宜了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E6%A6%B4%E8%8E%B2%E5%B1%B1%E7%AB%B9%E9%83%BD%E4%BE%BF%E5%AE%9C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [蔡英文办公室中枪卫兵死亡](https://s.weibo.com/weibo?q=%23%E8%94%A1%E8%8B%B1%E6%96%87%E5%8A%9E%E5%85%AC%E5%AE%A4%E4%B8%AD%E6%9E%AA%E5%8D%AB%E5%85%B5%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [修杰楷回应梧桐妹迷恋穿环](https://s.weibo.com/weibo?q=%23%E4%BF%AE%E6%9D%B0%E6%A5%B7%E5%9B%9E%E5%BA%94%E6%A2%A7%E6%A1%90%E5%A6%B9%E8%BF%B7%E6%81%8B%E7%A9%BF%E7%8E%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
