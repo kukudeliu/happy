@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 19:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 19:30:01</h4></div>
 
 > 微博  
 
-1. [山东一轿车撞伤10余名儿童](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E8%BD%BF%E8%BD%A6%E6%92%9E%E4%BC%A410%E4%BD%99%E5%90%8D%E5%84%BF%E7%AB%A5%23&t=31&band_rank=1&Refer=top)<br />
-2. [德州车祸致2死6重伤](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%B7%9E%E8%BD%A6%E7%A5%B8%E8%87%B42%E6%AD%BB6%E9%87%8D%E4%BC%A4%23&t=31&band_rank=2&Refer=top)<br />
+1. [德州车祸致2死6重伤](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%B7%9E%E8%BD%A6%E7%A5%B8%E8%87%B42%E6%AD%BB6%E9%87%8D%E4%BC%A4%23&t=31&band_rank=1&Refer=top)<br />
+2. [山东一轿车撞伤10余名儿童](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E8%BD%BF%E8%BD%A6%E6%92%9E%E4%BC%A410%E4%BD%99%E5%90%8D%E5%84%BF%E7%AB%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [横琴全岛正式封关运行](https://s.weibo.com/weibo?q=%23%E6%A8%AA%E7%90%B4%E5%85%A8%E5%B2%9B%E6%AD%A3%E5%BC%8F%E5%B0%81%E5%85%B3%E8%BF%90%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [大学生花4块钱中了500万](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%B14%E5%9D%97%E9%92%B1%E4%B8%AD%E4%BA%86500%E4%B8%87&t=31&band_rank=4&Refer=top)<br />
 5. [杨幂张小斐袁姗姗是一个宿舍的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%A0%E5%B0%8F%E6%96%90%E8%A2%81%E5%A7%97%E5%A7%97%E6%98%AF%E4%B8%80%E4%B8%AA%E5%AE%BF%E8%88%8D%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
