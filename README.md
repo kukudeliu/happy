@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 22:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 22:25:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [大学生花4块钱中了500万](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%B14%E5%9D%97%E9%92%B1%E4%B8%AD%E4%BA%86500%E4%B8%87&t=31&band_rank=5&Refer=top)<br />
 6. [教育部将增加专硕招生规模](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%B0%86%E5%A2%9E%E5%8A%A0%E4%B8%93%E7%A1%95%E6%8B%9B%E7%94%9F%E8%A7%84%E6%A8%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [德州驾车撞人男子已被当场抓获](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%B7%9E%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E7%94%B7%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%BD%93%E5%9C%BA%E6%8A%93%E8%8E%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨幂张小斐袁姗姗是一个宿舍的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%A0%E5%B0%8F%E6%96%90%E8%A2%81%E5%A7%97%E5%A7%97%E6%98%AF%E4%B8%80%E4%B8%AA%E5%AE%BF%E8%88%8D%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [车厘子榴莲山竹都便宜了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E6%A6%B4%E8%8E%B2%E5%B1%B1%E7%AB%B9%E9%83%BD%E4%BE%BF%E5%AE%9C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [车厘子榴莲山竹都便宜了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E6%A6%B4%E8%8E%B2%E5%B1%B1%E7%AB%B9%E9%83%BD%E4%BE%BF%E5%AE%9C%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [杨幂张小斐袁姗姗是一个宿舍的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%A0%E5%B0%8F%E6%96%90%E8%A2%81%E5%A7%97%E5%A7%97%E6%98%AF%E4%B8%80%E4%B8%AA%E5%AE%BF%E8%88%8D%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
