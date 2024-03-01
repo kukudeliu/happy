@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 08:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 08:37:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [上班恶心穿搭引发年轻人共鸣](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E6%81%B6%E5%BF%83%E7%A9%BF%E6%90%AD%E5%BC%95%E5%8F%91%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%85%B1%E9%B8%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [终于知道魏大勋好人缘是怎么来的](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%A5%BD%E4%BA%BA%E7%BC%98%E6%98%AF%E6%80%8E%E4%B9%88%E6%9D%A5%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩国医生若辞职须立刻入伍](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E8%8B%A5%E8%BE%9E%E8%81%8C%E9%A1%BB%E7%AB%8B%E5%88%BB%E5%85%A5%E4%BC%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [网红自导自演被砸鸡蛋](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%E8%A2%AB%E7%A0%B8%E9%B8%A1%E8%9B%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [加沙领物资民众遭袭112死760伤](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E9%A2%86%E7%89%A9%E8%B5%84%E6%B0%91%E4%BC%97%E9%81%AD%E8%A2%AD112%E6%AD%BB760%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
