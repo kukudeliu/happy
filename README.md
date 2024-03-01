@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 16:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 16:48:02</h4></div>
 
 > 微博  
 
-1. [前女团成员解散后在工厂做女工](https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E8%A7%A3%E6%95%A3%E5%90%8E%E5%9C%A8%E5%B7%A5%E5%8E%82%E5%81%9A%E5%A5%B3%E5%B7%A5%23&t=31&band_rank=1&Refer=top)<br />
-2. [建议取消强制自动续费](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%BC%BA%E5%88%B6%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%23&t=31&band_rank=2&Refer=top)<br />
+1. [建议取消强制自动续费](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%BC%BA%E5%88%B6%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%23&t=31&band_rank=1&Refer=top)<br />
+2. [前女团成员解散后在工厂做女工](https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E8%A7%A3%E6%95%A3%E5%90%8E%E5%9C%A8%E5%B7%A5%E5%8E%82%E5%81%9A%E5%A5%B3%E5%B7%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [为何全国两会大多在3月开](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E5%A4%A7%E5%A4%9A%E5%9C%A83%E6%9C%88%E5%BC%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [我是为了救我哥哥才出生的](https://s.weibo.com/weibo?q=%E6%88%91%E6%98%AF%E4%B8%BA%E4%BA%86%E6%95%91%E6%88%91%E5%93%A5%E5%93%A5%E6%89%8D%E5%87%BA%E7%94%9F%E7%9A%84&t=31&band_rank=4&Refer=top)<br />
 5. [斗鱼曾经的头部主播都去哪了](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E6%9B%BE%E7%BB%8F%E7%9A%84%E5%A4%B4%E9%83%A8%E4%B8%BB%E6%92%AD%E9%83%BD%E5%8E%BB%E5%93%AA%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
