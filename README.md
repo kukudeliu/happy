@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 10:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 10:58:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [反诈老陈回应济宁消防喊话](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E5%9B%9E%E5%BA%94%E6%B5%8E%E5%AE%81%E6%B6%88%E9%98%B2%E5%96%8A%E8%AF%9D%23&t=31&band_rank=5&Refer=top)<br />
 6. [蔡磊身体情况持续下滑](https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E8%BA%AB%E4%BD%93%E6%83%85%E5%86%B5%E6%8C%81%E7%BB%AD%E4%B8%8B%E6%BB%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [11届快女 最癫的选秀](https://s.weibo.com/weibo?q=11%E5%B1%8A%E5%BF%AB%E5%A5%B3%20%E6%9C%80%E7%99%AB%E7%9A%84%E9%80%89%E7%A7%80&t=31&band_rank=7&Refer=top)<br />
-8. [崔胜澈免除兵役](https://s.weibo.com/weibo?q=%23%E5%B4%94%E8%83%9C%E6%BE%88%E5%85%8D%E9%99%A4%E5%85%B5%E5%BD%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [老人救人被撞成植物人申见义勇为被驳回](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%95%91%E4%BA%BA%E8%A2%AB%E6%92%9E%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%94%B3%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
+8. [白敬亭范思哲全球香水代言人](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%8C%83%E6%80%9D%E5%93%B2%E5%85%A8%E7%90%83%E9%A6%99%E6%B0%B4%E4%BB%A3%E8%A8%80%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [崔胜澈免除兵役](https://s.weibo.com/weibo?q=%23%E5%B4%94%E8%83%9C%E6%BE%88%E5%85%8D%E9%99%A4%E5%85%B5%E5%BD%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
