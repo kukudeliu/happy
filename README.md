@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 13:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 13:49:01</h4></div>
 
 > 微博  
 
-1. [微信删除后加回来对方知道吗](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%88%A0%E9%99%A4%E5%90%8E%E5%8A%A0%E5%9B%9E%E6%9D%A5%E5%AF%B9%E6%96%B9%E7%9F%A5%E9%81%93%E5%90%97%23&t=31&band_rank=1&Refer=top)<br />
-2. [退税](https://s.weibo.com/weibo?q=%E9%80%80%E7%A8%8E&t=31&band_rank=2&Refer=top)<br />
+1. [退税](https://s.weibo.com/weibo?q=%E9%80%80%E7%A8%8E&t=31&band_rank=1&Refer=top)<br />
+2. [迪丽热巴三月录制综艺](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%89%E6%9C%88%E5%BD%95%E5%88%B6%E7%BB%BC%E8%89%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [一组图了解两会知识](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E5%9B%BE%E4%BA%86%E8%A7%A3%E4%B8%A4%E4%BC%9A%E7%9F%A5%E8%AF%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [迪丽热巴三月录制综艺](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%89%E6%9C%88%E5%BD%95%E5%88%B6%E7%BB%BC%E8%89%BA%23&t=31&band_rank=4&Refer=top)<br />
+4. [微信删除后加回来对方知道吗](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%88%A0%E9%99%A4%E5%90%8E%E5%8A%A0%E5%9B%9E%E6%9D%A5%E5%AF%B9%E6%96%B9%E7%9F%A5%E9%81%93%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [易烊千玺帽子](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B8%BD%E5%AD%90&t=31&band_rank=5&Refer=top)<br />
 6. [女子回应怀孕8个月考研获专业第一](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E6%80%80%E5%AD%958%E4%B8%AA%E6%9C%88%E8%80%83%E7%A0%94%E8%8E%B7%E4%B8%93%E4%B8%9A%E7%AC%AC%E4%B8%80%23&t=31&band_rank=6&Refer=top)<br />
-7. [赵丽颖银白挑染](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%93%B6%E7%99%BD%E6%8C%91%E6%9F%93%23&t=31&band_rank=7&Refer=top)<br />
-8. [海底捞试点螺蛳粉火锅](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%AF%95%E7%82%B9%E8%9E%BA%E8%9B%B3%E7%B2%89%E7%81%AB%E9%94%85%23&t=31&band_rank=8&Refer=top)<br />
+7. [海底捞试点螺蛳粉火锅](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%AF%95%E7%82%B9%E8%9E%BA%E8%9B%B3%E7%B2%89%E7%81%AB%E9%94%85%23&t=31&band_rank=7&Refer=top)<br />
+8. [赵丽颖银白挑染](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%93%B6%E7%99%BD%E6%8C%91%E6%9F%93%23&t=31&band_rank=8&Refer=top)<br />
 9. [江苏南通5死13伤爆炸事故原因公布](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%80%9A5%E6%AD%BB13%E4%BC%A4%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%85%AC%E5%B8%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
