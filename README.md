@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 16:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 16:43:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [为何全国两会大多在3月开](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E5%A4%A7%E5%A4%9A%E5%9C%A83%E6%9C%88%E5%BC%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [建议取消强制自动续费](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%BC%BA%E5%88%B6%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%23&t=31&band_rank=4&Refer=top)<br />
 5. [斗鱼曾经的头部主播都去哪了](https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E6%9B%BE%E7%BB%8F%E7%9A%84%E5%A4%B4%E9%83%A8%E4%B8%BB%E6%92%AD%E9%83%BD%E5%8E%BB%E5%93%AA%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [小团团已停播34天](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9B%A2%E5%9B%A2%E5%B7%B2%E5%81%9C%E6%92%AD34%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
-7. [退税](https://s.weibo.com/weibo?q=%E9%80%80%E7%A8%8E&t=31&band_rank=7&Refer=top)<br />
+6. [退税](https://s.weibo.com/weibo?q=%E9%80%80%E7%A8%8E&t=31&band_rank=6&Refer=top)<br />
+7. [小团团已停播34天](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9B%A2%E5%9B%A2%E5%B7%B2%E5%81%9C%E6%92%AD34%E5%A4%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [农夫山泉 娃哈哈](https://s.weibo.com/weibo?q=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%20%E5%A8%83%E5%93%88%E5%93%88&t=31&band_rank=8&Refer=top)<br />
 9. [33岁白发妈妈亲吻去世宝宝墓碑](https://s.weibo.com/weibo?q=%2333%E5%B2%81%E7%99%BD%E5%8F%91%E5%A6%88%E5%A6%88%E4%BA%B2%E5%90%BB%E5%8E%BB%E4%B8%96%E5%AE%9D%E5%AE%9D%E5%A2%93%E7%A2%91%23&t=31&band_rank=9&Refer=top)<br />
 
