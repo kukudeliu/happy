@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 09:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 09:05:01</h4></div>
 
 > 微博  
 
 1. [退税](https://s.weibo.com/weibo?q=%E9%80%80%E7%A8%8E&t=31&band_rank=1&Refer=top)<br />
 2. [崔胜澈免除兵役](https://s.weibo.com/weibo?q=%23%E5%B4%94%E8%83%9C%E6%BE%88%E5%85%8D%E9%99%A4%E5%85%B5%E5%BD%B9%23&t=31&band_rank=2&Refer=top)<br />
 3. [微观两会](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%A7%82%E4%B8%A4%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [iPhone在中国大幅打折](https://s.weibo.com/weibo?q=%23iPhone%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%B9%85%E6%89%93%E6%8A%98%23&t=31&band_rank=4&Refer=top)<br />
-5. [11届快女 最癫的选秀](https://s.weibo.com/weibo?q=11%E5%B1%8A%E5%BF%AB%E5%A5%B3%20%E6%9C%80%E7%99%AB%E7%9A%84%E9%80%89%E7%A7%80&t=31&band_rank=5&Refer=top)<br />
+4. [11届快女 最癫的选秀](https://s.weibo.com/weibo?q=11%E5%B1%8A%E5%BF%AB%E5%A5%B3%20%E6%9C%80%E7%99%AB%E7%9A%84%E9%80%89%E7%A7%80&t=31&band_rank=4&Refer=top)<br />
+5. [iPhone在中国大幅打折](https://s.weibo.com/weibo?q=%23iPhone%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%B9%85%E6%89%93%E6%8A%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [家长吐槽被学校要求下午到校值班](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E8%A2%AB%E5%AD%A6%E6%A0%A1%E8%A6%81%E6%B1%82%E4%B8%8B%E5%8D%88%E5%88%B0%E6%A0%A1%E5%80%BC%E7%8F%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [上班恶心穿搭引发年轻人共鸣](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E6%81%B6%E5%BF%83%E7%A9%BF%E6%90%AD%E5%BC%95%E5%8F%91%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%85%B1%E9%B8%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [加沙领物资民众遭袭112死760伤](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E9%A2%86%E7%89%A9%E8%B5%84%E6%B0%91%E4%BC%97%E9%81%AD%E8%A2%AD112%E6%AD%BB760%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
