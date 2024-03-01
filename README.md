@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 21:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 21:05:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [市民排队为德州受伤学生献血](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E6%8E%92%E9%98%9F%E4%B8%BA%E5%BE%B7%E5%B7%9E%E5%8F%97%E4%BC%A4%E5%AD%A6%E7%94%9F%E7%8C%AE%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [50岁妈妈回应被女儿爆改成女大学生](https://www.baidu.com/s?wd=50%E5%B2%81%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E5%84%BF%E7%88%86%E6%94%B9%E6%88%90%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [德州撞人事故驾驶人被当场抓获](https://www.baidu.com/s?wd=%E5%BE%B7%E5%B7%9E%E6%92%9E%E4%BA%BA%E4%BA%8B%E6%95%85%E9%A9%BE%E9%A9%B6%E4%BA%BA%E8%A2%AB%E5%BD%93%E5%9C%BA%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [姐弟烧伤四位姨妈剃光头捐头皮](https://www.baidu.com/s?wd=%E5%A7%90%E5%BC%9F%E7%83%A7%E4%BC%A4%E5%9B%9B%E4%BD%8D%E5%A7%A8%E5%A6%88%E5%89%83%E5%85%89%E5%A4%B4%E6%8D%90%E5%A4%B4%E7%9A%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子红眼病传染全家 连狗眼都红了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BA%A2%E7%9C%BC%E7%97%85%E4%BC%A0%E6%9F%93%E5%85%A8%E5%AE%B6+%E8%BF%9E%E7%8B%97%E7%9C%BC%E9%83%BD%E7%BA%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [海鱼比淡水鱼更有营养？](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B1%BC%E6%AF%94%E6%B7%A1%E6%B0%B4%E9%B1%BC%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [市民排队为德州受伤学生献血](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E6%8E%92%E9%98%9F%E4%B8%BA%E5%BE%B7%E5%B7%9E%E5%8F%97%E4%BC%A4%E5%AD%A6%E7%94%9F%E7%8C%AE%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [50岁妈妈回应被女儿爆改成女大学生](https://www.baidu.com/s?wd=50%E5%B2%81%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E5%84%BF%E7%88%86%E6%94%B9%E6%88%90%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [德州撞人事故驾驶人被当场抓获](https://www.baidu.com/s?wd=%E5%BE%B7%E5%B7%9E%E6%92%9E%E4%BA%BA%E4%BA%8B%E6%95%85%E9%A9%BE%E9%A9%B6%E4%BA%BA%E8%A2%AB%E5%BD%93%E5%9C%BA%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [姐弟烧伤四位姨妈剃光头捐头皮](https://www.baidu.com/s?wd=%E5%A7%90%E5%BC%9F%E7%83%A7%E4%BC%A4%E5%9B%9B%E4%BD%8D%E5%A7%A8%E5%A6%88%E5%89%83%E5%85%89%E5%A4%B4%E6%8D%90%E5%A4%B4%E7%9A%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子红眼病传染全家 连狗眼都红了](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BA%A2%E7%9C%BC%E7%97%85%E4%BC%A0%E6%9F%93%E5%85%A8%E5%AE%B6+%E8%BF%9E%E7%8B%97%E7%9C%BC%E9%83%BD%E7%BA%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [海鱼比淡水鱼更有营养？](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B1%BC%E6%AF%94%E6%B7%A1%E6%B0%B4%E9%B1%BC%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
