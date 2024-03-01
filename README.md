@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 23:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 23:37:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [家长称自家孩子不上早课睡到自然醒](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E7%A7%B0%E8%87%AA%E5%AE%B6%E5%AD%A9%E5%AD%90%E4%B8%8D%E4%B8%8A%E6%97%A9%E8%AF%BE%E7%9D%A1%E5%88%B0%E8%87%AA%E7%84%B6%E9%86%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [大学生花4块钱中了500万](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%B14%E5%9D%97%E9%92%B1%E4%B8%AD%E4%BA%86500%E4%B8%87&t=31&band_rank=7&Refer=top)<br />
 8. [松子狂炫中国火锅](https://s.weibo.com/weibo?q=%E6%9D%BE%E5%AD%90%E7%8B%82%E7%82%AB%E4%B8%AD%E5%9B%BD%E7%81%AB%E9%94%85&t=31&band_rank=8&Refer=top)<br />
-9. [杨幂张小斐袁姗姗是一个宿舍的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%A0%E5%B0%8F%E6%96%90%E8%A2%81%E5%A7%97%E5%A7%97%E6%98%AF%E4%B8%80%E4%B8%AA%E5%AE%BF%E8%88%8D%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [蔡英文办公室一卫兵中枪](https://s.weibo.com/weibo?q=%23%E8%94%A1%E8%8B%B1%E6%96%87%E5%8A%9E%E5%85%AC%E5%AE%A4%E4%B8%80%E5%8D%AB%E5%85%B5%E4%B8%AD%E6%9E%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
