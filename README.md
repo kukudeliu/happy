@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 20:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 20:01:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [市民排队为德州受伤学生献血](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E6%8E%92%E9%98%9F%E4%B8%BA%E5%BE%B7%E5%B7%9E%E5%8F%97%E4%BC%A4%E5%AD%A6%E7%94%9F%E7%8C%AE%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国留学生参加搏击赛被打成植物人](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%8F%82%E5%8A%A0%E6%90%8F%E5%87%BB%E8%B5%9B%E8%A2%AB%E6%89%93%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [德州撞人事故驾驶人被当场抓获](https://www.baidu.com/s?wd=%E5%BE%B7%E5%B7%9E%E6%92%9E%E4%BA%BA%E4%BA%8B%E6%95%85%E9%A9%BE%E9%A9%B6%E4%BA%BA%E8%A2%AB%E5%BD%93%E5%9C%BA%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拜登在得州活动现场愣神](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%9C%A8%E5%BE%97%E5%B7%9E%E6%B4%BB%E5%8A%A8%E7%8E%B0%E5%9C%BA%E6%84%A3%E7%A5%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [娃哈哈发文请大家理性消费](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E5%8F%91%E6%96%87%E8%AF%B7%E5%A4%A7%E5%AE%B6%E7%90%86%E6%80%A7%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [海鱼比淡水鱼更有营养？](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B1%BC%E6%AF%94%E6%B7%A1%E6%B0%B4%E9%B1%BC%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [市民排队为德州受伤学生献血](https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E6%8E%92%E9%98%9F%E4%B8%BA%E5%BE%B7%E5%B7%9E%E5%8F%97%E4%BC%A4%E5%AD%A6%E7%94%9F%E7%8C%AE%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国留学生参加搏击赛被打成植物人](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%8F%82%E5%8A%A0%E6%90%8F%E5%87%BB%E8%B5%9B%E8%A2%AB%E6%89%93%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [德州撞人事故驾驶人被当场抓获](https://www.baidu.com/s?wd=%E5%BE%B7%E5%B7%9E%E6%92%9E%E4%BA%BA%E4%BA%8B%E6%95%85%E9%A9%BE%E9%A9%B6%E4%BA%BA%E8%A2%AB%E5%BD%93%E5%9C%BA%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拜登在得州活动现场愣神](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%9C%A8%E5%BE%97%E5%B7%9E%E6%B4%BB%E5%8A%A8%E7%8E%B0%E5%9C%BA%E6%84%A3%E7%A5%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [娃哈哈发文请大家理性消费](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E5%8F%91%E6%96%87%E8%AF%B7%E5%A4%A7%E5%AE%B6%E7%90%86%E6%80%A7%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [海鱼比淡水鱼更有营养？](https://www.baidu.com/s?wd=%E6%B5%B7%E9%B1%BC%E6%AF%94%E6%B7%A1%E6%B0%B4%E9%B1%BC%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
