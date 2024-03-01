@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 18:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 18:33:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [大力推动我国新能源高质量发展](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8A%9B%E6%8E%A8%E5%8A%A8%E6%88%91%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [建议取消强制自动续费](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%BC%BA%E5%88%B6%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [山东德州发生一起重大交通事故](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%BE%B7%E5%B7%9E%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E9%87%8D%E5%A4%A7%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [497名缅甸电信诈骗嫌犯移交中方](https://www.baidu.com/s?wd=497%E5%90%8D%E7%BC%85%E7%94%B8%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%97%E5%AB%8C%E7%8A%AF%E7%A7%BB%E4%BA%A4%E4%B8%AD%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国式现代化步履坚实](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%AD%A5%E5%B1%A5%E5%9D%9A%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [前女团成员解散后在工厂做女工](https://www.baidu.com/s?wd=%E5%89%8D%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E8%A7%A3%E6%95%A3%E5%90%8E%E5%9C%A8%E5%B7%A5%E5%8E%82%E5%81%9A%E5%A5%B3%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [大力推动我国新能源高质量发展](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8A%9B%E6%8E%A8%E5%8A%A8%E6%88%91%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [建议取消强制自动续费](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%BC%BA%E5%88%B6%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [山东德州发生一起重大交通事故](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%BE%B7%E5%B7%9E%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E9%87%8D%E5%A4%A7%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [497名缅甸电信诈骗嫌犯移交中方](https://www.baidu.com/s?wd=497%E5%90%8D%E7%BC%85%E7%94%B8%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%97%E5%AB%8C%E7%8A%AF%E7%A7%BB%E4%BA%A4%E4%B8%AD%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国式现代化步履坚实](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%AD%A5%E5%B1%A5%E5%9D%9A%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [前女团成员解散后在工厂做女工](https://www.baidu.com/s?wd=%E5%89%8D%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E8%A7%A3%E6%95%A3%E5%90%8E%E5%9C%A8%E5%B7%A5%E5%8E%82%E5%81%9A%E5%A5%B3%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
