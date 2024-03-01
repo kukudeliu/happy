@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 00:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 00:05:02</h4></div>
 
 > 微博  
 
 1. [蔡英文办公室一卫兵中枪](https://s.weibo.com/weibo?q=%23%E8%94%A1%E8%8B%B1%E6%96%87%E5%8A%9E%E5%85%AC%E5%AE%A4%E4%B8%80%E5%8D%AB%E5%85%B5%E4%B8%AD%E6%9E%AA%23&t=31&band_rank=1&Refer=top)<br />
 2. [姚安娜回应演技争议](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%AE%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E6%BC%94%E6%8A%80%E4%BA%89%E8%AE%AE%23&t=31&band_rank=2&Refer=top)<br />
 3. [一组数据看青山定不负人](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E9%9D%92%E5%B1%B1%E5%AE%9A%E4%B8%8D%E8%B4%9F%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
-4. [彩票店回应女生花4元中500万](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%8A%B14%E5%85%83%E4%B8%AD500%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
-5. [家长称自家孩子不上早课睡到自然醒](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E7%A7%B0%E8%87%AA%E5%AE%B6%E5%AD%A9%E5%AD%90%E4%B8%8D%E4%B8%8A%E6%97%A9%E8%AF%BE%E7%9D%A1%E5%88%B0%E8%87%AA%E7%84%B6%E9%86%92%23&t=31&band_rank=5&Refer=top)<br />
+4. [家长称自家孩子不上早课睡到自然醒](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E7%A7%B0%E8%87%AA%E5%AE%B6%E5%AD%A9%E5%AD%90%E4%B8%8D%E4%B8%8A%E6%97%A9%E8%AF%BE%E7%9D%A1%E5%88%B0%E8%87%AA%E7%84%B6%E9%86%92%23&t=31&band_rank=4&Refer=top)<br />
+5. [彩票店回应女生花4元中500万](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%8A%B14%E5%85%83%E4%B8%AD500%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [百词斩崩了](https://s.weibo.com/weibo?q=%E7%99%BE%E8%AF%8D%E6%96%A9%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [青海洪水](https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E6%B4%AA%E6%B0%B4&t=31&band_rank=7&Refer=top)<br />
 8. [修杰楷回应梧桐妹迷恋穿环](https://s.weibo.com/weibo?q=%23%E4%BF%AE%E6%9D%B0%E6%A5%B7%E5%9B%9E%E5%BA%94%E6%A2%A7%E6%A1%90%E5%A6%B9%E8%BF%B7%E6%81%8B%E7%A9%BF%E7%8E%AF%23&t=31&band_rank=8&Refer=top)<br />
