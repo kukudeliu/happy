@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 18:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 18:08:02</h4></div>
 
 > 微博  
 
-1. [建议取消强制自动续费](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%BC%BA%E5%88%B6%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%23&t=31&band_rank=1&Refer=top)<br />
-2. [大学生花4块钱中了500万](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%B14%E5%9D%97%E9%92%B1%E4%B8%AD%E4%BA%86500%E4%B8%87&t=31&band_rank=2&Refer=top)<br />
+1. [大学生花4块钱中了500万](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%B14%E5%9D%97%E9%92%B1%E4%B8%AD%E4%BA%86500%E4%B8%87&t=31&band_rank=1&Refer=top)<br />
+2. [建议取消强制自动续费](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%BC%BA%E5%88%B6%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%23&t=31&band_rank=2&Refer=top)<br />
 3. [横琴全岛正式封关运行](https://s.weibo.com/weibo?q=%23%E6%A8%AA%E7%90%B4%E5%85%A8%E5%B2%9B%E6%AD%A3%E5%BC%8F%E5%B0%81%E5%85%B3%E8%BF%90%E8%A1%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [爱情公寓里的胡歌](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E9%87%8C%E7%9A%84%E8%83%A1%E6%AD%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [田柾国 炊事兵](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9F%BE%E5%9B%BD%20%E7%82%8A%E4%BA%8B%E5%85%B5&t=31&band_rank=5&Refer=top)<br />
