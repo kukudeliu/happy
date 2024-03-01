@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 13:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-01 13:46:01</h4></div>
 
 > 微博  
 
-1. [退税](https://s.weibo.com/weibo?q=%E9%80%80%E7%A8%8E&t=31&band_rank=1&Refer=top)<br />
-2. [微信删除后加回来对方知道吗](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%88%A0%E9%99%A4%E5%90%8E%E5%8A%A0%E5%9B%9E%E6%9D%A5%E5%AF%B9%E6%96%B9%E7%9F%A5%E9%81%93%E5%90%97%23&t=31&band_rank=2&Refer=top)<br />
+1. [微信删除后加回来对方知道吗](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%88%A0%E9%99%A4%E5%90%8E%E5%8A%A0%E5%9B%9E%E6%9D%A5%E5%AF%B9%E6%96%B9%E7%9F%A5%E9%81%93%E5%90%97%23&t=31&band_rank=1&Refer=top)<br />
+2. [退税](https://s.weibo.com/weibo?q=%E9%80%80%E7%A8%8E&t=31&band_rank=2&Refer=top)<br />
 3. [一组图了解两会知识](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E5%9B%BE%E4%BA%86%E8%A7%A3%E4%B8%A4%E4%BC%9A%E7%9F%A5%E8%AF%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [迪丽热巴三月录制综艺](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%89%E6%9C%88%E5%BD%95%E5%88%B6%E7%BB%BC%E8%89%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [易烊千玺帽子](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B8%BD%E5%AD%90&t=31&band_rank=5&Refer=top)<br />
