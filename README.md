@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 22:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 22:43:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [这场盛会有何期待？](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E7%9B%9B%E4%BC%9A%E6%9C%89%E4%BD%95%E6%9C%9F%E5%BE%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [建议对6岁以下75岁以上公民免费医疗](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%AF%B96%E5%B2%81%E4%BB%A5%E4%B8%8B75%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%85%AC%E6%B0%91%E5%85%8D%E8%B4%B9%E5%8C%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明地震](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [委员建议启动农民养老金统一上调](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%90%AF%E5%8A%A8%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E7%BB%9F%E4%B8%80%E4%B8%8A%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小S回应公公去世](https://www.baidu.com/s?wd=%E5%B0%8FS%E5%9B%9E%E5%BA%94%E5%85%AC%E5%85%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [彩票店回应女生花4元中500万](https://www.baidu.com/s?wd=%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%8A%B14%E5%85%83%E4%B8%AD500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣68岁男子纵火烧菜市场](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A368%E5%B2%81%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E7%83%A7%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [这场盛会有何期待？](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E7%9B%9B%E4%BC%9A%E6%9C%89%E4%BD%95%E6%9C%9F%E5%BE%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [建议对6岁以下75岁以上公民免费医疗](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%AF%B96%E5%B2%81%E4%BB%A5%E4%B8%8B75%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%85%AC%E6%B0%91%E5%85%8D%E8%B4%B9%E5%8C%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明地震](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [委员建议启动农民养老金统一上调](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%90%AF%E5%8A%A8%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E7%BB%9F%E4%B8%80%E4%B8%8A%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小S回应公公去世](https://www.baidu.com/s?wd=%E5%B0%8FS%E5%9B%9E%E5%BA%94%E5%85%AC%E5%85%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [彩票店回应女生花4元中500万](https://www.baidu.com/s?wd=%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%8A%B14%E5%85%83%E4%B8%AD500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣68岁男子纵火烧菜市场](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A368%E5%B2%81%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E7%83%A7%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
