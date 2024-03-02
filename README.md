@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 09:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 09:25:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [网购999足金戒指到手纯度仅为14k](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD999%E8%B6%B3%E9%87%91%E6%88%92%E6%8C%87%E5%88%B0%E6%89%8B%E7%BA%AF%E5%BA%A6%E4%BB%85%E4%B8%BA14k&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚安娜回应演技争议](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E6%BC%94%E6%8A%80%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴艳妮接受采访直言不迎合任何人](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF%E7%9B%B4%E8%A8%80%E4%B8%8D%E8%BF%8E%E5%90%88%E4%BB%BB%E4%BD%95%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吴敏霞出席中超开幕式](https://www.baidu.com/s?wd=%E5%90%B4%E6%95%8F%E9%9C%9E%E5%87%BA%E5%B8%AD%E4%B8%AD%E8%B6%85%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [西工大仿生扑翼飞行器亮相](https://www.baidu.com/s?wd=%E8%A5%BF%E5%B7%A5%E5%A4%A7%E4%BB%BF%E7%94%9F%E6%89%91%E7%BF%BC%E9%A3%9E%E8%A1%8C%E5%99%A8%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [奔驰礼让救护车被罚款？](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E7%A4%BC%E8%AE%A9%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E7%BD%9A%E6%AC%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [网购999足金戒指到手纯度仅为14k](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD999%E8%B6%B3%E9%87%91%E6%88%92%E6%8C%87%E5%88%B0%E6%89%8B%E7%BA%AF%E5%BA%A6%E4%BB%85%E4%B8%BA14k&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚安娜回应演技争议](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E6%BC%94%E6%8A%80%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [吴艳妮接受采访直言不迎合任何人](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF%E7%9B%B4%E8%A8%80%E4%B8%8D%E8%BF%8E%E5%90%88%E4%BB%BB%E4%BD%95%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吴敏霞出席中超开幕式](https://www.baidu.com/s?wd=%E5%90%B4%E6%95%8F%E9%9C%9E%E5%87%BA%E5%B8%AD%E4%B8%AD%E8%B6%85%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [西工大仿生扑翼飞行器亮相](https://www.baidu.com/s?wd=%E8%A5%BF%E5%B7%A5%E5%A4%A7%E4%BB%BF%E7%94%9F%E6%89%91%E7%BF%BC%E9%A3%9E%E8%A1%8C%E5%99%A8%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [奔驰礼让救护车被罚款？](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E7%A4%BC%E8%AE%A9%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E7%BD%9A%E6%AC%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
