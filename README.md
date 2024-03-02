@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 21:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 21:31:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [林俊杰去了霉霉演唱会](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%8E%BB%E4%BA%86%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [严浩翔打赏事件女主播报警](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%89%93%E8%B5%8F%E4%BA%8B%E4%BB%B6%E5%A5%B3%E4%B8%BB%E6%92%AD%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [女子造谣男同学是强奸犯致其被停学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%80%A0%E8%B0%A3%E7%94%B7%E5%90%8C%E5%AD%A6%E6%98%AF%E5%BC%BA%E5%A5%B8%E7%8A%AF%E8%87%B4%E5%85%B6%E8%A2%AB%E5%81%9C%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [爱上阮经天](https://s.weibo.com/weibo?q=%E7%88%B1%E4%B8%8A%E9%98%AE%E7%BB%8F%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
-8. [焉栩嘉承认谈过恋爱](https://s.weibo.com/weibo?q=%23%E7%84%89%E6%A0%A9%E5%98%89%E6%89%BF%E8%AE%A4%E8%B0%88%E8%BF%87%E6%81%8B%E7%88%B1%23&t=31&band_rank=8&Refer=top)<br />
+7. [焉栩嘉承认谈过恋爱](https://s.weibo.com/weibo?q=%23%E7%84%89%E6%A0%A9%E5%98%89%E6%89%BF%E8%AE%A4%E8%B0%88%E8%BF%87%E6%81%8B%E7%88%B1%23&t=31&band_rank=7&Refer=top)<br />
+8. [爱上阮经天](https://s.weibo.com/weibo?q=%E7%88%B1%E4%B8%8A%E9%98%AE%E7%BB%8F%E5%A4%A9&t=31&band_rank=8&Refer=top)<br />
 9. [韩国民众排队4个小时告别福宝](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B0%91%E4%BC%97%E6%8E%92%E9%98%9F4%E4%B8%AA%E5%B0%8F%E6%97%B6%E5%91%8A%E5%88%AB%E7%A6%8F%E5%AE%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [刘鑫代理律师被认定违规炒作江歌案](https://www.baidu.com/s?wd=%E5%88%98%E9%91%AB%E4%BB%A3%E7%90%86%E5%BE%8B%E5%B8%88%E8%A2%AB%E8%AE%A4%E5%AE%9A%E8%BF%9D%E8%A7%84%E7%82%92%E4%BD%9C%E6%B1%9F%E6%AD%8C%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [我在新加坡做外卖生意，收入过亿](https://www.baidu.com/s?wd=%E6%88%91%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%81%9A%E5%A4%96%E5%8D%96%E7%94%9F%E6%84%8F%EF%BC%8C%E6%94%B6%E5%85%A5%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小S回应公公去世](https://www.baidu.com/s?wd=%E5%B0%8FS%E5%9B%9E%E5%BA%94%E5%85%AC%E5%85%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [彩票店回应女生花4元中500万](https://www.baidu.com/s?wd=%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%8A%B14%E5%85%83%E4%B8%AD500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [博主称因称呼雷军为军儿遭小米投诉](https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%A7%B0%E5%9B%A0%E7%A7%B0%E5%91%BC%E9%9B%B7%E5%86%9B%E4%B8%BA%E5%86%9B%E5%84%BF%E9%81%AD%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣68岁男子纵火烧菜市场](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A368%E5%B2%81%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E7%83%A7%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [刘鑫代理律师被认定违规炒作江歌案](https://www.baidu.com/s?wd=%E5%88%98%E9%91%AB%E4%BB%A3%E7%90%86%E5%BE%8B%E5%B8%88%E8%A2%AB%E8%AE%A4%E5%AE%9A%E8%BF%9D%E8%A7%84%E7%82%92%E4%BD%9C%E6%B1%9F%E6%AD%8C%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [我在新加坡做外卖生意，收入过亿](https://www.baidu.com/s?wd=%E6%88%91%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%81%9A%E5%A4%96%E5%8D%96%E7%94%9F%E6%84%8F%EF%BC%8C%E6%94%B6%E5%85%A5%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小S回应公公去世](https://www.baidu.com/s?wd=%E5%B0%8FS%E5%9B%9E%E5%BA%94%E5%85%AC%E5%85%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [彩票店回应女生花4元中500万](https://www.baidu.com/s?wd=%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%8A%B14%E5%85%83%E4%B8%AD500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [博主称因称呼雷军为军儿遭小米投诉](https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%A7%B0%E5%9B%A0%E7%A7%B0%E5%91%BC%E9%9B%B7%E5%86%9B%E4%B8%BA%E5%86%9B%E5%84%BF%E9%81%AD%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣68岁男子纵火烧菜市场](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A368%E5%B2%81%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E7%83%A7%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
