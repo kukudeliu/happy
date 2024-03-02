@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 11:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 11:50:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [陈丽君 浪姐](https://s.weibo.com/weibo?q=%E9%99%88%E4%B8%BD%E5%90%9B%20%E6%B5%AA%E5%A7%90&t=31&band_rank=5&Refer=top)<br />
 6. [官方回应网传青海发洪水](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%9D%92%E6%B5%B7%E5%8F%91%E6%B4%AA%E6%B0%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [中传回应点读机女孩休学](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BC%A0%E5%9B%9E%E5%BA%94%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BC%91%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [曼谷夜市现烤小臂一样长的大虾](https://s.weibo.com/weibo?q=%E6%9B%BC%E8%B0%B7%E5%A4%9C%E5%B8%82%E7%8E%B0%E7%83%A4%E5%B0%8F%E8%87%82%E4%B8%80%E6%A0%B7%E9%95%BF%E7%9A%84%E5%A4%A7%E8%99%BE&t=31&band_rank=8&Refer=top)<br />
-9. [王栎鑫比许凯了解谭松韵](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E6%AF%94%E8%AE%B8%E5%87%AF%E4%BA%86%E8%A7%A3%E8%B0%AD%E6%9D%BE%E9%9F%B5%23&t=31&band_rank=9&Refer=top)<br />
+8. [王栎鑫比许凯了解谭松韵](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E6%AF%94%E8%AE%B8%E5%87%AF%E4%BA%86%E8%A7%A3%E8%B0%AD%E6%9D%BE%E9%9F%B5%23&t=31&band_rank=8&Refer=top)<br />
+9. [曼谷夜市现烤小臂一样长的大虾](https://s.weibo.com/weibo?q=%E6%9B%BC%E8%B0%B7%E5%A4%9C%E5%B8%82%E7%8E%B0%E7%83%A4%E5%B0%8F%E8%87%82%E4%B8%80%E6%A0%B7%E9%95%BF%E7%9A%84%E5%A4%A7%E8%99%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
