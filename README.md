@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 10:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 10:46:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [点读机女孩为学业放弃进娱乐圈](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%B8%BA%E5%AD%A6%E4%B8%9A%E6%94%BE%E5%BC%83%E8%BF%9B%E5%A8%B1%E4%B9%90%E5%9C%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [千人或有一例艾滋患者](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%BA%BA%E6%88%96%E6%9C%89%E4%B8%80%E4%BE%8B%E8%89%BE%E6%BB%8B%E6%82%A3%E8%80%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [博主称因称呼雷军为军儿遭小米投诉](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E7%A7%B0%E5%9B%A0%E7%A7%B0%E5%91%BC%E9%9B%B7%E5%86%9B%E4%B8%BA%E5%86%9B%E5%84%BF%E9%81%AD%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [小团团](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9B%A2%E5%9B%A2&t=31&band_rank=8&Refer=top)<br />
-9. [没想到都三月份还在穿羽绒服](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E9%83%BD%E4%B8%89%E6%9C%88%E4%BB%BD%E8%BF%98%E5%9C%A8%E7%A9%BF%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=9&Refer=top)<br />
+8. [没想到都三月份还在穿羽绒服](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E9%83%BD%E4%B8%89%E6%9C%88%E4%BB%BD%E8%BF%98%E5%9C%A8%E7%A9%BF%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=8&Refer=top)<br />
+9. [小团团](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9B%A2%E5%9B%A2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
