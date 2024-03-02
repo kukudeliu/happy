@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 10:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 10:30:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [陈丽君 浪姐](https://s.weibo.com/weibo?q=%E9%99%88%E4%B8%BD%E5%90%9B%20%E6%B5%AA%E5%A7%90&t=31&band_rank=4&Refer=top)<br />
 5. [千人或有一例艾滋患者](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%BA%BA%E6%88%96%E6%9C%89%E4%B8%80%E4%BE%8B%E8%89%BE%E6%BB%8B%E6%82%A3%E8%80%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [博主称因称呼雷军为军儿遭小米投诉](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E7%A7%B0%E5%9B%A0%E7%A7%B0%E5%91%BC%E9%9B%B7%E5%86%9B%E4%B8%BA%E5%86%9B%E5%84%BF%E9%81%AD%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [小团团](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9B%A2%E5%9B%A2&t=31&band_rank=7&Refer=top)<br />
-8. [点读机女孩为学业放弃进娱乐圈](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%B8%BA%E5%AD%A6%E4%B8%9A%E6%94%BE%E5%BC%83%E8%BF%9B%E5%A8%B1%E4%B9%90%E5%9C%88%23&t=31&band_rank=8&Refer=top)<br />
+7. [点读机女孩为学业放弃进娱乐圈](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%B8%BA%E5%AD%A6%E4%B8%9A%E6%94%BE%E5%BC%83%E8%BF%9B%E5%A8%B1%E4%B9%90%E5%9C%88%23&t=31&band_rank=7&Refer=top)<br />
+8. [小团团](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9B%A2%E5%9B%A2&t=31&band_rank=8&Refer=top)<br />
 9. [杨幂好柿发生手机壳](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%A5%BD%E6%9F%BF%E5%8F%91%E7%94%9F%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
