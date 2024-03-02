@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 19:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 19:21:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [沈梦辰在巴黎被冻到过敏](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E5%9C%A8%E5%B7%B4%E9%BB%8E%E8%A2%AB%E5%86%BB%E5%88%B0%E8%BF%87%E6%95%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [姚安娜进组](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%AE%89%E5%A8%9C%E8%BF%9B%E7%BB%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [贾玲半披发](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%8D%8A%E6%8A%AB%E5%8F%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [英雄联盟官方回应霸哥事件](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9C%B8%E5%93%A5%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [河南一村靠种番茄大龄剩男全脱单](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E6%9D%91%E9%9D%A0%E7%A7%8D%E7%95%AA%E8%8C%84%E5%A4%A7%E9%BE%84%E5%89%A9%E7%94%B7%E5%85%A8%E8%84%B1%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
+8. [侃爷惹怒老丈人](https://s.weibo.com/weibo?q=%E4%BE%83%E7%88%B7%E6%83%B9%E6%80%92%E8%80%81%E4%B8%88%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
+9. [英雄联盟官方回应霸哥事件](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9C%B8%E5%93%A5%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
