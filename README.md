@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 13:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 13:59:02</h4></div>
 
 > 微博  
 
 1. [不要错把艾滋病当皮肤病](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E9%94%99%E6%8A%8A%E8%89%BE%E6%BB%8B%E7%97%85%E5%BD%93%E7%9A%AE%E8%82%A4%E7%97%85%23&t=31&band_rank=1&Refer=top)<br />
 2. [工藤新一卫衣](https://s.weibo.com/weibo?q=%E5%B7%A5%E8%97%A4%E6%96%B0%E4%B8%80%E5%8D%AB%E8%A1%A3&t=31&band_rank=2&Refer=top)<br />
 3. [全国两会常用表述辨析](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E5%B8%B8%E7%94%A8%E8%A1%A8%E8%BF%B0%E8%BE%A8%E6%9E%90%23&t=31&band_rank=3&Refer=top)<br />
-4. [肝癌多半是作出来的](https://s.weibo.com/weibo?q=%23%E8%82%9D%E7%99%8C%E5%A4%9A%E5%8D%8A%E6%98%AF%E4%BD%9C%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
-5. [G社拍的杨幂出场](https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E6%9D%A8%E5%B9%82%E5%87%BA%E5%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
+4. [G社拍的杨幂出场](https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E6%9D%A8%E5%B9%82%E5%87%BA%E5%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
+5. [肝癌多半是作出来的](https://s.weibo.com/weibo?q=%23%E8%82%9D%E7%99%8C%E5%A4%9A%E5%8D%8A%E6%98%AF%E4%BD%9C%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [范丞丞或将当中国新说唱导师](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%88%96%E5%B0%86%E5%BD%93%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%AF%B4%E5%94%B1%E5%AF%BC%E5%B8%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [农夫山泉](https://s.weibo.com/weibo?q=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89&t=31&band_rank=7&Refer=top)<br />
 8. [医生巧用砒霜挽救血癌女子生命](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%B7%A7%E7%94%A8%E7%A0%92%E9%9C%9C%E6%8C%BD%E6%95%91%E8%A1%80%E7%99%8C%E5%A5%B3%E5%AD%90%E7%94%9F%E5%91%BD%23&t=31&band_rank=8&Refer=top)<br />
