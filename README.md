@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 11:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 11:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中传回应点读机女孩休学](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BC%A0%E5%9B%9E%E5%BA%94%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BC%91%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子买牛肉发现是牛油上贴瘦肉](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%89%9B%E8%82%89%E5%8F%91%E7%8E%B0%E6%98%AF%E7%89%9B%E6%B2%B9%E4%B8%8A%E8%B4%B4%E7%98%A6%E8%82%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [没想到都三月份还在穿羽绒服](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E9%83%BD%E4%B8%89%E6%9C%88%E4%BB%BD%E8%BF%98%E5%9C%A8%E7%A9%BF%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [母亲回应儿子留学打搏击赛成植物人](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%84%BF%E5%AD%90%E7%95%99%E5%AD%A6%E6%89%93%E6%90%8F%E5%87%BB%E8%B5%9B%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [大卫波德维尔去世](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8D%AB%E6%B3%A2%E5%BE%B7%E7%BB%B4%E5%B0%94%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
