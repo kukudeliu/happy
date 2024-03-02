@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 23:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 23:56:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [刘昊然男大味](https://s.weibo.com/weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E7%94%B7%E5%A4%A7%E5%91%B3&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴唇色](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%94%87%E8%89%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [娃哈哈一箱6板24瓶全是干货](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E4%B8%80%E7%AE%B16%E6%9D%BF24%E7%93%B6%E5%85%A8%E6%98%AF%E5%B9%B2%E8%B4%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴镇宇夸徐若晗是天才型演员](https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%E5%A4%B8%E5%BE%90%E8%8B%A5%E6%99%97%E6%98%AF%E5%A4%A9%E6%89%8D%E5%9E%8B%E6%BC%94%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
+8. [大侦探9有王鸥](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A29%E6%9C%89%E7%8E%8B%E9%B8%A5%23&t=31&band_rank=8&Refer=top)<br />
 9. [卵巢癌早就有信号可能被你忽略了](https://s.weibo.com/weibo?q=%23%E5%8D%B5%E5%B7%A2%E7%99%8C%E6%97%A9%E5%B0%B1%E6%9C%89%E4%BF%A1%E5%8F%B7%E5%8F%AF%E8%83%BD%E8%A2%AB%E4%BD%A0%E5%BF%BD%E7%95%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
