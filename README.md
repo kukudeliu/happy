@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 23:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 23:22:01</h4></div>
 
 > 微博  
 
 1. [焉栩嘉承认谈过恋爱](https://s.weibo.com/weibo?q=%23%E7%84%89%E6%A0%A9%E5%98%89%E6%89%BF%E8%AE%A4%E8%B0%88%E8%BF%87%E6%81%8B%E7%88%B1%23&t=31&band_rank=1&Refer=top)<br />
-2. [迪丽热巴口紫](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%A3%E7%B4%AB%23&t=31&band_rank=2&Refer=top)<br />
+2. [迪丽热巴唇色](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%94%87%E8%89%B2&t=31&band_rank=2&Refer=top)<br />
 3. [神十七乘组默契配合度满分](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E4%B9%98%E7%BB%84%E9%BB%98%E5%A5%91%E9%85%8D%E5%90%88%E5%BA%A6%E6%BB%A1%E5%88%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [刘昊然男大味](https://s.weibo.com/weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E7%94%B7%E5%A4%A7%E5%91%B3&t=31&band_rank=4&Refer=top)<br />
 5. [娃哈哈一箱6板24瓶全是干货](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E4%B8%80%E7%AE%B16%E6%9D%BF24%E7%93%B6%E5%85%A8%E6%98%AF%E5%B9%B2%E8%B4%A7%23&t=31&band_rank=5&Refer=top)<br />
