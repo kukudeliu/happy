@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 21:20:03</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 21:21:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [这场盛会有何期待？](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E7%9B%9B%E4%BC%9A%E6%9C%89%E4%BD%95%E6%9C%9F%E5%BE%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [刘鑫代理律师被认定违规炒作江歌案](https://www.baidu.com/s?wd=%E5%88%98%E9%91%AB%E4%BB%A3%E7%90%86%E5%BE%8B%E5%B8%88%E8%A2%AB%E8%AE%A4%E5%AE%9A%E8%BF%9D%E8%A7%84%E7%82%92%E4%BD%9C%E6%B1%9F%E6%AD%8C%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [我在新加坡做外卖生意，收入过亿](https://www.baidu.com/s?wd=%E6%88%91%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%81%9A%E5%A4%96%E5%8D%96%E7%94%9F%E6%84%8F%EF%BC%8C%E6%94%B6%E5%85%A5%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [范丞丞或将当中国新说唱导师](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%88%96%E5%B0%86%E5%BD%93%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%AF%B4%E5%94%B1%E5%AF%BC%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [安可舞台翻车](https://www.baidu.com/s?wd=%E5%AE%89%E5%8F%AF%E8%88%9E%E5%8F%B0%E7%BF%BB%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小S回应公公去世](https://www.baidu.com/s?wd=%E5%B0%8FS%E5%9B%9E%E5%BA%94%E5%85%AC%E5%85%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [彩票店回应女生花4元中500万](https://www.baidu.com/s?wd=%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%8A%B14%E5%85%83%E4%B8%AD500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣68岁男子纵火烧菜市场](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A368%E5%B2%81%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E7%83%A7%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [这场盛会有何期待？](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E7%9B%9B%E4%BC%9A%E6%9C%89%E4%BD%95%E6%9C%9F%E5%BE%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [刘鑫代理律师被认定违规炒作江歌案](https://www.baidu.com/s?wd=%E5%88%98%E9%91%AB%E4%BB%A3%E7%90%86%E5%BE%8B%E5%B8%88%E8%A2%AB%E8%AE%A4%E5%AE%9A%E8%BF%9D%E8%A7%84%E7%82%92%E4%BD%9C%E6%B1%9F%E6%AD%8C%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [我在新加坡做外卖生意，收入过亿](https://www.baidu.com/s?wd=%E6%88%91%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%81%9A%E5%A4%96%E5%8D%96%E7%94%9F%E6%84%8F%EF%BC%8C%E6%94%B6%E5%85%A5%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [范丞丞或将当中国新说唱导师](https://www.baidu.com/s?wd=%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%88%96%E5%B0%86%E5%BD%93%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%AF%B4%E5%94%B1%E5%AF%BC%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [安可舞台翻车](https://www.baidu.com/s?wd=%E5%AE%89%E5%8F%AF%E8%88%9E%E5%8F%B0%E7%BF%BB%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小S回应公公去世](https://www.baidu.com/s?wd=%E5%B0%8FS%E5%9B%9E%E5%BA%94%E5%85%AC%E5%85%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [彩票店回应女生花4元中500万](https://www.baidu.com/s?wd=%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%8A%B14%E5%85%83%E4%B8%AD500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣68岁男子纵火烧菜市场](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A368%E5%B2%81%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E7%83%A7%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
