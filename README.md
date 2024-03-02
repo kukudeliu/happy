@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 11:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 11:14:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [宝妈称被踢出群聊少发工资逼辞职](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E7%A7%B0%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4%E8%81%8A%E5%B0%91%E5%8F%91%E5%B7%A5%E8%B5%84%E9%80%BC%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [代表委员为中国式现代化建设献良策](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%A7%94%E5%91%98%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%8C%AE%E8%89%AF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网购999足金戒指到手纯度仅为14k](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD999%E8%B6%B3%E9%87%91%E6%88%92%E6%8C%87%E5%88%B0%E6%89%8B%E7%BA%AF%E5%BA%A6%E4%BB%85%E4%B8%BA14k&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [孩子为领游戏皮肤家长被骗7.8万元](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%BA%E9%A2%86%E6%B8%B8%E6%88%8F%E7%9A%AE%E8%82%A4%E5%AE%B6%E9%95%BF%E8%A2%AB%E9%AA%977.8%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [泰国游客来华热情高涨](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%9D%A5%E5%8D%8E%E7%83%AD%E6%83%85%E9%AB%98%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姚安娜回应演技争议](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E6%BC%94%E6%8A%80%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [家长让自家孩子不上早课自然醒](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%AE%A9%E8%87%AA%E5%AE%B6%E5%AD%A9%E5%AD%90%E4%B8%8D%E4%B8%8A%E6%97%A9%E8%AF%BE%E8%87%AA%E7%84%B6%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [奔驰礼让救护车被罚款？](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E7%A4%BC%E8%AE%A9%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E7%BD%9A%E6%AC%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [宝妈称被踢出群聊少发工资逼辞职](https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E7%A7%B0%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4%E8%81%8A%E5%B0%91%E5%8F%91%E5%B7%A5%E8%B5%84%E9%80%BC%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [代表委员为中国式现代化建设献良策](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%A7%94%E5%91%98%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%8C%AE%E8%89%AF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网购999足金戒指到手纯度仅为14k](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD999%E8%B6%B3%E9%87%91%E6%88%92%E6%8C%87%E5%88%B0%E6%89%8B%E7%BA%AF%E5%BA%A6%E4%BB%85%E4%B8%BA14k&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [孩子为领游戏皮肤家长被骗7.8万元](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E4%B8%BA%E9%A2%86%E6%B8%B8%E6%88%8F%E7%9A%AE%E8%82%A4%E5%AE%B6%E9%95%BF%E8%A2%AB%E9%AA%977.8%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [泰国游客来华热情高涨](https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%9D%A5%E5%8D%8E%E7%83%AD%E6%83%85%E9%AB%98%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [姚安娜回应演技争议](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E6%BC%94%E6%8A%80%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [家长让自家孩子不上早课自然醒](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%AE%A9%E8%87%AA%E5%AE%B6%E5%AD%A9%E5%AD%90%E4%B8%8D%E4%B8%8A%E6%97%A9%E8%AF%BE%E8%87%AA%E7%84%B6%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [奔驰礼让救护车被罚款？](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E7%A4%BC%E8%AE%A9%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E7%BD%9A%E6%AC%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
