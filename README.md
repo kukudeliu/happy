@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 14:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 14:14:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [G社拍的杨幂出场](https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E6%9D%A8%E5%B9%82%E5%87%BA%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [蔡英文办公室卫兵自戕现场画面](https://s.weibo.com/weibo?q=%23%E8%94%A1%E8%8B%B1%E6%96%87%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8D%AB%E5%85%B5%E8%87%AA%E6%88%95%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [庆余年2海外先导预告](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B42%E6%B5%B7%E5%A4%96%E5%85%88%E5%AF%BC%E9%A2%84%E5%91%8A&t=31&band_rank=8&Refer=top)<br />
-9. [小哥称武汉一中学区别对待师生外卖](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%93%A5%E7%A7%B0%E6%AD%A6%E6%B1%89%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%8C%BA%E5%88%AB%E5%AF%B9%E5%BE%85%E5%B8%88%E7%94%9F%E5%A4%96%E5%8D%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵今麦系带粉裙](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%B3%BB%E5%B8%A6%E7%B2%89%E8%A3%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
