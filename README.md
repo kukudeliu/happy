@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 22:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 22:45:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [建议对6岁以下75岁以上公民免费医疗](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%AF%B96%E5%B2%81%E4%BB%A5%E4%B8%8B75%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%85%AC%E6%B0%91%E5%85%8D%E8%B4%B9%E5%8C%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明地震](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小S回应公公去世](https://www.baidu.com/s?wd=%E5%B0%8FS%E5%9B%9E%E5%BA%94%E5%85%AC%E5%85%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [彩票店回应女生花4元中500万](https://www.baidu.com/s?wd=%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%8A%B14%E5%85%83%E4%B8%AD500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家建议洋葱式穿衣法防春寒](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%B4%8B%E8%91%B1%E5%BC%8F%E7%A9%BF%E8%A1%A3%E6%B3%95%E9%98%B2%E6%98%A5%E5%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣68岁男子纵火烧菜市场](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A368%E5%B2%81%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E7%83%A7%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [建议对6岁以下75岁以上公民免费医疗](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%AF%B96%E5%B2%81%E4%BB%A5%E4%B8%8B75%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%85%AC%E6%B0%91%E5%85%8D%E8%B4%B9%E5%8C%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昆明地震](https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小S回应公公去世](https://www.baidu.com/s?wd=%E5%B0%8FS%E5%9B%9E%E5%BA%94%E5%85%AC%E5%85%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [彩票店回应女生花4元中500万](https://www.baidu.com/s?wd=%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%8A%B14%E5%85%83%E4%B8%AD500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [专家建议洋葱式穿衣法防春寒](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%B4%8B%E8%91%B1%E5%BC%8F%E7%A9%BF%E8%A1%A3%E6%B3%95%E9%98%B2%E6%98%A5%E5%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣68岁男子纵火烧菜市场](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A368%E5%B2%81%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E7%83%A7%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
