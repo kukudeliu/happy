@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 00:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 00:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中国科学家研究出无刺草鱼](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E7%A9%B6%E5%87%BA%E6%97%A0%E5%88%BA%E8%8D%89%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [快递员得知新规两天后离职](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E5%91%98%E5%BE%97%E7%9F%A5%E6%96%B0%E8%A7%84%E4%B8%A4%E5%A4%A9%E5%90%8E%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张小斐主演电影票房破100亿](https://www.baidu.com/s?wd=%E5%BC%A0%E5%B0%8F%E6%96%90%E4%B8%BB%E6%BC%94%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B4100%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全红婵给英国闺蜜按摩放松](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%BB%99%E8%8B%B1%E5%9B%BD%E9%97%BA%E8%9C%9C%E6%8C%89%E6%91%A9%E6%94%BE%E6%9D%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美商务部长惊人言论引网友嘲讽](https://www.baidu.com/s?wd=%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E6%83%8A%E4%BA%BA%E8%A8%80%E8%AE%BA%E5%BC%95%E7%BD%91%E5%8F%8B%E5%98%B2%E8%AE%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣68岁男子纵火烧菜市场](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A368%E5%B2%81%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E7%83%A7%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中国科学家研究出无刺草鱼](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E7%A9%B6%E5%87%BA%E6%97%A0%E5%88%BA%E8%8D%89%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [快递员得知新规两天后离职](https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E5%91%98%E5%BE%97%E7%9F%A5%E6%96%B0%E8%A7%84%E4%B8%A4%E5%A4%A9%E5%90%8E%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张小斐主演电影票房破100亿](https://www.baidu.com/s?wd=%E5%BC%A0%E5%B0%8F%E6%96%90%E4%B8%BB%E6%BC%94%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B4100%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全红婵给英国闺蜜按摩放松](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%BB%99%E8%8B%B1%E5%9B%BD%E9%97%BA%E8%9C%9C%E6%8C%89%E6%91%A9%E6%94%BE%E6%9D%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美商务部长惊人言论引网友嘲讽](https://www.baidu.com/s?wd=%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E6%83%8A%E4%BA%BA%E8%A8%80%E8%AE%BA%E5%BC%95%E7%BD%91%E5%8F%8B%E5%98%B2%E8%AE%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣68岁男子纵火烧菜市场](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A368%E5%B2%81%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E7%83%A7%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
