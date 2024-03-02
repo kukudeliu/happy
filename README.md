@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 19:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 19:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [102岁“全球最潮奶奶”去世](https://www.baidu.com/s?wd=102%E5%B2%81%E2%80%9C%E5%85%A8%E7%90%83%E6%9C%80%E6%BD%AE%E5%A5%B6%E5%A5%B6%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小S回应公公去世](https://www.baidu.com/s?wd=%E5%B0%8FS%E5%9B%9E%E5%BA%94%E5%85%AC%E5%85%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家建议洋葱式穿衣法防春寒](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%B4%8B%E8%91%B1%E5%BC%8F%E7%A9%BF%E8%A1%A3%E6%B3%95%E9%98%B2%E6%98%A5%E5%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曾经火爆的土木专业为何不香了](https://www.baidu.com/s?wd=%E6%9B%BE%E7%BB%8F%E7%81%AB%E7%88%86%E7%9A%84%E5%9C%9F%E6%9C%A8%E4%B8%93%E4%B8%9A%E4%B8%BA%E4%BD%95%E4%B8%8D%E9%A6%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育部：学前教育生师比有所改善](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2%E7%94%9F%E5%B8%88%E6%AF%94%E6%9C%89%E6%89%80%E6%94%B9%E5%96%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣68岁男子纵火烧菜市场](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A368%E5%B2%81%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E7%83%A7%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [102岁“全球最潮奶奶”去世](https://www.baidu.com/s?wd=102%E5%B2%81%E2%80%9C%E5%85%A8%E7%90%83%E6%9C%80%E6%BD%AE%E5%A5%B6%E5%A5%B6%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [小S回应公公去世](https://www.baidu.com/s?wd=%E5%B0%8FS%E5%9B%9E%E5%BA%94%E5%85%AC%E5%85%AC%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [专家建议洋葱式穿衣法防春寒](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%B4%8B%E8%91%B1%E5%BC%8F%E7%A9%BF%E8%A1%A3%E6%B3%95%E9%98%B2%E6%98%A5%E5%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曾经火爆的土木专业为何不香了](https://www.baidu.com/s?wd=%E6%9B%BE%E7%BB%8F%E7%81%AB%E7%88%86%E7%9A%84%E5%9C%9F%E6%9C%A8%E4%B8%93%E4%B8%9A%E4%B8%BA%E4%BD%95%E4%B8%8D%E9%A6%99%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育部：学前教育生师比有所改善](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2%E7%94%9F%E5%B8%88%E6%AF%94%E6%9C%89%E6%89%80%E6%94%B9%E5%96%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣68岁男子纵火烧菜市场](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A368%E5%B2%81%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E7%83%A7%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
