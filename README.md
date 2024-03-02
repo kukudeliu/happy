@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 05:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 05:54:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中国科学家研究出无刺草鱼](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E7%A9%B6%E5%87%BA%E6%97%A0%E5%88%BA%E8%8D%89%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [102岁“全球最潮奶奶”去世](https://www.baidu.com/s?wd=102%E5%B2%81%E2%80%9C%E5%85%A8%E7%90%83%E6%9C%80%E6%BD%AE%E5%A5%B6%E5%A5%B6%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [鸟儿被内蒙古的风封印了](https://www.baidu.com/s?wd=%E9%B8%9F%E5%84%BF%E8%A2%AB%E5%86%85%E8%92%99%E5%8F%A4%E7%9A%84%E9%A3%8E%E5%B0%81%E5%8D%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央视主持人金龟子升级当姥姥](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%87%91%E9%BE%9F%E5%AD%90%E5%8D%87%E7%BA%A7%E5%BD%93%E5%A7%A5%E5%A7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [委员建议启动农民养老金统一上调](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%90%AF%E5%8A%A8%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E7%BB%9F%E4%B8%80%E4%B8%8A%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣68岁男子纵火烧菜市场](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A368%E5%B2%81%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E7%83%A7%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中国科学家研究出无刺草鱼](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E7%A9%B6%E5%87%BA%E6%97%A0%E5%88%BA%E8%8D%89%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [102岁“全球最潮奶奶”去世](https://www.baidu.com/s?wd=102%E5%B2%81%E2%80%9C%E5%85%A8%E7%90%83%E6%9C%80%E6%BD%AE%E5%A5%B6%E5%A5%B6%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [鸟儿被内蒙古的风封印了](https://www.baidu.com/s?wd=%E9%B8%9F%E5%84%BF%E8%A2%AB%E5%86%85%E8%92%99%E5%8F%A4%E7%9A%84%E9%A3%8E%E5%B0%81%E5%8D%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央视主持人金龟子升级当姥姥](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%87%91%E9%BE%9F%E5%AD%90%E5%8D%87%E7%BA%A7%E5%BD%93%E5%A7%A5%E5%A7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [委员建议启动农民养老金统一上调](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%90%AF%E5%8A%A8%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E7%BB%9F%E4%B8%80%E4%B8%8A%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆辟谣68岁男子纵火烧菜市场](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A368%E5%B2%81%E7%94%B7%E5%AD%90%E7%BA%B5%E7%81%AB%E7%83%A7%E8%8F%9C%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
