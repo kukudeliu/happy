@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 10:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 10:10:02</h4></div>
 
 > 微博  
 
 1. [曼谷夜市现烤小臂一样长的大虾](https://s.weibo.com/weibo?q=%E6%9B%BC%E8%B0%B7%E5%A4%9C%E5%B8%82%E7%8E%B0%E7%83%A4%E5%B0%8F%E8%87%82%E4%B8%80%E6%A0%B7%E9%95%BF%E7%9A%84%E5%A4%A7%E8%99%BE&t=31&band_rank=1&Refer=top)<br />
 2. [家长称自家孩子不上早课睡到自然醒](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E7%A7%B0%E8%87%AA%E5%AE%B6%E5%AD%A9%E5%AD%90%E4%B8%8D%E4%B8%8A%E6%97%A9%E8%AF%BE%E7%9D%A1%E5%88%B0%E8%87%AA%E7%84%B6%E9%86%92%23&t=31&band_rank=2&Refer=top)<br />
 3. [聚焦2024年全国两会](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A62024%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [博主称因称呼雷军为军儿遭小米投诉](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E7%A7%B0%E5%9B%A0%E7%A7%B0%E5%91%BC%E9%9B%B7%E5%86%9B%E4%B8%BA%E5%86%9B%E5%84%BF%E9%81%AD%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%23&t=31&band_rank=4&Refer=top)<br />
-5. [接下来两个月是养乳腺的好时机](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%B8%8B%E6%9D%A5%E4%B8%A4%E4%B8%AA%E6%9C%88%E6%98%AF%E5%85%BB%E4%B9%B3%E8%85%BA%E7%9A%84%E5%A5%BD%E6%97%B6%E6%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
+4. [接下来两个月是养乳腺的好时机](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%B8%8B%E6%9D%A5%E4%B8%A4%E4%B8%AA%E6%9C%88%E6%98%AF%E5%85%BB%E4%B9%B3%E8%85%BA%E7%9A%84%E5%A5%BD%E6%97%B6%E6%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
+5. [博主称因称呼雷军为军儿遭小米投诉](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E7%A7%B0%E5%9B%A0%E7%A7%B0%E5%91%BC%E9%9B%B7%E5%86%9B%E4%B8%BA%E5%86%9B%E5%84%BF%E9%81%AD%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [小团团](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9B%A2%E5%9B%A2&t=31&band_rank=6&Refer=top)<br />
 7. [千人或有一例艾滋患者](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%BA%BA%E6%88%96%E6%9C%89%E4%B8%80%E4%BE%8B%E8%89%BE%E6%BB%8B%E6%82%A3%E8%80%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨幂好柿发生手机壳](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%A5%BD%E6%9F%BF%E5%8F%91%E7%94%9F%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=8&Refer=top)<br />
