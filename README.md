@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 11:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 11:54:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [聚焦2024年全国两会](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A62024%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子买牛肉发现是牛油上贴瘦肉](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%89%9B%E8%82%89%E5%8F%91%E7%8E%B0%E6%98%AF%E7%89%9B%E6%B2%B9%E4%B8%8A%E8%B4%B4%E7%98%A6%E8%82%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [陈丽君 浪姐](https://s.weibo.com/weibo?q=%E9%99%88%E4%B8%BD%E5%90%9B%20%E6%B5%AA%E5%A7%90&t=31&band_rank=5&Refer=top)<br />
-6. [官方回应网传青海发洪水](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%9D%92%E6%B5%B7%E5%8F%91%E6%B4%AA%E6%B0%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [中传回应点读机女孩休学](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BC%A0%E5%9B%9E%E5%BA%94%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BC%91%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [王栎鑫比许凯了解谭松韵](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E6%AF%94%E8%AE%B8%E5%87%AF%E4%BA%86%E8%A7%A3%E8%B0%AD%E6%9D%BE%E9%9F%B5%23&t=31&band_rank=8&Refer=top)<br />
+6. [王栎鑫比许凯了解谭松韵](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E6%AF%94%E8%AE%B8%E5%87%AF%E4%BA%86%E8%A7%A3%E8%B0%AD%E6%9D%BE%E9%9F%B5%23&t=31&band_rank=6&Refer=top)<br />
+7. [官方回应网传青海发洪水](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%9D%92%E6%B5%B7%E5%8F%91%E6%B4%AA%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [中传回应点读机女孩休学](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BC%A0%E5%9B%9E%E5%BA%94%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BC%91%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
 9. [曼谷夜市现烤小臂一样长的大虾](https://s.weibo.com/weibo?q=%E6%9B%BC%E8%B0%B7%E5%A4%9C%E5%B8%82%E7%8E%B0%E7%83%A4%E5%B0%8F%E8%87%82%E4%B8%80%E6%A0%B7%E9%95%BF%E7%9A%84%E5%A4%A7%E8%99%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -19,11 +19,11 @@
 
 1. [习近平在中央党校培训班作重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%B8%AD%E5%A4%AE%E5%85%9A%E6%A0%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [姐弟骑电动三轮 交警：师傅几岁了](https://www.baidu.com/s?wd=%E5%A7%90%E5%BC%9F%E9%AA%91%E7%94%B5%E5%8A%A8%E4%B8%89%E8%BD%AE+%E4%BA%A4%E8%AD%A6%EF%BC%9A%E5%B8%88%E5%82%85%E5%87%A0%E5%B2%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [网传青海大坝溃堤发生洪水 当地回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E9%9D%92%E6%B5%B7%E5%A4%A7%E5%9D%9D%E6%BA%83%E5%A0%A4%E5%8F%91%E7%94%9F%E6%B4%AA%E6%B0%B4+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [青海大坝溃堤未造成人员伤亡](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%A4%A7%E5%9D%9D%E6%BA%83%E5%A0%A4%E6%9C%AA%E9%80%A0%E6%88%90%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [代表委员为中国式现代化建设献良策](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%A7%94%E5%91%98%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%8C%AE%E8%89%AF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网购999足金戒指到手纯度仅为14k](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD999%E8%B6%B3%E9%87%91%E6%88%92%E6%8C%87%E5%88%B0%E6%89%8B%E7%BA%AF%E5%BA%A6%E4%BB%85%E4%B8%BA14k&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚安娜回应演技争议](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E6%BC%94%E6%8A%80%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王者荣耀被梦泪踢出直播间](https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%A2%AB%E6%A2%A6%E6%B3%AA%E8%B8%A2%E5%87%BA%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [专家：中美股市出现两极化是常态](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%AD%E7%BE%8E%E8%82%A1%E5%B8%82%E5%87%BA%E7%8E%B0%E4%B8%A4%E6%9E%81%E5%8C%96%E6%98%AF%E5%B8%B8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#2024全国两会#](https://www.baidu.com/s?wd=%232024%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [奔驰礼让救护车被罚款？](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E7%A4%BC%E8%AE%A9%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E7%BD%9A%E6%AC%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -31,10 +31,10 @@
 
 1. [习近平在中央党校培训班作重要指示](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%B8%AD%E5%A4%AE%E5%85%9A%E6%A0%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [姐弟骑电动三轮 交警：师傅几岁了](https://www.baidu.com/s?wd=%E5%A7%90%E5%BC%9F%E9%AA%91%E7%94%B5%E5%8A%A8%E4%B8%89%E8%BD%AE+%E4%BA%A4%E8%AD%A6%EF%BC%9A%E5%B8%88%E5%82%85%E5%87%A0%E5%B2%81%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [网传青海大坝溃堤发生洪水 当地回应](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E9%9D%92%E6%B5%B7%E5%A4%A7%E5%9D%9D%E6%BA%83%E5%A0%A4%E5%8F%91%E7%94%9F%E6%B4%AA%E6%B0%B4+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [青海大坝溃堤未造成人员伤亡](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%A4%A7%E5%9D%9D%E6%BA%83%E5%A0%A4%E6%9C%AA%E9%80%A0%E6%88%90%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [代表委员为中国式现代化建设献良策](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%A7%94%E5%91%98%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%8C%AE%E8%89%AF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网购999足金戒指到手纯度仅为14k](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD999%E8%B6%B3%E9%87%91%E6%88%92%E6%8C%87%E5%88%B0%E6%89%8B%E7%BA%AF%E5%BA%A6%E4%BB%85%E4%B8%BA14k&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚安娜回应演技争议](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E6%BC%94%E6%8A%80%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王者荣耀被梦泪踢出直播间](https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%A2%AB%E6%A2%A6%E6%B3%AA%E8%B8%A2%E5%87%BA%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [专家：中美股市出现两极化是常态](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%AD%E7%BE%8E%E8%82%A1%E5%B8%82%E5%87%BA%E7%8E%B0%E4%B8%A4%E6%9E%81%E5%8C%96%E6%98%AF%E5%B8%B8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#2024全国两会#](https://www.baidu.com/s?wd=%232024%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [奔驰礼让救护车被罚款？](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E7%A4%BC%E8%AE%A9%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E7%BD%9A%E6%AC%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
