@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 11:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 11:35:01</h4></div>
 
 > 微博  
 
-1. [点读机女孩发视频称手术很成功](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E5%8F%91%E8%A7%86%E9%A2%91%E7%A7%B0%E6%89%8B%E6%9C%AF%E5%BE%88%E6%88%90%E5%8A%9F%23&t=31&band_rank=1&Refer=top)<br />
-2. [找到了4000工资花不完的方法](https://s.weibo.com/weibo?q=%23%E6%89%BE%E5%88%B0%E4%BA%864000%E5%B7%A5%E8%B5%84%E8%8A%B1%E4%B8%8D%E5%AE%8C%E7%9A%84%E6%96%B9%E6%B3%95%23&t=31&band_rank=2&Refer=top)<br />
+1. [找到了4000工资花不完的方法](https://s.weibo.com/weibo?q=%23%E6%89%BE%E5%88%B0%E4%BA%864000%E5%B7%A5%E8%B5%84%E8%8A%B1%E4%B8%8D%E5%AE%8C%E7%9A%84%E6%96%B9%E6%B3%95%23&t=31&band_rank=1&Refer=top)<br />
+2. [点读机女孩发视频称手术很成功](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E5%8F%91%E8%A7%86%E9%A2%91%E7%A7%B0%E6%89%8B%E6%9C%AF%E5%BE%88%E6%88%90%E5%8A%9F%23&t=31&band_rank=2&Refer=top)<br />
 3. [聚焦2024年全国两会](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A62024%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [陈丽君 浪姐](https://s.weibo.com/weibo?q=%E9%99%88%E4%B8%BD%E5%90%9B%20%E6%B5%AA%E5%A7%90&t=31&band_rank=4&Refer=top)<br />
 5. [女子买牛肉发现是牛油上贴瘦肉](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%89%9B%E8%82%89%E5%8F%91%E7%8E%B0%E6%98%AF%E7%89%9B%E6%B2%B9%E4%B8%8A%E8%B4%B4%E7%98%A6%E8%82%89%23&t=31&band_rank=5&Refer=top)<br />
@@ -23,7 +23,7 @@
 4. [代表委员为中国式现代化建设献良策](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%A7%94%E5%91%98%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%8C%AE%E8%89%AF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网购999足金戒指到手纯度仅为14k](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD999%E8%B6%B3%E9%87%91%E6%88%92%E6%8C%87%E5%88%B0%E6%89%8B%E7%BA%AF%E5%BA%A6%E4%BB%85%E4%B8%BA14k&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚安娜回应演技争议](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E6%BC%94%E6%8A%80%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王者荣耀被梦泪踢出直播间](https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%A2%AB%E6%A2%A6%E6%B3%AA%E8%B8%A2%E5%87%BA%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [博主称因称呼雷军为军儿遭小米投诉](https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%A7%B0%E5%9B%A0%E7%A7%B0%E5%91%BC%E9%9B%B7%E5%86%9B%E4%B8%BA%E5%86%9B%E5%84%BF%E9%81%AD%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#2024全国两会#](https://www.baidu.com/s?wd=%232024%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [奔驰礼让救护车被罚款？](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E7%A4%BC%E8%AE%A9%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E7%BD%9A%E6%AC%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [代表委员为中国式现代化建设献良策](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%A7%94%E5%91%98%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%8C%AE%E8%89%AF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网购999足金戒指到手纯度仅为14k](https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD999%E8%B6%B3%E9%87%91%E6%88%92%E6%8C%87%E5%88%B0%E6%89%8B%E7%BA%AF%E5%BA%A6%E4%BB%85%E4%B8%BA14k&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [姚安娜回应演技争议](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E6%BC%94%E6%8A%80%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王者荣耀被梦泪踢出直播间](https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%A2%AB%E6%A2%A6%E6%B3%AA%E8%B8%A2%E5%87%BA%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [博主称因称呼雷军为军儿遭小米投诉](https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%A7%B0%E5%9B%A0%E7%A7%B0%E5%91%BC%E9%9B%B7%E5%86%9B%E4%B8%BA%E5%86%9B%E5%84%BF%E9%81%AD%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#2024全国两会#](https://www.baidu.com/s?wd=%232024%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [奔驰礼让救护车被罚款？](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E7%A4%BC%E8%AE%A9%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E7%BD%9A%E6%AC%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
