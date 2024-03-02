@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 17:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 17:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [给男朋友灌输了一点男德思想](https://s.weibo.com/weibo?q=%23%E7%BB%99%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%81%8C%E8%BE%93%E4%BA%86%E4%B8%80%E7%82%B9%E7%94%B7%E5%BE%B7%E6%80%9D%E6%83%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [快递新规](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E6%96%B0%E8%A7%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [地铁上偶遇吴磊](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E4%B8%8A%E5%81%B6%E9%81%87%E5%90%B4%E7%A3%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [高危HPV](https://s.weibo.com/weibo?q=%E9%AB%98%E5%8D%B1HPV&t=31&band_rank=8&Refer=top)<br />
-9. [权顺荣wvs](https://s.weibo.com/weibo?q=%E6%9D%83%E9%A1%BA%E8%8D%A3wvs&t=31&band_rank=9&Refer=top)<br />
+8. [权顺荣wvs](https://s.weibo.com/weibo?q=%E6%9D%83%E9%A1%BA%E8%8D%A3wvs&t=31&band_rank=8&Refer=top)<br />
+9. [官方通报村支书坐拥60亩地](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%91%E6%94%AF%E4%B9%A6%E5%9D%90%E6%8B%A560%E4%BA%A9%E5%9C%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
