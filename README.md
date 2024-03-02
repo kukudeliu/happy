@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 14:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 14:37:01</h4></div>
 
 > 微博  
 
 1. [范丞丞或将当中国新说唱导师](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%88%96%E5%B0%86%E5%BD%93%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%AF%B4%E5%94%B1%E5%AF%BC%E5%B8%88%23&t=31&band_rank=1&Refer=top)<br />
-2. [农夫山泉](https://s.weibo.com/weibo?q=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89&t=31&band_rank=2&Refer=top)<br />
+2. [工藤新一卫衣](https://s.weibo.com/weibo?q=%E5%B7%A5%E8%97%A4%E6%96%B0%E4%B8%80%E5%8D%AB%E8%A1%A3&t=31&band_rank=2&Refer=top)<br />
 3. [全国两会常用表述辨析](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E5%B8%B8%E7%94%A8%E8%A1%A8%E8%BF%B0%E8%BE%A8%E6%9E%90%23&t=31&band_rank=3&Refer=top)<br />
-4. [工藤新一卫衣](https://s.weibo.com/weibo?q=%E5%B7%A5%E8%97%A4%E6%96%B0%E4%B8%80%E5%8D%AB%E8%A1%A3&t=31&band_rank=4&Refer=top)<br />
+4. [农夫山泉](https://s.weibo.com/weibo?q=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89&t=31&band_rank=4&Refer=top)<br />
 5. [吴谢宇案死刑复核裁定书](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E6%A1%88%E6%AD%BB%E5%88%91%E5%A4%8D%E6%A0%B8%E8%A3%81%E5%AE%9A%E4%B9%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [女子自述遭遇职场霸凌办公桌贴满钟馗](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%87%AA%E8%BF%B0%E9%81%AD%E9%81%87%E8%81%8C%E5%9C%BA%E9%9C%B8%E5%87%8C%E5%8A%9E%E5%85%AC%E6%A1%8C%E8%B4%B4%E6%BB%A1%E9%92%9F%E9%A6%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [医生巧用砒霜挽救血癌女子生命](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%B7%A7%E7%94%A8%E7%A0%92%E9%9C%9C%E6%8C%BD%E6%95%91%E8%A1%80%E7%99%8C%E5%A5%B3%E5%AD%90%E7%94%9F%E5%91%BD%23&t=31&band_rank=7&Refer=top)<br />
