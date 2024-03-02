@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 15:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 15:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [医生巧用砒霜挽救血癌女子生命](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%B7%A7%E7%94%A8%E7%A0%92%E9%9C%9C%E6%8C%BD%E6%95%91%E8%A1%80%E7%99%8C%E5%A5%B3%E5%AD%90%E7%94%9F%E5%91%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [蔡英文办公室卫兵自戕现场画面](https://s.weibo.com/weibo?q=%23%E8%94%A1%E8%8B%B1%E6%96%87%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8D%AB%E5%85%B5%E8%87%AA%E6%88%95%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [庆余年2海外先导预告](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B42%E6%B5%B7%E5%A4%96%E5%85%88%E5%AF%BC%E9%A2%84%E5%91%8A&t=31&band_rank=8&Refer=top)<br />
-9. [赵今麦系带粉裙](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%B3%BB%E5%B8%A6%E7%B2%89%E8%A3%99%23&t=31&band_rank=9&Refer=top)<br />
+9. [娃哈哈](https://s.weibo.com/weibo?q=%E5%A8%83%E5%93%88%E5%93%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
