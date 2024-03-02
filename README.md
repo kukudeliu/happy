@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 19:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 19:32:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [沈梦辰在巴黎被冻到过敏](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E5%9C%A8%E5%B7%B4%E9%BB%8E%E8%A2%AB%E5%86%BB%E5%88%B0%E8%BF%87%E6%95%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [爱上阮经天](https://s.weibo.com/weibo?q=%E7%88%B1%E4%B8%8A%E9%98%AE%E7%BB%8F%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
 8. [严浩翔打赏事件女主播报警](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%89%93%E8%B5%8F%E4%BA%8B%E4%BB%B6%E5%A5%B3%E4%B8%BB%E6%92%AD%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [姚安娜进组](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%AE%89%E5%A8%9C%E8%BF%9B%E7%BB%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [贾玲半披发](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%8D%8A%E6%8A%AB%E5%8F%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
