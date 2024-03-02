@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 18:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 18:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全红婵给英国闺蜜按摩放松](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%BB%99%E8%8B%B1%E5%9B%BD%E9%97%BA%E8%9C%9C%E6%8C%89%E6%91%A9%E6%94%BE%E6%9D%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [给男朋友灌输了一点男德思想](https://s.weibo.com/weibo?q=%23%E7%BB%99%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%81%8C%E8%BE%93%E4%BA%86%E4%B8%80%E7%82%B9%E7%94%B7%E5%BE%B7%E6%80%9D%E6%83%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [地铁上偶遇吴磊](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E4%B8%8A%E5%81%B6%E9%81%87%E5%90%B4%E7%A3%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [专家建议洋葱式穿衣法防春寒](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%B4%8B%E8%91%B1%E5%BC%8F%E7%A9%BF%E8%A1%A3%E6%B3%95%E9%98%B2%E6%98%A5%E5%AF%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [英雄联盟官方回应霸哥事件](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9C%B8%E5%93%A5%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
