@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 17:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [给男朋友灌输了一点男德思想](https://s.weibo.com/weibo?q=%23%E7%BB%99%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%81%8C%E8%BE%93%E4%BA%86%E4%B8%80%E7%82%B9%E7%94%B7%E5%BE%B7%E6%80%9D%E6%83%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [专家建议洋葱式穿衣法防春寒](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%B4%8B%E8%91%B1%E5%BC%8F%E7%A9%BF%E8%A1%A3%E6%B3%95%E9%98%B2%E6%98%A5%E5%AF%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [地铁上偶遇吴磊](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E4%B8%8A%E5%81%B6%E9%81%87%E5%90%B4%E7%A3%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩国民众排队4个小时告别福宝](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B0%91%E4%BC%97%E6%8E%92%E9%98%9F4%E4%B8%AA%E5%B0%8F%E6%97%B6%E5%91%8A%E5%88%AB%E7%A6%8F%E5%AE%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [车辆坠河大爷抡钉耙智救落水司机](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%BE%86%E5%9D%A0%E6%B2%B3%E5%A4%A7%E7%88%B7%E6%8A%A1%E9%92%89%E8%80%99%E6%99%BA%E6%95%91%E8%90%BD%E6%B0%B4%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
