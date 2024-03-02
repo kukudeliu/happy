@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 16:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-02 16:06:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [蔡英文办公室卫兵自戕现场画面曝光](https://www.baidu.com/s?wd=%E8%94%A1%E8%8B%B1%E6%96%87%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8D%AB%E5%85%B5%E8%87%AA%E6%88%95%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大哥回应直播间卖活驴：卖了上千头](https://www.baidu.com/s?wd=%E5%A4%A7%E5%93%A5%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E6%B4%BB%E9%A9%B4%EF%BC%9A%E5%8D%96%E4%BA%86%E4%B8%8A%E5%8D%83%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [医生巧用砒霜挽救血癌女子生命](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%B7%A7%E7%94%A8%E7%A0%92%E9%9C%9C%E6%8C%BD%E6%95%91%E8%A1%80%E7%99%8C%E5%A5%B3%E5%AD%90%E7%94%9F%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [家长让自家孩子不上早课自然醒](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%AE%A9%E8%87%AA%E5%AE%B6%E5%AD%A9%E5%AD%90%E4%B8%8D%E4%B8%8A%E6%97%A9%E8%AF%BE%E8%87%AA%E7%84%B6%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李书福呼吁汽车产业降碳](https://www.baidu.com/s?wd=%E6%9D%8E%E4%B9%A6%E7%A6%8F%E5%91%BC%E5%90%81%E6%B1%BD%E8%BD%A6%E4%BA%A7%E4%B8%9A%E9%99%8D%E7%A2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [奔驰礼让救护车被罚款？](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E7%A4%BC%E8%AE%A9%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E7%BD%9A%E6%AC%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [蔡英文办公室卫兵自戕现场画面曝光](https://www.baidu.com/s?wd=%E8%94%A1%E8%8B%B1%E6%96%87%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8D%AB%E5%85%B5%E8%87%AA%E6%88%95%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大哥回应直播间卖活驴：卖了上千头](https://www.baidu.com/s?wd=%E5%A4%A7%E5%93%A5%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E6%B4%BB%E9%A9%B4%EF%BC%9A%E5%8D%96%E4%BA%86%E4%B8%8A%E5%8D%83%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [医生巧用砒霜挽救血癌女子生命](https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%B7%A7%E7%94%A8%E7%A0%92%E9%9C%9C%E6%8C%BD%E6%95%91%E8%A1%80%E7%99%8C%E5%A5%B3%E5%AD%90%E7%94%9F%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [家长让自家孩子不上早课自然醒](https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%AE%A9%E8%87%AA%E5%AE%B6%E5%AD%A9%E5%AD%90%E4%B8%8D%E4%B8%8A%E6%97%A9%E8%AF%BE%E8%87%AA%E7%84%B6%E9%86%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李书福呼吁汽车产业降碳](https://www.baidu.com/s?wd=%E6%9D%8E%E4%B9%A6%E7%A6%8F%E5%91%BC%E5%90%81%E6%B1%BD%E8%BD%A6%E4%BA%A7%E4%B8%9A%E9%99%8D%E7%A2%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [奔驰礼让救护车被罚款？](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E7%A4%BC%E8%AE%A9%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E7%BD%9A%E6%AC%BE%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
