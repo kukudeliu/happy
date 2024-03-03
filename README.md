@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 20:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 20:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周处除三害](https://s.weibo.com/weibo?q=%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3&t=31&band_rank=6&Refer=top)<br />
 7. [安全屋](https://s.weibo.com/weibo?q=%E5%AE%89%E5%85%A8%E5%B1%8B&t=31&band_rank=7&Refer=top)<br />
 8. [橙C冰美式](https://s.weibo.com/weibo?q=%E6%A9%99C%E5%86%B0%E7%BE%8E%E5%BC%8F&t=31&band_rank=8&Refer=top)<br />
-9. [何炅在北外任教时的照片](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E5%9C%A8%E5%8C%97%E5%A4%96%E4%BB%BB%E6%95%99%E6%97%B6%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [钟睒睒否认第一桶金来自娃哈哈](https://s.weibo.com/weibo?q=%23%E9%92%9F%E7%9D%92%E7%9D%92%E5%90%A6%E8%AE%A4%E7%AC%AC%E4%B8%80%E6%A1%B6%E9%87%91%E6%9D%A5%E8%87%AA%E5%A8%83%E5%93%88%E5%93%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
