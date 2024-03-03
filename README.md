@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 05:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 05:24:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [亚洲首富之子减肥108公斤后又胖回来了](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E9%A6%96%E5%AF%8C%E4%B9%8B%E5%AD%90%E5%87%8F%E8%82%A5108%E5%85%AC%E6%96%A4%E5%90%8E%E5%8F%88%E8%83%96%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [两会你我他](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%E4%BD%A0%E6%88%91%E4%BB%96%23&t=31&band_rank=3&Refer=top)<br />
 4. [姜爷爷宋爷爷哭成泪人](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%88%B7%E7%88%B7%E5%AE%8B%E7%88%B7%E7%88%B7%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
-5. [十年前种下的种子真的能开出花](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E5%89%8D%E7%A7%8D%E4%B8%8B%E7%9A%84%E7%A7%8D%E5%AD%90%E7%9C%9F%E7%9A%84%E8%83%BD%E5%BC%80%E5%87%BA%E8%8A%B1%23&t=31&band_rank=5&Refer=top)<br />
-6. [向佐曾闭关练功七年不看手机](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%E6%9B%BE%E9%97%AD%E5%85%B3%E7%BB%83%E5%8A%9F%E4%B8%83%E5%B9%B4%E4%B8%8D%E7%9C%8B%E6%89%8B%E6%9C%BA&t=31&band_rank=6&Refer=top)<br />
+5. [向佐曾闭关练功七年不看手机](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%E6%9B%BE%E9%97%AD%E5%85%B3%E7%BB%83%E5%8A%9F%E4%B8%83%E5%B9%B4%E4%B8%8D%E7%9C%8B%E6%89%8B%E6%9C%BA&t=31&band_rank=5&Refer=top)<br />
+6. [十年前种下的种子真的能开出花](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E5%89%8D%E7%A7%8D%E4%B8%8B%E7%9A%84%E7%A7%8D%E5%AD%90%E7%9C%9F%E7%9A%84%E8%83%BD%E5%BC%80%E5%87%BA%E8%8A%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [怀疑对方AI换脸可以让对方摁鼻子](https://s.weibo.com/weibo?q=%23%E6%80%80%E7%96%91%E5%AF%B9%E6%96%B9AI%E6%8D%A2%E8%84%B8%E5%8F%AF%E4%BB%A5%E8%AE%A9%E5%AF%B9%E6%96%B9%E6%91%81%E9%BC%BB%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [怪不得没见过云南籍清冷学霸](https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E6%B2%A1%E8%A7%81%E8%BF%87%E4%BA%91%E5%8D%97%E7%B1%8D%E6%B8%85%E5%86%B7%E5%AD%A6%E9%9C%B8%23&t=31&band_rank=8&Refer=top)<br />
 9. [当年爱情公寓第二季的官方设定](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B9%B4%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%9A%84%E5%AE%98%E6%96%B9%E8%AE%BE%E5%AE%9A%23&t=31&band_rank=9&Refer=top)<br />
