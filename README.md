@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 20:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 20:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [周也嘴巴哭成typec](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%E5%98%B4%E5%B7%B4%E5%93%AD%E6%88%90typec&t=31&band_rank=5&Refer=top)<br />
 6. [吴艳妮2024首秀8秒12](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE2024%E9%A6%96%E7%A7%808%E7%A7%9212%23&t=31&band_rank=6&Refer=top)<br />
 7. [橙C冰美式](https://s.weibo.com/weibo?q=%E6%A9%99C%E5%86%B0%E7%BE%8E%E5%BC%8F&t=31&band_rank=7&Refer=top)<br />
-8. [何炅在北外任教时的照片](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E5%9C%A8%E5%8C%97%E5%A4%96%E4%BB%BB%E6%95%99%E6%97%B6%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [安全屋](https://s.weibo.com/weibo?q=%E5%AE%89%E5%85%A8%E5%B1%8B&t=31&band_rank=9&Refer=top)<br />
+8. [安全屋](https://s.weibo.com/weibo?q=%E5%AE%89%E5%85%A8%E5%B1%8B&t=31&band_rank=8&Refer=top)<br />
+9. [何炅在北外任教时的照片](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E5%9C%A8%E5%8C%97%E5%A4%96%E4%BB%BB%E6%95%99%E6%97%B6%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
