@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 18:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 18:45:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [Mai浪姐补位](https://s.weibo.com/weibo?q=%23Mai%E6%B5%AA%E5%A7%90%E8%A1%A5%E4%BD%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [阮经天40岁状态](https://s.weibo.com/weibo?q=%23%E9%98%AE%E7%BB%8F%E5%A4%A940%E5%B2%81%E7%8A%B6%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子带走多件悼念用的AD钙奶](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%A6%E8%B5%B0%E5%A4%9A%E4%BB%B6%E6%82%BC%E5%BF%B5%E7%94%A8%E7%9A%84AD%E9%92%99%E5%A5%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [久哲 没工作](https://s.weibo.com/weibo?q=%E4%B9%85%E5%93%B2%20%E6%B2%A1%E5%B7%A5%E4%BD%9C&t=31&band_rank=8&Refer=top)<br />
+8. [严浩翔声纹对比](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%A3%B0%E7%BA%B9%E5%AF%B9%E6%AF%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [成都蓉城凤凰山首秀球迷自发清理垃圾](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E%E5%87%A4%E5%87%B0%E5%B1%B1%E9%A6%96%E7%A7%80%E7%90%83%E8%BF%B7%E8%87%AA%E5%8F%91%E6%B8%85%E7%90%86%E5%9E%83%E5%9C%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
