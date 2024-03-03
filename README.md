@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 10:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 10:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [我在新加坡做外卖生意，收入过亿](https://www.baidu.com/s?wd=%E6%88%91%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%81%9A%E5%A4%96%E5%8D%96%E7%94%9F%E6%84%8F%EF%BC%8C%E6%94%B6%E5%85%A5%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国摄影师镜头下的杨幂](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%91%84%E5%BD%B1%E5%B8%88%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%9D%A8%E5%B9%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [周杰伦王力宏林俊杰给陶喆送花篮](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%BB%99%E9%99%B6%E5%96%86%E9%80%81%E8%8A%B1%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [建议在大中小学增设自我生活管理课](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%9C%A8%E5%A4%A7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%A2%9E%E8%AE%BE%E8%87%AA%E6%88%91%E7%94%9F%E6%B4%BB%E7%AE%A1%E7%90%86%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [经常用耳机的3个60原则](https://www.baidu.com/s?wd=%E7%BB%8F%E5%B8%B8%E7%94%A8%E8%80%B3%E6%9C%BA%E7%9A%843%E4%B8%AA60%E5%8E%9F%E5%88%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春捂就是多穿点？](https://www.baidu.com/s?wd=%E6%98%A5%E6%8D%82%E5%B0%B1%E6%98%AF%E5%A4%9A%E7%A9%BF%E7%82%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [我在新加坡做外卖生意，收入过亿](https://www.baidu.com/s?wd=%E6%88%91%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%81%9A%E5%A4%96%E5%8D%96%E7%94%9F%E6%84%8F%EF%BC%8C%E6%94%B6%E5%85%A5%E8%BF%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国摄影师镜头下的杨幂](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%91%84%E5%BD%B1%E5%B8%88%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%9D%A8%E5%B9%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [周杰伦王力宏林俊杰给陶喆送花篮](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%BB%99%E9%99%B6%E5%96%86%E9%80%81%E8%8A%B1%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [建议在大中小学增设自我生活管理课](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%9C%A8%E5%A4%A7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%A2%9E%E8%AE%BE%E8%87%AA%E6%88%91%E7%94%9F%E6%B4%BB%E7%AE%A1%E7%90%86%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [经常用耳机的3个60原则](https://www.baidu.com/s?wd=%E7%BB%8F%E5%B8%B8%E7%94%A8%E8%80%B3%E6%9C%BA%E7%9A%843%E4%B8%AA60%E5%8E%9F%E5%88%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春捂就是多穿点？](https://www.baidu.com/s?wd=%E6%98%A5%E6%8D%82%E5%B0%B1%E6%98%AF%E5%A4%9A%E7%A9%BF%E7%82%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
