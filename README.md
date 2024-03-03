@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 10:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 10:48:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [神十七乘组默契配合度满分](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E4%B9%98%E7%BB%84%E9%BB%98%E5%A5%91%E9%85%8D%E5%90%88%E5%BA%A6%E6%BB%A1%E5%88%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [新确认一位慰安妇制度受害幸存者](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%A1%AE%E8%AE%A4%E4%B8%80%E4%BD%8D%E6%85%B0%E5%AE%89%E5%A6%87%E5%88%B6%E5%BA%A6%E5%8F%97%E5%AE%B3%E5%B9%B8%E5%AD%98%E8%80%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [焉栩嘉在郝蕾面前提到邓超](https://s.weibo.com/weibo?q=%23%E7%84%89%E6%A0%A9%E5%98%89%E5%9C%A8%E9%83%9D%E8%95%BE%E9%9D%A2%E5%89%8D%E6%8F%90%E5%88%B0%E9%82%93%E8%B6%85%23&t=31&band_rank=5&Refer=top)<br />
-6. [为什么面包店宁可扔掉也不打折](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9D%A2%E5%8C%85%E5%BA%97%E5%AE%81%E5%8F%AF%E6%89%94%E6%8E%89%E4%B9%9F%E4%B8%8D%E6%89%93%E6%8A%98%23&t=31&band_rank=6&Refer=top)<br />
-7. [超6成理发师有听力损失](https://s.weibo.com/weibo?q=%23%E8%B6%856%E6%88%90%E7%90%86%E5%8F%91%E5%B8%88%E6%9C%89%E5%90%AC%E5%8A%9B%E6%8D%9F%E5%A4%B1%23&t=31&band_rank=7&Refer=top)<br />
+6. [超6成理发师有听力损失](https://s.weibo.com/weibo?q=%23%E8%B6%856%E6%88%90%E7%90%86%E5%8F%91%E5%B8%88%E6%9C%89%E5%90%AC%E5%8A%9B%E6%8D%9F%E5%A4%B1%23&t=31&band_rank=6&Refer=top)<br />
+7. [为什么面包店宁可扔掉也不打折](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9D%A2%E5%8C%85%E5%BA%97%E5%AE%81%E5%8F%AF%E6%89%94%E6%8E%89%E4%B9%9F%E4%B8%8D%E6%89%93%E6%8A%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [董明珠再建议将个税起征点提高至1万元](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E5%86%8D%E5%BB%BA%E8%AE%AE%E5%B0%86%E4%B8%AA%E7%A8%8E%E8%B5%B7%E5%BE%81%E7%82%B9%E6%8F%90%E9%AB%98%E8%87%B31%E4%B8%87%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [戚薇疑似救场浪姐](https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%96%91%E4%BC%BC%E6%95%91%E5%9C%BA%E6%B5%AA%E5%A7%90%23&t=31&band_rank=9&Refer=top)<br />
 
