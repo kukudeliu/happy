@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 13:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 13:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [徐若晗 导师团全票通过](https://s.weibo.com/weibo?q=%E5%BE%90%E8%8B%A5%E6%99%97%20%E5%AF%BC%E5%B8%88%E5%9B%A2%E5%85%A8%E7%A5%A8%E9%80%9A%E8%BF%87&t=31&band_rank=6&Refer=top)<br />
 7. [53岁妈妈给25岁女儿生了个弟弟](https://s.weibo.com/weibo?q=%2353%E5%B2%81%E5%A6%88%E5%A6%88%E7%BB%9925%E5%B2%81%E5%A5%B3%E5%84%BF%E7%94%9F%E4%BA%86%E4%B8%AA%E5%BC%9F%E5%BC%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [羽绒服尽量不要干洗](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%B0%BD%E9%87%8F%E4%B8%8D%E8%A6%81%E5%B9%B2%E6%B4%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [HPV](https://s.weibo.com/weibo?q=HPV&t=31&band_rank=9&Refer=top)<br />
+9. [王鹤棣GAI布瑞吉录制新综艺](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3GAI%E5%B8%83%E7%91%9E%E5%90%89%E5%BD%95%E5%88%B6%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
