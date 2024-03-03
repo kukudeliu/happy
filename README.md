@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 20:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 20:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [何炅在北外任教时的照片](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E5%9C%A8%E5%8C%97%E5%A4%96%E4%BB%BB%E6%95%99%E6%97%B6%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [方可给迪丽热巴做过的发型](https://s.weibo.com/weibo?q=%E6%96%B9%E5%8F%AF%E7%BB%99%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%81%9A%E8%BF%87%E7%9A%84%E5%8F%91%E5%9E%8B&t=31&band_rank=6&Refer=top)<br />
 7. [阮经天40岁状态](https://s.weibo.com/weibo?q=%23%E9%98%AE%E7%BB%8F%E5%A4%A940%E5%B2%81%E7%8A%B6%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [巴黎世家大秀](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%A4%A7%E7%A7%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子带走多件悼念用的AD钙奶](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%A6%E8%B5%B0%E5%A4%9A%E4%BB%B6%E6%82%BC%E5%BF%B5%E7%94%A8%E7%9A%84AD%E9%92%99%E5%A5%B6%23&t=31&band_rank=9&Refer=top)<br />
+8. [点读机女孩术后进ICU观察](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E6%9C%AF%E5%90%8E%E8%BF%9BICU%E8%A7%82%E5%AF%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [巴黎世家大秀](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%A4%A7%E7%A7%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
