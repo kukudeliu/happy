@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 01:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 01:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孙千和PP合照](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E5%92%8CPP%E5%90%88%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [不背单词 我还没打卡](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D%20%E6%88%91%E8%BF%98%E6%B2%A1%E6%89%93%E5%8D%A1&t=31&band_rank=7&Refer=top)<br />
 8. [当年爱情公寓第二季的官方设定](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B9%B4%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%9A%84%E5%AE%98%E6%96%B9%E8%AE%BE%E5%AE%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [曼城vs曼联](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8Evs%E6%9B%BC%E8%81%94%23&t=31&band_rank=9&Refer=top)<br />
+9. [00后新警认出嫌疑人后嘴角上扬](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%96%B0%E8%AD%A6%E8%AE%A4%E5%87%BA%E5%AB%8C%E7%96%91%E4%BA%BA%E5%90%8E%E5%98%B4%E8%A7%92%E4%B8%8A%E6%89%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
