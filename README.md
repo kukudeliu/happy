@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 09:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 09:18:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈思诚公司泰国团建](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%E5%85%AC%E5%8F%B8%E6%B3%B0%E5%9B%BD%E5%9B%A2%E5%BB%BA&t=31&band_rank=6&Refer=top)<br />
 7. [车市迎来降价潮](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%B8%82%E8%BF%8E%E6%9D%A5%E9%99%8D%E4%BB%B7%E6%BD%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [梅西梅开二度](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [王锵回怼导师](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%94%B5%E5%9B%9E%E6%80%BC%E5%AF%BC%E5%B8%88&t=31&band_rank=9&Refer=top)<br />
+9. [两会](https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
