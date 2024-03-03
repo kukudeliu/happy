@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 18:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 18:08:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女子买茅台验真伪被死亡威胁](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%8C%85%E5%8F%B0%E9%AA%8C%E7%9C%9F%E4%BC%AA%E8%A2%AB%E6%AD%BB%E4%BA%A1%E5%A8%81%E8%83%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [久哲 没工作](https://s.weibo.com/weibo?q=%E4%B9%85%E5%93%B2%20%E6%B2%A1%E5%B7%A5%E4%BD%9C&t=31&band_rank=5&Refer=top)<br />
 6. [橙C冰美式](https://s.weibo.com/weibo?q=%E6%A9%99C%E5%86%B0%E7%BE%8E%E5%BC%8F&t=31&band_rank=6&Refer=top)<br />
-7. [张致恒晒收款码求捐款](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%87%B4%E6%81%92%E6%99%92%E6%94%B6%E6%AC%BE%E7%A0%81%E6%B1%82%E6%8D%90%E6%AC%BE&t=31&band_rank=7&Refer=top)<br />
-8. [杨幂唐嫣刘诗诗G社生图](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%94%90%E5%AB%A3%E5%88%98%E8%AF%97%E8%AF%97G%E7%A4%BE%E7%94%9F%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
+7. [严浩翔声纹对比](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%A3%B0%E7%BA%B9%E5%AF%B9%E6%AF%94%23&t=31&band_rank=7&Refer=top)<br />
+8. [阮经天40岁状态](https://s.weibo.com/weibo?q=%E9%98%AE%E7%BB%8F%E5%A4%A940%E5%B2%81%E7%8A%B6%E6%80%81&t=31&band_rank=8&Refer=top)<br />
 9. [教科书级别的西安美景受热捧](https://s.weibo.com/weibo?q=%23%E6%95%99%E7%A7%91%E4%B9%A6%E7%BA%A7%E5%88%AB%E7%9A%84%E8%A5%BF%E5%AE%89%E7%BE%8E%E6%99%AF%E5%8F%97%E7%83%AD%E6%8D%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
