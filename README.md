@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 18:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 18:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [橙C冰美式](https://s.weibo.com/weibo?q=%E6%A9%99C%E5%86%B0%E7%BE%8E%E5%BC%8F&t=31&band_rank=6&Refer=top)<br />
 7. [严浩翔声纹对比](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%A3%B0%E7%BA%B9%E5%AF%B9%E6%AF%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [阮经天40岁状态](https://s.weibo.com/weibo?q=%E9%98%AE%E7%BB%8F%E5%A4%A940%E5%B2%81%E7%8A%B6%E6%80%81&t=31&band_rank=8&Refer=top)<br />
-9. [教科书级别的西安美景受热捧](https://s.weibo.com/weibo?q=%23%E6%95%99%E7%A7%91%E4%B9%A6%E7%BA%A7%E5%88%AB%E7%9A%84%E8%A5%BF%E5%AE%89%E7%BE%8E%E6%99%AF%E5%8F%97%E7%83%AD%E6%8D%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子带走多件悼念用的AD钙奶](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%A6%E8%B5%B0%E5%A4%9A%E4%BB%B6%E6%82%BC%E5%BF%B5%E7%94%A8%E7%9A%84AD%E9%92%99%E5%A5%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
