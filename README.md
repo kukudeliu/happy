@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 17:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 18:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [Mai浪姐补位](https://s.weibo.com/weibo?q=%23Mai%E6%B5%AA%E5%A7%90%E8%A1%A5%E4%BD%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨幂唐嫣刘诗诗G社生图](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%94%90%E5%AB%A3%E5%88%98%E8%AF%97%E8%AF%97G%E7%A4%BE%E7%94%9F%E5%9B%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [张致恒晒收款码求捐款](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%87%B4%E6%81%92%E6%99%92%E6%94%B6%E6%AC%BE%E7%A0%81%E6%B1%82%E6%8D%90%E6%AC%BE&t=31&band_rank=7&Refer=top)<br />
-8. [马来西亚交通部长称尽快恢复搜索MH370航班](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E4%BA%A4%E9%80%9A%E9%83%A8%E9%95%BF%E7%A7%B0%E5%B0%BD%E5%BF%AB%E6%81%A2%E5%A4%8D%E6%90%9C%E7%B4%A2MH370%E8%88%AA%E7%8F%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [橙C冰美式](https://s.weibo.com/weibo?q=%E6%A9%99C%E5%86%B0%E7%BE%8E%E5%BC%8F&t=31&band_rank=9&Refer=top)<br />
+8. [橙C冰美式](https://s.weibo.com/weibo?q=%E6%A9%99C%E5%86%B0%E7%BE%8E%E5%BC%8F&t=31&band_rank=8&Refer=top)<br />
+9. [马来西亚交通部长称尽快恢复搜索MH370航班](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E4%BA%A4%E9%80%9A%E9%83%A8%E9%95%BF%E7%A7%B0%E5%B0%BD%E5%BF%AB%E6%81%A2%E5%A4%8D%E6%90%9C%E7%B4%A2MH370%E8%88%AA%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
