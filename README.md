@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 07:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 07:43:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [姜爷爷宋爷爷哭成泪人](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%88%B7%E7%88%B7%E5%AE%8B%E7%88%B7%E7%88%B7%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [向佐曾闭关练功七年不看手机](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%E6%9B%BE%E9%97%AD%E5%85%B3%E7%BB%83%E5%8A%9F%E4%B8%83%E5%B9%B4%E4%B8%8D%E7%9C%8B%E6%89%8B%E6%9C%BA&t=31&band_rank=5&Refer=top)<br />
 6. [睡得好要看这4个指标](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%BE%97%E5%A5%BD%E8%A6%81%E7%9C%8B%E8%BF%994%E4%B8%AA%E6%8C%87%E6%A0%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [十年前种下的种子真的能开出花](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E5%89%8D%E7%A7%8D%E4%B8%8B%E7%9A%84%E7%A7%8D%E5%AD%90%E7%9C%9F%E7%9A%84%E8%83%BD%E5%BC%80%E5%87%BA%E8%8A%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [农夫山泉](https://s.weibo.com/weibo?q=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89&t=31&band_rank=8&Refer=top)<br />
+7. [农夫山泉](https://s.weibo.com/weibo?q=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89&t=31&band_rank=7&Refer=top)<br />
+8. [十年前种下的种子真的能开出花](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E5%89%8D%E7%A7%8D%E4%B8%8B%E7%9A%84%E7%A7%8D%E5%AD%90%E7%9C%9F%E7%9A%84%E8%83%BD%E5%BC%80%E5%87%BA%E8%8A%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [怀疑对方AI换脸可以让对方摁鼻子](https://s.weibo.com/weibo?q=%23%E6%80%80%E7%96%91%E5%AF%B9%E6%96%B9AI%E6%8D%A2%E8%84%B8%E5%8F%AF%E4%BB%A5%E8%AE%A9%E5%AF%B9%E6%96%B9%E6%91%81%E9%BC%BB%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
