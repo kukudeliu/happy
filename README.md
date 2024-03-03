@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 15:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 15:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [53岁妈妈给25岁女儿生了个弟弟](https://s.weibo.com/weibo?q=%2353%E5%B2%81%E5%A6%88%E5%A6%88%E7%BB%9925%E5%B2%81%E5%A5%B3%E5%84%BF%E7%94%9F%E4%BA%86%E4%B8%AA%E5%BC%9F%E5%BC%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [台退役中将称战机1分钟就到台湾](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%80%80%E5%BD%B9%E4%B8%AD%E5%B0%86%E7%A7%B0%E6%88%98%E6%9C%BA1%E5%88%86%E9%92%9F%E5%B0%B1%E5%88%B0%E5%8F%B0%E6%B9%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [桃花坞嘉宾](https://s.weibo.com/weibo?q=%E6%A1%83%E8%8A%B1%E5%9D%9E%E5%98%89%E5%AE%BE&t=31&band_rank=8&Refer=top)<br />
-9. [徐若晗 导师团全票通过](https://s.weibo.com/weibo?q=%E5%BE%90%E8%8B%A5%E6%99%97%20%E5%AF%BC%E5%B8%88%E5%9B%A2%E5%85%A8%E7%A5%A8%E9%80%9A%E8%BF%87&t=31&band_rank=9&Refer=top)<br />
+9. [王栎鑫为晕倒观众组织让道](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E4%B8%BA%E6%99%95%E5%80%92%E8%A7%82%E4%BC%97%E7%BB%84%E7%BB%87%E8%AE%A9%E9%81%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
