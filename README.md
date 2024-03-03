@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 23:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 23:22:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [王楚钦橱窗](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%A9%B1%E7%AA%97&t=31&band_rank=4&Refer=top)<br />
 5. [不背单词 我还没打卡](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D%20%E6%88%91%E8%BF%98%E6%B2%A1%E6%89%93%E5%8D%A1&t=31&band_rank=5&Refer=top)<br />
 6. [向佐曾闭关练功七年不看手机](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%E6%9B%BE%E9%97%AD%E5%85%B3%E7%BB%83%E5%8A%9F%E4%B8%83%E5%B9%B4%E4%B8%8D%E7%9C%8B%E6%89%8B%E6%9C%BA&t=31&band_rank=6&Refer=top)<br />
-7. [周处除三害](https://s.weibo.com/weibo?q=%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3&t=31&band_rank=7&Refer=top)<br />
-8. [DYG教练 跑路](https://s.weibo.com/weibo?q=DYG%E6%95%99%E7%BB%83%20%E8%B7%91%E8%B7%AF&t=31&band_rank=8&Refer=top)<br />
-9. [当年爱情公寓第二季的官方设定](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B9%B4%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%9A%84%E5%AE%98%E6%96%B9%E8%AE%BE%E5%AE%9A%23&t=31&band_rank=9&Refer=top)<br />
+7. [当年爱情公寓第二季的官方设定](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B9%B4%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%9A%84%E5%AE%98%E6%96%B9%E8%AE%BE%E5%AE%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [周处除三害](https://s.weibo.com/weibo?q=%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3&t=31&band_rank=8&Refer=top)<br />
+9. [DYG教练 跑路](https://s.weibo.com/weibo?q=DYG%E6%95%99%E7%BB%83%20%E8%B7%91%E8%B7%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
