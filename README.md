@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 09:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 09:41:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [为什么面包店宁可扔掉也不打折](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9D%A2%E5%8C%85%E5%BA%97%E5%AE%81%E5%8F%AF%E6%89%94%E6%8E%89%E4%B9%9F%E4%B8%8D%E6%89%93%E6%8A%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [两会](https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
 7. [经常用耳机的3个60原则](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E7%94%A8%E8%80%B3%E6%9C%BA%E7%9A%843%E4%B8%AA60%E5%8E%9F%E5%88%99%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈思诚公司泰国团建](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%E5%85%AC%E5%8F%B8%E6%B3%B0%E5%9B%BD%E5%9B%A2%E5%BB%BA&t=31&band_rank=8&Refer=top)<br />
-9. [詹姆斯40000分倒计时](https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF40000%E5%88%86%E5%80%92%E8%AE%A1%E6%97%B6&t=31&band_rank=9&Refer=top)<br />
+8. [詹姆斯40000分倒计时](https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF40000%E5%88%86%E5%80%92%E8%AE%A1%E6%97%B6&t=31&band_rank=8&Refer=top)<br />
+9. [郭敬明训斥程潇](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E8%AE%AD%E6%96%A5%E7%A8%8B%E6%BD%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
