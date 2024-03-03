@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 22:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 22:04:01</h4></div>
 
 > 微博  
 
-1. [吴艳妮2024首秀8秒12](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE2024%E9%A6%96%E7%A7%808%E7%A7%9212%23&t=31&band_rank=1&Refer=top)<br />
-2. [周处除三害](https://s.weibo.com/weibo?q=%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3&t=31&band_rank=2&Refer=top)<br />
+1. [周处除三害](https://s.weibo.com/weibo?q=%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3&t=31&band_rank=1&Refer=top)<br />
+2. [吴艳妮2024首秀8秒12](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE2024%E9%A6%96%E7%A7%808%E7%A7%9212%23&t=31&band_rank=2&Refer=top)<br />
 3. [话说两会知识点](https://s.weibo.com/weibo?q=%23%E8%AF%9D%E8%AF%B4%E4%B8%A4%E4%BC%9A%E7%9F%A5%E8%AF%86%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [钟睒睒澄清](https://s.weibo.com/weibo?q=%23%E9%92%9F%E7%9D%92%E7%9D%92%E6%BE%84%E6%B8%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [台湾海巡艇被目击与大陆海警船并行](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B7%A1%E8%89%87%E8%A2%AB%E7%9B%AE%E5%87%BB%E4%B8%8E%E5%A4%A7%E9%99%86%E6%B5%B7%E8%AD%A6%E8%88%B9%E5%B9%B6%E8%A1%8C%23&t=31&band_rank=5&Refer=top)<br />
