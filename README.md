@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 12:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 12:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [羽绒服尽量不要干洗](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%B0%BD%E9%87%8F%E4%B8%8D%E8%A6%81%E5%B9%B2%E6%B4%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [李钟硕现身IU演唱会](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%95%E7%8E%B0%E8%BA%ABIU%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [年轻人不愿进工厂该如何破解](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%84%BF%E8%BF%9B%E5%B7%A5%E5%8E%82%E8%AF%A5%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [郭敬明训斥程潇](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E8%AE%AD%E6%96%A5%E7%A8%8B%E6%BD%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [六公主评周处除三害](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E8%AF%84%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
