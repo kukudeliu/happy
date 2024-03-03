@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 21:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 21:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周处除三害](https://s.weibo.com/weibo?q=%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3&t=31&band_rank=6&Refer=top)<br />
 7. [钟睒睒否认第一桶金来自娃哈哈](https://s.weibo.com/weibo?q=%23%E9%92%9F%E7%9D%92%E7%9D%92%E5%90%A6%E8%AE%A4%E7%AC%AC%E4%B8%80%E6%A1%B6%E9%87%91%E6%9D%A5%E8%87%AA%E5%A8%83%E5%93%88%E5%93%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [周也嘴巴哭成typec](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%E5%98%B4%E5%B7%B4%E5%93%AD%E6%88%90typec&t=31&band_rank=8&Refer=top)<br />
-9. [橙C冰美式](https://s.weibo.com/weibo?q=%E6%A9%99C%E5%86%B0%E7%BE%8E%E5%BC%8F&t=31&band_rank=9&Refer=top)<br />
+9. [许凯把丁程鑫的手揽在怀里](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E6%8A%8A%E4%B8%81%E7%A8%8B%E9%91%AB%E7%9A%84%E6%89%8B%E6%8F%BD%E5%9C%A8%E6%80%80%E9%87%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
