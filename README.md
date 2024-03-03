@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 10:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 10:59:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [年轻干部怎样健康成长](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E5%B9%B2%E9%83%A8%E6%80%8E%E6%A0%B7%E5%81%A5%E5%BA%B7%E6%88%90%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [政协委员：破解年轻人不愿进工厂](https://www.baidu.com/s?wd=%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%EF%BC%9A%E7%A0%B4%E8%A7%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%84%BF%E8%BF%9B%E5%B7%A5%E5%8E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [历史第一人！詹姆斯达成40000分](https://www.baidu.com/s?wd=%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80%E4%BA%BA%EF%BC%81%E8%A9%B9%E5%A7%86%E6%96%AF%E8%BE%BE%E6%88%9040000%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [詹姆斯成NBA首位4万分先生](https://www.baidu.com/s?wd=%23%E8%A9%B9%E5%A7%86%E6%96%AF40000%E5%88%86%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这场盛会有何期待？](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E7%9B%9B%E4%BC%9A%E6%9C%89%E4%BD%95%E6%9C%9F%E5%BE%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [为什么面包店宁可扔掉也不打折](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9D%A2%E5%8C%85%E5%BA%97%E5%AE%81%E5%8F%AF%E6%89%94%E6%8E%89%E4%B9%9F%E4%B8%8D%E6%89%93%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特朗普又赢了](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%B5%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩国摄影师镜头下的杨幂](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%91%84%E5%BD%B1%E5%B8%88%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%9D%A8%E5%B9%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周杰伦王力宏林俊杰给陶喆送花篮](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%BB%99%E9%99%B6%E5%96%86%E9%80%81%E8%8A%B1%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [周杰伦王力宏林俊杰给陶喆送花篮](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%BB%99%E9%99%B6%E5%96%86%E9%80%81%E8%8A%B1%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [姐弟烧伤4位姨妈剃光头捐皮肤](https://www.baidu.com/s?wd=%E5%A7%90%E5%BC%9F%E7%83%A7%E4%BC%A44%E4%BD%8D%E5%A7%A8%E5%A6%88%E5%89%83%E5%85%89%E5%A4%B4%E6%8D%90%E7%9A%AE%E8%82%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春捂就是多穿点？](https://www.baidu.com/s?wd=%E6%98%A5%E6%8D%82%E5%B0%B1%E6%98%AF%E5%A4%9A%E7%A9%BF%E7%82%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [年轻干部怎样健康成长](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E5%B9%B2%E9%83%A8%E6%80%8E%E6%A0%B7%E5%81%A5%E5%BA%B7%E6%88%90%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [政协委员：破解年轻人不愿进工厂](https://www.baidu.com/s?wd=%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%EF%BC%9A%E7%A0%B4%E8%A7%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%84%BF%E8%BF%9B%E5%B7%A5%E5%8E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [历史第一人！詹姆斯达成40000分](https://www.baidu.com/s?wd=%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80%E4%BA%BA%EF%BC%81%E8%A9%B9%E5%A7%86%E6%96%AF%E8%BE%BE%E6%88%9040000%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [詹姆斯成NBA首位4万分先生](https://www.baidu.com/s?wd=%23%E8%A9%B9%E5%A7%86%E6%96%AF40000%E5%88%86%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这场盛会有何期待？](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E7%9B%9B%E4%BC%9A%E6%9C%89%E4%BD%95%E6%9C%9F%E5%BE%85%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [为什么面包店宁可扔掉也不打折](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9D%A2%E5%8C%85%E5%BA%97%E5%AE%81%E5%8F%AF%E6%89%94%E6%8E%89%E4%B9%9F%E4%B8%8D%E6%89%93%E6%8A%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [特朗普又赢了](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%B5%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩国摄影师镜头下的杨幂](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%91%84%E5%BD%B1%E5%B8%88%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%9D%A8%E5%B9%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [周杰伦王力宏林俊杰给陶喆送花篮](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%BB%99%E9%99%B6%E5%96%86%E9%80%81%E8%8A%B1%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [周杰伦王力宏林俊杰给陶喆送花篮](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%BB%99%E9%99%B6%E5%96%86%E9%80%81%E8%8A%B1%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [姐弟烧伤4位姨妈剃光头捐皮肤](https://www.baidu.com/s?wd=%E5%A7%90%E5%BC%9F%E7%83%A7%E4%BC%A44%E4%BD%8D%E5%A7%A8%E5%A6%88%E5%89%83%E5%85%89%E5%A4%B4%E6%8D%90%E7%9A%AE%E8%82%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [春捂就是多穿点？](https://www.baidu.com/s?wd=%E6%98%A5%E6%8D%82%E5%B0%B1%E6%98%AF%E5%A4%9A%E7%A9%BF%E7%82%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
