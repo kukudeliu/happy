@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 03:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 03:05:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孙千和PP合照](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E5%92%8CPP%E5%90%88%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [当年爱情公寓第二季的官方设定](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B9%B4%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%9A%84%E5%AE%98%E6%96%B9%E8%AE%BE%E5%AE%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [怪不得没见过云南籍清冷学霸](https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E6%B2%A1%E8%A7%81%E8%BF%87%E4%BA%91%E5%8D%97%E7%B1%8D%E6%B8%85%E5%86%B7%E5%AD%A6%E9%9C%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [这一抱硬控我10秒](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E6%8A%B1%E7%A1%AC%E6%8E%A7%E6%88%9110%E7%A7%92&t=31&band_rank=9&Refer=top)<br />
+9. [周处除三害](https://s.weibo.com/weibo?q=%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
