@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 11:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 11:09:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [句句不提人句句不离人](https://s.weibo.com/weibo?q=%E5%8F%A5%E5%8F%A5%E4%B8%8D%E6%8F%90%E4%BA%BA%E5%8F%A5%E5%8F%A5%E4%B8%8D%E7%A6%BB%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [超6成理发师有听力损失](https://s.weibo.com/weibo?q=%23%E8%B6%856%E6%88%90%E7%90%86%E5%8F%91%E5%B8%88%E6%9C%89%E5%90%AC%E5%8A%9B%E6%8D%9F%E5%A4%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [庆余年2破1200万海报](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%E7%A0%B41200%E4%B8%87%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [为什么面包店宁可扔掉也不打折](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9D%A2%E5%8C%85%E5%BA%97%E5%AE%81%E5%8F%AF%E6%89%94%E6%8E%89%E4%B9%9F%E4%B8%8D%E6%89%93%E6%8A%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [张雨绮相亲](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E7%9B%B8%E4%BA%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
