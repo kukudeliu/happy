@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 15:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-03 15:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [53岁妈妈给25岁女儿生了个弟弟](https://s.weibo.com/weibo?q=%2353%E5%B2%81%E5%A6%88%E5%A6%88%E7%BB%9925%E5%B2%81%E5%A5%B3%E5%84%BF%E7%94%9F%E4%BA%86%E4%B8%AA%E5%BC%9F%E5%BC%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [年年体检正常为何突然查出癌症](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%B9%B4%E4%BD%93%E6%A3%80%E6%AD%A3%E5%B8%B8%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%9F%A5%E5%87%BA%E7%99%8C%E7%97%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [桃花坞嘉宾](https://s.weibo.com/weibo?q=%E6%A1%83%E8%8A%B1%E5%9D%9E%E5%98%89%E5%AE%BE&t=31&band_rank=7&Refer=top)<br />
-8. [我大使回应中国或成为第二个日本](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A4%A7%E4%BD%BF%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%88%96%E6%88%90%E4%B8%BA%E7%AC%AC%E4%BA%8C%E4%B8%AA%E6%97%A5%E6%9C%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [台退役中将称战机1分钟就到台湾](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%80%80%E5%BD%B9%E4%B8%AD%E5%B0%86%E7%A7%B0%E6%88%98%E6%9C%BA1%E5%88%86%E9%92%9F%E5%B0%B1%E5%88%B0%E5%8F%B0%E6%B9%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [台退役中将称战机1分钟就到台湾](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%80%80%E5%BD%B9%E4%B8%AD%E5%B0%86%E7%A7%B0%E6%88%98%E6%9C%BA1%E5%88%86%E9%92%9F%E5%B0%B1%E5%88%B0%E5%8F%B0%E6%B9%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [我大使回应中国或成为第二个日本](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A4%A7%E4%BD%BF%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%88%96%E6%88%90%E4%B8%BA%E7%AC%AC%E4%BA%8C%E4%B8%AA%E6%97%A5%E6%9C%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
