@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 21:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 21:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [建议取消入住酒店必须刷脸规定](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%85%A5%E4%BD%8F%E9%85%92%E5%BA%97%E5%BF%85%E9%A1%BB%E5%88%B7%E8%84%B8%E8%A7%84%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [珠宝店店长：从没见过这么高的金价](https://www.baidu.com/s?wd=%E7%8F%A0%E5%AE%9D%E5%BA%97%E5%BA%97%E9%95%BF%EF%BC%9A%E4%BB%8E%E6%B2%A1%E8%A7%81%E8%BF%87%E8%BF%99%E4%B9%88%E9%AB%98%E7%9A%84%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [娄勤俭：去年增发1万亿元国债](https://www.baidu.com/s?wd=%E5%A8%84%E5%8B%A4%E4%BF%AD%EF%BC%9A%E5%8E%BB%E5%B9%B4%E5%A2%9E%E5%8F%911%E4%B8%87%E4%BA%BF%E5%85%83%E5%9B%BD%E5%80%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国大选影响中美关系？娄勤俭回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E5%BD%B1%E5%93%8D%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%EF%BC%9F%E5%A8%84%E5%8B%A4%E4%BF%AD%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“霉霉经济学”引东南亚各国竞争](https://www.baidu.com/s?wd=%E2%80%9C%E9%9C%89%E9%9C%89%E7%BB%8F%E6%B5%8E%E5%AD%A6%E2%80%9D%E5%BC%95%E4%B8%9C%E5%8D%97%E4%BA%9A%E5%90%84%E5%9B%BD%E7%AB%9E%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“春捂”就是多穿点？](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%A5%E6%8D%82%E2%80%9D%E5%B0%B1%E6%98%AF%E5%A4%9A%E7%A9%BF%E7%82%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [建议取消入住酒店必须刷脸规定](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%85%A5%E4%BD%8F%E9%85%92%E5%BA%97%E5%BF%85%E9%A1%BB%E5%88%B7%E8%84%B8%E8%A7%84%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [珠宝店店长：从没见过这么高的金价](https://www.baidu.com/s?wd=%E7%8F%A0%E5%AE%9D%E5%BA%97%E5%BA%97%E9%95%BF%EF%BC%9A%E4%BB%8E%E6%B2%A1%E8%A7%81%E8%BF%87%E8%BF%99%E4%B9%88%E9%AB%98%E7%9A%84%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [娄勤俭：去年增发1万亿元国债](https://www.baidu.com/s?wd=%E5%A8%84%E5%8B%A4%E4%BF%AD%EF%BC%9A%E5%8E%BB%E5%B9%B4%E5%A2%9E%E5%8F%911%E4%B8%87%E4%BA%BF%E5%85%83%E5%9B%BD%E5%80%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美国大选影响中美关系？娄勤俭回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E5%BD%B1%E5%93%8D%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%EF%BC%9F%E5%A8%84%E5%8B%A4%E4%BF%AD%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“霉霉经济学”引东南亚各国竞争](https://www.baidu.com/s?wd=%E2%80%9C%E9%9C%89%E9%9C%89%E7%BB%8F%E6%B5%8E%E5%AD%A6%E2%80%9D%E5%BC%95%E4%B8%9C%E5%8D%97%E4%BA%9A%E5%90%84%E5%9B%BD%E7%AB%9E%E4%BA%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“春捂”就是多穿点？](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%A5%E6%8D%82%E2%80%9D%E5%B0%B1%E6%98%AF%E5%A4%9A%E7%A9%BF%E7%82%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
