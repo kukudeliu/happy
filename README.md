@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 23:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 23:54:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [总书记的暖心问询](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%9A%96%E5%BF%83%E9%97%AE%E8%AF%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [建议对90后个人养老金账户发补贴](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%AF%B990%E5%90%8E%E4%B8%AA%E4%BA%BA%E5%85%BB%E8%80%81%E9%87%91%E8%B4%A6%E6%88%B7%E5%8F%91%E8%A1%A5%E8%B4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [霍启刚建议增加年轻人年假天数](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B4%E5%81%87%E5%A4%A9%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [建议所有单位都拿出岗位给大学生](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%8D%95%E4%BD%8D%E9%83%BD%E6%8B%BF%E5%87%BA%E5%B2%97%E4%BD%8D%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [十四届全国人大二次会议议程抢鲜看](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E8%AE%AE%E7%A8%8B%E6%8A%A2%E9%B2%9C%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [珠宝店店长：从没见过这么高的金价](https://www.baidu.com/s?wd=%E7%8F%A0%E5%AE%9D%E5%BA%97%E5%BA%97%E9%95%BF%EF%BC%9A%E4%BB%8E%E6%B2%A1%E8%A7%81%E8%BF%87%E8%BF%99%E4%B9%88%E9%AB%98%E7%9A%84%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [总书记的暖心问询](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%9A%96%E5%BF%83%E9%97%AE%E8%AF%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [建议对90后个人养老金账户发补贴](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%AF%B990%E5%90%8E%E4%B8%AA%E4%BA%BA%E5%85%BB%E8%80%81%E9%87%91%E8%B4%A6%E6%88%B7%E5%8F%91%E8%A1%A5%E8%B4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [霍启刚建议增加年轻人年假天数](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B4%E5%81%87%E5%A4%A9%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [建议所有单位都拿出岗位给大学生](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%8D%95%E4%BD%8D%E9%83%BD%E6%8B%BF%E5%87%BA%E5%B2%97%E4%BD%8D%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [十四届全国人大二次会议议程抢鲜看](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E8%AE%AE%E7%A8%8B%E6%8A%A2%E9%B2%9C%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [珠宝店店长：从没见过这么高的金价](https://www.baidu.com/s?wd=%E7%8F%A0%E5%AE%9D%E5%BA%97%E5%BA%97%E9%95%BF%EF%BC%9A%E4%BB%8E%E6%B2%A1%E8%A7%81%E8%BF%87%E8%BF%99%E4%B9%88%E9%AB%98%E7%9A%84%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
