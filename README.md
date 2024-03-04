@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 01:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 01:02:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [三月将要播的电视剧](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%9C%88%E5%B0%86%E8%A6%81%E6%92%AD%E7%9A%84%E7%94%B5%E8%A7%86%E5%89%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [体脂率下降的小习惯](https://s.weibo.com/weibo?q=%E4%BD%93%E8%84%82%E7%8E%87%E4%B8%8B%E9%99%8D%E7%9A%84%E5%B0%8F%E4%B9%A0%E6%83%AF&t=31&band_rank=7&Refer=top)<br />
 8. [委员建议放宽35岁就业年龄限制](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E6%94%BE%E5%AE%BD35%E5%B2%81%E5%B0%B1%E4%B8%9A%E5%B9%B4%E9%BE%84%E9%99%90%E5%88%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [建议整治校园形式主义](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%95%B4%E6%B2%BB%E6%A0%A1%E5%9B%AD%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [金价又上涨了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E4%B8%8A%E6%B6%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [建议降低火车飞机票退改签费率](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E9%99%8D%E4%BD%8E%E7%81%AB%E8%BD%A6%E9%A3%9E%E6%9C%BA%E7%A5%A8%E9%80%80%E6%94%B9%E7%AD%BE%E8%B4%B9%E7%8E%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [十四届全国人大二次会议议程抢鲜看](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E8%AE%AE%E7%A8%8B%E6%8A%A2%E9%B2%9C%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [珠宝店店长：从没见过这么高的金价](https://www.baidu.com/s?wd=%E7%8F%A0%E5%AE%9D%E5%BA%97%E5%BA%97%E9%95%BF%EF%BC%9A%E4%BB%8E%E6%B2%A1%E8%A7%81%E8%BF%87%E8%BF%99%E4%B9%88%E9%AB%98%E7%9A%84%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [碧桂园杨惠妍称从未想过躺平](https://www.baidu.com/s?wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%E6%9D%A8%E6%83%A0%E5%A6%8D%E7%A7%B0%E4%BB%8E%E6%9C%AA%E6%83%B3%E8%BF%87%E8%BA%BA%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [国足新帅现身济南助威泰山亚冠](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E6%96%B0%E5%B8%85%E7%8E%B0%E8%BA%AB%E6%B5%8E%E5%8D%97%E5%8A%A9%E5%A8%81%E6%B3%B0%E5%B1%B1%E4%BA%9A%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [睡前玩8分钟手机身体兴奋1小时](https://www.baidu.com/s?wd=%E7%9D%A1%E5%89%8D%E7%8E%A98%E5%88%86%E9%92%9F%E6%89%8B%E6%9C%BA%E8%BA%AB%E4%BD%93%E5%85%B4%E5%A5%8B1%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国足新帅现身济南助威泰山亚冠](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E6%96%B0%E5%B8%85%E7%8E%B0%E8%BA%AB%E6%B5%8E%E5%8D%97%E5%8A%A9%E5%A8%81%E6%B3%B0%E5%B1%B1%E4%BA%9A%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [睡前玩8分钟手机身体兴奋1小时](https://www.baidu.com/s?wd=%E7%9D%A1%E5%89%8D%E7%8E%A98%E5%88%86%E9%92%9F%E6%89%8B%E6%9C%BA%E8%BA%AB%E4%BD%93%E5%85%B4%E5%A5%8B1%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [建议允许职工积累假期兑换小长假](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%85%81%E8%AE%B8%E8%81%8C%E5%B7%A5%E7%A7%AF%E7%B4%AF%E5%81%87%E6%9C%9F%E5%85%91%E6%8D%A2%E5%B0%8F%E9%95%BF%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“春捂”就是多穿点？](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%A5%E6%8D%82%E2%80%9D%E5%B0%B1%E6%98%AF%E5%A4%9A%E7%A9%BF%E7%82%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [建议降低火车飞机票退改签费率](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E9%99%8D%E4%BD%8E%E7%81%AB%E8%BD%A6%E9%A3%9E%E6%9C%BA%E7%A5%A8%E9%80%80%E6%94%B9%E7%AD%BE%E8%B4%B9%E7%8E%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [十四届全国人大二次会议议程抢鲜看](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E8%AE%AE%E7%A8%8B%E6%8A%A2%E9%B2%9C%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [珠宝店店长：从没见过这么高的金价](https://www.baidu.com/s?wd=%E7%8F%A0%E5%AE%9D%E5%BA%97%E5%BA%97%E9%95%BF%EF%BC%9A%E4%BB%8E%E6%B2%A1%E8%A7%81%E8%BF%87%E8%BF%99%E4%B9%88%E9%AB%98%E7%9A%84%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [碧桂园杨惠妍称从未想过躺平](https://www.baidu.com/s?wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%E6%9D%A8%E6%83%A0%E5%A6%8D%E7%A7%B0%E4%BB%8E%E6%9C%AA%E6%83%B3%E8%BF%87%E8%BA%BA%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [国足新帅现身济南助威泰山亚冠](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E6%96%B0%E5%B8%85%E7%8E%B0%E8%BA%AB%E6%B5%8E%E5%8D%97%E5%8A%A9%E5%A8%81%E6%B3%B0%E5%B1%B1%E4%BA%9A%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [睡前玩8分钟手机身体兴奋1小时](https://www.baidu.com/s?wd=%E7%9D%A1%E5%89%8D%E7%8E%A98%E5%88%86%E9%92%9F%E6%89%8B%E6%9C%BA%E8%BA%AB%E4%BD%93%E5%85%B4%E5%A5%8B1%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [国足新帅现身济南助威泰山亚冠](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E6%96%B0%E5%B8%85%E7%8E%B0%E8%BA%AB%E6%B5%8E%E5%8D%97%E5%8A%A9%E5%A8%81%E6%B3%B0%E5%B1%B1%E4%BA%9A%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [睡前玩8分钟手机身体兴奋1小时](https://www.baidu.com/s?wd=%E7%9D%A1%E5%89%8D%E7%8E%A98%E5%88%86%E9%92%9F%E6%89%8B%E6%9C%BA%E8%BA%AB%E4%BD%93%E5%85%B4%E5%A5%8B1%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [建议允许职工积累假期兑换小长假](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%85%81%E8%AE%B8%E8%81%8C%E5%B7%A5%E7%A7%AF%E7%B4%AF%E5%81%87%E6%9C%9F%E5%85%91%E6%8D%A2%E5%B0%8F%E9%95%BF%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“春捂”就是多穿点？](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%A5%E6%8D%82%E2%80%9D%E5%B0%B1%E6%98%AF%E5%A4%9A%E7%A9%BF%E7%82%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
