@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 09:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 09:48:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [建议增加双一流大学招收对口高职生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%8F%8C%E4%B8%80%E6%B5%81%E5%A4%A7%E5%AD%A6%E6%8B%9B%E6%94%B6%E5%AF%B9%E5%8F%A3%E9%AB%98%E8%81%8C%E7%94%9F%23&t=31&band_rank=4&Refer=top)<br />
 5. [多所院校呼吁毕业生积极就业](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%99%A2%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E7%A7%AF%E6%9E%81%E5%B0%B1%E4%B8%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [福宝](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D&t=31&band_rank=6&Refer=top)<br />
-7. [回南天](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
-8. [G社拍的杨超越](https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E6%9D%A8%E8%B6%85%E8%B6%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [建议农民养老金统一上调](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E7%BB%9F%E4%B8%80%E4%B8%8A%E8%B0%83%23&t=31&band_rank=9&Refer=top)<br />
+7. [建议农民养老金统一上调](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E7%BB%9F%E4%B8%80%E4%B8%8A%E8%B0%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [回南天](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9&t=31&band_rank=8&Refer=top)<br />
+9. [G社拍的杨超越](https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E6%9D%A8%E8%B6%85%E8%B6%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
