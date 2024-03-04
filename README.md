@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 10:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 10:24:01</h4></div>
 
 > 微博  
 
-1. [大三男生黄鹤楼摆摊拍照月赚8000元](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%89%E7%94%B7%E7%94%9F%E9%BB%84%E9%B9%A4%E6%A5%BC%E6%91%86%E6%91%8A%E6%8B%8D%E7%85%A7%E6%9C%88%E8%B5%9A8000%E5%85%83%23&t=31&band_rank=1&Refer=top)<br />
-2. [福宝](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D&t=31&band_rank=2&Refer=top)<br />
+1. [福宝](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D&t=31&band_rank=1&Refer=top)<br />
+2. [大三男生黄鹤楼摆摊拍照月赚8000元](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%89%E7%94%B7%E7%94%9F%E9%BB%84%E9%B9%A4%E6%A5%BC%E6%91%86%E6%91%8A%E6%8B%8D%E7%85%A7%E6%9C%88%E8%B5%9A8000%E5%85%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [两会你我他](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%E4%BD%A0%E6%88%91%E4%BB%96%23&t=31&band_rank=3&Refer=top)<br />
 4. [00后新警认出嫌疑人后嘴角上扬](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%96%B0%E8%AD%A6%E8%AE%A4%E5%87%BA%E5%AB%8C%E7%96%91%E4%BA%BA%E5%90%8E%E5%98%B4%E8%A7%92%E4%B8%8A%E6%89%AC%23&t=31&band_rank=4&Refer=top)<br />
 5. [建议农民养老金统一上调](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E7%BB%9F%E4%B8%80%E4%B8%8A%E8%B0%83%23&t=31&band_rank=5&Refer=top)<br />
