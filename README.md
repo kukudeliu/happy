@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 09:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 09:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [建议增加双一流大学招收对口高职生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%8F%8C%E4%B8%80%E6%B5%81%E5%A4%A7%E5%AD%A6%E6%8B%9B%E6%94%B6%E5%AF%B9%E5%8F%A3%E9%AB%98%E8%81%8C%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [不背单词 还没修好](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D%20%E8%BF%98%E6%B2%A1%E4%BF%AE%E5%A5%BD&t=31&band_rank=6&Refer=top)<br />
 7. [G社拍的杨超越](https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E6%9D%A8%E8%B6%85%E8%B6%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [亚洲首富之子减肥108公斤后又胖回来了](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E9%A6%96%E5%AF%8C%E4%B9%8B%E5%AD%90%E5%87%8F%E8%82%A5108%E5%85%AC%E6%96%A4%E5%90%8E%E5%8F%88%E8%83%96%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈芋汐10米台冠军](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%9010%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
+8. [陈芋汐10米台冠军](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%9010%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
+9. [亚洲首富之子减肥108公斤后又胖回来了](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E9%A6%96%E5%AF%8C%E4%B9%8B%E5%AD%90%E5%87%8F%E8%82%A5108%E5%85%AC%E6%96%A4%E5%90%8E%E5%8F%88%E8%83%96%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
