@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 09:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 09:21:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [央视评快递新规施行](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E5%BF%AB%E9%80%92%E6%96%B0%E8%A7%84%E6%96%BD%E8%A1%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [不背单词 还没修好](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D%20%E8%BF%98%E6%B2%A1%E4%BF%AE%E5%A5%BD&t=31&band_rank=6&Refer=top)<br />
 7. [G社拍的杨超越](https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E6%9D%A8%E8%B6%85%E8%B6%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [多所院校呼吁毕业生积极就业](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%99%A2%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E7%A7%AF%E6%9E%81%E5%B0%B1%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [大三男生黄鹤楼摆摊拍照月赚8000元](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%89%E7%94%B7%E7%94%9F%E9%BB%84%E9%B9%A4%E6%A5%BC%E6%91%86%E6%91%8A%E6%8B%8D%E7%85%A7%E6%9C%88%E8%B5%9A8000%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+8. [大三男生黄鹤楼摆摊拍照月赚8000元](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%89%E7%94%B7%E7%94%9F%E9%BB%84%E9%B9%A4%E6%A5%BC%E6%91%86%E6%91%8A%E6%8B%8D%E7%85%A7%E6%9C%88%E8%B5%9A8000%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [多所院校呼吁毕业生积极就业](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%99%A2%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E7%A7%AF%E6%9E%81%E5%B0%B1%E4%B8%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
