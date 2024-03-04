@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 17:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 17:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [为何说今年是十四五的关键一年](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E8%AF%B4%E4%BB%8A%E5%B9%B4%E6%98%AF%E5%8D%81%E5%9B%9B%E4%BA%94%E7%9A%84%E5%85%B3%E9%94%AE%E4%B8%80%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [建议大学每500名学生配1名心理教师](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AD%A6%E6%AF%8F500%E5%90%8D%E5%AD%A6%E7%94%9F%E9%85%8D1%E5%90%8D%E5%BF%83%E7%90%86%E6%95%99%E5%B8%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [河南一学校2000人开会表扬14岁男孩](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%AD%A6%E6%A0%A12000%E4%BA%BA%E5%BC%80%E4%BC%9A%E8%A1%A8%E6%89%AC14%E5%B2%81%E7%94%B7%E5%AD%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [人大代表谈山河大学](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B0%88%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [建议把课间十分钟还给学生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%AF%BE%E9%97%B4%E5%8D%81%E5%88%86%E9%92%9F%E8%BF%98%E7%BB%99%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [建议把课间十分钟还给学生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%AF%BE%E9%97%B4%E5%8D%81%E5%88%86%E9%92%9F%E8%BF%98%E7%BB%99%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [人大代表谈山河大学](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B0%88%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
