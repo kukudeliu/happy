@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 22:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 22:59:02</h4></div>
 
 > 微博  
 
-1. [建议允许职工积累假期兑换小长假](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%81%E8%AE%B8%E8%81%8C%E5%B7%A5%E7%A7%AF%E7%B4%AF%E5%81%87%E6%9C%9F%E5%85%91%E6%8D%A2%E5%B0%8F%E9%95%BF%E5%81%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [建议增加年轻人年假天数](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B4%E5%81%87%E5%A4%A9%E6%95%B0%23&t=31&band_rank=2&Refer=top)<br />
+1. [建议增加年轻人年假天数](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B4%E5%81%87%E5%A4%A9%E6%95%B0%23&t=31&band_rank=1&Refer=top)<br />
+2. [建议允许职工积累假期兑换小长假](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%81%E8%AE%B8%E8%81%8C%E5%B7%A5%E7%A7%AF%E7%B4%AF%E5%81%87%E6%9C%9F%E5%85%91%E6%8D%A2%E5%B0%8F%E9%95%BF%E5%81%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [全国两会五大看点](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E4%BA%94%E5%A4%A7%E7%9C%8B%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [体脂率下降的小习惯](https://s.weibo.com/weibo?q=%E4%BD%93%E8%84%82%E7%8E%87%E4%B8%8B%E9%99%8D%E7%9A%84%E5%B0%8F%E4%B9%A0%E6%83%AF&t=31&band_rank=4&Refer=top)<br />
 5. [iPad什么时候出](https://s.weibo.com/weibo?q=%23iPad%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%87%BA%23&t=31&band_rank=5&Refer=top)<br />
