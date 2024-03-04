@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 05:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 05:35:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [他才4岁已经懂得了分别的滋味](https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%89%8D4%E5%B2%81%E5%B7%B2%E7%BB%8F%E6%87%82%E5%BE%97%E4%BA%86%E5%88%86%E5%88%AB%E7%9A%84%E6%BB%8B%E5%91%B3%23&t=31&band_rank=4&Refer=top)<br />
 5. [父亲心疼女儿被撞伤将床头柱锯掉](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BF%83%E7%96%BC%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%92%9E%E4%BC%A4%E5%B0%86%E5%BA%8A%E5%A4%B4%E6%9F%B1%E9%94%AF%E6%8E%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [委员建议放宽35岁就业年龄限制](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E6%94%BE%E5%AE%BD35%E5%B2%81%E5%B0%B1%E4%B8%9A%E5%B9%B4%E9%BE%84%E9%99%90%E5%88%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [女孩公交卡掉进夹缝里司机掏出10块钱](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%85%AC%E4%BA%A4%E5%8D%A1%E6%8E%89%E8%BF%9B%E5%A4%B9%E7%BC%9D%E9%87%8C%E5%8F%B8%E6%9C%BA%E6%8E%8F%E5%87%BA10%E5%9D%97%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [建议增加年轻人年假天数](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B4%E5%81%87%E5%A4%A9%E6%95%B0%23&t=31&band_rank=8&Refer=top)<br />
+7. [建议增加年轻人年假天数](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B4%E5%81%87%E5%A4%A9%E6%95%B0%23&t=31&band_rank=7&Refer=top)<br />
+8. [女孩公交卡掉进夹缝里司机掏出10块钱](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%85%AC%E4%BA%A4%E5%8D%A1%E6%8E%89%E8%BF%9B%E5%A4%B9%E7%BC%9D%E9%87%8C%E5%8F%B8%E6%9C%BA%E6%8E%8F%E5%87%BA10%E5%9D%97%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [海底捞宣布将推加盟特许经营模式](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%AE%A3%E5%B8%83%E5%B0%86%E6%8E%A8%E5%8A%A0%E7%9B%9F%E7%89%B9%E8%AE%B8%E7%BB%8F%E8%90%A5%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
