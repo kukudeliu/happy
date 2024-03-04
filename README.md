@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 11:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 11:14:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [微视频：巨变](https://www.baidu.com/s?wd=%E5%BE%AE%E8%A7%86%E9%A2%91%EF%BC%9A%E5%B7%A8%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [好消息:回暖了 坏消息:回南天来了](https://www.baidu.com/s?wd=%E5%A5%BD%E6%B6%88%E6%81%AF%3A%E5%9B%9E%E6%9A%96%E4%BA%86+%E5%9D%8F%E6%B6%88%E6%81%AF%3A%E5%9B%9E%E5%8D%97%E5%A4%A9%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白敬亭起诉黑粉侵权](https://www.baidu.com/s?wd=%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B5%B7%E8%AF%89%E9%BB%91%E7%B2%89%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [游客多次向老虎身上滋饮料](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%A4%9A%E6%AC%A1%E5%90%91%E8%80%81%E8%99%8E%E8%BA%AB%E4%B8%8A%E6%BB%8B%E9%A5%AE%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雷军建议加强人工智能人才培养](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%BB%BA%E8%AE%AE%E5%8A%A0%E5%BC%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BA%BA%E6%89%8D%E5%9F%B9%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [建议建立大学生网络游戏防沉迷机制](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%BB%BA%E7%AB%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F%E9%98%B2%E6%B2%89%E8%BF%B7%E6%9C%BA%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客多次向老虎身上滋饮料](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%A4%9A%E6%AC%A1%E5%90%91%E8%80%81%E8%99%8E%E8%BA%AB%E4%B8%8A%E6%BB%8B%E9%A5%AE%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州现最薄纸片楼？](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E7%8E%B0%E6%9C%80%E8%96%84%E7%BA%B8%E7%89%87%E6%A5%BC%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [微视频：巨变](https://www.baidu.com/s?wd=%E5%BE%AE%E8%A7%86%E9%A2%91%EF%BC%9A%E5%B7%A8%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [好消息:回暖了 坏消息:回南天来了](https://www.baidu.com/s?wd=%E5%A5%BD%E6%B6%88%E6%81%AF%3A%E5%9B%9E%E6%9A%96%E4%BA%86+%E5%9D%8F%E6%B6%88%E6%81%AF%3A%E5%9B%9E%E5%8D%97%E5%A4%A9%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [白敬亭起诉黑粉侵权](https://www.baidu.com/s?wd=%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B5%B7%E8%AF%89%E9%BB%91%E7%B2%89%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [游客多次向老虎身上滋饮料](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%A4%9A%E6%AC%A1%E5%90%91%E8%80%81%E8%99%8E%E8%BA%AB%E4%B8%8A%E6%BB%8B%E9%A5%AE%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雷军建议加强人工智能人才培养](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%BB%BA%E8%AE%AE%E5%8A%A0%E5%BC%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BA%BA%E6%89%8D%E5%9F%B9%E5%85%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [建议建立大学生网络游戏防沉迷机制](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%BB%BA%E7%AB%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F%E9%98%B2%E6%B2%89%E8%BF%B7%E6%9C%BA%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [游客多次向老虎身上滋饮料](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%A4%9A%E6%AC%A1%E5%90%91%E8%80%81%E8%99%8E%E8%BA%AB%E4%B8%8A%E6%BB%8B%E9%A5%AE%E6%96%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州现最薄纸片楼？](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E7%8E%B0%E6%9C%80%E8%96%84%E7%BA%B8%E7%89%87%E6%A5%BC%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
