@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 10:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 10:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [姜爷爷宋爷爷哭成泪人](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%88%B7%E7%88%B7%E5%AE%8B%E7%88%B7%E7%88%B7%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘诗诗窦骁开机同框](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%AA%A6%E9%AA%81%E5%BC%80%E6%9C%BA%E5%90%8C%E6%A1%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [人总是会反复爱上阮经天](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%80%BB%E6%98%AF%E4%BC%9A%E5%8F%8D%E5%A4%8D%E7%88%B1%E4%B8%8A%E9%98%AE%E7%BB%8F%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [iPhoneSE4渲染图](https://s.weibo.com/weibo?q=%23iPhoneSE4%E6%B8%B2%E6%9F%93%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [白敬亭起诉黑粉侵权](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B5%B7%E8%AF%89%E9%BB%91%E7%B2%89%E4%BE%B5%E6%9D%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
