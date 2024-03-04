@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 14:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 14:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大理寺少卿游 陈拾大boss](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%90%86%E5%AF%BA%E5%B0%91%E5%8D%BF%E6%B8%B8%20%E9%99%88%E6%8B%BE%E5%A4%A7boss&t=31&band_rank=6&Refer=top)<br />
 7. [建议全面取消基层医疗门诊报销起付线](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E5%9F%BA%E5%B1%82%E5%8C%BB%E7%96%97%E9%97%A8%E8%AF%8A%E6%8A%A5%E9%94%80%E8%B5%B7%E4%BB%98%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [建议考研统一命题不是说全国一张卷](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%80%83%E7%A0%94%E7%BB%9F%E4%B8%80%E5%91%BD%E9%A2%98%E4%B8%8D%E6%98%AF%E8%AF%B4%E5%85%A8%E5%9B%BD%E4%B8%80%E5%BC%A0%E5%8D%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国姨姨特意到韩国接福宝](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A7%A8%E5%A7%A8%E7%89%B9%E6%84%8F%E5%88%B0%E9%9F%A9%E5%9B%BD%E6%8E%A5%E7%A6%8F%E5%AE%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [被DYG穷笑了](https://s.weibo.com/weibo?q=%E8%A2%ABDYG%E7%A9%B7%E7%AC%91%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
