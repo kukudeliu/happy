@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 17:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 17:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [福宝回国将入住神树坪](https://www.baidu.com/s?wd=%E7%A6%8F%E5%AE%9D%E5%9B%9E%E5%9B%BD%E5%B0%86%E5%85%A5%E4%BD%8F%E7%A5%9E%E6%A0%91%E5%9D%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高价酸奶的神话或已成历史](https://www.baidu.com/s?wd=%E9%AB%98%E4%BB%B7%E9%85%B8%E5%A5%B6%E7%9A%84%E7%A5%9E%E8%AF%9D%E6%88%96%E5%B7%B2%E6%88%90%E5%8E%86%E5%8F%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [建议高校招生适度向人口大省倾斜](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E9%AB%98%E6%A0%A1%E6%8B%9B%E7%94%9F%E9%80%82%E5%BA%A6%E5%90%91%E4%BA%BA%E5%8F%A3%E5%A4%A7%E7%9C%81%E5%80%BE%E6%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子高速犯困开智能驾驶出事故](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E9%80%9F%E7%8A%AF%E5%9B%B0%E5%BC%80%E6%99%BA%E8%83%BD%E9%A9%BE%E9%A9%B6%E5%87%BA%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [建议建立大学生网络游戏防沉迷机制](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%BB%BA%E7%AB%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F%E9%98%B2%E6%B2%89%E8%BF%B7%E6%9C%BA%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州现最薄纸片楼？](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E7%8E%B0%E6%9C%80%E8%96%84%E7%BA%B8%E7%89%87%E6%A5%BC%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [福宝回国将入住神树坪](https://www.baidu.com/s?wd=%E7%A6%8F%E5%AE%9D%E5%9B%9E%E5%9B%BD%E5%B0%86%E5%85%A5%E4%BD%8F%E7%A5%9E%E6%A0%91%E5%9D%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高价酸奶的神话或已成历史](https://www.baidu.com/s?wd=%E9%AB%98%E4%BB%B7%E9%85%B8%E5%A5%B6%E7%9A%84%E7%A5%9E%E8%AF%9D%E6%88%96%E5%B7%B2%E6%88%90%E5%8E%86%E5%8F%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [建议高校招生适度向人口大省倾斜](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E9%AB%98%E6%A0%A1%E6%8B%9B%E7%94%9F%E9%80%82%E5%BA%A6%E5%90%91%E4%BA%BA%E5%8F%A3%E5%A4%A7%E7%9C%81%E5%80%BE%E6%96%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子高速犯困开智能驾驶出事故](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E9%80%9F%E7%8A%AF%E5%9B%B0%E5%BC%80%E6%99%BA%E8%83%BD%E9%A9%BE%E9%A9%B6%E5%87%BA%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [建议建立大学生网络游戏防沉迷机制](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%BB%BA%E7%AB%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F%E9%98%B2%E6%B2%89%E8%BF%B7%E6%9C%BA%E5%88%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州现最薄纸片楼？](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E7%8E%B0%E6%9C%80%E8%96%84%E7%BA%B8%E7%89%87%E6%A5%BC%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
