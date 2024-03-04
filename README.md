@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 11:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 11:39:01</h4></div>
 
 > 微博  
 
-1. [建议所有单位都拿出岗位给大学生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%8D%95%E4%BD%8D%E9%83%BD%E6%8B%BF%E5%87%BA%E5%B2%97%E4%BD%8D%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=1&Refer=top)<br />
-2. [建议全面取消基层医疗门诊报销起付线](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E5%9F%BA%E5%B1%82%E5%8C%BB%E7%96%97%E9%97%A8%E8%AF%8A%E6%8A%A5%E9%94%80%E8%B5%B7%E4%BB%98%E7%BA%BF%23&t=31&band_rank=2&Refer=top)<br />
+1. [建议全面取消基层医疗门诊报销起付线](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E5%9F%BA%E5%B1%82%E5%8C%BB%E7%96%97%E9%97%A8%E8%AF%8A%E6%8A%A5%E9%94%80%E8%B5%B7%E4%BB%98%E7%BA%BF%23&t=31&band_rank=1&Refer=top)<br />
+2. [建议所有单位都拿出岗位给大学生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%8D%95%E4%BD%8D%E9%83%BD%E6%8B%BF%E5%87%BA%E5%B2%97%E4%BD%8D%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=2&Refer=top)<br />
 3. [9图了解人大知识点](https://s.weibo.com/weibo?q=%239%E5%9B%BE%E4%BA%86%E8%A7%A3%E4%BA%BA%E5%A4%A7%E7%9F%A5%E8%AF%86%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [福宝](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D&t=31&band_rank=4&Refer=top)<br />
 5. [中国姨姨特意到韩国接福宝](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A7%A8%E5%A7%A8%E7%89%B9%E6%84%8F%E5%88%B0%E9%9F%A9%E5%9B%BD%E6%8E%A5%E7%A6%8F%E5%AE%9D%23&t=31&band_rank=5&Refer=top)<br />
