@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 06:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 06:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [委员建议放宽35岁就业年龄限制](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E6%94%BE%E5%AE%BD35%E5%B2%81%E5%B0%B1%E4%B8%9A%E5%B9%B4%E9%BE%84%E9%99%90%E5%88%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [建议增加年轻人年假天数](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B4%E5%81%87%E5%A4%A9%E6%95%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [建议整治校园形式主义](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%95%B4%E6%B2%BB%E6%A0%A1%E5%9B%AD%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [女孩公交卡掉进夹缝里司机掏出10块钱](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%85%AC%E4%BA%A4%E5%8D%A1%E6%8E%89%E8%BF%9B%E5%A4%B9%E7%BC%9D%E9%87%8C%E5%8F%B8%E6%9C%BA%E6%8E%8F%E5%87%BA10%E5%9D%97%E9%92%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [全国政协委员建议取消入住酒店必须刷脸规定](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%85%A5%E4%BD%8F%E9%85%92%E5%BA%97%E5%BF%85%E9%A1%BB%E5%88%B7%E8%84%B8%E8%A7%84%E5%AE%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
