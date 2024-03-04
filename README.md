@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 09:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 09:37:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [郭敬明点赞回应程潇](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E7%82%B9%E8%B5%9E%E5%9B%9E%E5%BA%94%E7%A8%8B%E6%BD%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [吴艳妮看到了和世界高手的差距](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E7%9C%8B%E5%88%B0%E4%BA%86%E5%92%8C%E4%B8%96%E7%95%8C%E9%AB%98%E6%89%8B%E7%9A%84%E5%B7%AE%E8%B7%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [回南天](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
-8. [不背单词 还没修好](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D%20%E8%BF%98%E6%B2%A1%E4%BF%AE%E5%A5%BD&t=31&band_rank=8&Refer=top)<br />
-9. [多所院校呼吁毕业生积极就业](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%99%A2%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E7%A7%AF%E6%9E%81%E5%B0%B1%E4%B8%9A%23&t=31&band_rank=9&Refer=top)<br />
+8. [多所院校呼吁毕业生积极就业](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%99%A2%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E7%A7%AF%E6%9E%81%E5%B0%B1%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
+9. [不背单词 还没修好](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D%20%E8%BF%98%E6%B2%A1%E4%BF%AE%E5%A5%BD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
