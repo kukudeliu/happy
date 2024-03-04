@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 18:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 18:33:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [1元纸币上的女拖拉机手今年91了](https://s.weibo.com/weibo?q=%231%E5%85%83%E7%BA%B8%E5%B8%81%E4%B8%8A%E7%9A%84%E5%A5%B3%E6%8B%96%E6%8B%89%E6%9C%BA%E6%89%8B%E4%BB%8A%E5%B9%B491%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [建议大学每500名学生配1名心理教师](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AD%A6%E6%AF%8F500%E5%90%8D%E5%AD%A6%E7%94%9F%E9%85%8D1%E5%90%8D%E5%BF%83%E7%90%86%E6%95%99%E5%B8%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [建议把课间十分钟还给学生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%AF%BE%E9%97%B4%E5%8D%81%E5%88%86%E9%92%9F%E8%BF%98%E7%BB%99%E5%AD%A6%E7%94%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [福宝回国将落户神树坪](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%9B%9E%E5%9B%BD%E5%B0%86%E8%90%BD%E6%88%B7%E7%A5%9E%E6%A0%91%E5%9D%AA%23&t=31&band_rank=7&Refer=top)<br />
-8. [国家医保局回复癌症筛查纳入医保](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%9B%9E%E5%A4%8D%E7%99%8C%E7%97%87%E7%AD%9B%E6%9F%A5%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%23&t=31&band_rank=8&Refer=top)<br />
+7. [国家医保局回复癌症筛查纳入医保](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%9B%9E%E5%A4%8D%E7%99%8C%E7%97%87%E7%AD%9B%E6%9F%A5%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%23&t=31&band_rank=7&Refer=top)<br />
+8. [福宝回国将落户神树坪](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%9B%9E%E5%9B%BD%E5%B0%86%E8%90%BD%E6%88%B7%E7%A5%9E%E6%A0%91%E5%9D%AA%23&t=31&band_rank=8&Refer=top)<br />
 9. [拄着盲杖他说可以没视力不能没眼光](https://s.weibo.com/weibo?q=%23%E6%8B%84%E7%9D%80%E7%9B%B2%E6%9D%96%E4%BB%96%E8%AF%B4%E5%8F%AF%E4%BB%A5%E6%B2%A1%E8%A7%86%E5%8A%9B%E4%B8%8D%E8%83%BD%E6%B2%A1%E7%9C%BC%E5%85%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
