@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 17:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 17:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [ChatGPT论文修改指令](https://s.weibo.com/weibo?q=ChatGPT%E8%AE%BA%E6%96%87%E4%BF%AE%E6%94%B9%E6%8C%87%E4%BB%A4&t=31&band_rank=6&Refer=top)<br />
 7. [建议把课间十分钟还给学生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%AF%BE%E9%97%B4%E5%8D%81%E5%88%86%E9%92%9F%E8%BF%98%E7%BB%99%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [建议重视青少年抑郁症](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%87%8D%E8%A7%86%E9%9D%92%E5%B0%91%E5%B9%B4%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [河南一学校2000人开会表扬14岁男孩](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%AD%A6%E6%A0%A12000%E4%BA%BA%E5%BC%80%E4%BC%9A%E8%A1%A8%E6%89%AC14%E5%B2%81%E7%94%B7%E5%AD%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [人大代表谈山河大学](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B0%88%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
