@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 17:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 17:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [人大代表谈山河大学](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B0%88%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [全国政协十四届二次会议开幕会](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%8D%81%E5%9B%9B%E5%B1%8A%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%BC%80%E5%B9%95%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [建议把课间十分钟还给学生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%AF%BE%E9%97%B4%E5%8D%81%E5%88%86%E9%92%9F%E8%BF%98%E7%BB%99%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [1天内9家车企宣布降价](https://s.weibo.com/weibo?q=%231%E5%A4%A9%E5%86%859%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%AE%A3%E5%B8%83%E9%99%8D%E4%BB%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [建议大学每500名学生配1名心理教师](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AD%A6%E6%AF%8F500%E5%90%8D%E5%AD%A6%E7%94%9F%E9%85%8D1%E5%90%8D%E5%BF%83%E7%90%86%E6%95%99%E5%B8%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,7 +23,7 @@
 4. [你所关心的正是两会所关切的](https://www.baidu.com/s?wd=%E4%BD%A0%E6%89%80%E5%85%B3%E5%BF%83%E7%9A%84%E6%AD%A3%E6%98%AF%E4%B8%A4%E4%BC%9A%E6%89%80%E5%85%B3%E5%88%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高价酸奶的神话或已成历史](https://www.baidu.com/s?wd=%E9%AB%98%E4%BB%B7%E9%85%B8%E5%A5%B6%E7%9A%84%E7%A5%9E%E8%AF%9D%E6%88%96%E5%B7%B2%E6%88%90%E5%8E%86%E5%8F%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [董明珠回应员工跳槽要支付培训费](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E8%B7%B3%E6%A7%BD%E8%A6%81%E6%94%AF%E4%BB%98%E5%9F%B9%E8%AE%AD%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [建议用高考经验改革研究生初试](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E7%94%A8%E9%AB%98%E8%80%83%E7%BB%8F%E9%AA%8C%E6%94%B9%E9%9D%A9%E7%A0%94%E7%A9%B6%E7%94%9F%E5%88%9D%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子高速犯困开智能驾驶出事故](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E9%80%9F%E7%8A%AF%E5%9B%B0%E5%BC%80%E6%99%BA%E8%83%BD%E9%A9%BE%E9%A9%B6%E5%87%BA%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [俄士兵录视频“感谢”美供乌坦克](https://www.baidu.com/s?wd=%E4%BF%84%E5%A3%AB%E5%85%B5%E5%BD%95%E8%A7%86%E9%A2%91%E2%80%9C%E6%84%9F%E8%B0%A2%E2%80%9D%E7%BE%8E%E4%BE%9B%E4%B9%8C%E5%9D%A6%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州现最薄纸片楼？](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E7%8E%B0%E6%9C%80%E8%96%84%E7%BA%B8%E7%89%87%E6%A5%BC%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [你所关心的正是两会所关切的](https://www.baidu.com/s?wd=%E4%BD%A0%E6%89%80%E5%85%B3%E5%BF%83%E7%9A%84%E6%AD%A3%E6%98%AF%E4%B8%A4%E4%BC%9A%E6%89%80%E5%85%B3%E5%88%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [高价酸奶的神话或已成历史](https://www.baidu.com/s?wd=%E9%AB%98%E4%BB%B7%E9%85%B8%E5%A5%B6%E7%9A%84%E7%A5%9E%E8%AF%9D%E6%88%96%E5%B7%B2%E6%88%90%E5%8E%86%E5%8F%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [董明珠回应员工跳槽要支付培训费](https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E8%B7%B3%E6%A7%BD%E8%A6%81%E6%94%AF%E4%BB%98%E5%9F%B9%E8%AE%AD%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [建议用高考经验改革研究生初试](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E7%94%A8%E9%AB%98%E8%80%83%E7%BB%8F%E9%AA%8C%E6%94%B9%E9%9D%A9%E7%A0%94%E7%A9%B6%E7%94%9F%E5%88%9D%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子高速犯困开智能驾驶出事故](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E9%80%9F%E7%8A%AF%E5%9B%B0%E5%BC%80%E6%99%BA%E8%83%BD%E9%A9%BE%E9%A9%B6%E5%87%BA%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [俄士兵录视频“感谢”美供乌坦克](https://www.baidu.com/s?wd=%E4%BF%84%E5%A3%AB%E5%85%B5%E5%BD%95%E8%A7%86%E9%A2%91%E2%80%9C%E6%84%9F%E8%B0%A2%E2%80%9D%E7%BE%8E%E4%BE%9B%E4%B9%8C%E5%9D%A6%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州现最薄纸片楼？](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E7%8E%B0%E6%9C%80%E8%96%84%E7%BA%B8%E7%89%87%E6%A5%BC%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
