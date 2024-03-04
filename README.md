@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 20:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 20:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [全国政协委员建议取消入住酒店必须刷脸规定](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%85%A5%E4%BD%8F%E9%85%92%E5%BA%97%E5%BF%85%E9%A1%BB%E5%88%B7%E8%84%B8%E8%A7%84%E5%AE%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [霍启刚建议建设粤港澳体育湾区](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BB%BA%E8%AE%AE%E5%BB%BA%E8%AE%BE%E7%B2%A4%E6%B8%AF%E6%BE%B3%E4%BD%93%E8%82%B2%E6%B9%BE%E5%8C%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [1元纸币上的女拖拉机手今年91了](https://s.weibo.com/weibo?q=%231%E5%85%83%E7%BA%B8%E5%B8%81%E4%B8%8A%E7%9A%84%E5%A5%B3%E6%8B%96%E6%8B%89%E6%9C%BA%E6%89%8B%E4%BB%8A%E5%B9%B491%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [国内足金首饰价格突破636元每克](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E8%B6%B3%E9%87%91%E9%A6%96%E9%A5%B0%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B4636%E5%85%83%E6%AF%8F%E5%85%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [王楚钦新加坡大满贯兼三项](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%85%BC%E4%B8%89%E9%A1%B9%23&t=31&band_rank=9&Refer=top)<br />
+8. [王楚钦新加坡大满贯兼三项](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%85%BC%E4%B8%89%E9%A1%B9%23&t=31&band_rank=8&Refer=top)<br />
+9. [国内足金首饰价格突破636元每克](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E8%B6%B3%E9%87%91%E9%A6%96%E9%A5%B0%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B4636%E5%85%83%E6%AF%8F%E5%85%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
