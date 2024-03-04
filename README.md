@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 16:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 16:42:01</h4></div>
 
 > 微博  
 
-1. [全国政协十四届二次会议开幕会](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%8D%81%E5%9B%9B%E5%B1%8A%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%BC%80%E5%B9%95%E4%BC%9A%23&t=31&band_rank=1&Refer=top)<br />
-2. [建议所有单位都拿出岗位给大学生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%8D%95%E4%BD%8D%E9%83%BD%E6%8B%BF%E5%87%BA%E5%B2%97%E4%BD%8D%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=2&Refer=top)<br />
+1. [建议所有单位都拿出岗位给大学生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%8D%95%E4%BD%8D%E9%83%BD%E6%8B%BF%E5%87%BA%E5%B2%97%E4%BD%8D%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=1&Refer=top)<br />
+2. [全国政协十四届二次会议开幕会](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%8D%81%E5%9B%9B%E5%B1%8A%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%BC%80%E5%B9%95%E4%BC%9A%23&t=31&band_rank=2&Refer=top)<br />
 3. [十四届全国人大二次会议议程](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E8%AE%AE%E7%A8%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [河南一学校2000人开会表扬14岁男孩](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%AD%A6%E6%A0%A12000%E4%BA%BA%E5%BC%80%E4%BC%9A%E8%A1%A8%E6%89%AC14%E5%B2%81%E7%94%B7%E5%AD%A9%23&t=31&band_rank=4&Refer=top)<br />
 5. [福宝回国将落户神树坪](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%9B%9E%E5%9B%BD%E5%B0%86%E8%90%BD%E6%88%B7%E7%A5%9E%E6%A0%91%E5%9D%AA%23&t=31&band_rank=5&Refer=top)<br />
