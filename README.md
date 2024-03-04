@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 03:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 03:10:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [父亲心疼女儿被撞伤将床头柱锯掉](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BF%83%E7%96%BC%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%92%9E%E4%BC%A4%E5%B0%86%E5%BA%8A%E5%A4%B4%E6%9F%B1%E9%94%AF%E6%8E%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [委员建议放宽35岁就业年龄限制](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E6%94%BE%E5%AE%BD35%E5%B2%81%E5%B0%B1%E4%B8%9A%E5%B9%B4%E9%BE%84%E9%99%90%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [2024乘风破浪](https://s.weibo.com/weibo?q=%232024%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [建议增加年轻人年假天数](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B4%E5%81%87%E5%A4%A9%E6%95%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [建议整治校园形式主义](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%95%B4%E6%B2%BB%E6%A0%A1%E5%9B%AD%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
