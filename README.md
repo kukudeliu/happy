@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 22:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 22:11:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [苹果推M3芯片版MacBookAir](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8E%A8M3%E8%8A%AF%E7%89%87%E7%89%88MacBookAir%23&t=31&band_rank=6&Refer=top)<br />
 7. [金价又上涨了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E4%B8%8A%E6%B6%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [建议所有单位都拿出岗位给大学生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%8D%95%E4%BD%8D%E9%83%BD%E6%8B%BF%E5%87%BA%E5%B2%97%E4%BD%8D%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [鞍山地震](https://s.weibo.com/weibo?q=%E9%9E%8D%E5%B1%B1%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
+9. [建议整治校园形式主义](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%95%B4%E6%B2%BB%E6%A0%A1%E5%9B%AD%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
