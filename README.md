@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 12:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 12:13:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [韩国7千名离岗医生将被吊销执照](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD7%E5%8D%83%E5%90%8D%E7%A6%BB%E5%B2%97%E5%8C%BB%E7%94%9F%E5%B0%86%E8%A2%AB%E5%90%8A%E9%94%80%E6%89%A7%E7%85%A7%23&t=31&band_rank=2&Refer=top)<br />
 3. [9图了解人大知识点](https://s.weibo.com/weibo?q=%239%E5%9B%BE%E4%BA%86%E8%A7%A3%E4%BA%BA%E5%A4%A7%E7%9F%A5%E8%AF%86%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [建议全面取消基层医疗门诊报销起付线](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E5%9F%BA%E5%B1%82%E5%8C%BB%E7%96%97%E9%97%A8%E8%AF%8A%E6%8A%A5%E9%94%80%E8%B5%B7%E4%BB%98%E7%BA%BF%23&t=31&band_rank=4&Refer=top)<br />
-5. [福宝](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D&t=31&band_rank=5&Refer=top)<br />
-6. [队长鹿晗合作新歌](https://s.weibo.com/weibo?q=%23%E9%98%9F%E9%95%BF%E9%B9%BF%E6%99%97%E5%90%88%E4%BD%9C%E6%96%B0%E6%AD%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [阮经天 好生气可还是要保持围笑](https://s.weibo.com/weibo?q=%E9%98%AE%E7%BB%8F%E5%A4%A9%20%E5%A5%BD%E7%94%9F%E6%B0%94%E5%8F%AF%E8%BF%98%E6%98%AF%E8%A6%81%E4%BF%9D%E6%8C%81%E5%9B%B4%E7%AC%91&t=31&band_rank=7&Refer=top)<br />
+5. [阮经天 好生气可还是要保持围笑](https://s.weibo.com/weibo?q=%E9%98%AE%E7%BB%8F%E5%A4%A9%20%E5%A5%BD%E7%94%9F%E6%B0%94%E5%8F%AF%E8%BF%98%E6%98%AF%E8%A6%81%E4%BF%9D%E6%8C%81%E5%9B%B4%E7%AC%91&t=31&band_rank=5&Refer=top)<br />
+6. [建议考研统一命题不是说全国一张卷](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%80%83%E7%A0%94%E7%BB%9F%E4%B8%80%E5%91%BD%E9%A2%98%E4%B8%8D%E6%98%AF%E8%AF%B4%E5%85%A8%E5%9B%BD%E4%B8%80%E5%BC%A0%E5%8D%B7%23&t=31&band_rank=6&Refer=top)<br />
+7. [队长鹿晗合作新歌](https://s.weibo.com/weibo?q=%23%E9%98%9F%E9%95%BF%E9%B9%BF%E6%99%97%E5%90%88%E4%BD%9C%E6%96%B0%E6%AD%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [谢谢你温暖我定档](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E4%BD%A0%E6%B8%A9%E6%9A%96%E6%88%91%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [建议考研统一命题不是说全国一张卷](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%80%83%E7%A0%94%E7%BB%9F%E4%B8%80%E5%91%BD%E9%A2%98%E4%B8%8D%E6%98%AF%E8%AF%B4%E5%85%A8%E5%9B%BD%E4%B8%80%E5%BC%A0%E5%8D%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [福宝](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
