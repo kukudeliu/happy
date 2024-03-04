@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 17:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 17:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [ChatGPT论文修改指令](https://s.weibo.com/weibo?q=ChatGPT%E8%AE%BA%E6%96%87%E4%BF%AE%E6%94%B9%E6%8C%87%E4%BB%A4&t=31&band_rank=5&Refer=top)<br />
 6. [建议大学每500名学生配1名心理教师](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AD%A6%E6%AF%8F500%E5%90%8D%E5%AD%A6%E7%94%9F%E9%85%8D1%E5%90%8D%E5%BF%83%E7%90%86%E6%95%99%E5%B8%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [建议把课间十分钟还给学生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%AF%BE%E9%97%B4%E5%8D%81%E5%88%86%E9%92%9F%E8%BF%98%E7%BB%99%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [河南一学校2000人开会表扬14岁男孩](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%AD%A6%E6%A0%A12000%E4%BA%BA%E5%BC%80%E4%BC%9A%E8%A1%A8%E6%89%AC14%E5%B2%81%E7%94%B7%E5%AD%A9%23&t=31&band_rank=8&Refer=top)<br />
-9. [建议重视青少年抑郁症](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%87%8D%E8%A7%86%E9%9D%92%E5%B0%91%E5%B9%B4%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=9&Refer=top)<br />
+8. [建议重视青少年抑郁症](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%87%8D%E8%A7%86%E9%9D%92%E5%B0%91%E5%B9%B4%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [河南一学校2000人开会表扬14岁男孩](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%AD%A6%E6%A0%A12000%E4%BA%BA%E5%BC%80%E4%BC%9A%E8%A1%A8%E6%89%AC14%E5%B2%81%E7%94%B7%E5%AD%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [福宝回国将入住神树坪](https://www.baidu.com/s?wd=%E7%A6%8F%E5%AE%9D%E5%9B%9E%E5%9B%BD%E5%B0%86%E5%85%A5%E4%BD%8F%E7%A5%9E%E6%A0%91%E5%9D%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高价酸奶的神话或已成历史](https://www.baidu.com/s?wd=%E9%AB%98%E4%BB%B7%E9%85%B8%E5%A5%B6%E7%9A%84%E7%A5%9E%E8%AF%9D%E6%88%96%E5%B7%B2%E6%88%90%E5%8E%86%E5%8F%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国跳水队9金1银2铜完美收官](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%98%9F9%E9%87%911%E9%93%B62%E9%93%9C%E5%AE%8C%E7%BE%8E%E6%94%B6%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [政协委员：不应滥用犯罪附随后果](https://www.baidu.com/s?wd=%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%EF%BC%9A%E4%B8%8D%E5%BA%94%E6%BB%A5%E7%94%A8%E7%8A%AF%E7%BD%AA%E9%99%84%E9%9A%8F%E5%90%8E%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子高速犯困开智能驾驶出事故](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E9%80%9F%E7%8A%AF%E5%9B%B0%E5%BC%80%E6%99%BA%E8%83%BD%E9%A9%BE%E9%A9%B6%E5%87%BA%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州现最薄纸片楼？](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E7%8E%B0%E6%9C%80%E8%96%84%E7%BA%B8%E7%89%87%E6%A5%BC%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [福宝回国将入住神树坪](https://www.baidu.com/s?wd=%E7%A6%8F%E5%AE%9D%E5%9B%9E%E5%9B%BD%E5%B0%86%E5%85%A5%E4%BD%8F%E7%A5%9E%E6%A0%91%E5%9D%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高价酸奶的神话或已成历史](https://www.baidu.com/s?wd=%E9%AB%98%E4%BB%B7%E9%85%B8%E5%A5%B6%E7%9A%84%E7%A5%9E%E8%AF%9D%E6%88%96%E5%B7%B2%E6%88%90%E5%8E%86%E5%8F%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国跳水队9金1银2铜完美收官](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%98%9F9%E9%87%911%E9%93%B62%E9%93%9C%E5%AE%8C%E7%BE%8E%E6%94%B6%E5%AE%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [政协委员：不应滥用犯罪附随后果](https://www.baidu.com/s?wd=%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%EF%BC%9A%E4%B8%8D%E5%BA%94%E6%BB%A5%E7%94%A8%E7%8A%AF%E7%BD%AA%E9%99%84%E9%9A%8F%E5%90%8E%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子高速犯困开智能驾驶出事故](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AB%98%E9%80%9F%E7%8A%AF%E5%9B%B0%E5%BC%80%E6%99%BA%E8%83%BD%E9%A9%BE%E9%A9%B6%E5%87%BA%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [郑州现最薄纸片楼？](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E7%8E%B0%E6%9C%80%E8%96%84%E7%BA%B8%E7%89%87%E6%A5%BC%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
