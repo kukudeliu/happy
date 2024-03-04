@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 11:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 11:07:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [福宝](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D&t=31&band_rank=2&Refer=top)<br />
 3. [两会你我他](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%E4%BD%A0%E6%88%91%E4%BB%96%23&t=31&band_rank=3&Refer=top)<br />
 4. [白敬亭起诉黑粉侵权](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B5%B7%E8%AF%89%E9%BB%91%E7%B2%89%E4%BE%B5%E6%9D%83%23&t=31&band_rank=4&Refer=top)<br />
-5. [00后新警认出嫌疑人后嘴角上扬](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%96%B0%E8%AD%A6%E8%AE%A4%E5%87%BA%E5%AB%8C%E7%96%91%E4%BA%BA%E5%90%8E%E5%98%B4%E8%A7%92%E4%B8%8A%E6%89%AC%23&t=31&band_rank=5&Refer=top)<br />
-6. [代表建议建立大学生网络游戏防沉迷机制](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%BB%BA%E7%AB%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F%E9%98%B2%E6%B2%89%E8%BF%B7%E6%9C%BA%E5%88%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [姜爷爷宋爷爷哭成泪人](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%88%B7%E7%88%B7%E5%AE%8B%E7%88%B7%E7%88%B7%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国姨姨特意到韩国接福宝](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A7%A8%E5%A7%A8%E7%89%B9%E6%84%8F%E5%88%B0%E9%9F%A9%E5%9B%BD%E6%8E%A5%E7%A6%8F%E5%AE%9D%23&t=31&band_rank=8&Refer=top)<br />
-9. [队长鹿晗合作新歌](https://s.weibo.com/weibo?q=%23%E9%98%9F%E9%95%BF%E9%B9%BF%E6%99%97%E5%90%88%E4%BD%9C%E6%96%B0%E6%AD%8C%23&t=31&band_rank=9&Refer=top)<br />
+5. [代表建议建立大学生网络游戏防沉迷机制](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%BB%BA%E7%AB%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F%E9%98%B2%E6%B2%89%E8%BF%B7%E6%9C%BA%E5%88%B6%23&t=31&band_rank=5&Refer=top)<br />
+6. [00后新警认出嫌疑人后嘴角上扬](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%96%B0%E8%AD%A6%E8%AE%A4%E5%87%BA%E5%AB%8C%E7%96%91%E4%BA%BA%E5%90%8E%E5%98%B4%E8%A7%92%E4%B8%8A%E6%89%AC%23&t=31&band_rank=6&Refer=top)<br />
+7. [中国姨姨特意到韩国接福宝](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A7%A8%E5%A7%A8%E7%89%B9%E6%84%8F%E5%88%B0%E9%9F%A9%E5%9B%BD%E6%8E%A5%E7%A6%8F%E5%AE%9D%23&t=31&band_rank=7&Refer=top)<br />
+8. [队长鹿晗合作新歌](https://s.weibo.com/weibo?q=%23%E9%98%9F%E9%95%BF%E9%B9%BF%E6%99%97%E5%90%88%E4%BD%9C%E6%96%B0%E6%AD%8C%23&t=31&band_rank=8&Refer=top)<br />
+9. [姜爷爷宋爷爷哭成泪人](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%88%B7%E7%88%B7%E5%AE%8B%E7%88%B7%E7%88%B7%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
