@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 09:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 09:15:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [不背单词 还没修好](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D%20%E8%BF%98%E6%B2%A1%E4%BF%AE%E5%A5%BD&t=31&band_rank=6&Refer=top)<br />
 7. [G社拍的杨超越](https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E6%9D%A8%E8%B6%85%E8%B6%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈芋汐10米台冠军](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%9010%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [亚洲首富之子减肥108公斤后又胖回来了](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E9%A6%96%E5%AF%8C%E4%B9%8B%E5%AD%90%E5%87%8F%E8%82%A5108%E5%85%AC%E6%96%A4%E5%90%8E%E5%8F%88%E8%83%96%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [多所院校呼吁毕业生积极就业](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%99%A2%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E7%A7%AF%E6%9E%81%E5%B0%B1%E4%B8%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
