@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 10:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 10:27:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [建议农民养老金统一上调](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E7%BB%9F%E4%B8%80%E4%B8%8A%E8%B0%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [建议全面取消基层医疗门诊报销起付线](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E5%9F%BA%E5%B1%82%E5%8C%BB%E7%96%97%E9%97%A8%E8%AF%8A%E6%8A%A5%E9%94%80%E8%B5%B7%E4%BB%98%E7%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [新款iPad和Mac或本周发布](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%AC%BEiPad%E5%92%8CMac%E6%88%96%E6%9C%AC%E5%91%A8%E5%8F%91%E5%B8%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [掌心开机](https://s.weibo.com/weibo?q=%23%E6%8E%8C%E5%BF%83%E5%BC%80%E6%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [姜爷爷宋爷爷哭成泪人](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%88%B7%E7%88%B7%E5%AE%8B%E7%88%B7%E7%88%B7%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [大三男生黄鹤楼摆摊拍照月赚8000元](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%89%E7%94%B7%E7%94%9F%E9%BB%84%E9%B9%A4%E6%A5%BC%E6%91%86%E6%91%8A%E6%8B%8D%E7%85%A7%E6%9C%88%E8%B5%9A8000%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+7. [姜爷爷宋爷爷哭成泪人](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%88%B7%E7%88%B7%E5%AE%8B%E7%88%B7%E7%88%B7%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [掌心开机](https://s.weibo.com/weibo?q=%23%E6%8E%8C%E5%BF%83%E5%BC%80%E6%9C%BA%23&t=31&band_rank=8&Refer=top)<br />
+9. [建议增加双一流大学招收对口高职生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%8F%8C%E4%B8%80%E6%B5%81%E5%A4%A7%E5%AD%A6%E6%8B%9B%E6%94%B6%E5%AF%B9%E5%8F%A3%E9%AB%98%E8%81%8C%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
