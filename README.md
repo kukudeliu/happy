@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 10:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 10:45:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [00后新警认出嫌疑人后嘴角上扬](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%96%B0%E8%AD%A6%E8%AE%A4%E5%87%BA%E5%AB%8C%E7%96%91%E4%BA%BA%E5%90%8E%E5%98%B4%E8%A7%92%E4%B8%8A%E6%89%AC%23&t=31&band_rank=4&Refer=top)<br />
 5. [建议农民养老金统一上调](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E7%BB%9F%E4%B8%80%E4%B8%8A%E8%B0%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [姜爷爷宋爷爷哭成泪人](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%88%B7%E7%88%B7%E5%AE%8B%E7%88%B7%E7%88%B7%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [新款iPad和Mac或本周发布](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%AC%BEiPad%E5%92%8CMac%E6%88%96%E6%9C%AC%E5%91%A8%E5%8F%91%E5%B8%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘诗诗窦骁开机同框](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%AA%A6%E9%AA%81%E5%BC%80%E6%9C%BA%E5%90%8C%E6%A1%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [刘诗诗窦骁开机同框](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%AA%A6%E9%AA%81%E5%BC%80%E6%9C%BA%E5%90%8C%E6%A1%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [新款iPad和Mac或本周发布](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%AC%BEiPad%E5%92%8CMac%E6%88%96%E6%9C%AC%E5%91%A8%E5%8F%91%E5%B8%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [人总是会反复爱上阮经天](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%80%BB%E6%98%AF%E4%BC%9A%E5%8F%8D%E5%A4%8D%E7%88%B1%E4%B8%8A%E9%98%AE%E7%BB%8F%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
