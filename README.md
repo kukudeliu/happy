@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 21:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 21:31:01</h4></div>
 
 > 微博  
 
-1. [建议整治校园形式主义](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%95%B4%E6%B2%BB%E6%A0%A1%E5%9B%AD%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%23&t=31&band_rank=1&Refer=top)<br />
-2. [委员建议放宽35岁就业年龄限制](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E6%94%BE%E5%AE%BD35%E5%B2%81%E5%B0%B1%E4%B8%9A%E5%B9%B4%E9%BE%84%E9%99%90%E5%88%B6%23&t=31&band_rank=2&Refer=top)<br />
+1. [委员建议放宽35岁就业年龄限制](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E6%94%BE%E5%AE%BD35%E5%B2%81%E5%B0%B1%E4%B8%9A%E5%B9%B4%E9%BE%84%E9%99%90%E5%88%B6%23&t=31&band_rank=1&Refer=top)<br />
+2. [建议整治校园形式主义](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%95%B4%E6%B2%BB%E6%A0%A1%E5%9B%AD%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [全国两会五大看点](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E4%BA%94%E5%A4%A7%E7%9C%8B%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [体脂率下降的小习惯](https://s.weibo.com/weibo?q=%E4%BD%93%E8%84%82%E7%8E%87%E4%B8%8B%E9%99%8D%E7%9A%84%E5%B0%8F%E4%B9%A0%E6%83%AF&t=31&band_rank=4&Refer=top)<br />
 5. [金价又上涨了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E4%B8%8A%E6%B6%A8%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
