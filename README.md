@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 18:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 18:42:01</h4></div>
 
 > 微博  
 
-1. [为何说今年是十四五的关键一年](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E8%AF%B4%E4%BB%8A%E5%B9%B4%E6%98%AF%E5%8D%81%E5%9B%9B%E4%BA%94%E7%9A%84%E5%85%B3%E9%94%AE%E4%B8%80%E5%B9%B4%23&t=31&band_rank=1&Refer=top)<br />
-2. [建议所有单位都拿出岗位给大学生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%8D%95%E4%BD%8D%E9%83%BD%E6%8B%BF%E5%87%BA%E5%B2%97%E4%BD%8D%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=2&Refer=top)<br />
+1. [建议所有单位都拿出岗位给大学生](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%8D%95%E4%BD%8D%E9%83%BD%E6%8B%BF%E5%87%BA%E5%B2%97%E4%BD%8D%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=1&Refer=top)<br />
+2. [为何说今年是十四五的关键一年](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E8%AF%B4%E4%BB%8A%E5%B9%B4%E6%98%AF%E5%8D%81%E5%9B%9B%E4%BA%94%E7%9A%84%E5%85%B3%E9%94%AE%E4%B8%80%E5%B9%B4%23&t=31&band_rank=2&Refer=top)<br />
 3. [十四届全国人大二次会议议程](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E8%AE%AE%E7%A8%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [1元纸币上的女拖拉机手今年91了](https://s.weibo.com/weibo?q=%231%E5%85%83%E7%BA%B8%E5%B8%81%E4%B8%8A%E7%9A%84%E5%A5%B3%E6%8B%96%E6%8B%89%E6%9C%BA%E6%89%8B%E4%BB%8A%E5%B9%B491%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [建议大学每500名学生配1名心理教师](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AD%A6%E6%AF%8F500%E5%90%8D%E5%AD%A6%E7%94%9F%E9%85%8D1%E5%90%8D%E5%BF%83%E7%90%86%E6%95%99%E5%B8%88%23&t=31&band_rank=5&Refer=top)<br />
