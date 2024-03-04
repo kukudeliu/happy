@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 11:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-04 11:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [姜爷爷宋爷爷哭成泪人](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%88%B7%E7%88%B7%E5%AE%8B%E7%88%B7%E7%88%B7%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [代表建议建立大学生网络游戏防沉迷机制](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%BB%BA%E7%AB%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F%E9%98%B2%E6%B2%89%E8%BF%B7%E6%9C%BA%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [建议农民养老金统一上调](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E7%BB%9F%E4%B8%80%E4%B8%8A%E8%B0%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘诗诗窦骁开机同框](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%AA%A6%E9%AA%81%E5%BC%80%E6%9C%BA%E5%90%8C%E6%A1%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [中国姨姨特意到韩国接福宝](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A7%A8%E5%A7%A8%E7%89%B9%E6%84%8F%E5%88%B0%E9%9F%A9%E5%9B%BD%E6%8E%A5%E7%A6%8F%E5%AE%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
