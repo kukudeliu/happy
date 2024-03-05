@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 21:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 21:38:02</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [“小事”里的大情怀](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E4%BA%8B%E2%80%9D%E9%87%8C%E7%9A%84%E5%A4%A7%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [建议消除简历第一学历概念](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%B6%88%E9%99%A4%E7%AE%80%E5%8E%86%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%A6%82%E5%BF%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [霍启刚回应建议完善带薪年假制度](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%9B%9E%E5%BA%94%E5%BB%BA%E8%AE%AE%E5%AE%8C%E5%96%84%E5%B8%A6%E8%96%AA%E5%B9%B4%E5%81%87%E5%88%B6%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [德国国防部用“1234”当密码](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E7%94%A8%E2%80%9C1234%E2%80%9D%E5%BD%93%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [看2024年消费“新引擎”在哪里？](https://www.baidu.com/s?wd=%E7%9C%8B2024%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E6%96%B0%E5%BC%95%E6%93%8E%E2%80%9D%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女孩旅游失联找到时在村民家干饭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%97%85%E6%B8%B8%E5%A4%B1%E8%81%94%E6%89%BE%E5%88%B0%E6%97%B6%E5%9C%A8%E6%9D%91%E6%B0%91%E5%AE%B6%E5%B9%B2%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [“小事”里的大情怀](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E4%BA%8B%E2%80%9D%E9%87%8C%E7%9A%84%E5%A4%A7%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [建议消除简历第一学历概念](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%B6%88%E9%99%A4%E7%AE%80%E5%8E%86%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%A6%82%E5%BF%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [霍启刚回应建议完善带薪年假制度](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%9B%9E%E5%BA%94%E5%BB%BA%E8%AE%AE%E5%AE%8C%E5%96%84%E5%B8%A6%E8%96%AA%E5%B9%B4%E5%81%87%E5%88%B6%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [德国国防部用“1234”当密码](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E7%94%A8%E2%80%9C1234%E2%80%9D%E5%BD%93%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [看2024年消费“新引擎”在哪里？](https://www.baidu.com/s?wd=%E7%9C%8B2024%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E6%96%B0%E5%BC%95%E6%93%8E%E2%80%9D%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女孩旅游失联找到时在村民家干饭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%97%85%E6%B8%B8%E5%A4%B1%E8%81%94%E6%89%BE%E5%88%B0%E6%97%B6%E5%9C%A8%E6%9D%91%E6%B0%91%E5%AE%B6%E5%B9%B2%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
