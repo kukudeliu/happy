@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 09:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 09:46:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [今年GDP增长预期目标为5%左右](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4GDP%E5%A2%9E%E9%95%BF%E9%A2%84%E6%9C%9F%E7%9B%AE%E6%A0%87%E4%B8%BA5%25%E5%B7%A6%E5%8F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [3年142部电视剧改名，究竟为何？](https://www.baidu.com/s?wd=3%E5%B9%B4142%E9%83%A8%E7%94%B5%E8%A7%86%E5%89%A7%E6%94%B9%E5%90%8D%EF%BC%8C%E7%A9%B6%E7%AB%9F%E4%B8%BA%E4%BD%95%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国安警察证长这样 出示请配合](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E8%AD%A6%E5%AF%9F%E8%AF%81%E9%95%BF%E8%BF%99%E6%A0%B7+%E5%87%BA%E7%A4%BA%E8%AF%B7%E9%85%8D%E5%90%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全球最强大模型易主 GPT-4被超越](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%BA%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%98%93%E4%B8%BB+GPT-4%E8%A2%AB%E8%B6%85%E8%B6%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [代表建议暂停上调医保个人缴费标准](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%9A%82%E5%81%9C%E4%B8%8A%E8%B0%83%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E7%BC%B4%E8%B4%B9%E6%A0%87%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [运动出汗能排毒？](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%87%BA%E6%B1%97%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [今年GDP增长预期目标为5%左右](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4GDP%E5%A2%9E%E9%95%BF%E9%A2%84%E6%9C%9F%E7%9B%AE%E6%A0%87%E4%B8%BA5%25%E5%B7%A6%E5%8F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [3年142部电视剧改名，究竟为何？](https://www.baidu.com/s?wd=3%E5%B9%B4142%E9%83%A8%E7%94%B5%E8%A7%86%E5%89%A7%E6%94%B9%E5%90%8D%EF%BC%8C%E7%A9%B6%E7%AB%9F%E4%B8%BA%E4%BD%95%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [国安警察证长这样 出示请配合](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E8%AD%A6%E5%AF%9F%E8%AF%81%E9%95%BF%E8%BF%99%E6%A0%B7+%E5%87%BA%E7%A4%BA%E8%AF%B7%E9%85%8D%E5%90%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全球最强大模型易主 GPT-4被超越](https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%BA%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%98%93%E4%B8%BB+GPT-4%E8%A2%AB%E8%B6%85%E8%B6%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [代表建议暂停上调医保个人缴费标准](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%9A%82%E5%81%9C%E4%B8%8A%E8%B0%83%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E7%BC%B4%E8%B4%B9%E6%A0%87%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [运动出汗能排毒？](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%87%BA%E6%B1%97%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
