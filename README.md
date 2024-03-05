@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 10:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 10:09:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [建议取消高中学业水平考试科目](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%AD%E5%AD%A6%E4%B8%9A%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [林高远世界排名升至第4](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E5%8D%87%E8%87%B3%E7%AC%AC4%23&t=31&band_rank=7&Refer=top)<br />
 8. [建议增加年轻人年假天数](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B4%E5%81%87%E5%A4%A9%E6%95%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [父亲心疼女儿被撞伤将床头柱锯掉](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BF%83%E7%96%BC%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%92%9E%E4%BC%A4%E5%B0%86%E5%BA%8A%E5%A4%B4%E6%9F%B1%E9%94%AF%E6%8E%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [2024年政府工作十大任务](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E5%8D%81%E5%A4%A7%E4%BB%BB%E5%8A%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
