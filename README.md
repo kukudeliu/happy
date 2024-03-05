@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 11:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 11:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2024年政府工作十大任务](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E5%8D%81%E5%A4%A7%E4%BB%BB%E5%8A%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [建议取消高中学业水平考试科目](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%AD%E5%AD%A6%E4%B8%9A%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [浪姐上班像走秀](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E4%B8%8A%E7%8F%AD%E5%83%8F%E8%B5%B0%E7%A7%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [2024政府工作报告](https://s.weibo.com/weibo?q=%232024%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [建议将抑郁症纳入医保目录](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E6%8A%91%E9%83%81%E7%97%87%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%E7%9B%AE%E5%BD%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
