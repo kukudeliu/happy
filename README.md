@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 08:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 08:38:03</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [国安警察证长这样 出示请配合](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E8%AD%A6%E5%AF%9F%E8%AF%81%E9%95%BF%E8%BF%99%E6%A0%B7+%E5%87%BA%E7%A4%BA%E8%AF%B7%E9%85%8D%E5%90%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [倒春寒来不来就看惊蛰](https://www.baidu.com/s?wd=%E5%80%92%E6%98%A5%E5%AF%92%E6%9D%A5%E4%B8%8D%E6%9D%A5%E5%B0%B1%E7%9C%8B%E6%83%8A%E8%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [霍启刚建议增加年轻人年假天数](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B4%E5%81%87%E5%A4%A9%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“春捂”就是多穿点？](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%A5%E6%8D%82%E2%80%9D%E5%B0%B1%E6%98%AF%E5%A4%9A%E7%A9%BF%E7%82%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [运动出汗能排毒？](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%87%BA%E6%B1%97%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [国安警察证长这样 出示请配合](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E8%AD%A6%E5%AF%9F%E8%AF%81%E9%95%BF%E8%BF%99%E6%A0%B7+%E5%87%BA%E7%A4%BA%E8%AF%B7%E9%85%8D%E5%90%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [倒春寒来不来就看惊蛰](https://www.baidu.com/s?wd=%E5%80%92%E6%98%A5%E5%AF%92%E6%9D%A5%E4%B8%8D%E6%9D%A5%E5%B0%B1%E7%9C%8B%E6%83%8A%E8%9B%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [霍启刚建议增加年轻人年假天数](https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B4%E5%81%87%E5%A4%A9%E6%95%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [“春捂”就是多穿点？](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%A5%E6%8D%82%E2%80%9D%E5%B0%B1%E6%98%AF%E5%A4%9A%E7%A9%BF%E7%82%B9%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [运动出汗能排毒？](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%87%BA%E6%B1%97%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
