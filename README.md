@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 10:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 10:54:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [金价涨了](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B6%A8%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [建议取消高中学业水平考试科目](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%AD%E5%AD%A6%E4%B8%9A%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [预计今年高校毕业生超1170万人](https://s.weibo.com/weibo?q=%23%E9%A2%84%E8%AE%A1%E4%BB%8A%E5%B9%B4%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E8%B6%851170%E4%B8%87%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [建议暂停上调医保个人缴费标准](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%9A%82%E5%81%9C%E4%B8%8A%E8%B0%83%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E7%BC%B4%E8%B4%B9%E6%A0%87%E5%87%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [浪姐上班像走秀](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E4%B8%8A%E7%8F%AD%E5%83%8F%E8%B5%B0%E7%A7%80%23&t=31&band_rank=9&Refer=top)<br />
+8. [浪姐上班像走秀](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E4%B8%8A%E7%8F%AD%E5%83%8F%E8%B5%B0%E7%A7%80%23&t=31&band_rank=8&Refer=top)<br />
+9. [建议暂停上调医保个人缴费标准](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%9A%82%E5%81%9C%E4%B8%8A%E8%B0%83%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E7%BC%B4%E8%B4%B9%E6%A0%87%E5%87%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
