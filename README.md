@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 14:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 14:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [浪姐初舞台录制](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E5%88%9D%E8%88%9E%E5%8F%B0%E5%BD%95%E5%88%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [沈腾也知道胡先煦腾化了](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E4%B9%9F%E7%9F%A5%E9%81%93%E8%83%A1%E5%85%88%E7%85%A6%E8%85%BE%E5%8C%96%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [预计今年高校毕业生超1170万人](https://s.weibo.com/weibo?q=%23%E9%A2%84%E8%AE%A1%E4%BB%8A%E5%B9%B4%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E8%B6%851170%E4%B8%87%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴留洋千金回国](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%95%99%E6%B4%8B%E5%8D%83%E9%87%91%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [极简版政府工作报告](https://s.weibo.com/weibo?q=%23%E6%9E%81%E7%AE%80%E7%89%88%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
