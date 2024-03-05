@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 15:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 15:05:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [建议12年基础教育缩短到9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE12%E5%B9%B4%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E7%9F%AD%E5%88%B09%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国两会传递信心凝聚力量](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E4%BC%A0%E9%80%92%E4%BF%A1%E5%BF%83%E5%87%9D%E8%81%9A%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [冯远征谈《甄嬛传》在台湾热播](https://www.baidu.com/s?wd=%E5%86%AF%E8%BF%9C%E5%BE%81%E8%B0%88%E3%80%8A%E7%94%84%E5%AC%9B%E4%BC%A0%E3%80%8B%E5%9C%A8%E5%8F%B0%E6%B9%BE%E7%83%AD%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [黄金价格飙升](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [院士：64%肝癌患者初诊时已属中晚期](https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%EF%BC%9A64%25%E8%82%9D%E7%99%8C%E6%82%A3%E8%80%85%E5%88%9D%E8%AF%8A%E6%97%B6%E5%B7%B2%E5%B1%9E%E4%B8%AD%E6%99%9A%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [政府工作报告极简版来了！只有700字](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E6%9E%81%E7%AE%80%E7%89%88%E6%9D%A5%E4%BA%86%EF%BC%81%E5%8F%AA%E6%9C%89700%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [院士：64%肝癌患者初诊时已属中晚期](https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%EF%BC%9A64%25%E8%82%9D%E7%99%8C%E6%82%A3%E8%80%85%E5%88%9D%E8%AF%8A%E6%97%B6%E5%B7%B2%E5%B1%9E%E4%B8%AD%E6%99%9A%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [黄金价格飙升](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [委员建议女性可带薪育产假达2年](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%A5%B3%E6%80%A7%E5%8F%AF%E5%B8%A6%E8%96%AA%E8%82%B2%E4%BA%A7%E5%81%87%E8%BE%BE2%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [运动出汗能排毒？](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%87%BA%E6%B1%97%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [建议12年基础教育缩短到9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE12%E5%B9%B4%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E7%9F%AD%E5%88%B09%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国两会传递信心凝聚力量](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E4%BC%A0%E9%80%92%E4%BF%A1%E5%BF%83%E5%87%9D%E8%81%9A%E5%8A%9B%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [冯远征谈《甄嬛传》在台湾热播](https://www.baidu.com/s?wd=%E5%86%AF%E8%BF%9C%E5%BE%81%E8%B0%88%E3%80%8A%E7%94%84%E5%AC%9B%E4%BC%A0%E3%80%8B%E5%9C%A8%E5%8F%B0%E6%B9%BE%E7%83%AD%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [黄金价格飙升](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [院士：64%肝癌患者初诊时已属中晚期](https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%EF%BC%9A64%25%E8%82%9D%E7%99%8C%E6%82%A3%E8%80%85%E5%88%9D%E8%AF%8A%E6%97%B6%E5%B7%B2%E5%B1%9E%E4%B8%AD%E6%99%9A%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [政府工作报告极简版来了！只有700字](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E6%9E%81%E7%AE%80%E7%89%88%E6%9D%A5%E4%BA%86%EF%BC%81%E5%8F%AA%E6%9C%89700%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [院士：64%肝癌患者初诊时已属中晚期](https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%EF%BC%9A64%25%E8%82%9D%E7%99%8C%E6%82%A3%E8%80%85%E5%88%9D%E8%AF%8A%E6%97%B6%E5%B7%B2%E5%B1%9E%E4%B8%AD%E6%99%9A%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [黄金价格飙升](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [委员建议女性可带薪育产假达2年](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%A5%B3%E6%80%A7%E5%8F%AF%E5%B8%A6%E8%96%AA%E8%82%B2%E4%BA%A7%E5%81%87%E8%BE%BE2%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [运动出汗能排毒？](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%87%BA%E6%B1%97%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
