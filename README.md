@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 22:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 22:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [医院检查互认在政府工作报告中明确了](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E6%A3%80%E6%9F%A5%E4%BA%92%E8%AE%A4%E5%9C%A8%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E4%B8%AD%E6%98%8E%E7%A1%AE%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [霍启刚回应建议完善带薪年假制度](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E5%9B%9E%E5%BA%94%E5%BB%BA%E8%AE%AE%E5%AE%8C%E5%96%84%E5%B8%A6%E8%96%AA%E5%B9%B4%E5%81%87%E5%88%B6%E5%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [RNG对战TT](https://s.weibo.com/weibo?q=%23RNG%E5%AF%B9%E6%88%98TT%23&t=31&band_rank=8&Refer=top)<br />
-9. [霍启刚 建议落实带薪休假制度](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%90%AF%E5%88%9A%20%E5%BB%BA%E8%AE%AE%E8%90%BD%E5%AE%9E%E5%B8%A6%E8%96%AA%E4%BC%91%E5%81%87%E5%88%B6%E5%BA%A6&t=31&band_rank=9&Refer=top)<br />
+9. [感染HPV后还能打疫苗吗](https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93HPV%E5%90%8E%E8%BF%98%E8%83%BD%E6%89%93%E7%96%AB%E8%8B%97%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
