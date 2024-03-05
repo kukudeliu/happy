@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 17:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 17:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [委员建议内地增加一年制硕士](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%86%85%E5%9C%B0%E5%A2%9E%E5%8A%A0%E4%B8%80%E5%B9%B4%E5%88%B6%E7%A1%95%E5%A3%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [建议火车票免费改签2次](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%85%8D%E8%B4%B9%E6%94%B9%E7%AD%BE2%E6%AC%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [Miss来浪姐了](https://s.weibo.com/weibo?q=%23Miss%E6%9D%A5%E6%B5%AA%E5%A7%90%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [章若楠张淼怡难哄同框](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E5%BC%A0%E6%B7%BC%E6%80%A1%E9%9A%BE%E5%93%84%E5%90%8C%E6%A1%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [高合创始人丁磊声明](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B8%81%E7%A3%8A%E5%A3%B0%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
