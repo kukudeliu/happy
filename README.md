@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 12:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 12:11:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [建议12年基础教育缩短到9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE12%E5%B9%B4%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E7%9F%AD%E5%88%B09%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [陈芋汐全英文采访](https://www.baidu.com/s?wd=%E9%99%88%E8%8A%8B%E6%B1%90%E5%85%A8%E8%8B%B1%E6%96%87%E9%87%87%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东现在是一个巨大的水帘洞](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%8E%B0%E5%9C%A8%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%B0%B4%E5%B8%98%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“电比油低”刺激车市消费](https://www.baidu.com/s?wd=%E2%80%9C%E7%94%B5%E6%AF%94%E6%B2%B9%E4%BD%8E%E2%80%9D%E5%88%BA%E6%BF%80%E8%BD%A6%E5%B8%82%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国安警察证长这样 出示请配合](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E8%AD%A6%E5%AF%9F%E8%AF%81%E9%95%BF%E8%BF%99%E6%A0%B7+%E5%87%BA%E7%A4%BA%E8%AF%B7%E9%85%8D%E5%90%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [运动出汗能排毒？](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%87%BA%E6%B1%97%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [建议12年基础教育缩短到9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE12%E5%B9%B4%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E7%BC%A9%E7%9F%AD%E5%88%B09%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [陈芋汐全英文采访](https://www.baidu.com/s?wd=%E9%99%88%E8%8A%8B%E6%B1%90%E5%85%A8%E8%8B%B1%E6%96%87%E9%87%87%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [广东现在是一个巨大的水帘洞](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%8E%B0%E5%9C%A8%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%B0%B4%E5%B8%98%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“电比油低”刺激车市消费](https://www.baidu.com/s?wd=%E2%80%9C%E7%94%B5%E6%AF%94%E6%B2%B9%E4%BD%8E%E2%80%9D%E5%88%BA%E6%BF%80%E8%BD%A6%E5%B8%82%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国安警察证长这样 出示请配合](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E8%AD%A6%E5%AF%9F%E8%AF%81%E9%95%BF%E8%BF%99%E6%A0%B7+%E5%87%BA%E7%A4%BA%E8%AF%B7%E9%85%8D%E5%90%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [运动出汗能排毒？](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%87%BA%E6%B1%97%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
