@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 23:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 23:24:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [德国国防部用“1234”当密码](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E7%94%A8%E2%80%9C1234%E2%80%9D%E5%BD%93%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [看2024年消费“新引擎”在哪里？](https://www.baidu.com/s?wd=%E7%9C%8B2024%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E6%96%B0%E5%BC%95%E6%93%8E%E2%80%9D%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [酒店保安妨碍国安执行任务被行拘](https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E4%BF%9D%E5%AE%89%E5%A6%A8%E7%A2%8D%E5%9B%BD%E5%AE%89%E6%89%A7%E8%A1%8C%E4%BB%BB%E5%8A%A1%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [建议改进养老保险的收缴方式与办法](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%94%B9%E8%BF%9B%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E7%9A%84%E6%94%B6%E7%BC%B4%E6%96%B9%E5%BC%8F%E4%B8%8E%E5%8A%9E%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [金价每克逼近650元](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%AF%8F%E5%85%8B%E9%80%BC%E8%BF%91650%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子改签机票被骗近百万警方追回](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%94%B9%E7%AD%BE%E6%9C%BA%E7%A5%A8%E8%A2%AB%E9%AA%97%E8%BF%91%E7%99%BE%E4%B8%87%E8%AD%A6%E6%96%B9%E8%BF%BD%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [金价每克逼近650元](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%AF%8F%E5%85%8B%E9%80%BC%E8%BF%91650%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [建议改进养老保险的收缴方式与办法](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%94%B9%E8%BF%9B%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E7%9A%84%E6%94%B6%E7%BC%B4%E6%96%B9%E5%BC%8F%E4%B8%8E%E5%8A%9E%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [靳东称人工智能对影视行业影响挺大](https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%E7%A7%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E5%BD%B1%E5%93%8D%E6%8C%BA%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国家发放乡村振兴扶贫补贴？](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%BE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%89%B6%E8%B4%AB%E8%A1%A5%E8%B4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [德国国防部用“1234”当密码](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E7%94%A8%E2%80%9C1234%E2%80%9D%E5%BD%93%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [看2024年消费“新引擎”在哪里？](https://www.baidu.com/s?wd=%E7%9C%8B2024%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E6%96%B0%E5%BC%95%E6%93%8E%E2%80%9D%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [酒店保安妨碍国安执行任务被行拘](https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E4%BF%9D%E5%AE%89%E5%A6%A8%E7%A2%8D%E5%9B%BD%E5%AE%89%E6%89%A7%E8%A1%8C%E4%BB%BB%E5%8A%A1%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [建议改进养老保险的收缴方式与办法](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%94%B9%E8%BF%9B%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E7%9A%84%E6%94%B6%E7%BC%B4%E6%96%B9%E5%BC%8F%E4%B8%8E%E5%8A%9E%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [金价每克逼近650元](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%AF%8F%E5%85%8B%E9%80%BC%E8%BF%91650%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子改签机票被骗近百万警方追回](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%94%B9%E7%AD%BE%E6%9C%BA%E7%A5%A8%E8%A2%AB%E9%AA%97%E8%BF%91%E7%99%BE%E4%B8%87%E8%AD%A6%E6%96%B9%E8%BF%BD%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [金价每克逼近650元](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%AF%8F%E5%85%8B%E9%80%BC%E8%BF%91650%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [建议改进养老保险的收缴方式与办法](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%94%B9%E8%BF%9B%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E7%9A%84%E6%94%B6%E7%BC%B4%E6%96%B9%E5%BC%8F%E4%B8%8E%E5%8A%9E%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [靳东称人工智能对影视行业影响挺大](https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%E7%A7%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E5%BD%B1%E5%93%8D%E6%8C%BA%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国家发放乡村振兴扶贫补贴？](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%BE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%89%B6%E8%B4%AB%E8%A1%A5%E8%B4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
