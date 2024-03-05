@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 20:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 20:48:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [霍启刚回应建议完善带薪年假制度](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E5%9B%9E%E5%BA%94%E5%BB%BA%E8%AE%AE%E5%AE%8C%E5%96%84%E5%B8%A6%E8%96%AA%E5%B9%B4%E5%81%87%E5%88%B6%E5%BA%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [建议中小学生每天都有一节体育课](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8F%E5%A4%A9%E9%83%BD%E6%9C%89%E4%B8%80%E8%8A%82%E4%BD%93%E8%82%B2%E8%AF%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [建议对伤人犬只饲养者追刑责](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9%E4%BC%A4%E4%BA%BA%E7%8A%AC%E5%8F%AA%E9%A5%B2%E5%85%BB%E8%80%85%E8%BF%BD%E5%88%91%E8%B4%A3%23&t=31&band_rank=6&Refer=top)<br />
-7. [霍启刚 建议落实带薪休假制度](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%90%AF%E5%88%9A%20%E5%BB%BA%E8%AE%AE%E8%90%BD%E5%AE%9E%E5%B8%A6%E8%96%AA%E4%BC%91%E5%81%87%E5%88%B6%E5%BA%A6&t=31&band_rank=7&Refer=top)<br />
-8. [2024全国两会新词热词](https://s.weibo.com/weibo?q=%232024%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%23&t=31&band_rank=8&Refer=top)<br />
+7. [2024全国两会新词热词](https://s.weibo.com/weibo?q=%232024%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%23&t=31&band_rank=7&Refer=top)<br />
+8. [霍启刚 建议落实带薪休假制度](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%90%AF%E5%88%9A%20%E5%BB%BA%E8%AE%AE%E8%90%BD%E5%AE%9E%E5%B8%A6%E8%96%AA%E4%BC%91%E5%81%87%E5%88%B6%E5%BA%A6&t=31&band_rank=8&Refer=top)<br />
 9. [大熊猫花式吸娃越吸越上头](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%8A%B1%E5%BC%8F%E5%90%B8%E5%A8%83%E8%B6%8A%E5%90%B8%E8%B6%8A%E4%B8%8A%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
