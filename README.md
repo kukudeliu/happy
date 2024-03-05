@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 14:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 14:12:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女子宫外孕没钱手术被医院收治并捐款](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%AB%E5%A4%96%E5%AD%95%E6%B2%A1%E9%92%B1%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%8C%BB%E9%99%A2%E6%94%B6%E6%B2%BB%E5%B9%B6%E6%8D%90%E6%AC%BE%23&t=31&band_rank=4&Refer=top)<br />
 5. [Miss来浪姐了](https://s.weibo.com/weibo?q=%23Miss%E6%9D%A5%E6%B5%AA%E5%A7%90%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [金价涨了](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B6%A8%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [沈腾也知道胡先煦腾化了](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E4%B9%9F%E7%9F%A5%E9%81%93%E8%83%A1%E5%85%88%E7%85%A6%E8%85%BE%E5%8C%96%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [建议火车票免费改签2次](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%85%8D%E8%B4%B9%E6%94%B9%E7%AD%BE2%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
+7. [建议火车票免费改签2次](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%85%8D%E8%B4%B9%E6%94%B9%E7%AD%BE2%E6%AC%A1%23&t=31&band_rank=7&Refer=top)<br />
+8. [沈腾也知道胡先煦腾化了](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E4%B9%9F%E7%9F%A5%E9%81%93%E8%83%A1%E5%85%88%E7%85%A6%E8%85%BE%E5%8C%96%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [极简版政府工作报告](https://s.weibo.com/weibo?q=%23%E6%9E%81%E7%AE%80%E7%89%88%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
