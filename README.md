@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 14:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 14:42:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [冯远征谈《甄嬛传》在台湾热播](https://www.baidu.com/s?wd=%E5%86%AF%E8%BF%9C%E5%BE%81%E8%B0%88%E3%80%8A%E7%94%84%E5%AC%9B%E4%BC%A0%E3%80%8B%E5%9C%A8%E5%8F%B0%E6%B9%BE%E7%83%AD%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄金价格飙升](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [院士：64%肝癌患者初诊时已属中晚期](https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%EF%BC%9A64%25%E8%82%9D%E7%99%8C%E6%82%A3%E8%80%85%E5%88%9D%E8%AF%8A%E6%97%B6%E5%B7%B2%E5%B1%9E%E4%B8%AD%E6%99%9A%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度总理莫迪拉票“讨好”女选民](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%80%BB%E7%90%86%E8%8E%AB%E8%BF%AA%E6%8B%89%E7%A5%A8%E2%80%9C%E8%AE%A8%E5%A5%BD%E2%80%9D%E5%A5%B3%E9%80%89%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国民党副主席夏立言结束大陆行](https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%AB%8B%E8%A8%80%E7%BB%93%E6%9D%9F%E5%A4%A7%E9%99%86%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [运动出汗能排毒？](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%87%BA%E6%B1%97%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [冯远征谈《甄嬛传》在台湾热播](https://www.baidu.com/s?wd=%E5%86%AF%E8%BF%9C%E5%BE%81%E8%B0%88%E3%80%8A%E7%94%84%E5%AC%9B%E4%BC%A0%E3%80%8B%E5%9C%A8%E5%8F%B0%E6%B9%BE%E7%83%AD%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [黄金价格飙升](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [院士：64%肝癌患者初诊时已属中晚期](https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%EF%BC%9A64%25%E8%82%9D%E7%99%8C%E6%82%A3%E8%80%85%E5%88%9D%E8%AF%8A%E6%97%B6%E5%B7%B2%E5%B1%9E%E4%B8%AD%E6%99%9A%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印度总理莫迪拉票“讨好”女选民](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%80%BB%E7%90%86%E8%8E%AB%E8%BF%AA%E6%8B%89%E7%A5%A8%E2%80%9C%E8%AE%A8%E5%A5%BD%E2%80%9D%E5%A5%B3%E9%80%89%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国民党副主席夏立言结束大陆行](https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%AB%8B%E8%A8%80%E7%BB%93%E6%9D%9F%E5%A4%A7%E9%99%86%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [运动出汗能排毒？](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%87%BA%E6%B1%97%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
