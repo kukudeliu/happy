@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 15:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 15:48:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [委员建议内地增加一年制硕士](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%86%85%E5%9C%B0%E5%A2%9E%E5%8A%A0%E4%B8%80%E5%B9%B4%E5%88%B6%E7%A1%95%E5%A3%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [Miss来浪姐了](https://s.weibo.com/weibo?q=%23Miss%E6%9D%A5%E6%B5%AA%E5%A7%90%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [建议重视中小学教师心理健康](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%87%8D%E8%A7%86%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘亦菲巴黎时装周](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [委员说成为网红不是旅游城市发展的全部](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E8%AF%B4%E6%88%90%E4%B8%BA%E7%BD%91%E7%BA%A2%E4%B8%8D%E6%98%AF%E6%97%85%E6%B8%B8%E5%9F%8E%E5%B8%82%E5%8F%91%E5%B1%95%E7%9A%84%E5%85%A8%E9%83%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
