@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 10:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 10:40:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [建议取消与高考重复的学业水平考试](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E4%B8%8E%E9%AB%98%E8%80%83%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%A6%E4%B8%9A%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [十四届全国人大二次会议议程抢鲜看](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E8%AE%AE%E7%A8%8B%E6%8A%A2%E9%B2%9C%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2024发行1万亿元超长期特别国债](https://www.baidu.com/s?wd=2024%E5%8F%91%E8%A1%8C1%E4%B8%87%E4%BA%BF%E5%85%83%E8%B6%85%E9%95%BF%E6%9C%9F%E7%89%B9%E5%88%AB%E5%9B%BD%E5%80%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [政协委员谈大学校门开与不开](https://www.baidu.com/s?wd=%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E8%B0%88%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%97%A8%E5%BC%80%E4%B8%8E%E4%B8%8D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东现在是一个巨大的水帘洞](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%8E%B0%E5%9C%A8%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%B0%B4%E5%B8%98%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国安警察证长这样 出示请配合](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E8%AD%A6%E5%AF%9F%E8%AF%81%E9%95%BF%E8%BF%99%E6%A0%B7+%E5%87%BA%E7%A4%BA%E8%AF%B7%E9%85%8D%E5%90%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [广东现在是一个巨大的水帘洞](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%8E%B0%E5%9C%A8%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%B0%B4%E5%B8%98%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国安警察证长这样 出示请配合](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E8%AD%A6%E5%AF%9F%E8%AF%81%E9%95%BF%E8%BF%99%E6%A0%B7+%E5%87%BA%E7%A4%BA%E8%AF%B7%E9%85%8D%E5%90%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [代表建议暂停上调医保个人缴费标准](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%9A%82%E5%81%9C%E4%B8%8A%E8%B0%83%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E7%BC%B4%E8%B4%B9%E6%A0%87%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [运动出汗能排毒？](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%87%BA%E6%B1%97%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [建议取消与高考重复的学业水平考试](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E4%B8%8E%E9%AB%98%E8%80%83%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%A6%E4%B8%9A%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [十四届全国人大二次会议议程抢鲜看](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E8%AE%AE%E7%A8%8B%E6%8A%A2%E9%B2%9C%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2024发行1万亿元超长期特别国债](https://www.baidu.com/s?wd=2024%E5%8F%91%E8%A1%8C1%E4%B8%87%E4%BA%BF%E5%85%83%E8%B6%85%E9%95%BF%E6%9C%9F%E7%89%B9%E5%88%AB%E5%9B%BD%E5%80%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [政协委员谈大学校门开与不开](https://www.baidu.com/s?wd=%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E8%B0%88%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%97%A8%E5%BC%80%E4%B8%8E%E4%B8%8D%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [广东现在是一个巨大的水帘洞](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%8E%B0%E5%9C%A8%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%B0%B4%E5%B8%98%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国安警察证长这样 出示请配合](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E8%AD%A6%E5%AF%9F%E8%AF%81%E9%95%BF%E8%BF%99%E6%A0%B7+%E5%87%BA%E7%A4%BA%E8%AF%B7%E9%85%8D%E5%90%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [广东现在是一个巨大的水帘洞](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%8E%B0%E5%9C%A8%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%B0%B4%E5%B8%98%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国安警察证长这样 出示请配合](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E8%AD%A6%E5%AF%9F%E8%AF%81%E9%95%BF%E8%BF%99%E6%A0%B7+%E5%87%BA%E7%A4%BA%E8%AF%B7%E9%85%8D%E5%90%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [代表建议暂停上调医保个人缴费标准](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%9A%82%E5%81%9C%E4%B8%8A%E8%B0%83%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E7%BC%B4%E8%B4%B9%E6%A0%87%E5%87%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [运动出汗能排毒？](https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%87%BA%E6%B1%97%E8%83%BD%E6%8E%92%E6%AF%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
