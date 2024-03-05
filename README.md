@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 17:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 17:55:01</h4></div>
 
 > 微博  
 
 1. [建议中小学生每天都有一节体育课](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8F%E5%A4%A9%E9%83%BD%E6%9C%89%E4%B8%80%E8%8A%82%E4%BD%93%E8%82%B2%E8%AF%BE%23&t=31&band_rank=1&Refer=top)<br />
 2. [代表建议毕业生不要只把眼光放在一线城市](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E6%8A%8A%E7%9C%BC%E5%85%89%E6%94%BE%E5%9C%A8%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%23&t=31&band_rank=2&Refer=top)<br />
-3. [两会数读中国](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%E6%95%B0%E8%AF%BB%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
+3. [2024政府工作报告关键词](https://s.weibo.com/weibo?q=%232024%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E5%85%B3%E9%94%AE%E8%AF%8D%23&t=31&band_rank=3&Refer=top)<br />
 4. [霍启刚 建议落实带薪休假制度](https://s.weibo.com/weibo?q=%E9%9C%8D%E5%90%AF%E5%88%9A%20%E5%BB%BA%E8%AE%AE%E8%90%BD%E5%AE%9E%E5%B8%A6%E8%96%AA%E4%BC%91%E5%81%87%E5%88%B6%E5%BA%A6&t=31&band_rank=4&Refer=top)<br />
 5. [高合创始人丁磊声明](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B8%81%E7%A3%8A%E5%A3%B0%E6%98%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [建议对伤人犬只饲养者追刑责](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9%E4%BC%A4%E4%BA%BA%E7%8A%AC%E5%8F%AA%E9%A5%B2%E5%85%BB%E8%80%85%E8%BF%BD%E5%88%91%E8%B4%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [仙人揉腹](https://s.weibo.com/weibo?q=%E4%BB%99%E4%BA%BA%E6%8F%89%E8%85%B9&t=31&band_rank=7&Refer=top)<br />
 8. [东部战区回应美舰过航台湾海峡](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [委员建议内地增加一年制硕士](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%86%85%E5%9C%B0%E5%A2%9E%E5%8A%A0%E4%B8%80%E5%B9%B4%E5%88%B6%E7%A1%95%E5%A3%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [两会数读中国](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%E6%95%B0%E8%AF%BB%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
