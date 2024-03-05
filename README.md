@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 09:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 09:27:01</h4></div>
 
 > 微博  
 
-1. [十四届全国人大二次会议开幕会](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%BC%80%E5%B9%95%E4%BC%9A%23&t=31&band_rank=1&Refer=top)<br />
-2. [2024政府工作报告](https://s.weibo.com/weibo?q=%232024%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&t=31&band_rank=2&Refer=top)<br />
+1. [2024政府工作报告](https://s.weibo.com/weibo?q=%232024%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&t=31&band_rank=1&Refer=top)<br />
+2. [十四届全国人大二次会议开幕会](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%BC%80%E5%B9%95%E4%BC%9A%23&t=31&band_rank=2&Refer=top)<br />
 3. [100秒说两会](https://s.weibo.com/weibo?q=%23100%E7%A7%92%E8%AF%B4%E4%B8%A4%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [建议暂停上调医保个人缴费标准](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%9A%82%E5%81%9C%E4%B8%8A%E8%B0%83%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E7%BC%B4%E8%B4%B9%E6%A0%87%E5%87%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [建议取消高中学业水平考试科目](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%AD%E5%AD%A6%E4%B8%9A%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%23&t=31&band_rank=5&Refer=top)<br />
