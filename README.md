@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 10:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 10:21:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [总书记的暖心问询](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%9A%96%E5%BF%83%E9%97%AE%E8%AF%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [今年GDP增长预期目标为5%左右](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4GDP%E5%A2%9E%E9%95%BF%E9%A2%84%E6%9C%9F%E7%9B%AE%E6%A0%87%E4%B8%BA5%25%E5%B7%A6%E5%8F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [政府工作报告极简版来了！只有700字](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E6%9E%81%E7%AE%80%E7%89%88%E6%9D%A5%E4%BA%86%EF%BC%81%E5%8F%AA%E6%9C%89700%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [建议取消与高考重复的学业水平考试](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E4%B8%8E%E9%AB%98%E8%80%83%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%A6%E4%B8%9A%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [十四届全国人大二次会议议程抢鲜看](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E8%AE%AE%E7%A8%8B%E6%8A%A2%E9%B2%9C%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2024发行1万亿元超长期特别国债](https://www.baidu.com/s?wd=2024%E5%8F%91%E8%A1%8C1%E4%B8%87%E4%BA%BF%E5%85%83%E8%B6%85%E9%95%BF%E6%9C%9F%E7%89%B9%E5%88%AB%E5%9B%BD%E5%80%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [总书记的暖心问询](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%9A%96%E5%BF%83%E9%97%AE%E8%AF%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [今年GDP增长预期目标为5%左右](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4GDP%E5%A2%9E%E9%95%BF%E9%A2%84%E6%9C%9F%E7%9B%AE%E6%A0%87%E4%B8%BA5%25%E5%B7%A6%E5%8F%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [政府工作报告极简版来了！只有700字](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E6%9E%81%E7%AE%80%E7%89%88%E6%9D%A5%E4%BA%86%EF%BC%81%E5%8F%AA%E6%9C%89700%E5%AD%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [建议取消与高考重复的学业水平考试](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E4%B8%8E%E9%AB%98%E8%80%83%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%A6%E4%B8%9A%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [十四届全国人大二次会议议程抢鲜看](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E8%AE%AE%E7%A8%8B%E6%8A%A2%E9%B2%9C%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [2024发行1万亿元超长期特别国债](https://www.baidu.com/s?wd=2024%E5%8F%91%E8%A1%8C1%E4%B8%87%E4%BA%BF%E5%85%83%E8%B6%85%E9%95%BF%E6%9C%9F%E7%89%B9%E5%88%AB%E5%9B%BD%E5%80%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
