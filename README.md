@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 00:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 00:32:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [“小事”里的大情怀](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E4%BA%8B%E2%80%9D%E9%87%8C%E7%9A%84%E5%A4%A7%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [建议彩票单项奖金最高不超500万](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%BD%A9%E7%A5%A8%E5%8D%95%E9%A1%B9%E5%A5%96%E9%87%91%E6%9C%80%E9%AB%98%E4%B8%8D%E8%B6%85500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [金价每克逼近650元](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%AF%8F%E5%85%8B%E9%80%BC%E8%BF%91650%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [委员建议每车按年享受高速免费时长](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E6%AF%8F%E8%BD%A6%E6%8C%89%E5%B9%B4%E4%BA%AB%E5%8F%97%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%97%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [看2024年消费“新引擎”在哪里？](https://www.baidu.com/s?wd=%E7%9C%8B2024%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E6%96%B0%E5%BC%95%E6%93%8E%E2%80%9D%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [酒店保安妨碍国安执行任务被行拘](https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E4%BF%9D%E5%AE%89%E5%A6%A8%E7%A2%8D%E5%9B%BD%E5%AE%89%E6%89%A7%E8%A1%8C%E4%BB%BB%E5%8A%A1%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一人任职40家医院院长 当地回应](https://www.baidu.com/s?wd=%E4%B8%80%E4%BA%BA%E4%BB%BB%E8%81%8C40%E5%AE%B6%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [“小事”里的大情怀](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E4%BA%8B%E2%80%9D%E9%87%8C%E7%9A%84%E5%A4%A7%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [建议彩票单项奖金最高不超500万](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%BD%A9%E7%A5%A8%E5%8D%95%E9%A1%B9%E5%A5%96%E9%87%91%E6%9C%80%E9%AB%98%E4%B8%8D%E8%B6%85500%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [金价每克逼近650元](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%AF%8F%E5%85%8B%E9%80%BC%E8%BF%91650%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [委员建议每车按年享受高速免费时长](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E6%AF%8F%E8%BD%A6%E6%8C%89%E5%B9%B4%E4%BA%AB%E5%8F%97%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%97%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [看2024年消费“新引擎”在哪里？](https://www.baidu.com/s?wd=%E7%9C%8B2024%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E6%96%B0%E5%BC%95%E6%93%8E%E2%80%9D%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [酒店保安妨碍国安执行任务被行拘](https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E4%BF%9D%E5%AE%89%E5%A6%A8%E7%A2%8D%E5%9B%BD%E5%AE%89%E6%89%A7%E8%A1%8C%E4%BB%BB%E5%8A%A1%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一人任职40家医院院长 当地回应](https://www.baidu.com/s?wd=%E4%B8%80%E4%BA%BA%E4%BB%BB%E8%81%8C40%E5%AE%B6%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
