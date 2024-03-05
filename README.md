@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 17:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [建议对伤人犬只饲养者追刑责](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9%E4%BC%A4%E4%BA%BA%E7%8A%AC%E5%8F%AA%E9%A5%B2%E5%85%BB%E8%80%85%E8%BF%BD%E5%88%91%E8%B4%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [仙人揉腹](https://s.weibo.com/weibo?q=%E4%BB%99%E4%BA%BA%E6%8F%89%E8%85%B9&t=31&band_rank=7&Refer=top)<br />
 8. [东部战区回应美舰过航台湾海峡](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [两会数读中国](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%E6%95%B0%E8%AF%BB%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [委员建议内地增加一年制硕士](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%86%85%E5%9C%B0%E5%A2%9E%E5%8A%A0%E4%B8%80%E5%B9%B4%E5%88%B6%E7%A1%95%E5%A3%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
