@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 06:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 06:12:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=4&Refer=top)<br />
 5. [最新研究找到熬夜致癌原因](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%89%BE%E5%88%B0%E7%86%AC%E5%A4%9C%E8%87%B4%E7%99%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [徐克射雕英雄传正在后期制作](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%85%8B%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E6%AD%A3%E5%9C%A8%E5%90%8E%E6%9C%9F%E5%88%B6%E4%BD%9C%23&t=31&band_rank=6&Refer=top)<br />
-7. [皇家社会vs巴黎圣日耳曼](https://s.weibo.com/weibo?q=%23%E7%9A%87%E5%AE%B6%E7%A4%BE%E4%BC%9Avs%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC%23&t=31&band_rank=7&Refer=top)<br />
+7. [建议消除简历第一学历概念](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%B6%88%E9%99%A4%E7%AE%80%E5%8E%86%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%A6%82%E5%BF%B5%23&t=31&band_rank=7&Refer=top)<br />
 8. [射雕英雄传侠之大者计划全球发行](https://s.weibo.com/weibo?q=%23%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E4%BE%A0%E4%B9%8B%E5%A4%A7%E8%80%85%E8%AE%A1%E5%88%92%E5%85%A8%E7%90%83%E5%8F%91%E8%A1%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [建议消除简历第一学历概念](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%B6%88%E9%99%A4%E7%AE%80%E5%8E%86%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%A6%82%E5%BF%B5%23&t=31&band_rank=9&Refer=top)<br />
+9. [皇家社会vs巴黎圣日耳曼](https://s.weibo.com/weibo?q=%23%E7%9A%87%E5%AE%B6%E7%A4%BE%E4%BC%9Avs%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
