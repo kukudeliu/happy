@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 15:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 15:56:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [冯远征谈《甄嬛传》在台湾热播](https://www.baidu.com/s?wd=%E5%86%AF%E8%BF%9C%E5%BE%81%E8%B0%88%E3%80%8A%E7%94%84%E5%AC%9B%E4%BC%A0%E3%80%8B%E5%9C%A8%E5%8F%B0%E6%B9%BE%E7%83%AD%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [贝玲妃被曝将退出中国市场](https://www.baidu.com/s?wd=%E8%B4%9D%E7%8E%B2%E5%A6%83%E8%A2%AB%E6%9B%9D%E5%B0%86%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄金价格飙升](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [以色列宣布召回驻联合国大使](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E5%8F%AC%E5%9B%9E%E9%A9%BB%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国民党副主席夏立言结束大陆行](https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%AB%8B%E8%A8%80%E7%BB%93%E6%9D%9F%E5%A4%A7%E9%99%86%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津河西辟谣高中纳入义务教育](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E6%B2%B3%E8%A5%BF%E8%BE%9F%E8%B0%A3%E9%AB%98%E4%B8%AD%E7%BA%B3%E5%85%A5%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [冯远征谈《甄嬛传》在台湾热播](https://www.baidu.com/s?wd=%E5%86%AF%E8%BF%9C%E5%BE%81%E8%B0%88%E3%80%8A%E7%94%84%E5%AC%9B%E4%BC%A0%E3%80%8B%E5%9C%A8%E5%8F%B0%E6%B9%BE%E7%83%AD%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [贝玲妃被曝将退出中国市场](https://www.baidu.com/s?wd=%E8%B4%9D%E7%8E%B2%E5%A6%83%E8%A2%AB%E6%9B%9D%E5%B0%86%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄金价格飙升](https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [以色列宣布召回驻联合国大使](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E5%8F%AC%E5%9B%9E%E9%A9%BB%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国民党副主席夏立言结束大陆行](https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%AB%8B%E8%A8%80%E7%BB%93%E6%9D%9F%E5%A4%A7%E9%99%86%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津河西辟谣高中纳入义务教育](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E6%B2%B3%E8%A5%BF%E8%BE%9F%E8%B0%A3%E9%AB%98%E4%B8%AD%E7%BA%B3%E5%85%A5%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
