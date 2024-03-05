@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 17:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 17:39:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [政府工作报告里的民生红包](https://s.weibo.com/weibo?q=%23%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E9%87%8C%E7%9A%84%E6%B0%91%E7%94%9F%E7%BA%A2%E5%8C%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [高合创始人丁磊声明](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B8%81%E7%A3%8A%E5%A3%B0%E6%98%8E%23&t=31&band_rank=4&Refer=top)<br />
 5. [东部战区回应美舰过航台湾海峡](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=5&Refer=top)<br />
-6. [仙人揉腹](https://s.weibo.com/weibo?q=%E4%BB%99%E4%BA%BA%E6%8F%89%E8%85%B9&t=31&band_rank=6&Refer=top)<br />
-7. [建议对伤人犬只饲养者追刑责](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9%E4%BC%A4%E4%BA%BA%E7%8A%AC%E5%8F%AA%E9%A5%B2%E5%85%BB%E8%80%85%E8%BF%BD%E5%88%91%E8%B4%A3%23&t=31&band_rank=7&Refer=top)<br />
+6. [代表建议毕业生不要只把眼光放在一线城市](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E6%8A%8A%E7%9C%BC%E5%85%89%E6%94%BE%E5%9C%A8%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%23&t=31&band_rank=6&Refer=top)<br />
+7. [仙人揉腹](https://s.weibo.com/weibo?q=%E4%BB%99%E4%BA%BA%E6%8F%89%E8%85%B9&t=31&band_rank=7&Refer=top)<br />
 8. [委员建议内地增加一年制硕士](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%86%85%E5%9C%B0%E5%A2%9E%E5%8A%A0%E4%B8%80%E5%B9%B4%E5%88%B6%E7%A1%95%E5%A3%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [代表建议毕业生不要只把眼光放在一线城市](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E6%8A%8A%E7%9C%BC%E5%85%89%E6%94%BE%E5%9C%A8%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%23&t=31&band_rank=9&Refer=top)<br />
+9. [建议对伤人犬只饲养者追刑责](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9%E4%BC%A4%E4%BA%BA%E7%8A%AC%E5%8F%AA%E9%A5%B2%E5%85%BB%E8%80%85%E8%BF%BD%E5%88%91%E8%B4%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [十四届全国人大二次会议开幕](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%BC%80%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [建议中小学生每天都有一节体育课](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8F%E5%A4%A9%E9%83%BD%E6%9C%89%E4%B8%80%E8%8A%82%E4%BD%93%E8%82%B2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [建议法定结婚年龄调低至18周岁](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%B3%95%E5%AE%9A%E7%BB%93%E5%A9%9A%E5%B9%B4%E9%BE%84%E8%B0%83%E4%BD%8E%E8%87%B318%E5%91%A8%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [建议法定结婚年龄调低至18周岁](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%B3%95%E5%AE%9A%E7%BB%93%E5%A9%9A%E5%B9%B4%E9%BE%84%E8%B0%83%E4%BD%8E%E8%87%B318%E5%91%A8%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [建议对当工人的毕业生发放补贴](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%AF%B9%E5%BD%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E6%AF%95%E4%B8%9A%E7%94%9F%E5%8F%91%E6%94%BE%E8%A1%A5%E8%B4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组图了解2023中国发展成绩单](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E5%9B%BE%E4%BA%86%E8%A7%A32023%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B1%95%E6%88%90%E7%BB%A9%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美舰过航台湾海峡 解放军跟踪监视](https://www.baidu.com/s?wd=%E7%BE%8E%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1+%E8%A7%A3%E6%94%BE%E5%86%9B%E8%B7%9F%E8%B8%AA%E7%9B%91%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [郭艾伦：注射了干细胞到腿上](https://www.baidu.com/s?wd=%E9%83%AD%E8%89%BE%E4%BC%A6%EF%BC%9A%E6%B3%A8%E5%B0%84%E4%BA%86%E5%B9%B2%E7%BB%86%E8%83%9E%E5%88%B0%E8%85%BF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [十四届全国人大二次会议开幕](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%BC%80%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [建议中小学生每天都有一节体育课](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8F%E5%A4%A9%E9%83%BD%E6%9C%89%E4%B8%80%E8%8A%82%E4%BD%93%E8%82%B2%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [建议法定结婚年龄调低至18周岁](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%B3%95%E5%AE%9A%E7%BB%93%E5%A9%9A%E5%B9%B4%E9%BE%84%E8%B0%83%E4%BD%8E%E8%87%B318%E5%91%A8%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [建议法定结婚年龄调低至18周岁](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%B3%95%E5%AE%9A%E7%BB%93%E5%A9%9A%E5%B9%B4%E9%BE%84%E8%B0%83%E4%BD%8E%E8%87%B318%E5%91%A8%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [建议对当工人的毕业生发放补贴](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%AF%B9%E5%BD%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E6%AF%95%E4%B8%9A%E7%94%9F%E5%8F%91%E6%94%BE%E8%A1%A5%E8%B4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一组图了解2023中国发展成绩单](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E5%9B%BE%E4%BA%86%E8%A7%A32023%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B1%95%E6%88%90%E7%BB%A9%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美舰过航台湾海峡 解放军跟踪监视](https://www.baidu.com/s?wd=%E7%BE%8E%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1+%E8%A7%A3%E6%94%BE%E5%86%9B%E8%B7%9F%E8%B8%AA%E7%9B%91%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [郭艾伦：注射了干细胞到腿上](https://www.baidu.com/s?wd=%E9%83%AD%E8%89%BE%E4%BC%A6%EF%BC%9A%E6%B3%A8%E5%B0%84%E4%BA%86%E5%B9%B2%E7%BB%86%E8%83%9E%E5%88%B0%E8%85%BF%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
