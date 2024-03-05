@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 10:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 10:39:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [极简版政府工作报告](https://s.weibo.com/weibo?q=%23%E6%9E%81%E7%AE%80%E7%89%88%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [建议暂停上调医保个人缴费标准](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%9A%82%E5%81%9C%E4%B8%8A%E8%B0%83%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E7%BC%B4%E8%B4%B9%E6%A0%87%E5%87%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [建议取消高中学业水平考试科目](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%AD%E5%AD%A6%E4%B8%9A%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%23&t=31&band_rank=6&Refer=top)<br />
-7. [林高远世界排名升至第4](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E5%8D%87%E8%87%B3%E7%AC%AC4%23&t=31&band_rank=7&Refer=top)<br />
-8. [浪姐上班像走秀](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E4%B8%8A%E7%8F%AD%E5%83%8F%E8%B5%B0%E7%A7%80%23&t=31&band_rank=8&Refer=top)<br />
+7. [浪姐上班像走秀](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E4%B8%8A%E7%8F%AD%E5%83%8F%E8%B5%B0%E7%A7%80%23&t=31&band_rank=7&Refer=top)<br />
+8. [林高远世界排名升至第4](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E5%8D%87%E8%87%B3%E7%AC%AC4%23&t=31&band_rank=8&Refer=top)<br />
 9. [建议增加年轻人年假天数](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B4%E5%81%87%E5%A4%A9%E6%95%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
