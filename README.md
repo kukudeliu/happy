@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 11:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 11:47:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [建议取消高中学业水平考试科目](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%AD%E5%AD%A6%E4%B8%9A%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [建议将抑郁症纳入医保目录](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E6%8A%91%E9%83%81%E7%97%87%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%E7%9B%AE%E5%BD%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [建议暂停上调医保个人缴费标准](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%9A%82%E5%81%9C%E4%B8%8A%E8%B0%83%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E7%BC%B4%E8%B4%B9%E6%A0%87%E5%87%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [他才4岁已经懂得了分别的滋味](https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%89%8D4%E5%B2%81%E5%B7%B2%E7%BB%8F%E6%87%82%E5%BE%97%E4%BA%86%E5%88%86%E5%88%AB%E7%9A%84%E6%BB%8B%E5%91%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [长风破浪首发剧照](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E7%A0%B4%E6%B5%AA%E9%A6%96%E5%8F%91%E5%89%A7%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
