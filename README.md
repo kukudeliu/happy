@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 17:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 17:15:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [仙人揉腹](https://s.weibo.com/weibo?q=%E4%BB%99%E4%BA%BA%E6%8F%89%E8%85%B9&t=31&band_rank=5&Refer=top)<br />
 6. [建议火车票免费改签2次](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%85%8D%E8%B4%B9%E6%94%B9%E7%AD%BE2%E6%AC%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [委员建议内地增加一年制硕士](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%86%85%E5%9C%B0%E5%A2%9E%E5%8A%A0%E4%B8%80%E5%B9%B4%E5%88%B6%E7%A1%95%E5%A3%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [委员说成为网红不是旅游城市发展的全部](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E8%AF%B4%E6%88%90%E4%B8%BA%E7%BD%91%E7%BA%A2%E4%B8%8D%E6%98%AF%E6%97%85%E6%B8%B8%E5%9F%8E%E5%B8%82%E5%8F%91%E5%B1%95%E7%9A%84%E5%85%A8%E9%83%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [Miss来浪姐了](https://s.weibo.com/weibo?q=%23Miss%E6%9D%A5%E6%B5%AA%E5%A7%90%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [Miss来浪姐了](https://s.weibo.com/weibo?q=%23Miss%E6%9D%A5%E6%B5%AA%E5%A7%90%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [委员说成为网红不是旅游城市发展的全部](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E8%AF%B4%E6%88%90%E4%B8%BA%E7%BD%91%E7%BA%A2%E4%B8%8D%E6%98%AF%E6%97%85%E6%B8%B8%E5%9F%8E%E5%B8%82%E5%8F%91%E5%B1%95%E7%9A%84%E5%85%A8%E9%83%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
