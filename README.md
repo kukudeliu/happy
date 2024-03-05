@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 23:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 23:05:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [看2024年消费“新引擎”在哪里？](https://www.baidu.com/s?wd=%E7%9C%8B2024%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E6%96%B0%E5%BC%95%E6%93%8E%E2%80%9D%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [酒店保安妨碍国安执行任务被行拘](https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E4%BF%9D%E5%AE%89%E5%A6%A8%E7%A2%8D%E5%9B%BD%E5%AE%89%E6%89%A7%E8%A1%8C%E4%BB%BB%E5%8A%A1%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [金价每克逼近650元](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%AF%8F%E5%85%8B%E9%80%BC%E8%BF%91650%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [建议辅助生殖纳入医保](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E8%BE%85%E5%8A%A9%E7%94%9F%E6%AE%96%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [A股连续6日成交超万亿](https://www.baidu.com/s?wd=A%E8%82%A1%E8%BF%9E%E7%BB%AD6%E6%97%A5%E6%88%90%E4%BA%A4%E8%B6%85%E4%B8%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [坚定不移推进祖国统一大业](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%9A%E4%B8%8D%E7%A7%BB%E6%8E%A8%E8%BF%9B%E7%A5%96%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [建议消除简历第一学历概念](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%B6%88%E9%99%A4%E7%AE%80%E5%8E%86%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%A6%82%E5%BF%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国家发放乡村振兴扶贫补贴？](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%BE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%89%B6%E8%B4%AB%E8%A1%A5%E8%B4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [看2024年消费“新引擎”在哪里？](https://www.baidu.com/s?wd=%E7%9C%8B2024%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E6%96%B0%E5%BC%95%E6%93%8E%E2%80%9D%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [酒店保安妨碍国安执行任务被行拘](https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E4%BF%9D%E5%AE%89%E5%A6%A8%E7%A2%8D%E5%9B%BD%E5%AE%89%E6%89%A7%E8%A1%8C%E4%BB%BB%E5%8A%A1%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [金价每克逼近650元](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%AF%8F%E5%85%8B%E9%80%BC%E8%BF%91650%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [建议辅助生殖纳入医保](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E8%BE%85%E5%8A%A9%E7%94%9F%E6%AE%96%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [A股连续6日成交超万亿](https://www.baidu.com/s?wd=A%E8%82%A1%E8%BF%9E%E7%BB%AD6%E6%97%A5%E6%88%90%E4%BA%A4%E8%B6%85%E4%B8%87%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [坚定不移推进祖国统一大业](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%9A%E4%B8%8D%E7%A7%BB%E6%8E%A8%E8%BF%9B%E7%A5%96%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [建议消除简历第一学历概念](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%B6%88%E9%99%A4%E7%AE%80%E5%8E%86%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%A6%82%E5%BF%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国家发放乡村振兴扶贫补贴？](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%BE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%89%B6%E8%B4%AB%E8%A1%A5%E8%B4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
