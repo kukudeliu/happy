@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 22:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-05 22:01:01</h4></div>
 
 > 微博  
 
 1. [建议消除简历第一学历概念](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%B6%88%E9%99%A4%E7%AE%80%E5%8E%86%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%A6%82%E5%BF%B5%23&t=31&band_rank=1&Refer=top)<br />
-2. [代表建议毕业生不要只把眼光放在一线城市](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E6%8A%8A%E7%9C%BC%E5%85%89%E6%94%BE%E5%9C%A8%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%23&t=31&band_rank=2&Refer=top)<br />
+2. [建议彩票个人单项奖金最高额度不超过500万](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%BD%A9%E7%A5%A8%E4%B8%AA%E4%BA%BA%E5%8D%95%E9%A1%B9%E5%A5%96%E9%87%91%E6%9C%80%E9%AB%98%E9%A2%9D%E5%BA%A6%E4%B8%8D%E8%B6%85%E8%BF%87500%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [细节中读懂两会的精微要义](https://s.weibo.com/weibo?q=%23%E7%BB%86%E8%8A%82%E4%B8%AD%E8%AF%BB%E6%87%82%E4%B8%A4%E4%BC%9A%E7%9A%84%E7%B2%BE%E5%BE%AE%E8%A6%81%E4%B9%89%23&t=31&band_rank=3&Refer=top)<br />
-4. [建议彩票个人单项奖金最高额度不超过500万](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%BD%A9%E7%A5%A8%E4%B8%AA%E4%BA%BA%E5%8D%95%E9%A1%B9%E5%A5%96%E9%87%91%E6%9C%80%E9%AB%98%E9%A2%9D%E5%BA%A6%E4%B8%8D%E8%B6%85%E8%BF%87500%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
+4. [代表建议毕业生不要只把眼光放在一线城市](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E6%8A%8A%E7%9C%BC%E5%85%89%E6%94%BE%E5%9C%A8%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%23&t=31&band_rank=4&Refer=top)<br />
 5. [建议中小学生每天都有一节体育课](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8F%E5%A4%A9%E9%83%BD%E6%9C%89%E4%B8%80%E8%8A%82%E4%BD%93%E8%82%B2%E8%AF%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [医院检查互认在政府工作报告中明确了](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E6%A3%80%E6%9F%A5%E4%BA%92%E8%AE%A4%E5%9C%A8%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E4%B8%AD%E6%98%8E%E7%A1%AE%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [霍启刚回应建议完善带薪年假制度](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E5%9B%9E%E5%BA%94%E5%BB%BA%E8%AE%AE%E5%AE%8C%E5%96%84%E5%B8%A6%E8%96%AA%E5%B9%B4%E5%81%87%E5%88%B6%E5%BA%A6%23&t=31&band_rank=7&Refer=top)<br />
