@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 01:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 01:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [射雕英雄传侠之大者计划全球发行](https://s.weibo.com/weibo?q=%23%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E4%BE%A0%E4%B9%8B%E5%A4%A7%E8%80%85%E8%AE%A1%E5%88%92%E5%85%A8%E7%90%83%E5%8F%91%E8%A1%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [烟火人家孟菀青角色魅力](https://s.weibo.com/weibo?q=%E7%83%9F%E7%81%AB%E4%BA%BA%E5%AE%B6%E5%AD%9F%E8%8F%80%E9%9D%92%E8%A7%92%E8%89%B2%E9%AD%85%E5%8A%9B&t=31&band_rank=6&Refer=top)<br />
 7. [代表建议毕业生不要只把眼光放在一线城市](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E6%8A%8A%E7%9C%BC%E5%85%89%E6%94%BE%E5%9C%A8%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%23&t=31&band_rank=7&Refer=top)<br />
-8. [建议中小学生每天都有一节体育课](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8F%E5%A4%A9%E9%83%BD%E6%9C%89%E4%B8%80%E8%8A%82%E4%BD%93%E8%82%B2%E8%AF%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=9&Refer=top)<br />
+8. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=8&Refer=top)<br />
+9. [建议中小学生每天都有一节体育课](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8F%E5%A4%A9%E9%83%BD%E6%9C%89%E4%B8%80%E8%8A%82%E4%BD%93%E8%82%B2%E8%AF%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
