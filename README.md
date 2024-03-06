@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 11:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 12:00:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [回南天的天敌冷空气来了](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%95%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [相亲当晚女生列出每月9900元开支](https://www.baidu.com/s?wd=%E7%9B%B8%E4%BA%B2%E5%BD%93%E6%99%9A%E5%A5%B3%E7%94%9F%E5%88%97%E5%87%BA%E6%AF%8F%E6%9C%889900%E5%85%83%E5%BC%80%E6%94%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国第四艘航母很快公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美舰过航台湾海峡 解放军跟踪监视](https://www.baidu.com/s?wd=%E7%BE%8E%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1+%E8%A7%A3%E6%94%BE%E5%86%9B%E8%B7%9F%E8%B8%AA%E7%9B%91%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [本来去应聘的却被骗花钱培训了](https://www.baidu.com/s?wd=%E6%9C%AC%E6%9D%A5%E5%8E%BB%E5%BA%94%E8%81%98%E7%9A%84%E5%8D%B4%E8%A2%AB%E9%AA%97%E8%8A%B1%E9%92%B1%E5%9F%B9%E8%AE%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [边吃饭边喝水会消化不良？](https://www.baidu.com/s?wd=%E8%BE%B9%E5%90%83%E9%A5%AD%E8%BE%B9%E5%96%9D%E6%B0%B4%E4%BC%9A%E6%B6%88%E5%8C%96%E4%B8%8D%E8%89%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [回南天的天敌冷空气来了](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%95%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [相亲当晚女生列出每月9900元开支](https://www.baidu.com/s?wd=%E7%9B%B8%E4%BA%B2%E5%BD%93%E6%99%9A%E5%A5%B3%E7%94%9F%E5%88%97%E5%87%BA%E6%AF%8F%E6%9C%889900%E5%85%83%E5%BC%80%E6%94%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国第四艘航母很快公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美舰过航台湾海峡 解放军跟踪监视](https://www.baidu.com/s?wd=%E7%BE%8E%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1+%E8%A7%A3%E6%94%BE%E5%86%9B%E8%B7%9F%E8%B8%AA%E7%9B%91%E8%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [本来去应聘的却被骗花钱培训了](https://www.baidu.com/s?wd=%E6%9C%AC%E6%9D%A5%E5%8E%BB%E5%BA%94%E8%81%98%E7%9A%84%E5%8D%B4%E8%A2%AB%E9%AA%97%E8%8A%B1%E9%92%B1%E5%9F%B9%E8%AE%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [边吃饭边喝水会消化不良？](https://www.baidu.com/s?wd=%E8%BE%B9%E5%90%83%E9%A5%AD%E8%BE%B9%E5%96%9D%E6%B0%B4%E4%BC%9A%E6%B6%88%E5%8C%96%E4%B8%8D%E8%89%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
