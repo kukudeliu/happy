@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 10:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 10:12:01</h4></div>
 
 > 微博  
 
 1. [妻子力挺丈夫6次创业终逆袭](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%8A%9B%E6%8C%BA%E4%B8%88%E5%A4%AB6%E6%AC%A1%E5%88%9B%E4%B8%9A%E7%BB%88%E9%80%86%E8%A2%AD%23&t=31&band_rank=1&Refer=top)<br />
 2. [中国第四艘航母很快公布](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024全国两会新词热词](https://s.weibo.com/weibo?q=%232024%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%23&t=31&band_rank=3&Refer=top)<br />
-4. [中青报评霍启刚建议引热议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%9D%92%E6%8A%A5%E8%AF%84%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BB%BA%E8%AE%AE%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=4&Refer=top)<br />
-5. [男子购车后下午车辆降价1.7万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B4%AD%E8%BD%A6%E5%90%8E%E4%B8%8B%E5%8D%88%E8%BD%A6%E8%BE%86%E9%99%8D%E4%BB%B71.7%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
+4. [男子购车后下午车辆降价1.7万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B4%AD%E8%BD%A6%E5%90%8E%E4%B8%8B%E5%8D%88%E8%BD%A6%E8%BE%86%E9%99%8D%E4%BB%B71.7%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
+5. [中青报评霍启刚建议引热议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%9D%92%E6%8A%A5%E8%AF%84%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BB%BA%E8%AE%AE%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=5&Refer=top)<br />
 6. [长月烬明戏服 二次利用](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E6%88%8F%E6%9C%8D%20%E4%BA%8C%E6%AC%A1%E5%88%A9%E7%94%A8&t=31&band_rank=6&Refer=top)<br />
 7. [美法案要求字节165天内剥离TikTok](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%B3%95%E6%A1%88%E8%A6%81%E6%B1%82%E5%AD%97%E8%8A%82165%E5%A4%A9%E5%86%85%E5%89%A5%E7%A6%BBTikTok%23&t=31&band_rank=7&Refer=top)<br />
 8. [最新研究找到熬夜致癌原因](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%89%BE%E5%88%B0%E7%86%AC%E5%A4%9C%E8%87%B4%E7%99%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
