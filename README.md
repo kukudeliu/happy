@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 11:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 11:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [回南天的天敌冷空气来了](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%95%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [相亲当晚女生列出每月9900元开支](https://www.baidu.com/s?wd=%E7%9B%B8%E4%BA%B2%E5%BD%93%E6%99%9A%E5%A5%B3%E7%94%9F%E5%88%97%E5%87%BA%E6%AF%8F%E6%9C%889900%E5%85%83%E5%BC%80%E6%94%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国第四艘航母很快公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [委员建议明确支持职业打假人打假](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E6%98%8E%E7%A1%AE%E6%94%AF%E6%8C%81%E8%81%8C%E4%B8%9A%E6%89%93%E5%81%87%E4%BA%BA%E6%89%93%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子买东西中途换成假钞被识破](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E4%B8%9C%E8%A5%BF%E4%B8%AD%E9%80%94%E6%8D%A2%E6%88%90%E5%81%87%E9%92%9E%E8%A2%AB%E8%AF%86%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国家发放乡村振兴扶贫补贴？](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%BE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%89%B6%E8%B4%AB%E8%A1%A5%E8%B4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [回南天的天敌冷空气来了](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%95%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [相亲当晚女生列出每月9900元开支](https://www.baidu.com/s?wd=%E7%9B%B8%E4%BA%B2%E5%BD%93%E6%99%9A%E5%A5%B3%E7%94%9F%E5%88%97%E5%87%BA%E6%AF%8F%E6%9C%889900%E5%85%83%E5%BC%80%E6%94%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国第四艘航母很快公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [委员建议明确支持职业打假人打假](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E6%98%8E%E7%A1%AE%E6%94%AF%E6%8C%81%E8%81%8C%E4%B8%9A%E6%89%93%E5%81%87%E4%BA%BA%E6%89%93%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子买东西中途换成假钞被识破](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E4%B8%9C%E8%A5%BF%E4%B8%AD%E9%80%94%E6%8D%A2%E6%88%90%E5%81%87%E9%92%9E%E8%A2%AB%E8%AF%86%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国家发放乡村振兴扶贫补贴？](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%BE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%89%B6%E8%B4%AB%E8%A1%A5%E8%B4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
