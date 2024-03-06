@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 09:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 09:10:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [中国第四艘航母很快公布](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [别再让黄金店割智商税了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E8%AE%A9%E9%BB%84%E9%87%91%E5%BA%97%E5%89%B2%E6%99%BA%E5%95%86%E7%A8%8E%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [建议推动建立父亲育儿假制度](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8E%A8%E5%8A%A8%E5%BB%BA%E7%AB%8B%E7%88%B6%E4%BA%B2%E8%82%B2%E5%84%BF%E5%81%87%E5%88%B6%E5%BA%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [LV大秀](https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80&t=31&band_rank=7&Refer=top)<br />
-8. [最新研究找到熬夜致癌原因](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%89%BE%E5%88%B0%E7%86%AC%E5%A4%9C%E8%87%B4%E7%99%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
+7. [最新研究找到熬夜致癌原因](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%89%BE%E5%88%B0%E7%86%AC%E5%A4%9C%E8%87%B4%E7%99%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
+8. [LV大秀](https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80&t=31&band_rank=8&Refer=top)<br />
 9. [建议彩票个人单项奖金最高额度不超过500万](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%BD%A9%E7%A5%A8%E4%B8%AA%E4%BA%BA%E5%8D%95%E9%A1%B9%E5%A5%96%E9%87%91%E6%9C%80%E9%AB%98%E9%A2%9D%E5%BA%A6%E4%B8%8D%E8%B6%85%E8%BF%87500%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
