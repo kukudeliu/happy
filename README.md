@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 17:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 17:25:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [读懂政府工作报告中的“加减法”](https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E4%B8%AD%E7%9A%84%E2%80%9C%E5%8A%A0%E5%87%8F%E6%B3%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东回南天孩子淡定撑伞睡觉](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%AD%A9%E5%AD%90%E6%B7%A1%E5%AE%9A%E6%92%91%E4%BC%9E%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子AI换脸复活已故父亲宽慰奶奶](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90AI%E6%8D%A2%E8%84%B8%E5%A4%8D%E6%B4%BB%E5%B7%B2%E6%95%85%E7%88%B6%E4%BA%B2%E5%AE%BD%E6%85%B0%E5%A5%B6%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [坚持锻炼相当于1年多赚17万](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E9%94%BB%E7%82%BC%E7%9B%B8%E5%BD%93%E4%BA%8E1%E5%B9%B4%E5%A4%9A%E8%B5%9A17%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐娇发文质疑日导演竹内亮言论](https://www.baidu.com/s?wd=%E5%BE%90%E5%A8%87%E5%8F%91%E6%96%87%E8%B4%A8%E7%96%91%E6%97%A5%E5%AF%BC%E6%BC%94%E7%AB%B9%E5%86%85%E4%BA%AE%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女生搬家300元摇来7米6大货车](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%90%AC%E5%AE%B6300%E5%85%83%E6%91%87%E6%9D%A57%E7%B1%B36%E5%A4%A7%E8%B4%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子AI换脸复活已故父亲宽慰奶奶](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90AI%E6%8D%A2%E8%84%B8%E5%A4%8D%E6%B4%BB%E5%B7%B2%E6%95%85%E7%88%B6%E4%BA%B2%E5%AE%BD%E6%85%B0%E5%A5%B6%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [坚持锻炼相当于1年多赚17万](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E9%94%BB%E7%82%BC%E7%9B%B8%E5%BD%93%E4%BA%8E1%E5%B9%B4%E5%A4%9A%E8%B5%9A17%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [大运河挖出金子铜钱？](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E6%B2%B3%E6%8C%96%E5%87%BA%E9%87%91%E5%AD%90%E9%93%9C%E9%92%B1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [读懂政府工作报告中的“加减法”](https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E4%B8%AD%E7%9A%84%E2%80%9C%E5%8A%A0%E5%87%8F%E6%B3%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [广东回南天孩子淡定撑伞睡觉](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%AD%A9%E5%AD%90%E6%B7%A1%E5%AE%9A%E6%92%91%E4%BC%9E%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子AI换脸复活已故父亲宽慰奶奶](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90AI%E6%8D%A2%E8%84%B8%E5%A4%8D%E6%B4%BB%E5%B7%B2%E6%95%85%E7%88%B6%E4%BA%B2%E5%AE%BD%E6%85%B0%E5%A5%B6%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [坚持锻炼相当于1年多赚17万](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E9%94%BB%E7%82%BC%E7%9B%B8%E5%BD%93%E4%BA%8E1%E5%B9%B4%E5%A4%9A%E8%B5%9A17%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [徐娇发文质疑日导演竹内亮言论](https://www.baidu.com/s?wd=%E5%BE%90%E5%A8%87%E5%8F%91%E6%96%87%E8%B4%A8%E7%96%91%E6%97%A5%E5%AF%BC%E6%BC%94%E7%AB%B9%E5%86%85%E4%BA%AE%E8%A8%80%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女生搬家300元摇来7米6大货车](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%90%AC%E5%AE%B6300%E5%85%83%E6%91%87%E6%9D%A57%E7%B1%B36%E5%A4%A7%E8%B4%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子AI换脸复活已故父亲宽慰奶奶](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90AI%E6%8D%A2%E8%84%B8%E5%A4%8D%E6%B4%BB%E5%B7%B2%E6%95%85%E7%88%B6%E4%BA%B2%E5%AE%BD%E6%85%B0%E5%A5%B6%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [坚持锻炼相当于1年多赚17万](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E9%94%BB%E7%82%BC%E7%9B%B8%E5%BD%93%E4%BA%8E1%E5%B9%B4%E5%A4%9A%E8%B5%9A17%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [大运河挖出金子铜钱？](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E6%B2%B3%E6%8C%96%E5%87%BA%E9%87%91%E5%AD%90%E9%93%9C%E9%92%B1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
