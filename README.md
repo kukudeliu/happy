@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 11:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 11:37:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [坚持锻炼相当于1年多赚17万](https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E9%94%BB%E7%82%BC%E7%9B%B8%E5%BD%93%E4%BA%8E1%E5%B9%B4%E5%A4%9A%E8%B5%9A17%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [娃哈哈](https://s.weibo.com/weibo?q=%E5%A8%83%E5%93%88%E5%93%88&t=31&band_rank=5&Refer=top)<br />
 6. [董明珠建议建立家电使用年限强制性标准](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E5%BB%BA%E8%AE%AE%E5%BB%BA%E7%AB%8B%E5%AE%B6%E7%94%B5%E4%BD%BF%E7%94%A8%E5%B9%B4%E9%99%90%E5%BC%BA%E5%88%B6%E6%80%A7%E6%A0%87%E5%87%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子购车后下午车辆降价1.7万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B4%AD%E8%BD%A6%E5%90%8E%E4%B8%8B%E5%8D%88%E8%BD%A6%E8%BE%86%E9%99%8D%E4%BB%B71.7%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [老外被中国哪都能点外卖震惊了](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%93%AA%E9%83%BD%E8%83%BD%E7%82%B9%E5%A4%96%E5%8D%96%E9%9C%87%E6%83%8A%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [老外被中国哪都能点外卖震惊了](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%93%AA%E9%83%BD%E8%83%BD%E7%82%B9%E5%A4%96%E5%8D%96%E9%9C%87%E6%83%8A%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [男子购车后下午车辆降价1.7万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B4%AD%E8%BD%A6%E5%90%8E%E4%B8%8B%E5%8D%88%E8%BD%A6%E8%BE%86%E9%99%8D%E4%BB%B71.7%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [玲娜贝儿新衣服首秀](https://s.weibo.com/weibo?q=%E7%8E%B2%E5%A8%9C%E8%B4%9D%E5%84%BF%E6%96%B0%E8%A1%A3%E6%9C%8D%E9%A6%96%E7%A7%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
