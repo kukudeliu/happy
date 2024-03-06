@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 23:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 23:26:02</h4></div>
 
 > 微博  
 
 1. [超90%成年人体内潜伏带状疱疹病毒](https://s.weibo.com/weibo?q=%23%E8%B6%8590%25%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BD%93%E5%86%85%E6%BD%9C%E4%BC%8F%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E7%97%85%E6%AF%92%23&t=31&band_rank=1&Refer=top)<br />
 2. [唐探2游乐园尺度](https://s.weibo.com/weibo?q=%E5%94%90%E6%8E%A22%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%B0%BA%E5%BA%A6&t=31&band_rank=2&Refer=top)<br />
 3. [九个新视角读懂未来机遇](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%AA%E6%96%B0%E8%A7%86%E8%A7%92%E8%AF%BB%E6%87%82%E6%9C%AA%E6%9D%A5%E6%9C%BA%E9%81%87%23&t=31&band_rank=3&Refer=top)<br />
-4. [代表反对让学生逢雨逢雪停课](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%8F%8D%E5%AF%B9%E8%AE%A9%E5%AD%A6%E7%94%9F%E9%80%A2%E9%9B%A8%E9%80%A2%E9%9B%AA%E5%81%9C%E8%AF%BE%23&t=31&band_rank=4&Refer=top)<br />
-5. [建议国家全面禁止未成年人网游](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%9B%BD%E5%AE%B6%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E6%B8%B8%23&t=31&band_rank=5&Refer=top)<br />
+4. [建议国家全面禁止未成年人网游](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%9B%BD%E5%AE%B6%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E6%B8%B8%23&t=31&band_rank=4&Refer=top)<br />
+5. [代表反对让学生逢雨逢雪停课](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%8F%8D%E5%AF%B9%E8%AE%A9%E5%AD%A6%E7%94%9F%E9%80%A2%E9%9B%A8%E9%80%A2%E9%9B%AA%E5%81%9C%E8%AF%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [6科室6天6夜成功救回羊水栓塞产妇](https://s.weibo.com/weibo?q=%236%E7%A7%91%E5%AE%A46%E5%A4%A96%E5%A4%9C%E6%88%90%E5%8A%9F%E6%95%91%E5%9B%9E%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E4%BA%A7%E5%A6%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [章若楠难哄去刘海](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E9%9A%BE%E5%93%84%E5%8E%BB%E5%88%98%E6%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [喜茶光与夜之恋联名](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%E8%81%94%E5%90%8D%23&t=31&band_rank=8&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [绷不住了 德国防部密码1234](https://www.baidu.com/s?wd=%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86+%E5%BE%B7%E5%9B%BD%E9%98%B2%E9%83%A8%E5%AF%86%E7%A0%811234&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [人大代表：反对动不动就全市停课](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%8F%8D%E5%AF%B9%E5%8A%A8%E4%B8%8D%E5%8A%A8%E5%B0%B1%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京被俄罗斯老奶奶轮流亲吻](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E8%80%81%E5%A5%B6%E5%A5%B6%E8%BD%AE%E6%B5%81%E4%BA%B2%E5%90%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [建议鼓励生态安葬](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E9%BC%93%E5%8A%B1%E7%94%9F%E6%80%81%E5%AE%89%E8%91%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [绷不住了 德国防部密码1234](https://www.baidu.com/s?wd=%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86+%E5%BE%B7%E5%9B%BD%E9%98%B2%E9%83%A8%E5%AF%86%E7%A0%811234&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [人大代表：反对动不动就全市停课](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%8F%8D%E5%AF%B9%E5%8A%A8%E4%B8%8D%E5%8A%A8%E5%B0%B1%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京被俄罗斯老奶奶轮流亲吻](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E8%80%81%E5%A5%B6%E5%A5%B6%E8%BD%AE%E6%B5%81%E4%BA%B2%E5%90%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [建议鼓励生态安葬](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E9%BC%93%E5%8A%B1%E7%94%9F%E6%80%81%E5%AE%89%E8%91%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
