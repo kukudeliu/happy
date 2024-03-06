@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 20:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 20:46:01</h4></div>
 
 > 微博  
 
 1. [男生月薪一万一年存10万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E4%B8%80%E5%B9%B4%E5%AD%9810%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
 2. [美汁源直播](https://s.weibo.com/weibo?q=%E7%BE%8E%E6%B1%81%E6%BA%90%E7%9B%B4%E6%92%AD&t=31&band_rank=2&Refer=top)<br />
-3. [从政府工作报告看中国经济新动力](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%8A%A8%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
+3. [九个新视角读懂未来机遇](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%AA%E6%96%B0%E8%A7%86%E8%A7%92%E8%AF%BB%E6%87%82%E6%9C%AA%E6%9D%A5%E6%9C%BA%E9%81%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [真正抑郁症才有的9个样子](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E6%8A%91%E9%83%81%E7%97%87%E6%89%8D%E6%9C%89%E7%9A%849%E4%B8%AA%E6%A0%B7%E5%AD%90&t=31&band_rank=4&Refer=top)<br />
 5. [技术性离婚等减持漏洞将进一步堵住](https://s.weibo.com/weibo?q=%23%E6%8A%80%E6%9C%AF%E6%80%A7%E7%A6%BB%E5%A9%9A%E7%AD%89%E5%87%8F%E6%8C%81%E6%BC%8F%E6%B4%9E%E5%B0%86%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%A0%B5%E4%BD%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [30岁单身女性不想结婚只想买房](https://s.weibo.com/weibo?q=%2330%E5%B2%81%E5%8D%95%E8%BA%AB%E5%A5%B3%E6%80%A7%E4%B8%8D%E6%83%B3%E7%BB%93%E5%A9%9A%E5%8F%AA%E6%83%B3%E4%B9%B0%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
