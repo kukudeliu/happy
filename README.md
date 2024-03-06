@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 20:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 20:38:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [德国防部加密文档密码是1234](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E9%98%B2%E9%83%A8%E5%8A%A0%E5%AF%86%E6%96%87%E6%A1%A3%E5%AF%86%E7%A0%81%E6%98%AF1234&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张文宏谈为何这个冬天一直生病](https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%E8%B0%88%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E4%B8%80%E7%9B%B4%E7%94%9F%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女儿偷回家做满桌菜妈妈以为进错门](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E5%81%B7%E5%9B%9E%E5%AE%B6%E5%81%9A%E6%BB%A1%E6%A1%8C%E8%8F%9C%E5%A6%88%E5%A6%88%E4%BB%A5%E4%B8%BA%E8%BF%9B%E9%94%99%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [云南一体彩网点中出2500万大奖](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E4%BD%93%E5%BD%A9%E7%BD%91%E7%82%B9%E4%B8%AD%E5%87%BA2500%E4%B8%87%E5%A4%A7%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [本来去应聘的却被骗花钱培训了](https://www.baidu.com/s?wd=%E6%9C%AC%E6%9D%A5%E5%8E%BB%E5%BA%94%E8%81%98%E7%9A%84%E5%8D%B4%E8%A2%AB%E9%AA%97%E8%8A%B1%E9%92%B1%E5%9F%B9%E8%AE%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [德国防部加密文档密码是1234](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E9%98%B2%E9%83%A8%E5%8A%A0%E5%AF%86%E6%96%87%E6%A1%A3%E5%AF%86%E7%A0%81%E6%98%AF1234&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张文宏谈为何这个冬天一直生病](https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%E8%B0%88%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E4%B8%80%E7%9B%B4%E7%94%9F%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女儿偷回家做满桌菜妈妈以为进错门](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E5%81%B7%E5%9B%9E%E5%AE%B6%E5%81%9A%E6%BB%A1%E6%A1%8C%E8%8F%9C%E5%A6%88%E5%A6%88%E4%BB%A5%E4%B8%BA%E8%BF%9B%E9%94%99%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [云南一体彩网点中出2500万大奖](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E4%BD%93%E5%BD%A9%E7%BD%91%E7%82%B9%E4%B8%AD%E5%87%BA2500%E4%B8%87%E5%A4%A7%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [本来去应聘的却被骗花钱培训了](https://www.baidu.com/s?wd=%E6%9C%AC%E6%9D%A5%E5%8E%BB%E5%BA%94%E8%81%98%E7%9A%84%E5%8D%B4%E8%A2%AB%E9%AA%97%E8%8A%B1%E9%92%B1%E5%9F%B9%E8%AE%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
