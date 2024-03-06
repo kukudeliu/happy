@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 15:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 15:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [不能给你800元是因为我真的有](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%83%BD%E7%BB%99%E4%BD%A0800%E5%85%83%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%88%91%E7%9C%9F%E7%9A%84%E6%9C%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [建议公务员招录取缔职业院校生歧视政策](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%AC%E5%8A%A1%E5%91%98%E6%8B%9B%E5%BD%95%E5%8F%96%E7%BC%94%E8%81%8C%E4%B8%9A%E9%99%A2%E6%A0%A1%E7%94%9F%E6%AD%A7%E8%A7%86%E6%94%BF%E7%AD%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [十四届全国人大二次会议记者会](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E8%AE%B0%E8%80%85%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [不建议频繁涂抹润唇膏](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E9%A2%91%E7%B9%81%E6%B6%82%E6%8A%B9%E6%B6%A6%E5%94%87%E8%86%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [藏海花 张起灵](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E8%8A%B1%20%E5%BC%A0%E8%B5%B7%E7%81%B5&t=31&band_rank=9&Refer=top)<br />
+8. [藏海花 张起灵](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E8%8A%B1%20%E5%BC%A0%E8%B5%B7%E7%81%B5&t=31&band_rank=8&Refer=top)<br />
+9. [不建议频繁涂抹润唇膏](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E9%A2%91%E7%B9%81%E6%B6%82%E6%8A%B9%E6%B6%A6%E5%94%87%E8%86%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
