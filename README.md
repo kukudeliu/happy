@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 02:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 02:36:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [从政府工作报告看中国经济新动力](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%8A%A8%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [以前讨厌现在却真香的食物](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%89%8D%E8%AE%A8%E5%8E%8C%E7%8E%B0%E5%9C%A8%E5%8D%B4%E7%9C%9F%E9%A6%99%E7%9A%84%E9%A3%9F%E7%89%A9%23&t=31&band_rank=4&Refer=top)<br />
 5. [章若楠难哄去刘海](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E9%9A%BE%E5%93%84%E5%8E%BB%E5%88%98%E6%B5%B7%23&t=31&band_rank=5&Refer=top)<br />
-6. [回南天取快递 像到了天庭](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%8F%96%E5%BF%AB%E9%80%92%20%E5%83%8F%E5%88%B0%E4%BA%86%E5%A4%A9%E5%BA%AD&t=31&band_rank=6&Refer=top)<br />
-7. [代表反对让学生逢雨逢雪停课](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%8F%8D%E5%AF%B9%E8%AE%A9%E5%AD%A6%E7%94%9F%E9%80%A2%E9%9B%A8%E9%80%A2%E9%9B%AA%E5%81%9C%E8%AF%BE%23&t=31&band_rank=7&Refer=top)<br />
+6. [代表反对让学生逢雨逢雪停课](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%8F%8D%E5%AF%B9%E8%AE%A9%E5%AD%A6%E7%94%9F%E9%80%A2%E9%9B%A8%E9%80%A2%E9%9B%AA%E5%81%9C%E8%AF%BE%23&t=31&band_rank=6&Refer=top)<br />
+7. [回南天取快递 像到了天庭](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%8F%96%E5%BF%AB%E9%80%92%20%E5%83%8F%E5%88%B0%E4%BA%86%E5%A4%A9%E5%BA%AD&t=31&band_rank=7&Refer=top)<br />
 8. [钟薛高售价从60元降到2.5元](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [唐探2游乐园尺度](https://s.weibo.com/weibo?q=%E5%94%90%E6%8E%A22%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%B0%BA%E5%BA%A6&t=31&band_rank=9&Refer=top)<br />
 
