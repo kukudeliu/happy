@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 15:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 15:49:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [以新质生产力为发展注入强大动力](https://www.baidu.com/s?wd=%E4%BB%A5%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E4%B8%BA%E5%8F%91%E5%B1%95%E6%B3%A8%E5%85%A5%E5%BC%BA%E5%A4%A7%E5%8A%A8%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [坚持锻炼相当于1年多赚17万](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E9%94%BB%E7%82%BC%E7%9B%B8%E5%BD%93%E4%BA%8E1%E5%B9%B4%E5%A4%9A%E8%B5%9A17%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国第四艘航母很快公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南一庙会摊位拍出7.6万](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E5%BA%99%E4%BC%9A%E6%91%8A%E4%BD%8D%E6%8B%8D%E5%87%BA7.6%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩国医生“辞职潮”事件影响就医](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E2%80%9C%E8%BE%9E%E8%81%8C%E6%BD%AE%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D%E5%B0%B1%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国第四艘航母很快公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四姑娘山网红观景平台砌围墙？](https://www.baidu.com/s?wd=%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E7%BD%91%E7%BA%A2%E8%A7%82%E6%99%AF%E5%B9%B3%E5%8F%B0%E7%A0%8C%E5%9B%B4%E5%A2%99%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [以新质生产力为发展注入强大动力](https://www.baidu.com/s?wd=%E4%BB%A5%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E4%B8%BA%E5%8F%91%E5%B1%95%E6%B3%A8%E5%85%A5%E5%BC%BA%E5%A4%A7%E5%8A%A8%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [坚持锻炼相当于1年多赚17万](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E9%94%BB%E7%82%BC%E7%9B%B8%E5%BD%93%E4%BA%8E1%E5%B9%B4%E5%A4%9A%E8%B5%9A17%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国第四艘航母很快公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南一庙会摊位拍出7.6万](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E5%BA%99%E4%BC%9A%E6%91%8A%E4%BD%8D%E6%8B%8D%E5%87%BA7.6%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩国医生“辞职潮”事件影响就医](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E2%80%9C%E8%BE%9E%E8%81%8C%E6%BD%AE%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D%E5%B0%B1%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国第四艘航母很快公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四姑娘山网红观景平台砌围墙？](https://www.baidu.com/s?wd=%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E7%BD%91%E7%BA%A2%E8%A7%82%E6%99%AF%E5%B9%B3%E5%8F%B0%E7%A0%8C%E5%9B%B4%E5%A2%99%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
