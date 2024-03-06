@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 01:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 01:39:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [女儿偷回家做满桌菜妈妈以为进错门](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E5%81%B7%E5%9B%9E%E5%AE%B6%E5%81%9A%E6%BB%A1%E6%A1%8C%E8%8F%9C%E5%A6%88%E5%A6%88%E4%BB%A5%E4%B8%BA%E8%BF%9B%E9%94%99%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [政府工作报告展现的发展图景](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E5%B1%95%E7%8E%B0%E7%9A%84%E5%8F%91%E5%B1%95%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [绷不住了 德国防部密码1234](https://www.baidu.com/s?wd=%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86+%E5%BE%B7%E5%9B%BD%E9%98%B2%E9%83%A8%E5%AF%86%E7%A0%811234&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [建议将养老护理人员纳入事业编](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%85%BB%E8%80%81%E6%8A%A4%E7%90%86%E4%BA%BA%E5%91%98%E7%BA%B3%E5%85%A5%E4%BA%8B%E4%B8%9A%E7%BC%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [建议加大对造假短视频惩治力度](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%8A%A0%E5%A4%A7%E5%AF%B9%E9%80%A0%E5%81%87%E7%9F%AD%E8%A7%86%E9%A2%91%E6%83%A9%E6%B2%BB%E5%8A%9B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [建议帮助年轻人不脆皮](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B8%AE%E5%8A%A9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E8%84%86%E7%9A%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [回南天男子举吹风机烘天花板](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%94%B7%E5%AD%90%E4%B8%BE%E5%90%B9%E9%A3%8E%E6%9C%BA%E7%83%98%E5%A4%A9%E8%8A%B1%E6%9D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [程序员下班做偶像](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%8B%E7%8F%AD%E5%81%9A%E5%81%B6%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [价格战蔓延到B级车](https://www.baidu.com/s?wd=%E4%BB%B7%E6%A0%BC%E6%88%98%E8%94%93%E5%BB%B6%E5%88%B0B%E7%BA%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [女儿偷回家做满桌菜妈妈以为进错门](https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E5%81%B7%E5%9B%9E%E5%AE%B6%E5%81%9A%E6%BB%A1%E6%A1%8C%E8%8F%9C%E5%A6%88%E5%A6%88%E4%BB%A5%E4%B8%BA%E8%BF%9B%E9%94%99%E9%97%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [政府工作报告展现的发展图景](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E5%B1%95%E7%8E%B0%E7%9A%84%E5%8F%91%E5%B1%95%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [绷不住了 德国防部密码1234](https://www.baidu.com/s?wd=%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86+%E5%BE%B7%E5%9B%BD%E9%98%B2%E9%83%A8%E5%AF%86%E7%A0%811234&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [建议将养老护理人员纳入事业编](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%85%BB%E8%80%81%E6%8A%A4%E7%90%86%E4%BA%BA%E5%91%98%E7%BA%B3%E5%85%A5%E4%BA%8B%E4%B8%9A%E7%BC%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [建议加大对造假短视频惩治力度](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%8A%A0%E5%A4%A7%E5%AF%B9%E9%80%A0%E5%81%87%E7%9F%AD%E8%A7%86%E9%A2%91%E6%83%A9%E6%B2%BB%E5%8A%9B%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [建议帮助年轻人不脆皮](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B8%AE%E5%8A%A9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E8%84%86%E7%9A%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [回南天男子举吹风机烘天花板](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%94%B7%E5%AD%90%E4%B8%BE%E5%90%B9%E9%A3%8E%E6%9C%BA%E7%83%98%E5%A4%A9%E8%8A%B1%E6%9D%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [程序员下班做偶像](https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%8B%E7%8F%AD%E5%81%9A%E5%81%B6%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [价格战蔓延到B级车](https://www.baidu.com/s?wd=%E4%BB%B7%E6%A0%BC%E6%88%98%E8%94%93%E5%BB%B6%E5%88%B0B%E7%BA%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
