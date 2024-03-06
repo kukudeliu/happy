@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 19:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 19:19:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [读懂政府工作报告中的“加减法”](https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E4%B8%AD%E7%9A%84%E2%80%9C%E5%8A%A0%E5%87%8F%E6%B3%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [3个空瓶子就能换大爷1个套圈](https://www.baidu.com/s?wd=3%E4%B8%AA%E7%A9%BA%E7%93%B6%E5%AD%90%E5%B0%B1%E8%83%BD%E6%8D%A2%E5%A4%A7%E7%88%B71%E4%B8%AA%E5%A5%97%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生搬家300元摇来7米6大货车](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%90%AC%E5%AE%B6300%E5%85%83%E6%91%87%E6%9D%A57%E7%B1%B36%E5%A4%A7%E8%B4%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广东回南天孩子淡定撑伞睡觉](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%AD%A9%E5%AD%90%E6%B7%A1%E5%AE%9A%E6%92%91%E4%BC%9E%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩国医生“辞职潮”事件影响就医](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E2%80%9C%E8%BE%9E%E8%81%8C%E6%BD%AE%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D%E5%B0%B1%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [读懂政府工作报告中的“加减法”](https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E4%B8%AD%E7%9A%84%E2%80%9C%E5%8A%A0%E5%87%8F%E6%B3%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [3个空瓶子就能换大爷1个套圈](https://www.baidu.com/s?wd=3%E4%B8%AA%E7%A9%BA%E7%93%B6%E5%AD%90%E5%B0%B1%E8%83%BD%E6%8D%A2%E5%A4%A7%E7%88%B71%E4%B8%AA%E5%A5%97%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生搬家300元摇来7米6大货车](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%90%AC%E5%AE%B6300%E5%85%83%E6%91%87%E6%9D%A57%E7%B1%B36%E5%A4%A7%E8%B4%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [广东回南天孩子淡定撑伞睡觉](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%AD%A9%E5%AD%90%E6%B7%A1%E5%AE%9A%E6%92%91%E4%BC%9E%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩国医生“辞职潮”事件影响就医](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E2%80%9C%E8%BE%9E%E8%81%8C%E6%BD%AE%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D%E5%B0%B1%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
