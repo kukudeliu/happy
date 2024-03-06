@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 07:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 07:42:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [唐探2游乐园尺度](https://s.weibo.com/weibo?q=%E5%94%90%E6%8E%A22%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%B0%BA%E5%BA%A6&t=31&band_rank=6&Refer=top)<br />
 7. [家门口被放了五毛钱](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%97%A8%E5%8F%A3%E8%A2%AB%E6%94%BE%E4%BA%86%E4%BA%94%E6%AF%9B%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [章若楠难哄去刘海](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E9%9A%BE%E5%93%84%E5%8E%BB%E5%88%98%E6%B5%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [代表反对让学生逢雨逢雪停课](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%8F%8D%E5%AF%B9%E8%AE%A9%E5%AD%A6%E7%94%9F%E9%80%A2%E9%9B%A8%E9%80%A2%E9%9B%AA%E5%81%9C%E8%AF%BE%23&t=31&band_rank=9&Refer=top)<br />
+9. [减少你的分享欲](https://s.weibo.com/weibo?q=%E5%87%8F%E5%B0%91%E4%BD%A0%E7%9A%84%E5%88%86%E4%BA%AB%E6%AC%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
