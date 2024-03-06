@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 20:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 20:53:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [30岁单身女性不想结婚只想买房](https://s.weibo.com/weibo?q=%2330%E5%B2%81%E5%8D%95%E8%BA%AB%E5%A5%B3%E6%80%A7%E4%B8%8D%E6%83%B3%E7%BB%93%E5%A9%9A%E5%8F%AA%E6%83%B3%E4%B9%B0%E6%88%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [钟薛高售价从60元降到2.5元](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [女生千万要小心青纱帐](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E5%8D%83%E4%B8%87%E8%A6%81%E5%B0%8F%E5%BF%83%E9%9D%92%E7%BA%B1%E5%B8%90&t=31&band_rank=8&Refer=top)<br />
-9. [美汁源直播](https://s.weibo.com/weibo?q=%E7%BE%8E%E6%B1%81%E6%BA%90%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
+9. [张文宏谈为何这个冬天一直生病](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E8%B0%88%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E4%B8%80%E7%9B%B4%E7%94%9F%E7%97%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
