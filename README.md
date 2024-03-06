@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 00:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 00:07:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [代表反对让学生逢雨逢雪停课](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%8F%8D%E5%AF%B9%E8%AE%A9%E5%AD%A6%E7%94%9F%E9%80%A2%E9%9B%A8%E9%80%A2%E9%9B%AA%E5%81%9C%E8%AF%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [6科室6天6夜成功救回羊水栓塞产妇](https://s.weibo.com/weibo?q=%236%E7%A7%91%E5%AE%A46%E5%A4%A96%E5%A4%9C%E6%88%90%E5%8A%9F%E6%95%91%E5%9B%9E%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E4%BA%A7%E5%A6%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [章若楠难哄去刘海](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E9%9A%BE%E5%93%84%E5%8E%BB%E5%88%98%E6%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [女生千万要小心青纱帐](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E5%8D%83%E4%B8%87%E8%A6%81%E5%B0%8F%E5%BF%83%E9%9D%92%E7%BA%B1%E5%B8%90&t=31&band_rank=8&Refer=top)<br />
+8. [魏大勋神级4秒镜头](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%A5%9E%E7%BA%A74%E7%A7%92%E9%95%9C%E5%A4%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [钟薛高售价从60元降到2.5元](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
