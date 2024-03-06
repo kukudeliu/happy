@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 14:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 14:57:01</h4></div>
 
 > 微博  
 
 1. [男生月薪一万一年存10万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E4%B8%80%E5%B9%B4%E5%AD%9810%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [建议公务员招录取缔职业院校生歧视政策](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%AC%E5%8A%A1%E5%91%98%E6%8B%9B%E5%BD%95%E5%8F%96%E7%BC%94%E8%81%8C%E4%B8%9A%E9%99%A2%E6%A0%A1%E7%94%9F%E6%AD%A7%E8%A7%86%E6%94%BF%E7%AD%96%23&t=31&band_rank=2&Refer=top)<br />
+2. [钟薛高售价从60元降到2.5元](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [6个角度看今年发展主要预期目标](https://s.weibo.com/weibo?q=%236%E4%B8%AA%E8%A7%92%E5%BA%A6%E7%9C%8B%E4%BB%8A%E5%B9%B4%E5%8F%91%E5%B1%95%E4%B8%BB%E8%A6%81%E9%A2%84%E6%9C%9F%E7%9B%AE%E6%A0%87%23&t=31&band_rank=3&Refer=top)<br />
-4. [钟薛高售价从60元降到2.5元](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
+4. [建议公务员招录取缔职业院校生歧视政策](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%AC%E5%8A%A1%E5%91%98%E6%8B%9B%E5%BD%95%E5%8F%96%E7%BC%94%E8%81%8C%E4%B8%9A%E9%99%A2%E6%A0%A1%E7%94%9F%E6%AD%A7%E8%A7%86%E6%94%BF%E7%AD%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [不能给你800元是因为我真的有](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%83%BD%E7%BB%99%E4%BD%A0800%E5%85%83%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%88%91%E7%9C%9F%E7%9A%84%E6%9C%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [不建议频繁涂抹润唇膏](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E9%A2%91%E7%B9%81%E6%B6%82%E6%8A%B9%E6%B6%A6%E5%94%87%E8%86%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [建议以家庭为单位征税](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%BB%A5%E5%AE%B6%E5%BA%AD%E4%B8%BA%E5%8D%95%E4%BD%8D%E5%BE%81%E7%A8%8E%23&t=31&band_rank=7&Refer=top)<br />
