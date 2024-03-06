@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 15:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 15:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [坚持锻炼相当于1年多赚17万](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E9%94%BB%E7%82%BC%E7%9B%B8%E5%BD%93%E4%BA%8E1%E5%B9%B4%E5%A4%9A%E8%B5%9A17%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [横店群演短缺 有人两个月工资翻10倍](https://www.baidu.com/s?wd=%E6%A8%AA%E5%BA%97%E7%BE%A4%E6%BC%94%E7%9F%AD%E7%BC%BA+%E6%9C%89%E4%BA%BA%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%B7%A5%E8%B5%84%E7%BF%BB10%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国第四艘航母很快公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南一庙会摊位拍出7.6万](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E5%BA%99%E4%BC%9A%E6%91%8A%E4%BD%8D%E6%8B%8D%E5%87%BA7.6%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [建议对当工人的毕业生发放补贴](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%AF%B9%E5%BD%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E6%AF%95%E4%B8%9A%E7%94%9F%E5%8F%91%E6%94%BE%E8%A1%A5%E8%B4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四姑娘山网红观景平台砌围墙？](https://www.baidu.com/s?wd=%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E7%BD%91%E7%BA%A2%E8%A7%82%E6%99%AF%E5%B9%B3%E5%8F%B0%E7%A0%8C%E5%9B%B4%E5%A2%99%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [坚持锻炼相当于1年多赚17万](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E9%94%BB%E7%82%BC%E7%9B%B8%E5%BD%93%E4%BA%8E1%E5%B9%B4%E5%A4%9A%E8%B5%9A17%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [横店群演短缺 有人两个月工资翻10倍](https://www.baidu.com/s?wd=%E6%A8%AA%E5%BA%97%E7%BE%A4%E6%BC%94%E7%9F%AD%E7%BC%BA+%E6%9C%89%E4%BA%BA%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%B7%A5%E8%B5%84%E7%BF%BB10%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国第四艘航母很快公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南一庙会摊位拍出7.6万](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E5%BA%99%E4%BC%9A%E6%91%8A%E4%BD%8D%E6%8B%8D%E5%87%BA7.6%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [建议对当工人的毕业生发放补贴](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%AF%B9%E5%BD%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E6%AF%95%E4%B8%9A%E7%94%9F%E5%8F%91%E6%94%BE%E8%A1%A5%E8%B4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四姑娘山网红观景平台砌围墙？](https://www.baidu.com/s?wd=%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E7%BD%91%E7%BA%A2%E8%A7%82%E6%99%AF%E5%B9%B3%E5%8F%B0%E7%A0%8C%E5%9B%B4%E5%A2%99%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
