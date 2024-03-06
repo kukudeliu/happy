@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 23:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 23:29:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [政府工作报告展现的发展图景](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E5%B1%95%E7%8E%B0%E7%9A%84%E5%8F%91%E5%B1%95%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [绷不住了 德国防部密码1234](https://www.baidu.com/s?wd=%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86+%E5%BE%B7%E5%9B%BD%E9%98%B2%E9%83%A8%E5%AF%86%E7%A0%811234&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京被俄罗斯老奶奶轮流亲吻](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E8%80%81%E5%A5%B6%E5%A5%B6%E8%BD%AE%E6%B5%81%E4%BA%B2%E5%90%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生月薪1万一年存10万](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%9C%88%E8%96%AA1%E4%B8%87%E4%B8%80%E5%B9%B4%E5%AD%9810%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生月薪1万一年存10万](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%9C%88%E8%96%AA1%E4%B8%87%E4%B8%80%E5%B9%B4%E5%AD%9810%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [政府工作报告展现的发展图景](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E5%B1%95%E7%8E%B0%E7%9A%84%E5%8F%91%E5%B1%95%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [绷不住了 德国防部密码1234](https://www.baidu.com/s?wd=%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86+%E5%BE%B7%E5%9B%BD%E9%98%B2%E9%83%A8%E5%AF%86%E7%A0%811234&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京被俄罗斯老奶奶轮流亲吻](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E8%80%81%E5%A5%B6%E5%A5%B6%E8%BD%AE%E6%B5%81%E4%BA%B2%E5%90%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男生月薪1万一年存10万](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%9C%88%E8%96%AA1%E4%B8%87%E4%B8%80%E5%B9%B4%E5%AD%9810%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男生月薪1万一年存10万](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%9C%88%E8%96%AA1%E4%B8%87%E4%B8%80%E5%B9%B4%E5%AD%9810%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
