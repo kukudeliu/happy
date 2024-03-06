@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 09:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 09:34:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [别再让黄金店割智商税了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E8%AE%A9%E9%BB%84%E9%87%91%E5%BA%97%E5%89%B2%E6%99%BA%E5%95%86%E7%A8%8E%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [建议推动建立父亲育儿假制度](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8E%A8%E5%8A%A8%E5%BB%BA%E7%AB%8B%E7%88%B6%E4%BA%B2%E8%82%B2%E5%84%BF%E5%81%87%E5%88%B6%E5%BA%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [最新研究找到熬夜致癌原因](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%89%BE%E5%88%B0%E7%86%AC%E5%A4%9C%E8%87%B4%E7%99%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [恋与深空祁煜](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E7%A5%81%E7%85%9C&t=31&band_rank=8&Refer=top)<br />
-9. [美法案要求字节165天内剥离TikTok](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%B3%95%E6%A1%88%E8%A6%81%E6%B1%82%E5%AD%97%E8%8A%82165%E5%A4%A9%E5%86%85%E5%89%A5%E7%A6%BBTikTok%23&t=31&band_rank=9&Refer=top)<br />
+8. [美法案要求字节165天内剥离TikTok](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%B3%95%E6%A1%88%E8%A6%81%E6%B1%82%E5%AD%97%E8%8A%82165%E5%A4%A9%E5%86%85%E5%89%A5%E7%A6%BBTikTok%23&t=31&band_rank=8&Refer=top)<br />
+9. [恋与深空祁煜](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E7%A5%81%E7%85%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
