@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 08:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 08:49:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [2024全国两会新词热词](https://s.weibo.com/weibo?q=%232024%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%23&t=31&band_rank=3&Refer=top)<br />
 4. [别再让黄金店割智商税了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E8%AE%A9%E9%BB%84%E9%87%91%E5%BA%97%E5%89%B2%E6%99%BA%E5%95%86%E7%A8%8E%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [建议彩票个人单项奖金最高额度不超过500万](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%BD%A9%E7%A5%A8%E4%B8%AA%E4%BA%BA%E5%8D%95%E9%A1%B9%E5%A5%96%E9%87%91%E6%9C%80%E9%AB%98%E9%A2%9D%E5%BA%A6%E4%B8%8D%E8%B6%85%E8%BF%87500%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [最新研究找到熬夜致癌原因](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%89%BE%E5%88%B0%E7%86%AC%E5%A4%9C%E8%87%B4%E7%99%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [LV大秀](https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80&t=31&band_rank=7&Refer=top)<br />
-8. [中国第四艘航母很快公布](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83%23&t=31&band_rank=8&Refer=top)<br />
+6. [LV大秀](https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80&t=31&band_rank=6&Refer=top)<br />
+7. [中国第四艘航母很快公布](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [最新研究找到熬夜致癌原因](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%89%BE%E5%88%B0%E7%86%AC%E5%A4%9C%E8%87%B4%E7%99%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
 9. [回南天](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -19,22 +19,22 @@
 
 1. [“小事”里的大情怀](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E4%BA%8B%E2%80%9D%E9%87%8C%E7%9A%84%E5%A4%A7%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [人大代表谈电视开机率不高](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B0%88%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E4%B8%8D%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [建议把基础教育12年学制缩短至9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B212%E5%B9%B4%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E8%87%B39%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [回南天的天敌冷空气来了](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%95%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [看2024年消费“新引擎”在哪里？](https://www.baidu.com/s?wd=%E7%9C%8B2024%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E6%96%B0%E5%BC%95%E6%93%8E%E2%80%9D%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [回南天的天敌冷空气来了](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%95%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [建议把基础教育12年学制缩短至9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B212%E5%B9%B4%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E8%87%B39%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一口价金手镯核算价格是金价2倍](https://www.baidu.com/s?wd=%E4%B8%80%E5%8F%A3%E4%BB%B7%E9%87%91%E6%89%8B%E9%95%AF%E6%A0%B8%E7%AE%97%E4%BB%B7%E6%A0%BC%E6%98%AF%E9%87%91%E4%BB%B72%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [委员建议每车按年享受高速免费时长](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E6%AF%8F%E8%BD%A6%E6%8C%89%E5%B9%B4%E4%BA%AB%E5%8F%97%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%97%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [水电池有望5年内取代锂离子电池](https://www.baidu.com/s?wd=%E6%B0%B4%E7%94%B5%E6%B1%A0%E6%9C%89%E6%9C%9B5%E5%B9%B4%E5%86%85%E5%8F%96%E4%BB%A3%E9%94%82%E7%A6%BB%E5%AD%90%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [建议尽快为校园餐立法](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B0%BD%E5%BF%AB%E4%B8%BA%E6%A0%A1%E5%9B%AD%E9%A4%90%E7%AB%8B%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国家发放乡村振兴扶贫补贴？](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%BE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%89%B6%E8%B4%AB%E8%A1%A5%E8%B4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [“小事”里的大情怀](https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E4%BA%8B%E2%80%9D%E9%87%8C%E7%9A%84%E5%A4%A7%E6%83%85%E6%80%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [人大代表谈电视开机率不高](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B0%88%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E4%B8%8D%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [建议把基础教育12年学制缩短至9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B212%E5%B9%B4%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E8%87%B39%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [回南天的天敌冷空气来了](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%95%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [看2024年消费“新引擎”在哪里？](https://www.baidu.com/s?wd=%E7%9C%8B2024%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E6%96%B0%E5%BC%95%E6%93%8E%E2%80%9D%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [回南天的天敌冷空气来了](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%95%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [建议把基础教育12年学制缩短至9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B212%E5%B9%B4%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E8%87%B39%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一口价金手镯核算价格是金价2倍](https://www.baidu.com/s?wd=%E4%B8%80%E5%8F%A3%E4%BB%B7%E9%87%91%E6%89%8B%E9%95%AF%E6%A0%B8%E7%AE%97%E4%BB%B7%E6%A0%BC%E6%98%AF%E9%87%91%E4%BB%B72%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [委员建议每车按年享受高速免费时长](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E6%AF%8F%E8%BD%A6%E6%8C%89%E5%B9%B4%E4%BA%AB%E5%8F%97%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%97%B6%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [水电池有望5年内取代锂离子电池](https://www.baidu.com/s?wd=%E6%B0%B4%E7%94%B5%E6%B1%A0%E6%9C%89%E6%9C%9B5%E5%B9%B4%E5%86%85%E5%8F%96%E4%BB%A3%E9%94%82%E7%A6%BB%E5%AD%90%E7%94%B5%E6%B1%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [建议尽快为校园餐立法](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B0%BD%E5%BF%AB%E4%B8%BA%E6%A0%A1%E5%9B%AD%E9%A4%90%E7%AB%8B%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国家发放乡村振兴扶贫补贴？](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%BE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%89%B6%E8%B4%AB%E8%A1%A5%E8%B4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
