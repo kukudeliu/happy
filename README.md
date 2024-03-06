@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 17:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 17:51:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [广东回南天孩子淡定撑伞睡觉](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%AD%A9%E5%AD%90%E6%B7%A1%E5%AE%9A%E6%92%91%E4%BC%9E%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生搬家300元摇来7米6大货车](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%90%AC%E5%AE%B6300%E5%85%83%E6%91%87%E6%9D%A57%E7%B1%B36%E5%A4%A7%E8%B4%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小杨哥跌出带货榜前20](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%B7%8C%E5%87%BA%E5%B8%A6%E8%B4%A7%E6%A6%9C%E5%89%8D20&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子AI换脸复活已故父亲宽慰奶奶](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90AI%E6%8D%A2%E8%84%B8%E5%A4%8D%E6%B4%BB%E5%B7%B2%E6%95%85%E7%88%B6%E4%BA%B2%E5%AE%BD%E6%85%B0%E5%A5%B6%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生月薪1万一年存10万](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%9C%88%E8%96%AA1%E4%B8%87%E4%B8%80%E5%B9%B4%E5%AD%9810%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [大运河挖出金子铜钱？](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E6%B2%B3%E6%8C%96%E5%87%BA%E9%87%91%E5%AD%90%E9%93%9C%E9%92%B1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [广东回南天孩子淡定撑伞睡觉](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%AD%A9%E5%AD%90%E6%B7%A1%E5%AE%9A%E6%92%91%E4%BC%9E%E7%9D%A1%E8%A7%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女生搬家300元摇来7米6大货车](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%90%AC%E5%AE%B6300%E5%85%83%E6%91%87%E6%9D%A57%E7%B1%B36%E5%A4%A7%E8%B4%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小杨哥跌出带货榜前20](https://www.baidu.com/s?wd=%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%B7%8C%E5%87%BA%E5%B8%A6%E8%B4%A7%E6%A6%9C%E5%89%8D20&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子AI换脸复活已故父亲宽慰奶奶](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90AI%E6%8D%A2%E8%84%B8%E5%A4%8D%E6%B4%BB%E5%B7%B2%E6%95%85%E7%88%B6%E4%BA%B2%E5%AE%BD%E6%85%B0%E5%A5%B6%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生月薪1万一年存10万](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%9C%88%E8%96%AA1%E4%B8%87%E4%B8%80%E5%B9%B4%E5%AD%9810%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [大运河挖出金子铜钱？](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%90%E6%B2%B3%E6%8C%96%E5%87%BA%E9%87%91%E5%AD%90%E9%93%9C%E9%92%B1%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
