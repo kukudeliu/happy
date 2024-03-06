@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 19:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 19:38:01</h4></div>
 
 > 微博  
 
-1. [papi酱 当你的女朋友是学导演的](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E5%BD%93%E4%BD%A0%E7%9A%84%E5%A5%B3%E6%9C%8B%E5%8F%8B%E6%98%AF%E5%AD%A6%E5%AF%BC%E6%BC%94%E7%9A%84&t=31&band_rank=1&Refer=top)<br />
-2. [男生月薪一万一年存10万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E4%B8%80%E5%B9%B4%E5%AD%9810%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
+1. [男生月薪一万一年存10万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E4%B8%80%E5%B9%B4%E5%AD%9810%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
+2. [papi酱 当你的女朋友是学导演的](https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E5%BD%93%E4%BD%A0%E7%9A%84%E5%A5%B3%E6%9C%8B%E5%8F%8B%E6%98%AF%E5%AD%A6%E5%AF%BC%E6%BC%94%E7%9A%84&t=31&band_rank=2&Refer=top)<br />
 3. [两会数读中国](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%E6%95%B0%E8%AF%BB%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [真正抑郁症才有的9个样子](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E6%8A%91%E9%83%81%E7%97%87%E6%89%8D%E6%9C%89%E7%9A%849%E4%B8%AA%E6%A0%B7%E5%AD%90&t=31&band_rank=4&Refer=top)<br />
 5. [技术性离婚等减持漏洞将进一步堵住](https://s.weibo.com/weibo?q=%23%E6%8A%80%E6%9C%AF%E6%80%A7%E7%A6%BB%E5%A9%9A%E7%AD%89%E5%87%8F%E6%8C%81%E6%BC%8F%E6%B4%9E%E5%B0%86%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%A0%B5%E4%BD%8F%23&t=31&band_rank=5&Refer=top)<br />
