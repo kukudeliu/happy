@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 12:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 12:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [坚持锻炼相当于1年多赚17万](https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E9%94%BB%E7%82%BC%E7%9B%B8%E5%BD%93%E4%BA%8E1%E5%B9%B4%E5%A4%9A%E8%B5%9A17%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [董明珠建议建立家电使用年限强制性标准](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E5%BB%BA%E8%AE%AE%E5%BB%BA%E7%AB%8B%E5%AE%B6%E7%94%B5%E4%BD%BF%E7%94%A8%E5%B9%B4%E9%99%90%E5%BC%BA%E5%88%B6%E6%80%A7%E6%A0%87%E5%87%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子购车后下午车辆降价1.7万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B4%AD%E8%BD%A6%E5%90%8E%E4%B8%8B%E5%8D%88%E8%BD%A6%E8%BE%86%E9%99%8D%E4%BB%B71.7%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [老外被中国哪都能点外卖震惊了](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%93%AA%E9%83%BD%E8%83%BD%E7%82%B9%E5%A4%96%E5%8D%96%E9%9C%87%E6%83%8A%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [睡前长期玩手机可能让你变丑](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E9%95%BF%E6%9C%9F%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E8%AE%A9%E4%BD%A0%E5%8F%98%E4%B8%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [回南天的天敌冷空气来了](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%95%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [相亲当晚女生列出每月9900元开支](https://www.baidu.com/s?wd=%E7%9B%B8%E4%BA%B2%E5%BD%93%E6%99%9A%E5%A5%B3%E7%94%9F%E5%88%97%E5%87%BA%E6%AF%8F%E6%9C%889900%E5%85%83%E5%BC%80%E6%94%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国第四艘航母很快公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [本来去应聘的却被骗花钱培训了](https://www.baidu.com/s?wd=%E6%9C%AC%E6%9D%A5%E5%8E%BB%E5%BA%94%E8%81%98%E7%9A%84%E5%8D%B4%E8%A2%AB%E9%AA%97%E8%8A%B1%E9%92%B1%E5%9F%B9%E8%AE%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [央企电车发展不如特斯拉？国资委回应](https://www.baidu.com/s?wd=%E5%A4%AE%E4%BC%81%E7%94%B5%E8%BD%A6%E5%8F%91%E5%B1%95%E4%B8%8D%E5%A6%82%E7%89%B9%E6%96%AF%E6%8B%89%EF%BC%9F%E5%9B%BD%E8%B5%84%E5%A7%94%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [边吃饭边喝水会消化不良？](https://www.baidu.com/s?wd=%E8%BE%B9%E5%90%83%E9%A5%AD%E8%BE%B9%E5%96%9D%E6%B0%B4%E4%BC%9A%E6%B6%88%E5%8C%96%E4%B8%8D%E8%89%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [回南天的天敌冷空气来了](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%95%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [相亲当晚女生列出每月9900元开支](https://www.baidu.com/s?wd=%E7%9B%B8%E4%BA%B2%E5%BD%93%E6%99%9A%E5%A5%B3%E7%94%9F%E5%88%97%E5%87%BA%E6%AF%8F%E6%9C%889900%E5%85%83%E5%BC%80%E6%94%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [中国第四艘航母很快公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [本来去应聘的却被骗花钱培训了](https://www.baidu.com/s?wd=%E6%9C%AC%E6%9D%A5%E5%8E%BB%E5%BA%94%E8%81%98%E7%9A%84%E5%8D%B4%E8%A2%AB%E9%AA%97%E8%8A%B1%E9%92%B1%E5%9F%B9%E8%AE%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [央企电车发展不如特斯拉？国资委回应](https://www.baidu.com/s?wd=%E5%A4%AE%E4%BC%81%E7%94%B5%E8%BD%A6%E5%8F%91%E5%B1%95%E4%B8%8D%E5%A6%82%E7%89%B9%E6%96%AF%E6%8B%89%EF%BC%9F%E5%9B%BD%E8%B5%84%E5%A7%94%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [边吃饭边喝水会消化不良？](https://www.baidu.com/s?wd=%E8%BE%B9%E5%90%83%E9%A5%AD%E8%BE%B9%E5%96%9D%E6%B0%B4%E4%BC%9A%E6%B6%88%E5%8C%96%E4%B8%8D%E8%89%AF%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
