@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 14:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 14:39:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [6个角度看今年发展主要预期目标](https://s.weibo.com/weibo?q=%236%E4%B8%AA%E8%A7%92%E5%BA%A6%E7%9C%8B%E4%BB%8A%E5%B9%B4%E5%8F%91%E5%B1%95%E4%B8%BB%E8%A6%81%E9%A2%84%E6%9C%9F%E7%9B%AE%E6%A0%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [睡眠不足引发全身炎症风暴](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B3%E5%BC%95%E5%8F%91%E5%85%A8%E8%BA%AB%E7%82%8E%E7%97%87%E9%A3%8E%E6%9A%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [建议以家庭为单位征税](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%BB%A5%E5%AE%B6%E5%BA%AD%E4%B8%BA%E5%8D%95%E4%BD%8D%E5%BE%81%E7%A8%8E%23&t=31&band_rank=5&Refer=top)<br />
-6. [藏海花 张起灵](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E8%8A%B1%20%E5%BC%A0%E8%B5%B7%E7%81%B5&t=31&band_rank=6&Refer=top)<br />
-7. [不建议频繁涂抹润唇膏](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E9%A2%91%E7%B9%81%E6%B6%82%E6%8A%B9%E6%B6%A6%E5%94%87%E8%86%8F%23&t=31&band_rank=7&Refer=top)<br />
+6. [不建议频繁涂抹润唇膏](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E9%A2%91%E7%B9%81%E6%B6%82%E6%8A%B9%E6%B6%A6%E5%94%87%E8%86%8F%23&t=31&band_rank=6&Refer=top)<br />
+7. [藏海花 张起灵](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E8%8A%B1%20%E5%BC%A0%E8%B5%B7%E7%81%B5&t=31&band_rank=7&Refer=top)<br />
 8. [多部门建议支持大龄女性生育力保存](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E9%83%A8%E9%97%A8%E5%BB%BA%E8%AE%AE%E6%94%AF%E6%8C%81%E5%A4%A7%E9%BE%84%E5%A5%B3%E6%80%A7%E7%94%9F%E8%82%B2%E5%8A%9B%E4%BF%9D%E5%AD%98%23&t=31&band_rank=8&Refer=top)<br />
 9. [妻子力挺丈夫6次创业终逆袭](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%8A%9B%E6%8C%BA%E4%B8%88%E5%A4%AB6%E6%AC%A1%E5%88%9B%E4%B8%9A%E7%BB%88%E9%80%86%E8%A2%AD%23&t=31&band_rank=9&Refer=top)<br />
 
