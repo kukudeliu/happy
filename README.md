@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 20:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 20:59:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [政府工作报告展现的发展图景](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E5%B1%95%E7%8E%B0%E7%9A%84%E5%8F%91%E5%B1%95%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [张文宏谈为何这个冬天一直生病](https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%E8%B0%88%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E4%B8%80%E7%9B%B4%E7%94%9F%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [内地买房客炒爆香港楼市](https://www.baidu.com/s?wd=%E5%86%85%E5%9C%B0%E4%B9%B0%E6%88%BF%E5%AE%A2%E7%82%92%E7%88%86%E9%A6%99%E6%B8%AF%E6%A5%BC%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生搬家300元摇来7米6大货车](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%90%AC%E5%AE%B6300%E5%85%83%E6%91%87%E6%9D%A57%E7%B1%B36%E5%A4%A7%E8%B4%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [建议把基础教育12年学制缩短至9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B212%E5%B9%B4%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E8%87%B39%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生搬家300元摇来7米6大货车](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%90%AC%E5%AE%B6300%E5%85%83%E6%91%87%E6%9D%A57%E7%B1%B36%E5%A4%A7%E8%B4%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [政府工作报告展现的发展图景](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E5%B1%95%E7%8E%B0%E7%9A%84%E5%8F%91%E5%B1%95%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [张文宏谈为何这个冬天一直生病](https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%E8%B0%88%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E4%B8%80%E7%9B%B4%E7%94%9F%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [内地买房客炒爆香港楼市](https://www.baidu.com/s?wd=%E5%86%85%E5%9C%B0%E4%B9%B0%E6%88%BF%E5%AE%A2%E7%82%92%E7%88%86%E9%A6%99%E6%B8%AF%E6%A5%BC%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女生搬家300元摇来7米6大货车](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%90%AC%E5%AE%B6300%E5%85%83%E6%91%87%E6%9D%A57%E7%B1%B36%E5%A4%A7%E8%B4%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [建议把基础教育12年学制缩短至9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B212%E5%B9%B4%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E8%87%B39%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女生搬家300元摇来7米6大货车](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%90%AC%E5%AE%B6300%E5%85%83%E6%91%87%E6%9D%A57%E7%B1%B36%E5%A4%A7%E8%B4%A7%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
