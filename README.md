@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 09:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 09:04:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [别再让黄金店割智商税了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E8%AE%A9%E9%BB%84%E9%87%91%E5%BA%97%E5%89%B2%E6%99%BA%E5%95%86%E7%A8%8E%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [建议推动建立父亲育儿假制度](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8E%A8%E5%8A%A8%E5%BB%BA%E7%AB%8B%E7%88%B6%E4%BA%B2%E8%82%B2%E5%84%BF%E5%81%87%E5%88%B6%E5%BA%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [最新研究找到熬夜致癌原因](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%89%BE%E5%88%B0%E7%86%AC%E5%A4%9C%E8%87%B4%E7%99%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
-8. [建议彩票个人单项奖金最高额度不超过500万](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%BD%A9%E7%A5%A8%E4%B8%AA%E4%BA%BA%E5%8D%95%E9%A1%B9%E5%A5%96%E9%87%91%E6%9C%80%E9%AB%98%E9%A2%9D%E5%BA%A6%E4%B8%8D%E8%B6%85%E8%BF%87500%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [LV大秀](https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80&t=31&band_rank=9&Refer=top)<br />
+8. [LV大秀](https://s.weibo.com/weibo?q=LV%E5%A4%A7%E7%A7%80&t=31&band_rank=8&Refer=top)<br />
+9. [建议彩票个人单项奖金最高额度不超过500万](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%BD%A9%E7%A5%A8%E4%B8%AA%E4%BA%BA%E5%8D%95%E9%A1%B9%E5%A5%96%E9%87%91%E6%9C%80%E9%AB%98%E9%A2%9D%E5%BA%A6%E4%B8%8D%E8%B6%85%E8%BF%87500%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [回南天的天敌冷空气来了](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%95%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [看2024年消费“新引擎”在哪里？](https://www.baidu.com/s?wd=%E7%9C%8B2024%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E6%96%B0%E5%BC%95%E6%93%8E%E2%80%9D%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [建议把基础教育12年学制缩短至9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B212%E5%B9%B4%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E8%87%B39%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [一口价金手镯核算价格是金价2倍](https://www.baidu.com/s?wd=%E4%B8%80%E5%8F%A3%E4%BB%B7%E9%87%91%E6%89%8B%E9%95%AF%E6%A0%B8%E7%AE%97%E4%BB%B7%E6%A0%BC%E6%98%AF%E9%87%91%E4%BB%B72%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [茅台验货风波门店被封 店主被刑拘](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E9%AA%8C%E8%B4%A7%E9%A3%8E%E6%B3%A2%E9%97%A8%E5%BA%97%E8%A2%AB%E5%B0%81+%E5%BA%97%E4%B8%BB%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [建议修改献血法部分条款](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%BF%AE%E6%94%B9%E7%8C%AE%E8%A1%80%E6%B3%95%E9%83%A8%E5%88%86%E6%9D%A1%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [茅台验货风波门店被封 店主被刑拘](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E9%AA%8C%E8%B4%A7%E9%A3%8E%E6%B3%A2%E9%97%A8%E5%BA%97%E8%A2%AB%E5%B0%81+%E5%BA%97%E4%B8%BB%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一口价金手镯核算价格是金价2倍](https://www.baidu.com/s?wd=%E4%B8%80%E5%8F%A3%E4%BB%B7%E9%87%91%E6%89%8B%E9%95%AF%E6%A0%B8%E7%AE%97%E4%BB%B7%E6%A0%BC%E6%98%AF%E9%87%91%E4%BB%B72%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医院检查互认在政府工作报告中明确了](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E6%A3%80%E6%9F%A5%E4%BA%92%E8%AE%A4%E5%9C%A8%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E4%B8%AD%E6%98%8E%E7%A1%AE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国家发放乡村振兴扶贫补贴？](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%BE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%89%B6%E8%B4%AB%E8%A1%A5%E8%B4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [回南天的天敌冷空气来了](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%95%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [看2024年消费“新引擎”在哪里？](https://www.baidu.com/s?wd=%E7%9C%8B2024%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E6%96%B0%E5%BC%95%E6%93%8E%E2%80%9D%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [建议把基础教育12年学制缩短至9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B212%E5%B9%B4%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E8%87%B39%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [一口价金手镯核算价格是金价2倍](https://www.baidu.com/s?wd=%E4%B8%80%E5%8F%A3%E4%BB%B7%E9%87%91%E6%89%8B%E9%95%AF%E6%A0%B8%E7%AE%97%E4%BB%B7%E6%A0%BC%E6%98%AF%E9%87%91%E4%BB%B72%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [茅台验货风波门店被封 店主被刑拘](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E9%AA%8C%E8%B4%A7%E9%A3%8E%E6%B3%A2%E9%97%A8%E5%BA%97%E8%A2%AB%E5%B0%81+%E5%BA%97%E4%B8%BB%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [建议修改献血法部分条款](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%BF%AE%E6%94%B9%E7%8C%AE%E8%A1%80%E6%B3%95%E9%83%A8%E5%88%86%E6%9D%A1%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [茅台验货风波门店被封 店主被刑拘](https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E9%AA%8C%E8%B4%A7%E9%A3%8E%E6%B3%A2%E9%97%A8%E5%BA%97%E8%A2%AB%E5%B0%81+%E5%BA%97%E4%B8%BB%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一口价金手镯核算价格是金价2倍](https://www.baidu.com/s?wd=%E4%B8%80%E5%8F%A3%E4%BB%B7%E9%87%91%E6%89%8B%E9%95%AF%E6%A0%B8%E7%AE%97%E4%BB%B7%E6%A0%BC%E6%98%AF%E9%87%91%E4%BB%B72%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医院检查互认在政府工作报告中明确了](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E6%A3%80%E6%9F%A5%E4%BA%92%E8%AE%A4%E5%9C%A8%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E4%B8%AD%E6%98%8E%E7%A1%AE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国家发放乡村振兴扶贫补贴？](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%BE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%89%B6%E8%B4%AB%E8%A1%A5%E8%B4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
