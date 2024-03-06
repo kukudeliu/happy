@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 17:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 17:26:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [横店群演紧缺](https://s.weibo.com/weibo?q=%23%E6%A8%AA%E5%BA%97%E7%BE%A4%E6%BC%94%E7%B4%A7%E7%BC%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [桑延温以凡合体了](https://s.weibo.com/weibo?q=%23%E6%A1%91%E5%BB%B6%E6%B8%A9%E4%BB%A5%E5%87%A1%E5%90%88%E4%BD%93%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [祁煜直播](https://s.weibo.com/weibo?q=%E7%A5%81%E7%85%9C%E7%9B%B4%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
-8. [短剧演员](https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98&t=31&band_rank=8&Refer=top)<br />
+8. [专家称HPV疫苗能约几价就打几价](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0HPV%E7%96%AB%E8%8B%97%E8%83%BD%E7%BA%A6%E5%87%A0%E4%BB%B7%E5%B0%B1%E6%89%93%E5%87%A0%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [建议公务员招录取缔职业院校生歧视政策](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%AC%E5%8A%A1%E5%91%98%E6%8B%9B%E5%BD%95%E5%8F%96%E7%BC%94%E8%81%8C%E4%B8%9A%E9%99%A2%E6%A0%A1%E7%94%9F%E6%AD%A7%E8%A7%86%E6%94%BF%E7%AD%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
