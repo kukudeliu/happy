@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 10:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 10:34:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [回南天的天敌冷空气来了](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%95%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [相亲当晚女生列出每月9900元开支](https://www.baidu.com/s?wd=%E7%9B%B8%E4%BA%B2%E5%BD%93%E6%99%9A%E5%A5%B3%E7%94%9F%E5%88%97%E5%87%BA%E6%AF%8F%E6%9C%889900%E5%85%83%E5%BC%80%E6%94%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [建议把基础教育12年学制缩短至9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B212%E5%B9%B4%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E8%87%B39%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子改签机票被骗近百万警方追回](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%94%B9%E7%AD%BE%E6%9C%BA%E7%A5%A8%E8%A2%AB%E9%AA%97%E8%BF%91%E7%99%BE%E4%B8%87%E8%AD%A6%E6%96%B9%E8%BF%BD%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [Facebook和Instagram全球死机](https://www.baidu.com/s?wd=Facebook%E5%92%8CInstagram%E5%85%A8%E7%90%83%E6%AD%BB%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国家发放乡村振兴扶贫补贴？](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%BE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%89%B6%E8%B4%AB%E8%A1%A5%E8%B4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [回南天的天敌冷空气来了](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%95%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [相亲当晚女生列出每月9900元开支](https://www.baidu.com/s?wd=%E7%9B%B8%E4%BA%B2%E5%BD%93%E6%99%9A%E5%A5%B3%E7%94%9F%E5%88%97%E5%87%BA%E6%AF%8F%E6%9C%889900%E5%85%83%E5%BC%80%E6%94%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [建议把基础教育12年学制缩短至9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B212%E5%B9%B4%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E8%87%B39%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子改签机票被骗近百万警方追回](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%94%B9%E7%AD%BE%E6%9C%BA%E7%A5%A8%E8%A2%AB%E9%AA%97%E8%BF%91%E7%99%BE%E4%B8%87%E8%AD%A6%E6%96%B9%E8%BF%BD%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [Facebook和Instagram全球死机](https://www.baidu.com/s?wd=Facebook%E5%92%8CInstagram%E5%85%A8%E7%90%83%E6%AD%BB%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国家发放乡村振兴扶贫补贴？](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%BE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%89%B6%E8%B4%AB%E8%A1%A5%E8%B4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
