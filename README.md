@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 17:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 17:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [钟薛高被执行81万元](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E8%A2%AB%E6%89%A7%E8%A1%8C81%E4%B8%87%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [桑延温以凡合体了](https://s.weibo.com/weibo?q=%23%E6%A1%91%E5%BB%B6%E6%B8%A9%E4%BB%A5%E5%87%A1%E5%90%88%E4%BD%93%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [专家称HPV疫苗能约几价就打几价](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0HPV%E7%96%AB%E8%8B%97%E8%83%BD%E7%BA%A6%E5%87%A0%E4%BB%B7%E5%B0%B1%E6%89%93%E5%87%A0%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [短剧演员](https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98&t=31&band_rank=9&Refer=top)<br />
+9. [财政部部长谈党政机关过紧日子](https://s.weibo.com/weibo?q=%23%E8%B4%A2%E6%94%BF%E9%83%A8%E9%83%A8%E9%95%BF%E8%B0%88%E5%85%9A%E6%94%BF%E6%9C%BA%E5%85%B3%E8%BF%87%E7%B4%A7%E6%97%A5%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
