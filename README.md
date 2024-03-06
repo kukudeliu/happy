@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 09:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 09:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [建议把基础教育12年学制缩短至9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B212%E5%B9%B4%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E8%87%B39%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [相亲当晚女生列出每月9900元开支](https://www.baidu.com/s?wd=%E7%9B%B8%E4%BA%B2%E5%BD%93%E6%99%9A%E5%A5%B3%E7%94%9F%E5%88%97%E5%87%BA%E6%AF%8F%E6%9C%889900%E5%85%83%E5%BC%80%E6%94%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一口价金手镯核算价格是金价2倍](https://www.baidu.com/s?wd=%E4%B8%80%E5%8F%A3%E4%BB%B7%E9%87%91%E6%89%8B%E9%95%AF%E6%A0%B8%E7%AE%97%E4%BB%B7%E6%A0%BC%E6%98%AF%E9%87%91%E4%BB%B72%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [Facebook和Instagram全球死机](https://www.baidu.com/s?wd=Facebook%E5%92%8CInstagram%E5%85%A8%E7%90%83%E6%AD%BB%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [政府工作报告13次提养老](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A13%E6%AC%A1%E6%8F%90%E5%85%BB%E8%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国家发放乡村振兴扶贫补贴？](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%BE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%89%B6%E8%B4%AB%E8%A1%A5%E8%B4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [建议把基础教育12年学制缩短至9年](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B212%E5%B9%B4%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E8%87%B39%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [相亲当晚女生列出每月9900元开支](https://www.baidu.com/s?wd=%E7%9B%B8%E4%BA%B2%E5%BD%93%E6%99%9A%E5%A5%B3%E7%94%9F%E5%88%97%E5%87%BA%E6%AF%8F%E6%9C%889900%E5%85%83%E5%BC%80%E6%94%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一口价金手镯核算价格是金价2倍](https://www.baidu.com/s?wd=%E4%B8%80%E5%8F%A3%E4%BB%B7%E9%87%91%E6%89%8B%E9%95%AF%E6%A0%B8%E7%AE%97%E4%BB%B7%E6%A0%BC%E6%98%AF%E9%87%91%E4%BB%B72%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [Facebook和Instagram全球死机](https://www.baidu.com/s?wd=Facebook%E5%92%8CInstagram%E5%85%A8%E7%90%83%E6%AD%BB%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [政府工作报告13次提养老](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A13%E6%AC%A1%E6%8F%90%E5%85%BB%E8%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [国家发放乡村振兴扶贫补贴？](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%BE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%89%B6%E8%B4%AB%E8%A1%A5%E8%B4%B4%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
