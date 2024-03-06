@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 07:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 07:58:02</h4></div>
 
 > 微博  
 
 1. [建议国家全面禁止未成年人网游](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%9B%BD%E5%AE%B6%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E6%B8%B8%23&t=31&band_rank=1&Refer=top)<br />
 2. [00后小伙被骗缅甸每天工作17小时](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C17%E5%B0%8F%E6%97%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [从政府工作报告看中国经济新动力](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%8A%A8%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [胡兵预言成真](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E9%A2%84%E8%A8%80%E6%88%90%E7%9C%9F%23&t=31&band_rank=4&Refer=top)<br />
-5. [回南天取快递 像到了天庭](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%8F%96%E5%BF%AB%E9%80%92%20%E5%83%8F%E5%88%B0%E4%BA%86%E5%A4%A9%E5%BA%AD&t=31&band_rank=5&Refer=top)<br />
+4. [回南天取快递 像到了天庭](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%8F%96%E5%BF%AB%E9%80%92%20%E5%83%8F%E5%88%B0%E4%BA%86%E5%A4%A9%E5%BA%AD&t=31&band_rank=4&Refer=top)<br />
+5. [胡兵预言成真](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E9%A2%84%E8%A8%80%E6%88%90%E7%9C%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [唐探2游乐园尺度](https://s.weibo.com/weibo?q=%E5%94%90%E6%8E%A22%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%B0%BA%E5%BA%A6&t=31&band_rank=6&Refer=top)<br />
 7. [家门口被放了五毛钱](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%97%A8%E5%8F%A3%E8%A2%AB%E6%94%BE%E4%BA%86%E4%BA%94%E6%AF%9B%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [章若楠难哄去刘海](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E9%9A%BE%E5%93%84%E5%8E%BB%E5%88%98%E6%B5%B7%23&t=31&band_rank=8&Refer=top)<br />
