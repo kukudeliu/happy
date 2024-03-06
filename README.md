@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 08:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 08:07:01</h4></div>
 
 > 微博  
 
 1. [建议彩票个人单项奖金最高额度不超过500万](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%BD%A9%E7%A5%A8%E4%B8%AA%E4%BA%BA%E5%8D%95%E9%A1%B9%E5%A5%96%E9%87%91%E6%9C%80%E9%AB%98%E9%A2%9D%E5%BA%A6%E4%B8%8D%E8%B6%85%E8%BF%87500%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [2024还剩300天](https://s.weibo.com/weibo?q=%232024%E8%BF%98%E5%89%A9300%E5%A4%A9%23&t=31&band_rank=2&Refer=top)<br />
+2. [中青报评霍启刚建议引热议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%9D%92%E6%8A%A5%E8%AF%84%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BB%BA%E8%AE%AE%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024全国两会新词热词](https://s.weibo.com/weibo?q=%232024%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%23&t=31&band_rank=3&Refer=top)<br />
 4. [最新研究找到熬夜致癌原因](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%89%BE%E5%88%B0%E7%86%AC%E5%A4%9C%E8%87%B4%E7%99%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top)<br />
-5. [中青报评霍启刚建议引热议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%9D%92%E6%8A%A5%E8%AF%84%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BB%BA%E8%AE%AE%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=5&Refer=top)<br />
+5. [2024还剩300天](https://s.weibo.com/weibo?q=%232024%E8%BF%98%E5%89%A9300%E5%A4%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [Lacoste大秀](https://s.weibo.com/weibo?q=%23Lacoste%E5%A4%A7%E7%A7%80%23&t=31&band_rank=6&Refer=top)<br />
 7. [建议消除简历第一学历概念](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%B6%88%E9%99%A4%E7%AE%80%E5%8E%86%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%A6%82%E5%BF%B5%23&t=31&band_rank=7&Refer=top)<br />
 8. [徐克射雕英雄传正在后期制作](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%85%8B%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E6%AD%A3%E5%9C%A8%E5%90%8E%E6%9C%9F%E5%88%B6%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
