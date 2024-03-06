@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 11:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 11:18:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男子购车后下午车辆降价1.7万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B4%AD%E8%BD%A6%E5%90%8E%E4%B8%8B%E5%8D%88%E8%BD%A6%E8%BE%86%E9%99%8D%E4%BB%B71.7%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [人大代表谈电视开机率不高](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B0%88%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E4%B8%8D%E9%AB%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [老外被中国哪都能点外卖震惊了](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%93%AA%E9%83%BD%E8%83%BD%E7%82%B9%E5%A4%96%E5%8D%96%E9%9C%87%E6%83%8A%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [中国第四艘航母很快公布](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [95后女生童年遗憾被陌生人抚慰](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E7%94%9F%E7%AB%A5%E5%B9%B4%E9%81%97%E6%86%BE%E8%A2%AB%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8A%9A%E6%85%B0%23&t=31&band_rank=9&Refer=top)<br />
+8. [玲娜贝儿新衣服首秀](https://s.weibo.com/weibo?q=%E7%8E%B2%E5%A8%9C%E8%B4%9D%E5%84%BF%E6%96%B0%E8%A1%A3%E6%9C%8D%E9%A6%96%E7%A7%80&t=31&band_rank=8&Refer=top)<br />
+9. [中国第四艘航母很快公布](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
