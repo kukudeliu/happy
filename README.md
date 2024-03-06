@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 17:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 17:33:01</h4></div>
 
 > 微博  
 
 1. [钟薛高售价从60元降到2.5元](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83%23&t=31&band_rank=1&Refer=top)<br />
 2. [男生月薪一万一年存10万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E4%B8%80%E5%B9%B4%E5%AD%9810%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [两会数读中国](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%E6%95%B0%E8%AF%BB%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [横店群演紧缺](https://s.weibo.com/weibo?q=%23%E6%A8%AA%E5%BA%97%E7%BE%A4%E6%BC%94%E7%B4%A7%E7%BC%BA%23&t=31&band_rank=4&Refer=top)<br />
-5. [真正抑郁症才有的9个样子](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E6%8A%91%E9%83%81%E7%97%87%E6%89%8D%E6%9C%89%E7%9A%849%E4%B8%AA%E6%A0%B7%E5%AD%90&t=31&band_rank=5&Refer=top)<br />
+4. [真正抑郁症才有的9个样子](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E6%8A%91%E9%83%81%E7%97%87%E6%89%8D%E6%9C%89%E7%9A%849%E4%B8%AA%E6%A0%B7%E5%AD%90&t=31&band_rank=4&Refer=top)<br />
+5. [横店群演紧缺](https://s.weibo.com/weibo?q=%23%E6%A8%AA%E5%BA%97%E7%BE%A4%E6%BC%94%E7%B4%A7%E7%BC%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [钟薛高被执行81万元](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E8%A2%AB%E6%89%A7%E8%A1%8C81%E4%B8%87%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [桑延温以凡合体了](https://s.weibo.com/weibo?q=%23%E6%A1%91%E5%BB%B6%E6%B8%A9%E4%BB%A5%E5%87%A1%E5%90%88%E4%BD%93%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [祁煜直播](https://s.weibo.com/weibo?q=%E7%A5%81%E7%85%9C%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top)<br />
