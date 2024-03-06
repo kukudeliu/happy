@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 15:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 16:00:01</h4></div>
 
 > 微博  
 
@@ -19,10 +19,10 @@
 
 1. [发展新质生产力 习近平强调因地制宜](https://www.baidu.com/s?wd=%E5%8F%91%E5%B1%95%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E8%B0%83%E5%9B%A0%E5%9C%B0%E5%88%B6%E5%AE%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [横店群演短缺 有人两个月工资翻10倍](https://www.baidu.com/s?wd=%E6%A8%AA%E5%BA%97%E7%BE%A4%E6%BC%94%E7%9F%AD%E7%BC%BA+%E6%9C%89%E4%BA%BA%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%B7%A5%E8%B5%84%E7%BF%BB10%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [白岩松：不要总用啃老批评年轻人](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%80%BB%E7%94%A8%E5%95%83%E8%80%81%E6%89%B9%E8%AF%84%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [读懂政府工作报告中的“加减法”](https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E4%B8%AD%E7%9A%84%E2%80%9C%E5%8A%A0%E5%87%8F%E6%B3%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [坚持锻炼相当于1年多赚17万](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E9%94%BB%E7%82%BC%E7%9B%B8%E5%BD%93%E4%BA%8E1%E5%B9%B4%E5%A4%9A%E8%B5%9A17%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [白岩松：不要总用啃老批评年轻人](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%80%BB%E7%94%A8%E5%95%83%E8%80%81%E6%89%B9%E8%AF%84%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生带锅碗瓢盆野炊引春游怀旧潮](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%B8%A6%E9%94%85%E7%A2%97%E7%93%A2%E7%9B%86%E9%87%8E%E7%82%8A%E5%BC%95%E6%98%A5%E6%B8%B8%E6%80%80%E6%97%A7%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国第四艘航母很快公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四姑娘山网红观景平台砌围墙？](https://www.baidu.com/s?wd=%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E7%BD%91%E7%BA%A2%E8%A7%82%E6%99%AF%E5%B9%B3%E5%8F%B0%E7%A0%8C%E5%9B%B4%E5%A2%99%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,10 +31,10 @@
 
 1. [发展新质生产力 习近平强调因地制宜](https://www.baidu.com/s?wd=%E5%8F%91%E5%B1%95%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E8%B0%83%E5%9B%A0%E5%9C%B0%E5%88%B6%E5%AE%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [横店群演短缺 有人两个月工资翻10倍](https://www.baidu.com/s?wd=%E6%A8%AA%E5%BA%97%E7%BE%A4%E6%BC%94%E7%9F%AD%E7%BC%BA+%E6%9C%89%E4%BA%BA%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%B7%A5%E8%B5%84%E7%BF%BB10%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [白岩松：不要总用啃老批评年轻人](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%80%BB%E7%94%A8%E5%95%83%E8%80%81%E6%89%B9%E8%AF%84%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [读懂政府工作报告中的“加减法”](https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E4%B8%AD%E7%9A%84%E2%80%9C%E5%8A%A0%E5%87%8F%E6%B3%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [坚持锻炼相当于1年多赚17万](https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E9%94%BB%E7%82%BC%E7%9B%B8%E5%BD%93%E4%BA%8E1%E5%B9%B4%E5%A4%9A%E8%B5%9A17%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [钟薛高售价从60元降到2.5元](https://www.baidu.com/s?wd=%E9%92%9F%E8%96%9B%E9%AB%98%E5%94%AE%E4%BB%B7%E4%BB%8E60%E5%85%83%E9%99%8D%E5%88%B02.5%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [白岩松：不要总用啃老批评年轻人](https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%80%BB%E7%94%A8%E5%95%83%E8%80%81%E6%89%B9%E8%AF%84%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [学生带锅碗瓢盆野炊引春游怀旧潮](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%B8%A6%E9%94%85%E7%A2%97%E7%93%A2%E7%9B%86%E9%87%8E%E7%82%8A%E5%BC%95%E6%98%A5%E6%B8%B8%E6%80%80%E6%97%A7%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [中国第四艘航母很快公布](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BE%88%E5%BF%AB%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [四姑娘山网红观景平台砌围墙？](https://www.baidu.com/s?wd=%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E7%BD%91%E7%BA%A2%E8%A7%82%E6%99%AF%E5%B9%B3%E5%8F%B0%E7%A0%8C%E5%9B%B4%E5%A2%99%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
