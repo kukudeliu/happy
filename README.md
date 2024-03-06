@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 12:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 12:50:01</h4></div>
 
 > 微博  
 
 1. [男生月薪一万一年存10万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E4%B8%80%E5%B9%B4%E5%AD%9810%E4%B8%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [妻子力挺丈夫6次创业终逆袭](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%8A%9B%E6%8C%BA%E4%B8%88%E5%A4%AB6%E6%AC%A1%E5%88%9B%E4%B8%9A%E7%BB%88%E9%80%86%E8%A2%AD%23&t=31&band_rank=2&Refer=top)<br />
+2. [建议3岁以下子女的父母每月1天带薪育儿假](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE3%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%AD%90%E5%A5%B3%E7%9A%84%E7%88%B6%E6%AF%8D%E6%AF%8F%E6%9C%881%E5%A4%A9%E5%B8%A6%E8%96%AA%E8%82%B2%E5%84%BF%E5%81%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [6个角度看今年发展主要预期目标](https://s.weibo.com/weibo?q=%236%E4%B8%AA%E8%A7%92%E5%BA%A6%E7%9C%8B%E4%BB%8A%E5%B9%B4%E5%8F%91%E5%B1%95%E4%B8%BB%E8%A6%81%E9%A2%84%E6%9C%9F%E7%9B%AE%E6%A0%87%23&t=31&band_rank=3&Refer=top)<br />
 4. [藏海花 张起灵](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E8%8A%B1%20%E5%BC%A0%E8%B5%B7%E7%81%B5&t=31&band_rank=4&Refer=top)<br />
-5. [84.7%的职场人下班后仍会关注工作消息](https://s.weibo.com/weibo?q=%2384.7%25%E7%9A%84%E8%81%8C%E5%9C%BA%E4%BA%BA%E4%B8%8B%E7%8F%AD%E5%90%8E%E4%BB%8D%E4%BC%9A%E5%85%B3%E6%B3%A8%E5%B7%A5%E4%BD%9C%E6%B6%88%E6%81%AF%23&t=31&band_rank=5&Refer=top)<br />
-6. [坚持锻炼相当于1年多赚17万](https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E9%94%BB%E7%82%BC%E7%9B%B8%E5%BD%93%E4%BA%8E1%E5%B9%B4%E5%A4%9A%E8%B5%9A17%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [睡前长期玩手机可能让你变丑](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E9%95%BF%E6%9C%9F%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E8%AE%A9%E4%BD%A0%E5%8F%98%E4%B8%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [难哄路透](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E8%B7%AF%E9%80%8F&t=31&band_rank=8&Refer=top)<br />
-9. [白岩松谈年轻人被批啃老](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B2%A9%E6%9D%BE%E8%B0%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%95%83%E8%80%81%23&t=31&band_rank=9&Refer=top)<br />
+5. [妻子力挺丈夫6次创业终逆袭](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%8A%9B%E6%8C%BA%E4%B8%88%E5%A4%AB6%E6%AC%A1%E5%88%9B%E4%B8%9A%E7%BB%88%E9%80%86%E8%A2%AD%23&t=31&band_rank=5&Refer=top)<br />
+6. [84.7%的职场人下班后仍会关注工作消息](https://s.weibo.com/weibo?q=%2384.7%25%E7%9A%84%E8%81%8C%E5%9C%BA%E4%BA%BA%E4%B8%8B%E7%8F%AD%E5%90%8E%E4%BB%8D%E4%BC%9A%E5%85%B3%E6%B3%A8%E5%B7%A5%E4%BD%9C%E6%B6%88%E6%81%AF%23&t=31&band_rank=6&Refer=top)<br />
+7. [坚持锻炼相当于1年多赚17万](https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E9%94%BB%E7%82%BC%E7%9B%B8%E5%BD%93%E4%BA%8E1%E5%B9%B4%E5%A4%9A%E8%B5%9A17%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [睡前长期玩手机可能让你变丑](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E9%95%BF%E6%9C%9F%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E8%AE%A9%E4%BD%A0%E5%8F%98%E4%B8%91%23&t=31&band_rank=8&Refer=top)<br />
+9. [难哄路透](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E8%B7%AF%E9%80%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
