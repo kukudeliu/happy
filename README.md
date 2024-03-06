@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 23:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 23:22:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [回南天深圳一天47人因滑倒送医](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A4%A947%E4%BA%BA%E5%9B%A0%E6%BB%91%E5%80%92%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [政府工作报告展现的发展图景](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E5%B1%95%E7%8E%B0%E7%9A%84%E5%8F%91%E5%B1%95%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [绷不住了 德国防部密码1234](https://www.baidu.com/s?wd=%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86+%E5%BE%B7%E5%9B%BD%E9%98%B2%E9%83%A8%E5%AF%86%E7%A0%811234&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [建议帮助年轻人不脆皮](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B8%AE%E5%8A%A9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E8%84%86%E7%9A%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [人大代表：反对动不动就全市停课](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%8F%8D%E5%AF%B9%E5%8A%A8%E4%B8%8D%E5%8A%A8%E5%B0%B1%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京被俄罗斯老奶奶轮流亲吻](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E8%80%81%E5%A5%B6%E5%A5%B6%E8%BD%AE%E6%B5%81%E4%BA%B2%E5%90%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [人大代表：反对动不动就全市停课](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%8F%8D%E5%AF%B9%E5%8A%A8%E4%B8%8D%E5%8A%A8%E5%B0%B1%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [建议鼓励生态安葬](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E9%BC%93%E5%8A%B1%E7%94%9F%E6%80%81%E5%AE%89%E8%91%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [回南天深圳一天47人因滑倒送医](https://www.baidu.com/s?wd=%E5%9B%9E%E5%8D%97%E5%A4%A9%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A4%A947%E4%BA%BA%E5%9B%A0%E6%BB%91%E5%80%92%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [政府工作报告展现的发展图景](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E5%B1%95%E7%8E%B0%E7%9A%84%E5%8F%91%E5%B1%95%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [绷不住了 德国防部密码1234](https://www.baidu.com/s?wd=%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86+%E5%BE%B7%E5%9B%BD%E9%98%B2%E9%83%A8%E5%AF%86%E7%A0%811234&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [建议帮助年轻人不脆皮](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B8%AE%E5%8A%A9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E8%84%86%E7%9A%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [人大代表：反对动不动就全市停课](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%8F%8D%E5%AF%B9%E5%8A%A8%E4%B8%8D%E5%8A%A8%E5%B0%B1%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [普京被俄罗斯老奶奶轮流亲吻](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E8%80%81%E5%A5%B6%E5%A5%B6%E8%BD%AE%E6%B5%81%E4%BA%B2%E5%90%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [人大代表：反对动不动就全市停课](https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%8F%8D%E5%AF%B9%E5%8A%A8%E4%B8%8D%E5%8A%A8%E5%B0%B1%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [建议鼓励生态安葬](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E9%BC%93%E5%8A%B1%E7%94%9F%E6%80%81%E5%AE%89%E8%91%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
