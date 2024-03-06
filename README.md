@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 10:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-06 10:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中青报评霍启刚建议引热议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%9D%92%E6%8A%A5%E8%AF%84%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BB%BA%E8%AE%AE%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [美法案要求字节165天内剥离TikTok](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%B3%95%E6%A1%88%E8%A6%81%E6%B1%82%E5%AD%97%E8%8A%82165%E5%A4%A9%E5%86%85%E5%89%A5%E7%A6%BBTikTok%23&t=31&band_rank=7&Refer=top)<br />
 8. [最新研究找到熬夜致癌原因](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%89%BE%E5%88%B0%E7%86%AC%E5%A4%9C%E8%87%B4%E7%99%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [阴阳师 初音未来](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%20%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5&t=31&band_rank=9&Refer=top)<br />
+9. [95后女生童年遗憾被陌生人抚慰](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E7%94%9F%E7%AB%A5%E5%B9%B4%E9%81%97%E6%86%BE%E8%A2%AB%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8A%9A%E6%85%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
