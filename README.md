@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 10:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 10:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [丈夫送妻子黄金锁求辅导孩子别发脾气](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E9%80%81%E5%A6%BB%E5%AD%90%E9%BB%84%E9%87%91%E9%94%81%E6%B1%82%E8%BE%85%E5%AF%BC%E5%AD%A9%E5%AD%90%E5%88%AB%E5%8F%91%E8%84%BE%E6%B0%94%23&t=31&band_rank=5&Refer=top)<br />
 6. [男子私自接种217次新冠疫苗](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%81%E8%87%AA%E6%8E%A5%E7%A7%8D217%E6%AC%A1%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [医生熬夜后是怎么补救的](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%86%AC%E5%A4%9C%E5%90%8E%E6%98%AF%E6%80%8E%E4%B9%88%E8%A1%A5%E6%95%91%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
-8. [农夫山泉](https://s.weibo.com/weibo?q=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89&t=31&band_rank=8&Refer=top)<br />
-9. [你会好好待我们娘十三个吧](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BC%9A%E5%A5%BD%E5%A5%BD%E5%BE%85%E6%88%91%E4%BB%AC%E5%A8%98%E5%8D%81%E4%B8%89%E4%B8%AA%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
+8. [你会好好待我们娘十三个吧](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BC%9A%E5%A5%BD%E5%A5%BD%E5%BE%85%E6%88%91%E4%BB%AC%E5%A8%98%E5%8D%81%E4%B8%89%E4%B8%AA%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
+9. [农夫山泉](https://s.weibo.com/weibo?q=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
