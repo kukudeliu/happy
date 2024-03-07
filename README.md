@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 02:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 02:39:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [2024中国向“新”发力](https://www.baidu.com/s?wd=2024%E4%B8%AD%E5%9B%BD%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [委员：生儿子才能分地是高彩礼根源](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%EF%BC%9A%E7%94%9F%E5%84%BF%E5%AD%90%E6%89%8D%E8%83%BD%E5%88%86%E5%9C%B0%E6%98%AF%E9%AB%98%E5%BD%A9%E7%A4%BC%E6%A0%B9%E6%BA%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [翟欣欣涉嫌敲诈勒索案已移送法院](https://www.baidu.com/s?wd=%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E6%A1%88%E5%B7%B2%E7%A7%BB%E9%80%81%E6%B3%95%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [瓦利耶娃被俄罗斯国家队除名](https://www.baidu.com/s?wd=%E7%93%A6%E5%88%A9%E8%80%B6%E5%A8%83%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%99%A4%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子在医院订餐疑吃出牙齿](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%AE%A2%E9%A4%90%E7%96%91%E5%90%83%E5%87%BA%E7%89%99%E9%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [蔡澜上海餐厅菜品有异物被罚5万](https://www.baidu.com/s?wd=%E8%94%A1%E6%BE%9C%E4%B8%8A%E6%B5%B7%E9%A4%90%E5%8E%85%E8%8F%9C%E5%93%81%E6%9C%89%E5%BC%82%E7%89%A9%E8%A2%AB%E7%BD%9A5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [瓦利耶娃被俄罗斯国家队除名](https://www.baidu.com/s?wd=%E7%93%A6%E5%88%A9%E8%80%B6%E5%A8%83%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%99%A4%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京未开放个人申领三代社保卡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%AA%E5%BC%80%E6%94%BE%E4%B8%AA%E4%BA%BA%E7%94%B3%E9%A2%86%E4%B8%89%E4%BB%A3%E7%A4%BE%E4%BF%9D%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [2024中国向“新”发力](https://www.baidu.com/s?wd=2024%E4%B8%AD%E5%9B%BD%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [委员：生儿子才能分地是高彩礼根源](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%EF%BC%9A%E7%94%9F%E5%84%BF%E5%AD%90%E6%89%8D%E8%83%BD%E5%88%86%E5%9C%B0%E6%98%AF%E9%AB%98%E5%BD%A9%E7%A4%BC%E6%A0%B9%E6%BA%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [翟欣欣涉嫌敲诈勒索案已移送法院](https://www.baidu.com/s?wd=%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E6%A1%88%E5%B7%B2%E7%A7%BB%E9%80%81%E6%B3%95%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [瓦利耶娃被俄罗斯国家队除名](https://www.baidu.com/s?wd=%E7%93%A6%E5%88%A9%E8%80%B6%E5%A8%83%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%99%A4%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子在医院订餐疑吃出牙齿](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%AE%A2%E9%A4%90%E7%96%91%E5%90%83%E5%87%BA%E7%89%99%E9%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [蔡澜上海餐厅菜品有异物被罚5万](https://www.baidu.com/s?wd=%E8%94%A1%E6%BE%9C%E4%B8%8A%E6%B5%B7%E9%A4%90%E5%8E%85%E8%8F%9C%E5%93%81%E6%9C%89%E5%BC%82%E7%89%A9%E8%A2%AB%E7%BD%9A5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [瓦利耶娃被俄罗斯国家队除名](https://www.baidu.com/s?wd=%E7%93%A6%E5%88%A9%E8%80%B6%E5%A8%83%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%99%A4%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京未开放个人申领三代社保卡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%AA%E5%BC%80%E6%94%BE%E4%B8%AA%E4%BA%BA%E7%94%B3%E9%A2%86%E4%B8%89%E4%BB%A3%E7%A4%BE%E4%BF%9D%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
