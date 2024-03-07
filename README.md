@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 07:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 07:15:01</h4></div>
 
 > 微博  
 
-1. [金价持续暴涨建行紧急公告](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%8C%81%E7%BB%AD%E6%9A%B4%E6%B6%A8%E5%BB%BA%E8%A1%8C%E7%B4%A7%E6%80%A5%E5%85%AC%E5%91%8A%23&t=31&band_rank=1&Refer=top)<br />
-2. [妇女节](https://s.weibo.com/weibo?q=%E5%A6%87%E5%A5%B3%E8%8A%82&t=31&band_rank=2&Refer=top)<br />
+1. [妇女节](https://s.weibo.com/weibo?q=%E5%A6%87%E5%A5%B3%E8%8A%82&t=31&band_rank=1&Refer=top)<br />
+2. [金价持续暴涨建行紧急公告](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%8C%81%E7%BB%AD%E6%9A%B4%E6%B6%A8%E5%BB%BA%E8%A1%8C%E7%B4%A7%E6%80%A5%E5%85%AC%E5%91%8A%23&t=31&band_rank=2&Refer=top)<br />
 3. [政府工作报告里的民生举措](https://s.weibo.com/weibo?q=%23%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E9%87%8C%E7%9A%84%E6%B0%91%E7%94%9F%E4%B8%BE%E6%8E%AA%23&t=31&band_rank=3&Refer=top)<br />
 4. [瓦利耶娃被俄国家队除名](https://s.weibo.com/weibo?q=%23%E7%93%A6%E5%88%A9%E8%80%B6%E5%A8%83%E8%A2%AB%E4%BF%84%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%99%A4%E5%90%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [建议将抑郁症纳入医保目录](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E6%8A%91%E9%83%81%E7%97%87%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%E7%9B%AE%E5%BD%95%23&t=31&band_rank=5&Refer=top)<br />
