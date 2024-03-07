@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 07:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 07:35:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [建议将抑郁症纳入医保目录](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E6%8A%91%E9%83%81%E7%97%87%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%E7%9B%AE%E5%BD%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [老板妇女节发120万给女员工让留着自己花](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%A6%87%E5%A5%B3%E8%8A%82%E5%8F%91120%E4%B8%87%E7%BB%99%E5%A5%B3%E5%91%98%E5%B7%A5%E8%AE%A9%E7%95%99%E7%9D%80%E8%87%AA%E5%B7%B1%E8%8A%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [妇女节放假是法定的半天节假日](https://s.weibo.com/weibo?q=%23%E5%A6%87%E5%A5%B3%E8%8A%82%E6%94%BE%E5%81%87%E6%98%AF%E6%B3%95%E5%AE%9A%E7%9A%84%E5%8D%8A%E5%A4%A9%E8%8A%82%E5%81%87%E6%97%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [拿米哈游画师作品去米哈游投简历](https://s.weibo.com/weibo?q=%E6%8B%BF%E7%B1%B3%E5%93%88%E6%B8%B8%E7%94%BB%E5%B8%88%E4%BD%9C%E5%93%81%E5%8E%BB%E7%B1%B3%E5%93%88%E6%B8%B8%E6%8A%95%E7%AE%80%E5%8E%86&t=31&band_rank=8&Refer=top)<br />
-9. [B站去年净亏损48亿元](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%8E%BB%E5%B9%B4%E5%87%80%E4%BA%8F%E6%8D%9F48%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+8. [B站去年净亏损48亿元](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%8E%BB%E5%B9%B4%E5%87%80%E4%BA%8F%E6%8D%9F48%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [拿米哈游画师作品去米哈游投简历](https://s.weibo.com/weibo?q=%E6%8B%BF%E7%B1%B3%E5%93%88%E6%B8%B8%E7%94%BB%E5%B8%88%E4%BD%9C%E5%93%81%E5%8E%BB%E7%B1%B3%E5%93%88%E6%B8%B8%E6%8A%95%E7%AE%80%E5%8E%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
