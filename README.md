@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 17:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 17:40:01</h4></div>
 
 > 微博  
 
-1. [明天放半天假](https://s.weibo.com/weibo?q=%E6%98%8E%E5%A4%A9%E6%94%BE%E5%8D%8A%E5%A4%A9%E5%81%87&t=31&band_rank=1&Refer=top)<br />
-2. [妇女节放假是法定的半天节假日](https://s.weibo.com/weibo?q=%23%E5%A6%87%E5%A5%B3%E8%8A%82%E6%94%BE%E5%81%87%E6%98%AF%E6%B3%95%E5%AE%9A%E7%9A%84%E5%8D%8A%E5%A4%A9%E8%8A%82%E5%81%87%E6%97%A5%23&t=31&band_rank=2&Refer=top)<br />
+1. [妇女节放假是法定的半天节假日](https://s.weibo.com/weibo?q=%23%E5%A6%87%E5%A5%B3%E8%8A%82%E6%94%BE%E5%81%87%E6%98%AF%E6%B3%95%E5%AE%9A%E7%9A%84%E5%8D%8A%E5%A4%A9%E8%8A%82%E5%81%87%E6%97%A5%23&t=31&band_rank=1&Refer=top)<br />
+2. [明天放半天假](https://s.weibo.com/weibo?q=%E6%98%8E%E5%A4%A9%E6%94%BE%E5%8D%8A%E5%A4%A9%E5%81%87&t=31&band_rank=2&Refer=top)<br />
 3. [2024两会好声音](https://s.weibo.com/weibo?q=%232024%E4%B8%A4%E4%BC%9A%E5%A5%BD%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=3&Refer=top)<br />
 4. [长子走稳 次子走险](https://s.weibo.com/weibo?q=%E9%95%BF%E5%AD%90%E8%B5%B0%E7%A8%B3%20%E6%AC%A1%E5%AD%90%E8%B5%B0%E9%99%A9&t=31&band_rank=4&Refer=top)<br />
 5. [代表谈越剧新龙门客栈破圈](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E8%B0%88%E8%B6%8A%E5%89%A7%E6%96%B0%E9%BE%99%E9%97%A8%E5%AE%A2%E6%A0%88%E7%A0%B4%E5%9C%88%23&t=31&band_rank=5&Refer=top)<br />
