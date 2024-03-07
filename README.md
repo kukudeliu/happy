@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 12:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 12:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贾玲中国影史第4个票房百亿女演员](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%AC%AC4%E4%B8%AA%E7%A5%A8%E6%88%BF%E7%99%BE%E4%BA%BF%E5%A5%B3%E6%BC%94%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [饿了么免单](https://s.weibo.com/weibo?q=%23%E9%A5%BF%E4%BA%86%E4%B9%88%E5%85%8D%E5%8D%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [王毅说迟早会看到全家福](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E8%AF%B4%E8%BF%9F%E6%97%A9%E4%BC%9A%E7%9C%8B%E5%88%B0%E5%85%A8%E5%AE%B6%E7%A6%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [可以买贵的但是不能买贵了](https://s.weibo.com/weibo?q=%23%E5%8F%AF%E4%BB%A5%E4%B9%B0%E8%B4%B5%E7%9A%84%E4%BD%86%E6%98%AF%E4%B8%8D%E8%83%BD%E4%B9%B0%E8%B4%B5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [猎冰结局 离谱](https://s.weibo.com/weibo?q=%E7%8C%8E%E5%86%B0%E7%BB%93%E5%B1%80%20%E7%A6%BB%E8%B0%B1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
