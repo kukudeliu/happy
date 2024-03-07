@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 01:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 01:22:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [委员：生儿子才能分地是高彩礼根源](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%EF%BC%9A%E7%94%9F%E5%84%BF%E5%AD%90%E6%89%8D%E8%83%BD%E5%88%86%E5%9C%B0%E6%98%AF%E9%AB%98%E5%BD%A9%E7%A4%BC%E6%A0%B9%E6%BA%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昔日私募教父名下豪宅1.44亿拍出](https://www.baidu.com/s?wd=%E6%98%94%E6%97%A5%E7%A7%81%E5%8B%9F%E6%95%99%E7%88%B6%E5%90%8D%E4%B8%8B%E8%B1%AA%E5%AE%851.44%E4%BA%BF%E6%8B%8D%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [翟欣欣涉嫌敲诈勒索案已移送法院](https://www.baidu.com/s?wd=%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E6%A1%88%E5%B7%B2%E7%A7%BB%E9%80%81%E6%B3%95%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [代表联合建议逐步放开禁烧秸秆](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E8%81%94%E5%90%88%E5%BB%BA%E8%AE%AE%E9%80%90%E6%AD%A5%E6%94%BE%E5%BC%80%E7%A6%81%E7%83%A7%E7%A7%B8%E7%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子在医院订餐疑吃出牙齿](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%AE%A2%E9%A4%90%E7%96%91%E5%90%83%E5%87%BA%E7%89%99%E9%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京未开放个人申领三代社保卡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%AA%E5%BC%80%E6%94%BE%E4%B8%AA%E4%BA%BA%E7%94%B3%E9%A2%86%E4%B8%89%E4%BB%A3%E7%A4%BE%E4%BF%9D%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [委员：生儿子才能分地是高彩礼根源](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%EF%BC%9A%E7%94%9F%E5%84%BF%E5%AD%90%E6%89%8D%E8%83%BD%E5%88%86%E5%9C%B0%E6%98%AF%E9%AB%98%E5%BD%A9%E7%A4%BC%E6%A0%B9%E6%BA%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [昔日私募教父名下豪宅1.44亿拍出](https://www.baidu.com/s?wd=%E6%98%94%E6%97%A5%E7%A7%81%E5%8B%9F%E6%95%99%E7%88%B6%E5%90%8D%E4%B8%8B%E8%B1%AA%E5%AE%851.44%E4%BA%BF%E6%8B%8D%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [翟欣欣涉嫌敲诈勒索案已移送法院](https://www.baidu.com/s?wd=%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E6%A1%88%E5%B7%B2%E7%A7%BB%E9%80%81%E6%B3%95%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [代表联合建议逐步放开禁烧秸秆](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E8%81%94%E5%90%88%E5%BB%BA%E8%AE%AE%E9%80%90%E6%AD%A5%E6%94%BE%E5%BC%80%E7%A6%81%E7%83%A7%E7%A7%B8%E7%A7%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子在医院订餐疑吃出牙齿](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%AE%A2%E9%A4%90%E7%96%91%E5%90%83%E5%87%BA%E7%89%99%E9%BD%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京未开放个人申领三代社保卡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%AA%E5%BC%80%E6%94%BE%E4%B8%AA%E4%BA%BA%E7%94%B3%E9%A2%86%E4%B8%89%E4%BB%A3%E7%A4%BE%E4%BF%9D%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
