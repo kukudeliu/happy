@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 18:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 18:21:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [长子走稳 次子走险](https://s.weibo.com/weibo?q=%E9%95%BF%E5%AD%90%E8%B5%B0%E7%A8%B3%20%E6%AC%A1%E5%AD%90%E8%B5%B0%E9%99%A9&t=31&band_rank=4&Refer=top)<br />
 5. [代表谈越剧新龙门客栈破圈](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E8%B0%88%E8%B6%8A%E5%89%A7%E6%96%B0%E9%BE%99%E9%97%A8%E5%AE%A2%E6%A0%88%E7%A0%B4%E5%9C%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [浪姐5宿舍](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%905%E5%AE%BF%E8%88%8D&t=31&band_rank=6&Refer=top)<br />
-7. [海带为什么要打结](https://s.weibo.com/weibo?q=%E6%B5%B7%E5%B8%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%89%93%E7%BB%93&t=31&band_rank=7&Refer=top)<br />
+7. [香港买金每克便宜70元](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B9%B0%E9%87%91%E6%AF%8F%E5%85%8B%E4%BE%BF%E5%AE%9C70%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [重庆一公司三八节连续3年放6天](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%85%AC%E5%8F%B8%E4%B8%89%E5%85%AB%E8%8A%82%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E6%94%BE6%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
 9. [长沙公司妇女节给女员工拍写真](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E5%85%AC%E5%8F%B8%E5%A6%87%E5%A5%B3%E8%8A%82%E7%BB%99%E5%A5%B3%E5%91%98%E5%B7%A5%E6%8B%8D%E5%86%99%E7%9C%9F%23&t=31&band_rank=9&Refer=top)<br />
 
