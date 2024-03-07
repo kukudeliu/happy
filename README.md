@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 09:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 09:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [医生熬夜后是怎么补救的](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%86%AC%E5%A4%9C%E5%90%8E%E6%98%AF%E6%80%8E%E4%B9%88%E8%A1%A5%E6%95%91%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [安藤樱 感觉和贾玲已经是朋友了](https://s.weibo.com/weibo?q=%E5%AE%89%E8%97%A4%E6%A8%B1%20%E6%84%9F%E8%A7%89%E5%92%8C%E8%B4%BE%E7%8E%B2%E5%B7%B2%E7%BB%8F%E6%98%AF%E6%9C%8B%E5%8F%8B%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [回南天取快递 像到了天庭](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%8F%96%E5%BF%AB%E9%80%92%20%E5%83%8F%E5%88%B0%E4%BA%86%E5%A4%A9%E5%BA%AD&t=31&band_rank=8&Refer=top)<br />
-9. [建议对伤人犬只饲养者追刑责](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9%E4%BC%A4%E4%BA%BA%E7%8A%AC%E5%8F%AA%E9%A5%B2%E5%85%BB%E8%80%85%E8%BF%BD%E5%88%91%E8%B4%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [丈夫送妻子黄金锁求辅导孩子别发脾气](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E9%80%81%E5%A6%BB%E5%AD%90%E9%BB%84%E9%87%91%E9%94%81%E6%B1%82%E8%BE%85%E5%AF%BC%E5%AD%A9%E5%AD%90%E5%88%AB%E5%8F%91%E8%84%BE%E6%B0%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
