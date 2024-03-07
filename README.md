@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 23:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 23:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [妇女节放假是法定的半天节假日](https://s.weibo.com/weibo?q=%23%E5%A6%87%E5%A5%B3%E8%8A%82%E6%94%BE%E5%81%87%E6%98%AF%E6%B3%95%E5%AE%9A%E7%9A%84%E5%8D%8A%E5%A4%A9%E8%8A%82%E5%81%87%E6%97%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [你又叫浣碧](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%8F%88%E5%8F%AB%E6%B5%A3%E7%A2%A7&t=31&band_rank=7&Refer=top)<br />
 8. [其实妈妈把你养得很好](https://s.weibo.com/weibo?q=%E5%85%B6%E5%AE%9E%E5%A6%88%E5%A6%88%E6%8A%8A%E4%BD%A0%E5%85%BB%E5%BE%97%E5%BE%88%E5%A5%BD&t=31&band_rank=8&Refer=top)<br />
-9. [唐探2这一集演的是萝莉岛吧](https://s.weibo.com/weibo?q=%E5%94%90%E6%8E%A22%E8%BF%99%E4%B8%80%E9%9B%86%E6%BC%94%E7%9A%84%E6%98%AF%E8%90%9D%E8%8E%89%E5%B2%9B%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
+9. [90后女硕士8年筛查出12000名艾滋患者](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A5%B3%E7%A1%95%E5%A3%AB8%E5%B9%B4%E7%AD%9B%E6%9F%A5%E5%87%BA12000%E5%90%8D%E8%89%BE%E6%BB%8B%E6%82%A3%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
