@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 08:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 08:54:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [农夫山泉:相信理性消费者可判断是非](https://www.baidu.com/s?wd=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%3A%E7%9B%B8%E4%BF%A1%E7%90%86%E6%80%A7%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%AF%E5%88%A4%E6%96%AD%E6%98%AF%E9%9D%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [00后小伙被骗缅甸每天工作17小时](https://www.baidu.com/s?wd=00%E5%90%8E%E5%B0%8F%E4%BC%99%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C17%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [娃哈哈纯净水上留有创意签名区](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E7%BA%AF%E5%87%80%E6%B0%B4%E4%B8%8A%E7%95%99%E6%9C%89%E5%88%9B%E6%84%8F%E7%AD%BE%E5%90%8D%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学校食堂用带油漆铁锹炒菜？](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%94%A8%E5%B8%A6%E6%B2%B9%E6%BC%86%E9%93%81%E9%94%B9%E7%82%92%E8%8F%9C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [农夫山泉:相信理性消费者可判断是非](https://www.baidu.com/s?wd=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%3A%E7%9B%B8%E4%BF%A1%E7%90%86%E6%80%A7%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%AF%E5%88%A4%E6%96%AD%E6%98%AF%E9%9D%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [00后小伙被骗缅甸每天工作17小时](https://www.baidu.com/s?wd=00%E5%90%8E%E5%B0%8F%E4%BC%99%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C17%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [娃哈哈纯净水上留有创意签名区](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E7%BA%AF%E5%87%80%E6%B0%B4%E4%B8%8A%E7%95%99%E6%9C%89%E5%88%9B%E6%84%8F%E7%AD%BE%E5%90%8D%E5%8C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [当心这些退税新骗局](https://www.baidu.com/s?wd=%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E9%80%80%E7%A8%8E%E6%96%B0%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [学校食堂用带油漆铁锹炒菜？](https://www.baidu.com/s?wd=%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%94%A8%E5%B8%A6%E6%B2%B9%E6%BC%86%E9%93%81%E9%94%B9%E7%82%92%E8%8F%9C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
