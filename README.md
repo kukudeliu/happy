@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 06:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 06:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [90后女硕士8年筛查出12000名艾滋患者](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A5%B3%E7%A1%95%E5%A3%AB8%E5%B9%B4%E7%AD%9B%E6%9F%A5%E5%87%BA12000%E5%90%8D%E8%89%BE%E6%BB%8B%E6%82%A3%E8%80%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [翟欣欣涉嫌敲诈勒索案已移送法院](https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E6%A1%88%E5%B7%B2%E7%A7%BB%E9%80%81%E6%B3%95%E9%99%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [拿米哈游画师作品去米哈游投简历](https://s.weibo.com/weibo?q=%E6%8B%BF%E7%B1%B3%E5%93%88%E6%B8%B8%E7%94%BB%E5%B8%88%E4%BD%9C%E5%93%81%E5%8E%BB%E7%B1%B3%E5%93%88%E6%B8%B8%E6%8A%95%E7%AE%80%E5%8E%86&t=31&band_rank=8&Refer=top)<br />
-9. [妇女节放假是法定的半天节假日](https://s.weibo.com/weibo?q=%23%E5%A6%87%E5%A5%B3%E8%8A%82%E6%94%BE%E5%81%87%E6%98%AF%E6%B3%95%E5%AE%9A%E7%9A%84%E5%8D%8A%E5%A4%A9%E8%8A%82%E5%81%87%E6%97%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [年轻人为什么喜欢刷短剧](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E5%88%B7%E7%9F%AD%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
