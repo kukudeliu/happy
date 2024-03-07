@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 01:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 01:16:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [2024中国向“新”发力](https://www.baidu.com/s?wd=2024%E4%B8%AD%E5%9B%BD%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [委员：生儿子才能分地是高彩礼根源](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%EF%BC%9A%E7%94%9F%E5%84%BF%E5%AD%90%E6%89%8D%E8%83%BD%E5%88%86%E5%9C%B0%E6%98%AF%E9%AB%98%E5%BD%A9%E7%A4%BC%E6%A0%B9%E6%BA%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [翟欣欣涉嫌敲诈勒索案已移送法院](https://www.baidu.com/s?wd=%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E6%A1%88%E5%B7%B2%E7%A7%BB%E9%80%81%E6%B3%95%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [移民火星到底可行吗？代表回应](https://www.baidu.com/s?wd=%E7%A7%BB%E6%B0%91%E7%81%AB%E6%98%9F%E5%88%B0%E5%BA%95%E5%8F%AF%E8%A1%8C%E5%90%97%EF%BC%9F%E4%BB%A3%E8%A1%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王毅：美打压中国手段不断花样翻新](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%BE%8E%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%AE%B5%E4%B8%8D%E6%96%AD%E8%8A%B1%E6%A0%B7%E7%BF%BB%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王毅：美打压中国手段不断花样翻新](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%BE%8E%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%AE%B5%E4%B8%8D%E6%96%AD%E8%8A%B1%E6%A0%B7%E7%BF%BB%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [安徽省委书记：对中科大有求必应](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E5%AF%B9%E4%B8%AD%E7%A7%91%E5%A4%A7%E6%9C%89%E6%B1%82%E5%BF%85%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京未开放个人申领三代社保卡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%AA%E5%BC%80%E6%94%BE%E4%B8%AA%E4%BA%BA%E7%94%B3%E9%A2%86%E4%B8%89%E4%BB%A3%E7%A4%BE%E4%BF%9D%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [2024中国向“新”发力](https://www.baidu.com/s?wd=2024%E4%B8%AD%E5%9B%BD%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [委员：生儿子才能分地是高彩礼根源](https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%EF%BC%9A%E7%94%9F%E5%84%BF%E5%AD%90%E6%89%8D%E8%83%BD%E5%88%86%E5%9C%B0%E6%98%AF%E9%AB%98%E5%BD%A9%E7%A4%BC%E6%A0%B9%E6%BA%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [翟欣欣涉嫌敲诈勒索案已移送法院](https://www.baidu.com/s?wd=%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%B6%89%E5%AB%8C%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E6%A1%88%E5%B7%B2%E7%A7%BB%E9%80%81%E6%B3%95%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [移民火星到底可行吗？代表回应](https://www.baidu.com/s?wd=%E7%A7%BB%E6%B0%91%E7%81%AB%E6%98%9F%E5%88%B0%E5%BA%95%E5%8F%AF%E8%A1%8C%E5%90%97%EF%BC%9F%E4%BB%A3%E8%A1%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王毅：美打压中国手段不断花样翻新](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%BE%8E%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%AE%B5%E4%B8%8D%E6%96%AD%E8%8A%B1%E6%A0%B7%E7%BF%BB%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王毅：美打压中国手段不断花样翻新](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%BE%8E%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%AE%B5%E4%B8%8D%E6%96%AD%E8%8A%B1%E6%A0%B7%E7%BF%BB%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [安徽省委书记：对中科大有求必应](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E5%AF%B9%E4%B8%AD%E7%A7%91%E5%A4%A7%E6%9C%89%E6%B1%82%E5%BF%85%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京未开放个人申领三代社保卡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%AA%E5%BC%80%E6%94%BE%E4%B8%AA%E4%BA%BA%E7%94%B3%E9%A2%86%E4%B8%89%E4%BB%A3%E7%A4%BE%E4%BF%9D%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
