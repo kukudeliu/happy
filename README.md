@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 21:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 21:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [代表建议给居民身份证设密码](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E7%BB%99%E5%B1%85%E6%B0%91%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%AE%BE%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国对瑞士等6国试行免签政策](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%91%9E%E5%A3%AB%E7%AD%896%E5%9B%BD%E8%AF%95%E8%A1%8C%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [80后男子当爷爷目不转睛盯着小孙女](https://www.baidu.com/s?wd=80%E5%90%8E%E7%94%B7%E5%AD%90%E5%BD%93%E7%88%B7%E7%88%B7%E7%9B%AE%E4%B8%8D%E8%BD%AC%E7%9D%9B%E7%9B%AF%E7%9D%80%E5%B0%8F%E5%AD%99%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子账户进账20万元直奔派出所](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B4%A6%E6%88%B7%E8%BF%9B%E8%B4%A620%E4%B8%87%E5%85%83%E7%9B%B4%E5%A5%94%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广铁通报G3046次车内冒烟](https://www.baidu.com/s?wd=%E5%B9%BF%E9%93%81%E9%80%9A%E6%8A%A5G3046%E6%AC%A1%E8%BD%A6%E5%86%85%E5%86%92%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京未开放个人申领三代社保卡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%AA%E5%BC%80%E6%94%BE%E4%B8%AA%E4%BA%BA%E7%94%B3%E9%A2%86%E4%B8%89%E4%BB%A3%E7%A4%BE%E4%BF%9D%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [代表建议给居民身份证设密码](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E7%BB%99%E5%B1%85%E6%B0%91%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%AE%BE%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [中国对瑞士等6国试行免签政策](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%91%9E%E5%A3%AB%E7%AD%896%E5%9B%BD%E8%AF%95%E8%A1%8C%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [80后男子当爷爷目不转睛盯着小孙女](https://www.baidu.com/s?wd=80%E5%90%8E%E7%94%B7%E5%AD%90%E5%BD%93%E7%88%B7%E7%88%B7%E7%9B%AE%E4%B8%8D%E8%BD%AC%E7%9D%9B%E7%9B%AF%E7%9D%80%E5%B0%8F%E5%AD%99%E5%A5%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子账户进账20万元直奔派出所](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B4%A6%E6%88%B7%E8%BF%9B%E8%B4%A620%E4%B8%87%E5%85%83%E7%9B%B4%E5%A5%94%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广铁通报G3046次车内冒烟](https://www.baidu.com/s?wd=%E5%B9%BF%E9%93%81%E9%80%9A%E6%8A%A5G3046%E6%AC%A1%E8%BD%A6%E5%86%85%E5%86%92%E7%83%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京未开放个人申领三代社保卡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%AA%E5%BC%80%E6%94%BE%E4%B8%AA%E4%BA%BA%E7%94%B3%E9%A2%86%E4%B8%89%E4%BB%A3%E7%A4%BE%E4%BF%9D%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
