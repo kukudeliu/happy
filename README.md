@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 17:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 17:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [明天女职工放半天假](https://www.baidu.com/s?wd=%E6%98%8E%E5%A4%A9%E5%A5%B3%E8%81%8C%E5%B7%A5%E6%94%BE%E5%8D%8A%E5%A4%A9%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [63岁张学友取消3场上海演唱会](https://www.baidu.com/s?wd=63%E5%B2%81%E5%BC%A0%E5%AD%A6%E5%8F%8B%E5%8F%96%E6%B6%883%E5%9C%BA%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [课间10分钟能否改为半小时？](https://www.baidu.com/s?wd=%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%E8%83%BD%E5%90%A6%E6%94%B9%E4%B8%BA%E5%8D%8A%E5%B0%8F%E6%97%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子买彩票守号8年中1000万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E5%AE%88%E5%8F%B78%E5%B9%B4%E4%B8%AD1000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [代表谈越剧新龙门客栈破圈](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E8%B0%88%E8%B6%8A%E5%89%A7%E6%96%B0%E9%BE%99%E9%97%A8%E5%AE%A2%E6%A0%88%E7%A0%B4%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆有机场正式开工？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9C%89%E6%9C%BA%E5%9C%BA%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%B7%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [明天女职工放半天假](https://www.baidu.com/s?wd=%E6%98%8E%E5%A4%A9%E5%A5%B3%E8%81%8C%E5%B7%A5%E6%94%BE%E5%8D%8A%E5%A4%A9%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [63岁张学友取消3场上海演唱会](https://www.baidu.com/s?wd=63%E5%B2%81%E5%BC%A0%E5%AD%A6%E5%8F%8B%E5%8F%96%E6%B6%883%E5%9C%BA%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [课间10分钟能否改为半小时？](https://www.baidu.com/s?wd=%E8%AF%BE%E9%97%B410%E5%88%86%E9%92%9F%E8%83%BD%E5%90%A6%E6%94%B9%E4%B8%BA%E5%8D%8A%E5%B0%8F%E6%97%B6%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子买彩票守号8年中1000万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E5%AE%88%E5%8F%B78%E5%B9%B4%E4%B8%AD1000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [代表谈越剧新龙门客栈破圈](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E8%B0%88%E8%B6%8A%E5%89%A7%E6%96%B0%E9%BE%99%E9%97%A8%E5%AE%A2%E6%A0%88%E7%A0%B4%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆有机场正式开工？](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%9C%89%E6%9C%BA%E5%9C%BA%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%B7%A5%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
