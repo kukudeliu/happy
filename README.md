@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 10:57:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [刘亦菲 原来努力是可以被看到的](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%8E%9F%E6%9D%A5%E5%8A%AA%E5%8A%9B%E6%98%AF%E5%8F%AF%E4%BB%A5%E8%A2%AB%E7%9C%8B%E5%88%B0%E7%9A%84&t=31&band_rank=4&Refer=top)<br />
 5. [王毅四问美国](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%9B%9B%E9%97%AE%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=5&Refer=top)<br />
 6. [男子喝酒撞车后买了两个卤蛋一杯白酒](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%96%9D%E9%85%92%E6%92%9E%E8%BD%A6%E5%90%8E%E4%B9%B0%E4%BA%86%E4%B8%A4%E4%B8%AA%E5%8D%A4%E8%9B%8B%E4%B8%80%E6%9D%AF%E7%99%BD%E9%85%92%23&t=31&band_rank=6&Refer=top)<br />
-7. [娃哈哈妇女节放半天假加100元餐补](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E5%A6%87%E5%A5%B3%E8%8A%82%E6%94%BE%E5%8D%8A%E5%A4%A9%E5%81%87%E5%8A%A0100%E5%85%83%E9%A4%90%E8%A1%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [可以买贵的但是不能买贵了](https://s.weibo.com/weibo?q=%23%E5%8F%AF%E4%BB%A5%E4%B9%B0%E8%B4%B5%E7%9A%84%E4%BD%86%E6%98%AF%E4%B8%8D%E8%83%BD%E4%B9%B0%E8%B4%B5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [医生熬夜后是怎么补救的](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%86%AC%E5%A4%9C%E5%90%8E%E6%98%AF%E6%80%8E%E4%B9%88%E8%A1%A5%E6%95%91%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+7. [可以买贵的但是不能买贵了](https://s.weibo.com/weibo?q=%23%E5%8F%AF%E4%BB%A5%E4%B9%B0%E8%B4%B5%E7%9A%84%E4%BD%86%E6%98%AF%E4%B8%8D%E8%83%BD%E4%B9%B0%E8%B4%B5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [娃哈哈妇女节放半天假加100元餐补](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E5%A6%87%E5%A5%B3%E8%8A%82%E6%94%BE%E5%8D%8A%E5%A4%A9%E5%81%87%E5%8A%A0100%E5%85%83%E9%A4%90%E8%A1%A5%23&t=31&band_rank=8&Refer=top)<br />
+9. [安藤樱 感觉和贾玲已经是朋友了](https://s.weibo.com/weibo?q=%E5%AE%89%E8%97%A4%E6%A8%B1%20%E6%84%9F%E8%A7%89%E5%92%8C%E8%B4%BE%E7%8E%B2%E5%B7%B2%E7%BB%8F%E6%98%AF%E6%9C%8B%E5%8F%8B%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
