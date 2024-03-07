@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 20:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 20:08:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [EDG官宣Jiejie回家休养](https://s.weibo.com/weibo?q=%23EDG%E5%AE%98%E5%AE%A3Jiejie%E5%9B%9E%E5%AE%B6%E4%BC%91%E5%85%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [海带为什么要打结](https://s.weibo.com/weibo?q=%E6%B5%B7%E5%B8%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%89%93%E7%BB%93&t=31&band_rank=7&Refer=top)<br />
 8. [小日子 婆婆大闹公司](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%A5%E5%AD%90%20%E5%A9%86%E5%A9%86%E5%A4%A7%E9%97%B9%E5%85%AC%E5%8F%B8&t=31&band_rank=8&Refer=top)<br />
-9. [香港买金每克便宜70元](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B9%B0%E9%87%91%E6%AF%8F%E5%85%8B%E4%BE%BF%E5%AE%9C70%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [浪姐5宿舍](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%905%E5%AE%BF%E8%88%8D&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
