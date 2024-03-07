@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 09:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 09:37:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [刘亦菲 原来努力是可以被看到的](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%8E%9F%E6%9D%A5%E5%8A%AA%E5%8A%9B%E6%98%AF%E5%8F%AF%E4%BB%A5%E8%A2%AB%E7%9C%8B%E5%88%B0%E7%9A%84&t=31&band_rank=4&Refer=top)<br />
 5. [医生熬夜后是怎么补救的](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%86%AC%E5%A4%9C%E5%90%8E%E6%98%AF%E6%80%8E%E4%B9%88%E8%A1%A5%E6%95%91%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [安藤樱 感觉和贾玲已经是朋友了](https://s.weibo.com/weibo?q=%E5%AE%89%E8%97%A4%E6%A8%B1%20%E6%84%9F%E8%A7%89%E5%92%8C%E8%B4%BE%E7%8E%B2%E5%B7%B2%E7%BB%8F%E6%98%AF%E6%9C%8B%E5%8F%8B%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [回南天取快递 像到了天庭](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%8F%96%E5%BF%AB%E9%80%92%20%E5%83%8F%E5%88%B0%E4%BA%86%E5%A4%A9%E5%BA%AD&t=31&band_rank=7&Refer=top)<br />
-8. [农夫山泉](https://s.weibo.com/weibo?q=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89&t=31&band_rank=8&Refer=top)<br />
+7. [农夫山泉](https://s.weibo.com/weibo?q=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89&t=31&band_rank=7&Refer=top)<br />
+8. [回南天取快递 像到了天庭](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%8F%96%E5%BF%AB%E9%80%92%20%E5%83%8F%E5%88%B0%E4%BA%86%E5%A4%A9%E5%BA%AD&t=31&band_rank=8&Refer=top)<br />
 9. [你猜为什么我们认识却不是好友](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%8C%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%AE%A4%E8%AF%86%E5%8D%B4%E4%B8%8D%E6%98%AF%E5%A5%BD%E5%8F%8B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
