@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 01:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 01:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [拿米哈游画师作品去米哈游投简历](https://s.weibo.com/weibo?q=%E6%8B%BF%E7%B1%B3%E5%93%88%E6%B8%B8%E7%94%BB%E5%B8%88%E4%BD%9C%E5%93%81%E5%8E%BB%E7%B1%B3%E5%93%88%E6%B8%B8%E6%8A%95%E7%AE%80%E5%8E%86&t=31&band_rank=6&Refer=top)<br />
 7. [瓦利耶娃被俄国家队除名](https://s.weibo.com/weibo?q=%23%E7%93%A6%E5%88%A9%E8%80%B6%E5%A8%83%E8%A2%AB%E4%BF%84%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%99%A4%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [其实妈妈把你养得很好](https://s.weibo.com/weibo?q=%E5%85%B6%E5%AE%9E%E5%A6%88%E5%A6%88%E6%8A%8A%E4%BD%A0%E5%85%BB%E5%BE%97%E5%BE%88%E5%A5%BD&t=31&band_rank=8&Refer=top)<br />
-9. [妇女节放假是法定的半天节假日](https://s.weibo.com/weibo?q=%23%E5%A6%87%E5%A5%B3%E8%8A%82%E6%94%BE%E5%81%87%E6%98%AF%E6%B3%95%E5%AE%9A%E7%9A%84%E5%8D%8A%E5%A4%A9%E8%8A%82%E5%81%87%E6%97%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [年轻人为什么喜欢刷短剧](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E5%88%B7%E7%9F%AD%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
