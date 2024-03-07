@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 15:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 15:23:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [代表谈越剧新龙门客栈破圈](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E8%B0%88%E8%B6%8A%E5%89%A7%E6%96%B0%E9%BE%99%E9%97%A8%E5%AE%A2%E6%A0%88%E7%A0%B4%E5%9C%88%23&t=31&band_rank=5&Refer=top)<br />
 6. [向佐向吴镇宇道歉称下次不敢了](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%90%91%E5%90%B4%E9%95%87%E5%AE%87%E9%81%93%E6%AD%89%E7%A7%B0%E4%B8%8B%E6%AC%A1%E4%B8%8D%E6%95%A2%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [凑凑火锅人均消费高于海底捞](https://s.weibo.com/weibo?q=%23%E5%87%91%E5%87%91%E7%81%AB%E9%94%85%E4%BA%BA%E5%9D%87%E6%B6%88%E8%B4%B9%E9%AB%98%E4%BA%8E%E6%B5%B7%E5%BA%95%E6%8D%9E%23&t=31&band_rank=7&Refer=top)<br />
-8. [珀莱雅](https://s.weibo.com/weibo?q=%E7%8F%80%E8%8E%B1%E9%9B%85&t=31&band_rank=8&Refer=top)<br />
-9. [孙颖莎入围巴黎奥运会最值得关注女运动员](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%85%A5%E5%9B%B4%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%9C%80%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [孙颖莎入围巴黎奥运会最值得关注女运动员](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%85%A5%E5%9B%B4%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%9C%80%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [珀莱雅](https://s.weibo.com/weibo?q=%E7%8F%80%E8%8E%B1%E9%9B%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
