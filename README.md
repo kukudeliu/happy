@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 11:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 11:50:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [中国对瑞士等6国试行免签政策](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%91%9E%E5%A3%AB%E7%AD%896%E5%9B%BD%E8%AF%95%E8%A1%8C%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [两会观察 向新而行](https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BC%9A%E8%A7%82%E5%AF%9F%20%E5%90%91%E6%96%B0%E8%80%8C%E8%A1%8C&t=31&band_rank=3&Refer=top)<br />
 4. [女子假扮闺蜜近十年诈骗闺蜜亲妈300万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%87%E6%89%AE%E9%97%BA%E8%9C%9C%E8%BF%91%E5%8D%81%E5%B9%B4%E8%AF%88%E9%AA%97%E9%97%BA%E8%9C%9C%E4%BA%B2%E5%A6%88300%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
-5. [王毅四问美国](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%9B%9B%E9%97%AE%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=5&Refer=top)<br />
-6. [王毅说这场人道灾难是文明的耻辱](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E8%AF%B4%E8%BF%99%E5%9C%BA%E4%BA%BA%E9%81%93%E7%81%BE%E9%9A%BE%E6%98%AF%E6%96%87%E6%98%8E%E7%9A%84%E8%80%BB%E8%BE%B1%23&t=31&band_rank=6&Refer=top)<br />
+5. [王毅说这场人道灾难是文明的耻辱](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E8%AF%B4%E8%BF%99%E5%9C%BA%E4%BA%BA%E9%81%93%E7%81%BE%E9%9A%BE%E6%98%AF%E6%96%87%E6%98%8E%E7%9A%84%E8%80%BB%E8%BE%B1%23&t=31&band_rank=5&Refer=top)<br />
+6. [王毅四问美国](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%9B%9B%E9%97%AE%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=6&Refer=top)<br />
 7. [可以买贵的但是不能买贵了](https://s.weibo.com/weibo?q=%23%E5%8F%AF%E4%BB%A5%E4%B9%B0%E8%B4%B5%E7%9A%84%E4%BD%86%E6%98%AF%E4%B8%8D%E8%83%BD%E4%B9%B0%E8%B4%B5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [丈夫送妻子黄金锁求辅导孩子别发脾气](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E9%80%81%E5%A6%BB%E5%AD%90%E9%BB%84%E9%87%91%E9%94%81%E6%B1%82%E8%BE%85%E5%AF%BC%E5%AD%A9%E5%AD%90%E5%88%AB%E5%8F%91%E8%84%BE%E6%B0%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [男子喝酒撞车后买了两个卤蛋一杯白酒](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%96%9D%E9%85%92%E6%92%9E%E8%BD%A6%E5%90%8E%E4%B9%B0%E4%BA%86%E4%B8%A4%E4%B8%AA%E5%8D%A4%E8%9B%8B%E4%B8%80%E6%9D%AF%E7%99%BD%E9%85%92%23&t=31&band_rank=9&Refer=top)<br />
