@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 21:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 21:03:02</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [总书记给出发展新质生产力方法论](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%BB%99%E5%87%BA%E5%8F%91%E5%B1%95%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%96%B9%E6%B3%95%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平：全面提升新兴领域战略能力](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%8F%90%E5%8D%87%E6%96%B0%E5%85%B4%E9%A2%86%E5%9F%9F%E6%88%98%E7%95%A5%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [外国记者谈被王毅认出：这辈子值了](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%AE%B0%E8%80%85%E8%B0%88%E8%A2%AB%E7%8E%8B%E6%AF%85%E8%AE%A4%E5%87%BA%EF%BC%9A%E8%BF%99%E8%BE%88%E5%AD%90%E5%80%BC%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [明天女职工放半天假](https://www.baidu.com/s?wd=%E6%98%8E%E5%A4%A9%E5%A5%B3%E8%81%8C%E5%B7%A5%E6%94%BE%E5%8D%8A%E5%A4%A9%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [政府工作报告里提到的新词热词](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E9%87%8C%E6%8F%90%E5%88%B0%E7%9A%84%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [2024中国向“新”发力](https://www.baidu.com/s?wd=2024%E4%B8%AD%E5%9B%BD%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [青海玉树州杂多县发生5.5级地震](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E7%8E%89%E6%A0%91%E5%B7%9E%E6%9D%82%E5%A4%9A%E5%8E%BF%E5%8F%91%E7%94%9F5.5%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子被鸡啄伤进ICU抢救2个月](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%B8%A1%E5%95%84%E4%BC%A4%E8%BF%9BICU%E6%8A%A2%E6%95%912%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [两男子起冲突被各自妻子紧紧抱住](https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E8%B5%B7%E5%86%B2%E7%AA%81%E8%A2%AB%E5%90%84%E8%87%AA%E5%A6%BB%E5%AD%90%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [总书记给出发展新质生产力方法论](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%BB%99%E5%87%BA%E5%8F%91%E5%B1%95%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%96%B9%E6%B3%95%E8%AE%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平：全面提升新兴领域战略能力](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%8F%90%E5%8D%87%E6%96%B0%E5%85%B4%E9%A2%86%E5%9F%9F%E6%88%98%E7%95%A5%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [外国记者谈被王毅认出：这辈子值了](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%AE%B0%E8%80%85%E8%B0%88%E8%A2%AB%E7%8E%8B%E6%AF%85%E8%AE%A4%E5%87%BA%EF%BC%9A%E8%BF%99%E8%BE%88%E5%AD%90%E5%80%BC%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [明天女职工放半天假](https://www.baidu.com/s?wd=%E6%98%8E%E5%A4%A9%E5%A5%B3%E8%81%8C%E5%B7%A5%E6%94%BE%E5%8D%8A%E5%A4%A9%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [政府工作报告里提到的新词热词](https://www.baidu.com/s?wd=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E9%87%8C%E6%8F%90%E5%88%B0%E7%9A%84%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [2024中国向“新”发力](https://www.baidu.com/s?wd=2024%E4%B8%AD%E5%9B%BD%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [青海玉树州杂多县发生5.5级地震](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E7%8E%89%E6%A0%91%E5%B7%9E%E6%9D%82%E5%A4%9A%E5%8E%BF%E5%8F%91%E7%94%9F5.5%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子被鸡啄伤进ICU抢救2个月](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%B8%A1%E5%95%84%E4%BC%A4%E8%BF%9BICU%E6%8A%A2%E6%95%912%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [两男子起冲突被各自妻子紧紧抱住](https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E8%B5%B7%E5%86%B2%E7%AA%81%E8%A2%AB%E5%90%84%E8%87%AA%E5%A6%BB%E5%AD%90%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
