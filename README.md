@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 08:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-07 08:58:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [回南天取快递 像到了天庭](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%8F%96%E5%BF%AB%E9%80%92%20%E5%83%8F%E5%88%B0%E4%BA%86%E5%A4%A9%E5%BA%AD&t=31&band_rank=5&Refer=top)<br />
 6. [曾茂朝去世](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%8C%82%E6%9C%9D%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [你猜为什么我们认识却不是好友](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%8C%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%AE%A4%E8%AF%86%E5%8D%B4%E4%B8%8D%E6%98%AF%E5%A5%BD%E5%8F%8B&t=31&band_rank=7&Refer=top)<br />
-8. [章若楠难哄去刘海](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E9%9A%BE%E5%93%84%E5%8E%BB%E5%88%98%E6%B5%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [唐探2游乐园尺度](https://s.weibo.com/weibo?q=%E5%94%90%E6%8E%A22%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%B0%BA%E5%BA%A6&t=31&band_rank=9&Refer=top)<br />
+8. [建议对伤人犬只饲养者追刑责](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9%E4%BC%A4%E4%BA%BA%E7%8A%AC%E5%8F%AA%E9%A5%B2%E5%85%BB%E8%80%85%E8%BF%BD%E5%88%91%E8%B4%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [章若楠难哄去刘海](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E9%9A%BE%E5%93%84%E5%8E%BB%E5%88%98%E6%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
