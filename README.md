@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 07:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 07:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [大学老师不让小学儿子写无效作业](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E4%B8%8D%E8%AE%A9%E5%B0%8F%E5%AD%A6%E5%84%BF%E5%AD%90%E5%86%99%E6%97%A0%E6%95%88%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上百架军机从全球美军基地起飞](https://www.baidu.com/s?wd=%E4%B8%8A%E7%99%BE%E6%9E%B6%E5%86%9B%E6%9C%BA%E4%BB%8E%E5%85%A8%E7%90%83%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [巴萨16岁天才绝境爆发](https://www.baidu.com/s?wd=%E5%B7%B4%E8%90%A816%E5%B2%81%E5%A4%A9%E6%89%8D%E7%BB%9D%E5%A2%83%E7%88%86%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [红海现在有多乱 还会乱多久](https://www.baidu.com/s?wd=%E7%BA%A2%E6%B5%B7%E7%8E%B0%E5%9C%A8%E6%9C%89%E5%A4%9A%E4%B9%B1+%E8%BF%98%E4%BC%9A%E4%B9%B1%E5%A4%9A%E4%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张连起：建议推行无理由退房](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9E%E8%B5%B7%EF%BC%9A%E5%BB%BA%E8%AE%AE%E6%8E%A8%E8%A1%8C%E6%97%A0%E7%90%86%E7%94%B1%E9%80%80%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宁夏辟谣有村民挖出古钱币](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%9F%E8%B0%A3%E6%9C%89%E6%9D%91%E6%B0%91%E6%8C%96%E5%87%BA%E5%8F%A4%E9%92%B1%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [大学老师不让小学儿子写无效作业](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E4%B8%8D%E8%AE%A9%E5%B0%8F%E5%AD%A6%E5%84%BF%E5%AD%90%E5%86%99%E6%97%A0%E6%95%88%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上百架军机从全球美军基地起飞](https://www.baidu.com/s?wd=%E4%B8%8A%E7%99%BE%E6%9E%B6%E5%86%9B%E6%9C%BA%E4%BB%8E%E5%85%A8%E7%90%83%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [巴萨16岁天才绝境爆发](https://www.baidu.com/s?wd=%E5%B7%B4%E8%90%A816%E5%B2%81%E5%A4%A9%E6%89%8D%E7%BB%9D%E5%A2%83%E7%88%86%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [红海现在有多乱 还会乱多久](https://www.baidu.com/s?wd=%E7%BA%A2%E6%B5%B7%E7%8E%B0%E5%9C%A8%E6%9C%89%E5%A4%9A%E4%B9%B1+%E8%BF%98%E4%BC%9A%E4%B9%B1%E5%A4%9A%E4%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张连起：建议推行无理由退房](https://www.baidu.com/s?wd=%E5%BC%A0%E8%BF%9E%E8%B5%B7%EF%BC%9A%E5%BB%BA%E8%AE%AE%E6%8E%A8%E8%A1%8C%E6%97%A0%E7%90%86%E7%94%B1%E9%80%80%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宁夏辟谣有村民挖出古钱币](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%9F%E8%B0%A3%E6%9C%89%E6%9D%91%E6%B0%91%E6%8C%96%E5%87%BA%E5%8F%A4%E9%92%B1%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
