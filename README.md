@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 09:33:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 09:34:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [建议将抑郁症纳入医保目录](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E6%8A%91%E9%83%81%E7%97%87%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%E7%9B%AE%E5%BD%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [妇女能顶半边天](https://s.weibo.com/weibo?q=%E5%A6%87%E5%A5%B3%E8%83%BD%E9%A1%B6%E5%8D%8A%E8%BE%B9%E5%A4%A9&t=31&band_rank=6&Refer=top)<br />
 7. [妇女节](https://s.weibo.com/weibo?q=%E5%A6%87%E5%A5%B3%E8%8A%82&t=31&band_rank=7&Refer=top)<br />
-8. [老板妇女节发120万给女员工让留着自己花](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%A6%87%E5%A5%B3%E8%8A%82%E5%8F%91120%E4%B8%87%E7%BB%99%E5%A5%B3%E5%91%98%E5%B7%A5%E8%AE%A9%E7%95%99%E7%9D%80%E8%87%AA%E5%B7%B1%E8%8A%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [上海中山医院辟谣张学友住进ICU](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B1%B1%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3%E5%BC%A0%E5%AD%A6%E5%8F%8B%E4%BD%8F%E8%BF%9BICU%23&t=31&band_rank=9&Refer=top)<br />
+8. [上海中山医院辟谣张学友住进ICU](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B1%B1%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3%E5%BC%A0%E5%AD%A6%E5%8F%8B%E4%BD%8F%E8%BF%9BICU%23&t=31&band_rank=8&Refer=top)<br />
+9. [老板妇女节发120万给女员工让留着自己花](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%A6%87%E5%A5%B3%E8%8A%82%E5%8F%91120%E4%B8%87%E7%BB%99%E5%A5%B3%E5%91%98%E5%B7%A5%E8%AE%A9%E7%95%99%E7%9D%80%E8%87%AA%E5%B7%B1%E8%8A%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
