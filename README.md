@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 22:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 22:48:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鸟山明年收入达7200万元](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%B9%B4%E6%94%B6%E5%85%A5%E8%BE%BE7200%E4%B8%87%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [砸锅卖铁去上学影视化](https://s.weibo.com/weibo?q=%23%E7%A0%B8%E9%94%85%E5%8D%96%E9%93%81%E5%8E%BB%E4%B8%8A%E5%AD%A6%E5%BD%B1%E8%A7%86%E5%8C%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [剑来 陈哲远](https://s.weibo.com/weibo?q=%E5%89%91%E6%9D%A5%20%E9%99%88%E5%93%B2%E8%BF%9C&t=31&band_rank=8&Refer=top)<br />
-9. [全员加速中 迟到](https://s.weibo.com/weibo?q=%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD%20%E8%BF%9F%E5%88%B0&t=31&band_rank=9&Refer=top)<br />
+9. [代表建议为适龄女性免费接种HPV疫苗](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E4%B8%BA%E9%80%82%E9%BE%84%E5%A5%B3%E6%80%A7%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8DHPV%E7%96%AB%E8%8B%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
