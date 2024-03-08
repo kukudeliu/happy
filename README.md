@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 18:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 18:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [乡镇女快递员抓小偷救人样样在行](https://s.weibo.com/weibo?q=%23%E4%B9%A1%E9%95%87%E5%A5%B3%E5%BF%AB%E9%80%92%E5%91%98%E6%8A%93%E5%B0%8F%E5%81%B7%E6%95%91%E4%BA%BA%E6%A0%B7%E6%A0%B7%E5%9C%A8%E8%A1%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [妇女节公司为女生开了一间花店](https://s.weibo.com/weibo?q=%23%E5%A6%87%E5%A5%B3%E8%8A%82%E5%85%AC%E5%8F%B8%E4%B8%BA%E5%A5%B3%E7%94%9F%E5%BC%80%E4%BA%86%E4%B8%80%E9%97%B4%E8%8A%B1%E5%BA%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [鸟山明去世](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [谢楠玩游戏给赵丽颖打电话](https://s.weibo.com/weibo?q=%E8%B0%A2%E6%A5%A0%E7%8E%A9%E6%B8%B8%E6%88%8F%E7%BB%99%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%89%93%E7%94%B5%E8%AF%9D&t=31&band_rank=9&Refer=top)<br />
+9. [雅诗兰黛称在中国销售的所有产品合规](https://s.weibo.com/weibo?q=%23%E9%9B%85%E8%AF%97%E5%85%B0%E9%BB%9B%E7%A7%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%94%80%E5%94%AE%E7%9A%84%E6%89%80%E6%9C%89%E4%BA%A7%E5%93%81%E5%90%88%E8%A7%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
