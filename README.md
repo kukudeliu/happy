@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 20:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 20:04:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [今天，向她们致敬](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%EF%BC%8C%E5%90%91%E5%A5%B9%E4%BB%AC%E8%87%B4%E6%95%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [代表：要让电车充1次电跑1千公里](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E8%A6%81%E8%AE%A9%E7%94%B5%E8%BD%A6%E5%85%851%E6%AC%A1%E7%94%B5%E8%B7%911%E5%8D%83%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [4岁男孩生动口述被主播诈骗](https://www.baidu.com/s?wd=4%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%9F%E5%8A%A8%E5%8F%A3%E8%BF%B0%E8%A2%AB%E4%B8%BB%E6%92%AD%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [外交部对鸟山明去世表示哀悼](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%AF%B9%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [孩子校园社交不该是厕所味](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%A0%A1%E5%9B%AD%E7%A4%BE%E4%BA%A4%E4%B8%8D%E8%AF%A5%E6%98%AF%E5%8E%95%E6%89%80%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [三八购物节怎么买最划算](https://www.baidu.com/s?wd=%E4%B8%89%E5%85%AB%E8%B4%AD%E7%89%A9%E8%8A%82%E6%80%8E%E4%B9%88%E4%B9%B0%E6%9C%80%E5%88%92%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宁夏辟谣有村民挖出古钱币](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%9F%E8%B0%A3%E6%9C%89%E6%9D%91%E6%B0%91%E6%8C%96%E5%87%BA%E5%8F%A4%E9%92%B1%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [今天，向她们致敬](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%EF%BC%8C%E5%90%91%E5%A5%B9%E4%BB%AC%E8%87%B4%E6%95%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [代表：要让电车充1次电跑1千公里](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E8%A6%81%E8%AE%A9%E7%94%B5%E8%BD%A6%E5%85%851%E6%AC%A1%E7%94%B5%E8%B7%911%E5%8D%83%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [4岁男孩生动口述被主播诈骗](https://www.baidu.com/s?wd=4%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%9F%E5%8A%A8%E5%8F%A3%E8%BF%B0%E8%A2%AB%E4%B8%BB%E6%92%AD%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [外交部对鸟山明去世表示哀悼](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%AF%B9%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [孩子校园社交不该是厕所味](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%A0%A1%E5%9B%AD%E7%A4%BE%E4%BA%A4%E4%B8%8D%E8%AF%A5%E6%98%AF%E5%8E%95%E6%89%80%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [三八购物节怎么买最划算](https://www.baidu.com/s?wd=%E4%B8%89%E5%85%AB%E8%B4%AD%E7%89%A9%E8%8A%82%E6%80%8E%E4%B9%88%E4%B9%B0%E6%9C%80%E5%88%92%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宁夏辟谣有村民挖出古钱币](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%9F%E8%B0%A3%E6%9C%89%E6%9D%91%E6%B0%91%E6%8C%96%E5%87%BA%E5%8F%A4%E9%92%B1%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
