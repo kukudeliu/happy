@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 16:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 16:25:01</h4></div>
 
 > 微博  
 
-1. [建议取消公务员35岁门槛](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%85%AC%E5%8A%A1%E5%91%9835%E5%B2%81%E9%97%A8%E6%A7%9B%23&t=31&band_rank=1&Refer=top)<br />
-2. [外交部对鸟山明去世表示哀悼](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%AF%B9%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC%23&t=31&band_rank=2&Refer=top)<br />
+1. [外交部对鸟山明去世表示哀悼](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%AF%B9%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC%23&t=31&band_rank=1&Refer=top)<br />
+2. [建议取消公务员35岁门槛](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%85%AC%E5%8A%A1%E5%91%9835%E5%B2%81%E9%97%A8%E6%A7%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [起草人解读两高工作报告](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E8%8D%89%E4%BA%BA%E8%A7%A3%E8%AF%BB%E4%B8%A4%E9%AB%98%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&t=31&band_rank=3&Refer=top)<br />
 4. [SM你是真的饿了](https://s.weibo.com/weibo?q=%23SM%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E9%A5%BF%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [大学生用马面裙做床帘](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8%E9%A9%AC%E9%9D%A2%E8%A3%99%E5%81%9A%E5%BA%8A%E5%B8%98%23&t=31&band_rank=5&Refer=top)<br />
