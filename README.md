@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 13:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 13:58:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [妇女节快乐](https://s.weibo.com/weibo?q=%23%E5%A6%87%E5%A5%B3%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [鸟山明去世](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [茅台公开高管薪酬](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%85%AC%E5%BC%80%E9%AB%98%E7%AE%A1%E8%96%AA%E9%85%AC%23&t=31&band_rank=6&Refer=top)<br />
-7. [库里受伤](https://s.weibo.com/weibo?q=%E5%BA%93%E9%87%8C%E5%8F%97%E4%BC%A4&t=31&band_rank=7&Refer=top)<br />
-8. [SM你是真的饿了](https://s.weibo.com/weibo?q=%23SM%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E9%A5%BF%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [SM你是真的饿了](https://s.weibo.com/weibo?q=%23SM%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E9%A5%BF%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [库里受伤](https://s.weibo.com/weibo?q=%E5%BA%93%E9%87%8C%E5%8F%97%E4%BC%A4&t=31&band_rank=8&Refer=top)<br />
 9. [张学友疑因上呼吸道感染就医](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%A6%E5%8F%8B%E7%96%91%E5%9B%A0%E4%B8%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
