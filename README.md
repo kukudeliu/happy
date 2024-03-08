@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 10:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 10:30:01</h4></div>
 
 > 微博  
 
@@ -21,10 +21,10 @@
 2. [三八妇女节快乐](https://www.baidu.com/s?wd=%E5%A6%87%E5%A5%B3%E8%8A%82%E5%BF%AB%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [小情侣买2张20元彩票 刮出百万大奖](https://www.baidu.com/s?wd=%E5%B0%8F%E6%83%85%E4%BE%A3%E4%B9%B02%E5%BC%A020%E5%85%83%E5%BD%A9%E7%A5%A8+%E5%88%AE%E5%87%BA%E7%99%BE%E4%B8%87%E5%A4%A7%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024中国向“新”发力](https://www.baidu.com/s?wd=2024%E4%B8%AD%E5%9B%BD%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [加拿大赔偿在华被捕间谍700万加元](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B5%94%E5%81%BF%E5%9C%A8%E5%8D%8E%E8%A2%AB%E6%8D%95%E9%97%B4%E8%B0%8D700%E4%B8%87%E5%8A%A0%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [加拿大赔偿在华被捕加间谍700万加元](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B5%94%E5%81%BF%E5%9C%A8%E5%8D%8E%E8%A2%AB%E6%8D%95%E5%8A%A0%E9%97%B4%E8%B0%8D700%E4%B8%87%E5%8A%A0%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张桂梅说女性可以是花也可以是山](https://www.baidu.com/s?wd=%E5%BC%A0%E6%A1%82%E6%A2%85%E8%AF%B4%E5%A5%B3%E6%80%A7%E5%8F%AF%E4%BB%A5%E6%98%AF%E8%8A%B1%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%98%AF%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州小伙买100万黄金一年赚50%](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%B0%8F%E4%BC%99%E4%B9%B0100%E4%B8%87%E9%BB%84%E9%87%91%E4%B8%80%E5%B9%B4%E8%B5%9A50%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [00后女孩每天端盘子上千次成冠军](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E5%AD%A9%E6%AF%8F%E5%A4%A9%E7%AB%AF%E7%9B%98%E5%AD%90%E4%B8%8A%E5%8D%83%E6%AC%A1%E6%88%90%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [建议恢复婚前医学检查](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%81%A2%E5%A4%8D%E5%A9%9A%E5%89%8D%E5%8C%BB%E5%AD%A6%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州小伙买100万黄金一年赚50%](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%B0%8F%E4%BC%99%E4%B9%B0100%E4%B8%87%E9%BB%84%E9%87%91%E4%B8%80%E5%B9%B4%E8%B5%9A50%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京未开放个人申领三代社保卡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%AA%E5%BC%80%E6%94%BE%E4%B8%AA%E4%BA%BA%E7%94%B3%E9%A2%86%E4%B8%89%E4%BB%A3%E7%A4%BE%E4%BF%9D%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [三八妇女节快乐](https://www.baidu.com/s?wd=%E5%A6%87%E5%A5%B3%E8%8A%82%E5%BF%AB%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [小情侣买2张20元彩票 刮出百万大奖](https://www.baidu.com/s?wd=%E5%B0%8F%E6%83%85%E4%BE%A3%E4%B9%B02%E5%BC%A020%E5%85%83%E5%BD%A9%E7%A5%A8+%E5%88%AE%E5%87%BA%E7%99%BE%E4%B8%87%E5%A4%A7%E5%A5%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [2024中国向“新”发力](https://www.baidu.com/s?wd=2024%E4%B8%AD%E5%9B%BD%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [加拿大赔偿在华被捕间谍700万加元](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B5%94%E5%81%BF%E5%9C%A8%E5%8D%8E%E8%A2%AB%E6%8D%95%E9%97%B4%E8%B0%8D700%E4%B8%87%E5%8A%A0%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [加拿大赔偿在华被捕加间谍700万加元](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B5%94%E5%81%BF%E5%9C%A8%E5%8D%8E%E8%A2%AB%E6%8D%95%E5%8A%A0%E9%97%B4%E8%B0%8D700%E4%B8%87%E5%8A%A0%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张桂梅说女性可以是花也可以是山](https://www.baidu.com/s?wd=%E5%BC%A0%E6%A1%82%E6%A2%85%E8%AF%B4%E5%A5%B3%E6%80%A7%E5%8F%AF%E4%BB%A5%E6%98%AF%E8%8A%B1%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%98%AF%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杭州小伙买100万黄金一年赚50%](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%B0%8F%E4%BC%99%E4%B9%B0100%E4%B8%87%E9%BB%84%E9%87%91%E4%B8%80%E5%B9%B4%E8%B5%9A50%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [00后女孩每天端盘子上千次成冠军](https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E5%AD%A9%E6%AF%8F%E5%A4%A9%E7%AB%AF%E7%9B%98%E5%AD%90%E4%B8%8A%E5%8D%83%E6%AC%A1%E6%88%90%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [建议恢复婚前医学检查](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%81%A2%E5%A4%8D%E5%A9%9A%E5%89%8D%E5%8C%BB%E5%AD%A6%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杭州小伙买100万黄金一年赚50%](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%B0%8F%E4%BC%99%E4%B9%B0100%E4%B8%87%E9%BB%84%E9%87%91%E4%B8%80%E5%B9%B4%E8%B5%9A50%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京未开放个人申领三代社保卡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%AA%E5%BC%80%E6%94%BE%E4%B8%AA%E4%BA%BA%E7%94%B3%E9%A2%86%E4%B8%89%E4%BB%A3%E7%A4%BE%E4%BF%9D%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
