@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 15:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 15:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [大学生用马面裙做床帘](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8%E9%A9%AC%E9%9D%A2%E8%A3%99%E5%81%9A%E5%BA%8A%E5%B8%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [刑法第二十条已被唤醒](https://s.weibo.com/weibo?q=%23%E5%88%91%E6%B3%95%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%E5%B7%B2%E8%A2%AB%E5%94%A4%E9%86%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [鸟山明去世](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [妇女节快乐](https://s.weibo.com/weibo?q=%23%E5%A6%87%E5%A5%B3%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=9&Refer=top)<br />
+9. [东部战区陆军首个女子导弹排](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E9%99%86%E5%86%9B%E9%A6%96%E4%B8%AA%E5%A5%B3%E5%AD%90%E5%AF%BC%E5%BC%B9%E6%8E%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
