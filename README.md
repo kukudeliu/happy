@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 07:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 07:24:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [如何培育壮大新质生产力？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E5%9F%B9%E8%82%B2%E5%A3%AE%E5%A4%A7%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大学老师不让小学儿子写无效作业](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E4%B8%8D%E8%AE%A9%E5%B0%8F%E5%AD%A6%E5%84%BF%E5%AD%90%E5%86%99%E6%97%A0%E6%95%88%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [红海现在有多乱 还会乱多久](https://www.baidu.com/s?wd=%E7%BA%A2%E6%B5%B7%E7%8E%B0%E5%9C%A8%E6%9C%89%E5%A4%9A%E4%B9%B1+%E8%BF%98%E4%BC%9A%E4%B9%B1%E5%A4%9A%E4%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [打破“一人逃亡全家得利”迷梦](https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E2%80%9C%E4%B8%80%E4%BA%BA%E9%80%83%E4%BA%A1%E5%85%A8%E5%AE%B6%E5%BE%97%E5%88%A9%E2%80%9D%E8%BF%B7%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [外交部对鸟山明去世表示哀悼](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%AF%B9%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [外交部对鸟山明去世表示哀悼](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%AF%B9%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [打破“一人逃亡全家得利”迷梦](https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E2%80%9C%E4%B8%80%E4%BA%BA%E9%80%83%E4%BA%A1%E5%85%A8%E5%AE%B6%E5%BE%97%E5%88%A9%E2%80%9D%E8%BF%B7%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宁夏辟谣有村民挖出古钱币](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%9F%E8%B0%A3%E6%9C%89%E6%9D%91%E6%B0%91%E6%8C%96%E5%87%BA%E5%8F%A4%E9%92%B1%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [如何培育壮大新质生产力？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E5%9F%B9%E8%82%B2%E5%A3%AE%E5%A4%A7%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [大学老师不让小学儿子写无效作业](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E4%B8%8D%E8%AE%A9%E5%B0%8F%E5%AD%A6%E5%84%BF%E5%AD%90%E5%86%99%E6%97%A0%E6%95%88%E4%BD%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [红海现在有多乱 还会乱多久](https://www.baidu.com/s?wd=%E7%BA%A2%E6%B5%B7%E7%8E%B0%E5%9C%A8%E6%9C%89%E5%A4%9A%E4%B9%B1+%E8%BF%98%E4%BC%9A%E4%B9%B1%E5%A4%9A%E4%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [打破“一人逃亡全家得利”迷梦](https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E2%80%9C%E4%B8%80%E4%BA%BA%E9%80%83%E4%BA%A1%E5%85%A8%E5%AE%B6%E5%BE%97%E5%88%A9%E2%80%9D%E8%BF%B7%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [外交部对鸟山明去世表示哀悼](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%AF%B9%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [外交部对鸟山明去世表示哀悼](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%AF%B9%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [打破“一人逃亡全家得利”迷梦](https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E2%80%9C%E4%B8%80%E4%BA%BA%E9%80%83%E4%BA%A1%E5%85%A8%E5%AE%B6%E5%BE%97%E5%88%A9%E2%80%9D%E8%BF%B7%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宁夏辟谣有村民挖出古钱币](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%9F%E8%B0%A3%E6%9C%89%E6%9D%91%E6%B0%91%E6%8C%96%E5%87%BA%E5%8F%A4%E9%92%B1%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
