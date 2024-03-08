@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 08:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 08:22:02</h4></div>
 
 > 微博  
 
-1. [妇女节](https://s.weibo.com/weibo?q=%E5%A6%87%E5%A5%B3%E8%8A%82&t=31&band_rank=1&Refer=top)<br />
-2. [杭州小伙买100万黄金一年赚50%](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%B0%8F%E4%BC%99%E4%B9%B0100%E4%B8%87%E9%BB%84%E9%87%91%E4%B8%80%E5%B9%B4%E8%B5%9A50%25%23&t=31&band_rank=2&Refer=top)<br />
+1. [杭州小伙买100万黄金一年赚50%](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%B0%8F%E4%BC%99%E4%B9%B0100%E4%B8%87%E9%BB%84%E9%87%91%E4%B8%80%E5%B9%B4%E8%B5%9A50%25%23&t=31&band_rank=1&Refer=top)<br />
+2. [妇女节](https://s.weibo.com/weibo?q=%E5%A6%87%E5%A5%B3%E8%8A%82&t=31&band_rank=2&Refer=top)<br />
 3. [政府工作报告里的民生举措](https://s.weibo.com/weibo?q=%23%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E9%87%8C%E7%9A%84%E6%B0%91%E7%94%9F%E4%B8%BE%E6%8E%AA%23&t=31&band_rank=3&Refer=top)<br />
 4. [妇女节快乐](https://s.weibo.com/weibo?q=%E5%A6%87%E5%A5%B3%E8%8A%82%E5%BF%AB%E4%B9%90&t=31&band_rank=4&Refer=top)<br />
 5. [建议将抑郁症纳入医保目录](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E6%8A%91%E9%83%81%E7%97%87%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%E7%9B%AE%E5%BD%95%23&t=31&band_rank=5&Refer=top)<br />
