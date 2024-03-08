@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 20:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 20:39:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [建议未成年人父母实行弹性上班](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%88%B6%E6%AF%8D%E5%AE%9E%E8%A1%8C%E5%BC%B9%E6%80%A7%E4%B8%8A%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [今天，向她们致敬](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%EF%BC%8C%E5%90%91%E5%A5%B9%E4%BB%AC%E8%87%B4%E6%95%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [代表：要让电车充1次电跑1千公里](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E8%A6%81%E8%AE%A9%E7%94%B5%E8%BD%A6%E5%85%851%E6%AC%A1%E7%94%B5%E8%B7%911%E5%8D%83%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [红海现在有多乱 还会乱多久](https://www.baidu.com/s?wd=%E7%BA%A2%E6%B5%B7%E7%8E%B0%E5%9C%A8%E6%9C%89%E5%A4%9A%E4%B9%B1+%E8%BF%98%E4%BC%9A%E4%B9%B1%E5%A4%9A%E4%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [打破“一人逃亡全家得利”迷梦](https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E2%80%9C%E4%B8%80%E4%BA%BA%E9%80%83%E4%BA%A1%E5%85%A8%E5%AE%B6%E5%BE%97%E5%88%A9%E2%80%9D%E8%BF%B7%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中使馆提醒赴韩游客谨防强制消费](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E8%B5%B4%E9%9F%A9%E6%B8%B8%E5%AE%A2%E8%B0%A8%E9%98%B2%E5%BC%BA%E5%88%B6%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [红海现在有多乱 还会乱多久](https://www.baidu.com/s?wd=%E7%BA%A2%E6%B5%B7%E7%8E%B0%E5%9C%A8%E6%9C%89%E5%A4%9A%E4%B9%B1+%E8%BF%98%E4%BC%9A%E4%B9%B1%E5%A4%9A%E4%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [三八购物节怎么买最划算](https://www.baidu.com/s?wd=%E4%B8%89%E5%85%AB%E8%B4%AD%E7%89%A9%E8%8A%82%E6%80%8E%E4%B9%88%E4%B9%B0%E6%9C%80%E5%88%92%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宁夏辟谣有村民挖出古钱币](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%9F%E8%B0%A3%E6%9C%89%E6%9D%91%E6%B0%91%E6%8C%96%E5%87%BA%E5%8F%A4%E9%92%B1%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [建议未成年人父母实行弹性上班](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%88%B6%E6%AF%8D%E5%AE%9E%E8%A1%8C%E5%BC%B9%E6%80%A7%E4%B8%8A%E7%8F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [今天，向她们致敬](https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%EF%BC%8C%E5%90%91%E5%A5%B9%E4%BB%AC%E8%87%B4%E6%95%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [代表：要让电车充1次电跑1千公里](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E8%A6%81%E8%AE%A9%E7%94%B5%E8%BD%A6%E5%85%851%E6%AC%A1%E7%94%B5%E8%B7%911%E5%8D%83%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [红海现在有多乱 还会乱多久](https://www.baidu.com/s?wd=%E7%BA%A2%E6%B5%B7%E7%8E%B0%E5%9C%A8%E6%9C%89%E5%A4%9A%E4%B9%B1+%E8%BF%98%E4%BC%9A%E4%B9%B1%E5%A4%9A%E4%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [打破“一人逃亡全家得利”迷梦](https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E2%80%9C%E4%B8%80%E4%BA%BA%E9%80%83%E4%BA%A1%E5%85%A8%E5%AE%B6%E5%BE%97%E5%88%A9%E2%80%9D%E8%BF%B7%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中使馆提醒赴韩游客谨防强制消费](https://www.baidu.com/s?wd=%E4%B8%AD%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E8%B5%B4%E9%9F%A9%E6%B8%B8%E5%AE%A2%E8%B0%A8%E9%98%B2%E5%BC%BA%E5%88%B6%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [红海现在有多乱 还会乱多久](https://www.baidu.com/s?wd=%E7%BA%A2%E6%B5%B7%E7%8E%B0%E5%9C%A8%E6%9C%89%E5%A4%9A%E4%B9%B1+%E8%BF%98%E4%BC%9A%E4%B9%B1%E5%A4%9A%E4%B9%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [三八购物节怎么买最划算](https://www.baidu.com/s?wd=%E4%B8%89%E5%85%AB%E8%B4%AD%E7%89%A9%E8%8A%82%E6%80%8E%E4%B9%88%E4%B9%B0%E6%9C%80%E5%88%92%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宁夏辟谣有村民挖出古钱币](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%9F%E8%B0%A3%E6%9C%89%E6%9D%91%E6%B0%91%E6%8C%96%E5%87%BA%E5%8F%A4%E9%92%B1%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
