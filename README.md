@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 23:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 23:34:01</h4></div>
 
 > 微博  
 
 1. [金价杀疯了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [大学老师不让小学儿子写无效作业](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E4%B8%8D%E8%AE%A9%E5%B0%8F%E5%AD%A6%E5%84%BF%E5%AD%90%E5%86%99%E6%97%A0%E6%95%88%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=2&Refer=top)<br />
+2. [与凤行定档](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C%E5%AE%9A%E6%A1%A3&t=31&band_rank=2&Refer=top)<br />
 3. [政府工作报告里年轻人关心的热点](https://s.weibo.com/weibo?q=%23%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E9%87%8C%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%85%B3%E5%BF%83%E7%9A%84%E7%83%AD%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
-4. [与凤行定档](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C%E5%AE%9A%E6%A1%A3&t=31&band_rank=4&Refer=top)<br />
+4. [大学老师不让小学儿子写无效作业](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E4%B8%8D%E8%AE%A9%E5%B0%8F%E5%AD%A6%E5%84%BF%E5%AD%90%E5%86%99%E6%97%A0%E6%95%88%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [怀孕前一定要对乳房做全面检查](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%95%E5%89%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E5%AF%B9%E4%B9%B3%E6%88%BF%E5%81%9A%E5%85%A8%E9%9D%A2%E6%A3%80%E6%9F%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [眉姐姐你女儿长大了](https://s.weibo.com/weibo?q=%23%E7%9C%89%E5%A7%90%E5%A7%90%E4%BD%A0%E5%A5%B3%E5%84%BF%E9%95%BF%E5%A4%A7%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [鸟山明年收入达7200万元](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%B9%B4%E6%94%B6%E5%85%A5%E8%BE%BE7200%E4%B8%87%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [周鸿祎称国内PPT泛滥成灾](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%A7%B0%E5%9B%BD%E5%86%85PPT%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%23&t=31&band_rank=8&Refer=top)<br />
+7. [周鸿祎称国内PPT泛滥成灾](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%A7%B0%E5%9B%BD%E5%86%85PPT%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%23&t=31&band_rank=7&Refer=top)<br />
+8. [鸟山明年收入达7200万元](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%B9%B4%E6%94%B6%E5%85%A5%E8%BE%BE7200%E4%B8%87%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
 9. [TTG好菜](https://s.weibo.com/weibo?q=TTG%E5%A5%BD%E8%8F%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
