@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 10:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 10:09:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [建议将抑郁症纳入医保目录](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E6%8A%91%E9%83%81%E7%97%87%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%E7%9B%AE%E5%BD%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [建议恢复婚前医学检查](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%81%A2%E5%A4%8D%E5%A9%9A%E5%89%8D%E5%8C%BB%E5%AD%A6%E6%A3%80%E6%9F%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [妇女能顶半边天](https://s.weibo.com/weibo?q=%E5%A6%87%E5%A5%B3%E8%83%BD%E9%A1%B6%E5%8D%8A%E8%BE%B9%E5%A4%A9&t=31&band_rank=7&Refer=top)<br />
-8. [妇女节](https://s.weibo.com/weibo?q=%E5%A6%87%E5%A5%B3%E8%8A%82&t=31&band_rank=8&Refer=top)<br />
-9. [医院回应护士称拒绝给患者当儿媳被投诉](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%8A%A4%E5%A3%AB%E7%A7%B0%E6%8B%92%E7%BB%9D%E7%BB%99%E6%82%A3%E8%80%85%E5%BD%93%E5%84%BF%E5%AA%B3%E8%A2%AB%E6%8A%95%E8%AF%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [医院回应护士称拒绝给患者当儿媳被投诉](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%8A%A4%E5%A3%AB%E7%A7%B0%E6%8B%92%E7%BB%9D%E7%BB%99%E6%82%A3%E8%80%85%E5%BD%93%E5%84%BF%E5%AA%B3%E8%A2%AB%E6%8A%95%E8%AF%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [妇女节](https://s.weibo.com/weibo?q=%E5%A6%87%E5%A5%B3%E8%8A%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
