@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 10:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 10:35:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [2024中国向“新”发力](https://www.baidu.com/s?wd=2024%E4%B8%AD%E5%9B%BD%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [加拿大赔偿在华被捕加间谍700万加元](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B5%94%E5%81%BF%E5%9C%A8%E5%8D%8E%E8%A2%AB%E6%8D%95%E5%8A%A0%E9%97%B4%E8%B0%8D700%E4%B8%87%E5%8A%A0%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张桂梅说女性可以是花也可以是山](https://www.baidu.com/s?wd=%E5%BC%A0%E6%A1%82%E6%A2%85%E8%AF%B4%E5%A5%B3%E6%80%A7%E5%8F%AF%E4%BB%A5%E6%98%AF%E8%8A%B1%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%98%AF%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [建议恢复婚前医学检查](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%81%A2%E5%A4%8D%E5%A9%9A%E5%89%8D%E5%8C%BB%E5%AD%A6%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [00后辅警被塞一个娃秒变临时奶爸](https://www.baidu.com/s?wd=00%E5%90%8E%E8%BE%85%E8%AD%A6%E8%A2%AB%E5%A1%9E%E4%B8%80%E4%B8%AA%E5%A8%83%E7%A7%92%E5%8F%98%E4%B8%B4%E6%97%B6%E5%A5%B6%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医院回应护士拒给患者当儿媳被投诉](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%8A%A4%E5%A3%AB%E6%8B%92%E7%BB%99%E6%82%A3%E8%80%85%E5%BD%93%E5%84%BF%E5%AA%B3%E8%A2%AB%E6%8A%95%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [建议恢复婚前医学检查](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%81%A2%E5%A4%8D%E5%A9%9A%E5%89%8D%E5%8C%BB%E5%AD%A6%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京未开放个人申领三代社保卡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%AA%E5%BC%80%E6%94%BE%E4%B8%AA%E4%BA%BA%E7%94%B3%E9%A2%86%E4%B8%89%E4%BB%A3%E7%A4%BE%E4%BF%9D%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [2024中国向“新”发力](https://www.baidu.com/s?wd=2024%E4%B8%AD%E5%9B%BD%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [加拿大赔偿在华被捕加间谍700万加元](https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B5%94%E5%81%BF%E5%9C%A8%E5%8D%8E%E8%A2%AB%E6%8D%95%E5%8A%A0%E9%97%B4%E8%B0%8D700%E4%B8%87%E5%8A%A0%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张桂梅说女性可以是花也可以是山](https://www.baidu.com/s?wd=%E5%BC%A0%E6%A1%82%E6%A2%85%E8%AF%B4%E5%A5%B3%E6%80%A7%E5%8F%AF%E4%BB%A5%E6%98%AF%E8%8A%B1%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%98%AF%E5%B1%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [建议恢复婚前医学检查](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%81%A2%E5%A4%8D%E5%A9%9A%E5%89%8D%E5%8C%BB%E5%AD%A6%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [00后辅警被塞一个娃秒变临时奶爸](https://www.baidu.com/s?wd=00%E5%90%8E%E8%BE%85%E8%AD%A6%E8%A2%AB%E5%A1%9E%E4%B8%80%E4%B8%AA%E5%A8%83%E7%A7%92%E5%8F%98%E4%B8%B4%E6%97%B6%E5%A5%B6%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [医院回应护士拒给患者当儿媳被投诉](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%8A%A4%E5%A3%AB%E6%8B%92%E7%BB%99%E6%82%A3%E8%80%85%E5%BD%93%E5%84%BF%E5%AA%B3%E8%A2%AB%E6%8A%95%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [建议恢复婚前医学检查](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E6%81%A2%E5%A4%8D%E5%A9%9A%E5%89%8D%E5%8C%BB%E5%AD%A6%E6%A3%80%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京未开放个人申领三代社保卡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%AA%E5%BC%80%E6%94%BE%E4%B8%AA%E4%BA%BA%E7%94%B3%E9%A2%86%E4%B8%89%E4%BB%A3%E7%A4%BE%E4%BF%9D%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
