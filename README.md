@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 10:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 10:49:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [中国外交的态度与温度](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E7%9A%84%E6%80%81%E5%BA%A6%E4%B8%8E%E6%B8%A9%E5%BA%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [国家线](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=4&Refer=top)<br />
 5. [建议将抑郁症纳入医保目录](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E6%8A%91%E9%83%81%E7%97%87%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%E7%9B%AE%E5%BD%95%23&t=31&band_rank=5&Refer=top)<br />
-6. [劳荣枝案写入最高法工作报告](https://s.weibo.com/weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E6%A1%88%E5%86%99%E5%85%A5%E6%9C%80%E9%AB%98%E6%B3%95%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&t=31&band_rank=6&Refer=top)<br />
-7. [刑法第二十条已被唤醒](https://s.weibo.com/weibo?q=%23%E5%88%91%E6%B3%95%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%E5%B7%B2%E8%A2%AB%E5%94%A4%E9%86%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [亚洲首富小儿子的婚礼](https://s.weibo.com/weibo?q=%E4%BA%9A%E6%B4%B2%E9%A6%96%E5%AF%8C%E5%B0%8F%E5%84%BF%E5%AD%90%E7%9A%84%E5%A9%9A%E7%A4%BC&t=31&band_rank=8&Refer=top)<br />
-9. [婚前同居施暴须以家庭成员承担刑事责任](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%89%8D%E5%90%8C%E5%B1%85%E6%96%BD%E6%9A%B4%E9%A1%BB%E4%BB%A5%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98%E6%89%BF%E6%8B%85%E5%88%91%E4%BA%8B%E8%B4%A3%E4%BB%BB%23&t=31&band_rank=9&Refer=top)<br />
+6. [刑法第二十条已被唤醒](https://s.weibo.com/weibo?q=%23%E5%88%91%E6%B3%95%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%E5%B7%B2%E8%A2%AB%E5%94%A4%E9%86%92%23&t=31&band_rank=6&Refer=top)<br />
+7. [劳荣枝案写入最高法工作报告](https://s.weibo.com/weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E6%A1%88%E5%86%99%E5%85%A5%E6%9C%80%E9%AB%98%E6%B3%95%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&t=31&band_rank=7&Refer=top)<br />
+8. [婚前同居施暴须以家庭成员承担刑事责任](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%89%8D%E5%90%8C%E5%B1%85%E6%96%BD%E6%9A%B4%E9%A1%BB%E4%BB%A5%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98%E6%89%BF%E6%8B%85%E5%88%91%E4%BA%8B%E8%B4%A3%E4%BB%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [亚洲首富小儿子的婚礼](https://s.weibo.com/weibo?q=%E4%BA%9A%E6%B4%B2%E9%A6%96%E5%AF%8C%E5%B0%8F%E5%84%BF%E5%AD%90%E7%9A%84%E5%A9%9A%E7%A4%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
