@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 21:10:02</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [孩子校园社交不该是厕所味](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%A0%A1%E5%9B%AD%E7%A4%BE%E4%BA%A4%E4%B8%8D%E8%AF%A5%E6%98%AF%E5%8E%95%E6%89%80%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [三八购物节怎么买最划算](https://www.baidu.com/s?wd=%E4%B8%89%E5%85%AB%E8%B4%AD%E7%89%A9%E8%8A%82%E6%80%8E%E4%B9%88%E4%B9%B0%E6%9C%80%E5%88%92%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [宁夏辟谣有村民挖出古钱币](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%9F%E8%B0%A3%E6%9C%89%E6%9D%91%E6%B0%91%E6%8C%96%E5%87%BA%E5%8F%A4%E9%92%B1%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [建议给独生子女每年20天护理假](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E7%BB%99%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E6%AF%8F%E5%B9%B420%E5%A4%A9%E6%8A%A4%E7%90%86%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [外交部对鸟山明去世表示哀悼](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%AF%B9%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [孩子校园社交不该是厕所味](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%A0%A1%E5%9B%AD%E7%A4%BE%E4%BA%A4%E4%B8%8D%E8%AF%A5%E6%98%AF%E5%8E%95%E6%89%80%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [三八购物节怎么买最划算](https://www.baidu.com/s?wd=%E4%B8%89%E5%85%AB%E8%B4%AD%E7%89%A9%E8%8A%82%E6%80%8E%E4%B9%88%E4%B9%B0%E6%9C%80%E5%88%92%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [宁夏辟谣有村民挖出古钱币](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%9F%E8%B0%A3%E6%9C%89%E6%9D%91%E6%B0%91%E6%8C%96%E5%87%BA%E5%8F%A4%E9%92%B1%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [建议给独生子女每年20天护理假](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E7%BB%99%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E6%AF%8F%E5%B9%B420%E5%A4%A9%E6%8A%A4%E7%90%86%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [外交部对鸟山明去世表示哀悼](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%AF%B9%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
