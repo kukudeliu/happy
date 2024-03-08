@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 23:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 23:16:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [普京签令赦免52名被定罪女性](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%E8%B5%A6%E5%85%8D52%E5%90%8D%E8%A2%AB%E5%AE%9A%E7%BD%AA%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [土耳其空袭伊拉克](https://www.baidu.com/s?wd=%E5%9C%9F%E8%80%B3%E5%85%B6%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%8B%89%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [打破“一人逃亡全家得利”迷梦](https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E2%80%9C%E4%B8%80%E4%BA%BA%E9%80%83%E4%BA%A1%E5%85%A8%E5%AE%B6%E5%BE%97%E5%88%A9%E2%80%9D%E8%BF%B7%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [4岁男孩生动口述被主播诈骗](https://www.baidu.com/s?wd=4%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%9F%E5%8A%A8%E5%8F%A3%E8%BF%B0%E8%A2%AB%E4%B8%BB%E6%92%AD%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [代表：要让电车充1次电跑1千公里](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E8%A6%81%E8%AE%A9%E7%94%B5%E8%BD%A6%E5%85%851%E6%AC%A1%E7%94%B5%E8%B7%911%E5%8D%83%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宁夏辟谣有村民挖出古钱币](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%9F%E8%B0%A3%E6%9C%89%E6%9D%91%E6%B0%91%E6%8C%96%E5%87%BA%E5%8F%A4%E9%92%B1%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [普京签令赦免52名被定罪女性](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%E8%B5%A6%E5%85%8D52%E5%90%8D%E8%A2%AB%E5%AE%9A%E7%BD%AA%E5%A5%B3%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [土耳其空袭伊拉克](https://www.baidu.com/s?wd=%E5%9C%9F%E8%80%B3%E5%85%B6%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%8B%89%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [打破“一人逃亡全家得利”迷梦](https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E2%80%9C%E4%B8%80%E4%BA%BA%E9%80%83%E4%BA%A1%E5%85%A8%E5%AE%B6%E5%BE%97%E5%88%A9%E2%80%9D%E8%BF%B7%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [4岁男孩生动口述被主播诈骗](https://www.baidu.com/s?wd=4%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%9F%E5%8A%A8%E5%8F%A3%E8%BF%B0%E8%A2%AB%E4%B8%BB%E6%92%AD%E8%AF%88%E9%AA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [代表：要让电车充1次电跑1千公里](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E8%A6%81%E8%AE%A9%E7%94%B5%E8%BD%A6%E5%85%851%E6%AC%A1%E7%94%B5%E8%B7%911%E5%8D%83%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [宁夏辟谣有村民挖出古钱币](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%9F%E8%B0%A3%E6%9C%89%E6%9D%91%E6%B0%91%E6%8C%96%E5%87%BA%E5%8F%A4%E9%92%B1%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
