@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 21:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 21:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [全员加速中](https://s.weibo.com/weibo?q=%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD&t=31&band_rank=6&Refer=top)<br />
 7. [大理寺少卿游 半是蜜糖半是伤](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%90%86%E5%AF%BA%E5%B0%91%E5%8D%BF%E6%B8%B8%20%E5%8D%8A%E6%98%AF%E8%9C%9C%E7%B3%96%E5%8D%8A%E6%98%AF%E4%BC%A4&t=31&band_rank=7&Refer=top)<br />
 8. [瘦子Ella新片演情侣](https://s.weibo.com/weibo?q=%23%E7%98%A6%E5%AD%90Ella%E6%96%B0%E7%89%87%E6%BC%94%E6%83%85%E4%BE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [电视剧小日子定档](https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E5%B0%8F%E6%97%A5%E5%AD%90%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈晓新剧 睡在我上铺的老婆](https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%96%B0%E5%89%A7%20%E7%9D%A1%E5%9C%A8%E6%88%91%E4%B8%8A%E9%93%BA%E7%9A%84%E8%80%81%E5%A9%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
