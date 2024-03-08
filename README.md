@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 14:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 14:50:01</h4></div>
 
 > 微博  
 
 1. [建议取消公务员35岁门槛](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%85%AC%E5%8A%A1%E5%91%9835%E5%B2%81%E9%97%A8%E6%A7%9B%23&t=31&band_rank=1&Refer=top)<br />
 2. [东方甄选将董宇辉商标转让给与辉同行](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%B0%86%E8%91%A3%E5%AE%87%E8%BE%89%E5%95%86%E6%A0%87%E8%BD%AC%E8%AE%A9%E7%BB%99%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%23&t=31&band_rank=2&Refer=top)<br />
-3. [全国两会现场的妇女节祝福](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E7%8E%B0%E5%9C%BA%E7%9A%84%E5%A6%87%E5%A5%B3%E8%8A%82%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=3&Refer=top)<br />
+3. [中国外交的态度与温度](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E7%9A%84%E6%80%81%E5%BA%A6%E4%B8%8E%E6%B8%A9%E5%BA%A6%23&t=31&band_rank=3&Refer=top)<br />
 4. [SM你是真的饿了](https://s.weibo.com/weibo?q=%23SM%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E9%A5%BF%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [乌合麒麟 代表日本漫画的黄金时代落幕了](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%20%E4%BB%A3%E8%A1%A8%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E7%9A%84%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%E8%90%BD%E5%B9%95%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [刑法第二十条已被唤醒](https://s.weibo.com/weibo?q=%23%E5%88%91%E6%B3%95%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%E5%B7%B2%E8%A2%AB%E5%94%A4%E9%86%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [妇女节快乐](https://s.weibo.com/weibo?q=%23%E5%A6%87%E5%A5%B3%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [鸟山明去世](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [茅台公开高管薪酬](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%85%AC%E5%BC%80%E9%AB%98%E7%AE%A1%E8%96%AA%E9%85%AC%23&t=31&band_rank=9&Refer=top)<br />
+8. [全国两会现场的妇女节祝福](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E7%8E%B0%E5%9C%BA%E7%9A%84%E5%A6%87%E5%A5%B3%E8%8A%82%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [鸟山明去世](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
