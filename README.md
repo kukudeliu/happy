@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 20:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 20:17:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [日本单亲妈妈来中国后](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%90%8E&t=31&band_rank=4&Refer=top)<br />
 5. [代号鸢 你的美工是神](https://s.weibo.com/weibo?q=%E4%BB%A3%E5%8F%B7%E9%B8%A2%20%E4%BD%A0%E7%9A%84%E7%BE%8E%E5%B7%A5%E6%98%AF%E7%A5%9E&t=31&band_rank=5&Refer=top)<br />
 6. [鸟山明去世](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [樊振东太强了](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%A4%AA%E5%BC%BA%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [我想和你唱 姐姐真漂亮](https://s.weibo.com/weibo?q=%E6%88%91%E6%83%B3%E5%92%8C%E4%BD%A0%E5%94%B1%20%E5%A7%90%E5%A7%90%E7%9C%9F%E6%BC%82%E4%BA%AE&t=31&band_rank=8&Refer=top)<br />
+7. [我想和你唱 姐姐真漂亮](https://s.weibo.com/weibo?q=%E6%88%91%E6%83%B3%E5%92%8C%E4%BD%A0%E5%94%B1%20%E5%A7%90%E5%A7%90%E7%9C%9F%E6%BC%82%E4%BA%AE&t=31&band_rank=7&Refer=top)<br />
+8. [樊振东太强了](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%A4%AA%E5%BC%BA%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [建议取消公务员35岁门槛](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%85%AC%E5%8A%A1%E5%91%9835%E5%B2%81%E9%97%A8%E6%A7%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
