@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 16:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 16:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鸟山明去世](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [东部战区陆军首个女子导弹排](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E9%99%86%E5%86%9B%E9%A6%96%E4%B8%AA%E5%A5%B3%E5%AD%90%E5%AF%BC%E5%BC%B9%E6%8E%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [刑法第二十条已被唤醒](https://s.weibo.com/weibo?q=%23%E5%88%91%E6%B3%95%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%E5%B7%B2%E8%A2%AB%E5%94%A4%E9%86%92%23&t=31&band_rank=8&Refer=top)<br />
-9. [东方甄选将董宇辉商标转让给与辉同行](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%B0%86%E8%91%A3%E5%AE%87%E8%BE%89%E5%95%86%E6%A0%87%E8%BD%AC%E8%AE%A9%E7%BB%99%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [外交部对鸟山明去世表示哀悼](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%AF%B9%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
