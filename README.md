@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 10:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 10:38:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [建议取消公务员35岁门槛](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E5%85%AC%E5%8A%A1%E5%91%9835%E5%B2%81%E9%97%A8%E6%A7%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [医院回应护士称拒绝给患者当儿媳被投诉](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%8A%A4%E5%A3%AB%E7%A7%B0%E6%8B%92%E7%BB%9D%E7%BB%99%E6%82%A3%E8%80%85%E5%BD%93%E5%84%BF%E5%AA%B3%E8%A2%AB%E6%8A%95%E8%AF%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [亚洲首富小儿子的婚礼](https://s.weibo.com/weibo?q=%E4%BA%9A%E6%B4%B2%E9%A6%96%E5%AF%8C%E5%B0%8F%E5%84%BF%E5%AD%90%E7%9A%84%E5%A9%9A%E7%A4%BC&t=31&band_rank=8&Refer=top)<br />
-9. [妇女能顶半边天](https://s.weibo.com/weibo?q=%E5%A6%87%E5%A5%B3%E8%83%BD%E9%A1%B6%E5%8D%8A%E8%BE%B9%E5%A4%A9&t=31&band_rank=9&Refer=top)<br />
+9. [刑法第二十条已被唤醒](https://s.weibo.com/weibo?q=%23%E5%88%91%E6%B3%95%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%E5%B7%B2%E8%A2%AB%E5%94%A4%E9%86%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
