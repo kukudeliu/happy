@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 21:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 21:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [剑来 陈哲远](https://s.weibo.com/weibo?q=%E5%89%91%E6%9D%A5%20%E9%99%88%E5%93%B2%E8%BF%9C&t=31&band_rank=6&Refer=top)<br />
 7. [大理寺少卿游 半是蜜糖半是伤](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%90%86%E5%AF%BA%E5%B0%91%E5%8D%BF%E6%B8%B8%20%E5%8D%8A%E6%98%AF%E8%9C%9C%E7%B3%96%E5%8D%8A%E6%98%AF%E4%BC%A4&t=31&band_rank=7&Refer=top)<br />
 8. [瘦子Ella新片演情侣](https://s.weibo.com/weibo?q=%23%E7%98%A6%E5%AD%90Ella%E6%96%B0%E7%89%87%E6%BC%94%E6%83%85%E4%BE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [鸟山明曾称妻子是他创作的救星](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B1%B1%E6%98%8E%E6%9B%BE%E7%A7%B0%E5%A6%BB%E5%AD%90%E6%98%AF%E4%BB%96%E5%88%9B%E4%BD%9C%E7%9A%84%E6%95%91%E6%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [日本单亲妈妈来中国后](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%90%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
