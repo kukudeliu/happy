@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 09:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 09:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [妇女能顶半边天](https://s.weibo.com/weibo?q=%E5%A6%87%E5%A5%B3%E8%83%BD%E9%A1%B6%E5%8D%8A%E8%BE%B9%E5%A4%A9&t=31&band_rank=6&Refer=top)<br />
 7. [妇女节](https://s.weibo.com/weibo?q=%E5%A6%87%E5%A5%B3%E8%8A%82&t=31&band_rank=7&Refer=top)<br />
 8. [老板妇女节发120万给女员工让留着自己花](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%A6%87%E5%A5%B3%E8%8A%82%E5%8F%91120%E4%B8%87%E7%BB%99%E5%A5%B3%E5%91%98%E5%B7%A5%E8%AE%A9%E7%95%99%E7%9D%80%E8%87%AA%E5%B7%B1%E8%8A%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [杭州小伙买100万黄金一年赚50%](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%B0%8F%E4%BC%99%E4%B9%B0100%E4%B8%87%E9%BB%84%E9%87%91%E4%B8%80%E5%B9%B4%E8%B5%9A50%25%23&t=31&band_rank=9&Refer=top)<br />
+9. [上海中山医院辟谣张学友住进ICU](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B1%B1%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3%E5%BC%A0%E5%AD%A6%E5%8F%8B%E4%BD%8F%E8%BF%9BICU%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
