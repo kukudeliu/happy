@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 11:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 11:17:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [劳荣枝案写入最高法工作报告](https://s.weibo.com/weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E6%A1%88%E5%86%99%E5%85%A5%E6%9C%80%E9%AB%98%E6%B3%95%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&t=31&band_rank=6&Refer=top)<br />
 7. [爱奇艺3月片单](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA3%E6%9C%88%E7%89%87%E5%8D%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [国家线](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=8&Refer=top)<br />
-9. [盒马降薪](https://s.weibo.com/weibo?q=%23%E7%9B%92%E9%A9%AC%E9%99%8D%E8%96%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [鸟山明去世](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
