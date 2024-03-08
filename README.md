@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 08:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 08:57:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [2024中国向“新”发力](https://www.baidu.com/s?wd=2024%E4%B8%AD%E5%9B%BD%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [93岁太奶奶和不足1岁宝宝同框](https://www.baidu.com/s?wd=93%E5%B2%81%E5%A4%AA%E5%A5%B6%E5%A5%B6%E5%92%8C%E4%B8%8D%E8%B6%B31%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%90%8C%E6%A1%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瑞典正式加入北约](https://www.baidu.com/s?wd=%E7%91%9E%E5%85%B8%E6%AD%A3%E5%BC%8F%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [瓦利耶娃被俄罗斯国家队除名](https://www.baidu.com/s?wd=%E7%93%A6%E5%88%A9%E8%80%B6%E5%A8%83%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%99%A4%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [巧合还是配合？CNN跟拍菲海警船碰瓷](https://www.baidu.com/s?wd=%E5%B7%A7%E5%90%88%E8%BF%98%E6%98%AF%E9%85%8D%E5%90%88%EF%BC%9FCNN%E8%B7%9F%E6%8B%8D%E8%8F%B2%E6%B5%B7%E8%AD%A6%E8%88%B9%E7%A2%B0%E7%93%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [上海中山医院否认张学友住进ICU](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B1%B1%E5%8C%BB%E9%99%A2%E5%90%A6%E8%AE%A4%E5%BC%A0%E5%AD%A6%E5%8F%8B%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [瓦利耶娃被俄罗斯国家队除名](https://www.baidu.com/s?wd=%E7%93%A6%E5%88%A9%E8%80%B6%E5%A8%83%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%99%A4%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京未开放个人申领三代社保卡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%AA%E5%BC%80%E6%94%BE%E4%B8%AA%E4%BA%BA%E7%94%B3%E9%A2%86%E4%B8%89%E4%BB%A3%E7%A4%BE%E4%BF%9D%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [2024中国向“新”发力](https://www.baidu.com/s?wd=2024%E4%B8%AD%E5%9B%BD%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E5%8F%91%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [93岁太奶奶和不足1岁宝宝同框](https://www.baidu.com/s?wd=93%E5%B2%81%E5%A4%AA%E5%A5%B6%E5%A5%B6%E5%92%8C%E4%B8%8D%E8%B6%B31%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%90%8C%E6%A1%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [瑞典正式加入北约](https://www.baidu.com/s?wd=%E7%91%9E%E5%85%B8%E6%AD%A3%E5%BC%8F%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [瓦利耶娃被俄罗斯国家队除名](https://www.baidu.com/s?wd=%E7%93%A6%E5%88%A9%E8%80%B6%E5%A8%83%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%99%A4%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [巧合还是配合？CNN跟拍菲海警船碰瓷](https://www.baidu.com/s?wd=%E5%B7%A7%E5%90%88%E8%BF%98%E6%98%AF%E9%85%8D%E5%90%88%EF%BC%9FCNN%E8%B7%9F%E6%8B%8D%E8%8F%B2%E6%B5%B7%E8%AD%A6%E8%88%B9%E7%A2%B0%E7%93%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [上海中山医院否认张学友住进ICU](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B1%B1%E5%8C%BB%E9%99%A2%E5%90%A6%E8%AE%A4%E5%BC%A0%E5%AD%A6%E5%8F%8B%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [瓦利耶娃被俄罗斯国家队除名](https://www.baidu.com/s?wd=%E7%93%A6%E5%88%A9%E8%80%B6%E5%A8%83%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%99%A4%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京未开放个人申领三代社保卡](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%AA%E5%BC%80%E6%94%BE%E4%B8%AA%E4%BA%BA%E7%94%B3%E9%A2%86%E4%B8%89%E4%BB%A3%E7%A4%BE%E4%BF%9D%E5%8D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
