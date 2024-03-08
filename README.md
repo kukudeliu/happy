@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 14:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 14:19:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [SM你是真的饿了](https://s.weibo.com/weibo?q=%23SM%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E9%A5%BF%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [茅台公开高管薪酬](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%85%AC%E5%BC%80%E9%AB%98%E7%AE%A1%E8%96%AA%E9%85%AC%23&t=31&band_rank=6&Refer=top)<br />
 7. [刑法第二十条已被唤醒](https://s.weibo.com/weibo?q=%23%E5%88%91%E6%B3%95%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%E5%B7%B2%E8%A2%AB%E5%94%A4%E9%86%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [Jennie合作曲公开](https://s.weibo.com/weibo?q=%23Jennie%E5%90%88%E4%BD%9C%E6%9B%B2%E5%85%AC%E5%BC%80%23&t=31&band_rank=8&Refer=top)<br />
+8. [张学友疑因上呼吸道感染就医](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%A6%E5%8F%8B%E7%96%91%E5%9B%A0%E4%B8%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=8&Refer=top)<br />
 9. [阿拉蕾](https://s.weibo.com/weibo?q=%E9%98%BF%E6%8B%89%E8%95%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
