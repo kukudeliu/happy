@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 22:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-08 22:24:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [与凤行定档](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C%E5%AE%9A%E6%A1%A3&t=31&band_rank=4&Refer=top)<br />
 5. [周鸿祎称国内PPT泛滥成灾](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%A7%B0%E5%9B%BD%E5%86%85PPT%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%23&t=31&band_rank=5&Refer=top)<br />
 6. [鸟山明年收入达7200万元](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%B9%B4%E6%94%B6%E5%85%A5%E8%BE%BE7200%E4%B8%87%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [卡戴珊一家都在哪做头发](https://s.weibo.com/weibo?q=%E5%8D%A1%E6%88%B4%E7%8F%8A%E4%B8%80%E5%AE%B6%E9%83%BD%E5%9C%A8%E5%93%AA%E5%81%9A%E5%A4%B4%E5%8F%91&t=31&band_rank=7&Refer=top)<br />
-8. [朴振英坐高铁去哪了](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%8C%AF%E8%8B%B1%E5%9D%90%E9%AB%98%E9%93%81%E5%8E%BB%E5%93%AA%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [代表建议为适龄女性免费接种HPV疫苗](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E4%B8%BA%E9%80%82%E9%BE%84%E5%A5%B3%E6%80%A7%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8DHPV%E7%96%AB%E8%8B%97%23&t=31&band_rank=9&Refer=top)<br />
+7. [大学老师不让小学儿子写无效作业](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E4%B8%8D%E8%AE%A9%E5%B0%8F%E5%AD%A6%E5%84%BF%E5%AD%90%E5%86%99%E6%97%A0%E6%95%88%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [卡戴珊一家都在哪做头发](https://s.weibo.com/weibo?q=%E5%8D%A1%E6%88%B4%E7%8F%8A%E4%B8%80%E5%AE%B6%E9%83%BD%E5%9C%A8%E5%93%AA%E5%81%9A%E5%A4%B4%E5%8F%91&t=31&band_rank=8&Refer=top)<br />
+9. [朴振英坐高铁去哪了](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%8C%AF%E8%8B%B1%E5%9D%90%E9%AB%98%E9%93%81%E5%8E%BB%E5%93%AA%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
