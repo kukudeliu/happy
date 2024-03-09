@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 11:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 11:41:02</h4></div>
 
 > 微博  
 
 1. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=1&Refer=top)<br />
-2. [金价杀疯了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+2. [教资答案](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E7%AD%94%E6%A1%88&t=31&band_rank=2&Refer=top)<br />
 3. [最高法工作报告](https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%AB%98%E6%B3%95%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&t=31&band_rank=3&Refer=top)<br />
-4. [教资答案](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E7%AD%94%E6%A1%88&t=31&band_rank=4&Refer=top)<br />
+4. [金价杀疯了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [赵丽颖是主演也是监制](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%AF%E4%B8%BB%E6%BC%94%E4%B9%9F%E6%98%AF%E7%9B%91%E5%88%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [教资作文](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E4%BD%9C%E6%96%87&t=31&band_rank=6&Refer=top)<br />
 7. [节育环真的是让子宫不断发炎来避孕吗](https://s.weibo.com/weibo?q=%23%E8%8A%82%E8%82%B2%E7%8E%AF%E7%9C%9F%E7%9A%84%E6%98%AF%E8%AE%A9%E5%AD%90%E5%AE%AB%E4%B8%8D%E6%96%AD%E5%8F%91%E7%82%8E%E6%9D%A5%E9%81%BF%E5%AD%95%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
