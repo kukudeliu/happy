@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 19:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 19:14:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [住建部：资不抵债房企该破产破产](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E8%B5%84%E4%B8%8D%E6%8A%B5%E5%80%BA%E6%88%BF%E4%BC%81%E8%AF%A5%E7%A0%B4%E4%BA%A7%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚定文化自信 赓续历史文脉](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%9A%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1+%E8%B5%93%E7%BB%AD%E5%8E%86%E5%8F%B2%E6%96%87%E8%84%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [00后老师用素颜自拍照让学生练PS](https://www.baidu.com/s?wd=00%E5%90%8E%E8%80%81%E5%B8%88%E7%94%A8%E7%B4%A0%E9%A2%9C%E8%87%AA%E6%8B%8D%E7%85%A7%E8%AE%A9%E5%AD%A6%E7%94%9F%E7%BB%83PS&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子连续5年被老妈带去看精神病](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E7%BB%AD5%E5%B9%B4%E8%A2%AB%E8%80%81%E5%A6%88%E5%B8%A6%E5%8E%BB%E7%9C%8B%E7%B2%BE%E7%A5%9E%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [加沙地带5人被空投援助物资击中致死](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A65%E4%BA%BA%E8%A2%AB%E7%A9%BA%E6%8A%95%E6%8F%B4%E5%8A%A9%E7%89%A9%E8%B5%84%E5%87%BB%E4%B8%AD%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [人社部部长划重点这些工作需求量大](https://www.baidu.com/s?wd=%E4%BA%BA%E7%A4%BE%E9%83%A8%E9%83%A8%E9%95%BF%E5%88%92%E9%87%8D%E7%82%B9%E8%BF%99%E4%BA%9B%E5%B7%A5%E4%BD%9C%E9%9C%80%E6%B1%82%E9%87%8F%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子连续5年被老妈带去看精神病](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E7%BB%AD5%E5%B9%B4%E8%A2%AB%E8%80%81%E5%A6%88%E5%B8%A6%E5%8E%BB%E7%9C%8B%E7%B2%BE%E7%A5%9E%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#宇宙级复仇爽文是什么样的#](https://www.baidu.com/s?wd=%23%E5%AE%87%E5%AE%99%E7%BA%A7%E5%A4%8D%E4%BB%87%E7%88%BD%E6%96%87%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [住建部：资不抵债房企该破产破产](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E8%B5%84%E4%B8%8D%E6%8A%B5%E5%80%BA%E6%88%BF%E4%BC%81%E8%AF%A5%E7%A0%B4%E4%BA%A7%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚定文化自信 赓续历史文脉](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%9A%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1+%E8%B5%93%E7%BB%AD%E5%8E%86%E5%8F%B2%E6%96%87%E8%84%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [00后老师用素颜自拍照让学生练PS](https://www.baidu.com/s?wd=00%E5%90%8E%E8%80%81%E5%B8%88%E7%94%A8%E7%B4%A0%E9%A2%9C%E8%87%AA%E6%8B%8D%E7%85%A7%E8%AE%A9%E5%AD%A6%E7%94%9F%E7%BB%83PS&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子连续5年被老妈带去看精神病](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E7%BB%AD5%E5%B9%B4%E8%A2%AB%E8%80%81%E5%A6%88%E5%B8%A6%E5%8E%BB%E7%9C%8B%E7%B2%BE%E7%A5%9E%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [加沙地带5人被空投援助物资击中致死](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A65%E4%BA%BA%E8%A2%AB%E7%A9%BA%E6%8A%95%E6%8F%B4%E5%8A%A9%E7%89%A9%E8%B5%84%E5%87%BB%E4%B8%AD%E8%87%B4%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [人社部部长划重点这些工作需求量大](https://www.baidu.com/s?wd=%E4%BA%BA%E7%A4%BE%E9%83%A8%E9%83%A8%E9%95%BF%E5%88%92%E9%87%8D%E7%82%B9%E8%BF%99%E4%BA%9B%E5%B7%A5%E4%BD%9C%E9%9C%80%E6%B1%82%E9%87%8F%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子连续5年被老妈带去看精神病](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%9E%E7%BB%AD5%E5%B9%B4%E8%A2%AB%E8%80%81%E5%A6%88%E5%B8%A6%E5%8E%BB%E7%9C%8B%E7%B2%BE%E7%A5%9E%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#宇宙级复仇爽文是什么样的#](https://www.baidu.com/s?wd=%23%E5%AE%87%E5%AE%99%E7%BA%A7%E5%A4%8D%E4%BB%87%E7%88%BD%E6%96%87%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
