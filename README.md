@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 21:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 21:26:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [杭州警方通报男子抢劫珠宝店](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E6%8A%A2%E5%8A%AB%E7%8F%A0%E5%AE%9D%E5%BA%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [微信能不能改成部分人三天可见](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E4%B8%8D%E8%83%BD%E6%94%B9%E6%88%90%E9%83%A8%E5%88%86%E4%BA%BA%E4%B8%89%E5%A4%A9%E5%8F%AF%E8%A7%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [你好星期六](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=6&Refer=top)<br />
-7. [朱雀输给民间队](https://s.weibo.com/weibo?q=%E6%9C%B1%E9%9B%80%E8%BE%93%E7%BB%99%E6%B0%91%E9%97%B4%E9%98%9F&t=31&band_rank=7&Refer=top)<br />
-8. [徐佳莹演唱会嘉宾是汪苏泷](https://s.weibo.com/weibo?q=%E5%BE%90%E4%BD%B3%E8%8E%B9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E6%98%AF%E6%B1%AA%E8%8B%8F%E6%B3%B7&t=31&band_rank=8&Refer=top)<br />
-9. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=9&Refer=top)<br />
+7. [徐佳莹演唱会嘉宾是汪苏泷](https://s.weibo.com/weibo?q=%E5%BE%90%E4%BD%B3%E8%8E%B9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E6%98%AF%E6%B1%AA%E8%8B%8F%E6%B3%B7&t=31&band_rank=7&Refer=top)<br />
+8. [朱雀输给民间队](https://s.weibo.com/weibo?q=%E6%9C%B1%E9%9B%80%E8%BE%93%E7%BB%99%E6%B0%91%E9%97%B4%E9%98%9F&t=31&band_rank=8&Refer=top)<br />
+9. [演员尚梦初逝世](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%B0%9A%E6%A2%A6%E5%88%9D%E9%80%9D%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
