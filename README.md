@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 08:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 08:54:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [霉霉演唱会 樊振东](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%A8%8A%E6%8C%AF%E4%B8%9C&t=31&band_rank=6&Refer=top)<br />
 7. [减肥神药撑起一个国家](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E7%A5%9E%E8%8D%AF%E6%92%91%E8%B5%B7%E4%B8%80%E4%B8%AA%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [你叫我姐姐你多大呀](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AB%E6%88%91%E5%A7%90%E5%A7%90%E4%BD%A0%E5%A4%9A%E5%A4%A7%E5%91%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [蓝可儿等16人殒命酒店挂牌出售](https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%8F%AF%E5%84%BF%E7%AD%8916%E4%BA%BA%E6%AE%92%E5%91%BD%E9%85%92%E5%BA%97%E6%8C%82%E7%89%8C%E5%87%BA%E5%94%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [张志磊无缘卫冕拳王](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BF%97%E7%A3%8A%E6%97%A0%E7%BC%98%E5%8D%AB%E5%86%95%E6%8B%B3%E7%8E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
