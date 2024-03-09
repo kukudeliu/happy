@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 18:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 18:22:01</h4></div>
 
 > 微博  
 
 1. [建议返聘65岁以下退休教师](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%BF%94%E8%81%9865%E5%B2%81%E4%BB%A5%E4%B8%8B%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%23&t=31&band_rank=1&Refer=top)<br />
-2. [女子吃麻辣烫被乱数签多算123元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%A2%AB%E4%B9%B1%E6%95%B0%E7%AD%BE%E5%A4%9A%E7%AE%97123%E5%85%83%23&t=31&band_rank=2&Refer=top)<br />
+2. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=2&Refer=top)<br />
 3. [民生主题记者会](https://s.weibo.com/weibo?q=%23%E6%B0%91%E7%94%9F%E4%B8%BB%E9%A2%98%E8%AE%B0%E8%80%85%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
-4. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=4&Refer=top)<br />
+4. [女子吃麻辣烫被乱数签多算123元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%A2%AB%E4%B9%B1%E6%95%B0%E7%AD%BE%E5%A4%9A%E7%AE%97123%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [韩国在日本进口糖果中检测出少量铯](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%B3%96%E6%9E%9C%E4%B8%AD%E6%A3%80%E6%B5%8B%E5%87%BA%E5%B0%91%E9%87%8F%E9%93%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [苹果 无聊的水果](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%20%E6%97%A0%E8%81%8A%E7%9A%84%E6%B0%B4%E6%9E%9C&t=31&band_rank=6&Refer=top)<br />
 7. [李现杀回现偶了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%9D%80%E5%9B%9E%E7%8E%B0%E5%81%B6%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
