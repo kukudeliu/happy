@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 23:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 23:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [韩在日本进口糖果中检出放射性物质](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%B3%96%E6%9E%9C%E4%B8%AD%E6%A3%80%E5%87%BA%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [人社部部长划重点这些工作需求量大](https://www.baidu.com/s?wd=%E4%BA%BA%E7%A4%BE%E9%83%A8%E9%83%A8%E9%95%BF%E5%88%92%E9%87%8D%E7%82%B9%E8%BF%99%E4%BA%9B%E5%B7%A5%E4%BD%9C%E9%9C%80%E6%B1%82%E9%87%8F%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [朱梓骁节目中怒批纪凌尘](https://www.baidu.com/s?wd=%E6%9C%B1%E6%A2%93%E9%AA%81%E8%8A%82%E7%9B%AE%E4%B8%AD%E6%80%92%E6%89%B9%E7%BA%AA%E5%87%8C%E5%B0%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [追尾兰博基尼司机不是开网约车的](https://www.baidu.com/s?wd=%E8%BF%BD%E5%B0%BE%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E5%8F%B8%E6%9C%BA%E4%B8%8D%E6%98%AF%E5%BC%80%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [代表称被逼做主播2年卖出3亿农货](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E7%A7%B0%E8%A2%AB%E9%80%BC%E5%81%9A%E4%B8%BB%E6%92%AD2%E5%B9%B4%E5%8D%96%E5%87%BA3%E4%BA%BF%E5%86%9C%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [韩在日本进口糖果中检出放射性物质](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%B3%96%E6%9E%9C%E4%B8%AD%E6%A3%80%E5%87%BA%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [人社部部长划重点这些工作需求量大](https://www.baidu.com/s?wd=%E4%BA%BA%E7%A4%BE%E9%83%A8%E9%83%A8%E9%95%BF%E5%88%92%E9%87%8D%E7%82%B9%E8%BF%99%E4%BA%9B%E5%B7%A5%E4%BD%9C%E9%9C%80%E6%B1%82%E9%87%8F%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [朱梓骁节目中怒批纪凌尘](https://www.baidu.com/s?wd=%E6%9C%B1%E6%A2%93%E9%AA%81%E8%8A%82%E7%9B%AE%E4%B8%AD%E6%80%92%E6%89%B9%E7%BA%AA%E5%87%8C%E5%B0%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [追尾兰博基尼司机不是开网约车的](https://www.baidu.com/s?wd=%E8%BF%BD%E5%B0%BE%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E5%8F%B8%E6%9C%BA%E4%B8%8D%E6%98%AF%E5%BC%80%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [代表称被逼做主播2年卖出3亿农货](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E7%A7%B0%E8%A2%AB%E9%80%BC%E5%81%9A%E4%B8%BB%E6%92%AD2%E5%B9%B4%E5%8D%96%E5%87%BA3%E4%BA%BF%E5%86%9C%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
