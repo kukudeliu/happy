@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 08:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 08:51:01</h4></div>
 
 > 微博  
 
 1. [金价杀疯了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [小夫妻花5000元办了场极极极简婚礼](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AB%E5%A6%BB%E8%8A%B15000%E5%85%83%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%9E%81%E6%9E%81%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=2&Refer=top)<br />
 3. [最高法工作报告](https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%AB%98%E6%B3%95%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&t=31&band_rank=3&Refer=top)<br />
-4. [霉霉演唱会 樊振东](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%A8%8A%E6%8C%AF%E4%B8%9C&t=31&band_rank=4&Refer=top)<br />
-5. [35岁女儿离婚父亲安慰说都过去了](https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%A5%B3%E5%84%BF%E7%A6%BB%E5%A9%9A%E7%88%B6%E4%BA%B2%E5%AE%89%E6%85%B0%E8%AF%B4%E9%83%BD%E8%BF%87%E5%8E%BB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [蓝可儿等16人殒命酒店挂牌出售](https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%8F%AF%E5%84%BF%E7%AD%8916%E4%BA%BA%E6%AE%92%E5%91%BD%E9%85%92%E5%BA%97%E6%8C%82%E7%89%8C%E5%87%BA%E5%94%AE%23&t=31&band_rank=6&Refer=top)<br />
-7. [减肥神药撑起一个国家](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E7%A5%9E%E8%8D%AF%E6%92%91%E8%B5%B7%E4%B8%80%E4%B8%AA%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=7&Refer=top)<br />
+4. [35岁女儿离婚父亲安慰说都过去了](https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%A5%B3%E5%84%BF%E7%A6%BB%E5%A9%9A%E7%88%B6%E4%BA%B2%E5%AE%89%E6%85%B0%E8%AF%B4%E9%83%BD%E8%BF%87%E5%8E%BB%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+5. [霉霉演唱会 樊振东](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%A8%8A%E6%8C%AF%E4%B8%9C&t=31&band_rank=5&Refer=top)<br />
+6. [减肥神药撑起一个国家](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E7%A5%9E%E8%8D%AF%E6%92%91%E8%B5%B7%E4%B8%80%E4%B8%AA%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=6&Refer=top)<br />
+7. [蓝可儿等16人殒命酒店挂牌出售](https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%8F%AF%E5%84%BF%E7%AD%8916%E4%BA%BA%E6%AE%92%E5%91%BD%E9%85%92%E5%BA%97%E6%8C%82%E7%89%8C%E5%87%BA%E5%94%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [中方回应印度在中印边境部署1万士兵](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8D%B0%E5%BA%A6%E5%9C%A8%E4%B8%AD%E5%8D%B0%E8%BE%B9%E5%A2%83%E9%83%A8%E7%BD%B21%E4%B8%87%E5%A3%AB%E5%85%B5%23&t=31&band_rank=8&Refer=top)<br />
 9. [你叫我姐姐你多大呀](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AB%E6%88%91%E5%A7%90%E5%A7%90%E4%BD%A0%E5%A4%9A%E5%A4%A7%E5%91%80%23&t=31&band_rank=9&Refer=top)<br />
 
