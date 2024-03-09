@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 16:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 16:25:01</h4></div>
 
 > 微博  
 
@@ -10,14 +10,14 @@
 6. [教资科二](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E7%A7%91%E4%BA%8C&t=31&band_rank=6&Refer=top)<br />
 7. [腾讯芒果要打起来了](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%8A%92%E6%9E%9C%E8%A6%81%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [楚乔传与凤行齐上阵](https://s.weibo.com/weibo?q=%23%E6%A5%9A%E4%B9%94%E4%BC%A0%E4%B8%8E%E5%87%A4%E8%A1%8C%E9%BD%90%E4%B8%8A%E9%98%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [蒲熠星带猫去献血](https://s.weibo.com/weibo?q=%E8%92%B2%E7%86%A0%E6%98%9F%E5%B8%A6%E7%8C%AB%E5%8E%BB%E7%8C%AE%E8%A1%80&t=31&band_rank=9&Refer=top)<br />
+9. [十四届全国人大二次会议记者会](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E8%AE%B0%E8%80%85%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 
 > 百度  
 
-1. [事关强国强军 习主席发出新号令](https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E5%BC%BA%E5%9B%BD%E5%BC%BA%E5%86%9B+%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%8F%91%E5%87%BA%E6%96%B0%E5%8F%B7%E4%BB%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [重磅微视频｜信念](https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%E5%BE%AE%E8%A7%86%E9%A2%91%EF%BD%9C%E4%BF%A1%E5%BF%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [老师打电话屏幕上涌出一堆小脑袋](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%89%93%E7%94%B5%E8%AF%9D%E5%B1%8F%E5%B9%95%E4%B8%8A%E6%B6%8C%E5%87%BA%E4%B8%80%E5%A0%86%E5%B0%8F%E8%84%91%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [小夫妻花5000元办了场极简婚礼](https://www.baidu.com/s?wd=%E5%B0%8F%E5%A4%AB%E5%A6%BB%E8%8A%B15000%E5%85%83%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚定文化自信 赓续历史文脉](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%9A%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1+%E8%B5%93%E7%BB%AD%E5%8E%86%E5%8F%B2%E6%96%87%E8%84%89&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [事关强国强军 习主席发出新号令](https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E5%BC%BA%E5%9B%BD%E5%BC%BA%E5%86%9B+%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%8F%91%E5%87%BA%E6%96%B0%E5%8F%B7%E4%BB%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [重磅微视频｜信念](https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%E5%BE%AE%E8%A7%86%E9%A2%91%EF%BD%9C%E4%BF%A1%E5%BF%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [老师打电话屏幕上涌出一堆小脑袋](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%89%93%E7%94%B5%E8%AF%9D%E5%B1%8F%E5%B9%95%E4%B8%8A%E6%B6%8C%E5%87%BA%E4%B8%80%E5%A0%86%E5%B0%8F%E8%84%91%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [小夫妻花5000元办了场极简婚礼](https://www.baidu.com/s?wd=%E5%B0%8F%E5%A4%AB%E5%A6%BB%E8%8A%B15000%E5%85%83%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚定文化自信 赓续历史文脉](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%9A%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1+%E8%B5%93%E7%BB%AD%E5%8E%86%E5%8F%B2%E6%96%87%E8%84%89&sa=fyb_news&rsv_dl=fyb_news)<br />
