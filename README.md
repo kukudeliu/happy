@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 11:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 11:54:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [赵丽颖是主演也是监制](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%AF%E4%B8%BB%E6%BC%94%E4%B9%9F%E6%98%AF%E7%9B%91%E5%88%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [金价杀疯了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [腾讯芒果要打起来了](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%8A%92%E6%9E%9C%E8%A6%81%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [教资作文](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E4%BD%9C%E6%96%87&t=31&band_rank=7&Refer=top)<br />
+7. [教资选择 难](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E9%80%89%E6%8B%A9%20%E9%9A%BE&t=31&band_rank=7&Refer=top)<br />
 8. [吵架炸出来疑似北大教授](https://s.weibo.com/weibo?q=%E5%90%B5%E6%9E%B6%E7%82%B8%E5%87%BA%E6%9D%A5%E7%96%91%E4%BC%BC%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88&t=31&band_rank=8&Refer=top)<br />
-9. [教资选择 难](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E9%80%89%E6%8B%A9%20%E9%9A%BE&t=31&band_rank=9&Refer=top)<br />
+9. [教资作文](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E4%BD%9C%E6%96%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
