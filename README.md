@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 21:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 21:51:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [总书记眼中的“顶梁柱”](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9C%BC%E4%B8%AD%E7%9A%84%E2%80%9C%E9%A1%B6%E6%A2%81%E6%9F%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [住建部：资不抵债房企该破产破产](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E8%B5%84%E4%B8%8D%E6%8A%B5%E5%80%BA%E6%88%BF%E4%BC%81%E8%AF%A5%E7%A0%B4%E4%BA%A7%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [李彦宏说人人将有程序员能力](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BD%A6%E5%AE%8F%E8%AF%B4%E4%BA%BA%E4%BA%BA%E5%B0%86%E6%9C%89%E7%A8%8B%E5%BA%8F%E5%91%98%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [江西青龙帮案最后一名嫌疑人落网](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%9D%92%E9%BE%99%E5%B8%AE%E6%A1%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [两会新词热词来了](https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [韩在日本进口糖果中检出放射性物质](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%B3%96%E6%9E%9C%E4%B8%AD%E6%A3%80%E5%87%BA%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [彩电大王席卷了农村屋顶](https://www.baidu.com/s?wd=%E5%BD%A9%E7%94%B5%E5%A4%A7%E7%8E%8B%E5%B8%AD%E5%8D%B7%E4%BA%86%E5%86%9C%E6%9D%91%E5%B1%8B%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周末被领导艾特要不要回](https://www.baidu.com/s?wd=%E5%91%A8%E6%9C%AB%E8%A2%AB%E9%A2%86%E5%AF%BC%E8%89%BE%E7%89%B9%E8%A6%81%E4%B8%8D%E8%A6%81%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孩子高烧惊厥妈妈摔倒仍死死抱住](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E9%AB%98%E7%83%A7%E6%83%8A%E5%8E%A5%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E4%BB%8D%E6%AD%BB%E6%AD%BB%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [孩子高烧惊厥妈妈摔倒仍死死抱住](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E9%AB%98%E7%83%A7%E6%83%8A%E5%8E%A5%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E4%BB%8D%E6%AD%BB%E6%AD%BB%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周末被领导艾特要不要回](https://www.baidu.com/s?wd=%E5%91%A8%E6%9C%AB%E8%A2%AB%E9%A2%86%E5%AF%BC%E8%89%BE%E7%89%B9%E8%A6%81%E4%B8%8D%E8%A6%81%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [总书记眼中的“顶梁柱”](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9C%BC%E4%B8%AD%E7%9A%84%E2%80%9C%E9%A1%B6%E6%A2%81%E6%9F%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [住建部：资不抵债房企该破产破产](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E8%B5%84%E4%B8%8D%E6%8A%B5%E5%80%BA%E6%88%BF%E4%BC%81%E8%AF%A5%E7%A0%B4%E4%BA%A7%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [李彦宏说人人将有程序员能力](https://www.baidu.com/s?wd=%E6%9D%8E%E5%BD%A6%E5%AE%8F%E8%AF%B4%E4%BA%BA%E4%BA%BA%E5%B0%86%E6%9C%89%E7%A8%8B%E5%BA%8F%E5%91%98%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [江西青龙帮案最后一名嫌疑人落网](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%9D%92%E9%BE%99%E5%B8%AE%E6%A1%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [两会新词热词来了](https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [韩在日本进口糖果中检出放射性物质](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%B3%96%E6%9E%9C%E4%B8%AD%E6%A3%80%E5%87%BA%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [彩电大王席卷了农村屋顶](https://www.baidu.com/s?wd=%E5%BD%A9%E7%94%B5%E5%A4%A7%E7%8E%8B%E5%B8%AD%E5%8D%B7%E4%BA%86%E5%86%9C%E6%9D%91%E5%B1%8B%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [周末被领导艾特要不要回](https://www.baidu.com/s?wd=%E5%91%A8%E6%9C%AB%E8%A2%AB%E9%A2%86%E5%AF%BC%E8%89%BE%E7%89%B9%E8%A6%81%E4%B8%8D%E8%A6%81%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [孩子高烧惊厥妈妈摔倒仍死死抱住](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E9%AB%98%E7%83%A7%E6%83%8A%E5%8E%A5%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E4%BB%8D%E6%AD%BB%E6%AD%BB%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [孩子高烧惊厥妈妈摔倒仍死死抱住](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E9%AB%98%E7%83%A7%E6%83%8A%E5%8E%A5%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E4%BB%8D%E6%AD%BB%E6%AD%BB%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [周末被领导艾特要不要回](https://www.baidu.com/s?wd=%E5%91%A8%E6%9C%AB%E8%A2%AB%E9%A2%86%E5%AF%BC%E8%89%BE%E7%89%B9%E8%A6%81%E4%B8%8D%E8%A6%81%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
