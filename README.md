@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 08:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 08:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [中方回应印度在中印边境部署1万士兵](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8D%B0%E5%BA%A6%E5%9C%A8%E4%B8%AD%E5%8D%B0%E8%BE%B9%E5%A2%83%E9%83%A8%E7%BD%B21%E4%B8%87%E5%A3%AB%E5%85%B5%23&t=31&band_rank=5&Refer=top)<br />
 6. [减肥神药撑起一个国家](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E7%A5%9E%E8%8D%AF%E6%92%91%E8%B5%B7%E4%B8%80%E4%B8%AA%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [你叫我姐姐你多大呀](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AB%E6%88%91%E5%A7%90%E5%A7%90%E4%BD%A0%E5%A4%9A%E5%A4%A7%E5%91%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [霉霉演唱会 樊振东](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%A8%8A%E6%8C%AF%E4%B8%9C&t=31&band_rank=8&Refer=top)<br />
-9. [张志磊无缘卫冕拳王](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BF%97%E7%A3%8A%E6%97%A0%E7%BC%98%E5%8D%AB%E5%86%95%E6%8B%B3%E7%8E%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [张志磊无缘卫冕拳王](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BF%97%E7%A3%8A%E6%97%A0%E7%BC%98%E5%8D%AB%E5%86%95%E6%8B%B3%E7%8E%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [霉霉演唱会 樊振东](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%A8%8A%E6%8C%AF%E4%B8%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,7 +19,7 @@
 
 1. [十四届全国人大二次会议举行全会](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C%E5%85%A8%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [金价每天一涨 心动该不该行动](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%AF%8F%E5%A4%A9%E4%B8%80%E6%B6%A8+%E5%BF%83%E5%8A%A8%E8%AF%A5%E4%B8%8D%E8%AF%A5%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [娃哈哈遭抢购 暗藏“捧杀”隐忧](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E9%81%AD%E6%8A%A2%E8%B4%AD+%E6%9A%97%E8%97%8F%E2%80%9C%E6%8D%A7%E6%9D%80%E2%80%9D%E9%9A%90%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [代表建议提高教师准入门槛和福利](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%8F%90%E9%AB%98%E6%95%99%E5%B8%88%E5%87%86%E5%85%A5%E9%97%A8%E6%A7%9B%E5%92%8C%E7%A6%8F%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [如何培育壮大新质生产力？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E5%9F%B9%E8%82%B2%E5%A3%AE%E5%A4%A7%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [代表建议为适龄女性免费接种HPV疫苗](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E4%B8%BA%E9%80%82%E9%BE%84%E5%A5%B3%E6%80%A7%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8DHPV%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上百架军机从全球美军基地起飞](https://www.baidu.com/s?wd=%E4%B8%8A%E7%99%BE%E6%9E%B6%E5%86%9B%E6%9C%BA%E4%BB%8E%E5%85%A8%E7%90%83%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [十四届全国人大二次会议举行全会](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C%E5%85%A8%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [金价每天一涨 心动该不该行动](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%AF%8F%E5%A4%A9%E4%B8%80%E6%B6%A8+%E5%BF%83%E5%8A%A8%E8%AF%A5%E4%B8%8D%E8%AF%A5%E8%A1%8C%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [娃哈哈遭抢购 暗藏“捧杀”隐忧](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E9%81%AD%E6%8A%A2%E8%B4%AD+%E6%9A%97%E8%97%8F%E2%80%9C%E6%8D%A7%E6%9D%80%E2%80%9D%E9%9A%90%E5%BF%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [代表建议提高教师准入门槛和福利](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%8F%90%E9%AB%98%E6%95%99%E5%B8%88%E5%87%86%E5%85%A5%E9%97%A8%E6%A7%9B%E5%92%8C%E7%A6%8F%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [如何培育壮大新质生产力？](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E5%9F%B9%E8%82%B2%E5%A3%AE%E5%A4%A7%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [代表建议为适龄女性免费接种HPV疫苗](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E4%B8%BA%E9%80%82%E9%BE%84%E5%A5%B3%E6%80%A7%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8DHPV%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上百架军机从全球美军基地起飞](https://www.baidu.com/s?wd=%E4%B8%8A%E7%99%BE%E6%9E%B6%E5%86%9B%E6%9C%BA%E4%BB%8E%E5%85%A8%E7%90%83%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
