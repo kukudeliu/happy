@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 23:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 23:45:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [李权哲第二名出道](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%9D%83%E5%93%B2%E7%AC%AC%E4%BA%8C%E5%90%8D%E5%87%BA%E9%81%93%23&t=31&band_rank=5&Refer=top)<br />
 6. [微信能不能改成部分人三天可见](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E4%B8%8D%E8%83%BD%E6%94%B9%E6%88%90%E9%83%A8%E5%88%86%E4%BA%BA%E4%B8%89%E5%A4%A9%E5%8F%AF%E8%A7%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [月入过万你还会考研考公吗](https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E4%BD%A0%E8%BF%98%E4%BC%9A%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=8&Refer=top)<br />
-9. [奥利C位出道](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%88%A9C%E4%BD%8D%E5%87%BA%E9%81%93%23&t=31&band_rank=9&Refer=top)<br />
+8. [奥利C位出道](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%88%A9C%E4%BD%8D%E5%87%BA%E9%81%93%23&t=31&band_rank=8&Refer=top)<br />
+9. [建议返聘65岁以下退休教师](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%BF%94%E8%81%9865%E5%B2%81%E4%BB%A5%E4%B8%8B%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [韩在日本进口糖果中检出放射性物质](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%B3%96%E6%9E%9C%E4%B8%AD%E6%A3%80%E5%87%BA%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朱梓骁节目中怒批纪凌尘](https://www.baidu.com/s?wd=%E6%9C%B1%E6%A2%93%E9%AA%81%E8%8A%82%E7%9B%AE%E4%B8%AD%E6%80%92%E6%89%B9%E7%BA%AA%E5%87%8C%E5%B0%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [代表称被逼做主播2年卖出3亿农货](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E7%A7%B0%E8%A2%AB%E9%80%BC%E5%81%9A%E4%B8%BB%E6%92%AD2%E5%B9%B4%E5%8D%96%E5%87%BA3%E4%BA%BF%E5%86%9C%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [57岁泰森为何复出再战？](https://www.baidu.com/s?wd=57%E5%B2%81%E6%B3%B0%E6%A3%AE%E4%B8%BA%E4%BD%95%E5%A4%8D%E5%87%BA%E5%86%8D%E6%88%98%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育部：着力解决小眼镜小胖墩问题](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E7%9D%80%E5%8A%9B%E8%A7%A3%E5%86%B3%E5%B0%8F%E7%9C%BC%E9%95%9C%E5%B0%8F%E8%83%96%E5%A2%A9%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [韩在日本进口糖果中检出放射性物质](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%B3%96%E6%9E%9C%E4%B8%AD%E6%A3%80%E5%87%BA%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [朱梓骁节目中怒批纪凌尘](https://www.baidu.com/s?wd=%E6%9C%B1%E6%A2%93%E9%AA%81%E8%8A%82%E7%9B%AE%E4%B8%AD%E6%80%92%E6%89%B9%E7%BA%AA%E5%87%8C%E5%B0%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [代表称被逼做主播2年卖出3亿农货](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E7%A7%B0%E8%A2%AB%E9%80%BC%E5%81%9A%E4%B8%BB%E6%92%AD2%E5%B9%B4%E5%8D%96%E5%87%BA3%E4%BA%BF%E5%86%9C%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [57岁泰森为何复出再战？](https://www.baidu.com/s?wd=57%E5%B2%81%E6%B3%B0%E6%A3%AE%E4%B8%BA%E4%BD%95%E5%A4%8D%E5%87%BA%E5%86%8D%E6%88%98%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育部：着力解决小眼镜小胖墩问题](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E7%9D%80%E5%8A%9B%E8%A7%A3%E5%86%B3%E5%B0%8F%E7%9C%BC%E9%95%9C%E5%B0%8F%E8%83%96%E5%A2%A9%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
