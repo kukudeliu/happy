@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 22:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 22:09:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [韩在日本进口糖果中检出放射性物质](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%B3%96%E6%9E%9C%E4%B8%AD%E6%A3%80%E5%87%BA%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子高烧惊厥妈妈摔倒仍死死抱住](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E9%AB%98%E7%83%A7%E6%83%8A%E5%8E%A5%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E4%BB%8D%E6%AD%BB%E6%AD%BB%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本股市疯涨 散户排队离场](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%82%A1%E5%B8%82%E7%96%AF%E6%B6%A8+%E6%95%A3%E6%88%B7%E6%8E%92%E9%98%9F%E7%A6%BB%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江西青龙帮案最后一名嫌疑人落网](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%9D%92%E9%BE%99%E5%B8%AE%E6%A1%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子吃麻辣烫171元签子被数成294元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB171%E5%85%83%E7%AD%BE%E5%AD%90%E8%A2%AB%E6%95%B0%E6%88%90294%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [韩在日本进口糖果中检出放射性物质](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%B3%96%E6%9E%9C%E4%B8%AD%E6%A3%80%E5%87%BA%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子高烧惊厥妈妈摔倒仍死死抱住](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E9%AB%98%E7%83%A7%E6%83%8A%E5%8E%A5%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E4%BB%8D%E6%AD%BB%E6%AD%BB%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [日本股市疯涨 散户排队离场](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%82%A1%E5%B8%82%E7%96%AF%E6%B6%A8+%E6%95%A3%E6%88%B7%E6%8E%92%E9%98%9F%E7%A6%BB%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江西青龙帮案最后一名嫌疑人落网](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%9D%92%E9%BE%99%E5%B8%AE%E6%A1%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子吃麻辣烫171元签子被数成294元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB171%E5%85%83%E7%AD%BE%E5%AD%90%E8%A2%AB%E6%95%B0%E6%88%90294%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
