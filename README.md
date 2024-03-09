@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 08:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 08:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [霉霉演唱会 樊振东](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%A8%8A%E6%8C%AF%E4%B8%9C&t=31&band_rank=6&Refer=top)<br />
 7. [减肥神药撑起一个国家](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E7%A5%9E%E8%8D%AF%E6%92%91%E8%B5%B7%E4%B8%80%E4%B8%AA%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [娃哈哈logo](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88logo%23&t=31&band_rank=8&Refer=top)<br />
-9. [中方回应印度在中印边境部署1万士兵](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8D%B0%E5%BA%A6%E5%9C%A8%E4%B8%AD%E5%8D%B0%E8%BE%B9%E5%A2%83%E9%83%A8%E7%BD%B21%E4%B8%87%E5%A3%AB%E5%85%B5%23&t=31&band_rank=9&Refer=top)<br />
+9. [张志磊无缘卫冕拳王](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BF%97%E7%A3%8A%E6%97%A0%E7%BC%98%E5%8D%AB%E5%86%95%E6%8B%B3%E7%8E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
