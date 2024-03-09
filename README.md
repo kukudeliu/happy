@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 21:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 21:20:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [两会新词热词来了](https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子杭州抢劫 被捕时称有外交豁免权](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%AD%E5%B7%9E%E6%8A%A2%E5%8A%AB+%E8%A2%AB%E6%8D%95%E6%97%B6%E7%A7%B0%E6%9C%89%E5%A4%96%E4%BA%A4%E8%B1%81%E5%85%8D%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子高烧惊厥妈妈摔倒仍死死抱住](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E9%AB%98%E7%83%A7%E6%83%8A%E5%8E%A5%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E4%BB%8D%E6%AD%BB%E6%AD%BB%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老师打电话屏幕上涌出一堆小脑袋](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%89%93%E7%94%B5%E8%AF%9D%E5%B1%8F%E5%B9%95%E4%B8%8A%E6%B6%8C%E5%87%BA%E4%B8%80%E5%A0%86%E5%B0%8F%E8%84%91%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育部：着力解决小眼镜小胖墩问题](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E7%9D%80%E5%8A%9B%E8%A7%A3%E5%86%B3%E5%B0%8F%E7%9C%BC%E9%95%9C%E5%B0%8F%E8%83%96%E5%A2%A9%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子误食海芋中毒被送医](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E9%A3%9F%E6%B5%B7%E8%8A%8B%E4%B8%AD%E6%AF%92%E8%A2%AB%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老师打电话屏幕上涌出一堆小脑袋](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%89%93%E7%94%B5%E8%AF%9D%E5%B1%8F%E5%B9%95%E4%B8%8A%E6%B6%8C%E5%87%BA%E4%B8%80%E5%A0%86%E5%B0%8F%E8%84%91%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [两会新词热词来了](https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子杭州抢劫 被捕时称有外交豁免权](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%AD%E5%B7%9E%E6%8A%A2%E5%8A%AB+%E8%A2%AB%E6%8D%95%E6%97%B6%E7%A7%B0%E6%9C%89%E5%A4%96%E4%BA%A4%E8%B1%81%E5%85%8D%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [孩子高烧惊厥妈妈摔倒仍死死抱住](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E9%AB%98%E7%83%A7%E6%83%8A%E5%8E%A5%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E4%BB%8D%E6%AD%BB%E6%AD%BB%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老师打电话屏幕上涌出一堆小脑袋](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%89%93%E7%94%B5%E8%AF%9D%E5%B1%8F%E5%B9%95%E4%B8%8A%E6%B6%8C%E5%87%BA%E4%B8%80%E5%A0%86%E5%B0%8F%E8%84%91%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [教育部：着力解决小眼镜小胖墩问题](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E7%9D%80%E5%8A%9B%E8%A7%A3%E5%86%B3%E5%B0%8F%E7%9C%BC%E9%95%9C%E5%B0%8F%E8%83%96%E5%A2%A9%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子误食海芋中毒被送医](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E9%A3%9F%E6%B5%B7%E8%8A%8B%E4%B8%AD%E6%AF%92%E8%A2%AB%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老师打电话屏幕上涌出一堆小脑袋](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%89%93%E7%94%B5%E8%AF%9D%E5%B1%8F%E5%B9%95%E4%B8%8A%E6%B6%8C%E5%87%BA%E4%B8%80%E5%A0%86%E5%B0%8F%E8%84%91%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
