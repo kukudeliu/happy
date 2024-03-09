@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 14:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 14:55:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [暖人心、聚民心、强信心](https://www.baidu.com/s?wd=%E6%9A%96%E4%BA%BA%E5%BF%83%E3%80%81%E8%81%9A%E6%B0%91%E5%BF%83%E3%80%81%E5%BC%BA%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姑娘失明后成为一名盲人化妆师](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E5%A4%B1%E6%98%8E%E5%90%8E%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E7%9B%B2%E4%BA%BA%E5%8C%96%E5%A6%86%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杭州一兰博基尼被追尾后疑冒烟起火](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E8%A2%AB%E8%BF%BD%E5%B0%BE%E5%90%8E%E7%96%91%E5%86%92%E7%83%9F%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老师打电话屏幕上涌出一堆小脑袋](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%89%93%E7%94%B5%E8%AF%9D%E5%B1%8F%E5%B9%95%E4%B8%8A%E6%B6%8C%E5%87%BA%E4%B8%80%E5%A0%86%E5%B0%8F%E8%84%91%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子吃麻辣烫171元签子被数成294元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB171%E5%85%83%E7%AD%BE%E5%AD%90%E8%A2%AB%E6%95%B0%E6%88%90294%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [教资考试时间](https://www.baidu.com/s?wd=%E6%95%99%E8%B5%84%E8%80%83%E8%AF%95%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北汽集团辟谣将在韩国高阳建厂](https://www.baidu.com/s?wd=%E5%8C%97%E6%B1%BD%E9%9B%86%E5%9B%A2%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%9C%A8%E9%9F%A9%E5%9B%BD%E9%AB%98%E9%98%B3%E5%BB%BA%E5%8E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [暖人心、聚民心、强信心](https://www.baidu.com/s?wd=%E6%9A%96%E4%BA%BA%E5%BF%83%E3%80%81%E8%81%9A%E6%B0%91%E5%BF%83%E3%80%81%E5%BC%BA%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姑娘失明后成为一名盲人化妆师](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E5%A4%B1%E6%98%8E%E5%90%8E%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E7%9B%B2%E4%BA%BA%E5%8C%96%E5%A6%86%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杭州一兰博基尼被追尾后疑冒烟起火](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E8%A2%AB%E8%BF%BD%E5%B0%BE%E5%90%8E%E7%96%91%E5%86%92%E7%83%9F%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老师打电话屏幕上涌出一堆小脑袋](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%89%93%E7%94%B5%E8%AF%9D%E5%B1%8F%E5%B9%95%E4%B8%8A%E6%B6%8C%E5%87%BA%E4%B8%80%E5%A0%86%E5%B0%8F%E8%84%91%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子吃麻辣烫171元签子被数成294元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB171%E5%85%83%E7%AD%BE%E5%AD%90%E8%A2%AB%E6%95%B0%E6%88%90294%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [教资考试时间](https://www.baidu.com/s?wd=%E6%95%99%E8%B5%84%E8%80%83%E8%AF%95%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北汽集团辟谣将在韩国高阳建厂](https://www.baidu.com/s?wd=%E5%8C%97%E6%B1%BD%E9%9B%86%E5%9B%A2%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%9C%A8%E9%9F%A9%E5%9B%BD%E9%AB%98%E9%98%B3%E5%BB%BA%E5%8E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
