@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 21:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 21:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [朱雀输给民间队](https://s.weibo.com/weibo?q=%E6%9C%B1%E9%9B%80%E8%BE%93%E7%BB%99%E6%B0%91%E9%97%B4%E9%98%9F&t=31&band_rank=6&Refer=top)<br />
 7. [你好星期六](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=7&Refer=top)<br />
 8. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=8&Refer=top)<br />
-9. [解放军练兵备战打独促统](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%83%E5%85%B5%E5%A4%87%E6%88%98%E6%89%93%E7%8B%AC%E4%BF%83%E7%BB%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [徐佳莹演唱会嘉宾是汪苏泷](https://s.weibo.com/weibo?q=%E5%BE%90%E4%BD%B3%E8%8E%B9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E6%98%AF%E6%B1%AA%E8%8B%8F%E6%B3%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
