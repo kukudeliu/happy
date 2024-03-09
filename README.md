@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 21:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 21:35:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [微信能不能改成部分人三天可见](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E4%B8%8D%E8%83%BD%E6%94%B9%E6%88%90%E9%83%A8%E5%88%86%E4%BA%BA%E4%B8%89%E5%A4%A9%E5%8F%AF%E8%A7%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [徐佳莹演唱会嘉宾是汪苏泷](https://s.weibo.com/weibo?q=%E5%BE%90%E4%BD%B3%E8%8E%B9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E6%98%AF%E6%B1%AA%E8%8B%8F%E6%B3%B7&t=31&band_rank=6&Refer=top)<br />
 7. [奥利C位出道](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%88%A9C%E4%BD%8D%E5%87%BA%E9%81%93%23&t=31&band_rank=7&Refer=top)<br />
-8. [演员尚梦初逝世](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%B0%9A%E6%A2%A6%E5%88%9D%E9%80%9D%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [月入过万你还会考研考公吗](https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E4%BD%A0%E8%BF%98%E4%BC%9A%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [月入过万你还会考研考公吗](https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E4%BD%A0%E8%BF%98%E4%BC%9A%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [李权哲第二名出道](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%9D%83%E5%93%B2%E7%AC%AC%E4%BA%8C%E5%90%8D%E5%87%BA%E9%81%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
