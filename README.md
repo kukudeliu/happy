@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 20:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 20:04:01</h4></div>
 
 > 微博  
 
-1. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=1&Refer=top)<br />
-2. [南大一48岁博士生8年未毕业被劝退](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%A4%A7%E4%B8%8048%E5%B2%81%E5%8D%9A%E5%A3%AB%E7%94%9F8%E5%B9%B4%E6%9C%AA%E6%AF%95%E4%B8%9A%E8%A2%AB%E5%8A%9D%E9%80%80%23&t=31&band_rank=2&Refer=top)<br />
+1. [南大一48岁博士生8年未毕业被劝退](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%A4%A7%E4%B8%8048%E5%B2%81%E5%8D%9A%E5%A3%AB%E7%94%9F8%E5%B9%B4%E6%9C%AA%E6%AF%95%E4%B8%9A%E8%A2%AB%E5%8A%9D%E9%80%80%23&t=31&band_rank=1&Refer=top)<br />
+2. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=2&Refer=top)<br />
 3. [民生主题记者会](https://s.weibo.com/weibo?q=%23%E6%B0%91%E7%94%9F%E4%B8%BB%E9%A2%98%E8%AE%B0%E8%80%85%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [微信能不能改成部分人三天可见](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E4%B8%8D%E8%83%BD%E6%94%B9%E6%88%90%E9%83%A8%E5%88%86%E4%BA%BA%E4%B8%89%E5%A4%A9%E5%8F%AF%E8%A7%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [解放军练兵备战打独促统](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%83%E5%85%B5%E5%A4%87%E6%88%98%E6%89%93%E7%8B%AC%E4%BF%83%E7%BB%9F%23&t=31&band_rank=5&Refer=top)<br />
@@ -23,7 +23,7 @@
 4. [坚定文化自信 赓续历史文脉](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%9A%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1+%E8%B5%93%E7%BB%AD%E5%8E%86%E5%8F%B2%E6%96%87%E8%84%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [英伟达股价为何急跌？](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E4%B8%BA%E4%BD%95%E6%80%A5%E8%B7%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李立群探望老友刘松仁](https://www.baidu.com/s?wd=%E6%9D%8E%E7%AB%8B%E7%BE%A4%E6%8E%A2%E6%9C%9B%E8%80%81%E5%8F%8B%E5%88%98%E6%9D%BE%E4%BB%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老师打电话屏幕上涌出一堆小脑袋](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%89%93%E7%94%B5%E8%AF%9D%E5%B1%8F%E5%B9%95%E4%B8%8A%E6%B6%8C%E5%87%BA%E4%B8%80%E5%A0%86%E5%B0%8F%E8%84%91%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [代表建议提高教师准入门槛和福利](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%8F%90%E9%AB%98%E6%95%99%E5%B8%88%E5%87%86%E5%85%A5%E9%97%A8%E6%A7%9B%E5%92%8C%E7%A6%8F%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#宇宙级复仇爽文是什么样的#](https://www.baidu.com/s?wd=%23%E5%AE%87%E5%AE%99%E7%BA%A7%E5%A4%8D%E4%BB%87%E7%88%BD%E6%96%87%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [坚定文化自信 赓续历史文脉](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%9A%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1+%E8%B5%93%E7%BB%AD%E5%8E%86%E5%8F%B2%E6%96%87%E8%84%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [英伟达股价为何急跌？](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E4%B8%BA%E4%BD%95%E6%80%A5%E8%B7%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李立群探望老友刘松仁](https://www.baidu.com/s?wd=%E6%9D%8E%E7%AB%8B%E7%BE%A4%E6%8E%A2%E6%9C%9B%E8%80%81%E5%8F%8B%E5%88%98%E6%9D%BE%E4%BB%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老师打电话屏幕上涌出一堆小脑袋](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E6%89%93%E7%94%B5%E8%AF%9D%E5%B1%8F%E5%B9%95%E4%B8%8A%E6%B6%8C%E5%87%BA%E4%B8%80%E5%A0%86%E5%B0%8F%E8%84%91%E8%A2%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [代表建议提高教师准入门槛和福利](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%8F%90%E9%AB%98%E6%95%99%E5%B8%88%E5%87%86%E5%85%A5%E9%97%A8%E6%A7%9B%E5%92%8C%E7%A6%8F%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#宇宙级复仇爽文是什么样的#](https://www.baidu.com/s?wd=%23%E5%AE%87%E5%AE%99%E7%BA%A7%E5%A4%8D%E4%BB%87%E7%88%BD%E6%96%87%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
