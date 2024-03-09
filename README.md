@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 22:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 22:36:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [两会新词热词来了](https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [韩在日本进口糖果中检出放射性物质](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%B3%96%E6%9E%9C%E4%B8%AD%E6%A3%80%E5%87%BA%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家：黄金已超买应警惕回调](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E9%BB%84%E9%87%91%E5%B7%B2%E8%B6%85%E4%B9%B0%E5%BA%94%E8%AD%A6%E6%83%95%E5%9B%9E%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [57岁泰森为何复出再战？](https://www.baidu.com/s?wd=57%E5%B2%81%E6%B3%B0%E6%A3%AE%E4%B8%BA%E4%BD%95%E5%A4%8D%E5%87%BA%E5%86%8D%E6%88%98%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [代表称被逼做主播2年卖出3亿农货](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E7%A7%B0%E8%A2%AB%E9%80%BC%E5%81%9A%E4%B8%BB%E6%92%AD2%E5%B9%B4%E5%8D%96%E5%87%BA3%E4%BA%BF%E5%86%9C%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本股市疯涨 散户排队离场](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%82%A1%E5%B8%82%E7%96%AF%E6%B6%A8+%E6%95%A3%E6%88%B7%E6%8E%92%E9%98%9F%E7%A6%BB%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孩子高烧惊厥妈妈摔倒仍死死抱住](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E9%AB%98%E7%83%A7%E6%83%8A%E5%8E%A5%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E4%BB%8D%E6%AD%BB%E6%AD%BB%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [两会新词热词来了](https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [韩在日本进口糖果中检出放射性物质](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%B3%96%E6%9E%9C%E4%B8%AD%E6%A3%80%E5%87%BA%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家：黄金已超买应警惕回调](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E9%BB%84%E9%87%91%E5%B7%B2%E8%B6%85%E4%B9%B0%E5%BA%94%E8%AD%A6%E6%83%95%E5%9B%9E%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [57岁泰森为何复出再战？](https://www.baidu.com/s?wd=57%E5%B2%81%E6%B3%B0%E6%A3%AE%E4%B8%BA%E4%BD%95%E5%A4%8D%E5%87%BA%E5%86%8D%E6%88%98%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [代表称被逼做主播2年卖出3亿农货](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E7%A7%B0%E8%A2%AB%E9%80%BC%E5%81%9A%E4%B8%BB%E6%92%AD2%E5%B9%B4%E5%8D%96%E5%87%BA3%E4%BA%BF%E5%86%9C%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [日本股市疯涨 散户排队离场](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%82%A1%E5%B8%82%E7%96%AF%E6%B6%A8+%E6%95%A3%E6%88%B7%E6%8E%92%E9%98%9F%E7%A6%BB%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孩子高烧惊厥妈妈摔倒仍死死抱住](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E9%AB%98%E7%83%A7%E6%83%8A%E5%8E%A5%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E4%BB%8D%E6%AD%BB%E6%AD%BB%E6%8A%B1%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
