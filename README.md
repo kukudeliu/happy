@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 12:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 12:18:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [教资答案](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E7%AD%94%E6%A1%88&t=31&band_rank=5&Refer=top)<br />
 6. [金价杀疯了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵丽颖是主演也是监制](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%AF%E4%B8%BB%E6%BC%94%E4%B9%9F%E6%98%AF%E7%9B%91%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [教资选择 难](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E9%80%89%E6%8B%A9%20%E9%9A%BE&t=31&band_rank=8&Refer=top)<br />
-9. [吵架炸出来疑似北大教授](https://s.weibo.com/weibo?q=%E5%90%B5%E6%9E%B6%E7%82%B8%E5%87%BA%E6%9D%A5%E7%96%91%E4%BC%BC%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88&t=31&band_rank=9&Refer=top)<br />
+8. [忽然发现甄嬛传好像没有吻戏](https://s.weibo.com/weibo?q=%23%E5%BF%BD%E7%84%B6%E5%8F%91%E7%8E%B0%E7%94%84%E5%AC%9B%E4%BC%A0%E5%A5%BD%E5%83%8F%E6%B2%A1%E6%9C%89%E5%90%BB%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
+9. [教资选择 难](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E9%80%89%E6%8B%A9%20%E9%9A%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
