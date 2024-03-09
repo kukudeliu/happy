@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 11:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 11:22:02</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [金价杀疯了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [最高法工作报告](https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%AB%98%E6%B3%95%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&t=31&band_rank=3&Refer=top)<br />
 4. [教资作文](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E4%BD%9C%E6%96%87&t=31&band_rank=4&Refer=top)<br />
-5. [黑色大丽花](https://s.weibo.com/weibo?q=%23%E9%BB%91%E8%89%B2%E5%A4%A7%E4%B8%BD%E8%8A%B1%23&t=31&band_rank=5&Refer=top)<br />
-6. [吵架炸出来疑似北大教授](https://s.weibo.com/weibo?q=%E5%90%B5%E6%9E%B6%E7%82%B8%E5%87%BA%E6%9D%A5%E7%96%91%E4%BC%BC%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88&t=31&band_rank=6&Refer=top)<br />
-7. [巴黎奥运会开幕式定档](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵丽颖是主演也是监制](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%AF%E4%B8%BB%E6%BC%94%E4%B9%9F%E6%98%AF%E7%9B%91%E5%88%B6%23&t=31&band_rank=8&Refer=top)<br />
+5. [吵架炸出来疑似北大教授](https://s.weibo.com/weibo?q=%E5%90%B5%E6%9E%B6%E7%82%B8%E5%87%BA%E6%9D%A5%E7%96%91%E4%BC%BC%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88&t=31&band_rank=5&Refer=top)<br />
+6. [黑色大丽花](https://s.weibo.com/weibo?q=%23%E9%BB%91%E8%89%B2%E5%A4%A7%E4%B8%BD%E8%8A%B1%23&t=31&band_rank=6&Refer=top)<br />
+7. [赵丽颖是主演也是监制](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%AF%E4%B8%BB%E6%BC%94%E4%B9%9F%E6%98%AF%E7%9B%91%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
+8. [巴黎奥运会开幕式定档](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
 9. [节育环真的是让子宫不断发炎来避孕吗](https://s.weibo.com/weibo?q=%23%E8%8A%82%E8%82%B2%E7%8E%AF%E7%9C%9F%E7%9A%84%E6%98%AF%E8%AE%A9%E5%AD%90%E5%AE%AB%E4%B8%8D%E6%96%AD%E5%8F%91%E7%82%8E%E6%9D%A5%E9%81%BF%E5%AD%95%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
