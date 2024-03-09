@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 12:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 12:19:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金价杀疯了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵丽颖是主演也是监制](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%AF%E4%B8%BB%E6%BC%94%E4%B9%9F%E6%98%AF%E7%9B%91%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [忽然发现甄嬛传好像没有吻戏](https://s.weibo.com/weibo?q=%23%E5%BF%BD%E7%84%B6%E5%8F%91%E7%8E%B0%E7%94%84%E5%AC%9B%E4%BC%A0%E5%A5%BD%E5%83%8F%E6%B2%A1%E6%9C%89%E5%90%BB%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [教资选择 难](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E9%80%89%E6%8B%A9%20%E9%9A%BE&t=31&band_rank=9&Refer=top)<br />
+9. [韩国仍有超1.1万名医生未返岗](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BB%8D%E6%9C%89%E8%B6%851.1%E4%B8%87%E5%90%8D%E5%8C%BB%E7%94%9F%E6%9C%AA%E8%BF%94%E5%B2%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,10 +22,10 @@
 3. [小夫妻花5000元办了场极简婚礼](https://www.baidu.com/s?wd=%E5%B0%8F%E5%A4%AB%E5%A6%BB%E8%8A%B15000%E5%85%83%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暖人心、聚民心、强信心](https://www.baidu.com/s?wd=%E6%9A%96%E4%BA%BA%E5%BF%83%E3%80%81%E8%81%9A%E6%B0%91%E5%BF%83%E3%80%81%E5%BC%BA%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姑娘失明后成为一名盲人化妆师](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E5%A4%B1%E6%98%8E%E5%90%8E%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E7%9B%B2%E4%BA%BA%E5%8C%96%E5%A6%86%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [网约车追尾1000万兰博基尼](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%BF%BD%E5%B0%BE1000%E4%B8%87%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [英伟达市值一夜蒸发9234亿](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%919234%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [英伟达市值一夜蒸发9234亿](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%919234%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网约车追尾1000万兰博基尼](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%BF%BD%E5%B0%BE1000%E4%B8%87%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [教资考试时间](https://www.baidu.com/s?wd=%E6%95%99%E8%B5%84%E8%80%83%E8%AF%95%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宁夏辟谣有村民挖出古钱币](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%9F%E8%B0%A3%E6%9C%89%E6%9D%91%E6%B0%91%E6%8C%96%E5%87%BA%E5%8F%A4%E9%92%B1%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北汽集团辟谣将在韩国高阳建厂](https://www.baidu.com/s?wd=%E5%8C%97%E6%B1%BD%E9%9B%86%E5%9B%A2%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%9C%A8%E9%9F%A9%E5%9B%BD%E9%AB%98%E9%98%B3%E5%BB%BA%E5%8E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -34,7 +34,7 @@
 3. [小夫妻花5000元办了场极简婚礼](https://www.baidu.com/s?wd=%E5%B0%8F%E5%A4%AB%E5%A6%BB%E8%8A%B15000%E5%85%83%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暖人心、聚民心、强信心](https://www.baidu.com/s?wd=%E6%9A%96%E4%BA%BA%E5%BF%83%E3%80%81%E8%81%9A%E6%B0%91%E5%BF%83%E3%80%81%E5%BC%BA%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姑娘失明后成为一名盲人化妆师](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E5%A4%B1%E6%98%8E%E5%90%8E%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E7%9B%B2%E4%BA%BA%E5%8C%96%E5%A6%86%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [网约车追尾1000万兰博基尼](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%BF%BD%E5%B0%BE1000%E4%B8%87%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [英伟达市值一夜蒸发9234亿](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%919234%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [英伟达市值一夜蒸发9234亿](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%919234%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网约车追尾1000万兰博基尼](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%BF%BD%E5%B0%BE1000%E4%B8%87%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [教资考试时间](https://www.baidu.com/s?wd=%E6%95%99%E8%B5%84%E8%80%83%E8%AF%95%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [宁夏辟谣有村民挖出古钱币](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%9F%E8%B0%A3%E6%9C%89%E6%9D%91%E6%B0%91%E6%8C%96%E5%87%BA%E5%8F%A4%E9%92%B1%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [北汽集团辟谣将在韩国高阳建厂](https://www.baidu.com/s?wd=%E5%8C%97%E6%B1%BD%E9%9B%86%E5%9B%A2%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%9C%A8%E9%9F%A9%E5%9B%BD%E9%AB%98%E9%98%B3%E5%BB%BA%E5%8E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
