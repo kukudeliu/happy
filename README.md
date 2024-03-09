@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 18:59:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [民生主题记者会](https://s.weibo.com/weibo?q=%23%E6%B0%91%E7%94%9F%E4%B8%BB%E9%A2%98%E8%AE%B0%E8%80%85%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子吃麻辣烫被乱数签多算123元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%A2%AB%E4%B9%B1%E6%95%B0%E7%AD%BE%E5%A4%9A%E7%AE%97123%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [赵安吉车祸身亡细节](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%AE%89%E5%90%89%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1%E7%BB%86%E8%8A%82%23&t=31&band_rank=5&Refer=top)<br />
-6. [韩国在日本进口糖果中检测出少量铯](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%B3%96%E6%9E%9C%E4%B8%AD%E6%A3%80%E6%B5%8B%E5%87%BA%E5%B0%91%E9%87%8F%E9%93%AF%23&t=31&band_rank=6&Refer=top)<br />
-7. [男子三八节买2根金条打手镯送妻子](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%89%E5%85%AB%E8%8A%82%E4%B9%B02%E6%A0%B9%E9%87%91%E6%9D%A1%E6%89%93%E6%89%8B%E9%95%AF%E9%80%81%E5%A6%BB%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
-8. [教资科三](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E7%A7%91%E4%B8%89&t=31&band_rank=8&Refer=top)<br />
+6. [男子三八节买2根金条打手镯送妻子](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%89%E5%85%AB%E8%8A%82%E4%B9%B02%E6%A0%B9%E9%87%91%E6%9D%A1%E6%89%93%E6%89%8B%E9%95%AF%E9%80%81%E5%A6%BB%E5%AD%90%23&t=31&band_rank=6&Refer=top)<br />
+7. [韩国在日本进口糖果中检测出少量铯](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%B3%96%E6%9E%9C%E4%B8%AD%E6%A3%80%E6%B5%8B%E5%87%BA%E5%B0%91%E9%87%8F%E9%93%AF%23&t=31&band_rank=7&Refer=top)<br />
+8. [解放军练兵备战打独促统](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%83%E5%85%B5%E5%A4%87%E6%88%98%E6%89%93%E7%8B%AC%E4%BF%83%E7%BB%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [孩子高烧惊厥妈妈摔倒仍死死抱住](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E9%AB%98%E7%83%A7%E6%83%8A%E5%8E%A5%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E4%BB%8D%E6%AD%BB%E6%AD%BB%E6%8A%B1%E4%BD%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
