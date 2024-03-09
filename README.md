@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 00:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 00:48:02</h4></div>
 
 > 微博  
 
 1. [刘美含否认再次落选浪姐](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BE%8E%E5%90%AB%E5%90%A6%E8%AE%A4%E5%86%8D%E6%AC%A1%E8%90%BD%E9%80%89%E6%B5%AA%E5%A7%90%23&t=31&band_rank=1&Refer=top)<br />
-2. [宁静打了焉栩嘉一耳光](https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E6%89%93%E4%BA%86%E7%84%89%E6%A0%A9%E5%98%89%E4%B8%80%E8%80%B3%E5%85%89%23&t=31&band_rank=2&Refer=top)<br />
+2. [农夫山泉官方店铺7天未开播](https://s.weibo.com/weibo?q=%23%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E5%AE%98%E6%96%B9%E5%BA%97%E9%93%BA7%E5%A4%A9%E6%9C%AA%E5%BC%80%E6%92%AD%23&t=31&band_rank=2&Refer=top)<br />
 3. [新质生产力如何改变生活](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB%23&t=31&band_rank=3&Refer=top)<br />
-4. [农夫山泉官方店铺7天未开播](https://s.weibo.com/weibo?q=%23%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E5%AE%98%E6%96%B9%E5%BA%97%E9%93%BA7%E5%A4%A9%E6%9C%AA%E5%BC%80%E6%92%AD%23&t=31&band_rank=4&Refer=top)<br />
+4. [宁静打了焉栩嘉一耳光](https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E6%89%93%E4%BA%86%E7%84%89%E6%A0%A9%E5%98%89%E4%B8%80%E8%80%B3%E5%85%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [艾滋病感染者抗病毒治疗成功率已超95%](https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E7%97%85%E6%84%9F%E6%9F%93%E8%80%85%E6%8A%97%E7%97%85%E6%AF%92%E6%B2%BB%E7%96%97%E6%88%90%E5%8A%9F%E7%8E%87%E5%B7%B2%E8%B6%8595%25%23&t=31&band_rank=5&Refer=top)<br />
 6. [李权哲第二名出道](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%9D%83%E5%93%B2%E7%AC%AC%E4%BA%8C%E5%90%8D%E5%87%BA%E9%81%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [月入过万你还会考研考公吗](https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E4%BD%A0%E8%BF%98%E4%BC%9A%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
