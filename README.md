@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 14:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 14:39:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [事关强国强军 习主席发出新号令](https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E5%BC%BA%E5%9B%BD%E5%BC%BA%E5%86%9B+%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%8F%91%E5%87%BA%E6%96%B0%E5%8F%B7%E4%BB%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [女生26岁裸辞做约拍月入3万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F26%E5%B2%81%E8%A3%B8%E8%BE%9E%E5%81%9A%E7%BA%A6%E6%8B%8D%E6%9C%88%E5%85%A53%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [建议加强共享充电宝价格乱象监管](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%8A%A0%E5%BC%BA%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E4%BB%B7%E6%A0%BC%E4%B9%B1%E8%B1%A1%E7%9B%91%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [小夫妻花5000元办了场极简婚礼](https://www.baidu.com/s?wd=%E5%B0%8F%E5%A4%AB%E5%A6%BB%E8%8A%B15000%E5%85%83%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暖人心、聚民心、强信心](https://www.baidu.com/s?wd=%E6%9A%96%E4%BA%BA%E5%BF%83%E3%80%81%E8%81%9A%E6%B0%91%E5%BF%83%E3%80%81%E5%BC%BA%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姑娘失明后成为一名盲人化妆师](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E5%A4%B1%E6%98%8E%E5%90%8E%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E7%9B%B2%E4%BA%BA%E5%8C%96%E5%A6%86%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [事关强国强军 习主席发出新号令](https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E5%BC%BA%E5%9B%BD%E5%BC%BA%E5%86%9B+%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%8F%91%E5%87%BA%E6%96%B0%E5%8F%B7%E4%BB%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [女生26岁裸辞做约拍月入3万](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F26%E5%B2%81%E8%A3%B8%E8%BE%9E%E5%81%9A%E7%BA%A6%E6%8B%8D%E6%9C%88%E5%85%A53%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [建议加强共享充电宝价格乱象监管](https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%8A%A0%E5%BC%BA%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E4%BB%B7%E6%A0%BC%E4%B9%B1%E8%B1%A1%E7%9B%91%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [小夫妻花5000元办了场极简婚礼](https://www.baidu.com/s?wd=%E5%B0%8F%E5%A4%AB%E5%A6%BB%E8%8A%B15000%E5%85%83%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [暖人心、聚民心、强信心](https://www.baidu.com/s?wd=%E6%9A%96%E4%BA%BA%E5%BF%83%E3%80%81%E8%81%9A%E6%B0%91%E5%BF%83%E3%80%81%E5%BC%BA%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姑娘失明后成为一名盲人化妆师](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E5%A4%B1%E6%98%8E%E5%90%8E%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E7%9B%B2%E4%BA%BA%E5%8C%96%E5%A6%86%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
