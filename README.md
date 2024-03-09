@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 05:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 05:57:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [演员尚梦初逝世](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%B0%9A%E6%A2%A6%E5%88%9D%E9%80%9D%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [艾滋病感染者抗病毒治疗成功率已超95%](https://s.weibo.com/weibo?q=%E8%89%BE%E6%BB%8B%E7%97%85%E6%84%9F%E6%9F%93%E8%80%85%E6%8A%97%E7%97%85%E6%AF%92%E6%B2%BB%E7%96%97%E6%88%90%E5%8A%9F%E7%8E%87%E5%B7%B2%E8%B6%8595%25&t=31&band_rank=7&Refer=top)<br />
 8. [微信能不能改成部分人三天可见](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E4%B8%8D%E8%83%BD%E6%94%B9%E6%88%90%E9%83%A8%E5%88%86%E4%BA%BA%E4%B8%89%E5%A4%A9%E5%8F%AF%E8%A7%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [月入过万你还会考研考公吗](https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E4%BD%A0%E8%BF%98%E4%BC%9A%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [日行一万步或可降低久坐危害](https://s.weibo.com/weibo?q=%23%E6%97%A5%E8%A1%8C%E4%B8%80%E4%B8%87%E6%AD%A5%E6%88%96%E5%8F%AF%E9%99%8D%E4%BD%8E%E4%B9%85%E5%9D%90%E5%8D%B1%E5%AE%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
