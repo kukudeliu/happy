@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 01:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 01:21:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [90后藏族女狙击手当排长了](https://www.baidu.com/s?wd=90%E5%90%8E%E8%97%8F%E6%97%8F%E5%A5%B3%E7%8B%99%E5%87%BB%E6%89%8B%E5%BD%93%E6%8E%92%E9%95%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [住建部部长喊话房企](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%E9%83%A8%E9%95%BF%E5%96%8A%E8%AF%9D%E6%88%BF%E4%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [靳东谈短视频:大多数缺乏价值](https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%E8%B0%88%E7%9F%AD%E8%A7%86%E9%A2%91%3A%E5%A4%A7%E5%A4%9A%E6%95%B0%E7%BC%BA%E4%B9%8F%E4%BB%B7%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [代表建议为适龄女性免费接种HPV疫苗](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E4%B8%BA%E9%80%82%E9%BE%84%E5%A5%B3%E6%80%A7%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8DHPV%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教授称高学历并不一定获得好工作](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E7%A7%B0%E9%AB%98%E5%AD%A6%E5%8E%86%E5%B9%B6%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%8E%B7%E5%BE%97%E5%A5%BD%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [90后藏族女狙击手当排长了](https://www.baidu.com/s?wd=90%E5%90%8E%E8%97%8F%E6%97%8F%E5%A5%B3%E7%8B%99%E5%87%BB%E6%89%8B%E5%BD%93%E6%8E%92%E9%95%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [住建部部长喊话房企](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%E9%83%A8%E9%95%BF%E5%96%8A%E8%AF%9D%E6%88%BF%E4%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [靳东谈短视频:大多数缺乏价值](https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%E8%B0%88%E7%9F%AD%E8%A7%86%E9%A2%91%3A%E5%A4%A7%E5%A4%9A%E6%95%B0%E7%BC%BA%E4%B9%8F%E4%BB%B7%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [代表建议为适龄女性免费接种HPV疫苗](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E4%B8%BA%E9%80%82%E9%BE%84%E5%A5%B3%E6%80%A7%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8DHPV%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教授称高学历并不一定获得好工作](https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E7%A7%B0%E9%AB%98%E5%AD%A6%E5%8E%86%E5%B9%B6%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%8E%B7%E5%BE%97%E5%A5%BD%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
