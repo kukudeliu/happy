@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 16:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 16:07:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [两会数读中国](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%E6%95%B0%E8%AF%BB%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [当舅妈让我考研考编考公三手抓](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%88%85%E5%A6%88%E8%AE%A9%E6%88%91%E8%80%83%E7%A0%94%E8%80%83%E7%BC%96%E8%80%83%E5%85%AC%E4%B8%89%E6%89%8B%E6%8A%93%23&t=31&band_rank=4&Refer=top)<br />
 5. [蒲熠星带猫去献血](https://s.weibo.com/weibo?q=%E8%92%B2%E7%86%A0%E6%98%9F%E5%B8%A6%E7%8C%AB%E5%8E%BB%E7%8C%AE%E8%A1%80&t=31&band_rank=5&Refer=top)<br />
-6. [教资科二](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E7%A7%91%E4%BA%8C&t=31&band_rank=6&Refer=top)<br />
-7. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=7&Refer=top)<br />
+6. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=6&Refer=top)<br />
+7. [教资科二](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E7%A7%91%E4%BA%8C&t=31&band_rank=7&Refer=top)<br />
 8. [帮帮](https://s.weibo.com/weibo?q=%E5%B8%AE%E5%B8%AE&t=31&band_rank=8&Refer=top)<br />
 9. [张杰听到女儿结婚的反应](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%90%AC%E5%88%B0%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
