@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 20:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 20:07:01</h4></div>
 
 > 微博  
 
@@ -21,9 +21,9 @@
 2. [住建部：资不抵债房企该破产破产](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E8%B5%84%E4%B8%8D%E6%8A%B5%E5%80%BA%E6%88%BF%E4%BC%81%E8%AF%A5%E7%A0%B4%E4%BA%A7%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [江西青龙帮案最后一名嫌疑人落网](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%9D%92%E9%BE%99%E5%B8%AE%E6%A1%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚定文化自信 赓续历史文脉](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%9A%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1+%E8%B5%93%E7%BB%AD%E5%8E%86%E5%8F%B2%E6%96%87%E8%84%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [英伟达股价为何急跌？](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E4%B8%BA%E4%BD%95%E6%80%A5%E8%B7%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [#金价杀疯了#](https://www.baidu.com/s?wd=%23%E9%87%91%E4%BB%B7%E6%9D%80%E7%96%AF%E4%BA%86%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李立群探望老友刘松仁](https://www.baidu.com/s?wd=%E6%9D%8E%E7%AB%8B%E7%BE%A4%E6%8E%A2%E6%9C%9B%E8%80%81%E5%8F%8B%E5%88%98%E6%9D%BE%E4%BB%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [代表建议提高教师准入门槛和福利](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%8F%90%E9%AB%98%E6%95%99%E5%B8%88%E5%87%86%E5%85%A5%E9%97%A8%E6%A7%9B%E5%92%8C%E7%A6%8F%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [东北虎一家4口在村民家门口嬉戏](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%99%8E%E4%B8%80%E5%AE%B64%E5%8F%A3%E5%9C%A8%E6%9D%91%E6%B0%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%AC%89%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#宇宙级复仇爽文是什么样的#](https://www.baidu.com/s?wd=%23%E5%AE%87%E5%AE%99%E7%BA%A7%E5%A4%8D%E4%BB%87%E7%88%BD%E6%96%87%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -33,8 +33,8 @@
 2. [住建部：资不抵债房企该破产破产](https://www.baidu.com/s?wd=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E8%B5%84%E4%B8%8D%E6%8A%B5%E5%80%BA%E6%88%BF%E4%BC%81%E8%AF%A5%E7%A0%B4%E4%BA%A7%E7%A0%B4%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [江西青龙帮案最后一名嫌疑人落网](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%9D%92%E9%BE%99%E5%B8%AE%E6%A1%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [坚定文化自信 赓续历史文脉](https://www.baidu.com/s?wd=%E5%9D%9A%E5%AE%9A%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1+%E8%B5%93%E7%BB%AD%E5%8E%86%E5%8F%B2%E6%96%87%E8%84%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [英伟达股价为何急跌？](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E4%B8%BA%E4%BD%95%E6%80%A5%E8%B7%8C%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [#金价杀疯了#](https://www.baidu.com/s?wd=%23%E9%87%91%E4%BB%B7%E6%9D%80%E7%96%AF%E4%BA%86%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李立群探望老友刘松仁](https://www.baidu.com/s?wd=%E6%9D%8E%E7%AB%8B%E7%BE%A4%E6%8E%A2%E6%9C%9B%E8%80%81%E5%8F%8B%E5%88%98%E6%9D%BE%E4%BB%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [代表建议提高教师准入门槛和福利](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%8F%90%E9%AB%98%E6%95%99%E5%B8%88%E5%87%86%E5%85%A5%E9%97%A8%E6%A7%9B%E5%92%8C%E7%A6%8F%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [东北虎一家4口在村民家门口嬉戏](https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%99%8E%E4%B8%80%E5%AE%B64%E5%8F%A3%E5%9C%A8%E6%9D%91%E6%B0%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%AC%89%E6%88%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#宇宙级复仇爽文是什么样的#](https://www.baidu.com/s?wd=%23%E5%AE%87%E5%AE%99%E7%BA%A7%E5%A4%8D%E4%BB%87%E7%88%BD%E6%96%87%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
