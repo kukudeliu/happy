@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 15:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 15:46:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [暖人心、聚民心、强信心](https://www.baidu.com/s?wd=%E6%9A%96%E4%BA%BA%E5%BF%83%E3%80%81%E8%81%9A%E6%B0%91%E5%BF%83%E3%80%81%E5%BC%BA%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姑娘失明后成为一名盲人化妆师](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E5%A4%B1%E6%98%8E%E5%90%8E%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E7%9B%B2%E4%BA%BA%E5%8C%96%E5%A6%86%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上百架军机从全球美军基地起飞](https://www.baidu.com/s?wd=%E4%B8%8A%E7%99%BE%E6%9E%B6%E5%86%9B%E6%9C%BA%E4%BB%8E%E5%85%A8%E7%90%83%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [五角大楼发布UFO报告](https://www.baidu.com/s?wd=%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E5%8F%91%E5%B8%83UFO%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子吃麻辣烫171元签子被数成294元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB171%E5%85%83%E7%AD%BE%E5%AD%90%E8%A2%AB%E6%95%B0%E6%88%90294%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全国人大民生主题记者会](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E6%B0%91%E7%94%9F%E4%B8%BB%E9%A2%98%E8%AE%B0%E8%80%85%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北汽集团辟谣将在韩国高阳建厂](https://www.baidu.com/s?wd=%E5%8C%97%E6%B1%BD%E9%9B%86%E5%9B%A2%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%9C%A8%E9%9F%A9%E5%9B%BD%E9%AB%98%E9%98%B3%E5%BB%BA%E5%8E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [暖人心、聚民心、强信心](https://www.baidu.com/s?wd=%E6%9A%96%E4%BA%BA%E5%BF%83%E3%80%81%E8%81%9A%E6%B0%91%E5%BF%83%E3%80%81%E5%BC%BA%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姑娘失明后成为一名盲人化妆师](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E5%A4%B1%E6%98%8E%E5%90%8E%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E7%9B%B2%E4%BA%BA%E5%8C%96%E5%A6%86%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上百架军机从全球美军基地起飞](https://www.baidu.com/s?wd=%E4%B8%8A%E7%99%BE%E6%9E%B6%E5%86%9B%E6%9C%BA%E4%BB%8E%E5%85%A8%E7%90%83%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E8%B5%B7%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [五角大楼发布UFO报告](https://www.baidu.com/s?wd=%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E5%8F%91%E5%B8%83UFO%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子吃麻辣烫171元签子被数成294元](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB171%E5%85%83%E7%AD%BE%E5%AD%90%E8%A2%AB%E6%95%B0%E6%88%90294%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全国人大民生主题记者会](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E6%B0%91%E7%94%9F%E4%B8%BB%E9%A2%98%E8%AE%B0%E8%80%85%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北汽集团辟谣将在韩国高阳建厂](https://www.baidu.com/s?wd=%E5%8C%97%E6%B1%BD%E9%9B%86%E5%9B%A2%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%9C%A8%E9%9F%A9%E5%9B%BD%E9%AB%98%E9%98%B3%E5%BB%BA%E5%8E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
