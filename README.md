@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 10:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 10:17:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [顾客称做美甲被店家直播1小时](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%81%9A%E7%BE%8E%E7%94%B2%E8%A2%AB%E5%BA%97%E5%AE%B6%E7%9B%B4%E6%92%AD1%E5%B0%8F%E6%97%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [最高法工作报告](https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%AB%98%E6%B3%95%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&t=31&band_rank=3&Refer=top)<br />
 4. [吵架炸出来疑似北大教授](https://s.weibo.com/weibo?q=%E5%90%B5%E6%9E%B6%E7%82%B8%E5%87%BA%E6%9D%A5%E7%96%91%E4%BC%BC%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88&t=31&band_rank=4&Refer=top)<br />
-5. [小夫妻花5000元办了场极极极简婚礼](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AB%E5%A6%BB%E8%8A%B15000%E5%85%83%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%9E%81%E6%9E%81%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=5&Refer=top)<br />
-6. [你叫我姐姐你多大呀](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AB%E6%88%91%E5%A7%90%E5%A7%90%E4%BD%A0%E5%A4%9A%E5%A4%A7%E5%91%80%23&t=31&band_rank=6&Refer=top)<br />
+5. [你叫我姐姐你多大呀](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AB%E6%88%91%E5%A7%90%E5%A7%90%E4%BD%A0%E5%A4%9A%E5%A4%A7%E5%91%80%23&t=31&band_rank=5&Refer=top)<br />
+6. [小夫妻花5000元办了场极极极简婚礼](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AB%E5%A6%BB%E8%8A%B15000%E5%85%83%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%9E%81%E6%9E%81%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [姑娘失明后成为一名盲人化妆师](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E5%A4%B1%E6%98%8E%E5%90%8E%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E7%9B%B2%E4%BA%BA%E5%8C%96%E5%A6%86%E5%B8%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [皮肤到底能白到什么程度](https://s.weibo.com/weibo?q=%E7%9A%AE%E8%82%A4%E5%88%B0%E5%BA%95%E8%83%BD%E7%99%BD%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6&t=31&band_rank=8&Refer=top)<br />
 9. [工资决定我的外表](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%B5%84%E5%86%B3%E5%AE%9A%E6%88%91%E7%9A%84%E5%A4%96%E8%A1%A8%23&t=31&band_rank=9&Refer=top)<br />
