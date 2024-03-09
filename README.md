@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 16:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 16:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [蒲熠星带猫去献血](https://s.weibo.com/weibo?q=%E8%92%B2%E7%86%A0%E6%98%9F%E5%B8%A6%E7%8C%AB%E5%8E%BB%E7%8C%AE%E8%A1%80&t=31&band_rank=5&Refer=top)<br />
 6. [教资科二](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E7%A7%91%E4%BA%8C&t=31&band_rank=6&Refer=top)<br />
 7. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=7&Refer=top)<br />
-8. [张杰听到女儿结婚的反应](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%90%AC%E5%88%B0%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [帮帮](https://s.weibo.com/weibo?q=%E5%B8%AE%E5%B8%AE&t=31&band_rank=9&Refer=top)<br />
+8. [帮帮](https://s.weibo.com/weibo?q=%E5%B8%AE%E5%B8%AE&t=31&band_rank=8&Refer=top)<br />
+9. [张杰听到女儿结婚的反应](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%90%AC%E5%88%B0%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
