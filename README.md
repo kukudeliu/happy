@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 12:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 12:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [教资](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84&t=31&band_rank=5&Refer=top)<br />
 6. [李商隐你耍我](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%95%86%E9%9A%90%E4%BD%A0%E8%80%8D%E6%88%91&t=31&band_rank=6&Refer=top)<br />
 7. [韩国仍有超1.1万名医生未返岗](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BB%8D%E6%9C%89%E8%B6%851.1%E4%B8%87%E5%90%8D%E5%8C%BB%E7%94%9F%E6%9C%AA%E8%BF%94%E5%B2%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [考研国家线](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [周扬青 浪姐](https://s.weibo.com/weibo?q=%E5%91%A8%E6%89%AC%E9%9D%92%20%E6%B5%AA%E5%A7%90&t=31&band_rank=9&Refer=top)<br />
+8. [周扬青 浪姐](https://s.weibo.com/weibo?q=%E5%91%A8%E6%89%AC%E9%9D%92%20%E6%B5%AA%E5%A7%90&t=31&band_rank=8&Refer=top)<br />
+9. [考研国家线](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
