@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 11:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 11:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [黑色大丽花](https://s.weibo.com/weibo?q=%23%E9%BB%91%E8%89%B2%E5%A4%A7%E4%B8%BD%E8%8A%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [巴黎奥运会开幕式定档](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [教资作文](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E4%BD%9C%E6%96%87&t=31&band_rank=7&Refer=top)<br />
-8. [分析称黄金已超买需警惕回调](https://s.weibo.com/weibo?q=%23%E5%88%86%E6%9E%90%E7%A7%B0%E9%BB%84%E9%87%91%E5%B7%B2%E8%B6%85%E4%B9%B0%E9%9C%80%E8%AD%A6%E6%83%95%E5%9B%9E%E8%B0%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖是主演也是监制](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%AF%E4%B8%BB%E6%BC%94%E4%B9%9F%E6%98%AF%E7%9B%91%E5%88%B6%23&t=31&band_rank=9&Refer=top)<br />
+8. [赵丽颖是主演也是监制](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%AF%E4%B8%BB%E6%BC%94%E4%B9%9F%E6%98%AF%E7%9B%91%E5%88%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [分析称黄金已超买需警惕回调](https://s.weibo.com/weibo?q=%23%E5%88%86%E6%9E%90%E7%A7%B0%E9%BB%84%E9%87%91%E5%B7%B2%E8%B6%85%E4%B9%B0%E9%9C%80%E8%AD%A6%E6%83%95%E5%9B%9E%E8%B0%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
