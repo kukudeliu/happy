@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 11:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 11:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [教资作文](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E4%BD%9C%E6%96%87&t=31&band_rank=6&Refer=top)<br />
 7. [吵架炸出来疑似北大教授](https://s.weibo.com/weibo?q=%E5%90%B5%E6%9E%B6%E7%82%B8%E5%87%BA%E6%9D%A5%E7%96%91%E4%BC%BC%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88&t=31&band_rank=7&Refer=top)<br />
 8. [教资选择 难](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E9%80%89%E6%8B%A9%20%E9%9A%BE&t=31&band_rank=8&Refer=top)<br />
-9. [巴黎奥运会开幕式定档](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [腾讯芒果要打起来了](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%8A%92%E6%9E%9C%E8%A6%81%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
