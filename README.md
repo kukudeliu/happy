@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 12:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 12:54:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [暖人心、聚民心、强信心](https://www.baidu.com/s?wd=%E6%9A%96%E4%BA%BA%E5%BF%83%E3%80%81%E8%81%9A%E6%B0%91%E5%BF%83%E3%80%81%E5%BC%BA%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姑娘失明后成为一名盲人化妆师](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E5%A4%B1%E6%98%8E%E5%90%8E%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E7%9B%B2%E4%BA%BA%E5%8C%96%E5%A6%86%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英伟达市值一夜蒸发9234亿](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%919234%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网约车追尾1000万兰博基尼](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%BF%BD%E5%B0%BE1000%E4%B8%87%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美的申请储能装置专利](https://www.baidu.com/s?wd=%E7%BE%8E%E7%9A%84%E7%94%B3%E8%AF%B7%E5%82%A8%E8%83%BD%E8%A3%85%E7%BD%AE%E4%B8%93%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [教资考试时间](https://www.baidu.com/s?wd=%E6%95%99%E8%B5%84%E8%80%83%E8%AF%95%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北汽集团辟谣将在韩国高阳建厂](https://www.baidu.com/s?wd=%E5%8C%97%E6%B1%BD%E9%9B%86%E5%9B%A2%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%9C%A8%E9%9F%A9%E5%9B%BD%E9%AB%98%E9%98%B3%E5%BB%BA%E5%8E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [暖人心、聚民心、强信心](https://www.baidu.com/s?wd=%E6%9A%96%E4%BA%BA%E5%BF%83%E3%80%81%E8%81%9A%E6%B0%91%E5%BF%83%E3%80%81%E5%BC%BA%E4%BF%A1%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [姑娘失明后成为一名盲人化妆师](https://www.baidu.com/s?wd=%E5%A7%91%E5%A8%98%E5%A4%B1%E6%98%8E%E5%90%8E%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E7%9B%B2%E4%BA%BA%E5%8C%96%E5%A6%86%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英伟达市值一夜蒸发9234亿](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%919234%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网约车追尾1000万兰博基尼](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%BF%BD%E5%B0%BE1000%E4%B8%87%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [美的申请储能装置专利](https://www.baidu.com/s?wd=%E7%BE%8E%E7%9A%84%E7%94%B3%E8%AF%B7%E5%82%A8%E8%83%BD%E8%A3%85%E7%BD%AE%E4%B8%93%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [教资考试时间](https://www.baidu.com/s?wd=%E6%95%99%E8%B5%84%E8%80%83%E8%AF%95%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北汽集团辟谣将在韩国高阳建厂](https://www.baidu.com/s?wd=%E5%8C%97%E6%B1%BD%E9%9B%86%E5%9B%A2%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%9C%A8%E9%9F%A9%E5%9B%BD%E9%AB%98%E9%98%B3%E5%BB%BA%E5%8E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
