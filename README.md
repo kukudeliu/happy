@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 20:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-09 20:25:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [冰淇淋口感的梨你吃过吗](https://s.weibo.com/weibo?q=%23%E5%86%B0%E6%B7%87%E6%B7%8B%E5%8F%A3%E6%84%9F%E7%9A%84%E6%A2%A8%E4%BD%A0%E5%90%83%E8%BF%87%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
 7. [周深新专辑官宣](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E4%B8%93%E8%BE%91%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子三八节买2根金条打手镯送妻子](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%89%E5%85%AB%E8%8A%82%E4%B9%B02%E6%A0%B9%E9%87%91%E6%9D%A1%E6%89%93%E6%89%8B%E9%95%AF%E9%80%81%E5%A6%BB%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [2024两会好声音](https://s.weibo.com/weibo?q=%232024%E4%B8%A4%E4%BC%9A%E5%A5%BD%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [建议返聘65岁以下退休教师](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%BF%94%E8%81%9865%E5%B2%81%E4%BB%A5%E4%B8%8B%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
