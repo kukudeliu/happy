@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 12:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 12:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [多家银行存款利率最高达10%](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E6%9C%80%E9%AB%98%E8%BE%BE10%25%23&t=31&band_rank=5&Refer=top)<br />
 6. [双胞胎哥哥为脑瘫弟弟建了一个家](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%93%A5%E5%93%A5%E4%B8%BA%E8%84%91%E7%98%AB%E5%BC%9F%E5%BC%9F%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E5%AE%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [第一次在宁静的眼神里看到了无助](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%AE%81%E9%9D%99%E7%9A%84%E7%9C%BC%E7%A5%9E%E9%87%8C%E7%9C%8B%E5%88%B0%E4%BA%86%E6%97%A0%E5%8A%A9&t=31&band_rank=7&Refer=top)<br />
-8. [粉笔模考](https://s.weibo.com/weibo?q=%E7%B2%89%E7%AC%94%E6%A8%A1%E8%80%83&t=31&band_rank=8&Refer=top)<br />
-9. [教师形式主义负担过重如何解决](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%E8%B4%9F%E6%8B%85%E8%BF%87%E9%87%8D%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%23&t=31&band_rank=9&Refer=top)<br />
+8. [教师形式主义负担过重如何解决](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%E8%B4%9F%E6%8B%85%E8%BF%87%E9%87%8D%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%23&t=31&band_rank=8&Refer=top)<br />
+9. [粉笔模考](https://s.weibo.com/weibo?q=%E7%B2%89%E7%AC%94%E6%A8%A1%E8%80%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [美国大选将迎“耄耋对决”](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E5%B0%86%E8%BF%8E%E2%80%9C%E8%80%84%E8%80%8B%E5%AF%B9%E5%86%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教室最高一排座位两层楼高](https://www.baidu.com/s?wd=%E6%95%99%E5%AE%A4%E6%9C%80%E9%AB%98%E4%B8%80%E6%8E%92%E5%BA%A7%E4%BD%8D%E4%B8%A4%E5%B1%82%E6%A5%BC%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川“豹警官”意外走红](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E2%80%9C%E8%B1%B9%E8%AD%A6%E5%AE%98%E2%80%9D%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“酸奶去哪儿了”？网红茶饮被点名](https://www.baidu.com/s?wd=%E2%80%9C%E9%85%B8%E5%A5%B6%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%E2%80%9D%EF%BC%9F%E7%BD%91%E7%BA%A2%E8%8C%B6%E9%A5%AE%E8%A2%AB%E7%82%B9%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [AI复活逝者最低只需几块钱](https://www.baidu.com/s?wd=AI%E5%A4%8D%E6%B4%BB%E9%80%9D%E8%80%85%E6%9C%80%E4%BD%8E%E5%8F%AA%E9%9C%80%E5%87%A0%E5%9D%97%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣五大道旅游区马被累倒](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E4%BA%94%E5%A4%A7%E9%81%93%E6%97%85%E6%B8%B8%E5%8C%BA%E9%A9%AC%E8%A2%AB%E7%B4%AF%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [美国大选将迎“耄耋对决”](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E5%B0%86%E8%BF%8E%E2%80%9C%E8%80%84%E8%80%8B%E5%AF%B9%E5%86%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教室最高一排座位两层楼高](https://www.baidu.com/s?wd=%E6%95%99%E5%AE%A4%E6%9C%80%E9%AB%98%E4%B8%80%E6%8E%92%E5%BA%A7%E4%BD%8D%E4%B8%A4%E5%B1%82%E6%A5%BC%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [四川“豹警官”意外走红](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E2%80%9C%E8%B1%B9%E8%AD%A6%E5%AE%98%E2%80%9D%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“酸奶去哪儿了”？网红茶饮被点名](https://www.baidu.com/s?wd=%E2%80%9C%E9%85%B8%E5%A5%B6%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%E2%80%9D%EF%BC%9F%E7%BD%91%E7%BA%A2%E8%8C%B6%E9%A5%AE%E8%A2%AB%E7%82%B9%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [AI复活逝者最低只需几块钱](https://www.baidu.com/s?wd=AI%E5%A4%8D%E6%B4%BB%E9%80%9D%E8%80%85%E6%9C%80%E4%BD%8E%E5%8F%AA%E9%9C%80%E5%87%A0%E5%9D%97%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣五大道旅游区马被累倒](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E4%BA%94%E5%A4%A7%E9%81%93%E6%97%85%E6%B8%B8%E5%8C%BA%E9%A9%AC%E8%A2%AB%E7%B4%AF%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
