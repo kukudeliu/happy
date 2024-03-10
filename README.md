@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 10:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 11:00:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [两会新词热词来了](https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [学生睡不醒班主任背到医院](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9D%A1%E4%B8%8D%E9%86%92%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%83%8C%E5%88%B0%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教室最高一排座位两层楼高](https://www.baidu.com/s?wd=%E6%95%99%E5%AE%A4%E6%9C%80%E9%AB%98%E4%B8%80%E6%8E%92%E5%BA%A7%E4%BD%8D%E4%B8%A4%E5%B1%82%E6%A5%BC%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四川“豹警官”意外走红](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E2%80%9C%E8%B1%B9%E8%AD%A6%E5%AE%98%E2%80%9D%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“酸奶去哪儿了”？网红茶饮被点名](https://www.baidu.com/s?wd=%E2%80%9C%E9%85%B8%E5%A5%B6%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%E2%80%9D%EF%BC%9F%E7%BD%91%E7%BA%A2%E8%8C%B6%E9%A5%AE%E8%A2%AB%E7%82%B9%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [伊丽莎白女王号航母发生火灾](https://www.baidu.com/s?wd=%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%E5%A5%B3%E7%8E%8B%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川“豹警官”意外走红](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E2%80%9C%E8%B1%B9%E8%AD%A6%E5%AE%98%E2%80%9D%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [两会新词热词来了](https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [学生睡不醒班主任背到医院](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9D%A1%E4%B8%8D%E9%86%92%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%83%8C%E5%88%B0%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教室最高一排座位两层楼高](https://www.baidu.com/s?wd=%E6%95%99%E5%AE%A4%E6%9C%80%E9%AB%98%E4%B8%80%E6%8E%92%E5%BA%A7%E4%BD%8D%E4%B8%A4%E5%B1%82%E6%A5%BC%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [四川“豹警官”意外走红](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E2%80%9C%E8%B1%B9%E8%AD%A6%E5%AE%98%E2%80%9D%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“酸奶去哪儿了”？网红茶饮被点名](https://www.baidu.com/s?wd=%E2%80%9C%E9%85%B8%E5%A5%B6%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%E2%80%9D%EF%BC%9F%E7%BD%91%E7%BA%A2%E8%8C%B6%E9%A5%AE%E8%A2%AB%E7%82%B9%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [伊丽莎白女王号航母发生火灾](https://www.baidu.com/s?wd=%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%E5%A5%B3%E7%8E%8B%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川“豹警官”意外走红](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E2%80%9C%E8%B1%B9%E8%AD%A6%E5%AE%98%E2%80%9D%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
