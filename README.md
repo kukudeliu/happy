@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 16:09:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 16:10:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [“X疾病”可能暴发？国家疾控局回应](https://www.baidu.com/s?wd=%E2%80%9CX%E7%96%BE%E7%97%85%E2%80%9D%E5%8F%AF%E8%83%BD%E6%9A%B4%E5%8F%91%EF%BC%9F%E5%9B%BD%E5%AE%B6%E7%96%BE%E6%8E%A7%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [降温10℃！新一轮阴雨天气来袭](https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A910%E2%84%83%EF%BC%81%E6%96%B0%E4%B8%80%E8%BD%AE%E9%98%B4%E9%9B%A8%E5%A4%A9%E6%B0%94%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [离线休息权入法提案已立案](https://www.baidu.com/s?wd=%E7%A6%BB%E7%BA%BF%E4%BC%91%E6%81%AF%E6%9D%83%E5%85%A5%E6%B3%95%E6%8F%90%E6%A1%88%E5%B7%B2%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印尼客机飞行员在飞行途中睡着](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E5%AE%A2%E6%9C%BA%E9%A3%9E%E8%A1%8C%E5%91%98%E5%9C%A8%E9%A3%9E%E8%A1%8C%E9%80%94%E4%B8%AD%E7%9D%A1%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教室最高一排座位两层楼高](https://www.baidu.com/s?wd=%E6%95%99%E5%AE%A4%E6%9C%80%E9%AB%98%E4%B8%80%E6%8E%92%E5%BA%A7%E4%BD%8D%E4%B8%A4%E5%B1%82%E6%A5%BC%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣五大道旅游区马被累倒](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E4%BA%94%E5%A4%A7%E9%81%93%E6%97%85%E6%B8%B8%E5%8C%BA%E9%A9%AC%E8%A2%AB%E7%B4%AF%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [“X疾病”可能暴发？国家疾控局回应](https://www.baidu.com/s?wd=%E2%80%9CX%E7%96%BE%E7%97%85%E2%80%9D%E5%8F%AF%E8%83%BD%E6%9A%B4%E5%8F%91%EF%BC%9F%E5%9B%BD%E5%AE%B6%E7%96%BE%E6%8E%A7%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [降温10℃！新一轮阴雨天气来袭](https://www.baidu.com/s?wd=%E9%99%8D%E6%B8%A910%E2%84%83%EF%BC%81%E6%96%B0%E4%B8%80%E8%BD%AE%E9%98%B4%E9%9B%A8%E5%A4%A9%E6%B0%94%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [离线休息权入法提案已立案](https://www.baidu.com/s?wd=%E7%A6%BB%E7%BA%BF%E4%BC%91%E6%81%AF%E6%9D%83%E5%85%A5%E6%B3%95%E6%8F%90%E6%A1%88%E5%B7%B2%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [印尼客机飞行员在飞行途中睡着](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E5%AE%A2%E6%9C%BA%E9%A3%9E%E8%A1%8C%E5%91%98%E5%9C%A8%E9%A3%9E%E8%A1%8C%E9%80%94%E4%B8%AD%E7%9D%A1%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教室最高一排座位两层楼高](https://www.baidu.com/s?wd=%E6%95%99%E5%AE%A4%E6%9C%80%E9%AB%98%E4%B8%80%E6%8E%92%E5%BA%A7%E4%BD%8D%E4%B8%A4%E5%B1%82%E6%A5%BC%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣五大道旅游区马被累倒](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E4%BA%94%E5%A4%A7%E9%81%93%E6%97%85%E6%B8%B8%E5%8C%BA%E9%A9%AC%E8%A2%AB%E7%B4%AF%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
