@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 11:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 11:19:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [2024两会好声音](https://s.weibo.com/weibo?q=%232024%E4%B8%A4%E4%BC%9A%E5%A5%BD%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=3&Refer=top)<br />
 4. [第一次在宁静的眼神里看到了无助](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%AE%81%E9%9D%99%E7%9A%84%E7%9C%BC%E7%A5%9E%E9%87%8C%E7%9C%8B%E5%88%B0%E4%BA%86%E6%97%A0%E5%8A%A9&t=31&band_rank=4&Refer=top)<br />
 5. [粉笔模考](https://s.weibo.com/weibo?q=%E7%B2%89%E7%AC%94%E6%A8%A1%E8%80%83&t=31&band_rank=5&Refer=top)<br />
-6. [樊振东林昀儒一起看霉霉演唱会](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%9E%97%E6%98%80%E5%84%92%E4%B8%80%E8%B5%B7%E7%9C%8B%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
-7. [泪失禁体质可能是大脑太发达](https://s.weibo.com/weibo?q=%23%E6%B3%AA%E5%A4%B1%E7%A6%81%E4%BD%93%E8%B4%A8%E5%8F%AF%E8%83%BD%E6%98%AF%E5%A4%A7%E8%84%91%E5%A4%AA%E5%8F%91%E8%BE%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴镇宇否认无限超越班吵架是剧本](https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%E5%90%A6%E8%AE%A4%E6%97%A0%E9%99%90%E8%B6%85%E8%B6%8A%E7%8F%AD%E5%90%B5%E6%9E%B6%E6%98%AF%E5%89%A7%E6%9C%AC%23&t=31&band_rank=8&Refer=top)<br />
+6. [吴镇宇否认无限超越班吵架是剧本](https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%E5%90%A6%E8%AE%A4%E6%97%A0%E9%99%90%E8%B6%85%E8%B6%8A%E7%8F%AD%E5%90%B5%E6%9E%B6%E6%98%AF%E5%89%A7%E6%9C%AC%23&t=31&band_rank=6&Refer=top)<br />
+7. [樊振东林昀儒一起看霉霉演唱会](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%9E%97%E6%98%80%E5%84%92%E4%B8%80%E8%B5%B7%E7%9C%8B%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
+8. [泪失禁体质可能是大脑太发达](https://s.weibo.com/weibo?q=%23%E6%B3%AA%E5%A4%B1%E7%A6%81%E4%BD%93%E8%B4%A8%E5%8F%AF%E8%83%BD%E6%98%AF%E5%A4%A7%E8%84%91%E5%A4%AA%E5%8F%91%E8%BE%BE%23&t=31&band_rank=8&Refer=top)<br />
 9. [周深二专](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E4%BA%8C%E4%B8%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [学生睡不醒班主任背到医院](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9D%A1%E4%B8%8D%E9%86%92%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%83%8C%E5%88%B0%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教室最高一排座位两层楼高](https://www.baidu.com/s?wd=%E6%95%99%E5%AE%A4%E6%9C%80%E9%AB%98%E4%B8%80%E6%8E%92%E5%BA%A7%E4%BD%8D%E4%B8%A4%E5%B1%82%E6%A5%BC%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [伊丽莎白女王号航母发生火灾](https://www.baidu.com/s?wd=%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%E5%A5%B3%E7%8E%8B%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“酸奶去哪儿了”？网红茶饮被点名](https://www.baidu.com/s?wd=%E2%80%9C%E9%85%B8%E5%A5%B6%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%E2%80%9D%EF%BC%9F%E7%BD%91%E7%BA%A2%E8%8C%B6%E9%A5%AE%E8%A2%AB%E7%82%B9%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [骡子肚子发胀兽医放气点火治疗](https://www.baidu.com/s?wd=%E9%AA%A1%E5%AD%90%E8%82%9A%E5%AD%90%E5%8F%91%E8%83%80%E5%85%BD%E5%8C%BB%E6%94%BE%E6%B0%94%E7%82%B9%E7%81%AB%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [学生睡不醒班主任背到医院](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9D%A1%E4%B8%8D%E9%86%92%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%83%8C%E5%88%B0%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教室最高一排座位两层楼高](https://www.baidu.com/s?wd=%E6%95%99%E5%AE%A4%E6%9C%80%E9%AB%98%E4%B8%80%E6%8E%92%E5%BA%A7%E4%BD%8D%E4%B8%A4%E5%B1%82%E6%A5%BC%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [伊丽莎白女王号航母发生火灾](https://www.baidu.com/s?wd=%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%E5%A5%B3%E7%8E%8B%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“酸奶去哪儿了”？网红茶饮被点名](https://www.baidu.com/s?wd=%E2%80%9C%E9%85%B8%E5%A5%B6%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%E2%80%9D%EF%BC%9F%E7%BD%91%E7%BA%A2%E8%8C%B6%E9%A5%AE%E8%A2%AB%E7%82%B9%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [骡子肚子发胀兽医放气点火治疗](https://www.baidu.com/s?wd=%E9%AA%A1%E5%AD%90%E8%82%9A%E5%AD%90%E5%8F%91%E8%83%80%E5%85%BD%E5%8C%BB%E6%94%BE%E6%B0%94%E7%82%B9%E7%81%AB%E6%B2%BB%E7%96%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
