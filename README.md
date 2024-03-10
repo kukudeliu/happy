@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 21:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 21:16:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [当甲骨文穿越到2024年的中国](https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%94%B2%E9%AA%A8%E6%96%87%E7%A9%BF%E8%B6%8A%E5%88%B02024%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [刘东昊因意外离世](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%9C%E6%98%8A%E5%9B%A0%E6%84%8F%E5%A4%96%E7%A6%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [马龙男单](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%E7%94%B7%E5%8D%95&t=31&band_rank=5&Refer=top)<br />
-6. [赵丽颖想和张艺谋继续合作](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%83%B3%E5%92%8C%E5%BC%A0%E8%89%BA%E8%B0%8B%E7%BB%A7%E7%BB%AD%E5%90%88%E4%BD%9C%23&t=31&band_rank=6&Refer=top)<br />
-7. [5名艾滋病治愈者都有1个共同特点](https://s.weibo.com/weibo?q=%235%E5%90%8D%E8%89%BE%E6%BB%8B%E7%97%85%E6%B2%BB%E6%84%88%E8%80%85%E9%83%BD%E6%9C%891%E4%B8%AA%E5%85%B1%E5%90%8C%E7%89%B9%E7%82%B9%23&t=31&band_rank=7&Refer=top)<br />
+6. [5名艾滋病治愈者都有1个共同特点](https://s.weibo.com/weibo?q=%235%E5%90%8D%E8%89%BE%E6%BB%8B%E7%97%85%E6%B2%BB%E6%84%88%E8%80%85%E9%83%BD%E6%9C%891%E4%B8%AA%E5%85%B1%E5%90%8C%E7%89%B9%E7%82%B9%23&t=31&band_rank=6&Refer=top)<br />
+7. [赵丽颖想和张艺谋继续合作](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%83%B3%E5%92%8C%E5%BC%A0%E8%89%BA%E8%B0%8B%E7%BB%A7%E7%BB%AD%E5%90%88%E4%BD%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [桃花坞文案 顶级浪漫](https://s.weibo.com/weibo?q=%E6%A1%83%E8%8A%B1%E5%9D%9E%E6%96%87%E6%A1%88%20%E9%A1%B6%E7%BA%A7%E6%B5%AA%E6%BC%AB&t=31&band_rank=8&Refer=top)<br />
 9. [WE对战WBG](https://s.weibo.com/weibo?q=%23WE%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=9&Refer=top)<br />
 
