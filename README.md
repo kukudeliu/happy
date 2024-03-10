@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 10:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 10:06:02</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [部分存款产品利率高达6%-10%](https://www.baidu.com/s?wd=%E9%83%A8%E5%88%86%E5%AD%98%E6%AC%BE%E4%BA%A7%E5%93%81%E5%88%A9%E7%8E%87%E9%AB%98%E8%BE%BE6%25-10%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [两会新词热词来了](https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [彩电大王席卷了农村屋顶](https://www.baidu.com/s?wd=%E5%BD%A9%E7%94%B5%E5%A4%A7%E7%8E%8B%E5%B8%AD%E5%8D%B7%E4%BA%86%E5%86%9C%E6%9D%91%E5%B1%8B%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [四川“豹警官”意外走红](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E2%80%9C%E8%B1%B9%E8%AD%A6%E5%AE%98%E2%80%9D%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [学生睡不醒班主任背到医院](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9D%A1%E4%B8%8D%E9%86%92%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%83%8C%E5%88%B0%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [学生睡不醒班主任背到医院](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9D%A1%E4%B8%8D%E9%86%92%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%83%8C%E5%88%B0%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [四川“豹警官”意外走红](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E2%80%9C%E8%B1%B9%E8%AD%A6%E5%AE%98%E2%80%9D%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“酸奶去哪儿了”？网红茶饮被点名](https://www.baidu.com/s?wd=%E2%80%9C%E9%85%B8%E5%A5%B6%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%E2%80%9D%EF%BC%9F%E7%BD%91%E7%BA%A2%E8%8C%B6%E9%A5%AE%E8%A2%AB%E7%82%B9%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [部分存款产品利率高达6%-10%](https://www.baidu.com/s?wd=%E9%83%A8%E5%88%86%E5%AD%98%E6%AC%BE%E4%BA%A7%E5%93%81%E5%88%A9%E7%8E%87%E9%AB%98%E8%BE%BE6%25-10%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [两会新词热词来了](https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E6%96%B0%E8%AF%8D%E7%83%AD%E8%AF%8D%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [彩电大王席卷了农村屋顶](https://www.baidu.com/s?wd=%E5%BD%A9%E7%94%B5%E5%A4%A7%E7%8E%8B%E5%B8%AD%E5%8D%B7%E4%BA%86%E5%86%9C%E6%9D%91%E5%B1%8B%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [四川“豹警官”意外走红](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E2%80%9C%E8%B1%B9%E8%AD%A6%E5%AE%98%E2%80%9D%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [学生睡不醒班主任背到医院](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9D%A1%E4%B8%8D%E9%86%92%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%83%8C%E5%88%B0%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [学生睡不醒班主任背到医院](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9D%A1%E4%B8%8D%E9%86%92%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%83%8C%E5%88%B0%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [四川“豹警官”意外走红](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E2%80%9C%E8%B1%B9%E8%AD%A6%E5%AE%98%E2%80%9D%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [“酸奶去哪儿了”？网红茶饮被点名](https://www.baidu.com/s?wd=%E2%80%9C%E9%85%B8%E5%A5%B6%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%E2%80%9D%EF%BC%9F%E7%BD%91%E7%BA%A2%E8%8C%B6%E9%A5%AE%E8%A2%AB%E7%82%B9%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
