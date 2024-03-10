@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 16:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 16:57:01</h4></div>
 
 > 微博  
 
-1. [纪凌尘让宁静不再宁静](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%87%8C%E5%B0%98%E8%AE%A9%E5%AE%81%E9%9D%99%E4%B8%8D%E5%86%8D%E5%AE%81%E9%9D%99%23&t=31&band_rank=1&Refer=top)<br />
-2. [楚乔传新预告](https://s.weibo.com/weibo?q=%23%E6%A5%9A%E4%B9%94%E4%BC%A0%E6%96%B0%E9%A2%84%E5%91%8A%23&t=31&band_rank=2&Refer=top)<br />
+1. [楚乔传新预告](https://s.weibo.com/weibo?q=%23%E6%A5%9A%E4%B9%94%E4%BC%A0%E6%96%B0%E9%A2%84%E5%91%8A%23&t=31&band_rank=1&Refer=top)<br />
+2. [纪凌尘让宁静不再宁静](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%87%8C%E5%B0%98%E8%AE%A9%E5%AE%81%E9%9D%99%E4%B8%8D%E5%86%8D%E5%AE%81%E9%9D%99%23&t=31&band_rank=2&Refer=top)<br />
 3. [全国政协十四届二次会议闭幕会](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%8D%81%E5%9B%9B%E5%B1%8A%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E9%97%AD%E5%B9%95%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [点读机女孩发烧不退再次进ICU](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%83%A7%E4%B8%8D%E9%80%80%E5%86%8D%E6%AC%A1%E8%BF%9BICU%23&t=31&band_rank=4&Refer=top)<br />
 5. [西班牙将正式承认巴勒斯坦国](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%86%E6%AD%A3%E5%BC%8F%E6%89%BF%E8%AE%A4%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD%23&t=31&band_rank=5&Refer=top)<br />
