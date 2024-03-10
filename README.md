@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 16:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 16:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [“X疾病”可能暴发？国家疾控局回应](https://www.baidu.com/s?wd=%E2%80%9CX%E7%96%BE%E7%97%85%E2%80%9D%E5%8F%AF%E8%83%BD%E6%9A%B4%E5%8F%91%EF%BC%9F%E5%9B%BD%E5%AE%B6%E7%96%BE%E6%8E%A7%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [点读机女孩高君雨发烧进ICU](https://www.baidu.com/s?wd=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E9%AB%98%E5%90%9B%E9%9B%A8%E5%8F%91%E7%83%A7%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女警脱下制服遮挡车内产子的孕妇](https://www.baidu.com/s?wd=%E5%A5%B3%E8%AD%A6%E8%84%B1%E4%B8%8B%E5%88%B6%E6%9C%8D%E9%81%AE%E6%8C%A1%E8%BD%A6%E5%86%85%E4%BA%A7%E5%AD%90%E7%9A%84%E5%AD%95%E5%A6%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [代表建议由国家负担生育福利支出](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E7%94%B1%E5%9B%BD%E5%AE%B6%E8%B4%9F%E6%8B%85%E7%94%9F%E8%82%B2%E7%A6%8F%E5%88%A9%E6%94%AF%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特朗普再次模仿拜登](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%A8%A1%E4%BB%BF%E6%8B%9C%E7%99%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣五大道旅游区马被累倒](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E4%BA%94%E5%A4%A7%E9%81%93%E6%97%85%E6%B8%B8%E5%8C%BA%E9%A9%AC%E8%A2%AB%E7%B4%AF%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [“X疾病”可能暴发？国家疾控局回应](https://www.baidu.com/s?wd=%E2%80%9CX%E7%96%BE%E7%97%85%E2%80%9D%E5%8F%AF%E8%83%BD%E6%9A%B4%E5%8F%91%EF%BC%9F%E5%9B%BD%E5%AE%B6%E7%96%BE%E6%8E%A7%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [点读机女孩高君雨发烧进ICU](https://www.baidu.com/s?wd=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E9%AB%98%E5%90%9B%E9%9B%A8%E5%8F%91%E7%83%A7%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女警脱下制服遮挡车内产子的孕妇](https://www.baidu.com/s?wd=%E5%A5%B3%E8%AD%A6%E8%84%B1%E4%B8%8B%E5%88%B6%E6%9C%8D%E9%81%AE%E6%8C%A1%E8%BD%A6%E5%86%85%E4%BA%A7%E5%AD%90%E7%9A%84%E5%AD%95%E5%A6%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [代表建议由国家负担生育福利支出](https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E7%94%B1%E5%9B%BD%E5%AE%B6%E8%B4%9F%E6%8B%85%E7%94%9F%E8%82%B2%E7%A6%8F%E5%88%A9%E6%94%AF%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特朗普再次模仿拜登](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%A8%A1%E4%BB%BF%E6%8B%9C%E7%99%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣五大道旅游区马被累倒](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E4%BA%94%E5%A4%A7%E9%81%93%E6%97%85%E6%B8%B8%E5%8C%BA%E9%A9%AC%E8%A2%AB%E7%B4%AF%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
