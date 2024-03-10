@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 23:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 23:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [5名艾滋病治愈者都有1个共同特点](https://s.weibo.com/weibo?q=%235%E5%90%8D%E8%89%BE%E6%BB%8B%E7%97%85%E6%B2%BB%E6%84%88%E8%80%85%E9%83%BD%E6%9C%891%E4%B8%AA%E5%85%B1%E5%90%8C%E7%89%B9%E7%82%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵丽颖陈建斌坐一起](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%99%88%E5%BB%BA%E6%96%8C%E5%9D%90%E4%B8%80%E8%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [张学友演唱会将补偿住宿及车票损失](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%A6%E5%8F%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B0%86%E8%A1%A5%E5%81%BF%E4%BD%8F%E5%AE%BF%E5%8F%8A%E8%BD%A6%E7%A5%A8%E6%8D%9F%E5%A4%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [眼泪女王第二集](https://s.weibo.com/weibo?q=%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%E7%AC%AC%E4%BA%8C%E9%9B%86&t=31&band_rank=9&Refer=top)<br />
+9. [呼市大面积停水48小时](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%B8%82%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%81%9C%E6%B0%B448%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
