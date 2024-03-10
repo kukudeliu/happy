@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 11:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 11:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [学生睡不醒班主任背到医院](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9D%A1%E4%B8%8D%E9%86%92%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%83%8C%E5%88%B0%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国大选将迎“耄耋对决”](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E5%B0%86%E8%BF%8E%E2%80%9C%E8%80%84%E8%80%8B%E5%AF%B9%E5%86%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [教室最高一排座位两层楼高](https://www.baidu.com/s?wd=%E6%95%99%E5%AE%A4%E6%9C%80%E9%AB%98%E4%B8%80%E6%8E%92%E5%BA%A7%E4%BD%8D%E4%B8%A4%E5%B1%82%E6%A5%BC%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [伊丽莎白女王号航母发生火灾](https://www.baidu.com/s?wd=%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%E5%A5%B3%E7%8E%8B%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乌军前总司令因健康原因被解除现役](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E5%89%8D%E6%80%BB%E5%8F%B8%E4%BB%A4%E5%9B%A0%E5%81%A5%E5%BA%B7%E5%8E%9F%E5%9B%A0%E8%A2%AB%E8%A7%A3%E9%99%A4%E7%8E%B0%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [学生睡不醒班主任背到医院](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9D%A1%E4%B8%8D%E9%86%92%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%83%8C%E5%88%B0%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国大选将迎“耄耋对决”](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E5%B0%86%E8%BF%8E%E2%80%9C%E8%80%84%E8%80%8B%E5%AF%B9%E5%86%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [教室最高一排座位两层楼高](https://www.baidu.com/s?wd=%E6%95%99%E5%AE%A4%E6%9C%80%E9%AB%98%E4%B8%80%E6%8E%92%E5%BA%A7%E4%BD%8D%E4%B8%A4%E5%B1%82%E6%A5%BC%E9%AB%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [伊丽莎白女王号航母发生火灾](https://www.baidu.com/s?wd=%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%E5%A5%B3%E7%8E%8B%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [乌军前总司令因健康原因被解除现役](https://www.baidu.com/s?wd=%E4%B9%8C%E5%86%9B%E5%89%8D%E6%80%BB%E5%8F%B8%E4%BB%A4%E5%9B%A0%E5%81%A5%E5%BA%B7%E5%8E%9F%E5%9B%A0%E8%A2%AB%E8%A7%A3%E9%99%A4%E7%8E%B0%E5%BD%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
