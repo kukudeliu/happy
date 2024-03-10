@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 21:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 21:11:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [刘东昊因意外离世](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%9C%E6%98%8A%E5%9B%A0%E6%84%8F%E5%A4%96%E7%A6%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [马龙男单](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%E7%94%B7%E5%8D%95&t=31&band_rank=5&Refer=top)<br />
 6. [5名艾滋病治愈者都有1个共同特点](https://s.weibo.com/weibo?q=%235%E5%90%8D%E8%89%BE%E6%BB%8B%E7%97%85%E6%B2%BB%E6%84%88%E8%80%85%E9%83%BD%E6%9C%891%E4%B8%AA%E5%85%B1%E5%90%8C%E7%89%B9%E7%82%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [赵丽颖亚洲电影大奖获奖](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%BD%B1%E5%A4%A7%E5%A5%96%E8%8E%B7%E5%A5%96%23&t=31&band_rank=7&Refer=top)<br />
+7. [赵丽颖陈建斌坐一起](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%99%88%E5%BB%BA%E6%96%8C%E5%9D%90%E4%B8%80%E8%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [桃花坞文案 顶级浪漫](https://s.weibo.com/weibo?q=%E6%A1%83%E8%8A%B1%E5%9D%9E%E6%96%87%E6%A1%88%20%E9%A1%B6%E7%BA%A7%E6%B5%AA%E6%BC%AB&t=31&band_rank=8&Refer=top)<br />
 9. [WE对战WBG](https://s.weibo.com/weibo?q=%23WE%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=9&Refer=top)<br />
 
