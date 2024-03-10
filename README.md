@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 23:47:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 23:48:01</h4></div>
 
 > 微博  
 
-1. [今年二月二真有龙抬头](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%BA%8C%E6%9C%88%E4%BA%8C%E7%9C%9F%E6%9C%89%E9%BE%99%E6%8A%AC%E5%A4%B4%23&t=31&band_rank=1&Refer=top)<br />
-2. [封神第二部计划三年内上映](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E8%AE%A1%E5%88%92%E4%B8%89%E5%B9%B4%E5%86%85%E4%B8%8A%E6%98%A0%23&t=31&band_rank=2&Refer=top)<br />
+1. [封神第二部计划三年内上映](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E8%AE%A1%E5%88%92%E4%B8%89%E5%B9%B4%E5%86%85%E4%B8%8A%E6%98%A0%23&t=31&band_rank=1&Refer=top)<br />
+2. [今年二月二真有龙抬头](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%BA%8C%E6%9C%88%E4%BA%8C%E7%9C%9F%E6%9C%89%E9%BE%99%E6%8A%AC%E5%A4%B4%23&t=31&band_rank=2&Refer=top)<br />
 3. [当甲骨文穿越到2024年的中国](https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%94%B2%E9%AA%A8%E6%96%87%E7%A9%BF%E8%B6%8A%E5%88%B02024%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [刘东昊因意外离世](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%9C%E6%98%8A%E5%9B%A0%E6%84%8F%E5%A4%96%E7%A6%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [樊振东回应看霉霉演唱会感受](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%BA%94%E7%9C%8B%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A%E6%84%9F%E5%8F%97%23&t=31&band_rank=5&Refer=top)<br />
