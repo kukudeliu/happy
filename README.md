@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 10:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 10:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [樊振东林昀儒一起看霉霉演唱会](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%9E%97%E6%98%80%E5%84%92%E4%B8%80%E8%B5%B7%E7%9C%8B%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
 7. [泪失禁体质可能是大脑太发达](https://s.weibo.com/weibo?q=%23%E6%B3%AA%E5%A4%B1%E7%A6%81%E4%BD%93%E8%B4%A8%E5%8F%AF%E8%83%BD%E6%98%AF%E5%A4%A7%E8%84%91%E5%A4%AA%E5%8F%91%E8%BE%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [学生睡不醒班主任背到医院](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E7%9D%A1%E4%B8%8D%E9%86%92%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%83%8C%E5%88%B0%E5%8C%BB%E9%99%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [120多张法院传票没难倒新任村干部](https://s.weibo.com/weibo?q=%23120%E5%A4%9A%E5%BC%A0%E6%B3%95%E9%99%A2%E4%BC%A0%E7%A5%A8%E6%B2%A1%E9%9A%BE%E5%80%92%E6%96%B0%E4%BB%BB%E6%9D%91%E5%B9%B2%E9%83%A8%23&t=31&band_rank=9&Refer=top)<br />
+9. [双胞胎哥哥为脑瘫弟弟建了一个家](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%93%A5%E5%93%A5%E4%B8%BA%E8%84%91%E7%98%AB%E5%BC%9F%E5%BC%9F%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
