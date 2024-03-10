@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 10:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 10:25:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [学生睡不醒班主任背到医院](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9D%A1%E4%B8%8D%E9%86%92%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%83%8C%E5%88%B0%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [四川“豹警官”意外走红](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E2%80%9C%E8%B1%B9%E8%AD%A6%E5%AE%98%E2%80%9D%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“酸奶去哪儿了”？网红茶饮被点名](https://www.baidu.com/s?wd=%E2%80%9C%E9%85%B8%E5%A5%B6%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%E2%80%9D%EF%BC%9F%E7%BD%91%E7%BA%A2%E8%8C%B6%E9%A5%AE%E8%A2%AB%E7%82%B9%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京自曝不喝烈酒](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%87%AA%E6%9B%9D%E4%B8%8D%E5%96%9D%E7%83%88%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [飞机延误乘务长唱歌补偿霉霉歌迷](https://www.baidu.com/s?wd=%E9%A3%9E%E6%9C%BA%E5%BB%B6%E8%AF%AF%E4%B9%98%E5%8A%A1%E9%95%BF%E5%94%B1%E6%AD%8C%E8%A1%A5%E5%81%BF%E9%9C%89%E9%9C%89%E6%AD%8C%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [学生睡不醒班主任背到医院](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E7%9D%A1%E4%B8%8D%E9%86%92%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%83%8C%E5%88%B0%E5%8C%BB%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [四川“豹警官”意外走红](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E2%80%9C%E8%B1%B9%E8%AD%A6%E5%AE%98%E2%80%9D%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“酸奶去哪儿了”？网红茶饮被点名](https://www.baidu.com/s?wd=%E2%80%9C%E9%85%B8%E5%A5%B6%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%E2%80%9D%EF%BC%9F%E7%BD%91%E7%BA%A2%E8%8C%B6%E9%A5%AE%E8%A2%AB%E7%82%B9%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京自曝不喝烈酒](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%87%AA%E6%9B%9D%E4%B8%8D%E5%96%9D%E7%83%88%E9%85%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [飞机延误乘务长唱歌补偿霉霉歌迷](https://www.baidu.com/s?wd=%E9%A3%9E%E6%9C%BA%E5%BB%B6%E8%AF%AF%E4%B9%98%E5%8A%A1%E9%95%BF%E5%94%B1%E6%AD%8C%E8%A1%A5%E5%81%BF%E9%9C%89%E9%9C%89%E6%AD%8C%E8%BF%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [博物馆辟谣回南天展柜玻璃起雾](https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BE%9F%E8%B0%A3%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B1%95%E6%9F%9C%E7%8E%BB%E7%92%83%E8%B5%B7%E9%9B%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
