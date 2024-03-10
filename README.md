@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 23:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 23:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [5名艾滋病治愈者都有1个共同特点](https://s.weibo.com/weibo?q=%235%E5%90%8D%E8%89%BE%E6%BB%8B%E7%97%85%E6%B2%BB%E6%84%88%E8%80%85%E9%83%BD%E6%9C%891%E4%B8%AA%E5%85%B1%E5%90%8C%E7%89%B9%E7%82%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [蒋勤勤获奖感谢吴磊](https://s.weibo.com/weibo?q=%23%E8%92%8B%E5%8B%A4%E5%8B%A4%E8%8E%B7%E5%A5%96%E6%84%9F%E8%B0%A2%E5%90%B4%E7%A3%8A%23&t=31&band_rank=7&Refer=top)<br />
 8. [呼市大面积停水48小时](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%B8%82%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%81%9C%E6%B0%B448%E5%B0%8F%E6%97%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖陈建斌坐一起](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%99%88%E5%BB%BA%E6%96%8C%E5%9D%90%E4%B8%80%E8%B5%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [封神第二部计划三年内上映](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E8%AE%A1%E5%88%92%E4%B8%89%E5%B9%B4%E5%86%85%E4%B8%8A%E6%98%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
