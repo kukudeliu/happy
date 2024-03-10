@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 07:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 07:27:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [孩子幼儿园就在单位楼下是什么体验](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B0%B1%E5%9C%A8%E5%8D%95%E4%BD%8D%E6%A5%BC%E4%B8%8B%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [5名艾滋病治愈者都有1个共同特点](https://s.weibo.com/weibo?q=%235%E5%90%8D%E8%89%BE%E6%BB%8B%E7%97%85%E6%B2%BB%E6%84%88%E8%80%85%E9%83%BD%E6%9C%891%E4%B8%AA%E5%85%B1%E5%90%8C%E7%89%B9%E7%82%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [清明节要调休](https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E8%8A%82%E8%A6%81%E8%B0%83%E4%BC%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [二月二](https://s.weibo.com/weibo?q=%E4%BA%8C%E6%9C%88%E4%BA%8C&t=31&band_rank=8&Refer=top)<br />
-9. [蒋勤勤获奖感谢吴磊](https://s.weibo.com/weibo?q=%23%E8%92%8B%E5%8B%A4%E5%8B%A4%E8%8E%B7%E5%A5%96%E6%84%9F%E8%B0%A2%E5%90%B4%E7%A3%8A%23&t=31&band_rank=9&Refer=top)<br />
+8. [2024奥斯卡颁奖典礼](https://s.weibo.com/weibo?q=%232024%E5%A5%A5%E6%96%AF%E5%8D%A1%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%23&t=31&band_rank=8&Refer=top)<br />
+9. [二月二](https://s.weibo.com/weibo?q=%E4%BA%8C%E6%9C%88%E4%BA%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
