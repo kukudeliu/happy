@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 15:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 15:16:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [“X疾病”可能暴发？国家疾控局回应](https://www.baidu.com/s?wd=%E2%80%9CX%E7%96%BE%E7%97%85%E2%80%9D%E5%8F%AF%E8%83%BD%E6%9A%B4%E5%8F%91%EF%BC%9F%E5%9B%BD%E5%AE%B6%E7%96%BE%E6%8E%A7%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [花店接5万2现金花束大单竟是洗钱](https://www.baidu.com/s?wd=%E8%8A%B1%E5%BA%97%E6%8E%A55%E4%B8%872%E7%8E%B0%E9%87%91%E8%8A%B1%E6%9D%9F%E5%A4%A7%E5%8D%95%E7%AB%9F%E6%98%AF%E6%B4%97%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拜登：后悔使用“非法移民”一词](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E5%90%8E%E6%82%94%E4%BD%BF%E7%94%A8%E2%80%9C%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E2%80%9D%E4%B8%80%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [8k到10k是应届生普遍期待的薪资](https://www.baidu.com/s?wd=8k%E5%88%B010k%E6%98%AF%E5%BA%94%E5%B1%8A%E7%94%9F%E6%99%AE%E9%81%8D%E6%9C%9F%E5%BE%85%E7%9A%84%E8%96%AA%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台代表：不认同自己是中国人是悲剧](https://www.baidu.com/s?wd=%E5%8F%B0%E4%BB%A3%E8%A1%A8%EF%BC%9A%E4%B8%8D%E8%AE%A4%E5%90%8C%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%98%AF%E6%82%B2%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣五大道旅游区马被累倒](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E4%BA%94%E5%A4%A7%E9%81%93%E6%97%85%E6%B8%B8%E5%8C%BA%E9%A9%AC%E8%A2%AB%E7%B4%AF%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [“X疾病”可能暴发？国家疾控局回应](https://www.baidu.com/s?wd=%E2%80%9CX%E7%96%BE%E7%97%85%E2%80%9D%E5%8F%AF%E8%83%BD%E6%9A%B4%E5%8F%91%EF%BC%9F%E5%9B%BD%E5%AE%B6%E7%96%BE%E6%8E%A7%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [花店接5万2现金花束大单竟是洗钱](https://www.baidu.com/s?wd=%E8%8A%B1%E5%BA%97%E6%8E%A55%E4%B8%872%E7%8E%B0%E9%87%91%E8%8A%B1%E6%9D%9F%E5%A4%A7%E5%8D%95%E7%AB%9F%E6%98%AF%E6%B4%97%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [拜登：后悔使用“非法移民”一词](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E5%90%8E%E6%82%94%E4%BD%BF%E7%94%A8%E2%80%9C%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E2%80%9D%E4%B8%80%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [8k到10k是应届生普遍期待的薪资](https://www.baidu.com/s?wd=8k%E5%88%B010k%E6%98%AF%E5%BA%94%E5%B1%8A%E7%94%9F%E6%99%AE%E9%81%8D%E6%9C%9F%E5%BE%85%E7%9A%84%E8%96%AA%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台代表：不认同自己是中国人是悲剧](https://www.baidu.com/s?wd=%E5%8F%B0%E4%BB%A3%E8%A1%A8%EF%BC%9A%E4%B8%8D%E8%AE%A4%E5%90%8C%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%98%AF%E6%82%B2%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣五大道旅游区马被累倒](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E4%BA%94%E5%A4%A7%E9%81%93%E6%97%85%E6%B8%B8%E5%8C%BA%E9%A9%AC%E8%A2%AB%E7%B4%AF%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
