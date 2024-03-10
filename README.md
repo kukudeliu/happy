@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 20:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 20:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [5名艾滋病治愈者都有1个共同特点](https://s.weibo.com/weibo?q=%235%E5%90%8D%E8%89%BE%E6%BB%8B%E7%97%85%E6%B2%BB%E6%84%88%E8%80%85%E9%83%BD%E6%9C%891%E4%B8%AA%E5%85%B1%E5%90%8C%E7%89%B9%E7%82%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵丽颖亚洲电影大奖获奖](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%BD%B1%E5%A4%A7%E5%A5%96%E8%8E%B7%E5%A5%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [楚乔传新预告](https://s.weibo.com/weibo?q=%23%E6%A5%9A%E4%B9%94%E4%BC%A0%E6%96%B0%E9%A2%84%E5%91%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [当甲骨文穿越到2024年的中国](https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%94%B2%E9%AA%A8%E6%96%87%E7%A9%BF%E8%B6%8A%E5%88%B02024%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=9&Refer=top)<br />
+9. [平野美宇3比0早田希娜](https://s.weibo.com/weibo?q=%23%E5%B9%B3%E9%87%8E%E7%BE%8E%E5%AE%873%E6%AF%940%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
