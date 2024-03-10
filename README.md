@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 12:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 12:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [山东事业编 亚冠](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E4%BA%8B%E4%B8%9A%E7%BC%96%20%E4%BA%9A%E5%86%A0&t=31&band_rank=6&Refer=top)<br />
 7. [女警脱下制服遮挡车内产子的孕妇](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%AD%A6%E8%84%B1%E4%B8%8B%E5%88%B6%E6%9C%8D%E9%81%AE%E6%8C%A1%E8%BD%A6%E5%86%85%E4%BA%A7%E5%AD%90%E7%9A%84%E5%AD%95%E5%A6%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [多家银行存款利率最高达10%](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E6%9C%80%E9%AB%98%E8%BE%BE10%25%23&t=31&band_rank=8&Refer=top)<br />
-9. [教师形式主义负担过重如何解决](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%E8%B4%9F%E6%8B%85%E8%BF%87%E9%87%8D%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [茉酸奶杯型变小每克更贵了](https://s.weibo.com/weibo?q=%23%E8%8C%89%E9%85%B8%E5%A5%B6%E6%9D%AF%E5%9E%8B%E5%8F%98%E5%B0%8F%E6%AF%8F%E5%85%8B%E6%9B%B4%E8%B4%B5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
