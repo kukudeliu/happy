@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 21:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 21:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [5名艾滋病治愈者都有1个共同特点](https://s.weibo.com/weibo?q=%235%E5%90%8D%E8%89%BE%E6%BB%8B%E7%97%85%E6%B2%BB%E6%84%88%E8%80%85%E9%83%BD%E6%9C%891%E4%B8%AA%E5%85%B1%E5%90%8C%E7%89%B9%E7%82%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [二月二龙抬头有哪些习俗](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%9C%88%E4%BA%8C%E9%BE%99%E6%8A%AC%E5%A4%B4%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B9%A0%E4%BF%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [桃花坞文案 顶级浪漫](https://s.weibo.com/weibo?q=%E6%A1%83%E8%8A%B1%E5%9D%9E%E6%96%87%E6%A1%88%20%E9%A1%B6%E7%BA%A7%E6%B5%AA%E6%BC%AB&t=31&band_rank=8&Refer=top)<br />
-9. [WE对战WBG](https://s.weibo.com/weibo?q=%23WE%E5%AF%B9%E6%88%98WBG%23&t=31&band_rank=9&Refer=top)<br />
+9. [建议将演员艺德列为重要评价指标](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E6%BC%94%E5%91%98%E8%89%BA%E5%BE%B7%E5%88%97%E4%B8%BA%E9%87%8D%E8%A6%81%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
