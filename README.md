@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 17:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 17:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [花店接5万2现金花束大单竟是洗钱](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%BA%97%E6%8E%A55%E4%B8%872%E7%8E%B0%E9%87%91%E8%8A%B1%E6%9D%9F%E5%A4%A7%E5%8D%95%E7%AB%9F%E6%98%AF%E6%B4%97%E9%92%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [西班牙将正式承认巴勒斯坦国](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%86%E6%AD%A3%E5%BC%8F%E6%89%BF%E8%AE%A4%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [点读机女孩](https://s.weibo.com/weibo?q=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9&t=31&band_rank=8&Refer=top)<br />
-9. [婆婆把房屋面积精确到小数点](https://s.weibo.com/weibo?q=%E5%A9%86%E5%A9%86%E6%8A%8A%E6%88%BF%E5%B1%8B%E9%9D%A2%E7%A7%AF%E7%B2%BE%E7%A1%AE%E5%88%B0%E5%B0%8F%E6%95%B0%E7%82%B9&t=31&band_rank=9&Refer=top)<br />
+9. [这下真的知道该怎么减肥了](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%8B%E7%9C%9F%E7%9A%84%E7%9F%A5%E9%81%93%E8%AF%A5%E6%80%8E%E4%B9%88%E5%87%8F%E8%82%A5%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
