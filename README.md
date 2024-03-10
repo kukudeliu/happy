@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 13:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 13:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [山东事业编 亚冠](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E4%BA%8B%E4%B8%9A%E7%BC%96%20%E4%BA%9A%E5%86%A0&t=31&band_rank=6&Refer=top)<br />
 7. [张邈 赛博美人](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%82%88%20%E8%B5%9B%E5%8D%9A%E7%BE%8E%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
 8. [美国大选将迎耄耋对决](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E5%B0%86%E8%BF%8E%E8%80%84%E8%80%8B%E5%AF%B9%E5%86%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [国家疾控局回应X疾病或会暴发警告](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%96%BE%E6%8E%A7%E5%B1%80%E5%9B%9E%E5%BA%94X%E7%96%BE%E7%97%85%E6%88%96%E4%BC%9A%E6%9A%B4%E5%8F%91%E8%AD%A6%E5%91%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [热辣滚烫 华语北美十年最大规模开画](https://s.weibo.com/weibo?q=%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%20%E5%8D%8E%E8%AF%AD%E5%8C%97%E7%BE%8E%E5%8D%81%E5%B9%B4%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%BC%80%E7%94%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
