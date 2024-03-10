@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 18:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-10 18:58:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [全国政协十四届二次会议闭幕会](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%8D%81%E5%9B%9B%E5%B1%8A%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E9%97%AD%E5%B9%95%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [5名艾滋病治愈者都有1个共同特点](https://s.weibo.com/weibo?q=%235%E5%90%8D%E8%89%BE%E6%BB%8B%E7%97%85%E6%B2%BB%E6%84%88%E8%80%85%E9%83%BD%E6%9C%891%E4%B8%AA%E5%85%B1%E5%90%8C%E7%89%B9%E7%82%B9%23&t=31&band_rank=4&Refer=top)<br />
 5. [姚明解读村BA为何出圈](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E8%A7%A3%E8%AF%BB%E6%9D%91BA%E4%B8%BA%E4%BD%95%E5%87%BA%E5%9C%88%23&t=31&band_rank=5&Refer=top)<br />
-6. [ChatGPT每天用电量是家庭用电量的1.7万多倍](https://s.weibo.com/weibo?q=%23ChatGPT%E6%AF%8F%E5%A4%A9%E7%94%A8%E7%94%B5%E9%87%8F%E6%98%AF%E5%AE%B6%E5%BA%AD%E7%94%A8%E7%94%B5%E9%87%8F%E7%9A%841.7%E4%B8%87%E5%A4%9A%E5%80%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [点读机女孩](https://s.weibo.com/weibo?q=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9&t=31&band_rank=7&Refer=top)<br />
+6. [点读机女孩](https://s.weibo.com/weibo?q=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9&t=31&band_rank=6&Refer=top)<br />
+7. [ChatGPT每天用电量是家庭用电量的1.7万多倍](https://s.weibo.com/weibo?q=%23ChatGPT%E6%AF%8F%E5%A4%A9%E7%94%A8%E7%94%B5%E9%87%8F%E6%98%AF%E5%AE%B6%E5%BA%AD%E7%94%A8%E7%94%B5%E9%87%8F%E7%9A%841.7%E4%B8%87%E5%A4%9A%E5%80%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [女警脱下制服遮挡车内产子的孕妇](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%AD%A6%E8%84%B1%E4%B8%8B%E5%88%B6%E6%9C%8D%E9%81%AE%E6%8C%A1%E8%BD%A6%E5%86%85%E4%BA%A7%E5%AD%90%E7%9A%84%E5%AD%95%E5%A6%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [民警安抚阿尔茨海默老人陪跳广场舞](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%AE%89%E6%8A%9A%E9%98%BF%E5%B0%94%E8%8C%A8%E6%B5%B7%E9%BB%98%E8%80%81%E4%BA%BA%E9%99%AA%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E%23&t=31&band_rank=9&Refer=top)<br />
 
