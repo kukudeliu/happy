@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 08:49:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 08:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [租房把房东家给改造了](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E6%88%BF%E6%8A%8A%E6%88%BF%E4%B8%9C%E5%AE%B6%E7%BB%99%E6%94%B9%E9%80%A0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵丽颖看着奖杯笑了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9C%8B%E7%9D%80%E5%A5%96%E6%9D%AF%E7%AC%91%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [清明节要调休](https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E8%8A%82%E8%A6%81%E8%B0%83%E4%BC%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [2024奥斯卡颁奖典礼](https://s.weibo.com/weibo?q=%232024%E5%A5%A5%E6%96%AF%E5%8D%A1%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [耙耙柑 善良的水果](https://s.weibo.com/weibo?q=%E8%80%99%E8%80%99%E6%9F%91%20%E5%96%84%E8%89%AF%E7%9A%84%E6%B0%B4%E6%9E%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
