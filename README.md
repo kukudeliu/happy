@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 20:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 20:15:01</h4></div>
 
 > 微博  
 
 1. [高君雨妈妈发声](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%90%9B%E9%9B%A8%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top)<br />
-2. [呷哺呷哺去年净亏损超1.8亿](https://s.weibo.com/weibo?q=%23%E5%91%B7%E5%93%BA%E5%91%B7%E5%93%BA%E5%8E%BB%E5%B9%B4%E5%87%80%E4%BA%8F%E6%8D%9F%E8%B6%851.8%E4%BA%BF%23&t=31&band_rank=2&Refer=top)<br />
+2. [成都警方通报天府二街伤害案](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A9%E5%BA%9C%E4%BA%8C%E8%A1%97%E4%BC%A4%E5%AE%B3%E6%A1%88%23&t=31&band_rank=2&Refer=top)<br />
 3. [两会代表委员热议重温经典频道](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%E4%BB%A3%E8%A1%A8%E5%A7%94%E5%91%98%E7%83%AD%E8%AE%AE%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8%E9%A2%91%E9%81%93%23&t=31&band_rank=3&Refer=top)<br />
-4. [成都警方通报天府二街伤害案](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A9%E5%BA%9C%E4%BA%8C%E8%A1%97%E4%BC%A4%E5%AE%B3%E6%A1%88%23&t=31&band_rank=4&Refer=top)<br />
+4. [呷哺呷哺去年净亏损超1.8亿](https://s.weibo.com/weibo?q=%23%E5%91%B7%E5%93%BA%E5%91%B7%E5%93%BA%E5%8E%BB%E5%B9%B4%E5%87%80%E4%BA%8F%E6%8D%9F%E8%B6%851.8%E4%BA%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [哪些食物不能放进空气炸锅](https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%BA%9B%E9%A3%9F%E7%89%A9%E4%B8%8D%E8%83%BD%E6%94%BE%E8%BF%9B%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [白鹿公主切](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%85%AC%E4%B8%BB%E5%88%87&t=31&band_rank=6&Refer=top)<br />
 7. [原神仆人](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E%E4%BB%86%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
