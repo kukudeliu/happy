@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 05:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 05:23:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [通道内外的高频词](https://www.baidu.com/s?wd=%E9%80%9A%E9%81%93%E5%86%85%E5%A4%96%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [海南东方市委书记田丽霞被查](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%9C%E6%96%B9%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%B0%E4%B8%BD%E9%9C%9E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子吞蛇胆喝蛇药15年后发病](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%9E%E8%9B%87%E8%83%86%E5%96%9D%E8%9B%87%E8%8D%AF15%E5%B9%B4%E5%90%8E%E5%8F%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [吃不愁穿不愁还得有钱去旅游](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%8D%E6%84%81%E7%A9%BF%E4%B8%8D%E6%84%81%E8%BF%98%E5%BE%97%E6%9C%89%E9%92%B1%E5%8E%BB%E6%97%85%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [坦桑尼亚9人吃海龟肉中毒身亡](https://www.baidu.com/s?wd=%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A9%E4%BA%BA%E5%90%83%E6%B5%B7%E9%BE%9F%E8%82%89%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅安辟谣马踏飞燕建筑要拆除](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E8%BE%9F%E8%B0%A3%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95%E5%BB%BA%E7%AD%91%E8%A6%81%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [通道内外的高频词](https://www.baidu.com/s?wd=%E9%80%9A%E9%81%93%E5%86%85%E5%A4%96%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [海南东方市委书记田丽霞被查](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%9C%E6%96%B9%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%B0%E4%B8%BD%E9%9C%9E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子吞蛇胆喝蛇药15年后发病](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%9E%E8%9B%87%E8%83%86%E5%96%9D%E8%9B%87%E8%8D%AF15%E5%B9%B4%E5%90%8E%E5%8F%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [吃不愁穿不愁还得有钱去旅游](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%8D%E6%84%81%E7%A9%BF%E4%B8%8D%E6%84%81%E8%BF%98%E5%BE%97%E6%9C%89%E9%92%B1%E5%8E%BB%E6%97%85%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [坦桑尼亚9人吃海龟肉中毒身亡](https://www.baidu.com/s?wd=%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A9%E4%BA%BA%E5%90%83%E6%B5%B7%E9%BE%9F%E8%82%89%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅安辟谣马踏飞燕建筑要拆除](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E8%BE%9F%E8%B0%A3%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95%E5%BB%BA%E7%AD%91%E8%A6%81%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
