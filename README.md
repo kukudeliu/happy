@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 10:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 10:32:01</h4></div>
 
 > 微博  
 
@@ -8,7 +8,7 @@
 4. [耙耙柑 善良的水果](https://s.weibo.com/weibo?q=%E8%80%99%E8%80%99%E6%9F%91%20%E5%96%84%E8%89%AF%E7%9A%84%E6%B0%B4%E6%9E%9C&t=31&band_rank=4&Refer=top)<br />
 5. [打印准考证](https://s.weibo.com/weibo?q=%E6%89%93%E5%8D%B0%E5%87%86%E8%80%83%E8%AF%81&t=31&band_rank=5&Refer=top)<br />
 6. [癌症来临时身体会喊痛](https://s.weibo.com/weibo?q=%23%E7%99%8C%E7%97%87%E6%9D%A5%E4%B8%B4%E6%97%B6%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%96%8A%E7%97%9B%23&t=31&band_rank=6&Refer=top)<br />
-7. [2024奥斯卡颁奖典礼](https://s.weibo.com/weibo?q=%232024%E5%A5%A5%E6%96%AF%E5%8D%A1%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%23&t=31&band_rank=7&Refer=top)<br />
+7. [基里安墨菲奥斯卡影帝](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E9%87%8C%E5%AE%89%E5%A2%A8%E8%8F%B2%E5%A5%A5%E6%96%AF%E5%8D%A1%E5%BD%B1%E5%B8%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [租房把房东家给改造了](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E6%88%BF%E6%8A%8A%E6%88%BF%E4%B8%9C%E5%AE%B6%E7%BB%99%E6%94%B9%E9%80%A0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [宁波女子洗车竟被店员洗公仔擦鞋](https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E5%A5%B3%E5%AD%90%E6%B4%97%E8%BD%A6%E7%AB%9F%E8%A2%AB%E5%BA%97%E5%91%98%E6%B4%97%E5%85%AC%E4%BB%94%E6%93%A6%E9%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
