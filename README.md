@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 12:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 12:36:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [新质生产力，是个什么力？](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%EF%BC%8C%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E5%8A%9B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子洗车竟被店员洗公仔擦鞋](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B4%97%E8%BD%A6%E7%AB%9F%E8%A2%AB%E5%BA%97%E5%91%98%E6%B4%97%E5%85%AC%E4%BB%94%E6%93%A6%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [霉霉为何成为美国大选关键角色](https://www.baidu.com/s?wd=%E9%9C%89%E9%9C%89%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E5%85%B3%E9%94%AE%E8%A7%92%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子误认国漫为日本动漫怒砸签名墙](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E8%AE%A4%E5%9B%BD%E6%BC%AB%E4%B8%BA%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E6%80%92%E7%A0%B8%E7%AD%BE%E5%90%8D%E5%A2%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子因社恐40岁才找到合适的工作](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E7%A4%BE%E6%81%9040%E5%B2%81%E6%89%8D%E6%89%BE%E5%88%B0%E5%90%88%E9%80%82%E7%9A%84%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“点读机女孩”视频被质疑是库存](https://www.baidu.com/s?wd=%E2%80%9C%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E2%80%9D%E8%A7%86%E9%A2%91%E8%A2%AB%E8%B4%A8%E7%96%91%E6%98%AF%E5%BA%93%E5%AD%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子误认国漫为日本动漫怒砸签名墙](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E8%AE%A4%E5%9B%BD%E6%BC%AB%E4%B8%BA%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E6%80%92%E7%A0%B8%E7%AD%BE%E5%90%8D%E5%A2%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [秦岭野生动物园辟谣门票免费送](https://www.baidu.com/s?wd=%E7%A7%A6%E5%B2%AD%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%9B%AD%E8%BE%9F%E8%B0%A3%E9%97%A8%E7%A5%A8%E5%85%8D%E8%B4%B9%E9%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [新质生产力，是个什么力？](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%EF%BC%8C%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E5%8A%9B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [女子洗车竟被店员洗公仔擦鞋](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B4%97%E8%BD%A6%E7%AB%9F%E8%A2%AB%E5%BA%97%E5%91%98%E6%B4%97%E5%85%AC%E4%BB%94%E6%93%A6%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [霉霉为何成为美国大选关键角色](https://www.baidu.com/s?wd=%E9%9C%89%E9%9C%89%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E5%85%B3%E9%94%AE%E8%A7%92%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子误认国漫为日本动漫怒砸签名墙](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E8%AE%A4%E5%9B%BD%E6%BC%AB%E4%B8%BA%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E6%80%92%E7%A0%B8%E7%AD%BE%E5%90%8D%E5%A2%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子因社恐40岁才找到合适的工作](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E7%A4%BE%E6%81%9040%E5%B2%81%E6%89%8D%E6%89%BE%E5%88%B0%E5%90%88%E9%80%82%E7%9A%84%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [“点读机女孩”视频被质疑是库存](https://www.baidu.com/s?wd=%E2%80%9C%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E2%80%9D%E8%A7%86%E9%A2%91%E8%A2%AB%E8%B4%A8%E7%96%91%E6%98%AF%E5%BA%93%E5%AD%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子误认国漫为日本动漫怒砸签名墙](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E8%AE%A4%E5%9B%BD%E6%BC%AB%E4%B8%BA%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E6%80%92%E7%A0%B8%E7%AD%BE%E5%90%8D%E5%A2%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [秦岭野生动物园辟谣门票免费送](https://www.baidu.com/s?wd=%E7%A7%A6%E5%B2%AD%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%9B%AD%E8%BE%9F%E8%B0%A3%E9%97%A8%E7%A5%A8%E5%85%8D%E8%B4%B9%E9%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
