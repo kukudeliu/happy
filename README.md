@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 23:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 23:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [成都警方通报天府二街伤害案](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A9%E5%BA%9C%E4%BA%8C%E8%A1%97%E4%BC%A4%E5%AE%B3%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [白鹿把领口缝起来了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8A%8A%E9%A2%86%E5%8F%A3%E7%BC%9D%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [白敬亭章若楠难哄最新路透](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%AB%A0%E8%8B%A5%E6%A5%A0%E9%9A%BE%E5%93%84%E6%9C%80%E6%96%B0%E8%B7%AF%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [娃哈哈纯净水线上卖断货](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E7%BA%AF%E5%87%80%E6%B0%B4%E7%BA%BF%E4%B8%8A%E5%8D%96%E6%96%AD%E8%B4%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [安徽发生瓦斯爆燃事故致7死2失联](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E5%8F%91%E7%94%9F%E7%93%A6%E6%96%AF%E7%88%86%E7%87%83%E4%BA%8B%E6%95%85%E8%87%B47%E6%AD%BB2%E5%A4%B1%E8%81%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
