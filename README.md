@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 20:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 20:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白鹿公主切](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%85%AC%E4%B8%BB%E5%88%87&t=31&band_rank=6&Refer=top)<br />
 7. [呷哺呷哺去年净亏损超1.8亿](https://s.weibo.com/weibo?q=%23%E5%91%B7%E5%93%BA%E5%91%B7%E5%93%BA%E5%8E%BB%E5%B9%B4%E5%87%80%E4%BA%8F%E6%8D%9F%E8%B6%851.8%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [耙耙柑不是粑粑柑](https://s.weibo.com/weibo?q=%23%E8%80%99%E8%80%99%E6%9F%91%E4%B8%8D%E6%98%AF%E7%B2%91%E7%B2%91%E6%9F%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [哪些食物不能放进空气炸锅](https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%BA%9B%E9%A3%9F%E7%89%A9%E4%B8%8D%E8%83%BD%E6%94%BE%E8%BF%9B%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%23&t=31&band_rank=9&Refer=top)<br />
+9. [JDG对战FPX](https://s.weibo.com/weibo?q=JDG%E5%AF%B9%E6%88%98FPX&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
