@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 07:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 07:54:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [通道内外的高频词](https://www.baidu.com/s?wd=%E9%80%9A%E9%81%93%E5%86%85%E5%A4%96%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“绿化将军”张连印病逝](https://www.baidu.com/s?wd=%E2%80%9C%E7%BB%BF%E5%8C%96%E5%B0%86%E5%86%9B%E2%80%9D%E5%BC%A0%E8%BF%9E%E5%8D%B0%E7%97%85%E9%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩第一次买刮刮乐就中了100万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90%E5%B0%B1%E4%B8%AD%E4%BA%86100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吃不愁穿不愁还得有钱去旅游](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%8D%E6%84%81%E7%A9%BF%E4%B8%8D%E6%84%81%E8%BF%98%E5%BE%97%E6%9C%89%E9%92%B1%E5%8E%BB%E6%97%85%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [吃不愁穿不愁还得有钱去旅游](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%8D%E6%84%81%E7%A9%BF%E4%B8%8D%E6%84%81%E8%BF%98%E5%BE%97%E6%9C%89%E9%92%B1%E5%8E%BB%E6%97%85%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅安辟谣马踏飞燕建筑要拆除](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E8%BE%9F%E8%B0%A3%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95%E5%BB%BA%E7%AD%91%E8%A6%81%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [通道内外的高频词](https://www.baidu.com/s?wd=%E9%80%9A%E9%81%93%E5%86%85%E5%A4%96%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“绿化将军”张连印病逝](https://www.baidu.com/s?wd=%E2%80%9C%E7%BB%BF%E5%8C%96%E5%B0%86%E5%86%9B%E2%80%9D%E5%BC%A0%E8%BF%9E%E5%8D%B0%E7%97%85%E9%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩第一次买刮刮乐就中了100万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90%E5%B0%B1%E4%B8%AD%E4%BA%86100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [吃不愁穿不愁还得有钱去旅游](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%8D%E6%84%81%E7%A9%BF%E4%B8%8D%E6%84%81%E8%BF%98%E5%BE%97%E6%9C%89%E9%92%B1%E5%8E%BB%E6%97%85%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [吃不愁穿不愁还得有钱去旅游](https://www.baidu.com/s?wd=%E5%90%83%E4%B8%8D%E6%84%81%E7%A9%BF%E4%B8%8D%E6%84%81%E8%BF%98%E5%BE%97%E6%9C%89%E9%92%B1%E5%8E%BB%E6%97%85%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅安辟谣马踏飞燕建筑要拆除](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E8%BE%9F%E8%B0%A3%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95%E5%BB%BA%E7%AD%91%E8%A6%81%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
