@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 23:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 23:47:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [海南东方市委书记田丽霞被查](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%9C%E6%96%B9%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%B0%E4%B8%BD%E9%9C%9E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [坦桑尼亚9人吃海龟肉中毒身亡](https://www.baidu.com/s?wd=%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A9%E4%BA%BA%E5%90%83%E6%B5%B7%E9%BE%9F%E8%82%89%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一对夫妇做短剧每月进账4亿多](https://www.baidu.com/s?wd=%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%87%E5%81%9A%E7%9F%AD%E5%89%A7%E6%AF%8F%E6%9C%88%E8%BF%9B%E8%B4%A64%E4%BA%BF%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [外资唱多宁德时代](https://www.baidu.com/s?wd=%E5%A4%96%E8%B5%84%E5%94%B1%E5%A4%9A%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅安辟谣马踏飞燕建筑要拆除](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E8%BE%9F%E8%B0%A3%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95%E5%BB%BA%E7%AD%91%E8%A6%81%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [海南东方市委书记田丽霞被查](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%9C%E6%96%B9%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%B0%E4%B8%BD%E9%9C%9E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [坦桑尼亚9人吃海龟肉中毒身亡](https://www.baidu.com/s?wd=%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A9%E4%BA%BA%E5%90%83%E6%B5%B7%E9%BE%9F%E8%82%89%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [一对夫妇做短剧每月进账4亿多](https://www.baidu.com/s?wd=%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%87%E5%81%9A%E7%9F%AD%E5%89%A7%E6%AF%8F%E6%9C%88%E8%BF%9B%E8%B4%A64%E4%BA%BF%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [外资唱多宁德时代](https://www.baidu.com/s?wd=%E5%A4%96%E8%B5%84%E5%94%B1%E5%A4%9A%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅安辟谣马踏飞燕建筑要拆除](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E8%BE%9F%E8%B0%A3%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95%E5%BB%BA%E7%AD%91%E8%A6%81%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
