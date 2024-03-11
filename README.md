@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 07:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 07:25:02</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [仍有5亿人坚持用QQ](https://www.baidu.com/s?wd=%E4%BB%8D%E6%9C%895%E4%BA%BF%E4%BA%BA%E5%9D%9A%E6%8C%81%E7%94%A8QQ&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女孩第一次买刮刮乐就中了100万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90%E5%B0%B1%E4%B8%AD%E4%BA%86100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [通道内外的高频词](https://www.baidu.com/s?wd=%E9%80%9A%E9%81%93%E5%86%85%E5%A4%96%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [海南东方市委书记田丽霞被查](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%9C%E6%96%B9%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%B0%E4%B8%BD%E9%9C%9E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [“绿化将军”张连印病逝](https://www.baidu.com/s?wd=%E2%80%9C%E7%BB%BF%E5%8C%96%E5%B0%86%E5%86%9B%E2%80%9D%E5%BC%A0%E8%BF%9E%E5%8D%B0%E7%97%85%E9%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子吞蛇胆喝蛇药15年后发病](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%9E%E8%9B%87%E8%83%86%E5%96%9D%E8%9B%87%E8%8D%AF15%E5%B9%B4%E5%90%8E%E5%8F%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一对夫妇做短剧每月进账4亿多](https://www.baidu.com/s?wd=%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%87%E5%81%9A%E7%9F%AD%E5%89%A7%E6%AF%8F%E6%9C%88%E8%BF%9B%E8%B4%A64%E4%BA%BF%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [仍有5亿人坚持用QQ](https://www.baidu.com/s?wd=%E4%BB%8D%E6%9C%895%E4%BA%BF%E4%BA%BA%E5%9D%9A%E6%8C%81%E7%94%A8QQ&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女孩第一次买刮刮乐就中了100万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90%E5%B0%B1%E4%B8%AD%E4%BA%86100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [通道内外的高频词](https://www.baidu.com/s?wd=%E9%80%9A%E9%81%93%E5%86%85%E5%A4%96%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [海南东方市委书记田丽霞被查](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%9C%E6%96%B9%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%B0%E4%B8%BD%E9%9C%9E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [“绿化将军”张连印病逝](https://www.baidu.com/s?wd=%E2%80%9C%E7%BB%BF%E5%8C%96%E5%B0%86%E5%86%9B%E2%80%9D%E5%BC%A0%E8%BF%9E%E5%8D%B0%E7%97%85%E9%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子吞蛇胆喝蛇药15年后发病](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%9E%E8%9B%87%E8%83%86%E5%96%9D%E8%9B%87%E8%8D%AF15%E5%B9%B4%E5%90%8E%E5%8F%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [一对夫妇做短剧每月进账4亿多](https://www.baidu.com/s?wd=%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%87%E5%81%9A%E7%9F%AD%E5%89%A7%E6%AF%8F%E6%9C%88%E8%BF%9B%E8%B4%A64%E4%BA%BF%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
