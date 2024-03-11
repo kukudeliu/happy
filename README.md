@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 16:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 16:17:01</h4></div>
 
 > 微博  
 
 1. [耙耙柑 善良的水果](https://s.weibo.com/weibo?q=%E8%80%99%E8%80%99%E6%9F%91%20%E5%96%84%E8%89%AF%E7%9A%84%E6%B0%B4%E6%9E%9C&t=31&band_rank=1&Refer=top)<br />
 2. [十四届全国人大二次会议闭幕会](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E9%97%AD%E5%B9%95%E4%BC%9A%23&t=31&band_rank=2&Refer=top)<br />
-3. [AI视角看两会民生热词](https://s.weibo.com/weibo?q=%23AI%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%A4%E4%BC%9A%E6%B0%91%E7%94%9F%E7%83%AD%E8%AF%8D%23&t=31&band_rank=3&Refer=top)<br />
+3. [这些两会建议冲上热搜](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E4%B8%A4%E4%BC%9A%E5%BB%BA%E8%AE%AE%E5%86%B2%E4%B8%8A%E7%83%AD%E6%90%9C%23&t=31&band_rank=3&Refer=top)<br />
 4. [凯特王妃最新官方照疑造假](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%9C%80%E6%96%B0%E5%AE%98%E6%96%B9%E7%85%A7%E7%96%91%E9%80%A0%E5%81%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [关于政府工作报告的决议表决通过](https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E7%9A%84%E5%86%B3%E8%AE%AE%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [考研三战失败我转行做玄学博主](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E4%B8%89%E6%88%98%E5%A4%B1%E8%B4%A5%E6%88%91%E8%BD%AC%E8%A1%8C%E5%81%9A%E7%8E%84%E5%AD%A6%E5%8D%9A%E4%B8%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [上海迪士尼将扩建新景点](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%B0%86%E6%89%A9%E5%BB%BA%E6%96%B0%E6%99%AF%E7%82%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [林高远1比3李尚洙](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C1%E6%AF%943%E6%9D%8E%E5%B0%9A%E6%B4%99%23&t=31&band_rank=8&Refer=top)<br />
-9. [王楚钦vs格拉尔多](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%A0%BC%E6%8B%89%E5%B0%94%E5%A4%9A&t=31&band_rank=9&Refer=top)<br />
+8. [AI视角看两会民生热词](https://s.weibo.com/weibo?q=%23AI%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%A4%E4%BC%9A%E6%B0%91%E7%94%9F%E7%83%AD%E8%AF%8D%23&t=31&band_rank=8&Refer=top)<br />
+9. [林高远1比3李尚洙](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C1%E6%AF%943%E6%9D%8E%E5%B0%9A%E6%B4%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
