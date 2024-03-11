@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 06:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 06:23:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [海南东方市委书记田丽霞被查](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%9C%E6%96%B9%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%B0%E4%B8%BD%E9%9C%9E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子吞蛇胆喝蛇药15年后发病](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%9E%E8%9B%87%E8%83%86%E5%96%9D%E8%9B%87%E8%8D%AF15%E5%B9%B4%E5%90%8E%E5%8F%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李健在清华大学的入学照](https://www.baidu.com/s?wd=%E6%9D%8E%E5%81%A5%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%85%A5%E5%AD%A6%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医院院长建议年轻人少喝中药代茶饮](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B0%91%E5%96%9D%E4%B8%AD%E8%8D%AF%E4%BB%A3%E8%8C%B6%E9%A5%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅安辟谣马踏飞燕建筑要拆除](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E8%BE%9F%E8%B0%A3%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95%E5%BB%BA%E7%AD%91%E8%A6%81%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [海南东方市委书记田丽霞被查](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%9C%E6%96%B9%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%B0%E4%B8%BD%E9%9C%9E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子吞蛇胆喝蛇药15年后发病](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%9E%E8%9B%87%E8%83%86%E5%96%9D%E8%9B%87%E8%8D%AF15%E5%B9%B4%E5%90%8E%E5%8F%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [李健在清华大学的入学照](https://www.baidu.com/s?wd=%E6%9D%8E%E5%81%A5%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%85%A5%E5%AD%A6%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [医院院长建议年轻人少喝中药代茶饮](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B0%91%E5%96%9D%E4%B8%AD%E8%8D%AF%E4%BB%A3%E8%8C%B6%E9%A5%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅安辟谣马踏飞燕建筑要拆除](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E8%BE%9F%E8%B0%A3%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95%E5%BB%BA%E7%AD%91%E8%A6%81%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
