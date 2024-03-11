@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 07:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 07:36:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [“绿化将军”张连印病逝](https://www.baidu.com/s?wd=%E2%80%9C%E7%BB%BF%E5%8C%96%E5%B0%86%E5%86%9B%E2%80%9D%E5%BC%A0%E8%BF%9E%E5%8D%B0%E7%97%85%E9%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩第一次买刮刮乐就中了100万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90%E5%B0%B1%E4%B8%AD%E4%BA%86100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医院院长建议年轻人少喝中药代茶饮](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B0%91%E5%96%9D%E4%B8%AD%E8%8D%AF%E4%BB%A3%E8%8C%B6%E9%A5%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [坦桑尼亚9人吃海龟肉中毒身亡](https://www.baidu.com/s?wd=%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A9%E4%BA%BA%E5%90%83%E6%B5%B7%E9%BE%9F%E8%82%89%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅安辟谣马踏飞燕建筑要拆除](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E8%BE%9F%E8%B0%A3%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95%E5%BB%BA%E7%AD%91%E8%A6%81%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [“绿化将军”张连印病逝](https://www.baidu.com/s?wd=%E2%80%9C%E7%BB%BF%E5%8C%96%E5%B0%86%E5%86%9B%E2%80%9D%E5%BC%A0%E8%BF%9E%E5%8D%B0%E7%97%85%E9%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩第一次买刮刮乐就中了100万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90%E5%B0%B1%E4%B8%AD%E4%BA%86100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医院院长建议年轻人少喝中药代茶饮](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B0%91%E5%96%9D%E4%B8%AD%E8%8D%AF%E4%BB%A3%E8%8C%B6%E9%A5%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [坦桑尼亚9人吃海龟肉中毒身亡](https://www.baidu.com/s?wd=%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A9%E4%BA%BA%E5%90%83%E6%B5%B7%E9%BE%9F%E8%82%89%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅安辟谣马踏飞燕建筑要拆除](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E8%BE%9F%E8%B0%A3%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95%E5%BB%BA%E7%AD%91%E8%A6%81%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
