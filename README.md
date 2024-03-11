@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 23:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 23:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [石头姐 杨紫琼](https://s.weibo.com/weibo?q=%E7%9F%B3%E5%A4%B4%E5%A7%90%20%E6%9D%A8%E7%B4%AB%E7%90%BC&t=31&band_rank=6&Refer=top)<br />
 7. [娃哈哈纯净水线上卖断货](https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E7%BA%AF%E5%87%80%E6%B0%B4%E7%BA%BF%E4%B8%8A%E5%8D%96%E6%96%AD%E8%B4%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [白鹿把领口缝起来了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8A%8A%E9%A2%86%E5%8F%A3%E7%BC%9D%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [周翊然田曦薇热舞](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B6%E7%94%B0%E6%9B%A6%E8%96%87%E7%83%AD%E8%88%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [白敬亭章若楠难哄最新路透](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%AB%A0%E8%8B%A5%E6%A5%A0%E9%9A%BE%E5%93%84%E6%9C%80%E6%96%B0%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
