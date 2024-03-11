@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 00:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 00:49:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [女孩第一次买刮刮乐就中了100万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90%E5%B0%B1%E4%B8%AD%E4%BA%86100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [通道内外的高频词](https://www.baidu.com/s?wd=%E9%80%9A%E9%81%93%E5%86%85%E5%A4%96%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [海南东方市委书记田丽霞被查](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%9C%E6%96%B9%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%B0%E4%B8%BD%E9%9C%9E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [新闻女王2官宣原班人马](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B2%E5%AE%98%E5%AE%A3%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [坦桑尼亚9人吃海龟肉中毒身亡](https://www.baidu.com/s?wd=%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A9%E4%BA%BA%E5%90%83%E6%B5%B7%E9%BE%9F%E8%82%89%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [坦桑尼亚9人吃海龟肉中毒身亡](https://www.baidu.com/s?wd=%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A9%E4%BA%BA%E5%90%83%E6%B5%B7%E9%BE%9F%E8%82%89%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [7岁女孩一天两刷魔方世界纪录](https://www.baidu.com/s?wd=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%A4%A9%E4%B8%A4%E5%88%B7%E9%AD%94%E6%96%B9%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [看完《沙丘2》后在家召唤出沙虫](https://www.baidu.com/s?wd=%E7%9C%8B%E5%AE%8C%E3%80%8A%E6%B2%99%E4%B8%982%E3%80%8B%E5%90%8E%E5%9C%A8%E5%AE%B6%E5%8F%AC%E5%94%A4%E5%87%BA%E6%B2%99%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅安辟谣马踏飞燕建筑要拆除](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E8%BE%9F%E8%B0%A3%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95%E5%BB%BA%E7%AD%91%E8%A6%81%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [女孩第一次买刮刮乐就中了100万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90%E5%B0%B1%E4%B8%AD%E4%BA%86100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [通道内外的高频词](https://www.baidu.com/s?wd=%E9%80%9A%E9%81%93%E5%86%85%E5%A4%96%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [海南东方市委书记田丽霞被查](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%9C%E6%96%B9%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%B0%E4%B8%BD%E9%9C%9E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [新闻女王2官宣原班人马](https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B2%E5%AE%98%E5%AE%A3%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [坦桑尼亚9人吃海龟肉中毒身亡](https://www.baidu.com/s?wd=%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A9%E4%BA%BA%E5%90%83%E6%B5%B7%E9%BE%9F%E8%82%89%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [坦桑尼亚9人吃海龟肉中毒身亡](https://www.baidu.com/s?wd=%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A9%E4%BA%BA%E5%90%83%E6%B5%B7%E9%BE%9F%E8%82%89%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [7岁女孩一天两刷魔方世界纪录](https://www.baidu.com/s?wd=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%A4%A9%E4%B8%A4%E5%88%B7%E9%AD%94%E6%96%B9%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [看完《沙丘2》后在家召唤出沙虫](https://www.baidu.com/s?wd=%E7%9C%8B%E5%AE%8C%E3%80%8A%E6%B2%99%E4%B8%982%E3%80%8B%E5%90%8E%E5%9C%A8%E5%AE%B6%E5%8F%AC%E5%94%A4%E5%87%BA%E6%B2%99%E8%99%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅安辟谣马踏飞燕建筑要拆除](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E8%BE%9F%E8%B0%A3%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95%E5%BB%BA%E7%AD%91%E8%A6%81%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
