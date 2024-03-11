@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 09:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 09:42:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [租房把房东家给改造了](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E6%88%BF%E6%8A%8A%E6%88%BF%E4%B8%9C%E5%AE%B6%E7%BB%99%E6%94%B9%E9%80%A0%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [个税起征点提高至1万元谁最受益](https://s.weibo.com/weibo?q=%23%E4%B8%AA%E7%A8%8E%E8%B5%B7%E5%BE%81%E7%82%B9%E6%8F%90%E9%AB%98%E8%87%B31%E4%B8%87%E5%85%83%E8%B0%81%E6%9C%80%E5%8F%97%E7%9B%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [今年二月二真有龙抬头](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%BA%8C%E6%9C%88%E4%BA%8C%E7%9C%9F%E6%9C%89%E9%BE%99%E6%8A%AC%E5%A4%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [X疾病](https://s.weibo.com/weibo?q=X%E7%96%BE%E7%97%85&t=31&band_rank=7&Refer=top)<br />
-8. [建议对65岁无养老金人群发基础养老金](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B965%E5%B2%81%E6%97%A0%E5%85%BB%E8%80%81%E9%87%91%E4%BA%BA%E7%BE%A4%E5%8F%91%E5%9F%BA%E7%A1%80%E5%85%BB%E8%80%81%E9%87%91%23&t=31&band_rank=8&Refer=top)<br />
+7. [建议对65岁无养老金人群发基础养老金](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B965%E5%B2%81%E6%97%A0%E5%85%BB%E8%80%81%E9%87%91%E4%BA%BA%E7%BE%A4%E5%8F%91%E5%9F%BA%E7%A1%80%E5%85%BB%E8%80%81%E9%87%91%23&t=31&band_rank=7&Refer=top)<br />
+8. [X疾病](https://s.weibo.com/weibo?q=X%E7%96%BE%E7%97%85&t=31&band_rank=8&Refer=top)<br />
 9. [打印准考证](https://s.weibo.com/weibo?q=%E6%89%93%E5%8D%B0%E5%87%86%E8%80%83%E8%AF%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
