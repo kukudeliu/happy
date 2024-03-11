@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 15:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 15:12:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [习近平今年两会提及的“小故事”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BB%8A%E5%B9%B4%E4%B8%A4%E4%BC%9A%E6%8F%90%E5%8F%8A%E7%9A%84%E2%80%9C%E5%B0%8F%E6%95%85%E4%BA%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [医院院长建议年轻人少喝中药代茶饮](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B0%91%E5%96%9D%E4%B8%AD%E8%8D%AF%E4%BB%A3%E8%8C%B6%E9%A5%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女子洗车竟被店员洗公仔擦鞋](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B4%97%E8%BD%A6%E7%AB%9F%E8%A2%AB%E5%BA%97%E5%91%98%E6%B4%97%E5%85%AC%E4%BB%94%E6%93%A6%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [十四届全国人大二次会议闭幕会](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E9%97%AD%E5%B9%95%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [医院院长建议年轻人少喝中药代茶饮](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B0%91%E5%96%9D%E4%B8%AD%E8%8D%AF%E4%BB%A3%E8%8C%B6%E9%A5%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新质生产力，是个什么力？](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%EF%BC%8C%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E5%8A%9B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [低头玩手机等于头顶50斤](https://www.baidu.com/s?wd=%E4%BD%8E%E5%A4%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%AD%89%E4%BA%8E%E5%A4%B4%E9%A1%B650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [十四届全国人大二次会议闭幕会](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E9%97%AD%E5%B9%95%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [一对夫妇做短剧每月进账4亿多](https://www.baidu.com/s?wd=%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%87%E5%81%9A%E7%9F%AD%E5%89%A7%E6%AF%8F%E6%9C%88%E8%BF%9B%E8%B4%A64%E4%BA%BF%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [女子洗车竟被店员洗公仔擦鞋](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B4%97%E8%BD%A6%E7%AB%9F%E8%A2%AB%E5%BA%97%E5%91%98%E6%B4%97%E5%85%AC%E4%BB%94%E6%93%A6%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [一对夫妇做短剧每月进账4亿多](https://www.baidu.com/s?wd=%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%87%E5%81%9A%E7%9F%AD%E5%89%A7%E6%AF%8F%E6%9C%88%E8%BF%9B%E8%B4%A64%E4%BA%BF%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [低头玩手机等于头顶50斤](https://www.baidu.com/s?wd=%E4%BD%8E%E5%A4%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%AD%89%E4%BA%8E%E5%A4%B4%E9%A1%B650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美国防部公布外星人报告](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E5%85%AC%E5%B8%83%E5%A4%96%E6%98%9F%E4%BA%BA%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [索尼辟谣手机业务退出中国](https://www.baidu.com/s?wd=%E7%B4%A2%E5%B0%BC%E8%BE%9F%E8%B0%A3%E6%89%8B%E6%9C%BA%E4%B8%9A%E5%8A%A1%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [习近平今年两会提及的“小故事”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BB%8A%E5%B9%B4%E4%B8%A4%E4%BC%9A%E6%8F%90%E5%8F%8A%E7%9A%84%E2%80%9C%E5%B0%8F%E6%95%85%E4%BA%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [医院院长建议年轻人少喝中药代茶饮](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B0%91%E5%96%9D%E4%B8%AD%E8%8D%AF%E4%BB%A3%E8%8C%B6%E9%A5%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女子洗车竟被店员洗公仔擦鞋](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B4%97%E8%BD%A6%E7%AB%9F%E8%A2%AB%E5%BA%97%E5%91%98%E6%B4%97%E5%85%AC%E4%BB%94%E6%93%A6%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [十四届全国人大二次会议闭幕会](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E9%97%AD%E5%B9%95%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [医院院长建议年轻人少喝中药代茶饮](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B0%91%E5%96%9D%E4%B8%AD%E8%8D%AF%E4%BB%A3%E8%8C%B6%E9%A5%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新质生产力，是个什么力？](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%EF%BC%8C%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E5%8A%9B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [低头玩手机等于头顶50斤](https://www.baidu.com/s?wd=%E4%BD%8E%E5%A4%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%AD%89%E4%BA%8E%E5%A4%B4%E9%A1%B650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [十四届全国人大二次会议闭幕会](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E9%97%AD%E5%B9%95%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [一对夫妇做短剧每月进账4亿多](https://www.baidu.com/s?wd=%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%87%E5%81%9A%E7%9F%AD%E5%89%A7%E6%AF%8F%E6%9C%88%E8%BF%9B%E8%B4%A64%E4%BA%BF%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [女子洗车竟被店员洗公仔擦鞋](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B4%97%E8%BD%A6%E7%AB%9F%E8%A2%AB%E5%BA%97%E5%91%98%E6%B4%97%E5%85%AC%E4%BB%94%E6%93%A6%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [一对夫妇做短剧每月进账4亿多](https://www.baidu.com/s?wd=%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%87%E5%81%9A%E7%9F%AD%E5%89%A7%E6%AF%8F%E6%9C%88%E8%BF%9B%E8%B4%A64%E4%BA%BF%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [低头玩手机等于头顶50斤](https://www.baidu.com/s?wd=%E4%BD%8E%E5%A4%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%AD%89%E4%BA%8E%E5%A4%B4%E9%A1%B650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美国防部公布外星人报告](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E5%85%AC%E5%B8%83%E5%A4%96%E6%98%9F%E4%BA%BA%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [索尼辟谣手机业务退出中国](https://www.baidu.com/s?wd=%E7%B4%A2%E5%B0%BC%E8%BE%9F%E8%B0%A3%E6%89%8B%E6%9C%BA%E4%B8%9A%E5%8A%A1%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
