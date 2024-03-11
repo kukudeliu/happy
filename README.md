@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 14:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 14:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [耙耙柑 善良的水果](https://s.weibo.com/weibo?q=%E8%80%99%E8%80%99%E6%9F%91%20%E5%96%84%E8%89%AF%E7%9A%84%E6%B0%B4%E6%9E%9C&t=31&band_rank=6&Refer=top)<br />
 7. [董明珠称一年拿几百万愿意多承担一点税](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E4%B8%80%E5%B9%B4%E6%8B%BF%E5%87%A0%E7%99%BE%E4%B8%87%E6%84%BF%E6%84%8F%E5%A4%9A%E6%89%BF%E6%8B%85%E4%B8%80%E7%82%B9%E7%A8%8E%23&t=31&band_rank=7&Refer=top)<br />
 8. [今年两会第三场代表通道](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%B8%A4%E4%BC%9A%E7%AC%AC%E4%B8%89%E5%9C%BA%E4%BB%A3%E8%A1%A8%E9%80%9A%E9%81%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [朴振英把中国练习生带走了](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%8C%AF%E8%8B%B1%E6%8A%8A%E4%B8%AD%E5%9B%BD%E7%BB%83%E4%B9%A0%E7%94%9F%E5%B8%A6%E8%B5%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [打印准考证](https://s.weibo.com/weibo?q=%E6%89%93%E5%8D%B0%E5%87%86%E8%80%83%E8%AF%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
