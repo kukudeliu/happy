@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 06:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 06:16:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [共话新质生产力](https://s.weibo.com/weibo?q=%23%E5%85%B1%E8%AF%9D%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [爸妈让6岁儿子晚上学一年到处旅游](https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E8%AE%A96%E5%B2%81%E5%84%BF%E5%AD%90%E6%99%9A%E4%B8%8A%E5%AD%A6%E4%B8%80%E5%B9%B4%E5%88%B0%E5%A4%84%E6%97%85%E6%B8%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [中科院院士不提倡健康人做癌症筛查](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E9%99%A2%E5%A3%AB%E4%B8%8D%E6%8F%90%E5%80%A1%E5%81%A5%E5%BA%B7%E4%BA%BA%E5%81%9A%E7%99%8C%E7%97%87%E7%AD%9B%E6%9F%A5%23&t=31&band_rank=5&Refer=top)<br />
-6. [王楚然双开门大衣](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%8F%8C%E5%BC%80%E9%97%A8%E5%A4%A7%E8%A1%A3%23&t=31&band_rank=6&Refer=top)<br />
-7. [白鹿把领口缝起来了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8A%8A%E9%A2%86%E5%8F%A3%E7%BC%9D%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+6. [白鹿把领口缝起来了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8A%8A%E9%A2%86%E5%8F%A3%E7%BC%9D%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [王楚然双开门大衣](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%8F%8C%E5%BC%80%E9%97%A8%E5%A4%A7%E8%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [假性亲密关系](https://s.weibo.com/weibo?q=%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB&t=31&band_rank=8&Refer=top)<br />
 9. [石头姐 杨紫琼](https://s.weibo.com/weibo?q=%E7%9F%B3%E5%A4%B4%E5%A7%90%20%E6%9D%A8%E7%B4%AB%E7%90%BC&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [海南东方市委书记田丽霞被查](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%9C%E6%96%B9%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%B0%E4%B8%BD%E9%9C%9E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子吞蛇胆喝蛇药15年后发病](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%9E%E8%9B%87%E8%83%86%E5%96%9D%E8%9B%87%E8%8D%AF15%E5%B9%B4%E5%90%8E%E5%8F%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医院院长建议年轻人少喝中药代茶饮](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B0%91%E5%96%9D%E4%B8%AD%E8%8D%AF%E4%BB%A3%E8%8C%B6%E9%A5%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李健在清华大学的入学照](https://www.baidu.com/s?wd=%E6%9D%8E%E5%81%A5%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%85%A5%E5%AD%A6%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅安辟谣马踏飞燕建筑要拆除](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E8%BE%9F%E8%B0%A3%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95%E5%BB%BA%E7%AD%91%E8%A6%81%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [海南东方市委书记田丽霞被查](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%B8%9C%E6%96%B9%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%B0%E4%B8%BD%E9%9C%9E%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [潜水员下水喂食时被大鱼咬头](https://www.baidu.com/s?wd=%E6%BD%9C%E6%B0%B4%E5%91%98%E4%B8%8B%E6%B0%B4%E5%96%82%E9%A3%9F%E6%97%B6%E8%A2%AB%E5%A4%A7%E9%B1%BC%E5%92%AC%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子吞蛇胆喝蛇药15年后发病](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%9E%E8%9B%87%E8%83%86%E5%96%9D%E8%9B%87%E8%8D%AF15%E5%B9%B4%E5%90%8E%E5%8F%91%E7%97%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医院院长建议年轻人少喝中药代茶饮](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B0%91%E5%96%9D%E4%B8%AD%E8%8D%AF%E4%BB%A3%E8%8C%B6%E9%A5%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李健在清华大学的入学照](https://www.baidu.com/s?wd=%E6%9D%8E%E5%81%A5%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%85%A5%E5%AD%A6%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅安辟谣马踏飞燕建筑要拆除](https://www.baidu.com/s?wd=%E9%9B%85%E5%AE%89%E8%BE%9F%E8%B0%A3%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95%E5%BB%BA%E7%AD%91%E8%A6%81%E6%8B%86%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
