@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 11:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 11:43:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [石头姐二封奥斯卡影后](https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%A4%B4%E5%A7%90%E4%BA%8C%E5%B0%81%E5%A5%A5%E6%96%AF%E5%8D%A1%E5%BD%B1%E5%90%8E%23&t=31&band_rank=5&Refer=top)<br />
 6. [打印准考证](https://s.weibo.com/weibo?q=%E6%89%93%E5%8D%B0%E5%87%86%E8%80%83%E8%AF%81&t=31&band_rank=6&Refer=top)<br />
 7. [长安的荔枝今日官宣](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D%E4%BB%8A%E6%97%A5%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [林孝埈更换微博置顶](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88%E6%9B%B4%E6%8D%A2%E5%BE%AE%E5%8D%9A%E7%BD%AE%E9%A1%B6&t=31&band_rank=8&Refer=top)<br />
-9. [大侦探](https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A2&t=31&band_rank=9&Refer=top)<br />
+8. [芭比陪跑](https://s.weibo.com/weibo?q=%E8%8A%AD%E6%AF%94%E9%99%AA%E8%B7%91&t=31&band_rank=8&Refer=top)<br />
+9. [林孝埈更换微博置顶](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88%E6%9B%B4%E6%8D%A2%E5%BE%AE%E5%8D%9A%E7%BD%AE%E9%A1%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
