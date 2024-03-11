@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 14:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 14:59:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [新质生产力，是个什么力？](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%EF%BC%8C%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E5%8A%9B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [低头玩手机等于头顶50斤](https://www.baidu.com/s?wd=%E4%BD%8E%E5%A4%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%AD%89%E4%BA%8E%E5%A4%B4%E9%A1%B650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一对夫妇做短剧每月进账4亿多](https://www.baidu.com/s?wd=%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%87%E5%81%9A%E7%9F%AD%E5%89%A7%E6%AF%8F%E6%9C%88%E8%BF%9B%E8%B4%A64%E4%BA%BF%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [李健在清华大学的入学照](https://www.baidu.com/s?wd=%E6%9D%8E%E5%81%A5%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%85%A5%E5%AD%A6%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子因社恐40岁才找到合适的工作](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E7%A4%BE%E6%81%9040%E5%B2%81%E6%89%8D%E6%89%BE%E5%88%B0%E5%90%88%E9%80%82%E7%9A%84%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [飞行出租车单座票价预计300元](https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8D%95%E5%BA%A7%E7%A5%A8%E4%BB%B7%E9%A2%84%E8%AE%A1300%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李健在清华大学的入学照](https://www.baidu.com/s?wd=%E6%9D%8E%E5%81%A5%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%85%A5%E5%AD%A6%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [索尼辟谣手机业务退出中国](https://www.baidu.com/s?wd=%E7%B4%A2%E5%B0%BC%E8%BE%9F%E8%B0%A3%E6%89%8B%E6%9C%BA%E4%B8%9A%E5%8A%A1%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [新质生产力，是个什么力？](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%EF%BC%8C%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E5%8A%9B%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [低头玩手机等于头顶50斤](https://www.baidu.com/s?wd=%E4%BD%8E%E5%A4%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%AD%89%E4%BA%8E%E5%A4%B4%E9%A1%B650%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [一对夫妇做短剧每月进账4亿多](https://www.baidu.com/s?wd=%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%87%E5%81%9A%E7%9F%AD%E5%89%A7%E6%AF%8F%E6%9C%88%E8%BF%9B%E8%B4%A64%E4%BA%BF%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [李健在清华大学的入学照](https://www.baidu.com/s?wd=%E6%9D%8E%E5%81%A5%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%85%A5%E5%AD%A6%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子因社恐40岁才找到合适的工作](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A0%E7%A4%BE%E6%81%9040%E5%B2%81%E6%89%8D%E6%89%BE%E5%88%B0%E5%90%88%E9%80%82%E7%9A%84%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [飞行出租车单座票价预计300元](https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8D%95%E5%BA%A7%E7%A5%A8%E4%BB%B7%E9%A2%84%E8%AE%A1300%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李健在清华大学的入学照](https://www.baidu.com/s?wd=%E6%9D%8E%E5%81%A5%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%85%A5%E5%AD%A6%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [索尼辟谣手机业务退出中国](https://www.baidu.com/s?wd=%E7%B4%A2%E5%B0%BC%E8%BE%9F%E8%B0%A3%E6%89%8B%E6%9C%BA%E4%B8%9A%E5%8A%A1%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
