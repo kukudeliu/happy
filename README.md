@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 07:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 07:45:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [高君雨](https://s.weibo.com/weibo?q=%E9%AB%98%E5%90%9B%E9%9B%A8&t=31&band_rank=6&Refer=top)<br />
 7. [王楚然双开门大衣](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%8F%8C%E5%BC%80%E9%97%A8%E5%A4%A7%E8%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [中科院院士不提倡健康人做癌症筛查](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E9%99%A2%E5%A3%AB%E4%B8%8D%E6%8F%90%E5%80%A1%E5%81%A5%E5%BA%B7%E4%BA%BA%E5%81%9A%E7%99%8C%E7%97%87%E7%AD%9B%E6%9F%A5%23&t=31&band_rank=8&Refer=top)<br />
-9. [白鹿把领口缝起来了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8A%8A%E9%A2%86%E5%8F%A3%E7%BC%9D%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [易烊千玺网站更新](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
