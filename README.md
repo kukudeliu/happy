@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 15:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 15:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [淡人 浓人](https://s.weibo.com/weibo?q=%E6%B7%A1%E4%BA%BA%20%E6%B5%93%E4%BA%BA&t=31&band_rank=5&Refer=top)<br />
 6. [王楚钦vs格拉尔多](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%A0%BC%E6%8B%89%E5%B0%94%E5%A4%9A&t=31&band_rank=6&Refer=top)<br />
 7. [耙耙柑 善良的水果](https://s.weibo.com/weibo?q=%E8%80%99%E8%80%99%E6%9F%91%20%E5%96%84%E8%89%AF%E7%9A%84%E6%B0%B4%E6%9E%9C&t=31&band_rank=7&Refer=top)<br />
-8. [董明珠称一年拿几百万愿意多承担一点税](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E4%B8%80%E5%B9%B4%E6%8B%BF%E5%87%A0%E7%99%BE%E4%B8%87%E6%84%BF%E6%84%8F%E5%A4%9A%E6%89%BF%E6%8B%85%E4%B8%80%E7%82%B9%E7%A8%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [林高远vs李尚洙](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9Cvs%E6%9D%8E%E5%B0%9A%E6%B4%99%23&t=31&band_rank=9&Refer=top)<br />
+8. [建议加快反虐待动物立法](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8A%A0%E5%BF%AB%E5%8F%8D%E8%99%90%E5%BE%85%E5%8A%A8%E7%89%A9%E7%AB%8B%E6%B3%95%23&t=31&band_rank=8&Refer=top)<br />
+9. [董明珠称一年拿几百万愿意多承担一点税](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E4%B8%80%E5%B9%B4%E6%8B%BF%E5%87%A0%E7%99%BE%E4%B8%87%E6%84%BF%E6%84%8F%E5%A4%9A%E6%89%BF%E6%8B%85%E4%B8%80%E7%82%B9%E7%A8%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
