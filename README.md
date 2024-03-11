@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 20:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 20:12:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [哪些食物不能放进空气炸锅](https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%BA%9B%E9%A3%9F%E7%89%A9%E4%B8%8D%E8%83%BD%E6%94%BE%E8%BF%9B%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%23&t=31&band_rank=4&Refer=top)<br />
 5. [原神仆人](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E%E4%BB%86%E4%BA%BA&t=31&band_rank=5&Refer=top)<br />
 6. [计划三天的全家游只玩了三小时](https://s.weibo.com/weibo?q=%E8%AE%A1%E5%88%92%E4%B8%89%E5%A4%A9%E7%9A%84%E5%85%A8%E5%AE%B6%E6%B8%B8%E5%8F%AA%E7%8E%A9%E4%BA%86%E4%B8%89%E5%B0%8F%E6%97%B6&t=31&band_rank=6&Refer=top)<br />
-7. [仍有5亿人坚持用QQ](https://s.weibo.com/weibo?q=%23%E4%BB%8D%E6%9C%895%E4%BA%BF%E4%BA%BA%E5%9D%9A%E6%8C%81%E7%94%A8QQ%23&t=31&band_rank=7&Refer=top)<br />
-8. [国家线还不出](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%BA%BF%E8%BF%98%E4%B8%8D%E5%87%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [任子威说想为祖国多拿金牌](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E8%AF%B4%E6%83%B3%E4%B8%BA%E7%A5%96%E5%9B%BD%E5%A4%9A%E6%8B%BF%E9%87%91%E7%89%8C%23&t=31&band_rank=9&Refer=top)<br />
+7. [成都警方通报天府二街伤害案](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A9%E5%BA%9C%E4%BA%8C%E8%A1%97%E4%BC%A4%E5%AE%B3%E6%A1%88%23&t=31&band_rank=7&Refer=top)<br />
+8. [仍有5亿人坚持用QQ](https://s.weibo.com/weibo?q=%23%E4%BB%8D%E6%9C%895%E4%BA%BF%E4%BA%BA%E5%9D%9A%E6%8C%81%E7%94%A8QQ%23&t=31&band_rank=8&Refer=top)<br />
+9. [国家线还不出](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%BA%BF%E8%BF%98%E4%B8%8D%E5%87%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
