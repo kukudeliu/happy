@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 10:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-11 10:20:01</h4></div>
 
 > 微博  
 
 1. [奥斯卡](https://s.weibo.com/weibo?q=%E5%A5%A5%E6%96%AF%E5%8D%A1&t=31&band_rank=1&Refer=top)<br />
 2. [耙耙柑 善良的水果](https://s.weibo.com/weibo?q=%E8%80%99%E8%80%99%E6%9F%91%20%E5%96%84%E8%89%AF%E7%9A%84%E6%B0%B4%E6%9E%9C&t=31&band_rank=2&Refer=top)<br />
 3. [当甲骨文穿越到2024年的中国](https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%94%B2%E9%AA%A8%E6%96%87%E7%A9%BF%E8%B6%8A%E5%88%B02024%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [打印准考证](https://s.weibo.com/weibo?q=%E6%89%93%E5%8D%B0%E5%87%86%E8%80%83%E8%AF%81&t=31&band_rank=4&Refer=top)<br />
-5. [男子因社恐40岁才找到合适的工作](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E7%A4%BE%E6%81%9040%E5%B2%81%E6%89%8D%E6%89%BE%E5%88%B0%E5%90%88%E9%80%82%E7%9A%84%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=5&Refer=top)<br />
+4. [男子因社恐40岁才找到合适的工作](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E7%A4%BE%E6%81%9040%E5%B2%81%E6%89%8D%E6%89%BE%E5%88%B0%E5%90%88%E9%80%82%E7%9A%84%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=4&Refer=top)<br />
+5. [打印准考证](https://s.weibo.com/weibo?q=%E6%89%93%E5%8D%B0%E5%87%86%E8%80%83%E8%AF%81&t=31&band_rank=5&Refer=top)<br />
 6. [癌症来临时身体会喊痛](https://s.weibo.com/weibo?q=%23%E7%99%8C%E7%97%87%E6%9D%A5%E4%B8%B4%E6%97%B6%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%96%8A%E7%97%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [2024奥斯卡颁奖典礼](https://s.weibo.com/weibo?q=%232024%E5%A5%A5%E6%96%AF%E5%8D%A1%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%23&t=31&band_rank=7&Refer=top)<br />
 8. [租房把房东家给改造了](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E6%88%BF%E6%8A%8A%E6%88%BF%E4%B8%9C%E5%AE%B6%E7%BB%99%E6%94%B9%E9%80%A0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
