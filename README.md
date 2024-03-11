@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 00:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 00:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [白鹿把领口缝起来了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8A%8A%E9%A2%86%E5%8F%A3%E7%BC%9D%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [爸妈让6岁儿子晚上学一年到处旅游](https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E8%AE%A96%E5%B2%81%E5%84%BF%E5%AD%90%E6%99%9A%E4%B8%8A%E5%AD%A6%E4%B8%80%E5%B9%B4%E5%88%B0%E5%A4%84%E6%97%85%E6%B8%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [王楚然双开门大衣](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%8F%8C%E5%BC%80%E9%97%A8%E5%A4%A7%E8%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [凯特王妃就P图道歉](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%B0%B1P%E5%9B%BE%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [石头姐 杨紫琼](https://s.weibo.com/weibo?q=%E7%9F%B3%E5%A4%B4%E5%A7%90%20%E6%9D%A8%E7%B4%AB%E7%90%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
