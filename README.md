@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 12:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 12:04:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [9个关键词了解两会民生热点](https://s.weibo.com/weibo?q=%239%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E4%BA%86%E8%A7%A3%E4%B8%A4%E4%BC%9A%E6%B0%91%E7%94%9F%E7%83%AD%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [金价狂飙涨疯普通人还能再买吗](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E6%B6%A8%E7%96%AF%E6%99%AE%E9%80%9A%E4%BA%BA%E8%BF%98%E8%83%BD%E5%86%8D%E4%B9%B0%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [蔚来CEO要求员工不得参与理想MEGA舆论](https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A5CEO%E8%A6%81%E6%B1%82%E5%91%98%E5%B7%A5%E4%B8%8D%E5%BE%97%E5%8F%82%E4%B8%8E%E7%90%86%E6%83%B3MEGA%E8%88%86%E8%AE%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [广州越秀区车祸致11人受伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%B6%8A%E7%A7%80%E5%8C%BA%E8%BD%A6%E7%A5%B8%E8%87%B411%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
-7. [3200元直播间买金渐层刚到家就死亡](https://s.weibo.com/weibo?q=%233200%E5%85%83%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B9%B0%E9%87%91%E6%B8%90%E5%B1%82%E5%88%9A%E5%88%B0%E5%AE%B6%E5%B0%B1%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
+6. [3200元直播间买金渐层刚到家就死亡](https://s.weibo.com/weibo?q=%233200%E5%85%83%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B9%B0%E9%87%91%E6%B8%90%E5%B1%82%E5%88%9A%E5%88%B0%E5%AE%B6%E5%B0%B1%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
+7. [广州越秀区车祸致11人受伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%B6%8A%E7%A7%80%E5%8C%BA%E8%BD%A6%E7%A5%B8%E8%87%B411%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [首尔大学医学院教授或将集体辞职](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%95%99%E6%8E%88%E6%88%96%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
 9. [向往的生活小羊小不点去世](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%8F%E7%BE%8A%E5%B0%8F%E4%B8%8D%E7%82%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
