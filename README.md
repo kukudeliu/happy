@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 11:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 11:18:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [警方通报广州车祸](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BF%E5%B7%9E%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [欢乐颂5定档](https://s.weibo.com/weibo?q=%E6%AC%A2%E4%B9%90%E9%A2%825%E5%AE%9A%E6%A1%A3&t=31&band_rank=5&Refer=top)<br />
 6. [首尔大学医学院教授或将集体辞职](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%95%99%E6%8E%88%E6%88%96%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [X疾病会暴发吗](https://s.weibo.com/weibo?q=%23X%E7%96%BE%E7%97%85%E4%BC%9A%E6%9A%B4%E5%8F%91%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [向往的生活小羊小不点去世](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%8F%E7%BE%8A%E5%B0%8F%E4%B8%8D%E7%82%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [广州越秀区车祸致11人受伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%B6%8A%E7%A7%80%E5%8C%BA%E8%BD%A6%E7%A5%B8%E8%87%B411%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+7. [广州越秀区车祸致11人受伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%B6%8A%E7%A7%80%E5%8C%BA%E8%BD%A6%E7%A5%B8%E8%87%B411%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
+8. [X疾病会暴发吗](https://s.weibo.com/weibo?q=%23X%E7%96%BE%E7%97%85%E4%BC%9A%E6%9A%B4%E5%8F%91%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
+9. [向往的生活小羊小不点去世](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%8F%E7%BE%8A%E5%B0%8F%E4%B8%8D%E7%82%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
