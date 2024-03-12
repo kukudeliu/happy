@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 21:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 21:53:01</h4></div>
 
 > 微博  
 
-1. [HPV感染相当于宫颈得了一次感冒](https://s.weibo.com/weibo?q=%23HPV%E6%84%9F%E6%9F%93%E7%9B%B8%E5%BD%93%E4%BA%8E%E5%AE%AB%E9%A2%88%E5%BE%97%E4%BA%86%E4%B8%80%E6%AC%A1%E6%84%9F%E5%86%92%23&t=31&band_rank=1&Refer=top)<br />
-2. [纪凌尘 真心无意冒犯就是学艺不精](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E7%9C%9F%E5%BF%83%E6%97%A0%E6%84%8F%E5%86%92%E7%8A%AF%E5%B0%B1%E6%98%AF%E5%AD%A6%E8%89%BA%E4%B8%8D%E7%B2%BE&t=31&band_rank=2&Refer=top)<br />
+1. [纪凌尘 真心无意冒犯就是学艺不精](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E7%9C%9F%E5%BF%83%E6%97%A0%E6%84%8F%E5%86%92%E7%8A%AF%E5%B0%B1%E6%98%AF%E5%AD%A6%E8%89%BA%E4%B8%8D%E7%B2%BE&t=31&band_rank=1&Refer=top)<br />
+2. [HPV感染相当于宫颈得了一次感冒](https://s.weibo.com/weibo?q=%23HPV%E6%84%9F%E6%9F%93%E7%9B%B8%E5%BD%93%E4%BA%8E%E5%AE%AB%E9%A2%88%E5%BE%97%E4%BA%86%E4%B8%80%E6%AC%A1%E6%84%9F%E5%86%92%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023年全国国土绿化面积超800万公顷](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%9B%BD%E5%9C%9F%E7%BB%BF%E5%8C%96%E9%9D%A2%E7%A7%AF%E8%B6%85800%E4%B8%87%E5%85%AC%E9%A1%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [素媛案强奸犯擅自外出](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E5%BC%BA%E5%A5%B8%E7%8A%AF%E6%93%85%E8%87%AA%E5%A4%96%E5%87%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [被日本人邻居用草莓换排骨汤](https://s.weibo.com/weibo?q=%E8%A2%AB%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%82%BB%E5%B1%85%E7%94%A8%E8%8D%89%E8%8E%93%E6%8D%A2%E6%8E%92%E9%AA%A8%E6%B1%A4&t=31&band_rank=5&Refer=top)<br />
 6. [点读机女孩事件最高可处3年有期徒刑](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [小徐考研成绩超国家线66分](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%BE%90%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E8%B6%85%E5%9B%BD%E5%AE%B6%E7%BA%BF66%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [万科](https://s.weibo.com/weibo?q=%E4%B8%87%E7%A7%91&t=31&band_rank=8&Refer=top)<br />
-9. [男子2万买金镯发现内藏2根金丝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈梦 田志希](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6%20%E7%94%B0%E5%BF%97%E5%B8%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
