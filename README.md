@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 11:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 11:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [广州北京路](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8C%97%E4%BA%AC%E8%B7%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [首尔大学医学院教授或将集体辞职](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%95%99%E6%8E%88%E6%88%96%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [长城汽车员工大批离职](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%9F%8E%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%A4%A7%E6%89%B9%E7%A6%BB%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [于适CK预热](https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82CK%E9%A2%84%E7%83%AD&t=31&band_rank=9&Refer=top)<br />
+9. [于适CK预热](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82CK%E9%A2%84%E7%83%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
