@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 08:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 08:02:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [共话新质生产力](https://s.weibo.com/weibo?q=%23%E5%85%B1%E8%AF%9D%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [向往的生活小羊小不点去世](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%8F%E7%BE%8A%E5%B0%8F%E4%B8%8D%E7%82%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [曾98万拍下摊位的大叔卖馍半月回本](https://s.weibo.com/weibo?q=%23%E6%9B%BE98%E4%B8%87%E6%8B%8D%E4%B8%8B%E6%91%8A%E4%BD%8D%E7%9A%84%E5%A4%A7%E5%8F%94%E5%8D%96%E9%A6%8D%E5%8D%8A%E6%9C%88%E5%9B%9E%E6%9C%AC%23&t=31&band_rank=5&Refer=top)<br />
-6. [高君雨](https://s.weibo.com/weibo?q=%E9%AB%98%E5%90%9B%E9%9B%A8&t=31&band_rank=6&Refer=top)<br />
-7. [中科院院士不提倡健康人做癌症筛查](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E9%99%A2%E5%A3%AB%E4%B8%8D%E6%8F%90%E5%80%A1%E5%81%A5%E5%BA%B7%E4%BA%BA%E5%81%9A%E7%99%8C%E7%97%87%E7%AD%9B%E6%9F%A5%23&t=31&band_rank=7&Refer=top)<br />
+6. [中科院院士不提倡健康人做癌症筛查](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E9%99%A2%E5%A3%AB%E4%B8%8D%E6%8F%90%E5%80%A1%E5%81%A5%E5%BA%B7%E4%BA%BA%E5%81%9A%E7%99%8C%E7%97%87%E7%AD%9B%E6%9F%A5%23&t=31&band_rank=6&Refer=top)<br />
+7. [高君雨](https://s.weibo.com/weibo?q=%E9%AB%98%E5%90%9B%E9%9B%A8&t=31&band_rank=7&Refer=top)<br />
 8. [爸妈让6岁儿子晚上学一年到处旅游](https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E8%AE%A96%E5%B2%81%E5%84%BF%E5%AD%90%E6%99%9A%E4%B8%8A%E5%AD%A6%E4%B8%80%E5%B9%B4%E5%88%B0%E5%A4%84%E6%97%85%E6%B8%B8%23&t=31&band_rank=8&Refer=top)<br />
 9. [王楚然双开门大衣](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%8F%8C%E5%BC%80%E9%97%A8%E5%A4%A7%E8%A1%A3%23&t=31&band_rank=9&Refer=top)<br />
 
