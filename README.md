@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 18:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 18:52:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [考研国家线](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=2&Refer=top)<br />
 3. [植树节一起为绿充植](https://s.weibo.com/weibo?q=%23%E6%A4%8D%E6%A0%91%E8%8A%82%E4%B8%80%E8%B5%B7%E4%B8%BA%E7%BB%BF%E5%85%85%E6%A4%8D%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子2万买金镯发现内藏2根金丝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D%23&t=31&band_rank=4&Refer=top)<br />
-5. [向佐姚安娜 CP](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%E5%A7%9A%E5%AE%89%E5%A8%9C%20CP&t=31&band_rank=5&Refer=top)<br />
+5. [社保卡一定要记得去激活](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E5%8D%A1%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AE%B0%E5%BE%97%E5%8E%BB%E6%BF%80%E6%B4%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [高君雨mcn致歉](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%90%9B%E9%9B%A8mcn%E8%87%B4%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [社保卡一定要记得去激活](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E5%8D%A1%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AE%B0%E5%BE%97%E5%8E%BB%E6%BF%80%E6%B4%BB%23&t=31&band_rank=7&Refer=top)<br />
+7. [向佐姚安娜 CP](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%E5%A7%9A%E5%AE%89%E5%A8%9C%20CP&t=31&band_rank=7&Refer=top)<br />
 8. [Super Junior SM全否定](https://s.weibo.com/weibo?q=Super%20Junior%20SM%E5%85%A8%E5%90%A6%E5%AE%9A&t=31&band_rank=8&Refer=top)<br />
 9. [甘肃杭州林面积已大过西湖](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E6%9D%AD%E5%B7%9E%E6%9E%97%E9%9D%A2%E7%A7%AF%E5%B7%B2%E5%A4%A7%E8%BF%87%E8%A5%BF%E6%B9%96%23&t=31&band_rank=9&Refer=top)<br />
 
