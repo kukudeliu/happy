@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 18:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 18:15:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [“高频指标”释放经济运行积极信号](https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%A2%91%E6%8C%87%E6%A0%87%E2%80%9D%E9%87%8A%E6%94%BE%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E7%A7%AF%E6%9E%81%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子2万买金镯发现内藏2根金丝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [暗访波音工厂：许多员工吸毒成瘾](https://www.baidu.com/s?wd=%E6%9A%97%E8%AE%BF%E6%B3%A2%E9%9F%B3%E5%B7%A5%E5%8E%82%EF%BC%9A%E8%AE%B8%E5%A4%9A%E5%91%98%E5%B7%A5%E5%90%B8%E6%AF%92%E6%88%90%E7%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [海地帮派团体被指已比国家更强大](https://www.baidu.com/s?wd=%E6%B5%B7%E5%9C%B0%E5%B8%AE%E6%B4%BE%E5%9B%A2%E4%BD%93%E8%A2%AB%E6%8C%87%E5%B7%B2%E6%AF%94%E5%9B%BD%E5%AE%B6%E6%9B%B4%E5%BC%BA%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩作家称“汉字由韩国人创造”](https://www.baidu.com/s?wd=%E9%9F%A9%E4%BD%9C%E5%AE%B6%E7%A7%B0%E2%80%9C%E6%B1%89%E5%AD%97%E7%94%B1%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%88%9B%E9%80%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [春日AI充电](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5AI%E5%85%85%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [“高频指标”释放经济运行积极信号](https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%A2%91%E6%8C%87%E6%A0%87%E2%80%9D%E9%87%8A%E6%94%BE%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E7%A7%AF%E6%9E%81%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子2万买金镯发现内藏2根金丝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [暗访波音工厂：许多员工吸毒成瘾](https://www.baidu.com/s?wd=%E6%9A%97%E8%AE%BF%E6%B3%A2%E9%9F%B3%E5%B7%A5%E5%8E%82%EF%BC%9A%E8%AE%B8%E5%A4%9A%E5%91%98%E5%B7%A5%E5%90%B8%E6%AF%92%E6%88%90%E7%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [海地帮派团体被指已比国家更强大](https://www.baidu.com/s?wd=%E6%B5%B7%E5%9C%B0%E5%B8%AE%E6%B4%BE%E5%9B%A2%E4%BD%93%E8%A2%AB%E6%8C%87%E5%B7%B2%E6%AF%94%E5%9B%BD%E5%AE%B6%E6%9B%B4%E5%BC%BA%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩作家称“汉字由韩国人创造”](https://www.baidu.com/s?wd=%E9%9F%A9%E4%BD%9C%E5%AE%B6%E7%A7%B0%E2%80%9C%E6%B1%89%E5%AD%97%E7%94%B1%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%88%9B%E9%80%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [春日AI充电](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5AI%E5%85%85%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
