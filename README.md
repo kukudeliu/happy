@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 10:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 10:53:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [用色卡打开春日里的中国](https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%89%B2%E5%8D%A1%E6%89%93%E5%BC%80%E6%98%A5%E6%97%A5%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [X疾病会暴发吗](https://s.weibo.com/weibo?q=%23X%E7%96%BE%E7%97%85%E4%BC%9A%E6%9A%B4%E5%8F%91%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [广州北京路](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E5%8C%97%E4%BA%AC%E8%B7%AF&t=31&band_rank=5&Refer=top)<br />
-6. [大四是一场巨大的戒断](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%88%92%E6%96%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [欢乐颂5定档](https://s.weibo.com/weibo?q=%E6%AC%A2%E4%B9%90%E9%A2%825%E5%AE%9A%E6%A1%A3&t=31&band_rank=7&Refer=top)<br />
+6. [欢乐颂5定档](https://s.weibo.com/weibo?q=%E6%AC%A2%E4%B9%90%E9%A2%825%E5%AE%9A%E6%A1%A3&t=31&band_rank=6&Refer=top)<br />
+7. [大四是一场巨大的戒断](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%88%92%E6%96%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [雷军官宣3月28日小米SU7上市](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A33%E6%9C%8828%E6%97%A5%E5%B0%8F%E7%B1%B3SU7%E4%B8%8A%E5%B8%82%23&t=31&band_rank=8&Refer=top)<br />
 9. [向往的生活小羊小不点去世](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%8F%E7%BE%8A%E5%B0%8F%E4%B8%8D%E7%82%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
