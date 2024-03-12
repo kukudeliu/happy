@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 18:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 18:54:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [点读机女孩手术视频系去年9月拍摄](https://www.baidu.com/s?wd=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E6%89%8B%E6%9C%AF%E8%A7%86%E9%A2%91%E7%B3%BB%E5%8E%BB%E5%B9%B49%E6%9C%88%E6%8B%8D%E6%91%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“高频指标”释放经济运行积极信号](https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%A2%91%E6%8C%87%E6%A0%87%E2%80%9D%E9%87%8A%E6%94%BE%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E7%A7%AF%E6%9E%81%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子2万买金镯发现内藏2根金丝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [韩作家称“汉字由韩国人创造”](https://www.baidu.com/s?wd=%E9%9F%A9%E4%BD%9C%E5%AE%B6%E7%A7%B0%E2%80%9C%E6%B1%89%E5%AD%97%E7%94%B1%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%88%9B%E9%80%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [姚安娜、向佐等演员演技惹争议](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E3%80%81%E5%90%91%E4%BD%90%E7%AD%89%E6%BC%94%E5%91%98%E6%BC%94%E6%8A%80%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [短剧收费乱象频发 有老年人充值4万](https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%94%B6%E8%B4%B9%E4%B9%B1%E8%B1%A1%E9%A2%91%E5%8F%91+%E6%9C%89%E8%80%81%E5%B9%B4%E4%BA%BA%E5%85%85%E5%80%BC4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩作家称“汉字由韩国人创造”](https://www.baidu.com/s?wd=%E9%9F%A9%E4%BD%9C%E5%AE%B6%E7%A7%B0%E2%80%9C%E6%B1%89%E5%AD%97%E7%94%B1%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%88%9B%E9%80%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [春日AI充电](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5AI%E5%85%85%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [点读机女孩手术视频系去年9月拍摄](https://www.baidu.com/s?wd=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E6%89%8B%E6%9C%AF%E8%A7%86%E9%A2%91%E7%B3%BB%E5%8E%BB%E5%B9%B49%E6%9C%88%E6%8B%8D%E6%91%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“高频指标”释放经济运行积极信号](https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%A2%91%E6%8C%87%E6%A0%87%E2%80%9D%E9%87%8A%E6%94%BE%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E7%A7%AF%E6%9E%81%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子2万买金镯发现内藏2根金丝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [韩作家称“汉字由韩国人创造”](https://www.baidu.com/s?wd=%E9%9F%A9%E4%BD%9C%E5%AE%B6%E7%A7%B0%E2%80%9C%E6%B1%89%E5%AD%97%E7%94%B1%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%88%9B%E9%80%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [姚安娜、向佐等演员演技惹争议](https://www.baidu.com/s?wd=%E5%A7%9A%E5%AE%89%E5%A8%9C%E3%80%81%E5%90%91%E4%BD%90%E7%AD%89%E6%BC%94%E5%91%98%E6%BC%94%E6%8A%80%E6%83%B9%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [短剧收费乱象频发 有老年人充值4万](https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%94%B6%E8%B4%B9%E4%B9%B1%E8%B1%A1%E9%A2%91%E5%8F%91+%E6%9C%89%E8%80%81%E5%B9%B4%E4%BA%BA%E5%85%85%E5%80%BC4%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩作家称“汉字由韩国人创造”](https://www.baidu.com/s?wd=%E9%9F%A9%E4%BD%9C%E5%AE%B6%E7%A7%B0%E2%80%9C%E6%B1%89%E5%AD%97%E7%94%B1%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%88%9B%E9%80%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [春日AI充电](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5AI%E5%85%85%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
