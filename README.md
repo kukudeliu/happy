@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 22:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 22:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [点读机女孩事件最高可处3年有期徒刑](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [男子2万买金镯发现内藏2根金丝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [小徐考研成绩超国家线66分](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%BE%90%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E8%B6%85%E5%9B%BD%E5%AE%B6%E7%BA%BF66%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [万科](https://s.weibo.com/weibo?q=%E4%B8%87%E7%A7%91&t=31&band_rank=9&Refer=top)<br />
+9. [纪凌尘撕名牌](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%E6%92%95%E5%90%8D%E7%89%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
