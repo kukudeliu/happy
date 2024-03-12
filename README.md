@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 07:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 07:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈乔恩13天没吃碳水](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A913%E5%A4%A9%E6%B2%A1%E5%90%83%E7%A2%B3%E6%B0%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [粉丝称被网红家人骗走百万](https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E7%A7%B0%E8%A2%AB%E7%BD%91%E7%BA%A2%E5%AE%B6%E4%BA%BA%E9%AA%97%E8%B5%B0%E7%99%BE%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [点读机女孩事件最高可处3年有期徒刑](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [考研失败办考研辅导班赚钱翻身](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%A4%B1%E8%B4%A5%E5%8A%9E%E8%80%83%E7%A0%94%E8%BE%85%E5%AF%BC%E7%8F%AD%E8%B5%9A%E9%92%B1%E7%BF%BB%E8%BA%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [雷军](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [带你看中国的绿色奇迹](https://www.baidu.com/s?wd=%E5%B8%A6%E4%BD%A0%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%BF%E8%89%B2%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [微信朋友圈的这条横线为何有长有短](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E8%BF%99%E6%9D%A1%E6%A8%AA%E7%BA%BF%E4%B8%BA%E4%BD%95%E6%9C%89%E9%95%BF%E6%9C%89%E7%9F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [点读机女孩事件最高可处3年有期徒刑](https://www.baidu.com/s?wd=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网红小徐考研成绩超国家线66分](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%BE%90%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E8%B6%85%E5%9B%BD%E5%AE%B6%E7%BA%BF66%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [福建龙岩一工地挖出“冬眠”蟒蛇](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E9%BE%99%E5%B2%A9%E4%B8%80%E5%B7%A5%E5%9C%B0%E6%8C%96%E5%87%BA%E2%80%9C%E5%86%AC%E7%9C%A0%E2%80%9D%E8%9F%92%E8%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多个武装组织声称“侵入俄西部”](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E6%AD%A6%E8%A3%85%E7%BB%84%E7%BB%87%E5%A3%B0%E7%A7%B0%E2%80%9C%E4%BE%B5%E5%85%A5%E4%BF%84%E8%A5%BF%E9%83%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网红小徐考研成绩超国家线66分](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%BE%90%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E8%B6%85%E5%9B%BD%E5%AE%B6%E7%BA%BF66%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [带你看中国的绿色奇迹](https://www.baidu.com/s?wd=%E5%B8%A6%E4%BD%A0%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%BF%E8%89%B2%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [微信朋友圈的这条横线为何有长有短](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E8%BF%99%E6%9D%A1%E6%A8%AA%E7%BA%BF%E4%B8%BA%E4%BD%95%E6%9C%89%E9%95%BF%E6%9C%89%E7%9F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [点读机女孩事件最高可处3年有期徒刑](https://www.baidu.com/s?wd=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网红小徐考研成绩超国家线66分](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%BE%90%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E8%B6%85%E5%9B%BD%E5%AE%B6%E7%BA%BF66%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [福建龙岩一工地挖出“冬眠”蟒蛇](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E9%BE%99%E5%B2%A9%E4%B8%80%E5%B7%A5%E5%9C%B0%E6%8C%96%E5%87%BA%E2%80%9C%E5%86%AC%E7%9C%A0%E2%80%9D%E8%9F%92%E8%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多个武装组织声称“侵入俄西部”](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E6%AD%A6%E8%A3%85%E7%BB%84%E7%BB%87%E5%A3%B0%E7%A7%B0%E2%80%9C%E4%BE%B5%E5%85%A5%E4%BF%84%E8%A5%BF%E9%83%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [网红小徐考研成绩超国家线66分](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%BE%90%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E8%B6%85%E5%9B%BD%E5%AE%B6%E7%BA%BF66%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
