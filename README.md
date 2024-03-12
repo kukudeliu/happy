@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 17:53:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 17:54:02</h4></div>
 
 > 微博  
 
 1. [考研国家线](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=1&Refer=top)<br />
-2. [男子2万买金镯发现内藏2根金丝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D%23&t=31&band_rank=2&Refer=top)<br />
+2. [素媛案强奸犯擅自外出](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E5%BC%BA%E5%A5%B8%E7%8A%AF%E6%93%85%E8%87%AA%E5%A4%96%E5%87%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [植树节一起为绿充植](https://s.weibo.com/weibo?q=%23%E6%A4%8D%E6%A0%91%E8%8A%82%E4%B8%80%E8%B5%B7%E4%B8%BA%E7%BB%BF%E5%85%85%E6%A4%8D%23&t=31&band_rank=3&Refer=top)<br />
-4. [素媛案强奸犯擅自外出](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E5%BC%BA%E5%A5%B8%E7%8A%AF%E6%93%85%E8%87%AA%E5%A4%96%E5%87%BA%23&t=31&band_rank=4&Refer=top)<br />
+4. [男子2万买金镯发现内藏2根金丝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D%23&t=31&band_rank=4&Refer=top)<br />
 5. [唐艺昕纹身](https://s.weibo.com/weibo?q=%E5%94%90%E8%89%BA%E6%98%95%E7%BA%B9%E8%BA%AB&t=31&band_rank=5&Refer=top)<br />
 6. [没学上了](https://s.weibo.com/weibo?q=%E6%B2%A1%E5%AD%A6%E4%B8%8A%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [官方通报点读机女孩视频事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E8%A7%86%E9%A2%91%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
