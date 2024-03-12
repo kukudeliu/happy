@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 10:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 10:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [大四是一场巨大的戒断](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%88%92%E6%96%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [向往的生活小羊小不点去世](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%8F%E7%BE%8A%E5%B0%8F%E4%B8%8D%E7%82%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [国家线今天出吗](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E7%BA%BF%E4%BB%8A%E5%A4%A9%E5%87%BA%E5%90%97&t=31&band_rank=7&Refer=top)<br />
-8. [林拓确诊渐冻症](https://s.weibo.com/weibo?q=%E6%9E%97%E6%8B%93%E7%A1%AE%E8%AF%8A%E6%B8%90%E5%86%BB%E7%97%87&t=31&band_rank=8&Refer=top)<br />
-9. [奥斯卡春山学](https://s.weibo.com/weibo?q=%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%98%A5%E5%B1%B1%E5%AD%A6&t=31&band_rank=9&Refer=top)<br />
+8. [奥斯卡春山学](https://s.weibo.com/weibo?q=%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%98%A5%E5%B1%B1%E5%AD%A6&t=31&band_rank=8&Refer=top)<br />
+9. [林拓确诊渐冻症](https://s.weibo.com/weibo?q=%E6%9E%97%E6%8B%93%E7%A1%AE%E8%AF%8A%E6%B8%90%E5%86%BB%E7%97%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
