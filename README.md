@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 13:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 13:16:01</h4></div>
 
 > 微博  
 
 1. [一个节目心疼三个女人](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E8%8A%82%E7%9B%AE%E5%BF%83%E7%96%BC%E4%B8%89%E4%B8%AA%E5%A5%B3%E4%BA%BA&t=31&band_rank=1&Refer=top)<br />
 2. [蔚来CEO要求员工不得参与理想MEGA舆论](https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A5CEO%E8%A6%81%E6%B1%82%E5%91%98%E5%B7%A5%E4%B8%8D%E5%BE%97%E5%8F%82%E4%B8%8E%E7%90%86%E6%83%B3MEGA%E8%88%86%E8%AE%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [9个关键词了解两会民生热点](https://s.weibo.com/weibo?q=%239%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E4%BA%86%E8%A7%A3%E4%B8%A4%E4%BC%9A%E6%B0%91%E7%94%9F%E7%83%AD%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
-4. [福建沙虫](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%BB%BA%E6%B2%99%E8%99%AB&t=31&band_rank=4&Refer=top)<br />
-5. [金价狂飙涨疯普通人还能再买吗](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E6%B6%A8%E7%96%AF%E6%99%AE%E9%80%9A%E4%BA%BA%E8%BF%98%E8%83%BD%E5%86%8D%E4%B9%B0%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [王鹤棣终于演警察了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%BB%88%E4%BA%8E%E6%BC%94%E8%AD%A6%E5%AF%9F%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [女员工入职3个月怀孕遭开除](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%91%98%E5%B7%A5%E5%85%A5%E8%81%8C3%E4%B8%AA%E6%9C%88%E6%80%80%E5%AD%95%E9%81%AD%E5%BC%80%E9%99%A4%23&t=31&band_rank=7&Refer=top)<br />
+4. [金价狂飙涨疯普通人还能再买吗](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E6%B6%A8%E7%96%AF%E6%99%AE%E9%80%9A%E4%BA%BA%E8%BF%98%E8%83%BD%E5%86%8D%E4%B9%B0%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
+5. [福建沙虫](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%BB%BA%E6%B2%99%E8%99%AB&t=31&band_rank=5&Refer=top)<br />
+6. [女员工入职3个月怀孕遭开除](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%91%98%E5%B7%A5%E5%85%A5%E8%81%8C3%E4%B8%AA%E6%9C%88%E6%80%80%E5%AD%95%E9%81%AD%E5%BC%80%E9%99%A4%23&t=31&band_rank=6&Refer=top)<br />
+7. [王鹤棣终于演警察了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%BB%88%E4%BA%8E%E6%BC%94%E8%AD%A6%E5%AF%9F%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [丈夫藏10万练功券被妻子拿去存钱](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E8%97%8F10%E4%B8%87%E7%BB%83%E5%8A%9F%E5%88%B8%E8%A2%AB%E5%A6%BB%E5%AD%90%E6%8B%BF%E5%8E%BB%E5%AD%98%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [酱园弄阵容](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%E9%98%B5%E5%AE%B9&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [免费领养猫的真相或是贷款买猫](https://www.baidu.com/s?wd=%E5%85%8D%E8%B4%B9%E9%A2%86%E5%85%BB%E7%8C%AB%E7%9A%84%E7%9C%9F%E7%9B%B8%E6%88%96%E6%98%AF%E8%B4%B7%E6%AC%BE%E4%B9%B0%E7%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [雷军官宣小米汽车发布日](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子用筋膜枪按摩眼眶致白内障](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E7%AD%8B%E8%86%9C%E6%9E%AA%E6%8C%89%E6%91%A9%E7%9C%BC%E7%9C%B6%E8%87%B4%E7%99%BD%E5%86%85%E9%9A%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [波音客机空中急降超50人受伤](https://www.baidu.com/s?wd=%E6%B3%A2%E9%9F%B3%E5%AE%A2%E6%9C%BA%E7%A9%BA%E4%B8%AD%E6%80%A5%E9%99%8D%E8%B6%8550%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [点读机女孩事件还有很多真相要厘清](https://www.baidu.com/s?wd=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E8%BF%98%E6%9C%89%E5%BE%88%E5%A4%9A%E7%9C%9F%E7%9B%B8%E8%A6%81%E5%8E%98%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西一医院辟谣接种流脑疫苗](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%8E%A5%E7%A7%8D%E6%B5%81%E8%84%91%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [免费领养猫的真相或是贷款买猫](https://www.baidu.com/s?wd=%E5%85%8D%E8%B4%B9%E9%A2%86%E5%85%BB%E7%8C%AB%E7%9A%84%E7%9C%9F%E7%9B%B8%E6%88%96%E6%98%AF%E8%B4%B7%E6%AC%BE%E4%B9%B0%E7%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [雷军官宣小米汽车发布日](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子用筋膜枪按摩眼眶致白内障](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E7%AD%8B%E8%86%9C%E6%9E%AA%E6%8C%89%E6%91%A9%E7%9C%BC%E7%9C%B6%E8%87%B4%E7%99%BD%E5%86%85%E9%9A%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [波音客机空中急降超50人受伤](https://www.baidu.com/s?wd=%E6%B3%A2%E9%9F%B3%E5%AE%A2%E6%9C%BA%E7%A9%BA%E4%B8%AD%E6%80%A5%E9%99%8D%E8%B6%8550%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [点读机女孩事件还有很多真相要厘清](https://www.baidu.com/s?wd=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E8%BF%98%E6%9C%89%E5%BE%88%E5%A4%9A%E7%9C%9F%E7%9B%B8%E8%A6%81%E5%8E%98%E6%B8%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西一医院辟谣接种流脑疫苗](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%8E%A5%E7%A7%8D%E6%B5%81%E8%84%91%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
