@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 14:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 14:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [福建沙虫](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%BB%BA%E6%B2%99%E8%99%AB&t=31&band_rank=6&Refer=top)<br />
 7. [雷军称对价格战做好了充分准备](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%AF%B9%E4%BB%B7%E6%A0%BC%E6%88%98%E5%81%9A%E5%A5%BD%E4%BA%86%E5%85%85%E5%88%86%E5%87%86%E5%A4%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [农村断缴城乡居民医保背后](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E6%96%AD%E7%BC%B4%E5%9F%8E%E4%B9%A1%E5%B1%85%E6%B0%91%E5%8C%BB%E4%BF%9D%E8%83%8C%E5%90%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [金价狂飙涨疯普通人还能再买吗](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E6%B6%A8%E7%96%AF%E6%99%AE%E9%80%9A%E4%BA%BA%E8%BF%98%E8%83%BD%E5%86%8D%E4%B9%B0%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [十个勤天种树直播](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E7%A7%8D%E6%A0%91%E7%9B%B4%E6%92%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
