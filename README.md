@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 16:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 16:12:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [结婚16年4娃非亲生当事人已离婚](https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A16%E5%B9%B44%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%B7%B2%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [赵丽颖易烊千玺二搭](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BA%8C%E6%90%AD%23&t=31&band_rank=5&Refer=top)<br />
 6. [满舒克工作室声明](https://s.weibo.com/weibo?q=%23%E6%BB%A1%E8%88%92%E5%85%8B%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
-7. [纪凌尘的牙](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%E7%9A%84%E7%89%99&t=31&band_rank=7&Refer=top)<br />
-8. [饭后有3个表现是胃癌肝癌来临信号](https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%90%8E%E6%9C%893%E4%B8%AA%E8%A1%A8%E7%8E%B0%E6%98%AF%E8%83%83%E7%99%8C%E8%82%9D%E7%99%8C%E6%9D%A5%E4%B8%B4%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [王楚钦孙颖莎3比0法国组合](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%940%E6%B3%95%E5%9B%BD%E7%BB%84%E5%90%88%23&t=31&band_rank=9&Refer=top)<br />
+7. [饭后有3个表现是胃癌肝癌来临信号](https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%90%8E%E6%9C%893%E4%B8%AA%E8%A1%A8%E7%8E%B0%E6%98%AF%E8%83%83%E7%99%8C%E8%82%9D%E7%99%8C%E6%9D%A5%E4%B8%B4%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=7&Refer=top)<br />
+8. [王楚钦孙颖莎3比0法国组合](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%940%E6%B3%95%E5%9B%BD%E7%BB%84%E5%90%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [超80%女性一生至少有过一次HPV感染](https://s.weibo.com/weibo?q=%23%E8%B6%8580%25%E5%A5%B3%E6%80%A7%E4%B8%80%E7%94%9F%E8%87%B3%E5%B0%91%E6%9C%89%E8%BF%87%E4%B8%80%E6%AC%A1HPV%E6%84%9F%E6%9F%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
