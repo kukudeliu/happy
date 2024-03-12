@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 08:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 08:35:02</h4></div>
 
 > 微博  
 
-1. [湿气重毁身材肚子大](https://s.weibo.com/weibo?q=%E6%B9%BF%E6%B0%94%E9%87%8D%E6%AF%81%E8%BA%AB%E6%9D%90%E8%82%9A%E5%AD%90%E5%A4%A7&t=31&band_rank=1&Refer=top)<br />
-2. [在家做顿饭等于吸20分钟汽车尾气](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%AE%B6%E5%81%9A%E9%A1%BF%E9%A5%AD%E7%AD%89%E4%BA%8E%E5%90%B820%E5%88%86%E9%92%9F%E6%B1%BD%E8%BD%A6%E5%B0%BE%E6%B0%94%23&t=31&band_rank=2&Refer=top)<br />
+1. [在家做顿饭等于吸20分钟汽车尾气](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%AE%B6%E5%81%9A%E9%A1%BF%E9%A5%AD%E7%AD%89%E4%BA%8E%E5%90%B820%E5%88%86%E9%92%9F%E6%B1%BD%E8%BD%A6%E5%B0%BE%E6%B0%94%23&t=31&band_rank=1&Refer=top)<br />
+2. [湿气重毁身材肚子大](https://s.weibo.com/weibo?q=%E6%B9%BF%E6%B0%94%E9%87%8D%E6%AF%81%E8%BA%AB%E6%9D%90%E8%82%9A%E5%AD%90%E5%A4%A7&t=31&band_rank=2&Refer=top)<br />
 3. [共话新质生产力](https://s.weibo.com/weibo?q=%23%E5%85%B1%E8%AF%9D%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [向往的生活小羊小不点去世](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%8F%E7%BE%8A%E5%B0%8F%E4%B8%8D%E7%82%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [韩网评奥斯卡歧视亚裔](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%AD%A7%E8%A7%86%E4%BA%9A%E8%A3%94%23&t=31&band_rank=5&Refer=top)<br />
