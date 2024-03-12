@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 00:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 00:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [肖战工作室还让不让人睡](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BF%98%E8%AE%A9%E4%B8%8D%E8%AE%A9%E4%BA%BA%E7%9D%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [素媛案强奸犯擅自外出](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E5%BC%BA%E5%A5%B8%E7%8A%AF%E6%93%85%E8%87%AA%E5%A4%96%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [纪凌尘 真心无意冒犯就是学艺不精](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E7%9C%9F%E5%BF%83%E6%97%A0%E6%84%8F%E5%86%92%E7%8A%AF%E5%B0%B1%E6%98%AF%E5%AD%A6%E8%89%BA%E4%B8%8D%E7%B2%BE&t=31&band_rank=8&Refer=top)<br />
-9. [点读机女孩事件最高可处3年有期徒刑](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [朱梓骁悬着的心终于死了](https://s.weibo.com/weibo?q=%E6%9C%B1%E6%A2%93%E9%AA%81%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
