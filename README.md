@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 10:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 10:37:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [共话新质生产力](https://s.weibo.com/weibo?q=%23%E5%85%B1%E8%AF%9D%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [雷军官宣3月28日小米SU7上市](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A33%E6%9C%8828%E6%97%A5%E5%B0%8F%E7%B1%B3SU7%E4%B8%8A%E5%B8%82%23&t=31&band_rank=4&Refer=top)<br />
 5. [大四是一场巨大的戒断](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%88%92%E6%96%AD%23&t=31&band_rank=5&Refer=top)<br />
-6. [福岛从日本鬼城变成了世界伤口](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B2%9B%E4%BB%8E%E6%97%A5%E6%9C%AC%E9%AC%BC%E5%9F%8E%E5%8F%98%E6%88%90%E4%BA%86%E4%B8%96%E7%95%8C%E4%BC%A4%E5%8F%A3%23&t=31&band_rank=6&Refer=top)<br />
-7. [金价狂飙涨疯普通人还能再买吗](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E6%B6%A8%E7%96%AF%E6%99%AE%E9%80%9A%E4%BA%BA%E8%BF%98%E8%83%BD%E5%86%8D%E4%B9%B0%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
+6. [金价狂飙涨疯普通人还能再买吗](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E6%B6%A8%E7%96%AF%E6%99%AE%E9%80%9A%E4%BA%BA%E8%BF%98%E8%83%BD%E5%86%8D%E4%B9%B0%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+7. [福岛从日本鬼城变成了世界伤口](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B2%9B%E4%BB%8E%E6%97%A5%E6%9C%AC%E9%AC%BC%E5%9F%8E%E5%8F%98%E6%88%90%E4%BA%86%E4%B8%96%E7%95%8C%E4%BC%A4%E5%8F%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [向往的生活小羊小不点去世](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%8F%E7%BE%8A%E5%B0%8F%E4%B8%8D%E7%82%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
 9. [国家线今天出吗](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E7%BA%BF%E4%BB%8A%E5%A4%A9%E5%87%BA%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
