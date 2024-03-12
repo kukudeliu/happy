@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 07:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 07:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [粉丝称被网红家人骗走百万](https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E7%A7%B0%E8%A2%AB%E7%BD%91%E7%BA%A2%E5%AE%B6%E4%BA%BA%E9%AA%97%E8%B5%B0%E7%99%BE%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [点读机女孩事件最高可处3年有期徒刑](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [朱梓骁悬着的心终于死了](https://s.weibo.com/weibo?q=%E6%9C%B1%E6%A2%93%E9%AA%81%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [天涯明月刀](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B6%AF%E6%98%8E%E6%9C%88%E5%88%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [男子2万买金镯发现内藏2根金丝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
