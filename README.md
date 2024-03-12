@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 09:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 09:26:01</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [十四届全国人大二次会议举行闭幕会](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C%E9%97%AD%E5%B9%95%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [亲子鉴定造假？男孩替女孩做鉴定](https://www.baidu.com/s?wd=%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E9%80%A0%E5%81%87%EF%BC%9F%E7%94%B7%E5%AD%A9%E6%9B%BF%E5%A5%B3%E5%AD%A9%E5%81%9A%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [原书记官宣被查不到2小时新书记上任](https://www.baidu.com/s?wd=%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%AE%98%E5%AE%A3%E8%A2%AB%E6%9F%A5%E4%B8%8D%E5%88%B02%E5%B0%8F%E6%97%B6%E6%96%B0%E4%B9%A6%E8%AE%B0%E4%B8%8A%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [原书记官宣被查不到2小时新书记上任](https://www.baidu.com/s?wd=%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%AE%98%E5%AE%A3%E8%A2%AB%E6%9F%A5%E4%B8%8D%E5%88%B02%E5%B0%8F%E6%97%B6%E6%96%B0%E4%B9%A6%E8%AE%B0%E4%B8%8A%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [亲子鉴定造假？男孩替女孩做鉴定](https://www.baidu.com/s?wd=%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E9%80%A0%E5%81%87%EF%BC%9F%E7%94%B7%E5%AD%A9%E6%9B%BF%E5%A5%B3%E5%AD%A9%E5%81%9A%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [通道内外的高频词](https://www.baidu.com/s?wd=%E9%80%9A%E9%81%93%E5%86%85%E5%A4%96%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“7年没走到深圳北站的爷爷”被行拘](https://www.baidu.com/s?wd=%E2%80%9C7%E5%B9%B4%E6%B2%A1%E8%B5%B0%E5%88%B0%E6%B7%B1%E5%9C%B3%E5%8C%97%E7%AB%99%E7%9A%84%E7%88%B7%E7%88%B7%E2%80%9D%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [长城汽车员工大批离职](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%A4%A7%E6%89%B9%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [十四届全国人大二次会议举行闭幕会](https://www.baidu.com/s?wd=%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BA%8C%E6%AC%A1%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C%E9%97%AD%E5%B9%95%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [亲子鉴定造假？男孩替女孩做鉴定](https://www.baidu.com/s?wd=%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E9%80%A0%E5%81%87%EF%BC%9F%E7%94%B7%E5%AD%A9%E6%9B%BF%E5%A5%B3%E5%AD%A9%E5%81%9A%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [原书记官宣被查不到2小时新书记上任](https://www.baidu.com/s?wd=%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%AE%98%E5%AE%A3%E8%A2%AB%E6%9F%A5%E4%B8%8D%E5%88%B02%E5%B0%8F%E6%97%B6%E6%96%B0%E4%B9%A6%E8%AE%B0%E4%B8%8A%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [原书记官宣被查不到2小时新书记上任](https://www.baidu.com/s?wd=%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%AE%98%E5%AE%A3%E8%A2%AB%E6%9F%A5%E4%B8%8D%E5%88%B02%E5%B0%8F%E6%97%B6%E6%96%B0%E4%B9%A6%E8%AE%B0%E4%B8%8A%E4%BB%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [亲子鉴定造假？男孩替女孩做鉴定](https://www.baidu.com/s?wd=%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E9%80%A0%E5%81%87%EF%BC%9F%E7%94%B7%E5%AD%A9%E6%9B%BF%E5%A5%B3%E5%AD%A9%E5%81%9A%E9%89%B4%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [通道内外的高频词](https://www.baidu.com/s?wd=%E9%80%9A%E9%81%93%E5%86%85%E5%A4%96%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“7年没走到深圳北站的爷爷”被行拘](https://www.baidu.com/s?wd=%E2%80%9C7%E5%B9%B4%E6%B2%A1%E8%B5%B0%E5%88%B0%E6%B7%B1%E5%9C%B3%E5%8C%97%E7%AB%99%E7%9A%84%E7%88%B7%E7%88%B7%E2%80%9D%E8%A2%AB%E8%A1%8C%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [长城汽车员工大批离职](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%A4%A7%E6%89%B9%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
