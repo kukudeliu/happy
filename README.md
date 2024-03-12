@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 17:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 17:22:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [“高频指标”释放经济运行积极信号](https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%A2%91%E6%8C%87%E6%A0%87%E2%80%9D%E9%87%8A%E6%94%BE%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E7%A7%AF%E6%9E%81%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小米汽车回应价格战：已做好准备](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E4%BB%B7%E6%A0%BC%E6%88%98%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [暗访波音工厂：许多员工吸毒成瘾](https://www.baidu.com/s?wd=%E6%9A%97%E8%AE%BF%E6%B3%A2%E9%9F%B3%E5%B7%A5%E5%8E%82%EF%BC%9A%E8%AE%B8%E5%A4%9A%E5%91%98%E5%B7%A5%E5%90%B8%E6%AF%92%E6%88%90%E7%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友辣评汤唯短发：邓超蒋雯丽你好](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%BE%A3%E8%AF%84%E6%B1%A4%E5%94%AF%E7%9F%AD%E5%8F%91%EF%BC%9A%E9%82%93%E8%B6%85%E8%92%8B%E9%9B%AF%E4%B8%BD%E4%BD%A0%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一个节目心疼三个女人](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E8%8A%82%E7%9B%AE%E5%BF%83%E7%96%BC%E4%B8%89%E4%B8%AA%E5%A5%B3%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [春日AI充电](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5AI%E5%85%85%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [“高频指标”释放经济运行积极信号](https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%A2%91%E6%8C%87%E6%A0%87%E2%80%9D%E9%87%8A%E6%94%BE%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E7%A7%AF%E6%9E%81%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [小米汽车回应价格战：已做好准备](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E4%BB%B7%E6%A0%BC%E6%88%98%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [暗访波音工厂：许多员工吸毒成瘾](https://www.baidu.com/s?wd=%E6%9A%97%E8%AE%BF%E6%B3%A2%E9%9F%B3%E5%B7%A5%E5%8E%82%EF%BC%9A%E8%AE%B8%E5%A4%9A%E5%91%98%E5%B7%A5%E5%90%B8%E6%AF%92%E6%88%90%E7%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友辣评汤唯短发：邓超蒋雯丽你好](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%BE%A3%E8%AF%84%E6%B1%A4%E5%94%AF%E7%9F%AD%E5%8F%91%EF%BC%9A%E9%82%93%E8%B6%85%E8%92%8B%E9%9B%AF%E4%B8%BD%E4%BD%A0%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [一个节目心疼三个女人](https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E8%8A%82%E7%9B%AE%E5%BF%83%E7%96%BC%E4%B8%89%E4%B8%AA%E5%A5%B3%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [春日AI充电](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5AI%E5%85%85%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
