@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 23:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 23:47:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [天涯明月刀](https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B6%AF%E6%98%8E%E6%9C%88%E5%88%80&t=31&band_rank=4&Refer=top)<br />
 5. [陈乔恩13天没吃碳水](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A913%E5%A4%A9%E6%B2%A1%E5%90%83%E7%A2%B3%E6%B0%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [纪凌尘 真心无意冒犯就是学艺不精](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E7%9C%9F%E5%BF%83%E6%97%A0%E6%84%8F%E5%86%92%E7%8A%AF%E5%B0%B1%E6%98%AF%E5%AD%A6%E8%89%BA%E4%B8%8D%E7%B2%BE&t=31&band_rank=6&Refer=top)<br />
-7. [走吧你跟有病似的](https://s.weibo.com/weibo?q=%E8%B5%B0%E5%90%A7%E4%BD%A0%E8%B7%9F%E6%9C%89%E7%97%85%E4%BC%BC%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
-8. [素媛案强奸犯擅自外出](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E5%BC%BA%E5%A5%B8%E7%8A%AF%E6%93%85%E8%87%AA%E5%A4%96%E5%87%BA%23&t=31&band_rank=8&Refer=top)<br />
+7. [素媛案强奸犯擅自外出](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E5%BC%BA%E5%A5%B8%E7%8A%AF%E6%93%85%E8%87%AA%E5%A4%96%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
+8. [走吧你跟有病似的](https://s.weibo.com/weibo?q=%E8%B5%B0%E5%90%A7%E4%BD%A0%E8%B7%9F%E6%9C%89%E7%97%85%E4%BC%BC%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
 9. [马龙2比3弗朗西斯卡](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%992%E6%AF%943%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%E5%8D%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
