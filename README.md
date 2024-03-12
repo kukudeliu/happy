@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 17:57:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 17:58:02</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [植树节一起为绿充植](https://s.weibo.com/weibo?q=%23%E6%A4%8D%E6%A0%91%E8%8A%82%E4%B8%80%E8%B5%B7%E4%B8%BA%E7%BB%BF%E5%85%85%E6%A4%8D%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子2万买金镯发现内藏2根金丝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D%23&t=31&band_rank=4&Refer=top)<br />
 5. [唐艺昕纹身](https://s.weibo.com/weibo?q=%E5%94%90%E8%89%BA%E6%98%95%E7%BA%B9%E8%BA%AB&t=31&band_rank=5&Refer=top)<br />
-6. [没学上了](https://s.weibo.com/weibo?q=%E6%B2%A1%E5%AD%A6%E4%B8%8A%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [向佐姚安娜 CP](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%E5%A7%9A%E5%AE%89%E5%A8%9C%20CP&t=31&band_rank=7&Refer=top)<br />
-8. [官方通报点读机女孩视频事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E8%A7%86%E9%A2%91%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
+6. [向佐姚安娜 CP](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%E5%A7%9A%E5%AE%89%E5%A8%9C%20CP&t=31&band_rank=6&Refer=top)<br />
+7. [没学上了](https://s.weibo.com/weibo?q=%E6%B2%A1%E5%AD%A6%E4%B8%8A%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
+8. [宁静回应与纪凌尘搭戏](https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%BA%AA%E5%87%8C%E5%B0%98%E6%90%AD%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
 9. [杭州法喜寺500岁玉兰如期绽放](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%B3%95%E5%96%9C%E5%AF%BA500%E5%B2%81%E7%8E%89%E5%85%B0%E5%A6%82%E6%9C%9F%E7%BB%BD%E6%94%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
