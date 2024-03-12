@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 10:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 10:18:01</h4></div>
 
 > 微博  
 
-1. [X病毒](https://s.weibo.com/weibo?q=X%E7%97%85%E6%AF%92&t=31&band_rank=1&Refer=top)<br />
-2. [福岛从日本鬼城变成了世界伤口](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B2%9B%E4%BB%8E%E6%97%A5%E6%9C%AC%E9%AC%BC%E5%9F%8E%E5%8F%98%E6%88%90%E4%BA%86%E4%B8%96%E7%95%8C%E4%BC%A4%E5%8F%A3%23&t=31&band_rank=2&Refer=top)<br />
+1. [福岛从日本鬼城变成了世界伤口](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B2%9B%E4%BB%8E%E6%97%A5%E6%9C%AC%E9%AC%BC%E5%9F%8E%E5%8F%98%E6%88%90%E4%BA%86%E4%B8%96%E7%95%8C%E4%BC%A4%E5%8F%A3%23&t=31&band_rank=1&Refer=top)<br />
+2. [X病毒](https://s.weibo.com/weibo?q=X%E7%97%85%E6%AF%92&t=31&band_rank=2&Refer=top)<br />
 3. [共话新质生产力](https://s.weibo.com/weibo?q=%23%E5%85%B1%E8%AF%9D%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [小米SU7价格](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3SU7%E4%BB%B7%E6%A0%BC&t=31&band_rank=4&Refer=top)<br />
 5. [大四是一场巨大的戒断](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%88%92%E6%96%AD%23&t=31&band_rank=5&Refer=top)<br />
