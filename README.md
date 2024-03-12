@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 01:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 01:45:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [网红小徐考研成绩超国家线66分](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%BE%90%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E8%B6%85%E5%9B%BD%E5%AE%B6%E7%BA%BF66%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [带你看中国的绿色奇迹](https://www.baidu.com/s?wd=%E5%B8%A6%E4%BD%A0%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%BF%E8%89%B2%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [点读机女孩事件最高可处3年有期徒刑](https://www.baidu.com/s?wd=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [警方回应2人爬上朝天门长江大桥拍照](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%942%E4%BA%BA%E7%88%AC%E4%B8%8A%E6%9C%9D%E5%A4%A9%E9%97%A8%E9%95%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子用筋膜枪按摩眼眶致白内障](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E7%AD%8B%E8%86%9C%E6%9E%AA%E6%8C%89%E6%91%A9%E7%9C%BC%E7%9C%B6%E8%87%B4%E7%99%BD%E5%86%85%E9%9A%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [福建龙岩一工地挖出“冬眠”蟒蛇](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E9%BE%99%E5%B2%A9%E4%B8%80%E5%B7%A5%E5%9C%B0%E6%8C%96%E5%87%BA%E2%80%9C%E5%86%AC%E7%9C%A0%E2%80%9D%E8%9F%92%E8%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [张核子否认进军预制菜](https://www.baidu.com/s?wd=%E5%BC%A0%E6%A0%B8%E5%AD%90%E5%90%A6%E8%AE%A4%E8%BF%9B%E5%86%9B%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生备考压力大爷爷送小狗陪伴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%A4%87%E8%80%83%E5%8E%8B%E5%8A%9B%E5%A4%A7%E7%88%B7%E7%88%B7%E9%80%81%E5%B0%8F%E7%8B%97%E9%99%AA%E4%BC%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张艺谋悼念北电恩师张益福](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%82%BC%E5%BF%B5%E5%8C%97%E7%94%B5%E6%81%A9%E5%B8%88%E5%BC%A0%E7%9B%8A%E7%A6%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [网红小徐考研成绩超国家线66分](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%BE%90%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E8%B6%85%E5%9B%BD%E5%AE%B6%E7%BA%BF66%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [带你看中国的绿色奇迹](https://www.baidu.com/s?wd=%E5%B8%A6%E4%BD%A0%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%BF%E8%89%B2%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [点读机女孩事件最高可处3年有期徒刑](https://www.baidu.com/s?wd=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [警方回应2人爬上朝天门长江大桥拍照](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%942%E4%BA%BA%E7%88%AC%E4%B8%8A%E6%9C%9D%E5%A4%A9%E9%97%A8%E9%95%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子用筋膜枪按摩眼眶致白内障](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8%E7%AD%8B%E8%86%9C%E6%9E%AA%E6%8C%89%E6%91%A9%E7%9C%BC%E7%9C%B6%E8%87%B4%E7%99%BD%E5%86%85%E9%9A%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [福建龙岩一工地挖出“冬眠”蟒蛇](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E9%BE%99%E5%B2%A9%E4%B8%80%E5%B7%A5%E5%9C%B0%E6%8C%96%E5%87%BA%E2%80%9C%E5%86%AC%E7%9C%A0%E2%80%9D%E8%9F%92%E8%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [张核子否认进军预制菜](https://www.baidu.com/s?wd=%E5%BC%A0%E6%A0%B8%E5%AD%90%E5%90%A6%E8%AE%A4%E8%BF%9B%E5%86%9B%E9%A2%84%E5%88%B6%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女生备考压力大爷爷送小狗陪伴](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%A4%87%E8%80%83%E5%8E%8B%E5%8A%9B%E5%A4%A7%E7%88%B7%E7%88%B7%E9%80%81%E5%B0%8F%E7%8B%97%E9%99%AA%E4%BC%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张艺谋悼念北电恩师张益福](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%82%BC%E5%BF%B5%E5%8C%97%E7%94%B5%E6%81%A9%E5%B8%88%E5%BC%A0%E7%9B%8A%E7%A6%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
