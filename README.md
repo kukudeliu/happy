@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 11:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 11:51:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [9个关键词了解两会民生热点](https://s.weibo.com/weibo?q=%239%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E4%BA%86%E8%A7%A3%E4%B8%A4%E4%BC%9A%E6%B0%91%E7%94%9F%E7%83%AD%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [金价狂飙涨疯普通人还能再买吗](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E6%B6%A8%E7%96%AF%E6%99%AE%E9%80%9A%E4%BA%BA%E8%BF%98%E8%83%BD%E5%86%8D%E4%B9%B0%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [欢乐颂5定档](https://s.weibo.com/weibo?q=%E6%AC%A2%E4%B9%90%E9%A2%825%E5%AE%9A%E6%A1%A3&t=31&band_rank=5&Refer=top)<br />
-6. [首尔大学医学院教授或将集体辞职](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%95%99%E6%8E%88%E6%88%96%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
-7. [6部影片定档五一档](https://s.weibo.com/weibo?q=%236%E9%83%A8%E5%BD%B1%E7%89%87%E5%AE%9A%E6%A1%A3%E4%BA%94%E4%B8%80%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
+6. [6部影片定档五一档](https://s.weibo.com/weibo?q=%236%E9%83%A8%E5%BD%B1%E7%89%87%E5%AE%9A%E6%A1%A3%E4%BA%94%E4%B8%80%E6%A1%A3%23&t=31&band_rank=6&Refer=top)<br />
+7. [首尔大学医学院教授或将集体辞职](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%95%99%E6%8E%88%E6%88%96%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [向往的生活小羊小不点去世](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%8F%E7%BE%8A%E5%B0%8F%E4%B8%8D%E7%82%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
 9. [于适CK预热](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82CK%E9%A2%84%E7%83%AD%23&t=31&band_rank=9&Refer=top)<br />
 
