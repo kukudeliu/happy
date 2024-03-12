@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 13:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 13:18:01</h4></div>
 
 > 微博  
 
 1. [一个节目心疼三个女人](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E8%8A%82%E7%9B%AE%E5%BF%83%E7%96%BC%E4%B8%89%E4%B8%AA%E5%A5%B3%E4%BA%BA&t=31&band_rank=1&Refer=top)<br />
-2. [蔚来CEO要求员工不得参与理想MEGA舆论](https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A5CEO%E8%A6%81%E6%B1%82%E5%91%98%E5%B7%A5%E4%B8%8D%E5%BE%97%E5%8F%82%E4%B8%8E%E7%90%86%E6%83%B3MEGA%E8%88%86%E8%AE%BA%23&t=31&band_rank=2&Refer=top)<br />
+2. [女员工入职3个月怀孕遭开除](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%91%98%E5%B7%A5%E5%85%A5%E8%81%8C3%E4%B8%AA%E6%9C%88%E6%80%80%E5%AD%95%E9%81%AD%E5%BC%80%E9%99%A4%23&t=31&band_rank=2&Refer=top)<br />
 3. [9个关键词了解两会民生热点](https://s.weibo.com/weibo?q=%239%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E4%BA%86%E8%A7%A3%E4%B8%A4%E4%BC%9A%E6%B0%91%E7%94%9F%E7%83%AD%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [福建沙虫](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%BB%BA%E6%B2%99%E8%99%AB&t=31&band_rank=4&Refer=top)<br />
 5. [金价狂飙涨疯普通人还能再买吗](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E6%B6%A8%E7%96%AF%E6%99%AE%E9%80%9A%E4%BA%BA%E8%BF%98%E8%83%BD%E5%86%8D%E4%B9%B0%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [女员工入职3个月怀孕遭开除](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%91%98%E5%B7%A5%E5%85%A5%E8%81%8C3%E4%B8%AA%E6%9C%88%E6%80%80%E5%AD%95%E9%81%AD%E5%BC%80%E9%99%A4%23&t=31&band_rank=6&Refer=top)<br />
+6. [蔚来CEO要求员工不得参与理想MEGA舆论](https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A5CEO%E8%A6%81%E6%B1%82%E5%91%98%E5%B7%A5%E4%B8%8D%E5%BE%97%E5%8F%82%E4%B8%8E%E7%90%86%E6%83%B3MEGA%E8%88%86%E8%AE%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [王鹤棣终于演警察了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%BB%88%E4%BA%8E%E6%BC%94%E8%AD%A6%E5%AF%9F%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [丈夫藏10万练功券被妻子拿去存钱](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E8%97%8F10%E4%B8%87%E7%BB%83%E5%8A%9F%E5%88%B8%E8%A2%AB%E5%A6%BB%E5%AD%90%E6%8B%BF%E5%8E%BB%E5%AD%98%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
-9. [酱园弄阵容](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%E9%98%B5%E5%AE%B9&t=31&band_rank=9&Refer=top)<br />
+9. [汤唯超短发](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%94%AF%E8%B6%85%E7%9F%AD%E5%8F%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
