@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 10:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 11:03:02</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [9个关键词了解两会民生热点](https://s.weibo.com/weibo?q=%239%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E4%BA%86%E8%A7%A3%E4%B8%A4%E4%BC%9A%E6%B0%91%E7%94%9F%E7%83%AD%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [欢乐颂5定档](https://s.weibo.com/weibo?q=%E6%AC%A2%E4%B9%90%E9%A2%825%E5%AE%9A%E6%A1%A3&t=31&band_rank=4&Refer=top)<br />
 5. [X疾病会暴发吗](https://s.weibo.com/weibo?q=%23X%E7%96%BE%E7%97%85%E4%BC%9A%E6%9A%B4%E5%8F%91%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [大四是一场巨大的戒断](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%88%92%E6%96%AD%23&t=31&band_rank=6&Refer=top)<br />
-7. [首尔大学医学院教授或将集体辞职](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%95%99%E6%8E%88%E6%88%96%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [小米SU7价格](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3SU7%E4%BB%B7%E6%A0%BC&t=31&band_rank=8&Refer=top)<br />
-9. [向往的生活小羊小不点去世](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%8F%E7%BE%8A%E5%B0%8F%E4%B8%8D%E7%82%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
+6. [首尔大学医学院教授或将集体辞职](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%95%99%E6%8E%88%E6%88%96%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
+7. [大四是一场巨大的戒断](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%88%92%E6%96%AD%23&t=31&band_rank=7&Refer=top)<br />
+8. [向往的生活小羊小不点去世](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%8F%E7%BE%8A%E5%B0%8F%E4%B8%8D%E7%82%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
+9. [广州漫展](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E6%BC%AB%E5%B1%95&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
