@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 20:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 20:39:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [“高频指标”释放经济运行积极信号](https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%A2%91%E6%8C%87%E6%A0%87%E2%80%9D%E9%87%8A%E6%94%BE%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E7%A7%AF%E6%9E%81%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子2万买金镯发现内藏2根金丝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [福建龙岩一工地挖出“冬眠”蟒蛇](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E9%BE%99%E5%B2%A9%E4%B8%80%E5%B7%A5%E5%9C%B0%E6%8C%96%E5%87%BA%E2%80%9C%E5%86%AC%E7%9C%A0%E2%80%9D%E8%9F%92%E8%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [船老大为救16人斩断价值36万元蟹笼](https://www.baidu.com/s?wd=%E8%88%B9%E8%80%81%E5%A4%A7%E4%B8%BA%E6%95%9116%E4%BA%BA%E6%96%A9%E6%96%AD%E4%BB%B7%E5%80%BC36%E4%B8%87%E5%85%83%E8%9F%B9%E7%AC%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [起底微短剧“日进斗金”财富密码](https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%95%E5%BE%AE%E7%9F%AD%E5%89%A7%E2%80%9C%E6%97%A5%E8%BF%9B%E6%96%97%E9%87%91%E2%80%9D%E8%B4%A2%E5%AF%8C%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [暖春好物节选购指南](https://www.baidu.com/s?wd=%E6%9A%96%E6%98%A5%E5%A5%BD%E7%89%A9%E8%8A%82%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [“高频指标”释放经济运行积极信号](https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%A2%91%E6%8C%87%E6%A0%87%E2%80%9D%E9%87%8A%E6%94%BE%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E7%A7%AF%E6%9E%81%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子2万买金镯发现内藏2根金丝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [福建龙岩一工地挖出“冬眠”蟒蛇](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E9%BE%99%E5%B2%A9%E4%B8%80%E5%B7%A5%E5%9C%B0%E6%8C%96%E5%87%BA%E2%80%9C%E5%86%AC%E7%9C%A0%E2%80%9D%E8%9F%92%E8%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [船老大为救16人斩断价值36万元蟹笼](https://www.baidu.com/s?wd=%E8%88%B9%E8%80%81%E5%A4%A7%E4%B8%BA%E6%95%9116%E4%BA%BA%E6%96%A9%E6%96%AD%E4%BB%B7%E5%80%BC36%E4%B8%87%E5%85%83%E8%9F%B9%E7%AC%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [起底微短剧“日进斗金”财富密码](https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%95%E5%BE%AE%E7%9F%AD%E5%89%A7%E2%80%9C%E6%97%A5%E8%BF%9B%E6%96%97%E9%87%91%E2%80%9D%E8%B4%A2%E5%AF%8C%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [暖春好物节选购指南](https://www.baidu.com/s?wd=%E6%9A%96%E6%98%A5%E5%A5%BD%E7%89%A9%E8%8A%82%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
