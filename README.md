@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 16:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 16:10:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [网友辣评汤唯短发：邓超蒋雯丽你好](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%BE%A3%E8%AF%84%E6%B1%A4%E5%94%AF%E7%9F%AD%E5%8F%91%EF%BC%9A%E9%82%93%E8%B6%85%E8%92%8B%E9%9B%AF%E4%B8%BD%E4%BD%A0%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [沈阳通报11人身体不适被送医](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E9%80%9A%E6%8A%A511%E4%BA%BA%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E8%A2%AB%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [春日AI充电](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5AI%E5%85%85%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广西一医院辟谣接种流脑疫苗](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%8E%A5%E7%A7%8D%E6%B5%81%E8%84%91%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [网友辣评汤唯短发：邓超蒋雯丽你好](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%BE%A3%E8%AF%84%E6%B1%A4%E5%94%AF%E7%9F%AD%E5%8F%91%EF%BC%9A%E9%82%93%E8%B6%85%E8%92%8B%E9%9B%AF%E4%B8%BD%E4%BD%A0%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [沈阳通报11人身体不适被送医](https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E9%80%9A%E6%8A%A511%E4%BA%BA%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E8%A2%AB%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [春日AI充电](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5AI%E5%85%85%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [广西一医院辟谣接种流脑疫苗](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%8E%A5%E7%A7%8D%E6%B5%81%E8%84%91%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
