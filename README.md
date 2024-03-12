@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 09:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 09:36:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [香港双婴尸案今日提堂](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%8F%8C%E5%A9%B4%E5%B0%B8%E6%A1%88%E4%BB%8A%E6%97%A5%E6%8F%90%E5%A0%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩网评奥斯卡歧视亚裔](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%AD%A7%E8%A7%86%E4%BA%9A%E8%A3%94%23&t=31&band_rank=7&Refer=top)<br />
 8. [湿气重毁身材肚子大](https://s.weibo.com/weibo?q=%E6%B9%BF%E6%B0%94%E9%87%8D%E6%AF%81%E8%BA%AB%E6%9D%90%E8%82%9A%E5%AD%90%E5%A4%A7&t=31&band_rank=8&Refer=top)<br />
-9. [沈腾马丽回应回归话剧舞台](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E5%9B%9E%E5%BA%94%E5%9B%9E%E5%BD%92%E8%AF%9D%E5%89%A7%E8%88%9E%E5%8F%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [媒体评点读机女孩事件](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
