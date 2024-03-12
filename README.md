@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 12:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 12:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [欢乐颂5定档](https://s.weibo.com/weibo?q=%E6%AC%A2%E4%B9%90%E9%A2%825%E5%AE%9A%E6%A1%A3&t=31&band_rank=6&Refer=top)<br />
 7. [3200元直播间买金渐层刚到家就死亡](https://s.weibo.com/weibo?q=%233200%E5%85%83%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B9%B0%E9%87%91%E6%B8%90%E5%B1%82%E5%88%9A%E5%88%B0%E5%AE%B6%E5%B0%B1%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [范丞丞张婧仪 樱桃琥珀](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%BC%A0%E5%A9%A7%E4%BB%AA%20%E6%A8%B1%E6%A1%83%E7%90%A5%E7%8F%80&t=31&band_rank=8&Refer=top)<br />
-9. [广州越秀区车祸致11人受伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%B6%8A%E7%A7%80%E5%8C%BA%E8%BD%A6%E7%A5%B8%E8%87%B411%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [首尔大学医学院教授或将集体辞职](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%95%99%E6%8E%88%E6%88%96%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
