@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 05:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 05:58:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [素媛案强奸犯擅自外出](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E5%BC%BA%E5%A5%B8%E7%8A%AF%E6%93%85%E8%87%AA%E5%A4%96%E5%87%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [因为自卑对男朋友隐瞒了家庭条件](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E8%87%AA%E5%8D%91%E5%AF%B9%E7%94%B7%E6%9C%8B%E5%8F%8B%E9%9A%90%E7%9E%92%E4%BA%86%E5%AE%B6%E5%BA%AD%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [点读机女孩事件最高可处3年有期徒刑](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [天涯明月刀](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B6%AF%E6%98%8E%E6%9C%88%E5%88%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈乔恩13天没吃碳水](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A913%E5%A4%A9%E6%B2%A1%E5%90%83%E7%A2%B3%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
+7. [陈乔恩13天没吃碳水](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A913%E5%A4%A9%E6%B2%A1%E5%90%83%E7%A2%B3%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [天涯明月刀](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B6%AF%E6%98%8E%E6%9C%88%E5%88%80%23&t=31&band_rank=8&Refer=top)<br />
 9. [朱梓骁悬着的心终于死了](https://s.weibo.com/weibo?q=%E6%9C%B1%E6%A2%93%E9%AA%81%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
