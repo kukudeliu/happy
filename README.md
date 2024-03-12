@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 12:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 12:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [福建沙虫](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%BB%BA%E6%B2%99%E8%99%AB&t=31&band_rank=6&Refer=top)<br />
 7. [丈夫藏10万练功券被妻子拿去存钱](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E8%97%8F10%E4%B8%87%E7%BB%83%E5%8A%9F%E5%88%B8%E8%A2%AB%E5%A6%BB%E5%AD%90%E6%8B%BF%E5%8E%BB%E5%AD%98%E9%92%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [酱园弄阵容](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%E9%98%B5%E5%AE%B9&t=31&band_rank=8&Refer=top)<br />
-9. [3200元直播间买金渐层刚到家就死亡](https://s.weibo.com/weibo?q=%233200%E5%85%83%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B9%B0%E9%87%91%E6%B8%90%E5%B1%82%E5%88%9A%E5%88%B0%E5%AE%B6%E5%B0%B1%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [王一博连说了八个不要](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%9E%E8%AF%B4%E4%BA%86%E5%85%AB%E4%B8%AA%E4%B8%8D%E8%A6%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
