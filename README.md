@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 19:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 19:35:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [“高频指标”释放经济运行积极信号](https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%A2%91%E6%8C%87%E6%A0%87%E2%80%9D%E9%87%8A%E6%94%BE%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E7%A7%AF%E6%9E%81%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子2万买金镯发现内藏2根金丝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [福建龙岩一工地挖出“冬眠”蟒蛇](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E9%BE%99%E5%B2%A9%E4%B8%80%E5%B7%A5%E5%9C%B0%E6%8C%96%E5%87%BA%E2%80%9C%E5%86%AC%E7%9C%A0%E2%80%9D%E8%9F%92%E8%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友辣评汤唯短发：邓超蒋雯丽你好](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%BE%A3%E8%AF%84%E6%B1%A4%E5%94%AF%E7%9F%AD%E5%8F%91%EF%BC%9A%E9%82%93%E8%B6%85%E8%92%8B%E9%9B%AF%E4%B8%BD%E4%BD%A0%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [暗访波音工厂：许多员工吸毒成瘾](https://www.baidu.com/s?wd=%E6%9A%97%E8%AE%BF%E6%B3%A2%E9%9F%B3%E5%B7%A5%E5%8E%82%EF%BC%9A%E8%AE%B8%E5%A4%9A%E5%91%98%E5%B7%A5%E5%90%B8%E6%AF%92%E6%88%90%E7%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [春日AI充电](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5AI%E5%85%85%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [“高频指标”释放经济运行积极信号](https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%A2%91%E6%8C%87%E6%A0%87%E2%80%9D%E9%87%8A%E6%94%BE%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E7%A7%AF%E6%9E%81%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子2万买金镯发现内藏2根金丝](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [福建龙岩一工地挖出“冬眠”蟒蛇](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E9%BE%99%E5%B2%A9%E4%B8%80%E5%B7%A5%E5%9C%B0%E6%8C%96%E5%87%BA%E2%80%9C%E5%86%AC%E7%9C%A0%E2%80%9D%E8%9F%92%E8%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [网友辣评汤唯短发：邓超蒋雯丽你好](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E8%BE%A3%E8%AF%84%E6%B1%A4%E5%94%AF%E7%9F%AD%E5%8F%91%EF%BC%9A%E9%82%93%E8%B6%85%E8%92%8B%E9%9B%AF%E4%B8%BD%E4%BD%A0%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [暗访波音工厂：许多员工吸毒成瘾](https://www.baidu.com/s?wd=%E6%9A%97%E8%AE%BF%E6%B3%A2%E9%9F%B3%E5%B7%A5%E5%8E%82%EF%BC%9A%E8%AE%B8%E5%A4%9A%E5%91%98%E5%B7%A5%E5%90%B8%E6%AF%92%E6%88%90%E7%98%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [春日AI充电](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5AI%E5%85%85%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
