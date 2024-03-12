@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 21:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 21:10:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [男子2万买金镯发现内藏2根金丝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D%23&t=31&band_rank=5&Refer=top)<br />
 6. [点读机女孩事件最高可处3年有期徒刑](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [许嵩巡演官宣](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E5%B7%A1%E6%BC%94%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [孙俪生图](https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E7%94%9F%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [HPV感染相当于宫颈得了一次感冒](https://s.weibo.com/weibo?q=%23HPV%E6%84%9F%E6%9F%93%E7%9B%B8%E5%BD%93%E4%BA%8E%E5%AE%AB%E9%A2%88%E5%BE%97%E4%BA%86%E4%B8%80%E6%AC%A1%E6%84%9F%E5%86%92%23&t=31&band_rank=9&Refer=top)<br />
+8. [HPV感染相当于宫颈得了一次感冒](https://s.weibo.com/weibo?q=%23HPV%E6%84%9F%E6%9F%93%E7%9B%B8%E5%BD%93%E4%BA%8E%E5%AE%AB%E9%A2%88%E5%BE%97%E4%BA%86%E4%B8%80%E6%AC%A1%E6%84%9F%E5%86%92%23&t=31&band_rank=8&Refer=top)<br />
+9. [孙俪生图](https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E7%94%9F%E5%9B%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
