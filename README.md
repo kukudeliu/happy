@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 07:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 07:55:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [汽车隧道内突然开车门 疑恶意别车](https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%9A%A7%E9%81%93%E5%86%85%E7%AA%81%E7%84%B6%E5%BC%80%E8%BD%A6%E9%97%A8+%E7%96%91%E6%81%B6%E6%84%8F%E5%88%AB%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [带你看中国的绿色奇迹](https://www.baidu.com/s?wd=%E5%B8%A6%E4%BD%A0%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%BF%E8%89%B2%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [微信朋友圈的这条横线为何有长有短](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E8%BF%99%E6%9D%A1%E6%A8%AA%E7%BA%BF%E4%B8%BA%E4%BD%95%E6%9C%89%E9%95%BF%E6%9C%89%E7%9F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [点读机女孩事件最高可处3年有期徒刑](https://www.baidu.com/s?wd=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [5岁男童阳台坠亡 奶奶姥姥在打麻将](https://www.baidu.com/s?wd=5%E5%B2%81%E7%94%B7%E7%AB%A5%E9%98%B3%E5%8F%B0%E5%9D%A0%E4%BA%A1+%E5%A5%B6%E5%A5%B6%E5%A7%A5%E5%A7%A5%E5%9C%A8%E6%89%93%E9%BA%BB%E5%B0%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多个武装组织声称“侵入俄西部”](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E6%AD%A6%E8%A3%85%E7%BB%84%E7%BB%87%E5%A3%B0%E7%A7%B0%E2%80%9C%E4%BE%B5%E5%85%A5%E4%BF%84%E8%A5%BF%E9%83%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红小徐考研成绩超国家线66分](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%BE%90%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E8%B6%85%E5%9B%BD%E5%AE%B6%E7%BA%BF66%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [点读机女孩事件最高可处3年有期徒刑](https://www.baidu.com/s?wd=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [汽车隧道内突然开车门 疑恶意别车](https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%9A%A7%E9%81%93%E5%86%85%E7%AA%81%E7%84%B6%E5%BC%80%E8%BD%A6%E9%97%A8+%E7%96%91%E6%81%B6%E6%84%8F%E5%88%AB%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [带你看中国的绿色奇迹](https://www.baidu.com/s?wd=%E5%B8%A6%E4%BD%A0%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%BF%E8%89%B2%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [微信朋友圈的这条横线为何有长有短](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E8%BF%99%E6%9D%A1%E6%A8%AA%E7%BA%BF%E4%B8%BA%E4%BD%95%E6%9C%89%E9%95%BF%E6%9C%89%E7%9F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [点读机女孩事件最高可处3年有期徒刑](https://www.baidu.com/s?wd=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [5岁男童阳台坠亡 奶奶姥姥在打麻将](https://www.baidu.com/s?wd=5%E5%B2%81%E7%94%B7%E7%AB%A5%E9%98%B3%E5%8F%B0%E5%9D%A0%E4%BA%A1+%E5%A5%B6%E5%A5%B6%E5%A7%A5%E5%A7%A5%E5%9C%A8%E6%89%93%E9%BA%BB%E5%B0%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多个武装组织声称“侵入俄西部”](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E6%AD%A6%E8%A3%85%E7%BB%84%E7%BB%87%E5%A3%B0%E7%A7%B0%E2%80%9C%E4%BE%B5%E5%85%A5%E4%BF%84%E8%A5%BF%E9%83%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红小徐考研成绩超国家线66分](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%BE%90%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E8%B6%85%E5%9B%BD%E5%AE%B6%E7%BA%BF66%E5%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [点读机女孩事件最高可处3年有期徒刑](https://www.baidu.com/s?wd=%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [公园把树挖了搞植树节？不实](https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E6%8A%8A%E6%A0%91%E6%8C%96%E4%BA%86%E6%90%9E%E6%A4%8D%E6%A0%91%E8%8A%82%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
