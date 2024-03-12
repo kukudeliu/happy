@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 07:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 07:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [陈乔恩13天没吃碳水](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A913%E5%A4%A9%E6%B2%A1%E5%90%83%E7%A2%B3%E6%B0%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [粉丝称被网红家人骗走百万](https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E7%A7%B0%E8%A2%AB%E7%BD%91%E7%BA%A2%E5%AE%B6%E4%BA%BA%E9%AA%97%E8%B5%B0%E7%99%BE%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [点读机女孩事件最高可处3年有期徒刑](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [男子2万买金镯发现内藏2根金丝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%902%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E5%8F%91%E7%8E%B0%E5%86%85%E8%97%8F2%E6%A0%B9%E9%87%91%E4%B8%9D%23&t=31&band_rank=9&Refer=top)<br />
+9. [考研失败办考研辅导班赚钱翻身](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%A4%B1%E8%B4%A5%E5%8A%9E%E8%80%83%E7%A0%94%E8%BE%85%E5%AF%BC%E7%8F%AD%E8%B5%9A%E9%92%B1%E7%BF%BB%E8%BA%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
