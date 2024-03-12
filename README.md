@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 01:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 01:51:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [因为自卑对男朋友隐瞒了家庭条件](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E8%87%AA%E5%8D%91%E5%AF%B9%E7%94%B7%E6%9C%8B%E5%8F%8B%E9%9A%90%E7%9E%92%E4%BA%86%E5%AE%B6%E5%BA%AD%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024年民生工作三大重点](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%B0%91%E7%94%9F%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%A4%A7%E9%87%8D%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [肖战工作室还让不让人睡](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BF%98%E8%AE%A9%E4%B8%8D%E8%AE%A9%E4%BA%BA%E7%9D%A1%23&t=31&band_rank=4&Refer=top)<br />
-5. [素媛案强奸犯擅自外出](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E5%BC%BA%E5%A5%B8%E7%8A%AF%E6%93%85%E8%87%AA%E5%A4%96%E5%87%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [满舒克前女友再发博](https://s.weibo.com/weibo?q=%23%E6%BB%A1%E8%88%92%E5%85%8B%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%86%8D%E5%8F%91%E5%8D%9A%23&t=31&band_rank=6&Refer=top)<br />
+5. [满舒克前女友再发博](https://s.weibo.com/weibo?q=%23%E6%BB%A1%E8%88%92%E5%85%8B%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%86%8D%E5%8F%91%E5%8D%9A%23&t=31&band_rank=5&Refer=top)<br />
+6. [素媛案强奸犯擅自外出](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E5%BC%BA%E5%A5%B8%E7%8A%AF%E6%93%85%E8%87%AA%E5%A4%96%E5%87%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈乔恩13天没吃碳水](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A913%E5%A4%A9%E6%B2%A1%E5%90%83%E7%A2%B3%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [朱梓骁悬着的心终于死了](https://s.weibo.com/weibo?q=%E6%9C%B1%E6%A2%93%E9%AA%81%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=9&Refer=top)<br />
+9. [点读机女孩事件最高可处3年有期徒刑](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%E6%9C%80%E9%AB%98%E5%8F%AF%E5%A4%843%E5%B9%B4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
