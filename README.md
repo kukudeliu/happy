@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 14:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 14:15:01</h4></div>
 
 > 微博  
 
 1. [汤唯超短发](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%94%AF%E8%B6%85%E7%9F%AD%E5%8F%91%23&t=31&band_rank=1&Refer=top)<br />
 2. [超80%女性一生至少有过一次HPV感染](https://s.weibo.com/weibo?q=%23%E8%B6%8580%25%E5%A5%B3%E6%80%A7%E4%B8%80%E7%94%9F%E8%87%B3%E5%B0%91%E6%9C%89%E8%BF%87%E4%B8%80%E6%AC%A1HPV%E6%84%9F%E6%9F%93%23&t=31&band_rank=2&Refer=top)<br />
 3. [9个关键词了解两会民生热点](https://s.weibo.com/weibo?q=%239%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E4%BA%86%E8%A7%A3%E4%B8%A4%E4%BC%9A%E6%B0%91%E7%94%9F%E7%83%AD%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
-4. [一个节目心疼三个女人](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E8%8A%82%E7%9B%AE%E5%BF%83%E7%96%BC%E4%B8%89%E4%B8%AA%E5%A5%B3%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
-5. [樊振东vs林诗栋](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%9E%97%E8%AF%97%E6%A0%8B%23&t=31&band_rank=5&Refer=top)<br />
-6. [十个勤天种树直播](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E7%A7%8D%E6%A0%91%E7%9B%B4%E6%92%AD&t=31&band_rank=6&Refer=top)<br />
+4. [樊振东vs林诗栋](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%9E%97%E8%AF%97%E6%A0%8B%23&t=31&band_rank=4&Refer=top)<br />
+5. [十个勤天种树直播](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E7%A7%8D%E6%A0%91%E7%9B%B4%E6%92%AD&t=31&band_rank=5&Refer=top)<br />
+6. [一个节目心疼三个女人](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E8%8A%82%E7%9B%AE%E5%BF%83%E7%96%BC%E4%B8%89%E4%B8%AA%E5%A5%B3%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂赵丽颖参演酱园弄](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%82%E6%BC%94%E9%85%B1%E5%9B%AD%E5%BC%84%23&t=31&band_rank=7&Refer=top)<br />
 8. [福建沙虫](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%BB%BA%E6%B2%99%E8%99%AB&t=31&band_rank=8&Refer=top)<br />
-9. [农村断缴城乡居民医保背后](https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E6%96%AD%E7%BC%B4%E5%9F%8E%E4%B9%A1%E5%B1%85%E6%B0%91%E5%8C%BB%E4%BF%9D%E8%83%8C%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [雷军称对价格战做好了充分准备](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%AF%B9%E4%BB%B7%E6%A0%BC%E6%88%98%E5%81%9A%E5%A5%BD%E4%BA%86%E5%85%85%E5%88%86%E5%87%86%E5%A4%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [免费领养猫的真相或是贷款买猫](https://www.baidu.com/s?wd=%E5%85%8D%E8%B4%B9%E9%A2%86%E5%85%BB%E7%8C%AB%E7%9A%84%E7%9C%9F%E7%9B%B8%E6%88%96%E6%98%AF%E8%B4%B7%E6%AC%BE%E4%B9%B0%E7%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [丈夫藏10万练功券被妻子拿去存钱](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E8%97%8F10%E4%B8%87%E7%BB%83%E5%8A%9F%E5%88%B8%E8%A2%AB%E5%A6%BB%E5%AD%90%E6%8B%BF%E5%8E%BB%E5%AD%98%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [向往的生活小羊小不点去世](https://www.baidu.com/s?wd=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%8F%E7%BE%8A%E5%B0%8F%E4%B8%8D%E7%82%B9%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [攒钱成瘾的90后开始租房降级](https://www.baidu.com/s?wd=%E6%94%92%E9%92%B1%E6%88%90%E7%98%BE%E7%9A%8490%E5%90%8E%E5%BC%80%E5%A7%8B%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度股市将试行T加0结算制度](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%82%A1%E5%B8%82%E5%B0%86%E8%AF%95%E8%A1%8CT%E5%8A%A00%E7%BB%93%E7%AE%97%E5%88%B6%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西一医院辟谣接种流脑疫苗](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%8E%A5%E7%A7%8D%E6%B5%81%E8%84%91%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [免费领养猫的真相或是贷款买猫](https://www.baidu.com/s?wd=%E5%85%8D%E8%B4%B9%E9%A2%86%E5%85%BB%E7%8C%AB%E7%9A%84%E7%9C%9F%E7%9B%B8%E6%88%96%E6%98%AF%E8%B4%B7%E6%AC%BE%E4%B9%B0%E7%8C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [丈夫藏10万练功券被妻子拿去存钱](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E8%97%8F10%E4%B8%87%E7%BB%83%E5%8A%9F%E5%88%B8%E8%A2%AB%E5%A6%BB%E5%AD%90%E6%8B%BF%E5%8E%BB%E5%AD%98%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [向往的生活小羊小不点去世](https://www.baidu.com/s?wd=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%8F%E7%BE%8A%E5%B0%8F%E4%B8%8D%E7%82%B9%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [攒钱成瘾的90后开始租房降级](https://www.baidu.com/s?wd=%E6%94%92%E9%92%B1%E6%88%90%E7%98%BE%E7%9A%8490%E5%90%8E%E5%BC%80%E5%A7%8B%E7%A7%9F%E6%88%BF%E9%99%8D%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [印度股市将试行T加0结算制度](https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%82%A1%E5%B8%82%E5%B0%86%E8%AF%95%E8%A1%8CT%E5%8A%A00%E7%BB%93%E7%AE%97%E5%88%B6%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西一医院辟谣接种流脑疫苗](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%8E%A5%E7%A7%8D%E6%B5%81%E8%84%91%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
