@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 17:55:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 17:56:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [唐艺昕纹身](https://s.weibo.com/weibo?q=%E5%94%90%E8%89%BA%E6%98%95%E7%BA%B9%E8%BA%AB&t=31&band_rank=5&Refer=top)<br />
 6. [没学上了](https://s.weibo.com/weibo?q=%E6%B2%A1%E5%AD%A6%E4%B8%8A%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [官方通报点读机女孩视频事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E8%A7%86%E9%A2%91%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [宁静回应与纪凌尘搭戏](https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%BA%AA%E5%87%8C%E5%B0%98%E6%90%AD%E6%88%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [2024考研国家线出了](https://s.weibo.com/weibo?q=%232024%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF%E5%87%BA%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [向佐姚安娜 CP](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%E5%A7%9A%E5%AE%89%E5%A8%9C%20CP&t=31&band_rank=8&Refer=top)<br />
+9. [宁静回应与纪凌尘搭戏](https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%BA%AA%E5%87%8C%E5%B0%98%E6%90%AD%E6%88%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
