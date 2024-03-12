@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 11:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 11:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [首尔大学医学院教授或将集体辞职](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%95%99%E6%8E%88%E6%88%96%E5%B0%86%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [X疾病会暴发吗](https://s.weibo.com/weibo?q=%23X%E7%96%BE%E7%97%85%E4%BC%9A%E6%9A%B4%E5%8F%91%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [向往的生活小羊小不点去世](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%8F%E7%BE%8A%E5%B0%8F%E4%B8%8D%E7%82%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [大四是一场巨大的戒断](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%88%92%E6%96%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [误以为是日本动漫男子怒砸签名墙](https://s.weibo.com/weibo?q=%23%E8%AF%AF%E4%BB%A5%E4%B8%BA%E6%98%AF%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E7%94%B7%E5%AD%90%E6%80%92%E7%A0%B8%E7%AD%BE%E5%90%8D%E5%A2%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
