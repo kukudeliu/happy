@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 08:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 08:33:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [曾98万拍下摊位的大叔卖馍半月回本](https://s.weibo.com/weibo?q=%23%E6%9B%BE98%E4%B8%87%E6%8B%8D%E4%B8%8B%E6%91%8A%E4%BD%8D%E7%9A%84%E5%A4%A7%E5%8F%94%E5%8D%96%E9%A6%8D%E5%8D%8A%E6%9C%88%E5%9B%9E%E6%9C%AC%23&t=31&band_rank=6&Refer=top)<br />
 7. [中科院院士不提倡健康人做癌症筛查](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E9%99%A2%E5%A3%AB%E4%B8%8D%E6%8F%90%E5%80%A1%E5%81%A5%E5%BA%B7%E4%BA%BA%E5%81%9A%E7%99%8C%E7%97%87%E7%AD%9B%E6%9F%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [爸妈让6岁儿子晚上学一年到处旅游](https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E8%AE%A96%E5%B2%81%E5%84%BF%E5%AD%90%E6%99%9A%E4%B8%8A%E5%AD%A6%E4%B8%80%E5%B9%B4%E5%88%B0%E5%A4%84%E6%97%85%E6%B8%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [高君雨](https://s.weibo.com/weibo?q=%E9%AB%98%E5%90%9B%E9%9B%A8&t=31&band_rank=9&Refer=top)<br />
+9. [研究称每一滴酒都对身体有害](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E6%AF%8F%E4%B8%80%E6%BB%B4%E9%85%92%E9%83%BD%E5%AF%B9%E8%BA%AB%E4%BD%93%E6%9C%89%E5%AE%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
