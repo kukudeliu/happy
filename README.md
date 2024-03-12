@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 10:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 10:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国家线今天出吗](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E7%BA%BF%E4%BB%8A%E5%A4%A9%E5%87%BA%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [林拓确诊渐冻症](https://s.weibo.com/weibo?q=%E6%9E%97%E6%8B%93%E7%A1%AE%E8%AF%8A%E6%B8%90%E5%86%BB%E7%97%87&t=31&band_rank=7&Refer=top)<br />
 8. [媒体评点读机女孩事件](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩网评奥斯卡歧视亚裔](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%AD%A7%E8%A7%86%E4%BA%9A%E8%A3%94%23&t=31&band_rank=9&Refer=top)<br />
+9. [奥斯卡春山学](https://s.weibo.com/weibo?q=%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%98%A5%E5%B1%B1%E5%AD%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
