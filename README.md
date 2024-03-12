@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 13:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 13:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [金价狂飙涨疯普通人还能再买吗](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E6%B6%A8%E7%96%AF%E6%99%AE%E9%80%9A%E4%BA%BA%E8%BF%98%E8%83%BD%E5%86%8D%E4%B9%B0%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [王鹤棣终于演警察了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%BB%88%E4%BA%8E%E6%BC%94%E8%AD%A6%E5%AF%9F%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [蔚来CEO要求员工不得参与理想MEGA舆论](https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A5CEO%E8%A6%81%E6%B1%82%E5%91%98%E5%B7%A5%E4%B8%8D%E5%BE%97%E5%8F%82%E4%B8%8E%E7%90%86%E6%83%B3MEGA%E8%88%86%E8%AE%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨幂赵丽颖参演酱园弄](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%82%E6%BC%94%E9%85%B1%E5%9B%AD%E5%BC%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [丈夫藏10万练功券被妻子拿去存钱](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E8%97%8F10%E4%B8%87%E7%BB%83%E5%8A%9F%E5%88%B8%E8%A2%AB%E5%A6%BB%E5%AD%90%E6%8B%BF%E5%8E%BB%E5%AD%98%E9%92%B1%23&t=31&band_rank=9&Refer=top)<br />
+8. [丈夫藏10万练功券被妻子拿去存钱](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E8%97%8F10%E4%B8%87%E7%BB%83%E5%8A%9F%E5%88%B8%E8%A2%AB%E5%A6%BB%E5%AD%90%E6%8B%BF%E5%8E%BB%E5%AD%98%E9%92%B1%23&t=31&band_rank=8&Refer=top)<br />
+9. [杨幂赵丽颖参演酱园弄](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%82%E6%BC%94%E9%85%B1%E5%9B%AD%E5%BC%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
