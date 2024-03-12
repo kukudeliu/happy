@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 10:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-12 10:05:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [福岛从日本鬼城变成了世界伤口](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B2%9B%E4%BB%8E%E6%97%A5%E6%9C%AC%E9%AC%BC%E5%9F%8E%E5%8F%98%E6%88%90%E4%BA%86%E4%B8%96%E7%95%8C%E4%BC%A4%E5%8F%A3%23&t=31&band_rank=2&Refer=top)<br />
 3. [共话新质生产力](https://s.weibo.com/weibo?q=%23%E5%85%B1%E8%AF%9D%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [向往的生活小羊小不点去世](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%B0%8F%E7%BE%8A%E5%B0%8F%E4%B8%8D%E7%82%B9%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
-5. [林拓确诊渐冻症](https://s.weibo.com/weibo?q=%E6%9E%97%E6%8B%93%E7%A1%AE%E8%AF%8A%E6%B8%90%E5%86%BB%E7%97%87&t=31&band_rank=5&Refer=top)<br />
-6. [大四是一场巨大的戒断](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%88%92%E6%96%AD%23&t=31&band_rank=6&Refer=top)<br />
+5. [大四是一场巨大的戒断](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%88%92%E6%96%AD%23&t=31&band_rank=5&Refer=top)<br />
+6. [林拓确诊渐冻症](https://s.weibo.com/weibo?q=%E6%9E%97%E6%8B%93%E7%A1%AE%E8%AF%8A%E6%B8%90%E5%86%BB%E7%97%87&t=31&band_rank=6&Refer=top)<br />
 7. [国家线今天出吗](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E7%BA%BF%E4%BB%8A%E5%A4%A9%E5%87%BA%E5%90%97&t=31&band_rank=7&Refer=top)<br />
 8. [媒体评点读机女孩事件](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
 9. [S组什么瓜](https://s.weibo.com/weibo?q=S%E7%BB%84%E4%BB%80%E4%B9%88%E7%93%9C&t=31&band_rank=9&Refer=top)<br />
@@ -22,9 +22,9 @@
 3. [父母卖车卖房带6岁儿子全国游学](https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E5%8D%96%E8%BD%A6%E5%8D%96%E6%88%BF%E5%B8%A66%E5%B2%81%E5%84%BF%E5%AD%90%E5%85%A8%E5%9B%BD%E6%B8%B8%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [通道内外的高频词](https://www.baidu.com/s?wd=%E9%80%9A%E9%81%93%E5%86%85%E5%A4%96%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [鞋王贵人鸟退市](https://www.baidu.com/s?wd=%E9%9E%8B%E7%8E%8B%E8%B4%B5%E4%BA%BA%E9%B8%9F%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [在家做顿饭等于吸20分钟汽车尾气](https://www.baidu.com/s?wd=%E5%9C%A8%E5%AE%B6%E5%81%9A%E9%A1%BF%E9%A5%AD%E7%AD%89%E4%BA%8E%E5%90%B820%E5%88%86%E9%92%9F%E6%B1%BD%E8%BD%A6%E5%B0%BE%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [长城汽车员工大批离职](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%A4%A7%E6%89%B9%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雷军官宣小米汽车发布日](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [长城汽车员工大批离职](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%A4%A7%E6%89%B9%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [雷军官宣小米汽车发布日](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美将建一港口距台湾不到200公里](https://www.baidu.com/s?wd=%E7%BE%8E%E5%B0%86%E5%BB%BA%E4%B8%80%E6%B8%AF%E5%8F%A3%E8%B7%9D%E5%8F%B0%E6%B9%BE%E4%B8%8D%E5%88%B0200%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西一医院辟谣接种流脑疫苗](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%8E%A5%E7%A7%8D%E6%B5%81%E8%84%91%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [父母卖车卖房带6岁儿子全国游学](https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E5%8D%96%E8%BD%A6%E5%8D%96%E6%88%BF%E5%B8%A66%E5%B2%81%E5%84%BF%E5%AD%90%E5%85%A8%E5%9B%BD%E6%B8%B8%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [通道内外的高频词](https://www.baidu.com/s?wd=%E9%80%9A%E9%81%93%E5%86%85%E5%A4%96%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [鞋王贵人鸟退市](https://www.baidu.com/s?wd=%E9%9E%8B%E7%8E%8B%E8%B4%B5%E4%BA%BA%E9%B8%9F%E9%80%80%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [在家做顿饭等于吸20分钟汽车尾气](https://www.baidu.com/s?wd=%E5%9C%A8%E5%AE%B6%E5%81%9A%E9%A1%BF%E9%A5%AD%E7%AD%89%E4%BA%8E%E5%90%B820%E5%88%86%E9%92%9F%E6%B1%BD%E8%BD%A6%E5%B0%BE%E6%B0%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [长城汽车员工大批离职](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%A4%A7%E6%89%B9%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雷军官宣小米汽车发布日](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [长城汽车员工大批离职](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%A4%A7%E6%89%B9%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [雷军官宣小米汽车发布日](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美将建一港口距台湾不到200公里](https://www.baidu.com/s?wd=%E7%BE%8E%E5%B0%86%E5%BB%BA%E4%B8%80%E6%B8%AF%E5%8F%A3%E8%B7%9D%E5%8F%B0%E6%B9%BE%E4%B8%8D%E5%88%B0200%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西一医院辟谣接种流脑疫苗](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%8C%BB%E9%99%A2%E8%BE%9F%E8%B0%A3%E6%8E%A5%E7%A7%8D%E6%B5%81%E8%84%91%E7%96%AB%E8%8B%97&sa=fyb_news&rsv_dl=fyb_news)<br />
