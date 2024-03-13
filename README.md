@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 18:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 18:33:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [迪丽热巴春晚摔骨裂](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%A5%E6%99%9A%E6%91%94%E9%AA%A8%E8%A3%82&t=31&band_rank=2&Refer=top)<br />
 3. [发展新质生产力的核心要素](https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%B1%95%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%84%E6%A0%B8%E5%BF%83%E8%A6%81%E7%B4%A0%23&t=31&band_rank=3&Refer=top)<br />
 4. [村委会回应3名初中生将同学杀害埋尸](https://s.weibo.com/weibo?q=%23%E6%9D%91%E5%A7%94%E4%BC%9A%E5%9B%9E%E5%BA%943%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E5%B0%86%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E5%9F%8B%E5%B0%B8%23&t=31&band_rank=4&Refer=top)<br />
-5. [女子过年买金仅一月小赚近1万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%87%E5%B9%B4%E4%B9%B0%E9%87%91%E4%BB%85%E4%B8%80%E6%9C%88%E5%B0%8F%E8%B5%9A%E8%BF%911%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [网传3名初中生霸凌同学并将其杀害](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A03%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E9%9C%B8%E5%87%8C%E5%90%8C%E5%AD%A6%E5%B9%B6%E5%B0%86%E5%85%B6%E6%9D%80%E5%AE%B3%23&t=31&band_rank=6&Refer=top)<br />
+5. [网传3名初中生霸凌同学并将其杀害](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A03%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E9%9C%B8%E5%87%8C%E5%90%8C%E5%AD%A6%E5%B9%B6%E5%B0%86%E5%85%B6%E6%9D%80%E5%AE%B3%23&t=31&band_rank=5&Refer=top)<br />
+6. [女子过年买金仅一月小赚近1万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%87%E5%B9%B4%E4%B9%B0%E9%87%91%E4%BB%85%E4%B8%80%E6%9C%88%E5%B0%8F%E8%B5%9A%E8%BF%911%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [减肥20%靠运动80%靠饮食](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A520%25%E9%9D%A0%E8%BF%90%E5%8A%A880%25%E9%9D%A0%E9%A5%AE%E9%A3%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [阿沁老婆涉毒被捕](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%B2%81%E8%80%81%E5%A9%86%E6%B6%89%E6%AF%92%E8%A2%AB%E6%8D%95%23&t=31&band_rank=8&Refer=top)<br />
 9. [小学生用电话手表打120救摔伤老人](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%94%A8%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E6%89%93120%E6%95%91%E6%91%94%E4%BC%A4%E8%80%81%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
