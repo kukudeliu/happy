@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 10:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 10:21:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [微信朋友圈的这条横线为何有长有短](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E8%BF%99%E6%9D%A1%E6%A8%AA%E7%BA%BF%E4%B8%BA%E4%BD%95%E6%9C%89%E9%95%BF%E6%9C%89%E7%9F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [燕郊爆炸瞬间曝光：大火球腾空](https://www.baidu.com/s?wd=%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4%E6%9B%9D%E5%85%89%EF%BC%9A%E5%A4%A7%E7%81%AB%E7%90%83%E8%85%BE%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北燕郊镇发生爆炸 官方回应](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%87%95%E9%83%8A%E9%95%87%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大叔坐火车只吃一根萝卜 小伙请吃饭](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8F%AA%E5%90%83%E4%B8%80%E6%A0%B9%E8%90%9D%E5%8D%9C+%E5%B0%8F%E4%BC%99%E8%AF%B7%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子24年后取出10岁时的存款](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9024%E5%B9%B4%E5%90%8E%E5%8F%96%E5%87%BA10%E5%B2%81%E6%97%B6%E7%9A%84%E5%AD%98%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“中国C919在美发生事故”不实](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BDC919%E5%9C%A8%E7%BE%8E%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [微信朋友圈的这条横线为何有长有短](https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E8%BF%99%E6%9D%A1%E6%A8%AA%E7%BA%BF%E4%B8%BA%E4%BD%95%E6%9C%89%E9%95%BF%E6%9C%89%E7%9F%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [燕郊爆炸瞬间曝光：大火球腾空](https://www.baidu.com/s?wd=%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4%E6%9B%9D%E5%85%89%EF%BC%9A%E5%A4%A7%E7%81%AB%E7%90%83%E8%85%BE%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北燕郊镇发生爆炸 官方回应](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%87%95%E9%83%8A%E9%95%87%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [大叔坐火车只吃一根萝卜 小伙请吃饭](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8F%AA%E5%90%83%E4%B8%80%E6%A0%B9%E8%90%9D%E5%8D%9C+%E5%B0%8F%E4%BC%99%E8%AF%B7%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子24年后取出10岁时的存款](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9024%E5%B9%B4%E5%90%8E%E5%8F%96%E5%87%BA10%E5%B2%81%E6%97%B6%E7%9A%84%E5%AD%98%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“中国C919在美发生事故”不实](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BDC919%E5%9C%A8%E7%BE%8E%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
