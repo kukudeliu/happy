@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 03:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 03:31:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [燕郊爆炸已致2死26伤](https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B42%E6%AD%BB26%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [元汽森林厂家被罚](https://s.weibo.com/weibo?q=%23%E5%85%83%E6%B1%BD%E6%A3%AE%E6%9E%97%E5%8E%82%E5%AE%B6%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [许光汉宣布不再演高中生](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%85%89%E6%B1%89%E5%AE%A3%E5%B8%83%E4%B8%8D%E5%86%8D%E6%BC%94%E9%AB%98%E4%B8%AD%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴春晚摔骨裂](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%A5%E6%99%9A%E6%91%94%E9%AA%A8%E8%A3%82&t=31&band_rank=9&Refer=top)<br />
+9. [减肥20%靠运动80%靠饮食](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A520%25%E9%9D%A0%E8%BF%90%E5%8A%A880%25%E9%9D%A0%E9%A5%AE%E9%A3%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
