@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 14:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 14:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [Dior事件后马面裙卖疯了](https://s.weibo.com/weibo?q=%23Dior%E4%BA%8B%E4%BB%B6%E5%90%8E%E9%A9%AC%E9%9D%A2%E8%A3%99%E5%8D%96%E7%96%AF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [燕郊炸鸡店爆燃后4层楼体坍塌](https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E7%82%B8%E9%B8%A1%E5%BA%97%E7%88%86%E7%87%83%E5%90%8E4%E5%B1%82%E6%A5%BC%E4%BD%93%E5%9D%8D%E5%A1%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [别告诉鹿晗家的猫](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%91%8A%E8%AF%89%E9%B9%BF%E6%99%97%E5%AE%B6%E7%9A%84%E7%8C%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [张颂文曾舜晞买菜路透](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E6%9B%BE%E8%88%9C%E6%99%9E%E4%B9%B0%E8%8F%9C%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
+9. [黄旭熙官宣粉丝见面会](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%AD%E7%86%99%E5%AE%98%E5%AE%A3%E7%B2%89%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
