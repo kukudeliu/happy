@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 10:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 10:08:01</h4></div>
 
 > 微博  
 
 1. [燕郊镇发生爆炸](https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E9%95%87%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=1&Refer=top)<br />
 2. [官方回应燕郊镇发生爆炸](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%87%95%E9%83%8A%E9%95%87%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024年民生工作三大重点](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%B0%91%E7%94%9F%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%A4%A7%E9%87%8D%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
-4. [国乒爆冷](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%88%86%E5%86%B7&t=31&band_rank=4&Refer=top)<br />
-5. [Dior事件后马面裙卖疯了](https://s.weibo.com/weibo?q=%23Dior%E4%BA%8B%E4%BB%B6%E5%90%8E%E9%A9%AC%E9%9D%A2%E8%A3%99%E5%8D%96%E7%96%AF%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
+4. [Dior事件后马面裙卖疯了](https://s.weibo.com/weibo?q=%23Dior%E4%BA%8B%E4%BB%B6%E5%90%8E%E9%A9%AC%E9%9D%A2%E8%A3%99%E5%8D%96%E7%96%AF%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
+5. [国乒爆冷](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%88%86%E5%86%B7&t=31&band_rank=5&Refer=top)<br />
 6. [中通快递](https://s.weibo.com/weibo?q=%E4%B8%AD%E9%80%9A%E5%BF%AB%E9%80%92&t=31&band_rank=6&Refer=top)<br />
 7. [纪凌尘 脏脏包](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E8%84%8F%E8%84%8F%E5%8C%85&t=31&band_rank=7&Refer=top)<br />
-8. [医师劝阻100斤要做减重手术的人](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E5%B8%88%E5%8A%9D%E9%98%BB100%E6%96%A4%E8%A6%81%E5%81%9A%E5%87%8F%E9%87%8D%E6%89%8B%E6%9C%AF%E7%9A%84%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [章子怡怒怼网友](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E6%80%92%E6%80%BC%E7%BD%91%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [燕郊爆炸现场冒出巨大火球](https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E5%86%92%E5%87%BA%E5%B7%A8%E5%A4%A7%E7%81%AB%E7%90%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [医师劝阻100斤要做减重手术的人](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E5%B8%88%E5%8A%9D%E9%98%BB100%E6%96%A4%E8%A6%81%E5%81%9A%E5%87%8F%E9%87%8D%E6%89%8B%E6%9C%AF%E7%9A%84%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
