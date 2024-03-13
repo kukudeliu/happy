@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 18:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 18:43:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [李雪琴变瘦了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%8F%98%E7%98%A6%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [网传3名初中生霸凌同学并将其杀害](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A03%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E9%9C%B8%E5%87%8C%E5%90%8C%E5%AD%A6%E5%B9%B6%E5%B0%86%E5%85%B6%E6%9D%80%E5%AE%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子过年买金仅一月小赚近1万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%87%E5%B9%B4%E4%B9%B0%E9%87%91%E4%BB%85%E4%B8%80%E6%9C%88%E5%B0%8F%E8%B5%9A%E8%BF%911%E4%B8%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [燕郊爆炸已致2死26伤](https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B42%E6%AD%BB26%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
+8. [刘宇方回应抄袭张艺兴争议](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E6%96%B9%E5%9B%9E%E5%BA%94%E6%8A%84%E8%A2%AD%E5%BC%A0%E8%89%BA%E5%85%B4%E4%BA%89%E8%AE%AE%23&t=31&band_rank=8&Refer=top)<br />
 9. [小学生用电话手表打120救摔伤老人](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%94%A8%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E6%89%93120%E6%95%91%E6%91%94%E4%BC%A4%E8%80%81%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
