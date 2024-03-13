@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 11:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 11:15:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [燕郊爆炸碎渣满天飞 车主弃车逃生](https://www.baidu.com/s?wd=%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%A2%8E%E6%B8%A3%E6%BB%A1%E5%A4%A9%E9%A3%9E+%E8%BD%A6%E4%B8%BB%E5%BC%83%E8%BD%A6%E9%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李国庆喊话宗馥莉：格局要大](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9B%BD%E5%BA%86%E5%96%8A%E8%AF%9D%E5%AE%97%E9%A6%A5%E8%8E%89%EF%BC%9A%E6%A0%BC%E5%B1%80%E8%A6%81%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [直击燕郊爆炸现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [莫迪观摩军演 演训战机在附近坠毁](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%82%E6%91%A9%E5%86%9B%E6%BC%94+%E6%BC%94%E8%AE%AD%E6%88%98%E6%9C%BA%E5%9C%A8%E9%99%84%E8%BF%91%E5%9D%A0%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [章子怡怒怼网友](https://www.baidu.com/s?wd=%E7%AB%A0%E5%AD%90%E6%80%A1%E6%80%92%E6%80%BC%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“中国C919在美发生事故”不实](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BDC919%E5%9C%A8%E7%BE%8E%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [燕郊爆炸碎渣满天飞 车主弃车逃生](https://www.baidu.com/s?wd=%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%A2%8E%E6%B8%A3%E6%BB%A1%E5%A4%A9%E9%A3%9E+%E8%BD%A6%E4%B8%BB%E5%BC%83%E8%BD%A6%E9%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李国庆喊话宗馥莉：格局要大](https://www.baidu.com/s?wd=%E6%9D%8E%E5%9B%BD%E5%BA%86%E5%96%8A%E8%AF%9D%E5%AE%97%E9%A6%A5%E8%8E%89%EF%BC%9A%E6%A0%BC%E5%B1%80%E8%A6%81%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [直击燕郊爆炸现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [莫迪观摩军演 演训战机在附近坠毁](https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E8%A7%82%E6%91%A9%E5%86%9B%E6%BC%94+%E6%BC%94%E8%AE%AD%E6%88%98%E6%9C%BA%E5%9C%A8%E9%99%84%E8%BF%91%E5%9D%A0%E6%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [章子怡怒怼网友](https://www.baidu.com/s?wd=%E7%AB%A0%E5%AD%90%E6%80%A1%E6%80%92%E6%80%BC%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“中国C919在美发生事故”不实](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BDC919%E5%9C%A8%E7%BE%8E%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
