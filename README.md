@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 18:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 18:55:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [春风里 议国是](https://www.baidu.com/s?wd=%E6%98%A5%E9%A3%8E%E9%87%8C+%E8%AE%AE%E5%9B%BD%E6%98%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [95后提前买金为妈妈庆生反赚近1万](https://www.baidu.com/s?wd=95%E5%90%8E%E6%8F%90%E5%89%8D%E4%B9%B0%E9%87%91%E4%B8%BA%E5%A6%88%E5%A6%88%E5%BA%86%E7%94%9F%E5%8F%8D%E8%B5%9A%E8%BF%911%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [男子刚买完车就降价1.7万元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%9A%E4%B9%B0%E5%AE%8C%E8%BD%A6%E5%B0%B1%E9%99%8D%E4%BB%B71.7%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [吴艳妮8秒11夺冠](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE8%E7%A7%9211%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [体育助力乡村振兴大有可为](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E5%8A%A9%E5%8A%9B%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E5%A4%A7%E6%9C%89%E5%8F%AF%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美将表决封禁TikTok法案 外交部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%B0%86%E8%A1%A8%E5%86%B3%E5%B0%81%E7%A6%81TikTok%E6%B3%95%E6%A1%88+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子刚买完车就降价1.7万元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%9A%E4%B9%B0%E5%AE%8C%E8%BD%A6%E5%B0%B1%E9%99%8D%E4%BB%B71.7%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [迪丽热巴春晚摔骨裂](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%A5%E6%99%9A%E6%91%94%E9%AA%A8%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北燕郊爆炸已致2死26伤](https://www.baidu.com/s?wd=%23%E7%87%95%E9%83%8A%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [迪丽热巴春晚摔骨裂](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%A5%E6%99%9A%E6%91%94%E9%AA%A8%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [梅西代言白酒重新上架](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E4%BB%A3%E8%A8%80%E7%99%BD%E9%85%92%E9%87%8D%E6%96%B0%E4%B8%8A%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贵阳有人贩子拐卖儿童？假的](https://www.baidu.com/s?wd=%E8%B4%B5%E9%98%B3%E6%9C%89%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E5%8D%96%E5%84%BF%E7%AB%A5%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [春风里 议国是](https://www.baidu.com/s?wd=%E6%98%A5%E9%A3%8E%E9%87%8C+%E8%AE%AE%E5%9B%BD%E6%98%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [95后提前买金为妈妈庆生反赚近1万](https://www.baidu.com/s?wd=95%E5%90%8E%E6%8F%90%E5%89%8D%E4%B9%B0%E9%87%91%E4%B8%BA%E5%A6%88%E5%A6%88%E5%BA%86%E7%94%9F%E5%8F%8D%E8%B5%9A%E8%BF%911%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [男子刚买完车就降价1.7万元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%9A%E4%B9%B0%E5%AE%8C%E8%BD%A6%E5%B0%B1%E9%99%8D%E4%BB%B71.7%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [吴艳妮8秒11夺冠](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE8%E7%A7%9211%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [体育助力乡村振兴大有可为](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E5%8A%A9%E5%8A%9B%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E5%A4%A7%E6%9C%89%E5%8F%AF%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美将表决封禁TikTok法案 外交部回应](https://www.baidu.com/s?wd=%E7%BE%8E%E5%B0%86%E8%A1%A8%E5%86%B3%E5%B0%81%E7%A6%81TikTok%E6%B3%95%E6%A1%88+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子刚买完车就降价1.7万元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%9A%E4%B9%B0%E5%AE%8C%E8%BD%A6%E5%B0%B1%E9%99%8D%E4%BB%B71.7%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [迪丽热巴春晚摔骨裂](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%A5%E6%99%9A%E6%91%94%E9%AA%A8%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北燕郊爆炸已致2死26伤](https://www.baidu.com/s?wd=%23%E7%87%95%E9%83%8A%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [迪丽热巴春晚摔骨裂](https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%A5%E6%99%9A%E6%91%94%E9%AA%A8%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [梅西代言白酒重新上架](https://www.baidu.com/s?wd=%E6%A2%85%E8%A5%BF%E4%BB%A3%E8%A8%80%E7%99%BD%E9%85%92%E9%87%8D%E6%96%B0%E4%B8%8A%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贵阳有人贩子拐卖儿童？假的](https://www.baidu.com/s?wd=%E8%B4%B5%E9%98%B3%E6%9C%89%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E5%8D%96%E5%84%BF%E7%AB%A5%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
