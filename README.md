@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 20:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 20:46:01</h4></div>
 
 > 微博  
 
@@ -17,10 +17,10 @@
 
 > 百度  
 
-1. [春风里 议国是](https://www.baidu.com/s?wd=%E6%98%A5%E9%A3%8E%E9%87%8C+%E8%AE%AE%E5%9B%BD%E6%98%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平这样谈“增进民生福祉”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%99%E6%A0%B7%E8%B0%88%E2%80%9C%E5%A2%9E%E8%BF%9B%E6%B0%91%E7%94%9F%E7%A6%8F%E7%A5%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [世上最后一名铁肺人去世](https://www.baidu.com/s?wd=%E4%B8%96%E4%B8%8A%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%8D%E9%93%81%E8%82%BA%E4%BA%BA%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [男子刚买完车就降价1.7万元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%9A%E4%B9%B0%E5%AE%8C%E8%BD%A6%E5%B0%B1%E9%99%8D%E4%BB%B71.7%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [体育助力乡村振兴大有可为](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E5%8A%A9%E5%8A%9B%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E5%A4%A7%E6%9C%89%E5%8F%AF%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [用丰富“花活”留住更多游客](https://www.baidu.com/s?wd=%E7%94%A8%E4%B8%B0%E5%AF%8C%E2%80%9C%E8%8A%B1%E6%B4%BB%E2%80%9D%E7%95%99%E4%BD%8F%E6%9B%B4%E5%A4%9A%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [山东泰山无缘亚冠4强](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1%E6%97%A0%E7%BC%98%E4%BA%9A%E5%86%A04%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李雪琴变瘦了](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%8F%98%E7%98%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北燕郊爆炸已致2死26伤](https://www.baidu.com/s?wd=%23%E7%87%95%E9%83%8A%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,10 +29,10 @@
 
 > 哔哩哔哩  
 
-1. [春风里 议国是](https://www.baidu.com/s?wd=%E6%98%A5%E9%A3%8E%E9%87%8C+%E8%AE%AE%E5%9B%BD%E6%98%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平这样谈“增进民生福祉”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%99%E6%A0%B7%E8%B0%88%E2%80%9C%E5%A2%9E%E8%BF%9B%E6%B0%91%E7%94%9F%E7%A6%8F%E7%A5%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [世上最后一名铁肺人去世](https://www.baidu.com/s?wd=%E4%B8%96%E4%B8%8A%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%8D%E9%93%81%E8%82%BA%E4%BA%BA%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [男子刚买完车就降价1.7万元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%9A%E4%B9%B0%E5%AE%8C%E8%BD%A6%E5%B0%B1%E9%99%8D%E4%BB%B71.7%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [体育助力乡村振兴大有可为](https://www.baidu.com/s?wd=%E4%BD%93%E8%82%B2%E5%8A%A9%E5%8A%9B%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E5%A4%A7%E6%9C%89%E5%8F%AF%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [用丰富“花活”留住更多游客](https://www.baidu.com/s?wd=%E7%94%A8%E4%B8%B0%E5%AF%8C%E2%80%9C%E8%8A%B1%E6%B4%BB%E2%80%9D%E7%95%99%E4%BD%8F%E6%9B%B4%E5%A4%9A%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [山东泰山无缘亚冠4强](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1%E6%97%A0%E7%BC%98%E4%BA%9A%E5%86%A04%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [李雪琴变瘦了](https://www.baidu.com/s?wd=%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%8F%98%E7%98%A6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [河北燕郊爆炸已致2死26伤](https://www.baidu.com/s?wd=%23%E7%87%95%E9%83%8A%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&sa=fyb_news&rsv_dl=fyb_news)<br />
