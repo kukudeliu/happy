@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 21:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 21:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [记者暗访代孕黑色产业链](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E6%9A%97%E8%AE%BF%E4%BB%A3%E5%AD%95%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [燕郊爆炸已致2死26伤](https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B42%E6%AD%BB26%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [烈焰首播口碑](https://s.weibo.com/weibo?q=%23%E7%83%88%E7%84%B0%E9%A6%96%E6%92%AD%E5%8F%A3%E7%A2%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [李雪琴变瘦了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%8F%98%E7%98%A6%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [世上最后一名铁肺人去世](https://s.weibo.com/weibo?q=%23%E4%B8%96%E4%B8%8A%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%8D%E9%93%81%E8%82%BA%E4%BA%BA%E5%8E%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
