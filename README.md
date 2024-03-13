@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 09:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 09:21:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [朱珠产后瘦了近50斤](https://s.weibo.com/weibo?q=%E6%9C%B1%E7%8F%A0%E4%BA%A7%E5%90%8E%E7%98%A6%E4%BA%86%E8%BF%9150%E6%96%A4&t=31&band_rank=4&Refer=top)<br />
 5. [新冠疫情使全球平均寿命缩短了1.6年](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E4%BD%BF%E5%85%A8%E7%90%83%E5%B9%B3%E5%9D%87%E5%AF%BF%E5%91%BD%E7%BC%A9%E7%9F%AD%E4%BA%861.6%E5%B9%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [章子怡怒怼网友](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E6%80%92%E6%80%BC%E7%BD%91%E5%8F%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [大叔坐火车一整天只吃一根萝卜](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E5%9D%90%E7%81%AB%E8%BD%A6%E4%B8%80%E6%95%B4%E5%A4%A9%E5%8F%AA%E5%90%83%E4%B8%80%E6%A0%B9%E8%90%9D%E5%8D%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [波音吹哨人突然死亡](https://s.weibo.com/weibo?q=%23%E6%B3%A2%E9%9F%B3%E5%90%B9%E5%93%A8%E4%BA%BA%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [拜登锁定美国总统候选人提名](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%94%81%E5%AE%9A%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E6%8F%90%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
+7. [官方回应燕郊镇发生爆炸](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%87%95%E9%83%8A%E9%95%87%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=7&Refer=top)<br />
+8. [大叔坐火车一整天只吃一根萝卜](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E5%9D%90%E7%81%AB%E8%BD%A6%E4%B8%80%E6%95%B4%E5%A4%A9%E5%8F%AA%E5%90%83%E4%B8%80%E6%A0%B9%E8%90%9D%E5%8D%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [波音吹哨人突然死亡](https://s.weibo.com/weibo?q=%23%E6%B3%A2%E9%9F%B3%E5%90%B9%E5%93%A8%E4%BA%BA%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
