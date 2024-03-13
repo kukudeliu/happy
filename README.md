@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 16:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 16:31:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [燕郊爆炸已致2死26伤](https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B42%E6%AD%BB26%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [爱奇艺腾讯优酷卷起来了](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E8%85%BE%E8%AE%AF%E4%BC%98%E9%85%B7%E5%8D%B7%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [朋友圈发这些可能会被封号](https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E8%BF%99%E4%BA%9B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [月薪15000住家阿姨的一天](https://s.weibo.com/weibo?q=%E6%9C%88%E8%96%AA15000%E4%BD%8F%E5%AE%B6%E9%98%BF%E5%A7%A8%E7%9A%84%E4%B8%80%E5%A4%A9&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴春晚摔骨裂](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%A5%E6%99%9A%E6%91%94%E9%AA%A8%E8%A3%82&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
