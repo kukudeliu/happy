@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 11:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 11:36:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [商户说燕郊爆炸建筑几乎炸没了](https://s.weibo.com/weibo?q=%23%E5%95%86%E6%88%B7%E8%AF%B4%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E5%BB%BA%E7%AD%91%E5%87%A0%E4%B9%8E%E7%82%B8%E6%B2%A1%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [国乒爆冷](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%88%86%E5%86%B7&t=31&band_rank=5&Refer=top)<br />
 6. [甘肃天水麻辣烫](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [陆虎亲了陈曌旭](https://s.weibo.com/weibo?q=%23%E9%99%86%E8%99%8E%E4%BA%B2%E4%BA%86%E9%99%88%E6%9B%8C%E6%97%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [背薄了真的显年轻](https://s.weibo.com/weibo?q=%E8%83%8C%E8%96%84%E4%BA%86%E7%9C%9F%E7%9A%84%E6%98%BE%E5%B9%B4%E8%BD%BB&t=31&band_rank=8&Refer=top)<br />
+7. [背薄了真的显年轻](https://s.weibo.com/weibo?q=%E8%83%8C%E8%96%84%E4%BA%86%E7%9C%9F%E7%9A%84%E6%98%BE%E5%B9%B4%E8%BD%BB&t=31&band_rank=7&Refer=top)<br />
+8. [陆虎亲了陈曌旭](https://s.weibo.com/weibo?q=%23%E9%99%86%E8%99%8E%E4%BA%B2%E4%BA%86%E9%99%88%E6%9B%8C%E6%97%AD%23&t=31&band_rank=8&Refer=top)<br />
 9. [钟薛高有员工称已数月未领到工资](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E6%9C%89%E5%91%98%E5%B7%A5%E7%A7%B0%E5%B7%B2%E6%95%B0%E6%9C%88%E6%9C%AA%E9%A2%86%E5%88%B0%E5%B7%A5%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
