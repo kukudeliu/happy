@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 11:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 11:45:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [大叔坐火车只吃一根萝卜 小伙请吃饭](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8F%AA%E5%90%83%E4%B8%80%E6%A0%B9%E8%90%9D%E5%8D%9C+%E5%B0%8F%E4%BC%99%E8%AF%B7%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Dior事件后马面裙卖疯了](https://www.baidu.com/s?wd=Dior%E4%BA%8B%E4%BB%B6%E5%90%8E%E9%A9%AC%E9%9D%A2%E8%A3%99%E5%8D%96%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [直击燕郊爆炸现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汽车隧道内突然开车门 疑恶意别车](https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%9A%A7%E9%81%93%E5%86%85%E7%AA%81%E7%84%B6%E5%BC%80%E8%BD%A6%E9%97%A8+%E7%96%91%E6%81%B6%E6%84%8F%E5%88%AB%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河北燕郊炸鸡店爆燃后4层楼体坍塌](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%87%95%E9%83%8A%E7%82%B8%E9%B8%A1%E5%BA%97%E7%88%86%E7%87%83%E5%90%8E4%E5%B1%82%E6%A5%BC%E4%BD%93%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“中国C919在美发生事故”不实](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BDC919%E5%9C%A8%E7%BE%8E%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [大叔坐火车只吃一根萝卜 小伙请吃饭](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8F%AA%E5%90%83%E4%B8%80%E6%A0%B9%E8%90%9D%E5%8D%9C+%E5%B0%8F%E4%BC%99%E8%AF%B7%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Dior事件后马面裙卖疯了](https://www.baidu.com/s?wd=Dior%E4%BA%8B%E4%BB%B6%E5%90%8E%E9%A9%AC%E9%9D%A2%E8%A3%99%E5%8D%96%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [直击燕郊爆炸现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [汽车隧道内突然开车门 疑恶意别车](https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%9A%A7%E9%81%93%E5%86%85%E7%AA%81%E7%84%B6%E5%BC%80%E8%BD%A6%E9%97%A8+%E7%96%91%E6%81%B6%E6%84%8F%E5%88%AB%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [河北燕郊炸鸡店爆燃后4层楼体坍塌](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%87%95%E9%83%8A%E7%82%B8%E9%B8%A1%E5%BA%97%E7%88%86%E7%87%83%E5%90%8E4%E5%B1%82%E6%A5%BC%E4%BD%93%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“中国C919在美发生事故”不实](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BDC919%E5%9C%A8%E7%BE%8E%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
