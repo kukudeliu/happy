@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 00:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 00:49:01</h4></div>
 
 > 微博  
 
-1. [独生女举报62岁父亲代孕生儿子](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E7%94%9F%E5%A5%B3%E4%B8%BE%E6%8A%A562%E5%B2%81%E7%88%B6%E4%BA%B2%E4%BB%A3%E5%AD%95%E7%94%9F%E5%84%BF%E5%AD%90%23&t=31&band_rank=1&Refer=top)<br />
-2. [千万别再关灯玩手机了](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%86%8D%E5%85%B3%E7%81%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
+1. [千万别再关灯玩手机了](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%86%8D%E5%85%B3%E7%81%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
+2. [独生女举报62岁父亲代孕生儿子](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E7%94%9F%E5%A5%B3%E4%B8%BE%E6%8A%A562%E5%B2%81%E7%88%B6%E4%BA%B2%E4%BB%A3%E5%AD%95%E7%94%9F%E5%84%BF%E5%AD%90%23&t=31&band_rank=2&Refer=top)<br />
 3. [开展国家勋章和国家荣誉称号评选颁授](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%95%E5%9B%BD%E5%AE%B6%E5%8B%8B%E7%AB%A0%E5%92%8C%E5%9B%BD%E5%AE%B6%E8%8D%A3%E8%AA%89%E7%A7%B0%E5%8F%B7%E8%AF%84%E9%80%89%E9%A2%81%E6%8E%88%23&t=31&band_rank=3&Refer=top)<br />
 4. [中国记协三问央视记者燕郊采访遇阻](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%8D%8F%E4%B8%89%E9%97%AE%E5%A4%AE%E8%A7%86%E8%AE%B0%E8%80%85%E7%87%95%E9%83%8A%E9%87%87%E8%AE%BF%E9%81%87%E9%98%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [许光汉宣布不再演高中生](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%85%89%E6%B1%89%E5%AE%A3%E5%B8%83%E4%B8%8D%E5%86%8D%E6%BC%94%E9%AB%98%E4%B8%AD%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
