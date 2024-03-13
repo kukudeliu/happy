@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 18:11:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 18:12:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [阿沁老婆涉毒被捕](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%B2%81%E8%80%81%E5%A9%86%E6%B6%89%E6%AF%92%E8%A2%AB%E6%8D%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [减肥20%靠运动80%靠饮食](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A520%25%E9%9D%A0%E8%BF%90%E5%8A%A880%25%E9%9D%A0%E9%A5%AE%E9%A3%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [燕郊爆炸已致2死26伤](https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B42%E6%AD%BB26%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴艳妮8秒11夺冠](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE8%E7%A7%9211%E5%A4%BA%E5%86%A0%23&t=31&band_rank=8&Refer=top)<br />
+8. [村委会回应3名初中生将同学杀害埋尸](https://s.weibo.com/weibo?q=%23%E6%9D%91%E5%A7%94%E4%BC%9A%E5%9B%9E%E5%BA%943%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E5%B0%86%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E5%9F%8B%E5%B0%B8%23&t=31&band_rank=8&Refer=top)<br />
 9. [小学生用电话手表打120救摔伤老人](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%94%A8%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E6%89%93120%E6%95%91%E6%91%94%E4%BC%A4%E8%80%81%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
