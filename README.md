@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 08:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 08:51:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [2024年民生工作三大重点](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%B0%91%E7%94%9F%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%A4%A7%E9%87%8D%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
 4. [章子怡怒怼网友](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E6%80%92%E6%80%BC%E7%BD%91%E5%8F%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [大叔坐火车一整天只吃一根萝卜](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E5%9D%90%E7%81%AB%E8%BD%A6%E4%B8%80%E6%95%B4%E5%A4%A9%E5%8F%AA%E5%90%83%E4%B8%80%E6%A0%B9%E8%90%9D%E5%8D%9C%23&t=31&band_rank=5&Refer=top)<br />
-6. [坚持21天把肾气全补回来](https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%8121%E5%A4%A9%E6%8A%8A%E8%82%BE%E6%B0%94%E5%85%A8%E8%A1%A5%E5%9B%9E%E6%9D%A5&t=31&band_rank=6&Refer=top)<br />
-7. [新冠疫情使全球平均寿命缩短了1.6年](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E4%BD%BF%E5%85%A8%E7%90%83%E5%B9%B3%E5%9D%87%E5%AF%BF%E5%91%BD%E7%BC%A9%E7%9F%AD%E4%BA%861.6%E5%B9%B4%23&t=31&band_rank=7&Refer=top)<br />
+6. [新冠疫情使全球平均寿命缩短了1.6年](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E4%BD%BF%E5%85%A8%E7%90%83%E5%B9%B3%E5%9D%87%E5%AF%BF%E5%91%BD%E7%BC%A9%E7%9F%AD%E4%BA%861.6%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
+7. [坚持21天把肾气全补回来](https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%8121%E5%A4%A9%E6%8A%8A%E8%82%BE%E6%B0%94%E5%85%A8%E8%A1%A5%E5%9B%9E%E6%9D%A5&t=31&band_rank=7&Refer=top)<br />
 8. [肖战工作室还让不让人睡](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BF%98%E8%AE%A9%E4%B8%8D%E8%AE%A9%E4%BA%BA%E7%9D%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [因为自卑对男朋友隐瞒了家庭条件](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E8%87%AA%E5%8D%91%E5%AF%B9%E7%94%B7%E6%9C%8B%E5%8F%8B%E9%9A%90%E7%9E%92%E4%BA%86%E5%AE%B6%E5%BA%AD%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
