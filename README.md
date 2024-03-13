@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 10:56:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [商户说燕郊爆炸建筑几乎炸没了](https://s.weibo.com/weibo?q=%23%E5%95%86%E6%88%B7%E8%AF%B4%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E5%BB%BA%E7%AD%91%E5%87%A0%E4%B9%8E%E7%82%B8%E6%B2%A1%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [国乒爆冷](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%88%86%E5%86%B7&t=31&band_rank=5&Refer=top)<br />
 6. [中通快递](https://s.weibo.com/weibo?q=%E4%B8%AD%E9%80%9A%E5%BF%AB%E9%80%92&t=31&band_rank=6&Refer=top)<br />
-7. [医师劝阻100斤要做减重手术的人](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E5%B8%88%E5%8A%9D%E9%98%BB100%E6%96%A4%E8%A6%81%E5%81%9A%E5%87%8F%E9%87%8D%E6%89%8B%E6%9C%AF%E7%9A%84%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
+7. [甘肃天水麻辣烫](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [钟薛高有员工称已数月未领到工资](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E6%9C%89%E5%91%98%E5%B7%A5%E7%A7%B0%E5%B7%B2%E6%95%B0%E6%9C%88%E6%9C%AA%E9%A2%86%E5%88%B0%E5%B7%A5%E8%B5%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [甘肃天水麻辣烫](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [医师劝阻100斤要做减重手术的人](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E5%B8%88%E5%8A%9D%E9%98%BB100%E6%96%A4%E8%A6%81%E5%81%9A%E5%87%8F%E9%87%8D%E6%89%8B%E6%9C%AF%E7%9A%84%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [带你看中国的绿色奇迹](https://www.baidu.com/s?wd=%E5%B8%A6%E4%BD%A0%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%BF%E8%89%B2%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [燕郊爆炸碎渣满天飞 车主弃车逃生](https://www.baidu.com/s?wd=%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%A2%8E%E6%B8%A3%E6%BB%A1%E5%A4%A9%E9%A3%9E+%E8%BD%A6%E4%B8%BB%E5%BC%83%E8%BD%A6%E9%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大叔坐火车只吃一根萝卜 小伙请吃饭](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8F%AA%E5%90%83%E4%B8%80%E6%A0%B9%E8%90%9D%E5%8D%9C+%E5%B0%8F%E4%BC%99%E8%AF%B7%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [目击者称燕郊爆炸楼几乎炸没了](https://www.baidu.com/s?wd=%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E6%A5%BC%E5%87%A0%E4%B9%8E%E7%82%B8%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [燕郊爆炸瞬间曝光：大火球腾空](https://www.baidu.com/s?wd=%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4%E6%9B%9D%E5%85%89%EF%BC%9A%E5%A4%A7%E7%81%AB%E7%90%83%E8%85%BE%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [直击燕郊爆炸现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [章子怡怒怼网友](https://www.baidu.com/s?wd=%E7%AB%A0%E5%AD%90%E6%80%A1%E6%80%92%E6%80%BC%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“中国C919在美发生事故”不实](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BDC919%E5%9C%A8%E7%BE%8E%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [带你看中国的绿色奇迹](https://www.baidu.com/s?wd=%E5%B8%A6%E4%BD%A0%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%BF%E8%89%B2%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [燕郊爆炸碎渣满天飞 车主弃车逃生](https://www.baidu.com/s?wd=%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%A2%8E%E6%B8%A3%E6%BB%A1%E5%A4%A9%E9%A3%9E+%E8%BD%A6%E4%B8%BB%E5%BC%83%E8%BD%A6%E9%80%83%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [大叔坐火车只吃一根萝卜 小伙请吃饭](https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8F%AA%E5%90%83%E4%B8%80%E6%A0%B9%E8%90%9D%E5%8D%9C+%E5%B0%8F%E4%BC%99%E8%AF%B7%E5%90%83%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [目击者称燕郊爆炸楼几乎炸没了](https://www.baidu.com/s?wd=%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E6%A5%BC%E5%87%A0%E4%B9%8E%E7%82%B8%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [燕郊爆炸瞬间曝光：大火球腾空](https://www.baidu.com/s?wd=%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4%E6%9B%9D%E5%85%89%EF%BC%9A%E5%A4%A7%E7%81%AB%E7%90%83%E8%85%BE%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [直击燕郊爆炸现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [章子怡怒怼网友](https://www.baidu.com/s?wd=%E7%AB%A0%E5%AD%90%E6%80%A1%E6%80%92%E6%80%BC%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [“中国C919在美发生事故”不实](https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BDC919%E5%9C%A8%E7%BE%8E%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
