@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 11:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-13 11:02:01</h4></div>
 
 > 微博  
 
 1. [河北燕郊爆炸已致1死22伤](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B41%E6%AD%BB22%E4%BC%A4%23&t=31&band_rank=1&Refer=top)<br />
-2. [燕郊镇发生爆炸](https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E9%95%87%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=2&Refer=top)<br />
+2. [Dior事件后马面裙卖疯了](https://s.weibo.com/weibo?q=%23Dior%E4%BA%8B%E4%BB%B6%E5%90%8E%E9%A9%AC%E9%9D%A2%E8%A3%99%E5%8D%96%E7%96%AF%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024年民生工作三大重点](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%B0%91%E7%94%9F%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%A4%A7%E9%87%8D%E7%82%B9%23&t=31&band_rank=3&Refer=top)<br />
-4. [Dior事件后马面裙卖疯了](https://s.weibo.com/weibo?q=%23Dior%E4%BA%8B%E4%BB%B6%E5%90%8E%E9%A9%AC%E9%9D%A2%E8%A3%99%E5%8D%96%E7%96%AF%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [商户说燕郊爆炸建筑几乎炸没了](https://s.weibo.com/weibo?q=%23%E5%95%86%E6%88%B7%E8%AF%B4%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E5%BB%BA%E7%AD%91%E5%87%A0%E4%B9%8E%E7%82%B8%E6%B2%A1%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [国乒爆冷](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%88%86%E5%86%B7&t=31&band_rank=6&Refer=top)<br />
-7. [中通快递](https://s.weibo.com/weibo?q=%E4%B8%AD%E9%80%9A%E5%BF%AB%E9%80%92&t=31&band_rank=7&Refer=top)<br />
-8. [甘肃天水麻辣烫](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [钟薛高有员工称已数月未领到工资](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E6%9C%89%E5%91%98%E5%B7%A5%E7%A7%B0%E5%B7%B2%E6%95%B0%E6%9C%88%E6%9C%AA%E9%A2%86%E5%88%B0%E5%B7%A5%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
+4. [燕郊镇发生爆炸](https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E9%95%87%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=4&Refer=top)<br />
+5. [国乒爆冷](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%88%86%E5%86%B7&t=31&band_rank=5&Refer=top)<br />
+6. [中通快递](https://s.weibo.com/weibo?q=%E4%B8%AD%E9%80%9A%E5%BF%AB%E9%80%92&t=31&band_rank=6&Refer=top)<br />
+7. [甘肃天水麻辣烫](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%23&t=31&band_rank=7&Refer=top)<br />
+8. [钟薛高有员工称已数月未领到工资](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E6%9C%89%E5%91%98%E5%B7%A5%E7%A7%B0%E5%B7%B2%E6%95%B0%E6%9C%88%E6%9C%AA%E9%A2%86%E5%88%B0%E5%B7%A5%E8%B5%84%23&t=31&band_rank=8&Refer=top)<br />
+9. [医师劝阻100斤要做减重手术的人](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E5%B8%88%E5%8A%9D%E9%98%BB100%E6%96%A4%E8%A6%81%E5%81%9A%E5%87%8F%E9%87%8D%E6%89%8B%E6%9C%AF%E7%9A%84%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
