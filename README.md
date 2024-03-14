@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 20:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 20:41:02</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [向“新”而行](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [文化润民心](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E6%B6%A6%E6%B0%91%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [高校放7天春假鼓励学生赏花恋爱](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%94%BE7%E5%A4%A9%E6%98%A5%E5%81%87%E9%BC%93%E5%8A%B1%E5%AD%A6%E7%94%9F%E8%B5%8F%E8%8A%B1%E6%81%8B%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [燕郊爆炸或系输送中的管道泄漏导致](https://www.baidu.com/s?wd=%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E6%88%96%E7%B3%BB%E8%BE%93%E9%80%81%E4%B8%AD%E7%9A%84%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E5%AF%BC%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [万象“耕”新](https://www.baidu.com/s?wd=%E4%B8%87%E8%B1%A1%E2%80%9C%E8%80%95%E2%80%9D%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [向“新”而行](https://www.baidu.com/s?wd=%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D%E8%80%8C%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [文化润民心](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E6%B6%A6%E6%B0%91%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [高校放7天春假鼓励学生赏花恋爱](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%94%BE7%E5%A4%A9%E6%98%A5%E5%81%87%E9%BC%93%E5%8A%B1%E5%AD%A6%E7%94%9F%E8%B5%8F%E8%8A%B1%E6%81%8B%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [燕郊爆炸或系输送中的管道泄漏导致](https://www.baidu.com/s?wd=%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E6%88%96%E7%B3%BB%E8%BE%93%E9%80%81%E4%B8%AD%E7%9A%84%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E5%AF%BC%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [万象“耕”新](https://www.baidu.com/s?wd=%E4%B8%87%E8%B1%A1%E2%80%9C%E8%80%95%E2%80%9D%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
