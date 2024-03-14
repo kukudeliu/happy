@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 21:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 21:41:01</h4></div>
 
 > 微博  
 
 1. [五哈4官宣了哈](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%884%E5%AE%98%E5%AE%A3%E4%BA%86%E5%93%88%23&t=31&band_rank=1&Refer=top)<br />
 2. [教育部曾明确叫停在家上学](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%9B%BE%E6%98%8E%E7%A1%AE%E5%8F%AB%E5%81%9C%E5%9C%A8%E5%AE%B6%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [新质生产力本身就是绿色生产力](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%9C%AC%E8%BA%AB%E5%B0%B1%E6%98%AF%E7%BB%BF%E8%89%B2%E7%94%9F%E4%BA%A7%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [小狗去世后把它弟弟接回了家](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%8E%BB%E4%B8%96%E5%90%8E%E6%8A%8A%E5%AE%83%E5%BC%9F%E5%BC%9F%E6%8E%A5%E5%9B%9E%E4%BA%86%E5%AE%B6%23&t=31&band_rank=4&Refer=top)<br />
-5. [马斯克SpaceX星舰第三次试飞](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%98%9F%E8%88%B0%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%AF%95%E9%A3%9E%23&t=31&band_rank=5&Refer=top)<br />
+4. [马斯克SpaceX星舰第三次试飞](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%98%9F%E8%88%B0%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%AF%95%E9%A3%9E%23&t=31&band_rank=4&Refer=top)<br />
+5. [小狗去世后把它弟弟接回了家](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%8E%BB%E4%B8%96%E5%90%8E%E6%8A%8A%E5%AE%83%E5%BC%9F%E5%BC%9F%E6%8E%A5%E5%9B%9E%E4%BA%86%E5%AE%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [邯郸遇害男孩亲属称校长说死是意外](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E9%81%87%E5%AE%B3%E7%94%B7%E5%AD%A9%E4%BA%B2%E5%B1%9E%E7%A7%B0%E6%A0%A1%E9%95%BF%E8%AF%B4%E6%AD%BB%E6%98%AF%E6%84%8F%E5%A4%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [金子](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
 8. [陈思诚 我的电影也不用都看](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%20%E6%88%91%E7%9A%84%E7%94%B5%E5%BD%B1%E4%B9%9F%E4%B8%8D%E7%94%A8%E9%83%BD%E7%9C%8B&t=31&band_rank=8&Refer=top)<br />
