@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 11:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 11:06:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [习近平这样谈“增进民生福祉”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%99%E6%A0%B7%E8%B0%88%E2%80%9C%E5%A2%9E%E8%BF%9B%E6%B0%91%E7%94%9F%E7%A6%8F%E7%A5%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [新一轮汽车“以旧换新”政策落地](https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E8%BD%AE%E6%B1%BD%E8%BD%A6%E2%80%9C%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E2%80%9D%E6%94%BF%E7%AD%96%E8%90%BD%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [台媒称大陆渔船在金门外海翻覆](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E7%A7%B0%E5%A4%A7%E9%99%86%E6%B8%94%E8%88%B9%E5%9C%A8%E9%87%91%E9%97%A8%E5%A4%96%E6%B5%B7%E7%BF%BB%E8%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [免签朋友圈今起再添6国](https://www.baidu.com/s?wd=%E5%85%8D%E7%AD%BE%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BB%8A%E8%B5%B7%E5%86%8D%E6%B7%BB6%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [用丰富“花活”留住更多游客](https://www.baidu.com/s?wd=%E7%94%A8%E4%B8%B0%E5%AF%8C%E2%80%9C%E8%8A%B1%E6%B4%BB%E2%80%9D%E7%95%99%E4%BD%8F%E6%9B%B4%E5%A4%9A%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河北三河通报“记者燕郊采访遇阻”](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%89%E6%B2%B3%E9%80%9A%E6%8A%A5%E2%80%9C%E8%AE%B0%E8%80%85%E7%87%95%E9%83%8A%E9%87%87%E8%AE%BF%E9%81%87%E9%98%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [总理考察自动驾驶](https://www.baidu.com/s?wd=%E6%80%BB%E7%90%86%E8%80%83%E5%AF%9F%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [习近平这样谈“增进民生福祉”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%99%E6%A0%B7%E8%B0%88%E2%80%9C%E5%A2%9E%E8%BF%9B%E6%B0%91%E7%94%9F%E7%A6%8F%E7%A5%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [新一轮汽车“以旧换新”政策落地](https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E8%BD%AE%E6%B1%BD%E8%BD%A6%E2%80%9C%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E2%80%9D%E6%94%BF%E7%AD%96%E8%90%BD%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [台媒称大陆渔船在金门外海翻覆](https://www.baidu.com/s?wd=%E5%8F%B0%E5%AA%92%E7%A7%B0%E5%A4%A7%E9%99%86%E6%B8%94%E8%88%B9%E5%9C%A8%E9%87%91%E9%97%A8%E5%A4%96%E6%B5%B7%E7%BF%BB%E8%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [免签朋友圈今起再添6国](https://www.baidu.com/s?wd=%E5%85%8D%E7%AD%BE%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BB%8A%E8%B5%B7%E5%86%8D%E6%B7%BB6%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [用丰富“花活”留住更多游客](https://www.baidu.com/s?wd=%E7%94%A8%E4%B8%B0%E5%AF%8C%E2%80%9C%E8%8A%B1%E6%B4%BB%E2%80%9D%E7%95%99%E4%BD%8F%E6%9B%B4%E5%A4%9A%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [河北三河通报“记者燕郊采访遇阻”](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%89%E6%B2%B3%E9%80%9A%E6%8A%A5%E2%80%9C%E8%AE%B0%E8%80%85%E7%87%95%E9%83%8A%E9%87%87%E8%AE%BF%E9%81%87%E9%98%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [总理考察自动驾驶](https://www.baidu.com/s?wd=%E6%80%BB%E7%90%86%E8%80%83%E5%AF%9F%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
