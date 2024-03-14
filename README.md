@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 10:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 10:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [清华大学教授称大学越来越像工厂](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E7%A7%B0%E5%A4%A7%E5%AD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E5%B7%A5%E5%8E%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [巴勒斯坦男孩放烟花遭枪击身亡](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%94%B7%E5%AD%A9%E6%94%BE%E7%83%9F%E8%8A%B1%E9%81%AD%E6%9E%AA%E5%87%BB%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [孙俪长发](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%E9%95%BF%E5%8F%91&t=31&band_rank=8&Refer=top)<br />
-9. [喝咖啡建议一天别超过1200毫升](https://s.weibo.com/weibo?q=%23%E5%96%9D%E5%92%96%E5%95%A1%E5%BB%BA%E8%AE%AE%E4%B8%80%E5%A4%A9%E5%88%AB%E8%B6%85%E8%BF%871200%E6%AF%AB%E5%8D%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [Prada品牌大使檀健次](https://s.weibo.com/weibo?q=Prada%E5%93%81%E7%89%8C%E5%A4%A7%E4%BD%BF%E6%AA%80%E5%81%A5%E6%AC%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
