@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 10:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 10:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [喝咖啡建议一天别超过1200毫升](https://s.weibo.com/weibo?q=%23%E5%96%9D%E5%92%96%E5%95%A1%E5%BB%BA%E8%AE%AE%E4%B8%80%E5%A4%A9%E5%88%AB%E8%B6%85%E8%BF%871200%E6%AF%AB%E5%8D%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙俪长发](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%E9%95%BF%E5%8F%91&t=31&band_rank=7&Refer=top)<br />
 8. [河北三河通报央视记者燕郊采访遇阻](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E4%B8%89%E6%B2%B3%E9%80%9A%E6%8A%A5%E5%A4%AE%E8%A7%86%E8%AE%B0%E8%80%85%E7%87%95%E9%83%8A%E9%87%87%E8%AE%BF%E9%81%87%E9%98%BB%23&t=31&band_rank=8&Refer=top)<br />
-9. [删了吧我有个朋友破防了](https://s.weibo.com/weibo?q=%23%E5%88%A0%E4%BA%86%E5%90%A7%E6%88%91%E6%9C%89%E4%B8%AA%E6%9C%8B%E5%8F%8B%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [台媒称大陆渔船在金门外海翻覆](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E7%A7%B0%E5%A4%A7%E9%99%86%E6%B8%94%E8%88%B9%E5%9C%A8%E9%87%91%E9%97%A8%E5%A4%96%E6%B5%B7%E7%BF%BB%E8%A6%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
