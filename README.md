@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 12:36:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 12:37:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [宠物医院高压氧舱事故受伤女子去世](https://s.weibo.com/weibo?q=%23%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2%E9%AB%98%E5%8E%8B%E6%B0%A7%E8%88%B1%E4%BA%8B%E6%95%85%E5%8F%97%E4%BC%A4%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [代孕黑市称优质卵子可售100万](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%AD%95%E9%BB%91%E5%B8%82%E7%A7%B0%E4%BC%98%E8%B4%A8%E5%8D%B5%E5%AD%90%E5%8F%AF%E5%94%AE100%E4%B8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [清华大学教授称大学越来越像工厂](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E7%A7%B0%E5%A4%A7%E5%AD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E5%B7%A5%E5%8E%82%23&t=31&band_rank=6&Refer=top)<br />
-7. [警方回应男孩遭3名同学杀害并掩埋](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A9%E9%81%AD3%E5%90%8D%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E5%B9%B6%E6%8E%A9%E5%9F%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [天水麻辣烫](https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&t=31&band_rank=8&Refer=top)<br />
+7. [天水麻辣烫](https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&t=31&band_rank=7&Refer=top)<br />
+8. [警方回应男孩遭3名同学杀害并掩埋](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A9%E9%81%AD3%E5%90%8D%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E5%B9%B6%E6%8E%A9%E5%9F%8B%23&t=31&band_rank=8&Refer=top)<br />
 9. [和府捞面被曝含预制菜](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%BA%9C%E6%8D%9E%E9%9D%A2%E8%A2%AB%E6%9B%9D%E5%90%AB%E9%A2%84%E5%88%B6%E8%8F%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
