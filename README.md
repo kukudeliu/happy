@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 16:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 16:21:02</h4></div>
 
 > 微博  
 
-1. [李佳琦董宇辉等17名主播被点名](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%91%A3%E5%AE%87%E8%BE%89%E7%AD%8917%E5%90%8D%E4%B8%BB%E6%92%AD%E8%A2%AB%E7%82%B9%E5%90%8D%23&t=31&band_rank=1&Refer=top)<br />
-2. [杨幂全球高定首穿](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%85%A8%E7%90%83%E9%AB%98%E5%AE%9A%E9%A6%96%E7%A9%BF%23&t=31&band_rank=2&Refer=top)<br />
+1. [杨幂全球高定首穿](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%85%A8%E7%90%83%E9%AB%98%E5%AE%9A%E9%A6%96%E7%A9%BF%23&t=31&band_rank=1&Refer=top)<br />
+2. [李佳琦董宇辉等17名主播被点名](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%91%A3%E5%AE%87%E8%BE%89%E7%AD%8917%E5%90%8D%E4%B8%BB%E6%92%AD%E8%A2%AB%E7%82%B9%E5%90%8D%23&t=31&band_rank=2&Refer=top)<br />
 3. [一起打卡春天里的中国](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E6%89%93%E5%8D%A1%E6%98%A5%E5%A4%A9%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [陪高三的女儿旷了一节晚自习](https://s.weibo.com/weibo?q=%E9%99%AA%E9%AB%98%E4%B8%89%E7%9A%84%E5%A5%B3%E5%84%BF%E6%97%B7%E4%BA%86%E4%B8%80%E8%8A%82%E6%99%9A%E8%87%AA%E4%B9%A0&t=31&band_rank=4&Refer=top)<br />
 5. [男子开车带妻子体检遇爆炸不幸身亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E5%B8%A6%E5%A6%BB%E5%AD%90%E4%BD%93%E6%A3%80%E9%81%87%E7%88%86%E7%82%B8%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
