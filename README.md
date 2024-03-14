@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 14:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 14:08:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [死者父亲称孩子生前长期被霸凌](https://s.weibo.com/weibo?q=%23%E6%AD%BB%E8%80%85%E7%88%B6%E4%BA%B2%E7%A7%B0%E5%AD%A9%E5%AD%90%E7%94%9F%E5%89%8D%E9%95%BF%E6%9C%9F%E8%A2%AB%E9%9C%B8%E5%87%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [宠物医院高压氧舱事故受伤女子去世](https://s.weibo.com/weibo?q=%23%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2%E9%AB%98%E5%8E%8B%E6%B0%A7%E8%88%B1%E4%BA%8B%E6%95%85%E5%8F%97%E4%BC%A4%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [朱梓骁的不耐烦不像演的](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%A2%93%E9%AA%81%E7%9A%84%E4%B8%8D%E8%80%90%E7%83%A6%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
-7. [梁靖崑vs张本智和](https://s.weibo.com/weibo?q=%E6%A2%81%E9%9D%96%E5%B4%91vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&t=31&band_rank=7&Refer=top)<br />
-8. [四川监狱评邯郸男孩遭同学杀害](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%9B%91%E7%8B%B1%E8%AF%84%E9%82%AF%E9%83%B8%E7%94%B7%E5%AD%A9%E9%81%AD%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%23&t=31&band_rank=8&Refer=top)<br />
-9. [邯郸遭3名同学杀害男孩家属发声](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E9%81%AD3%E5%90%8D%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E7%94%B7%E5%AD%A9%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
+7. [邯郸遭3名同学杀害男孩家属发声](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E9%81%AD3%E5%90%8D%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E7%94%B7%E5%AD%A9%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
+8. [梁靖崑vs张本智和](https://s.weibo.com/weibo?q=%E6%A2%81%E9%9D%96%E5%B4%91vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&t=31&band_rank=8&Refer=top)<br />
+9. [四川监狱评邯郸男孩遭同学杀害](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%9B%91%E7%8B%B1%E8%AF%84%E9%82%AF%E9%83%B8%E7%94%B7%E5%AD%A9%E9%81%AD%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
