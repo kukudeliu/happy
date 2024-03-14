@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 21:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 21:32:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [邯郸遇害男孩亲属称校长说死是意外](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E9%81%87%E5%AE%B3%E7%94%B7%E5%AD%A9%E4%BA%B2%E5%B1%9E%E7%A7%B0%E6%A0%A1%E9%95%BF%E8%AF%B4%E6%AD%BB%E6%98%AF%E6%84%8F%E5%A4%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [金子](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
 8. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=8&Refer=top)<br />
-9. [外卖黑勺是最脏的](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E9%BB%91%E5%8B%BA%E6%98%AF%E6%9C%80%E8%84%8F%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [马斯克SpaceX星舰第三次试飞](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%98%9F%E8%88%B0%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%AF%95%E9%A3%9E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
