@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 15:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 15:18:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [“发展是实现人民幸福的关键”](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%91%E5%B1%95%E6%98%AF%E5%AE%9E%E7%8E%B0%E4%BA%BA%E6%B0%91%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%85%B3%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [遭3名同学杀害掩埋男孩父亲发声](https://www.baidu.com/s?wd=%E9%81%AD3%E5%90%8D%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E6%8E%A9%E5%9F%8B%E7%94%B7%E5%AD%A9%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [高校放7天春假鼓励学生赏花恋爱](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%94%BE7%E5%A4%A9%E6%98%A5%E5%81%87%E9%BC%93%E5%8A%B1%E5%AD%A6%E7%94%9F%E8%B5%8F%E8%8A%B1%E6%81%8B%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [辽宁营口一物流公司仓库发生火灾](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E4%B8%80%E7%89%A9%E6%B5%81%E5%85%AC%E5%8F%B8%E4%BB%93%E5%BA%93%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [真抓实干 预期目标“行则将至”](https://www.baidu.com/s?wd=%E7%9C%9F%E6%8A%93%E5%AE%9E%E5%B9%B2+%E9%A2%84%E6%9C%9F%E7%9B%AE%E6%A0%87%E2%80%9C%E8%A1%8C%E5%88%99%E5%B0%86%E8%87%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [院士称全球芯片产业格局即将重构](https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%E7%A7%B0%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E4%BA%A7%E4%B8%9A%E6%A0%BC%E5%B1%80%E5%8D%B3%E5%B0%86%E9%87%8D%E6%9E%84&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [“发展是实现人民幸福的关键”](https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%91%E5%B1%95%E6%98%AF%E5%AE%9E%E7%8E%B0%E4%BA%BA%E6%B0%91%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%85%B3%E9%94%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [遭3名同学杀害掩埋男孩父亲发声](https://www.baidu.com/s?wd=%E9%81%AD3%E5%90%8D%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E6%8E%A9%E5%9F%8B%E7%94%B7%E5%AD%A9%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [高校放7天春假鼓励学生赏花恋爱](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%94%BE7%E5%A4%A9%E6%98%A5%E5%81%87%E9%BC%93%E5%8A%B1%E5%AD%A6%E7%94%9F%E8%B5%8F%E8%8A%B1%E6%81%8B%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [辽宁营口一物流公司仓库发生火灾](https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E4%B8%80%E7%89%A9%E6%B5%81%E5%85%AC%E5%8F%B8%E4%BB%93%E5%BA%93%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [真抓实干 预期目标“行则将至”](https://www.baidu.com/s?wd=%E7%9C%9F%E6%8A%93%E5%AE%9E%E5%B9%B2+%E9%A2%84%E6%9C%9F%E7%9B%AE%E6%A0%87%E2%80%9C%E8%A1%8C%E5%88%99%E5%B0%86%E8%87%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [院士称全球芯片产业格局即将重构](https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%E7%A7%B0%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E4%BA%A7%E4%B8%9A%E6%A0%BC%E5%B1%80%E5%8D%B3%E5%B0%86%E9%87%8D%E6%9E%84&sa=fyb_news&rsv_dl=fyb_news)<br />
