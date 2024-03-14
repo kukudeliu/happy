@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 21:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 21:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [我自愿签订出门在外互帮父母条约](https://www.baidu.com/s?wd=%E6%88%91%E8%87%AA%E6%84%BF%E7%AD%BE%E8%AE%A2%E5%87%BA%E9%97%A8%E5%9C%A8%E5%A4%96%E4%BA%92%E5%B8%AE%E7%88%B6%E6%AF%8D%E6%9D%A1%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [河北省委：支持保障记者正当采访](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%9C%81%E5%A7%94%EF%BC%9A%E6%94%AF%E6%8C%81%E4%BF%9D%E9%9A%9C%E8%AE%B0%E8%80%85%E6%AD%A3%E5%BD%93%E9%87%87%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [二代闻臭师年收入50万](https://www.baidu.com/s?wd=%E4%BA%8C%E4%BB%A3%E9%97%BB%E8%87%AD%E5%B8%88%E5%B9%B4%E6%94%B6%E5%85%A550%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [甘肃天水搜索热度上涨186%](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%B4%E6%90%9C%E7%B4%A2%E7%83%AD%E5%BA%A6%E4%B8%8A%E6%B6%A8186%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育部曾明确叫停在家上学](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E6%9B%BE%E6%98%8E%E7%A1%AE%E5%8F%AB%E5%81%9C%E5%9C%A8%E5%AE%B6%E4%B8%8A%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青海因洪水致数十人死亡系谣言](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%9B%A0%E6%B4%AA%E6%B0%B4%E8%87%B4%E6%95%B0%E5%8D%81%E4%BA%BA%E6%AD%BB%E4%BA%A1%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [我自愿签订出门在外互帮父母条约](https://www.baidu.com/s?wd=%E6%88%91%E8%87%AA%E6%84%BF%E7%AD%BE%E8%AE%A2%E5%87%BA%E9%97%A8%E5%9C%A8%E5%A4%96%E4%BA%92%E5%B8%AE%E7%88%B6%E6%AF%8D%E6%9D%A1%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [河北省委：支持保障记者正当采访](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%9C%81%E5%A7%94%EF%BC%9A%E6%94%AF%E6%8C%81%E4%BF%9D%E9%9A%9C%E8%AE%B0%E8%80%85%E6%AD%A3%E5%BD%93%E9%87%87%E8%AE%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [二代闻臭师年收入50万](https://www.baidu.com/s?wd=%E4%BA%8C%E4%BB%A3%E9%97%BB%E8%87%AD%E5%B8%88%E5%B9%B4%E6%94%B6%E5%85%A550%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [甘肃天水搜索热度上涨186%](https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%B4%E6%90%9C%E7%B4%A2%E7%83%AD%E5%BA%A6%E4%B8%8A%E6%B6%A8186%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育部曾明确叫停在家上学](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E6%9B%BE%E6%98%8E%E7%A1%AE%E5%8F%AB%E5%81%9C%E5%9C%A8%E5%AE%B6%E4%B8%8A%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青海因洪水致数十人死亡系谣言](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%9B%A0%E6%B4%AA%E6%B0%B4%E8%87%B4%E6%95%B0%E5%8D%81%E4%BA%BA%E6%AD%BB%E4%BA%A1%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
