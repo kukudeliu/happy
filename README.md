@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 08:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 08:41:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [用丰富“花活”留住更多游客](https://www.baidu.com/s?wd=%E7%94%A8%E4%B8%B0%E5%AF%8C%E2%80%9C%E8%8A%B1%E6%B4%BB%E2%80%9D%E7%95%99%E4%BD%8F%E6%9B%B4%E5%A4%9A%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [初中生遭3名同学杀害掩埋 家属发声](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E9%81%AD3%E5%90%8D%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E6%8E%A9%E5%9F%8B+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [总理考察自动驾驶](https://www.baidu.com/s?wd=%E6%80%BB%E7%90%86%E8%80%83%E5%AF%9F%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [实探钟薛高上海总部：只剩零星几人](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8E%A2%E9%92%9F%E8%96%9B%E9%AB%98%E4%B8%8A%E6%B5%B7%E6%80%BB%E9%83%A8%EF%BC%9A%E5%8F%AA%E5%89%A9%E9%9B%B6%E6%98%9F%E5%87%A0%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央视315晚会节目单公布](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86315%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [央视315晚会节目单公布](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86315%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [辛巴称计划暂停带货去学习AI](https://www.baidu.com/s?wd=%E8%BE%9B%E5%B7%B4%E7%A7%B0%E8%AE%A1%E5%88%92%E6%9A%82%E5%81%9C%E5%B8%A6%E8%B4%A7%E5%8E%BB%E5%AD%A6%E4%B9%A0AI&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贵阳有人贩子拐卖儿童？假的](https://www.baidu.com/s?wd=%E8%B4%B5%E9%98%B3%E6%9C%89%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E5%8D%96%E5%84%BF%E7%AB%A5%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [用丰富“花活”留住更多游客](https://www.baidu.com/s?wd=%E7%94%A8%E4%B8%B0%E5%AF%8C%E2%80%9C%E8%8A%B1%E6%B4%BB%E2%80%9D%E7%95%99%E4%BD%8F%E6%9B%B4%E5%A4%9A%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [初中生遭3名同学杀害掩埋 家属发声](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E9%81%AD3%E5%90%8D%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E6%8E%A9%E5%9F%8B+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [总理考察自动驾驶](https://www.baidu.com/s?wd=%E6%80%BB%E7%90%86%E8%80%83%E5%AF%9F%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [实探钟薛高上海总部：只剩零星几人](https://www.baidu.com/s?wd=%E5%AE%9E%E6%8E%A2%E9%92%9F%E8%96%9B%E9%AB%98%E4%B8%8A%E6%B5%B7%E6%80%BB%E9%83%A8%EF%BC%9A%E5%8F%AA%E5%89%A9%E9%9B%B6%E6%98%9F%E5%87%A0%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [央视315晚会节目单公布](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86315%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [央视315晚会节目单公布](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86315%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [辛巴称计划暂停带货去学习AI](https://www.baidu.com/s?wd=%E8%BE%9B%E5%B7%B4%E7%A7%B0%E8%AE%A1%E5%88%92%E6%9A%82%E5%81%9C%E5%B8%A6%E8%B4%A7%E5%8E%BB%E5%AD%A6%E4%B9%A0AI&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贵阳有人贩子拐卖儿童？假的](https://www.baidu.com/s?wd=%E8%B4%B5%E9%98%B3%E6%9C%89%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E5%8D%96%E5%84%BF%E7%AB%A5%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
