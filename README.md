@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 07:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 07:55:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [俄罗斯总统选举投票正式开始](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [3名初中生杀害同学会被追究刑责吗？](https://www.baidu.com/s?wd=3%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E6%9D%80%E5%AE%B3%E5%90%8C%E5%AD%A6%E4%BC%9A%E8%A2%AB%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京市新冠病毒正处于流行期](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%AD%A3%E5%A4%84%E4%BA%8E%E6%B5%81%E8%A1%8C%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学生食堂内做不雅动作？校方通报](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A3%9F%E5%A0%82%E5%86%85%E5%81%9A%E4%B8%8D%E9%9B%85%E5%8A%A8%E4%BD%9C%EF%BC%9F%E6%A0%A1%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [二代闻臭师年收入50万](https://www.baidu.com/s?wd=%E4%BA%8C%E4%BB%A3%E9%97%BB%E8%87%AD%E5%B8%88%E5%B9%B4%E6%94%B6%E5%85%A550%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青海因洪水致数十人死亡系谣言](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%9B%A0%E6%B4%AA%E6%B0%B4%E8%87%B4%E6%95%B0%E5%8D%81%E4%BA%BA%E6%AD%BB%E4%BA%A1%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [俄罗斯总统选举投票正式开始](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [3名初中生杀害同学会被追究刑责吗？](https://www.baidu.com/s?wd=3%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E6%9D%80%E5%AE%B3%E5%90%8C%E5%AD%A6%E4%BC%9A%E8%A2%AB%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [北京市新冠病毒正处于流行期](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%AD%A3%E5%A4%84%E4%BA%8E%E6%B5%81%E8%A1%8C%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [学生食堂内做不雅动作？校方通报](https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E9%A3%9F%E5%A0%82%E5%86%85%E5%81%9A%E4%B8%8D%E9%9B%85%E5%8A%A8%E4%BD%9C%EF%BC%9F%E6%A0%A1%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [二代闻臭师年收入50万](https://www.baidu.com/s?wd=%E4%BA%8C%E4%BB%A3%E9%97%BB%E8%87%AD%E5%B8%88%E5%B9%B4%E6%94%B6%E5%85%A550%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青海因洪水致数十人死亡系谣言](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%9B%A0%E6%B4%AA%E6%B0%B4%E8%87%B4%E6%95%B0%E5%8D%81%E4%BA%BA%E6%AD%BB%E4%BA%A1%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
