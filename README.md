@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 22:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 22:54:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [意大利对TikTok罚款1000万欧元](https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E5%AF%B9TikTok%E7%BD%9A%E6%AC%BE1000%E4%B8%87%E6%AC%A7%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [马斯克SpaceX星舰第三次试飞](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%98%9F%E8%88%B0%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%AF%95%E9%A3%9E%23&t=31&band_rank=7&Refer=top)<br />
 8. [教育部曾明确叫停在家上学](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%9B%BE%E6%98%8E%E7%A1%AE%E5%8F%AB%E5%81%9C%E5%9C%A8%E5%AE%B6%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [混双](https://s.weibo.com/weibo?q=%E6%B7%B7%E5%8F%8C&t=31&band_rank=9&Refer=top)<br />
+9. [SpaceX星舰第三次试飞提前结束](https://s.weibo.com/weibo?q=%23SpaceX%E6%98%9F%E8%88%B0%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%AF%95%E9%A3%9E%E6%8F%90%E5%89%8D%E7%BB%93%E6%9D%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
