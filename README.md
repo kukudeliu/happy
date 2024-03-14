@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 19:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 19:46:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [关键年看各地如何抓实干](https://s.weibo.com/weibo?q=%23%E5%85%B3%E9%94%AE%E5%B9%B4%E7%9C%8B%E5%90%84%E5%9C%B0%E5%A6%82%E4%BD%95%E6%8A%93%E5%AE%9E%E5%B9%B2%23&t=31&band_rank=3&Refer=top)<br />
 4. [教育部曾明确叫停在家上学](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%9B%BE%E6%98%8E%E7%A1%AE%E5%8F%AB%E5%81%9C%E5%9C%A8%E5%AE%B6%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨幂全球高定首穿](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%85%A8%E7%90%83%E9%AB%98%E5%AE%9A%E9%A6%96%E7%A9%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [第五人格富江](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%AF%8C%E6%B1%9F&t=31&band_rank=6&Refer=top)<br />
-7. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=7&Refer=top)<br />
-8. [25岁规培女医生刎颈自杀](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E8%A7%84%E5%9F%B9%E5%A5%B3%E5%8C%BB%E7%94%9F%E5%88%8E%E9%A2%88%E8%87%AA%E6%9D%80%23&t=31&band_rank=8&Refer=top)<br />
+6. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=6&Refer=top)<br />
+7. [第五人格富江](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%AF%8C%E6%B1%9F&t=31&band_rank=7&Refer=top)<br />
+8. [林俊杰演出中场进行雾化治疗](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%87%BA%E4%B8%AD%E5%9C%BA%E8%BF%9B%E8%A1%8C%E9%9B%BE%E5%8C%96%E6%B2%BB%E7%96%97&t=31&band_rank=8&Refer=top)<br />
 9. [汉服女医生一招救人又美又飒](https://s.weibo.com/weibo?q=%23%E6%B1%89%E6%9C%8D%E5%A5%B3%E5%8C%BB%E7%94%9F%E4%B8%80%E6%8B%9B%E6%95%91%E4%BA%BA%E5%8F%88%E7%BE%8E%E5%8F%88%E9%A3%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
