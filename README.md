@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 18:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 18:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [燕郊爆炸系输送中的管道泄漏导致](https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%B3%BB%E8%BE%93%E9%80%81%E4%B8%AD%E7%9A%84%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E5%AF%BC%E8%87%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [陪高三的女儿旷了一节晚自习](https://s.weibo.com/weibo?q=%E9%99%AA%E9%AB%98%E4%B8%89%E7%9A%84%E5%A5%B3%E5%84%BF%E6%97%B7%E4%BA%86%E4%B8%80%E8%8A%82%E6%99%9A%E8%87%AA%E4%B9%A0&t=31&band_rank=7&Refer=top)<br />
 8. [陈建斌又一次爱上了蒋勤勤](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E5%8F%88%E4%B8%80%E6%AC%A1%E7%88%B1%E4%B8%8A%E4%BA%86%E8%92%8B%E5%8B%A4%E5%8B%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [姥姥倒车撞墙6岁外孙哭喊奔跑](https://s.weibo.com/weibo?q=%23%E5%A7%A5%E5%A7%A5%E5%80%92%E8%BD%A6%E6%92%9E%E5%A2%996%E5%B2%81%E5%A4%96%E5%AD%99%E5%93%AD%E5%96%8A%E5%A5%94%E8%B7%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [汉服女医生一招救人又美又飒](https://s.weibo.com/weibo?q=%23%E6%B1%89%E6%9C%8D%E5%A5%B3%E5%8C%BB%E7%94%9F%E4%B8%80%E6%8B%9B%E6%95%91%E4%BA%BA%E5%8F%88%E7%BE%8E%E5%8F%88%E9%A3%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
