@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 10:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 10:26:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [台媒称大陆渔船在金门外海翻覆](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E7%A7%B0%E5%A4%A7%E9%99%86%E6%B8%94%E8%88%B9%E5%9C%A8%E9%87%91%E9%97%A8%E5%A4%96%E6%B5%B7%E7%BF%BB%E8%A6%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [巴勒斯坦男孩放烟花遭枪击身亡](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%94%B7%E5%AD%A9%E6%94%BE%E7%83%9F%E8%8A%B1%E9%81%AD%E6%9E%AA%E5%87%BB%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [喝咖啡建议一天别超过1200毫升](https://s.weibo.com/weibo?q=%23%E5%96%9D%E5%92%96%E5%95%A1%E5%BB%BA%E8%AE%AE%E4%B8%80%E5%A4%A9%E5%88%AB%E8%B6%85%E8%BF%871200%E6%AF%AB%E5%8D%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [孙俪长发](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%E9%95%BF%E5%8F%91&t=31&band_rank=8&Refer=top)<br />
-9. [婚礼后男方拒领证要回5万多彩礼](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E5%90%8E%E7%94%B7%E6%96%B9%E6%8B%92%E9%A2%86%E8%AF%81%E8%A6%81%E5%9B%9E5%E4%B8%87%E5%A4%9A%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=9&Refer=top)<br />
+8. [婚礼后男方拒领证要回5万多彩礼](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E5%90%8E%E7%94%B7%E6%96%B9%E6%8B%92%E9%A2%86%E8%AF%81%E8%A6%81%E5%9B%9E5%E4%B8%87%E5%A4%9A%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=8&Refer=top)<br />
+9. [孙俪长发](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%E9%95%BF%E5%8F%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
