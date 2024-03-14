@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 17:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 17:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [贾乃亮直播带货虚假宣传舆情相对突出](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E8%99%9A%E5%81%87%E5%AE%A3%E4%BC%A0%E8%88%86%E6%83%85%E7%9B%B8%E5%AF%B9%E7%AA%81%E5%87%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [李佳琦董宇辉等17名主播被点名](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%91%A3%E5%AE%87%E8%BE%89%E7%AD%8917%E5%90%8D%E4%B8%BB%E6%92%AD%E8%A2%AB%E7%82%B9%E5%90%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=8&Refer=top)<br />
-9. [考研成了年轻人的中药](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%88%90%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E4%B8%AD%E8%8D%AF%23&t=31&band_rank=9&Refer=top)<br />
+9. [宿迁学院通报学生不雅视频](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%BF%81%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
