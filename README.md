@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 08:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 08:27:02</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [习近平这样谈“增进民生福祉”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%99%E6%A0%B7%E8%B0%88%E2%80%9C%E5%A2%9E%E8%BF%9B%E6%B0%91%E7%94%9F%E7%A6%8F%E7%A5%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [阿姨卖夹饼90度敞开往里塞肉](https://www.baidu.com/s?wd=%E9%98%BF%E5%A7%A8%E5%8D%96%E5%A4%B9%E9%A5%BC90%E5%BA%A6%E6%95%9E%E5%BC%80%E5%BE%80%E9%87%8C%E5%A1%9E%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [央视315晚会节目单公布](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86315%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [河北三河通报“记者燕郊采访遇阻”](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%89%E6%B2%B3%E9%80%9A%E6%8A%A5%E2%80%9C%E8%AE%B0%E8%80%85%E7%87%95%E9%83%8A%E9%87%87%E8%AE%BF%E9%81%87%E9%98%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [用丰富“花活”留住更多游客](https://www.baidu.com/s?wd=%E7%94%A8%E4%B8%B0%E5%AF%8C%E2%80%9C%E8%8A%B1%E6%B4%BB%E2%80%9D%E7%95%99%E4%BD%8F%E6%9B%B4%E5%A4%9A%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [英国邮政丑闻受害者获赔60万英镑](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%82%AE%E6%94%BF%E4%B8%91%E9%97%BB%E5%8F%97%E5%AE%B3%E8%80%85%E8%8E%B7%E8%B5%9460%E4%B8%87%E8%8B%B1%E9%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [初中生遭3名同学杀害掩埋 家属发声](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E9%81%AD3%E5%90%8D%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E6%8E%A9%E5%9F%8B+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [总理考察自动驾驶](https://www.baidu.com/s?wd=%E6%80%BB%E7%90%86%E8%80%83%E5%AF%9F%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拼多多回应多家店铺销售假五粮液](https://www.baidu.com/s?wd=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%AE%B6%E5%BA%97%E9%93%BA%E9%94%80%E5%94%AE%E5%81%87%E4%BA%94%E7%B2%AE%E6%B6%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子刚买完车就降价1.7万元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%9A%E4%B9%B0%E5%AE%8C%E8%BD%A6%E5%B0%B1%E9%99%8D%E4%BB%B71.7%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [央视315晚会节目单公布](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86315%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [书亦烧仙草被点名饮品已改名](https://www.baidu.com/s?wd=%E4%B9%A6%E4%BA%A6%E7%83%A7%E4%BB%99%E8%8D%89%E8%A2%AB%E7%82%B9%E5%90%8D%E9%A5%AE%E5%93%81%E5%B7%B2%E6%94%B9%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贵阳有人贩子拐卖儿童？假的](https://www.baidu.com/s?wd=%E8%B4%B5%E9%98%B3%E6%9C%89%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E5%8D%96%E5%84%BF%E7%AB%A5%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [习近平这样谈“增进民生福祉”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%99%E6%A0%B7%E8%B0%88%E2%80%9C%E5%A2%9E%E8%BF%9B%E6%B0%91%E7%94%9F%E7%A6%8F%E7%A5%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [阿姨卖夹饼90度敞开往里塞肉](https://www.baidu.com/s?wd=%E9%98%BF%E5%A7%A8%E5%8D%96%E5%A4%B9%E9%A5%BC90%E5%BA%A6%E6%95%9E%E5%BC%80%E5%BE%80%E9%87%8C%E5%A1%9E%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [央视315晚会节目单公布](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86315%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [河北三河通报“记者燕郊采访遇阻”](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%89%E6%B2%B3%E9%80%9A%E6%8A%A5%E2%80%9C%E8%AE%B0%E8%80%85%E7%87%95%E9%83%8A%E9%87%87%E8%AE%BF%E9%81%87%E9%98%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [用丰富“花活”留住更多游客](https://www.baidu.com/s?wd=%E7%94%A8%E4%B8%B0%E5%AF%8C%E2%80%9C%E8%8A%B1%E6%B4%BB%E2%80%9D%E7%95%99%E4%BD%8F%E6%9B%B4%E5%A4%9A%E6%B8%B8%E5%AE%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [英国邮政丑闻受害者获赔60万英镑](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%82%AE%E6%94%BF%E4%B8%91%E9%97%BB%E5%8F%97%E5%AE%B3%E8%80%85%E8%8E%B7%E8%B5%9460%E4%B8%87%E8%8B%B1%E9%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [初中生遭3名同学杀害掩埋 家属发声](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E9%81%AD3%E5%90%8D%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E6%8E%A9%E5%9F%8B+%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [总理考察自动驾驶](https://www.baidu.com/s?wd=%E6%80%BB%E7%90%86%E8%80%83%E5%AF%9F%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [拼多多回应多家店铺销售假五粮液](https://www.baidu.com/s?wd=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%AE%B6%E5%BA%97%E9%93%BA%E9%94%80%E5%94%AE%E5%81%87%E4%BA%94%E7%B2%AE%E6%B6%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子刚买完车就降价1.7万元](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%9A%E4%B9%B0%E5%AE%8C%E8%BD%A6%E5%B0%B1%E9%99%8D%E4%BB%B71.7%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [央视315晚会节目单公布](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86315%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [书亦烧仙草被点名饮品已改名](https://www.baidu.com/s?wd=%E4%B9%A6%E4%BA%A6%E7%83%A7%E4%BB%99%E8%8D%89%E8%A2%AB%E7%82%B9%E5%90%8D%E9%A5%AE%E5%93%81%E5%B7%B2%E6%94%B9%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [贵阳有人贩子拐卖儿童？假的](https://www.baidu.com/s?wd=%E8%B4%B5%E9%98%B3%E6%9C%89%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E5%8D%96%E5%84%BF%E7%AB%A5%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
