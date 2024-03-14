@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 21:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 21:57:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [五哈4官宣了哈](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%884%E5%AE%98%E5%AE%A3%E4%BA%86%E5%93%88%23&t=31&band_rank=4&Refer=top)<br />
 5. [教育部曾明确叫停在家上学](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%9B%BE%E6%98%8E%E7%A1%AE%E5%8F%AB%E5%81%9C%E5%9C%A8%E5%AE%B6%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [本科毕业的同学去超市做收银员](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E7%9A%84%E5%90%8C%E5%AD%A6%E5%8E%BB%E8%B6%85%E5%B8%82%E5%81%9A%E6%94%B6%E9%93%B6%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
-7. [陈思诚 我的电影也不用都看](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%20%E6%88%91%E7%9A%84%E7%94%B5%E5%BD%B1%E4%B9%9F%E4%B8%8D%E7%94%A8%E9%83%BD%E7%9C%8B&t=31&band_rank=7&Refer=top)<br />
-8. [小狗去世后把它弟弟接回了家](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%8E%BB%E4%B8%96%E5%90%8E%E6%8A%8A%E5%AE%83%E5%BC%9F%E5%BC%9F%E6%8E%A5%E5%9B%9E%E4%BA%86%E5%AE%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [SpaceX星舰一二级火箭成功分离](https://s.weibo.com/weibo?q=%23SpaceX%E6%98%9F%E8%88%B0%E4%B8%80%E4%BA%8C%E7%BA%A7%E7%81%AB%E7%AE%AD%E6%88%90%E5%8A%9F%E5%88%86%E7%A6%BB%23&t=31&band_rank=9&Refer=top)<br />
+7. [SpaceX星舰一二级火箭成功分离](https://s.weibo.com/weibo?q=%23SpaceX%E6%98%9F%E8%88%B0%E4%B8%80%E4%BA%8C%E7%BA%A7%E7%81%AB%E7%AE%AD%E6%88%90%E5%8A%9F%E5%88%86%E7%A6%BB%23&t=31&band_rank=7&Refer=top)<br />
+8. [陈思诚 我的电影也不用都看](https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%20%E6%88%91%E7%9A%84%E7%94%B5%E5%BD%B1%E4%B9%9F%E4%B8%8D%E7%94%A8%E9%83%BD%E7%9C%8B&t=31&band_rank=8&Refer=top)<br />
+9. [小狗去世后把它弟弟接回了家](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%8E%BB%E4%B8%96%E5%90%8E%E6%8A%8A%E5%AE%83%E5%BC%9F%E5%BC%9F%E6%8E%A5%E5%9B%9E%E4%BA%86%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
