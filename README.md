@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 13:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 13:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [代孕黑市称优质卵子可售100万](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%AD%95%E9%BB%91%E5%B8%82%E7%A7%B0%E4%BC%98%E8%B4%A8%E5%8D%B5%E5%AD%90%E5%8F%AF%E5%94%AE100%E4%B8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [ChatGPT有身体了](https://s.weibo.com/weibo?q=%23ChatGPT%E6%9C%89%E8%BA%AB%E4%BD%93%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [清华大学教授称大学越来越像工厂](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E7%A7%B0%E5%A4%A7%E5%AD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E5%B7%A5%E5%8E%82%23&t=31&band_rank=8&Refer=top)<br />
-9. [天水麻辣烫](https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&t=31&band_rank=9&Refer=top)<br />
+9. [刘亦菲17岁跑步旧照](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B217%E5%B2%81%E8%B7%91%E6%AD%A5%E6%97%A7%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
