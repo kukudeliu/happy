@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 14:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 14:06:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [死者父亲称孩子生前长期被霸凌](https://s.weibo.com/weibo?q=%23%E6%AD%BB%E8%80%85%E7%88%B6%E4%BA%B2%E7%A7%B0%E5%AD%A9%E5%AD%90%E7%94%9F%E5%89%8D%E9%95%BF%E6%9C%9F%E8%A2%AB%E9%9C%B8%E5%87%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [朱梓骁的不耐烦不像演的](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%A2%93%E9%AA%81%E7%9A%84%E4%B8%8D%E8%80%90%E7%83%A6%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [四川监狱评邯郸男孩遭同学杀害](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%9B%91%E7%8B%B1%E8%AF%84%E9%82%AF%E9%83%B8%E7%94%B7%E5%AD%A9%E9%81%AD%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [请回答1988珍珠13岁近照](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%9B%9E%E7%AD%941988%E7%8F%8D%E7%8F%A013%E5%B2%81%E8%BF%91%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [梁靖崑vs张本智和](https://s.weibo.com/weibo?q=%E6%A2%81%E9%9D%96%E5%B4%91vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&t=31&band_rank=9&Refer=top)<br />
+8. [梁靖崑vs张本智和](https://s.weibo.com/weibo?q=%E6%A2%81%E9%9D%96%E5%B4%91vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&t=31&band_rank=8&Refer=top)<br />
+9. [请回答1988珍珠13岁近照](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%9B%9E%E7%AD%941988%E7%8F%8D%E7%8F%A013%E5%B2%81%E8%BF%91%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,7 +23,7 @@
 4. [真抓实干 预期目标“行则将至”](https://www.baidu.com/s?wd=%E7%9C%9F%E6%8A%93%E5%AE%9E%E5%B9%B2+%E9%A2%84%E6%9C%9F%E7%9B%AE%E6%A0%87%E2%80%9C%E8%A1%8C%E5%88%99%E5%B0%86%E8%87%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [死者父亲称孩子生前长期被霸凌](https://www.baidu.com/s?wd=%E6%AD%BB%E8%80%85%E7%88%B6%E4%BA%B2%E7%A7%B0%E5%AD%A9%E5%AD%90%E7%94%9F%E5%89%8D%E9%95%BF%E6%9C%9F%E8%A2%AB%E9%9C%B8%E5%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [总理考察自动驾驶](https://www.baidu.com/s?wd=%E6%80%BB%E7%90%86%E8%80%83%E5%AF%9F%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [普京谈俄先锋高超音速导弹](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%B0%88%E4%BF%84%E5%85%88%E9%94%8B%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张雪峰谈大学越来越像工厂说法](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%B0%88%E5%A4%A7%E5%AD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E5%B7%A5%E5%8E%82%E8%AF%B4%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [春日创享家](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5%E5%88%9B%E4%BA%AB%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [丽水机场建成并首航系谣言](https://www.baidu.com/s?wd=%E4%B8%BD%E6%B0%B4%E6%9C%BA%E5%9C%BA%E5%BB%BA%E6%88%90%E5%B9%B6%E9%A6%96%E8%88%AA%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [真抓实干 预期目标“行则将至”](https://www.baidu.com/s?wd=%E7%9C%9F%E6%8A%93%E5%AE%9E%E5%B9%B2+%E9%A2%84%E6%9C%9F%E7%9B%AE%E6%A0%87%E2%80%9C%E8%A1%8C%E5%88%99%E5%B0%86%E8%87%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [死者父亲称孩子生前长期被霸凌](https://www.baidu.com/s?wd=%E6%AD%BB%E8%80%85%E7%88%B6%E4%BA%B2%E7%A7%B0%E5%AD%A9%E5%AD%90%E7%94%9F%E5%89%8D%E9%95%BF%E6%9C%9F%E8%A2%AB%E9%9C%B8%E5%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [总理考察自动驾驶](https://www.baidu.com/s?wd=%E6%80%BB%E7%90%86%E8%80%83%E5%AF%9F%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [普京谈俄先锋高超音速导弹](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%B0%88%E4%BF%84%E5%85%88%E9%94%8B%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张雪峰谈大学越来越像工厂说法](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%B0%88%E5%A4%A7%E5%AD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E5%B7%A5%E5%8E%82%E8%AF%B4%E6%B3%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [春日创享家](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5%E5%88%9B%E4%BA%AB%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [丽水机场建成并首航系谣言](https://www.baidu.com/s?wd=%E4%B8%BD%E6%B0%B4%E6%9C%BA%E5%9C%BA%E5%BB%BA%E6%88%90%E5%B9%B6%E9%A6%96%E8%88%AA%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
