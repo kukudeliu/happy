@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 18:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 18:45:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [遇害男孩埋尸地距凶手家不足百米](https://s.weibo.com/weibo?q=%23%E9%81%87%E5%AE%B3%E7%94%B7%E5%AD%A9%E5%9F%8B%E5%B0%B8%E5%9C%B0%E8%B7%9D%E5%87%B6%E6%89%8B%E5%AE%B6%E4%B8%8D%E8%B6%B3%E7%99%BE%E7%B1%B3%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨幂全球高定首穿](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%85%A8%E7%90%83%E9%AB%98%E5%AE%9A%E9%A6%96%E7%A9%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [外卖黑勺是最脏的](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E9%BB%91%E5%8B%BA%E6%98%AF%E6%9C%80%E8%84%8F%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
-7. [贾乃亮直播带货虚假宣传舆情相对突出](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E8%99%9A%E5%81%87%E5%AE%A3%E4%BC%A0%E8%88%86%E6%83%85%E7%9B%B8%E5%AF%B9%E7%AA%81%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=8&Refer=top)<br />
+7. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=7&Refer=top)<br />
+8. [贾乃亮直播带货虚假宣传舆情相对突出](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E8%99%9A%E5%81%87%E5%AE%A3%E4%BC%A0%E8%88%86%E6%83%85%E7%9B%B8%E5%AF%B9%E7%AA%81%E5%87%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [汉服女医生一招救人又美又飒](https://s.weibo.com/weibo?q=%23%E6%B1%89%E6%9C%8D%E5%A5%B3%E5%8C%BB%E7%94%9F%E4%B8%80%E6%8B%9B%E6%95%91%E4%BA%BA%E5%8F%88%E7%BE%8E%E5%8F%88%E9%A3%92%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
