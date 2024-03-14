@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 17:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 17:57:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [杨幂全球高定首穿](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%85%A8%E7%90%83%E9%AB%98%E5%AE%9A%E9%A6%96%E7%A9%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [陪高三的女儿旷了一节晚自习](https://s.weibo.com/weibo?q=%E9%99%AA%E9%AB%98%E4%B8%89%E7%9A%84%E5%A5%B3%E5%84%BF%E6%97%B7%E4%BA%86%E4%B8%80%E8%8A%82%E6%99%9A%E8%87%AA%E4%B9%A0&t=31&band_rank=6&Refer=top)<br />
 7. [陈建斌又一次爱上了蒋勤勤](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E5%8F%88%E4%B8%80%E6%AC%A1%E7%88%B1%E4%B8%8A%E4%BA%86%E8%92%8B%E5%8B%A4%E5%8B%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [男性感染高危HPV会引起口腔癌](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%80%A7%E6%84%9F%E6%9F%93%E9%AB%98%E5%8D%B1HPV%E4%BC%9A%E5%BC%95%E8%B5%B7%E5%8F%A3%E8%85%94%E7%99%8C%23&t=31&band_rank=8&Refer=top)<br />
+8. [考研成了年轻人的中药](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%88%90%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E4%B8%AD%E8%8D%AF%23&t=31&band_rank=8&Refer=top)<br />
 9. [姥姥倒车撞墙6岁外孙哭喊奔跑](https://s.weibo.com/weibo?q=%23%E5%A7%A5%E5%A7%A5%E5%80%92%E8%BD%A6%E6%92%9E%E5%A2%996%E5%B2%81%E5%A4%96%E5%AD%99%E5%93%AD%E5%96%8A%E5%A5%94%E8%B7%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
