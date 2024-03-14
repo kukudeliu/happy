@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 13:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 13:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [韩国一天内511名医学生申请休学](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%80%E5%A4%A9%E5%86%85511%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%94%B3%E8%AF%B7%E4%BC%91%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [张雪峰谈大学越来越像工厂说法](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%B0%88%E5%A4%A7%E5%AD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E5%B7%A5%E5%8E%82%E8%AF%B4%E6%B3%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [ChatGPT有身体了](https://s.weibo.com/weibo?q=%23ChatGPT%E6%9C%89%E8%BA%AB%E4%BD%93%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [代孕黑市称优质卵子可售100万](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%AD%95%E9%BB%91%E5%B8%82%E7%A7%B0%E4%BC%98%E8%B4%A8%E5%8D%B5%E5%AD%90%E5%8F%AF%E5%94%AE100%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [死者父亲称孩子生前长期被霸凌](https://s.weibo.com/weibo?q=%23%E6%AD%BB%E8%80%85%E7%88%B6%E4%BA%B2%E7%A7%B0%E5%AD%A9%E5%AD%90%E7%94%9F%E5%89%8D%E9%95%BF%E6%9C%9F%E8%A2%AB%E9%9C%B8%E5%87%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
