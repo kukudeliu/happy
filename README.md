@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 10:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-14 10:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [喝咖啡建议一天别超过1200毫升](https://s.weibo.com/weibo?q=%23%E5%96%9D%E5%92%96%E5%95%A1%E5%BB%BA%E8%AE%AE%E4%B8%80%E5%A4%A9%E5%88%AB%E8%B6%85%E8%BF%871200%E6%AF%AB%E5%8D%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [孙俪长发](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%E9%95%BF%E5%8F%91&t=31&band_rank=7&Refer=top)<br />
 8. [租房千万别租串串房](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E6%88%BF%E5%8D%83%E4%B8%87%E5%88%AB%E7%A7%9F%E4%B8%B2%E4%B8%B2%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [山竹](https://s.weibo.com/weibo?q=%E5%B1%B1%E7%AB%B9&t=31&band_rank=9&Refer=top)<br />
+9. [删了吧我有个朋友破防了](https://s.weibo.com/weibo?q=%23%E5%88%A0%E4%BA%86%E5%90%A7%E6%88%91%E6%9C%89%E4%B8%AA%E6%9C%8B%E5%8F%8B%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
