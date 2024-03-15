@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 11:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 11:57:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [打到臭车的概率越来越高了](https://s.weibo.com/weibo?q=%23%E6%89%93%E5%88%B0%E8%87%AD%E8%BD%A6%E7%9A%84%E6%A6%82%E7%8E%87%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%AB%98%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [戴眼镜会让视力变差是错误认知](https://s.weibo.com/weibo?q=%23%E6%88%B4%E7%9C%BC%E9%95%9C%E4%BC%9A%E8%AE%A9%E8%A7%86%E5%8A%9B%E5%8F%98%E5%B7%AE%E6%98%AF%E9%94%99%E8%AF%AF%E8%AE%A4%E7%9F%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [我们仨定档](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E4%BB%A8%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [巧克力可能要涨价了](https://s.weibo.com/weibo?q=%23%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%8F%AF%E8%83%BD%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [天津大巴车与公交相撞起火燃成空架](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%B7%B4%E8%BD%A6%E4%B8%8E%E5%85%AC%E4%BA%A4%E7%9B%B8%E6%92%9E%E8%B5%B7%E7%81%AB%E7%87%83%E6%88%90%E7%A9%BA%E6%9E%B6%23&t=31&band_rank=9&Refer=top)<br />
+8. [天津大巴车与公交相撞起火燃成空架](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%B7%B4%E8%BD%A6%E4%B8%8E%E5%85%AC%E4%BA%A4%E7%9B%B8%E6%92%9E%E8%B5%B7%E7%81%AB%E7%87%83%E6%88%90%E7%A9%BA%E6%9E%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [巧克力可能要涨价了](https://s.weibo.com/weibo?q=%23%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%8F%AF%E8%83%BD%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
