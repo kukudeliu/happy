@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 04:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 04:46:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [点亮人类文明美好图景](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E7%BE%8E%E5%A5%BD%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“它100%灭不了火，越灭火越大”](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%83100%25%E7%81%AD%E4%B8%8D%E4%BA%86%E7%81%AB%EF%BC%8C%E8%B6%8A%E7%81%AD%E7%81%AB%E8%B6%8A%E5%A4%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [外卖放好评返现卡系违法行为](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E6%94%BE%E5%A5%BD%E8%AF%84%E8%BF%94%E7%8E%B0%E5%8D%A1%E7%B3%BB%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [3.15卧底记者被反“教育”](https://www.baidu.com/s?wd=3.15%E5%8D%A7%E5%BA%95%E8%AE%B0%E8%80%85%E8%A2%AB%E5%8F%8D%E2%80%9C%E6%95%99%E8%82%B2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被315点名公司不到1分钟已封号](https://www.baidu.com/s?wd=%E8%A2%AB315%E7%82%B9%E5%90%8D%E5%85%AC%E5%8F%B8%E4%B8%8D%E5%88%B01%E5%88%86%E9%92%9F%E5%B7%B2%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [被315点名公司不到1分钟已封号](https://www.baidu.com/s?wd=%E8%A2%AB315%E7%82%B9%E5%90%8D%E5%85%AC%E5%8F%B8%E4%B8%8D%E5%88%B01%E5%88%86%E9%92%9F%E5%B7%B2%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [3.15卧底记者被反“教育”](https://www.baidu.com/s?wd=3.15%E5%8D%A7%E5%BA%95%E8%AE%B0%E8%80%85%E8%A2%AB%E5%8F%8D%E2%80%9C%E6%95%99%E8%82%B2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西消防辟谣组织中小学生观看直播](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E7%BB%84%E7%BB%87%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%82%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [点亮人类文明美好图景](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E7%BE%8E%E5%A5%BD%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“它100%灭不了火，越灭火越大”](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%83100%25%E7%81%AD%E4%B8%8D%E4%BA%86%E7%81%AB%EF%BC%8C%E8%B6%8A%E7%81%AD%E7%81%AB%E8%B6%8A%E5%A4%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [外卖放好评返现卡系违法行为](https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E6%94%BE%E5%A5%BD%E8%AF%84%E8%BF%94%E7%8E%B0%E5%8D%A1%E7%B3%BB%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [3.15卧底记者被反“教育”](https://www.baidu.com/s?wd=3.15%E5%8D%A7%E5%BA%95%E8%AE%B0%E8%80%85%E8%A2%AB%E5%8F%8D%E2%80%9C%E6%95%99%E8%82%B2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [被315点名公司不到1分钟已封号](https://www.baidu.com/s?wd=%E8%A2%AB315%E7%82%B9%E5%90%8D%E5%85%AC%E5%8F%B8%E4%B8%8D%E5%88%B01%E5%88%86%E9%92%9F%E5%B7%B2%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [被315点名公司不到1分钟已封号](https://www.baidu.com/s?wd=%E8%A2%AB315%E7%82%B9%E5%90%8D%E5%85%AC%E5%8F%B8%E4%B8%8D%E5%88%B01%E5%88%86%E9%92%9F%E5%B7%B2%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [3.15卧底记者被反“教育”](https://www.baidu.com/s?wd=3.15%E5%8D%A7%E5%BA%95%E8%AE%B0%E8%80%85%E8%A2%AB%E5%8F%8D%E2%80%9C%E6%95%99%E8%82%B2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西消防辟谣组织中小学生观看直播](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E7%BB%84%E7%BB%87%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%82%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
