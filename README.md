@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 04:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 04:20:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [“它100%灭不了火，越灭火越大”](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%83100%25%E7%81%AD%E4%B8%8D%E4%BA%86%E7%81%AB%EF%BC%8C%E8%B6%8A%E7%81%AD%E7%81%AB%E8%B6%8A%E5%A4%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被315点名公司不到1分钟已封号](https://www.baidu.com/s?wd=%E8%A2%AB315%E7%82%B9%E5%90%8D%E5%85%AC%E5%8F%B8%E4%B8%8D%E5%88%B01%E5%88%86%E9%92%9F%E5%B7%B2%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [主持人马卉被永久封禁直播权限](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%A9%AC%E5%8D%89%E8%A2%AB%E6%B0%B8%E4%B9%85%E5%B0%81%E7%A6%81%E7%9B%B4%E6%92%AD%E6%9D%83%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杀害同学3名初中生家属仍未道歉](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%90%8C%E5%AD%A63%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E5%AE%B6%E5%B1%9E%E4%BB%8D%E6%9C%AA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孙俪女儿看甄嬛传也会跳过甘露寺](https://www.baidu.com/s?wd=%E5%AD%99%E4%BF%AA%E5%A5%B3%E5%84%BF%E7%9C%8B%E7%94%84%E5%AC%9B%E4%BC%A0%E4%B9%9F%E4%BC%9A%E8%B7%B3%E8%BF%87%E7%94%98%E9%9C%B2%E5%AF%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西消防辟谣组织中小学生观看直播](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E7%BB%84%E7%BB%87%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%82%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [“它100%灭不了火，越灭火越大”](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%83100%25%E7%81%AD%E4%B8%8D%E4%BA%86%E7%81%AB%EF%BC%8C%E8%B6%8A%E7%81%AD%E7%81%AB%E8%B6%8A%E5%A4%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [被315点名公司不到1分钟已封号](https://www.baidu.com/s?wd=%E8%A2%AB315%E7%82%B9%E5%90%8D%E5%85%AC%E5%8F%B8%E4%B8%8D%E5%88%B01%E5%88%86%E9%92%9F%E5%B7%B2%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [主持人马卉被永久封禁直播权限](https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%A9%AC%E5%8D%89%E8%A2%AB%E6%B0%B8%E4%B9%85%E5%B0%81%E7%A6%81%E7%9B%B4%E6%92%AD%E6%9D%83%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杀害同学3名初中生家属仍未道歉](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%90%8C%E5%AD%A63%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E5%AE%B6%E5%B1%9E%E4%BB%8D%E6%9C%AA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孙俪女儿看甄嬛传也会跳过甘露寺](https://www.baidu.com/s?wd=%E5%AD%99%E4%BF%AA%E5%A5%B3%E5%84%BF%E7%9C%8B%E7%94%84%E5%AC%9B%E4%BC%A0%E4%B9%9F%E4%BC%9A%E8%B7%B3%E8%BF%87%E7%94%98%E9%9C%B2%E5%AF%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西消防辟谣组织中小学生观看直播](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E7%BB%84%E7%BB%87%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%82%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
