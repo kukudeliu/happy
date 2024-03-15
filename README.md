@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 18:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 18:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [徐正溪退圈原因](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%AD%A3%E6%BA%AA%E9%80%80%E5%9C%88%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=7&Refer=top)<br />
 8. [季如风 白月光](https://s.weibo.com/weibo?q=%E5%AD%A3%E5%A6%82%E9%A3%8E%20%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=8&Refer=top)<br />
-9. [麦当劳崩了](https://s.weibo.com/weibo?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [淀粉肠塌房](https://s.weibo.com/weibo?q=%E6%B7%80%E7%B2%89%E8%82%A0%E5%A1%8C%E6%88%BF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [演员徐正溪宣布退圈](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%BE%90%E6%AD%A3%E6%BA%AA%E5%AE%A3%E5%B8%83%E9%80%80%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友给娃哈哈设计的国际版包装](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%BB%99%E5%A8%83%E5%93%88%E5%93%88%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%9B%BD%E9%99%85%E7%89%88%E5%8C%85%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [农贸市场挂“模棱两可灯” 官方回应](https://www.baidu.com/s?wd=%E5%86%9C%E8%B4%B8%E5%B8%82%E5%9C%BA%E6%8C%82%E2%80%9C%E6%A8%A1%E6%A3%B1%E4%B8%A4%E5%8F%AF%E7%81%AF%E2%80%9D+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [直播无底线挑战公众审美将重点整治](https://www.baidu.com/s?wd=%E7%9B%B4%E6%92%AD%E6%97%A0%E5%BA%95%E7%BA%BF%E6%8C%91%E6%88%98%E5%85%AC%E4%BC%97%E5%AE%A1%E7%BE%8E%E5%B0%86%E9%87%8D%E7%82%B9%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [这碗麻辣烫，天水能端稳吗？](https://www.baidu.com/s?wd=%E8%BF%99%E7%A2%97%E9%BA%BB%E8%BE%A3%E7%83%AB%EF%BC%8C%E5%A4%A9%E6%B0%B4%E8%83%BD%E7%AB%AF%E7%A8%B3%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [有偷小孩团伙到涿州？不实](https://www.baidu.com/s?wd=%E6%9C%89%E5%81%B7%E5%B0%8F%E5%AD%A9%E5%9B%A2%E4%BC%99%E5%88%B0%E6%B6%BF%E5%B7%9E%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [演员徐正溪宣布退圈](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%BE%90%E6%AD%A3%E6%BA%AA%E5%AE%A3%E5%B8%83%E9%80%80%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友给娃哈哈设计的国际版包装](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%BB%99%E5%A8%83%E5%93%88%E5%93%88%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%9B%BD%E9%99%85%E7%89%88%E5%8C%85%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [农贸市场挂“模棱两可灯” 官方回应](https://www.baidu.com/s?wd=%E5%86%9C%E8%B4%B8%E5%B8%82%E5%9C%BA%E6%8C%82%E2%80%9C%E6%A8%A1%E6%A3%B1%E4%B8%A4%E5%8F%AF%E7%81%AF%E2%80%9D+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [直播无底线挑战公众审美将重点整治](https://www.baidu.com/s?wd=%E7%9B%B4%E6%92%AD%E6%97%A0%E5%BA%95%E7%BA%BF%E6%8C%91%E6%88%98%E5%85%AC%E4%BC%97%E5%AE%A1%E7%BE%8E%E5%B0%86%E9%87%8D%E7%82%B9%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [这碗麻辣烫，天水能端稳吗？](https://www.baidu.com/s?wd=%E8%BF%99%E7%A2%97%E9%BA%BB%E8%BE%A3%E7%83%AB%EF%BC%8C%E5%A4%A9%E6%B0%B4%E8%83%BD%E7%AB%AF%E7%A8%B3%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [有偷小孩团伙到涿州？不实](https://www.baidu.com/s?wd=%E6%9C%89%E5%81%B7%E5%B0%8F%E5%AD%A9%E5%9B%A2%E4%BC%99%E5%88%B0%E6%B6%BF%E5%B7%9E%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
