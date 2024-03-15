@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 11:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 11:11:01</h4></div>
 
 > 微博  
 
 1. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=1&Refer=top)<br />
-2. [凯特](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9&t=31&band_rank=2&Refer=top)<br />
+2. [男孩跪地遭多名男女持棍殴打](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%B7%AA%E5%9C%B0%E9%81%AD%E5%A4%9A%E5%90%8D%E7%94%B7%E5%A5%B3%E6%8C%81%E6%A3%8D%E6%AE%B4%E6%89%93%23&t=31&band_rank=2&Refer=top)<br />
 3. [春耕图景里的科技范儿](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%80%95%E5%9B%BE%E6%99%AF%E9%87%8C%E7%9A%84%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%23&t=31&band_rank=3&Refer=top)<br />
-4. [男孩跪地遭多名男女持棍殴打](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%B7%AA%E5%9C%B0%E9%81%AD%E5%A4%9A%E5%90%8D%E7%94%B7%E5%A5%B3%E6%8C%81%E6%A3%8D%E6%AE%B4%E6%89%93%23&t=31&band_rank=4&Refer=top)<br />
+4. [凯特](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9&t=31&band_rank=4&Refer=top)<br />
 5. [我们仨定档](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E4%BB%A8%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [抖音买商品拼多多发货](https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E4%B9%B0%E5%95%86%E5%93%81%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%8F%91%E8%B4%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [巧克力可能要涨价了](https://s.weibo.com/weibo?q=%23%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%8F%AF%E8%83%BD%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [俄罗斯总统选举投票正式开始](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩们挤爆喜茶和纸片老公领证](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E4%BB%AC%E6%8C%A4%E7%88%86%E5%96%9C%E8%8C%B6%E5%92%8C%E7%BA%B8%E7%89%87%E8%80%81%E5%85%AC%E9%A2%86%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡歌考中戏成绩单曝光 专业排名第二](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E8%80%83%E4%B8%AD%E6%88%8F%E6%88%90%E7%BB%A9%E5%8D%95%E6%9B%9D%E5%85%89+%E4%B8%93%E4%B8%9A%E6%8E%92%E5%90%8D%E7%AC%AC%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [百果园门店被曝售卖过期水果](https://www.baidu.com/s?wd=%E7%99%BE%E6%9E%9C%E5%9B%AD%E9%97%A8%E5%BA%97%E8%A2%AB%E6%9B%9D%E5%94%AE%E5%8D%96%E8%BF%87%E6%9C%9F%E6%B0%B4%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [抖音买商品拼多多发货](https://www.baidu.com/s?wd=%E6%8A%96%E9%9F%B3%E4%B9%B0%E5%95%86%E5%93%81%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣中心大厦寿命50年](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%BF%83%E5%A4%A7%E5%8E%A6%E5%AF%BF%E5%91%BD50%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [俄罗斯总统选举投票正式开始](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩们挤爆喜茶和纸片老公领证](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E4%BB%AC%E6%8C%A4%E7%88%86%E5%96%9C%E8%8C%B6%E5%92%8C%E7%BA%B8%E7%89%87%E8%80%81%E5%85%AC%E9%A2%86%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胡歌考中戏成绩单曝光 专业排名第二](https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E8%80%83%E4%B8%AD%E6%88%8F%E6%88%90%E7%BB%A9%E5%8D%95%E6%9B%9D%E5%85%89+%E4%B8%93%E4%B8%9A%E6%8E%92%E5%90%8D%E7%AC%AC%E4%BA%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [百果园门店被曝售卖过期水果](https://www.baidu.com/s?wd=%E7%99%BE%E6%9E%9C%E5%9B%AD%E9%97%A8%E5%BA%97%E8%A2%AB%E6%9B%9D%E5%94%AE%E5%8D%96%E8%BF%87%E6%9C%9F%E6%B0%B4%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [抖音买商品拼多多发货](https://www.baidu.com/s?wd=%E6%8A%96%E9%9F%B3%E4%B9%B0%E5%95%86%E5%93%81%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%8F%91%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣中心大厦寿命50年](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%BF%83%E5%A4%A7%E5%8E%A6%E5%AF%BF%E5%91%BD50%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
