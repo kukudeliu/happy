@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 00:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 00:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [徐正溪退圈原因](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%AD%A3%E6%BA%AA%E9%80%80%E5%9C%88%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [淀粉肠塌房](https://s.weibo.com/weibo?q=%E6%B7%80%E7%B2%89%E8%82%A0%E5%A1%8C%E6%88%BF&t=31&band_rank=7&Refer=top)<br />
 8. [主持人马卉被永久封禁直播权限](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%A9%AC%E5%8D%89%E8%A2%AB%E6%B0%B8%E4%B9%85%E5%B0%81%E7%A6%81%E7%9B%B4%E6%92%AD%E6%9D%83%E9%99%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [茶颜悦色](https://s.weibo.com/weibo?q=%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2&t=31&band_rank=9&Refer=top)<br />
+9. [麦当劳崩了](https://s.weibo.com/weibo?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
