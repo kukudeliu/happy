@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 08:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 08:21:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [文化润民心](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E6%B6%A6%E6%B0%91%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [去年315曝光的公司现在怎么样了？](https://www.baidu.com/s?wd=%E5%8E%BB%E5%B9%B4315%E6%9B%9D%E5%85%89%E7%9A%84%E5%85%AC%E5%8F%B8%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [杨威回应双胞胎女儿在家上学](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A8%81%E5%9B%9E%E5%BA%94%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%AE%B6%E4%B8%8A%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [武大学生与游客大打出手？学校回应](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8E%E6%B8%B8%E5%AE%A2%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B%EF%BC%9F%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [万象“耕”新](https://www.baidu.com/s?wd=%E4%B8%87%E8%B1%A1%E2%80%9C%E8%80%95%E2%80%9D%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄罗斯总统选举投票正式开始](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [长沙一店铺门口贴招工启事被罚](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%BA%97%E9%93%BA%E9%97%A8%E5%8F%A3%E8%B4%B4%E6%8B%9B%E5%B7%A5%E5%90%AF%E4%BA%8B%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [文化润民心](https://www.baidu.com/s?wd=%E6%96%87%E5%8C%96%E6%B6%A6%E6%B0%91%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [去年315曝光的公司现在怎么样了？](https://www.baidu.com/s?wd=%E5%8E%BB%E5%B9%B4315%E6%9B%9D%E5%85%89%E7%9A%84%E5%85%AC%E5%8F%B8%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [杨威回应双胞胎女儿在家上学](https://www.baidu.com/s?wd=%E6%9D%A8%E5%A8%81%E5%9B%9E%E5%BA%94%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%AE%B6%E4%B8%8A%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [武大学生与游客大打出手？学校回应](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8E%E6%B8%B8%E5%AE%A2%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B%EF%BC%9F%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [万象“耕”新](https://www.baidu.com/s?wd=%E4%B8%87%E8%B1%A1%E2%80%9C%E8%80%95%E2%80%9D%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄罗斯总统选举投票正式开始](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [长沙一店铺门口贴招工启事被罚](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%BA%97%E9%93%BA%E9%97%A8%E5%8F%A3%E8%B4%B4%E6%8B%9B%E5%B7%A5%E5%90%AF%E4%BA%8B%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
