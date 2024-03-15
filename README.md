@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 23:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 23:07:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [徐正溪退圈原因](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%AD%A3%E6%BA%AA%E9%80%80%E5%9C%88%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [央广网评初中生被3名同学杀害掩埋](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%B9%BF%E7%BD%91%E8%AF%84%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB3%E5%90%8D%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E6%8E%A9%E5%9F%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [世纪佳缘致歉声明](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%BA%AA%E4%BD%B3%E7%BC%98%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [315奶茶](https://s.weibo.com/weibo?q=315%E5%A5%B6%E8%8C%B6&t=31&band_rank=9&Refer=top)<br />
+9. [梅菜扣肉 槽头肉](https://s.weibo.com/weibo?q=%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%20%E6%A7%BD%E5%A4%B4%E8%82%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
