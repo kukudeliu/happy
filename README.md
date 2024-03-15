@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 11:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 11:21:02</h4></div>
 
 > 微博  
 
-1. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=1&Refer=top)<br />
-2. [男孩跪地遭多名男女持棍殴打](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%B7%AA%E5%9C%B0%E9%81%AD%E5%A4%9A%E5%90%8D%E7%94%B7%E5%A5%B3%E6%8C%81%E6%A3%8D%E6%AE%B4%E6%89%93%23&t=31&band_rank=2&Refer=top)<br />
+1. [男孩跪地遭多名男女持棍殴打](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%B7%AA%E5%9C%B0%E9%81%AD%E5%A4%9A%E5%90%8D%E7%94%B7%E5%A5%B3%E6%8C%81%E6%A3%8D%E6%AE%B4%E6%89%93%23&t=31&band_rank=1&Refer=top)<br />
+2. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=2&Refer=top)<br />
 3. [春耕图景里的科技范儿](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%80%95%E5%9B%BE%E6%99%AF%E9%87%8C%E7%9A%84%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%23&t=31&band_rank=3&Refer=top)<br />
 4. [我们仨定档](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E4%BB%A8%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=4&Refer=top)<br />
 5. [巧克力可能要涨价了](https://s.weibo.com/weibo?q=%23%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%8F%AF%E8%83%BD%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
