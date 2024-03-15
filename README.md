@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 23:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 23:16:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [淀粉肠塌房](https://s.weibo.com/weibo?q=%E6%B7%80%E7%B2%89%E8%82%A0%E5%A1%8C%E6%88%BF&t=31&band_rank=5&Refer=top)<br />
 6. [徐正溪退圈原因](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%AD%A3%E6%BA%AA%E9%80%80%E5%9C%88%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [央广网评初中生被3名同学杀害掩埋](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%B9%BF%E7%BD%91%E8%AF%84%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB3%E5%90%8D%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E6%8E%A9%E5%9F%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [世纪佳缘致歉声明](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%BA%AA%E4%BD%B3%E7%BC%98%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [主持人马卉被永久封禁直播权限](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%A9%AC%E5%8D%89%E8%A2%AB%E6%B0%B8%E4%B9%85%E5%B0%81%E7%A6%81%E7%9B%B4%E6%92%AD%E6%9D%83%E9%99%90%23&t=31&band_rank=9&Refer=top)<br />
+8. [主持人马卉被永久封禁直播权限](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%A9%AC%E5%8D%89%E8%A2%AB%E6%B0%B8%E4%B9%85%E5%B0%81%E7%A6%81%E7%9B%B4%E6%92%AD%E6%9D%83%E9%99%90%23&t=31&band_rank=8&Refer=top)<br />
+9. [世纪佳缘致歉声明](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%BA%AA%E4%BD%B3%E7%BC%98%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
