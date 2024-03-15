@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 03:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 03:54:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [回春壮阳？5万多元的听花酒全靠吹](https://www.baidu.com/s?wd=%E5%9B%9E%E6%98%A5%E5%A3%AE%E9%98%B3%EF%BC%9F5%E4%B8%87%E5%A4%9A%E5%85%83%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%85%A8%E9%9D%A0%E5%90%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮人类文明美好图景](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E7%BE%8E%E5%A5%BD%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“它100%灭不了火，越灭火越大”](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%83100%25%E7%81%AD%E4%B8%8D%E4%BA%86%E7%81%AB%EF%BC%8C%E8%B6%8A%E7%81%AD%E7%81%AB%E8%B6%8A%E5%A4%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [好利来回应要求员工入职前军训](https://www.baidu.com/s?wd=%E5%A5%BD%E5%88%A9%E6%9D%A5%E5%9B%9E%E5%BA%94%E8%A6%81%E6%B1%82%E5%91%98%E5%B7%A5%E5%85%A5%E8%81%8C%E5%89%8D%E5%86%9B%E8%AE%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [淀粉肠塌房了](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [淀粉肠塌房了](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [骨泥不建议人吃](https://www.baidu.com/s?wd=%E9%AA%A8%E6%B3%A5%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%BA%BA%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [世纪佳缘致歉声明](https://www.baidu.com/s?wd=%E4%B8%96%E7%BA%AA%E4%BD%B3%E7%BC%98%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西消防辟谣组织中小学生观看直播](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E7%BB%84%E7%BB%87%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%82%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [回春壮阳？5万多元的听花酒全靠吹](https://www.baidu.com/s?wd=%E5%9B%9E%E6%98%A5%E5%A3%AE%E9%98%B3%EF%BC%9F5%E4%B8%87%E5%A4%9A%E5%85%83%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%85%A8%E9%9D%A0%E5%90%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮人类文明美好图景](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E7%BE%8E%E5%A5%BD%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“它100%灭不了火，越灭火越大”](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%83100%25%E7%81%AD%E4%B8%8D%E4%BA%86%E7%81%AB%EF%BC%8C%E8%B6%8A%E7%81%AD%E7%81%AB%E8%B6%8A%E5%A4%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [好利来回应要求员工入职前军训](https://www.baidu.com/s?wd=%E5%A5%BD%E5%88%A9%E6%9D%A5%E5%9B%9E%E5%BA%94%E8%A6%81%E6%B1%82%E5%91%98%E5%B7%A5%E5%85%A5%E8%81%8C%E5%89%8D%E5%86%9B%E8%AE%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [淀粉肠塌房了](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [淀粉肠塌房了](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E5%A1%8C%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [骨泥不建议人吃](https://www.baidu.com/s?wd=%E9%AA%A8%E6%B3%A5%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%BA%BA%E5%90%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [世纪佳缘致歉声明](https://www.baidu.com/s?wd=%E4%B8%96%E7%BA%AA%E4%BD%B3%E7%BC%98%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西消防辟谣组织中小学生观看直播](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E7%BB%84%E7%BB%87%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%82%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
