@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 10:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 10:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [丫丫把苹果啃出鞭炮声](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E6%8A%8A%E8%8B%B9%E6%9E%9C%E5%95%83%E5%87%BA%E9%9E%AD%E7%82%AE%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [脊柱侧弯女孩术后高了21厘米](https://s.weibo.com/weibo?q=%23%E8%84%8A%E6%9F%B1%E4%BE%A7%E5%BC%AF%E5%A5%B3%E5%AD%A9%E6%9C%AF%E5%90%8E%E9%AB%98%E4%BA%8621%E5%8E%98%E7%B1%B3%23&t=31&band_rank=7&Refer=top)<br />
 8. [俞灏明回应和陈晓二搭](https://s.weibo.com/weibo?q=%E4%BF%9E%E7%81%8F%E6%98%8E%E5%9B%9E%E5%BA%94%E5%92%8C%E9%99%88%E6%99%93%E4%BA%8C%E6%90%AD&t=31&band_rank=8&Refer=top)<br />
-9. [胡歌在中戏专业成绩第二](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%9C%A8%E4%B8%AD%E6%88%8F%E4%B8%93%E4%B8%9A%E6%88%90%E7%BB%A9%E7%AC%AC%E4%BA%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [巧克力可能要涨价了](https://s.weibo.com/weibo?q=%23%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%8F%AF%E8%83%BD%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
