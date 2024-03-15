@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 13:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 13:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=6&Refer=top)<br />
 7. [男孩跪地遭多名男女持棍殴打](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%B7%AA%E5%9C%B0%E9%81%AD%E5%A4%9A%E5%90%8D%E7%94%B7%E5%A5%B3%E6%8C%81%E6%A3%8D%E6%AE%B4%E6%89%93%23&t=31&band_rank=7&Refer=top)<br />
 8. [情侣随地大小亲](https://s.weibo.com/weibo?q=%E6%83%85%E4%BE%A3%E9%9A%8F%E5%9C%B0%E5%A4%A7%E5%B0%8F%E4%BA%B2&t=31&band_rank=8&Refer=top)<br />
-9. [苹果发布声明](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [入青云阵容官宣](https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
