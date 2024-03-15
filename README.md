@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 19:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 19:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=6&Refer=top)<br />
 7. [徐正溪退圈原因](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%AD%A3%E6%BA%AA%E9%80%80%E5%9C%88%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [英国王室上演消失的她](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%AE%A4%E4%B8%8A%E6%BC%94%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [马卉](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%8D%89&t=31&band_rank=9&Refer=top)<br />
+9. [建议胃不好的人吃饭干湿分离](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%83%83%E4%B8%8D%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%90%83%E9%A5%AD%E5%B9%B2%E6%B9%BF%E5%88%86%E7%A6%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
