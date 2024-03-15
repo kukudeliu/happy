@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 12:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 13:00:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=4&Refer=top)<br />
 5. [去哪啊 去亲你](https://s.weibo.com/weibo?q=%E5%8E%BB%E5%93%AA%E5%95%8A%20%E5%8E%BB%E4%BA%B2%E4%BD%A0&t=31&band_rank=5&Refer=top)<br />
 6. [男孩跪地遭多名男女持棍殴打](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%B7%AA%E5%9C%B0%E9%81%AD%E5%A4%9A%E5%90%8D%E7%94%B7%E5%A5%B3%E6%8C%81%E6%A3%8D%E6%AE%B4%E6%89%93%23&t=31&band_rank=6&Refer=top)<br />
-7. [天津两车追尾起火致1死37伤](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%A4%E8%BD%A6%E8%BF%BD%E5%B0%BE%E8%B5%B7%E7%81%AB%E8%87%B41%E6%AD%BB37%E4%BC%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [苹果发布声明](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
+7. [苹果发布声明](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E%23&t=31&band_rank=7&Refer=top)<br />
+8. [天津两车追尾起火致1死37伤](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%A4%E8%BD%A6%E8%BF%BD%E5%B0%BE%E8%B5%B7%E7%81%AB%E8%87%B41%E6%AD%BB37%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
 9. [情侣随地大小亲](https://s.weibo.com/weibo?q=%E6%83%85%E4%BE%A3%E9%9A%8F%E5%9C%B0%E5%A4%A7%E5%B0%8F%E4%BA%B2&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
