@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 08:24:03</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 08:25:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [武大学生与游客大打出手？学校回应](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8E%E6%B8%B8%E5%AE%A2%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B%EF%BC%9F%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [万象“耕”新](https://www.baidu.com/s?wd=%E4%B8%87%E8%B1%A1%E2%80%9C%E8%80%95%E2%80%9D%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄罗斯总统选举投票正式开始](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [长沙一店铺门口贴招工启事被罚](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%BA%97%E9%93%BA%E9%97%A8%E5%8F%A3%E8%B4%B4%E6%8B%9B%E5%B7%A5%E5%90%AF%E4%BA%8B%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [上海迪士尼新包断货引发场面混乱](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%96%B0%E5%8C%85%E6%96%AD%E8%B4%A7%E5%BC%95%E5%8F%91%E5%9C%BA%E9%9D%A2%E6%B7%B7%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [我自愿签订出门在外互帮父母条约](https://www.baidu.com/s?wd=%E6%88%91%E8%87%AA%E6%84%BF%E7%AD%BE%E8%AE%A2%E5%87%BA%E9%97%A8%E5%9C%A8%E5%A4%96%E4%BA%92%E5%B8%AE%E7%88%B6%E6%AF%8D%E6%9D%A1%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李斌妻子道歉：不该叫章泽天为小天](https://www.baidu.com/s?wd=%E6%9D%8E%E6%96%8C%E5%A6%BB%E5%AD%90%E9%81%93%E6%AD%89%EF%BC%9A%E4%B8%8D%E8%AF%A5%E5%8F%AB%E7%AB%A0%E6%B3%BD%E5%A4%A9%E4%B8%BA%E5%B0%8F%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [长沙一店铺门口贴招工启事被罚](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%BA%97%E9%93%BA%E9%97%A8%E5%8F%A3%E8%B4%B4%E6%8B%9B%E5%B7%A5%E5%90%AF%E4%BA%8B%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海迪士尼新包断货引发场面混乱](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%96%B0%E5%8C%85%E6%96%AD%E8%B4%A7%E5%BC%95%E5%8F%91%E5%9C%BA%E9%9D%A2%E6%B7%B7%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青海因洪水致数十人死亡系谣言](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%9B%A0%E6%B4%AA%E6%B0%B4%E8%87%B4%E6%95%B0%E5%8D%81%E4%BA%BA%E6%AD%BB%E4%BA%A1%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [武大学生与游客大打出手？学校回应](https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8E%E6%B8%B8%E5%AE%A2%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B%EF%BC%9F%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [万象“耕”新](https://www.baidu.com/s?wd=%E4%B8%87%E8%B1%A1%E2%80%9C%E8%80%95%E2%80%9D%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄罗斯总统选举投票正式开始](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [长沙一店铺门口贴招工启事被罚](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%BA%97%E9%93%BA%E9%97%A8%E5%8F%A3%E8%B4%B4%E6%8B%9B%E5%B7%A5%E5%90%AF%E4%BA%8B%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [上海迪士尼新包断货引发场面混乱](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%96%B0%E5%8C%85%E6%96%AD%E8%B4%A7%E5%BC%95%E5%8F%91%E5%9C%BA%E9%9D%A2%E6%B7%B7%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [我自愿签订出门在外互帮父母条约](https://www.baidu.com/s?wd=%E6%88%91%E8%87%AA%E6%84%BF%E7%AD%BE%E8%AE%A2%E5%87%BA%E9%97%A8%E5%9C%A8%E5%A4%96%E4%BA%92%E5%B8%AE%E7%88%B6%E6%AF%8D%E6%9D%A1%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [李斌妻子道歉：不该叫章泽天为小天](https://www.baidu.com/s?wd=%E6%9D%8E%E6%96%8C%E5%A6%BB%E5%AD%90%E9%81%93%E6%AD%89%EF%BC%9A%E4%B8%8D%E8%AF%A5%E5%8F%AB%E7%AB%A0%E6%B3%BD%E5%A4%A9%E4%B8%BA%E5%B0%8F%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [长沙一店铺门口贴招工启事被罚](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B8%80%E5%BA%97%E9%93%BA%E9%97%A8%E5%8F%A3%E8%B4%B4%E6%8B%9B%E5%B7%A5%E5%90%AF%E4%BA%8B%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海迪士尼新包断货引发场面混乱](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%96%B0%E5%8C%85%E6%96%AD%E8%B4%A7%E5%BC%95%E5%8F%91%E5%9C%BA%E9%9D%A2%E6%B7%B7%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [青海因洪水致数十人死亡系谣言](https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%9B%A0%E6%B4%AA%E6%B0%B4%E8%87%B4%E6%95%B0%E5%8D%81%E4%BA%BA%E6%AD%BB%E4%BA%A1%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
