@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 10:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 10:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [又有多家医院停止产科分娩服务](https://s.weibo.com/weibo?q=%23%E5%8F%88%E6%9C%89%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E5%81%9C%E6%AD%A2%E4%BA%A7%E7%A7%91%E5%88%86%E5%A8%A9%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [丫丫把苹果啃出鞭炮声](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E6%8A%8A%E8%8B%B9%E6%9E%9C%E5%95%83%E5%87%BA%E9%9E%AD%E7%82%AE%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [脊柱侧弯女孩术后高了21厘米](https://s.weibo.com/weibo?q=%23%E8%84%8A%E6%9F%B1%E4%BE%A7%E5%BC%AF%E5%A5%B3%E5%AD%A9%E6%9C%AF%E5%90%8E%E9%AB%98%E4%BA%8621%E5%8E%98%E7%B1%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [俞灏明回应和陈晓二搭](https://s.weibo.com/weibo?q=%E4%BF%9E%E7%81%8F%E6%98%8E%E5%9B%9E%E5%BA%94%E5%92%8C%E9%99%88%E6%99%93%E4%BA%8C%E6%90%AD&t=31&band_rank=8&Refer=top)<br />
-9. [巧克力可能要涨价了](https://s.weibo.com/weibo?q=%23%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%8F%AF%E8%83%BD%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [巧克力可能要涨价了](https://s.weibo.com/weibo?q=%23%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%8F%AF%E8%83%BD%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [俞灏明回应和陈晓二搭](https://s.weibo.com/weibo?q=%E4%BF%9E%E7%81%8F%E6%98%8E%E5%9B%9E%E5%BA%94%E5%92%8C%E9%99%88%E6%99%93%E4%BA%8C%E6%90%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
