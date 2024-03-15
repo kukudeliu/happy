@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 15:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 15:51:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [凯特消失 英媒重磅介绍威廉绯闻情人](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E6%B6%88%E5%A4%B1+%E8%8B%B1%E5%AA%92%E9%87%8D%E7%A3%85%E4%BB%8B%E7%BB%8D%E5%A8%81%E5%BB%89%E7%BB%AF%E9%97%BB%E6%83%85%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [700万粉丝网红自曝交税近1个亿](https://www.baidu.com/s?wd=700%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E8%87%AA%E6%9B%9D%E4%BA%A4%E7%A8%8E%E8%BF%911%E4%B8%AA%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电商主播言行不当引发投诉](https://www.baidu.com/s?wd=%E7%94%B5%E5%95%86%E4%B8%BB%E6%92%AD%E8%A8%80%E8%A1%8C%E4%B8%8D%E5%BD%93%E5%BC%95%E5%8F%91%E6%8A%95%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特斯拉年内累跌近35%](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B9%B4%E5%86%85%E7%B4%AF%E8%B7%8C%E8%BF%9135%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [暗访199元4天桂林魔幻低价游](https://www.baidu.com/s?wd=%E6%9A%97%E8%AE%BF199%E5%85%834%E5%A4%A9%E6%A1%82%E6%9E%97%E9%AD%94%E5%B9%BB%E4%BD%8E%E4%BB%B7%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣中心大厦寿命50年](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%BF%83%E5%A4%A7%E5%8E%A6%E5%AF%BF%E5%91%BD50%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [凯特消失 英媒重磅介绍威廉绯闻情人](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E6%B6%88%E5%A4%B1+%E8%8B%B1%E5%AA%92%E9%87%8D%E7%A3%85%E4%BB%8B%E7%BB%8D%E5%A8%81%E5%BB%89%E7%BB%AF%E9%97%BB%E6%83%85%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [700万粉丝网红自曝交税近1个亿](https://www.baidu.com/s?wd=700%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E8%87%AA%E6%9B%9D%E4%BA%A4%E7%A8%8E%E8%BF%911%E4%B8%AA%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [电商主播言行不当引发投诉](https://www.baidu.com/s?wd=%E7%94%B5%E5%95%86%E4%B8%BB%E6%92%AD%E8%A8%80%E8%A1%8C%E4%B8%8D%E5%BD%93%E5%BC%95%E5%8F%91%E6%8A%95%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特斯拉年内累跌近35%](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B9%B4%E5%86%85%E7%B4%AF%E8%B7%8C%E8%BF%9135%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [暗访199元4天桂林魔幻低价游](https://www.baidu.com/s?wd=%E6%9A%97%E8%AE%BF199%E5%85%834%E5%A4%A9%E6%A1%82%E6%9E%97%E9%AD%94%E5%B9%BB%E4%BD%8E%E4%BB%B7%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [上海辟谣中心大厦寿命50年](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%BF%83%E5%A4%A7%E5%8E%A6%E5%AF%BF%E5%91%BD50%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
