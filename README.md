@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 13:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 13:26:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [9件仪式感满满的春日小事](https://s.weibo.com/weibo?q=%239%E4%BB%B6%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%BB%A1%E6%BB%A1%E7%9A%84%E6%98%A5%E6%97%A5%E5%B0%8F%E4%BA%8B%23&t=31&band_rank=3&Refer=top)<br />
 4. [张元英 短发](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%85%83%E8%8B%B1%20%E7%9F%AD%E5%8F%91&t=31&band_rank=4&Refer=top)<br />
 5. [去哪啊 去亲你](https://s.weibo.com/weibo?q=%E5%8E%BB%E5%93%AA%E5%95%8A%20%E5%8E%BB%E4%BA%B2%E4%BD%A0&t=31&band_rank=5&Refer=top)<br />
-6. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=6&Refer=top)<br />
-7. [男孩跪地遭多名男女持棍殴打](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%B7%AA%E5%9C%B0%E9%81%AD%E5%A4%9A%E5%90%8D%E7%94%B7%E5%A5%B3%E6%8C%81%E6%A3%8D%E6%AE%B4%E6%89%93%23&t=31&band_rank=7&Refer=top)<br />
+6. [男孩跪地遭多名男女持棍殴打](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%B7%AA%E5%9C%B0%E9%81%AD%E5%A4%9A%E5%90%8D%E7%94%B7%E5%A5%B3%E6%8C%81%E6%A3%8D%E6%AE%B4%E6%89%93%23&t=31&band_rank=6&Refer=top)<br />
+7. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=7&Refer=top)<br />
 8. [情侣随地大小亲](https://s.weibo.com/weibo?q=%E6%83%85%E4%BE%A3%E9%9A%8F%E5%9C%B0%E5%A4%A7%E5%B0%8F%E4%BA%B2&t=31&band_rank=8&Refer=top)<br />
-9. [苹果发布声明](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [入青云阵容官宣](https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
