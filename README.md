@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 18:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 18:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [徐正溪的12年还差10年](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%AD%A3%E6%BA%AA%E7%9A%8412%E5%B9%B4%E8%BF%98%E5%B7%AE10%E5%B9%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [麦当劳崩了](https://s.weibo.com/weibo?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%B4%A9%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [怀疑刘耀文是在秀驾照](https://s.weibo.com/weibo?q=%23%E6%80%80%E7%96%91%E5%88%98%E8%80%80%E6%96%87%E6%98%AF%E5%9C%A8%E7%A7%80%E9%A9%BE%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=9&Refer=top)<br />
+9. [淀粉肠到底是什么做的](https://s.weibo.com/weibo?q=%23%E6%B7%80%E7%B2%89%E8%82%A0%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E5%81%9A%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
