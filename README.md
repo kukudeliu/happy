@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 22:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 22:43:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [点亮人类文明美好图景](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E7%BE%8E%E5%A5%BD%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“它100%灭不了火，越灭火越大”](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%83100%25%E7%81%AD%E4%B8%8D%E4%BA%86%E7%81%AB%EF%BC%8C%E8%B6%8A%E7%81%AD%E7%81%AB%E8%B6%8A%E5%A4%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [听花酒下架](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E4%B8%8B%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [天水麻辣烫爆火 有店主10天瘦8斤](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%88%86%E7%81%AB+%E6%9C%89%E5%BA%97%E4%B8%BB10%E5%A4%A9%E7%98%A68%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [听花酒董事长曾称遇太上老君托梦](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9B%BE%E7%A7%B0%E8%A2%AB%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E6%89%98%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [消费者投诉同程金融变相现金贷](https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%95%E8%AF%89%E5%90%8C%E7%A8%8B%E9%87%91%E8%9E%8D%E5%8F%98%E7%9B%B8%E7%8E%B0%E9%87%91%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [防火玻璃生产造假抽检也造假](https://www.baidu.com/s?wd=%E9%98%B2%E7%81%AB%E7%8E%BB%E7%92%83%E7%94%9F%E4%BA%A7%E9%80%A0%E5%81%87%E6%8A%BD%E6%A3%80%E4%B9%9F%E9%80%A0%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西消防辟谣组织中小学生观看直播](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E7%BB%84%E7%BB%87%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%82%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [点亮人类文明美好图景](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E7%BE%8E%E5%A5%BD%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“它100%灭不了火，越灭火越大”](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%83100%25%E7%81%AD%E4%B8%8D%E4%BA%86%E7%81%AB%EF%BC%8C%E8%B6%8A%E7%81%AD%E7%81%AB%E8%B6%8A%E5%A4%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [听花酒下架](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E4%B8%8B%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [天水麻辣烫爆火 有店主10天瘦8斤](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%88%86%E7%81%AB+%E6%9C%89%E5%BA%97%E4%B8%BB10%E5%A4%A9%E7%98%A68%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [听花酒董事长曾称遇太上老君托梦](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9B%BE%E7%A7%B0%E8%A2%AB%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E6%89%98%E6%A2%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [消费者投诉同程金融变相现金贷](https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%95%E8%AF%89%E5%90%8C%E7%A8%8B%E9%87%91%E8%9E%8D%E5%8F%98%E7%9B%B8%E7%8E%B0%E9%87%91%E8%B4%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [防火玻璃生产造假抽检也造假](https://www.baidu.com/s?wd=%E9%98%B2%E7%81%AB%E7%8E%BB%E7%92%83%E7%94%9F%E4%BA%A7%E9%80%A0%E5%81%87%E6%8A%BD%E6%A3%80%E4%B9%9F%E9%80%A0%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西消防辟谣组织中小学生观看直播](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E7%BB%84%E7%BB%87%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%82%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
