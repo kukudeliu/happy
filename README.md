@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 02:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 02:52:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [点亮人类文明美好图景](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E7%BE%8E%E5%A5%BD%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“它100%灭不了火，越灭火越大”](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%83100%25%E7%81%AD%E4%B8%8D%E4%BA%86%E7%81%AB%EF%BC%8C%E8%B6%8A%E7%81%AD%E7%81%AB%E8%B6%8A%E5%A4%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [315的风还是吹到了奶茶届](https://www.baidu.com/s?wd=315%E7%9A%84%E9%A3%8E%E8%BF%98%E6%98%AF%E5%90%B9%E5%88%B0%E4%BA%86%E5%A5%B6%E8%8C%B6%E5%B1%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被315点名公司不到1分钟已封号](https://www.baidu.com/s?wd=%E8%A2%AB315%E7%82%B9%E5%90%8D%E5%85%AC%E5%8F%B8%E4%B8%8D%E5%88%B01%E5%88%86%E9%92%9F%E5%B7%B2%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [听花酒曾宣传邀3位诺奖得主来研究](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E6%9B%BE%E5%AE%A3%E4%BC%A0%E9%82%803%E4%BD%8D%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E6%9D%A5%E7%A0%94%E7%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [听花酒曾宣传邀3位诺奖得主来研究](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E6%9B%BE%E5%AE%A3%E4%BC%A0%E9%82%803%E4%BD%8D%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E6%9D%A5%E7%A0%94%E7%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被315点名公司不到1分钟已封号](https://www.baidu.com/s?wd=%E8%A2%AB315%E7%82%B9%E5%90%8D%E5%85%AC%E5%8F%B8%E4%B8%8D%E5%88%B01%E5%88%86%E9%92%9F%E5%B7%B2%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西消防辟谣组织中小学生观看直播](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E7%BB%84%E7%BB%87%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%82%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [点亮人类文明美好图景](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E7%BE%8E%E5%A5%BD%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“它100%灭不了火，越灭火越大”](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%83100%25%E7%81%AD%E4%B8%8D%E4%BA%86%E7%81%AB%EF%BC%8C%E8%B6%8A%E7%81%AD%E7%81%AB%E8%B6%8A%E5%A4%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [315的风还是吹到了奶茶届](https://www.baidu.com/s?wd=315%E7%9A%84%E9%A3%8E%E8%BF%98%E6%98%AF%E5%90%B9%E5%88%B0%E4%BA%86%E5%A5%B6%E8%8C%B6%E5%B1%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [被315点名公司不到1分钟已封号](https://www.baidu.com/s?wd=%E8%A2%AB315%E7%82%B9%E5%90%8D%E5%85%AC%E5%8F%B8%E4%B8%8D%E5%88%B01%E5%88%86%E9%92%9F%E5%B7%B2%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [听花酒曾宣传邀3位诺奖得主来研究](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E6%9B%BE%E5%AE%A3%E4%BC%A0%E9%82%803%E4%BD%8D%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E6%9D%A5%E7%A0%94%E7%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [听花酒曾宣传邀3位诺奖得主来研究](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E6%9B%BE%E5%AE%A3%E4%BC%A0%E9%82%803%E4%BD%8D%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E6%9D%A5%E7%A0%94%E7%A9%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [被315点名公司不到1分钟已封号](https://www.baidu.com/s?wd=%E8%A2%AB315%E7%82%B9%E5%90%8D%E5%85%AC%E5%8F%B8%E4%B8%8D%E5%88%B01%E5%88%86%E9%92%9F%E5%B7%B2%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西消防辟谣组织中小学生观看直播](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E7%BB%84%E7%BB%87%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%82%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
