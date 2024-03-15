@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 21:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 21:05:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [徐正溪退圈原因](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%AD%A3%E6%BA%AA%E9%80%80%E5%9C%88%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [古茗](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%8C%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [听花酒](https://s.weibo.com/weibo?q=%E5%90%AC%E8%8A%B1%E9%85%92&t=31&band_rank=8&Refer=top)<br />
-9. [王曼昱vs伊藤美诚](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E4%BC%8A%E8%97%A4%E7%BE%8E%E8%AF%9A&t=31&band_rank=9&Refer=top)<br />
+9. [麦当劳崩了](https://s.weibo.com/weibo?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
