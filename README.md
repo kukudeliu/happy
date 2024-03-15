@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 03:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 03:12:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [回春壮阳？5万多元的听花酒全靠吹](https://www.baidu.com/s?wd=%E5%9B%9E%E6%98%A5%E5%A3%AE%E9%98%B3%EF%BC%9F5%E4%B8%87%E5%A4%9A%E5%85%83%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%85%A8%E9%9D%A0%E5%90%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮人类文明美好图景](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E7%BE%8E%E5%A5%BD%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“它100%灭不了火，越灭火越大”](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%83100%25%E7%81%AD%E4%B8%8D%E4%BA%86%E7%81%AB%EF%BC%8C%E8%B6%8A%E7%81%AD%E7%81%AB%E8%B6%8A%E5%A4%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [杀害同学3名初中生家属仍未道歉](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%90%8C%E5%AD%A63%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E5%AE%B6%E5%B1%9E%E4%BB%8D%E6%9C%AA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [315的风还是吹到了奶茶届](https://www.baidu.com/s?wd=315%E7%9A%84%E9%A3%8E%E8%BF%98%E6%98%AF%E5%90%B9%E5%88%B0%E4%BA%86%E5%A5%B6%E8%8C%B6%E5%B1%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [头部电商主播为什么纷纷隐身](https://www.baidu.com/s?wd=%E5%A4%B4%E9%83%A8%E7%94%B5%E5%95%86%E4%B8%BB%E6%92%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BA%B7%E7%BA%B7%E9%9A%90%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [315的风还是吹到了奶茶届](https://www.baidu.com/s?wd=315%E7%9A%84%E9%A3%8E%E8%BF%98%E6%98%AF%E5%90%B9%E5%88%B0%E4%BA%86%E5%A5%B6%E8%8C%B6%E5%B1%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [头部电商主播为什么纷纷隐身](https://www.baidu.com/s?wd=%E5%A4%B4%E9%83%A8%E7%94%B5%E5%95%86%E4%B8%BB%E6%92%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BA%B7%E7%BA%B7%E9%9A%90%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [记者调查茉酸奶](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%E8%8C%89%E9%85%B8%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西消防辟谣组织中小学生观看直播](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E7%BB%84%E7%BB%87%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%82%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [回春壮阳？5万多元的听花酒全靠吹](https://www.baidu.com/s?wd=%E5%9B%9E%E6%98%A5%E5%A3%AE%E9%98%B3%EF%BC%9F5%E4%B8%87%E5%A4%9A%E5%85%83%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%85%A8%E9%9D%A0%E5%90%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮人类文明美好图景](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E7%BE%8E%E5%A5%BD%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [“它100%灭不了火，越灭火越大”](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%83100%25%E7%81%AD%E4%B8%8D%E4%BA%86%E7%81%AB%EF%BC%8C%E8%B6%8A%E7%81%AD%E7%81%AB%E8%B6%8A%E5%A4%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [杀害同学3名初中生家属仍未道歉](https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E5%90%8C%E5%AD%A63%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E5%AE%B6%E5%B1%9E%E4%BB%8D%E6%9C%AA%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [315的风还是吹到了奶茶届](https://www.baidu.com/s?wd=315%E7%9A%84%E9%A3%8E%E8%BF%98%E6%98%AF%E5%90%B9%E5%88%B0%E4%BA%86%E5%A5%B6%E8%8C%B6%E5%B1%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [头部电商主播为什么纷纷隐身](https://www.baidu.com/s?wd=%E5%A4%B4%E9%83%A8%E7%94%B5%E5%95%86%E4%B8%BB%E6%92%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BA%B7%E7%BA%B7%E9%9A%90%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [315的风还是吹到了奶茶届](https://www.baidu.com/s?wd=315%E7%9A%84%E9%A3%8E%E8%BF%98%E6%98%AF%E5%90%B9%E5%88%B0%E4%BA%86%E5%A5%B6%E8%8C%B6%E5%B1%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [头部电商主播为什么纷纷隐身](https://www.baidu.com/s?wd=%E5%A4%B4%E9%83%A8%E7%94%B5%E5%95%86%E4%B8%BB%E6%92%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BA%B7%E7%BA%B7%E9%9A%90%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [记者调查茉酸奶](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%E8%8C%89%E9%85%B8%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西消防辟谣组织中小学生观看直播](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%B6%88%E9%98%B2%E8%BE%9F%E8%B0%A3%E7%BB%84%E7%BB%87%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%82%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
