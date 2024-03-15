@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 12:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 12:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [春色寄情人成年人的恋爱](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%89%B2%E5%AF%84%E6%83%85%E4%BA%BA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E6%81%8B%E7%88%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [戴眼镜会让视力变差是错误认知](https://s.weibo.com/weibo?q=%23%E6%88%B4%E7%9C%BC%E9%95%9C%E4%BC%9A%E8%AE%A9%E8%A7%86%E5%8A%9B%E5%8F%98%E5%B7%AE%E6%98%AF%E9%94%99%E8%AF%AF%E8%AE%A4%E7%9F%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [我们仨定档](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E4%BB%A8%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [天津大巴车与公交相撞起火燃成空架](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%B7%B4%E8%BD%A6%E4%B8%8E%E5%85%AC%E4%BA%A4%E7%9B%B8%E6%92%9E%E8%B5%B7%E7%81%AB%E7%87%83%E6%88%90%E7%A9%BA%E6%9E%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [去哪啊 去亲你](https://s.weibo.com/weibo?q=%E5%8E%BB%E5%93%AA%E5%95%8A%20%E5%8E%BB%E4%BA%B2%E4%BD%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
