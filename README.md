@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 18:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 18:41:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [主持人马卉被永久封禁直播权限](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%A9%AC%E5%8D%89%E8%A2%AB%E6%B0%B8%E4%B9%85%E5%B0%81%E7%A6%81%E7%9B%B4%E6%92%AD%E6%9D%83%E9%99%90%23&t=31&band_rank=4&Refer=top)<br />
 5. [英国王室上演消失的她](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%AE%A4%E4%B8%8A%E6%BC%94%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [徐正溪退圈原因](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%AD%A3%E6%BA%AA%E9%80%80%E5%9C%88%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
-7. [马卉](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%8D%89&t=31&band_rank=7&Refer=top)<br />
-8. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=8&Refer=top)<br />
-9. [季如风 白月光](https://s.weibo.com/weibo?q=%E5%AD%A3%E5%A6%82%E9%A3%8E%20%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=9&Refer=top)<br />
+7. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=7&Refer=top)<br />
+8. [马卉](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%8D%89&t=31&band_rank=8&Refer=top)<br />
+9. [麦当劳崩了](https://s.weibo.com/weibo?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
