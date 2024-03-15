@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 16:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 16:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨紫张予曦撞衫](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%A0%E4%BA%88%E6%9B%A6%E6%92%9E%E8%A1%AB%23&t=31&band_rank=6&Refer=top)<br />
 7. [好利来要求员工入职前军训](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%88%A9%E6%9D%A5%E8%A6%81%E6%B1%82%E5%91%98%E5%B7%A5%E5%85%A5%E8%81%8C%E5%89%8D%E5%86%9B%E8%AE%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [董子健带女儿外出聚餐](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AD%90%E5%81%A5%E5%B8%A6%E5%A5%B3%E5%84%BF%E5%A4%96%E5%87%BA%E8%81%9A%E9%A4%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [迪丽热巴摩登裙](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%91%A9%E7%99%BB%E8%A3%99%23&t=31&band_rank=9&Refer=top)<br />
+9. [鱿鱼游戏吴永洙因性骚扰被判刑](https://s.weibo.com/weibo?q=%23%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F%E5%90%B4%E6%B0%B8%E6%B4%99%E5%9B%A0%E6%80%A7%E9%AA%9A%E6%89%B0%E8%A2%AB%E5%88%A4%E5%88%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
