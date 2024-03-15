@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 15:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 15:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [孙颖莎vs陈幸同](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E5%B9%B8%E5%90%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨紫红色丝袜](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%BA%A2%E8%89%B2%E4%B8%9D%E8%A2%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [潘雨润交了一个亿的税](https://s.weibo.com/weibo?q=%23%E6%BD%98%E9%9B%A8%E6%B6%A6%E4%BA%A4%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BA%BF%E7%9A%84%E7%A8%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [福原爱江宏杰和解](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E6%B1%9F%E5%AE%8F%E6%9D%B0%E5%92%8C%E8%A7%A3%23&t=31&band_rank=9&Refer=top)<br />
+9. [打到臭车的概率越来越高了](https://s.weibo.com/weibo?q=%23%E6%89%93%E5%88%B0%E8%87%AD%E8%BD%A6%E7%9A%84%E6%A6%82%E7%8E%87%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%AB%98%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
