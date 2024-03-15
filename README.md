@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 18:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 18:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [英国王室上演消失的她](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%AE%A4%E4%B8%8A%E6%BC%94%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [徐正溪退圈原因](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%AD%A3%E6%BA%AA%E9%80%80%E5%9C%88%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=7&Refer=top)<br />
-8. [马卉](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%8D%89&t=31&band_rank=8&Refer=top)<br />
-9. [孙颖莎王楚钦vs韩国队](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%9F%A9%E5%9B%BD%E9%98%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [孙颖莎王楚钦vs韩国队](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%9F%A9%E5%9B%BD%E9%98%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [马卉](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%8D%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
