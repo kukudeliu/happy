@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 11:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 11:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [巧克力可能要涨价了](https://s.weibo.com/weibo?q=%23%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%8F%AF%E8%83%BD%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [抖音买商品拼多多发货](https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E4%B9%B0%E5%95%86%E5%93%81%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%8F%91%E8%B4%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [又有多家医院停止产科分娩服务](https://s.weibo.com/weibo?q=%23%E5%8F%88%E6%9C%89%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E5%81%9C%E6%AD%A2%E4%BA%A7%E7%A7%91%E5%88%86%E5%A8%A9%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [丫丫把苹果啃出鞭炮声](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E6%8A%8A%E8%8B%B9%E6%9E%9C%E5%95%83%E5%87%BA%E9%9E%AD%E7%82%AE%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [戴眼镜会让视力变差是错误认知](https://s.weibo.com/weibo?q=%23%E6%88%B4%E7%9C%BC%E9%95%9C%E4%BC%9A%E8%AE%A9%E8%A7%86%E5%8A%9B%E5%8F%98%E5%B7%AE%E6%98%AF%E9%94%99%E8%AF%AF%E8%AE%A4%E7%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
