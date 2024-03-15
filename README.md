@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 08:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-15 08:46:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [杨威回应双胞胎女儿在家上学](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A8%81%E5%9B%9E%E5%BA%94%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%AE%B6%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [马思纯评论区回复周冬雨](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%9B%9E%E5%A4%8D%E5%91%A8%E5%86%AC%E9%9B%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [日本福岛近海地震核污染水排海停止](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E8%BF%91%E6%B5%B7%E5%9C%B0%E9%9C%87%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%81%9C%E6%AD%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [我一直以为路由器是这么放的](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%80%E7%9B%B4%E4%BB%A5%E4%B8%BA%E8%B7%AF%E7%94%B1%E5%99%A8%E6%98%AF%E8%BF%99%E4%B9%88%E6%94%BE%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [脊柱侧弯女孩术后高了21厘米](https://s.weibo.com/weibo?q=%23%E8%84%8A%E6%9F%B1%E4%BE%A7%E5%BC%AF%E5%A5%B3%E5%AD%A9%E6%9C%AF%E5%90%8E%E9%AB%98%E4%BA%8621%E5%8E%98%E7%B1%B3%23&t=31&band_rank=9&Refer=top)<br />
+8. [脊柱侧弯女孩术后高了21厘米](https://s.weibo.com/weibo?q=%23%E8%84%8A%E6%9F%B1%E4%BE%A7%E5%BC%AF%E5%A5%B3%E5%AD%A9%E6%9C%AF%E5%90%8E%E9%AB%98%E4%BA%8621%E5%8E%98%E7%B1%B3%23&t=31&band_rank=8&Refer=top)<br />
+9. [我一直以为路由器是这么放的](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%80%E7%9B%B4%E4%BB%A5%E4%B8%BA%E8%B7%AF%E7%94%B1%E5%99%A8%E6%98%AF%E8%BF%99%E4%B9%88%E6%94%BE%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
