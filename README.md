@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 22:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 22:32:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [郑合惠子 不要捧一踩一](https://s.weibo.com/weibo?q=%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%20%E4%B8%8D%E8%A6%81%E6%8D%A7%E4%B8%80%E8%B8%A9%E4%B8%80&t=31&band_rank=5&Refer=top)<br />
 6. [孙龙世锦赛夺金](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%BE%99%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A4%BA%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [李菲儿向锦超道歉](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8F%B2%E5%84%BF%E5%90%91%E9%94%A6%E8%B6%85%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [你好星期六预告](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E9%A2%84%E5%91%8A&t=31&band_rank=8&Refer=top)<br />
+8. [孙颖莎说女队水平在伯仲之间](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E5%A5%B3%E9%98%9F%E6%B0%B4%E5%B9%B3%E5%9C%A8%E4%BC%AF%E4%BB%B2%E4%B9%8B%E9%97%B4%23&t=31&band_rank=8&Refer=top)<br />
 9. [江苏淮安一烧烤店发生爆炸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%B7%AE%E5%AE%89%E4%B8%80%E7%83%A7%E7%83%A4%E5%BA%97%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
