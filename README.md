@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 18:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 18:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [多个上门按摩APP被曝涉黄](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%B8%AA%E4%B8%8A%E9%97%A8%E6%8C%89%E6%91%A9APP%E8%A2%AB%E6%9B%9D%E6%B6%89%E9%BB%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [省考行测答案](https://s.weibo.com/weibo?q=%E7%9C%81%E8%80%83%E8%A1%8C%E6%B5%8B%E7%AD%94%E6%A1%88&t=31&band_rank=7&Refer=top)<br />
 8. [甘肃文旅喊话麻辣烫老板注意表情管理](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E6%96%87%E6%97%85%E5%96%8A%E8%AF%9D%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%E6%B3%A8%E6%84%8F%E8%A1%A8%E6%83%85%E7%AE%A1%E7%90%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [小学生卡喉店铺老板冲出来20秒救人](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8D%A1%E5%96%89%E5%BA%97%E9%93%BA%E8%80%81%E6%9D%BF%E5%86%B2%E5%87%BA%E6%9D%A520%E7%A7%92%E6%95%91%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
