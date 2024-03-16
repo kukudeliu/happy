@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 00:08:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 00:09:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [新质生产力下的农田可以这样酷](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E4%B8%8B%E7%9A%84%E5%86%9C%E7%94%B0%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E9%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [58600买的听花酒刚到手就被曝光了](https://www.baidu.com/s?wd=58600%E4%B9%B0%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E8%A2%AB%E6%9B%9D%E5%85%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吴镇宇被张睿气走了](https://www.baidu.com/s?wd=%E5%90%B4%E9%95%87%E5%AE%87%E8%A2%AB%E5%BC%A0%E7%9D%BF%E6%B0%94%E8%B5%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大连警方：男子醉驾造成2名行人死亡](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%94%B7%E5%AD%90%E9%86%89%E9%A9%BE%E9%80%A0%E6%88%902%E5%90%8D%E8%A1%8C%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [茶百道回应门店篡改食品有效期](https://www.baidu.com/s?wd=%E8%8C%B6%E7%99%BE%E9%81%93%E5%9B%9E%E5%BA%94%E9%97%A8%E5%BA%97%E7%AF%A1%E6%94%B9%E9%A3%9F%E5%93%81%E6%9C%89%E6%95%88%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [夸父炸串回应店员使用隔夜食材](https://www.baidu.com/s?wd=%E5%A4%B8%E7%88%B6%E7%82%B8%E4%B8%B2%E5%9B%9E%E5%BA%94%E5%BA%97%E5%91%98%E4%BD%BF%E7%94%A8%E9%9A%94%E5%A4%9C%E9%A3%9F%E6%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [新质生产力下的农田可以这样酷](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E4%B8%8B%E7%9A%84%E5%86%9C%E7%94%B0%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E9%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [58600买的听花酒刚到手就被曝光了](https://www.baidu.com/s?wd=58600%E4%B9%B0%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E8%A2%AB%E6%9B%9D%E5%85%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [吴镇宇被张睿气走了](https://www.baidu.com/s?wd=%E5%90%B4%E9%95%87%E5%AE%87%E8%A2%AB%E5%BC%A0%E7%9D%BF%E6%B0%94%E8%B5%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [大连警方：男子醉驾造成2名行人死亡](https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E8%AD%A6%E6%96%B9%EF%BC%9A%E7%94%B7%E5%AD%90%E9%86%89%E9%A9%BE%E9%80%A0%E6%88%902%E5%90%8D%E8%A1%8C%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [茶百道回应门店篡改食品有效期](https://www.baidu.com/s?wd=%E8%8C%B6%E7%99%BE%E9%81%93%E5%9B%9E%E5%BA%94%E9%97%A8%E5%BA%97%E7%AF%A1%E6%94%B9%E9%A3%9F%E5%93%81%E6%9C%89%E6%95%88%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [夸父炸串回应店员使用隔夜食材](https://www.baidu.com/s?wd=%E5%A4%B8%E7%88%B6%E7%82%B8%E4%B8%B2%E5%9B%9E%E5%BA%94%E5%BA%97%E5%91%98%E4%BD%BF%E7%94%A8%E9%9A%94%E5%A4%9C%E9%A3%9F%E6%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
