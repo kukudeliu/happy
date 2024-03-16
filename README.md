@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 07:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 07:31:01</h4></div>
 
 > 微博  
 
 1. [金价下跌了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=2&Refer=top)<br />
+2. [7旬夫妇住月租850元海景房养老](https://s.weibo.com/weibo?q=%237%E6%97%AC%E5%A4%AB%E5%A6%87%E4%BD%8F%E6%9C%88%E7%A7%9F850%E5%85%83%E6%B5%B7%E6%99%AF%E6%88%BF%E5%85%BB%E8%80%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [有一种意境叫中式美学](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E6%84%8F%E5%A2%83%E5%8F%AB%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%23&t=31&band_rank=3&Refer=top)<br />
-4. [7旬夫妇住月租850元海景房养老](https://s.weibo.com/weibo?q=%237%E6%97%AC%E5%A4%AB%E5%A6%87%E4%BD%8F%E6%9C%88%E7%A7%9F850%E5%85%83%E6%B5%B7%E6%99%AF%E6%88%BF%E5%85%BB%E8%80%81%23&t=31&band_rank=4&Refer=top)<br />
+4. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=4&Refer=top)<br />
 5. [撒贝宁带龙凤胎出行](https://s.weibo.com/weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E5%B8%A6%E9%BE%99%E5%87%A4%E8%83%8E%E5%87%BA%E8%A1%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [父亲希望AI复活乔任梁视频尽快下架](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%B8%8C%E6%9C%9BAI%E5%A4%8D%E6%B4%BB%E4%B9%94%E4%BB%BB%E6%A2%81%E8%A7%86%E9%A2%91%E5%B0%BD%E5%BF%AB%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [林孝埈500米夺金](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88500%E7%B1%B3%E5%A4%BA%E9%87%91%23&t=31&band_rank=7&Refer=top)<br />
