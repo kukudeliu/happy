@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 17:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 17:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [多个上门按摩APP被曝涉黄](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%B8%AA%E4%B8%8A%E9%97%A8%E6%8C%89%E6%91%A9APP%E8%A2%AB%E6%9B%9D%E6%B6%89%E9%BB%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈梦vs王曼昱](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6vs%E7%8E%8B%E6%9B%BC%E6%98%B1&t=31&band_rank=7&Refer=top)<br />
 8. [夸父炸串回应](https://s.weibo.com/weibo?q=%23%E5%A4%B8%E7%88%B6%E7%82%B8%E4%B8%B2%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [河南申论](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E7%94%B3%E8%AE%BA&t=31&band_rank=9&Refer=top)<br />
+9. [甘肃文旅喊话麻辣烫老板注意表情管理](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E6%96%87%E6%97%85%E5%96%8A%E8%AF%9D%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%E6%B3%A8%E6%84%8F%E8%A1%A8%E6%83%85%E7%AE%A1%E7%90%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
