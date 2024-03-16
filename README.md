@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 12:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 12:36:01</h4></div>
 
 > 微博  
 
 1. [省考](https://s.weibo.com/weibo?q=%E7%9C%81%E8%80%83&t=31&band_rank=1&Refer=top)<br />
-2. [数量全C](https://s.weibo.com/weibo?q=%23%E6%95%B0%E9%87%8F%E5%85%A8C%23&t=31&band_rank=2&Refer=top)<br />
+2. [数量全C](https://s.weibo.com/weibo?q=%E6%95%B0%E9%87%8F%E5%85%A8C&t=31&band_rank=2&Refer=top)<br />
 3. [这就是春天里的中国](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%98%A5%E5%A4%A9%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [鸭血 甲醛](https://s.weibo.com/weibo?q=%E9%B8%AD%E8%A1%80%20%E7%94%B2%E9%86%9B&t=31&band_rank=4&Refer=top)<br />
 5. [赵丽颖背上好大一个包](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%83%8C%E4%B8%8A%E5%A5%BD%E5%A4%A7%E4%B8%80%E4%B8%AA%E5%8C%85%23&t=31&band_rank=5&Refer=top)<br />
