@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 22:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 22:29:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [吴镇宇被张睿气走了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%E8%A2%AB%E5%BC%A0%E7%9D%BF%E6%B0%94%E8%B5%B0%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [诚信是安全之基信心之源](https://s.weibo.com/weibo?q=%23%E8%AF%9A%E4%BF%A1%E6%98%AF%E5%AE%89%E5%85%A8%E4%B9%8B%E5%9F%BA%E4%BF%A1%E5%BF%83%E4%B9%8B%E6%BA%90%23&t=31&band_rank=3&Refer=top)<br />
 4. [郑合惠子 不要捧一踩一](https://s.weibo.com/weibo?q=%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%20%E4%B8%8D%E8%A6%81%E6%8D%A7%E4%B8%80%E8%B8%A9%E4%B8%80&t=31&band_rank=4&Refer=top)<br />
-5. [孙龙世锦赛夺金](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%BE%99%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A4%BA%E9%87%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [江苏淮安一烧烤店发生爆炸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%B7%AE%E5%AE%89%E4%B8%80%E7%83%A7%E7%83%A4%E5%BA%97%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [中医从不提倡多喝水](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E4%BB%8E%E4%B8%8D%E6%8F%90%E5%80%A1%E5%A4%9A%E5%96%9D%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
+5. [中医从不提倡多喝水](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E4%BB%8E%E4%B8%8D%E6%8F%90%E5%80%A1%E5%A4%9A%E5%96%9D%E6%B0%B4%23&t=31&band_rank=5&Refer=top)<br />
+6. [孙龙世锦赛夺金](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%BE%99%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A4%BA%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
+7. [江苏淮安一烧烤店发生爆炸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%B7%AE%E5%AE%89%E4%B8%80%E7%83%A7%E7%83%A4%E5%BA%97%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [李菲儿向锦超道歉](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8F%B2%E5%84%BF%E5%90%91%E9%94%A6%E8%B6%85%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [你好星期六预告](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E9%A2%84%E5%91%8A&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,9 +22,9 @@
 3. [中国地质大学回应教授疑用AI写论文](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%95%99%E6%8E%88%E7%96%91%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [人勤春来早 田间春管忙](https://www.baidu.com/s?wd=%E4%BA%BA%E5%8B%A4%E6%98%A5%E6%9D%A5%E6%97%A9+%E7%94%B0%E9%97%B4%E6%98%A5%E7%AE%A1%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [545名消防员赶赴四川雅江山火现场](https://www.baidu.com/s?wd=545%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E8%B5%B6%E8%B5%B4%E5%9B%9B%E5%B7%9D%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [江宏杰已接到孩子离开日本](https://www.baidu.com/s?wd=%E6%B1%9F%E5%AE%8F%E6%9D%B0%E5%B7%B2%E6%8E%A5%E5%88%B0%E5%AD%A9%E5%AD%90%E7%A6%BB%E5%BC%80%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王传福：新能源车进入惨烈淘汰赛](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E6%83%A8%E7%83%88%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [听花酒315晚会前两个小时还在自夸](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92315%E6%99%9A%E4%BC%9A%E5%89%8D%E4%B8%A4%E4%B8%AA%E5%B0%8F%E6%97%B6%E8%BF%98%E5%9C%A8%E8%87%AA%E5%A4%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [江宏杰已接到孩子离开日本](https://www.baidu.com/s?wd=%E6%B1%9F%E5%AE%8F%E6%9D%B0%E5%B7%B2%E6%8E%A5%E5%88%B0%E5%AD%A9%E5%AD%90%E7%A6%BB%E5%BC%80%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [06年小伙摆摊卖榴莲饼月入三四万](https://www.baidu.com/s?wd=06%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%91%86%E6%91%8A%E5%8D%96%E6%A6%B4%E8%8E%B2%E9%A5%BC%E6%9C%88%E5%85%A5%E4%B8%89%E5%9B%9B%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [中国地质大学回应教授疑用AI写论文](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%95%99%E6%8E%88%E7%96%91%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [人勤春来早 田间春管忙](https://www.baidu.com/s?wd=%E4%BA%BA%E5%8B%A4%E6%98%A5%E6%9D%A5%E6%97%A9+%E7%94%B0%E9%97%B4%E6%98%A5%E7%AE%A1%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [545名消防员赶赴四川雅江山火现场](https://www.baidu.com/s?wd=545%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E8%B5%B6%E8%B5%B4%E5%9B%9B%E5%B7%9D%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [江宏杰已接到孩子离开日本](https://www.baidu.com/s?wd=%E6%B1%9F%E5%AE%8F%E6%9D%B0%E5%B7%B2%E6%8E%A5%E5%88%B0%E5%AD%A9%E5%AD%90%E7%A6%BB%E5%BC%80%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王传福：新能源车进入惨烈淘汰赛](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E6%83%A8%E7%83%88%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [听花酒315晚会前两个小时还在自夸](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92315%E6%99%9A%E4%BC%9A%E5%89%8D%E4%B8%A4%E4%B8%AA%E5%B0%8F%E6%97%B6%E8%BF%98%E5%9C%A8%E8%87%AA%E5%A4%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [江宏杰已接到孩子离开日本](https://www.baidu.com/s?wd=%E6%B1%9F%E5%AE%8F%E6%9D%B0%E5%B7%B2%E6%8E%A5%E5%88%B0%E5%AD%A9%E5%AD%90%E7%A6%BB%E5%BC%80%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [06年小伙摆摊卖榴莲饼月入三四万](https://www.baidu.com/s?wd=06%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%91%86%E6%91%8A%E5%8D%96%E6%A6%B4%E8%8E%B2%E9%A5%BC%E6%9C%88%E5%85%A5%E4%B8%89%E5%9B%9B%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
