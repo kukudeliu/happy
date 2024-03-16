@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 07:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 07:38:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [“百闻不如一见”](https://www.baidu.com/s?wd=%E2%80%9C%E7%99%BE%E9%97%BB%E4%B8%8D%E5%A6%82%E4%B8%80%E8%A7%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [全国结婚人数近十年来首次回升](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E8%BF%91%E5%8D%81%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [金价下跌了](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [最年轻俄总统候选人刚过完40岁生日](https://www.baidu.com/s?wd=%E6%9C%80%E5%B9%B4%E8%BD%BB%E4%BF%84%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E5%88%9A%E8%BF%87%E5%AE%8C40%E5%B2%81%E7%94%9F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新质生产力下的农田可以这样酷](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E4%B8%8B%E7%9A%84%E5%86%9C%E7%94%B0%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E9%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [58600买的听花酒刚到手就被曝光了](https://www.baidu.com/s?wd=58600%E4%B9%B0%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E8%A2%AB%E6%9B%9D%E5%85%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [“百闻不如一见”](https://www.baidu.com/s?wd=%E2%80%9C%E7%99%BE%E9%97%BB%E4%B8%8D%E5%A6%82%E4%B8%80%E8%A7%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [全国结婚人数近十年来首次回升](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E8%BF%91%E5%8D%81%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [金价下跌了](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [最年轻俄总统候选人刚过完40岁生日](https://www.baidu.com/s?wd=%E6%9C%80%E5%B9%B4%E8%BD%BB%E4%BF%84%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E5%88%9A%E8%BF%87%E5%AE%8C40%E5%B2%81%E7%94%9F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新质生产力下的农田可以这样酷](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E4%B8%8B%E7%9A%84%E5%86%9C%E7%94%B0%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E9%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [58600买的听花酒刚到手就被曝光了](https://www.baidu.com/s?wd=58600%E4%B9%B0%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E8%A2%AB%E6%9B%9D%E5%85%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
