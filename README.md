@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 22:25:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 22:26:01</h4></div>
 
 > 微博  
 
-1. [吴镇宇被张睿气走了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%E8%A2%AB%E5%BC%A0%E7%9D%BF%E6%B0%94%E8%B5%B0%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [威廉王子修图风波后首谈凯特王妃](https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E4%BF%AE%E5%9B%BE%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E8%B0%88%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%23&t=31&band_rank=2&Refer=top)<br />
+1. [威廉王子修图风波后首谈凯特王妃](https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E4%BF%AE%E5%9B%BE%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E8%B0%88%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%23&t=31&band_rank=1&Refer=top)<br />
+2. [吴镇宇被张睿气走了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%E8%A2%AB%E5%BC%A0%E7%9D%BF%E6%B0%94%E8%B5%B0%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [诚信是安全之基信心之源](https://s.weibo.com/weibo?q=%23%E8%AF%9A%E4%BF%A1%E6%98%AF%E5%AE%89%E5%85%A8%E4%B9%8B%E5%9F%BA%E4%BF%A1%E5%BF%83%E4%B9%8B%E6%BA%90%23&t=31&band_rank=3&Refer=top)<br />
-4. [江苏淮安一烧烤店发生爆炸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%B7%AE%E5%AE%89%E4%B8%80%E7%83%A7%E7%83%A4%E5%BA%97%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=4&Refer=top)<br />
-5. [郑合惠子 不要捧一踩一](https://s.weibo.com/weibo?q=%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%20%E4%B8%8D%E8%A6%81%E6%8D%A7%E4%B8%80%E8%B8%A9%E4%B8%80&t=31&band_rank=5&Refer=top)<br />
-6. [中医从不提倡多喝水](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E4%BB%8E%E4%B8%8D%E6%8F%90%E5%80%A1%E5%A4%9A%E5%96%9D%E6%B0%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [孙龙世锦赛夺金](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%BE%99%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A4%BA%E9%87%91%23&t=31&band_rank=7&Refer=top)<br />
+4. [郑合惠子 不要捧一踩一](https://s.weibo.com/weibo?q=%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%20%E4%B8%8D%E8%A6%81%E6%8D%A7%E4%B8%80%E8%B8%A9%E4%B8%80&t=31&band_rank=4&Refer=top)<br />
+5. [江苏淮安一烧烤店发生爆炸](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%B7%AE%E5%AE%89%E4%B8%80%E7%83%A7%E7%83%A4%E5%BA%97%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=5&Refer=top)<br />
+6. [孙龙世锦赛夺金](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%BE%99%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A4%BA%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
+7. [中医从不提倡多喝水](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E4%BB%8E%E4%B8%8D%E6%8F%90%E5%80%A1%E5%A4%9A%E5%96%9D%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [李菲儿向锦超道歉](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8F%B2%E5%84%BF%E5%90%91%E9%94%A6%E8%B6%85%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [陈梦王曼昱夺冠](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%BA%E5%86%A0%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,9 +22,9 @@
 3. [中国地质大学回应教授疑用AI写论文](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%95%99%E6%8E%88%E7%96%91%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [人勤春来早 田间春管忙](https://www.baidu.com/s?wd=%E4%BA%BA%E5%8B%A4%E6%98%A5%E6%9D%A5%E6%97%A9+%E7%94%B0%E9%97%B4%E6%98%A5%E7%AE%A1%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [545名消防员赶赴四川雅江山火现场](https://www.baidu.com/s?wd=545%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E8%B5%B6%E8%B5%B4%E5%9B%9B%E5%B7%9D%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [天水文旅喊话麻辣烫老板注意表情](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E6%96%87%E6%97%85%E5%96%8A%E8%AF%9D%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%E6%B3%A8%E6%84%8F%E8%A1%A8%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [江宏杰已接到孩子离开日本](https://www.baidu.com/s?wd=%E6%B1%9F%E5%AE%8F%E6%9D%B0%E5%B7%B2%E6%8E%A5%E5%88%B0%E5%AD%A9%E5%AD%90%E7%A6%BB%E5%BC%80%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [止跌回升：去年结婚登记数768万对](https://www.baidu.com/s?wd=%E6%AD%A2%E8%B7%8C%E5%9B%9E%E5%8D%87%EF%BC%9A%E5%8E%BB%E5%B9%B4%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E6%95%B0768%E4%B8%87%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [江宏杰已接到孩子离开日本](https://www.baidu.com/s?wd=%E6%B1%9F%E5%AE%8F%E6%9D%B0%E5%B7%B2%E6%8E%A5%E5%88%B0%E5%AD%A9%E5%AD%90%E7%A6%BB%E5%BC%80%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王传福：新能源车进入惨烈淘汰赛](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E6%83%A8%E7%83%88%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [听花酒315晚会前两个小时还在自夸](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92315%E6%99%9A%E4%BC%9A%E5%89%8D%E4%B8%A4%E4%B8%AA%E5%B0%8F%E6%97%B6%E8%BF%98%E5%9C%A8%E8%87%AA%E5%A4%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [中国地质大学回应教授疑用AI写论文](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%95%99%E6%8E%88%E7%96%91%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [人勤春来早 田间春管忙](https://www.baidu.com/s?wd=%E4%BA%BA%E5%8B%A4%E6%98%A5%E6%9D%A5%E6%97%A9+%E7%94%B0%E9%97%B4%E6%98%A5%E7%AE%A1%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [545名消防员赶赴四川雅江山火现场](https://www.baidu.com/s?wd=545%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E8%B5%B6%E8%B5%B4%E5%9B%9B%E5%B7%9D%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [天水文旅喊话麻辣烫老板注意表情](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E6%96%87%E6%97%85%E5%96%8A%E8%AF%9D%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%E6%B3%A8%E6%84%8F%E8%A1%A8%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [江宏杰已接到孩子离开日本](https://www.baidu.com/s?wd=%E6%B1%9F%E5%AE%8F%E6%9D%B0%E5%B7%B2%E6%8E%A5%E5%88%B0%E5%AD%A9%E5%AD%90%E7%A6%BB%E5%BC%80%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [止跌回升：去年结婚登记数768万对](https://www.baidu.com/s?wd=%E6%AD%A2%E8%B7%8C%E5%9B%9E%E5%8D%87%EF%BC%9A%E5%8E%BB%E5%B9%B4%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E6%95%B0768%E4%B8%87%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [江宏杰已接到孩子离开日本](https://www.baidu.com/s?wd=%E6%B1%9F%E5%AE%8F%E6%9D%B0%E5%B7%B2%E6%8E%A5%E5%88%B0%E5%AD%A9%E5%AD%90%E7%A6%BB%E5%BC%80%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王传福：新能源车进入惨烈淘汰赛](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E6%83%A8%E7%83%88%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [听花酒315晚会前两个小时还在自夸](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92315%E6%99%9A%E4%BC%9A%E5%89%8D%E4%B8%A4%E4%B8%AA%E5%B0%8F%E6%97%B6%E8%BF%98%E5%9C%A8%E8%87%AA%E5%A4%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
