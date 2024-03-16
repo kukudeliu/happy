@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 01:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 01:55:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [中国地质大学回应教授疑用AI写论文](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%95%99%E6%8E%88%E7%96%91%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新质生产力下的农田可以这样酷](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E4%B8%8B%E7%9A%84%E5%86%9C%E7%94%B0%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E9%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [58600买的听花酒刚到手就被曝光了](https://www.baidu.com/s?wd=58600%E4%B9%B0%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E8%A2%AB%E6%9B%9D%E5%85%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [俄总统大选一投票站遭炮击 普京回应](https://www.baidu.com/s?wd=%E4%BF%84%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89%E4%B8%80%E6%8A%95%E7%A5%A8%E7%AB%99%E9%81%AD%E7%82%AE%E5%87%BB+%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [听花酒315晚会前两个小时还在自夸](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92315%E6%99%9A%E4%BC%9A%E5%89%8D%E4%B8%A4%E4%B8%AA%E5%B0%8F%E6%97%B6%E8%BF%98%E5%9C%A8%E8%87%AA%E5%A4%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王传福：新能源车进入惨烈淘汰赛](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E6%83%A8%E7%83%88%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [天水文旅喊话麻辣烫老板注意表情](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E6%96%87%E6%97%85%E5%96%8A%E8%AF%9D%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%E6%B3%A8%E6%84%8F%E8%A1%A8%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王传福：新能源车进入惨烈淘汰赛](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E6%83%A8%E7%83%88%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江宏杰已接到孩子离开日本](https://www.baidu.com/s?wd=%E6%B1%9F%E5%AE%8F%E6%9D%B0%E5%B7%B2%E6%8E%A5%E5%88%B0%E5%AD%A9%E5%AD%90%E7%A6%BB%E5%BC%80%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [中国地质大学回应教授疑用AI写论文](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%95%99%E6%8E%88%E7%96%91%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新质生产力下的农田可以这样酷](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E4%B8%8B%E7%9A%84%E5%86%9C%E7%94%B0%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E9%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [58600买的听花酒刚到手就被曝光了](https://www.baidu.com/s?wd=58600%E4%B9%B0%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E8%A2%AB%E6%9B%9D%E5%85%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [俄总统大选一投票站遭炮击 普京回应](https://www.baidu.com/s?wd=%E4%BF%84%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89%E4%B8%80%E6%8A%95%E7%A5%A8%E7%AB%99%E9%81%AD%E7%82%AE%E5%87%BB+%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [听花酒315晚会前两个小时还在自夸](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92315%E6%99%9A%E4%BC%9A%E5%89%8D%E4%B8%A4%E4%B8%AA%E5%B0%8F%E6%97%B6%E8%BF%98%E5%9C%A8%E8%87%AA%E5%A4%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王传福：新能源车进入惨烈淘汰赛](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E6%83%A8%E7%83%88%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [天水文旅喊话麻辣烫老板注意表情](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E6%96%87%E6%97%85%E5%96%8A%E8%AF%9D%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%E6%B3%A8%E6%84%8F%E8%A1%A8%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王传福：新能源车进入惨烈淘汰赛](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E6%83%A8%E7%83%88%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [江宏杰已接到孩子离开日本](https://www.baidu.com/s?wd=%E6%B1%9F%E5%AE%8F%E6%9D%B0%E5%B7%B2%E6%8E%A5%E5%88%B0%E5%AD%A9%E5%AD%90%E7%A6%BB%E5%BC%80%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
