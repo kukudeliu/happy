@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 02:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 03:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [焉栩嘉头发都被扇飞了](https://s.weibo.com/weibo?q=%23%E7%84%89%E6%A0%A9%E5%98%89%E5%A4%B4%E5%8F%91%E9%83%BD%E8%A2%AB%E6%89%87%E9%A3%9E%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [林孝埈500米夺金](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88500%E7%B1%B3%E5%A4%BA%E9%87%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [何悯鸿向渣男下跪](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%82%AF%E9%B8%BF%E5%90%91%E6%B8%A3%E7%94%B7%E4%B8%8B%E8%B7%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [中医从不提倡多喝水](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E4%BB%8E%E4%B8%8D%E6%8F%90%E5%80%A1%E5%A4%9A%E5%96%9D%E6%B0%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
