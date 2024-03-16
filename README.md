@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 22:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 22:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中医从不提倡多喝水](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E4%BB%8E%E4%B8%8D%E6%8F%90%E5%80%A1%E5%A4%9A%E5%96%9D%E6%B0%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈梦王曼昱夺冠](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%BA%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [唐嫣赫本公主风](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E8%B5%AB%E6%9C%AC%E5%85%AC%E4%B8%BB%E9%A3%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [王艺迪说自己整体能力不够](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%BA%E8%BF%AA%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%95%B4%E4%BD%93%E8%83%BD%E5%8A%9B%E4%B8%8D%E5%A4%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [雅江山火](https://s.weibo.com/weibo?q=%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
