@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 00:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 00:16:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [中国地质大学回应教授疑用AI写论文](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%95%99%E6%8E%88%E7%96%91%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新质生产力下的农田可以这样酷](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E4%B8%8B%E7%9A%84%E5%86%9C%E7%94%B0%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E9%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [58600买的听花酒刚到手就被曝光了](https://www.baidu.com/s?wd=58600%E4%B9%B0%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E8%A2%AB%E6%9B%9D%E5%85%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [吴镇宇被张睿气走了](https://www.baidu.com/s?wd=%E5%90%B4%E9%95%87%E5%AE%87%E8%A2%AB%E5%BC%A0%E7%9D%BF%E6%B0%94%E8%B5%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [夸父炸串回应店员使用隔夜食材](https://www.baidu.com/s?wd=%E5%A4%B8%E7%88%B6%E7%82%B8%E4%B8%B2%E5%9B%9E%E5%BA%94%E5%BA%97%E5%91%98%E4%BD%BF%E7%94%A8%E9%9A%94%E5%A4%9C%E9%A3%9F%E6%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [夸父炸串回应店员使用隔夜食材](https://www.baidu.com/s?wd=%E5%A4%B8%E7%88%B6%E7%82%B8%E4%B8%B2%E5%9B%9E%E5%BA%94%E5%BA%97%E5%91%98%E4%BD%BF%E7%94%A8%E9%9A%94%E5%A4%9C%E9%A3%9F%E6%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [最年轻俄总统候选人刚过完40岁生日](https://www.baidu.com/s?wd=%E6%9C%80%E5%B9%B4%E8%BD%BB%E4%BF%84%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E5%88%9A%E8%BF%87%E5%AE%8C40%E5%B2%81%E7%94%9F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马面裙订单量同比增841%](https://www.baidu.com/s?wd=%E9%A9%AC%E9%9D%A2%E8%A3%99%E8%AE%A2%E5%8D%95%E9%87%8F%E5%90%8C%E6%AF%94%E5%A2%9E841%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [中国地质大学回应教授疑用AI写论文](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%95%99%E6%8E%88%E7%96%91%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新质生产力下的农田可以这样酷](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E4%B8%8B%E7%9A%84%E5%86%9C%E7%94%B0%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E9%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [58600买的听花酒刚到手就被曝光了](https://www.baidu.com/s?wd=58600%E4%B9%B0%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E8%A2%AB%E6%9B%9D%E5%85%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [吴镇宇被张睿气走了](https://www.baidu.com/s?wd=%E5%90%B4%E9%95%87%E5%AE%87%E8%A2%AB%E5%BC%A0%E7%9D%BF%E6%B0%94%E8%B5%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [夸父炸串回应店员使用隔夜食材](https://www.baidu.com/s?wd=%E5%A4%B8%E7%88%B6%E7%82%B8%E4%B8%B2%E5%9B%9E%E5%BA%94%E5%BA%97%E5%91%98%E4%BD%BF%E7%94%A8%E9%9A%94%E5%A4%9C%E9%A3%9F%E6%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [夸父炸串回应店员使用隔夜食材](https://www.baidu.com/s?wd=%E5%A4%B8%E7%88%B6%E7%82%B8%E4%B8%B2%E5%9B%9E%E5%BA%94%E5%BA%97%E5%91%98%E4%BD%BF%E7%94%A8%E9%9A%94%E5%A4%9C%E9%A3%9F%E6%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [最年轻俄总统候选人刚过完40岁生日](https://www.baidu.com/s?wd=%E6%9C%80%E5%B9%B4%E8%BD%BB%E4%BF%84%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E5%88%9A%E8%BF%87%E5%AE%8C40%E5%B2%81%E7%94%9F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马面裙订单量同比增841%](https://www.baidu.com/s?wd=%E9%A9%AC%E9%9D%A2%E8%A3%99%E8%AE%A2%E5%8D%95%E9%87%8F%E5%90%8C%E6%AF%94%E5%A2%9E841%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
