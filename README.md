@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 14:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 14:54:01</h4></div>
 
 > 微博  
 
-1. [女子快递收到13kg价值657万金条懵了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1%E6%87%B5%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [夸父炸串回应](https://s.weibo.com/weibo?q=%23%E5%A4%B8%E7%88%B6%E7%82%B8%E4%B8%B2%E5%9B%9E%E5%BA%94%23&t=31&band_rank=2&Refer=top)<br />
+1. [夸父炸串回应](https://s.weibo.com/weibo?q=%23%E5%A4%B8%E7%88%B6%E7%82%B8%E4%B8%B2%E5%9B%9E%E5%BA%94%23&t=31&band_rank=1&Refer=top)<br />
+2. [女子快递收到13kg价值657万金条懵了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1%E6%87%B5%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [这就是春天里的中国](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%98%A5%E5%A4%A9%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [鸭血 甲醛](https://s.weibo.com/weibo?q=%E9%B8%AD%E8%A1%80%20%E7%94%B2%E9%86%9B&t=31&band_rank=4&Refer=top)<br />
 5. [老舅把陈赫认成酒店安保](https://s.weibo.com/weibo?q=%23%E8%80%81%E8%88%85%E6%8A%8A%E9%99%88%E8%B5%AB%E8%AE%A4%E6%88%90%E9%85%92%E5%BA%97%E5%AE%89%E4%BF%9D%23&t=31&band_rank=5&Refer=top)<br />
