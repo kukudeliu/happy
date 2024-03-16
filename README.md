@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 22:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 22:36:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [中国地质大学回应教授疑用AI写论文](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%95%99%E6%8E%88%E7%96%91%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [人勤春来早 田间春管忙](https://www.baidu.com/s?wd=%E4%BA%BA%E5%8B%A4%E6%98%A5%E6%9D%A5%E6%97%A9+%E7%94%B0%E9%97%B4%E6%98%A5%E7%AE%A1%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [545名消防员赶赴四川雅江山火现场](https://www.baidu.com/s?wd=545%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E8%B5%B6%E8%B5%B4%E5%9B%9B%E5%B7%9D%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [乱港艺人王宗尧被判入狱74个月](https://www.baidu.com/s?wd=%E4%B9%B1%E6%B8%AF%E8%89%BA%E4%BA%BA%E7%8E%8B%E5%AE%97%E5%B0%A7%E8%A2%AB%E5%88%A4%E5%85%A5%E7%8B%B174%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [抢劫团伙卧底电诈团伙抢走40余万](https://www.baidu.com/s?wd=%E6%8A%A2%E5%8A%AB%E5%9B%A2%E4%BC%99%E5%8D%A7%E5%BA%95%E7%94%B5%E8%AF%88%E5%9B%A2%E4%BC%99%E6%8A%A2%E8%B5%B040%E4%BD%99%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友反映成都天气异常发黄 当地回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%8D%E6%98%A0%E6%88%90%E9%83%BD%E5%A4%A9%E6%B0%94%E5%BC%82%E5%B8%B8%E5%8F%91%E9%BB%84+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [院士回应新能源汽车6大质疑](https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%E5%9B%9E%E5%BA%94%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A66%E5%A4%A7%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [中国地质大学回应教授疑用AI写论文](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%95%99%E6%8E%88%E7%96%91%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [人勤春来早 田间春管忙](https://www.baidu.com/s?wd=%E4%BA%BA%E5%8B%A4%E6%98%A5%E6%9D%A5%E6%97%A9+%E7%94%B0%E9%97%B4%E6%98%A5%E7%AE%A1%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [545名消防员赶赴四川雅江山火现场](https://www.baidu.com/s?wd=545%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E8%B5%B6%E8%B5%B4%E5%9B%9B%E5%B7%9D%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [乱港艺人王宗尧被判入狱74个月](https://www.baidu.com/s?wd=%E4%B9%B1%E6%B8%AF%E8%89%BA%E4%BA%BA%E7%8E%8B%E5%AE%97%E5%B0%A7%E8%A2%AB%E5%88%A4%E5%85%A5%E7%8B%B174%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [抢劫团伙卧底电诈团伙抢走40余万](https://www.baidu.com/s?wd=%E6%8A%A2%E5%8A%AB%E5%9B%A2%E4%BC%99%E5%8D%A7%E5%BA%95%E7%94%B5%E8%AF%88%E5%9B%A2%E4%BC%99%E6%8A%A2%E8%B5%B040%E4%BD%99%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [网友反映成都天气异常发黄 当地回应](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%8D%E6%98%A0%E6%88%90%E9%83%BD%E5%A4%A9%E6%B0%94%E5%BC%82%E5%B8%B8%E5%8F%91%E9%BB%84+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [院士回应新能源汽车6大质疑](https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%E5%9B%9E%E5%BA%94%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A66%E5%A4%A7%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
