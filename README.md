@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 14:27:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 14:29:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [鸭血 甲醛](https://s.weibo.com/weibo?q=%E9%B8%AD%E8%A1%80%20%E7%94%B2%E9%86%9B&t=31&band_rank=2&Refer=top)<br />
 3. [这就是春天里的中国](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%98%A5%E5%A4%A9%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [老舅把陈赫认成酒店安保](https://s.weibo.com/weibo?q=%23%E8%80%81%E8%88%85%E6%8A%8A%E9%99%88%E8%B5%AB%E8%AE%A4%E6%88%90%E9%85%92%E5%BA%97%E5%AE%89%E4%BF%9D%23&t=31&band_rank=4&Refer=top)<br />
-5. [媒体称赵丽颖是行业一根救命稻草](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E7%A7%B0%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%AF%E8%A1%8C%E4%B8%9A%E4%B8%80%E6%A0%B9%E6%95%91%E5%91%BD%E7%A8%BB%E8%8D%89%23&t=31&band_rank=5&Refer=top)<br />
-6. [省考](https://s.weibo.com/weibo?q=%E7%9C%81%E8%80%83&t=31&band_rank=6&Refer=top)<br />
-7. [王诗龄与同学合照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E4%B8%8E%E5%90%8C%E5%AD%A6%E5%90%88%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
+5. [王诗龄与同学合照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E4%B8%8E%E5%90%8C%E5%AD%A6%E5%90%88%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
+6. [媒体称赵丽颖是行业一根救命稻草](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E7%A7%B0%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%AF%E8%A1%8C%E4%B8%9A%E4%B8%80%E6%A0%B9%E6%95%91%E5%91%BD%E7%A8%BB%E8%8D%89%23&t=31&band_rank=6&Refer=top)<br />
+7. [省考](https://s.weibo.com/weibo?q=%E7%9C%81%E8%80%83&t=31&band_rank=7&Refer=top)<br />
 8. [陈都灵唐装](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%E5%94%90%E8%A3%85&t=31&band_rank=8&Refer=top)<br />
-9. [数量全C](https://s.weibo.com/weibo?q=%E6%95%B0%E9%87%8F%E5%85%A8C&t=31&band_rank=9&Refer=top)<br />
+9. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [东方甄选回应卖315点名槽头肉扣肉](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%9B%9E%E5%BA%94%E5%8D%96315%E7%82%B9%E5%90%8D%E6%A7%BD%E5%A4%B4%E8%82%89%E6%89%A3%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张雪峰老师称听花酒和他没关系](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%80%81%E5%B8%88%E7%A7%B0%E5%90%AC%E8%8A%B1%E9%85%92%E5%92%8C%E4%BB%96%E6%B2%A1%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [10岁小学生见路旁车没锁直接开走](https://www.baidu.com/s?wd=10%E5%B2%81%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%81%E8%B7%AF%E6%97%81%E8%BD%A6%E6%B2%A1%E9%94%81%E7%9B%B4%E6%8E%A5%E5%BC%80%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [世纪佳缘暂停涉事门店经营活动](https://www.baidu.com/s?wd=%E4%B8%96%E7%BA%AA%E4%BD%B3%E7%BC%98%E6%9A%82%E5%81%9C%E6%B6%89%E4%BA%8B%E9%97%A8%E5%BA%97%E7%BB%8F%E8%90%A5%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [沙丘2后遗症](https://www.baidu.com/s?wd=%E6%B2%99%E4%B8%982%E5%90%8E%E9%81%97%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣交警测酒驾可以作弊](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%BA%A4%E8%AD%A6%E6%B5%8B%E9%85%92%E9%A9%BE%E5%8F%AF%E4%BB%A5%E4%BD%9C%E5%BC%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [东方甄选回应卖315点名槽头肉扣肉](https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%9B%9E%E5%BA%94%E5%8D%96315%E7%82%B9%E5%90%8D%E6%A7%BD%E5%A4%B4%E8%82%89%E6%89%A3%E8%82%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张雪峰老师称听花酒和他没关系](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%80%81%E5%B8%88%E7%A7%B0%E5%90%AC%E8%8A%B1%E9%85%92%E5%92%8C%E4%BB%96%E6%B2%A1%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [10岁小学生见路旁车没锁直接开走](https://www.baidu.com/s?wd=10%E5%B2%81%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%81%E8%B7%AF%E6%97%81%E8%BD%A6%E6%B2%A1%E9%94%81%E7%9B%B4%E6%8E%A5%E5%BC%80%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [世纪佳缘暂停涉事门店经营活动](https://www.baidu.com/s?wd=%E4%B8%96%E7%BA%AA%E4%BD%B3%E7%BC%98%E6%9A%82%E5%81%9C%E6%B6%89%E4%BA%8B%E9%97%A8%E5%BA%97%E7%BB%8F%E8%90%A5%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [沙丘2后遗症](https://www.baidu.com/s?wd=%E6%B2%99%E4%B8%982%E5%90%8E%E9%81%97%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣交警测酒驾可以作弊](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%BA%A4%E8%AD%A6%E6%B5%8B%E9%85%92%E9%A9%BE%E5%8F%AF%E4%BB%A5%E4%BD%9C%E5%BC%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
