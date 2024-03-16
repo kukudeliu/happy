@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 01:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 01:16:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [58600买的听花酒刚到手就被曝光了](https://www.baidu.com/s?wd=58600%E4%B9%B0%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E8%A2%AB%E6%9B%9D%E5%85%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [听花酒母公司：全面展开自查整改](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E6%AF%8D%E5%85%AC%E5%8F%B8%EF%BC%9A%E5%85%A8%E9%9D%A2%E5%B1%95%E5%BC%80%E8%87%AA%E6%9F%A5%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [最年轻俄总统候选人刚过完40岁生日](https://www.baidu.com/s?wd=%E6%9C%80%E5%B9%B4%E8%BD%BB%E4%BF%84%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E5%88%9A%E8%BF%87%E5%AE%8C40%E5%B2%81%E7%94%9F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多个上门按摩APP被曝涉黄](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E4%B8%8A%E9%97%A8%E6%8C%89%E6%91%A9APP%E8%A2%AB%E6%9B%9D%E6%B6%89%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [58600买的听花酒刚到手就被曝光了](https://www.baidu.com/s?wd=58600%E4%B9%B0%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E8%A2%AB%E6%9B%9D%E5%85%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [听花酒母公司：全面展开自查整改](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E6%AF%8D%E5%85%AC%E5%8F%B8%EF%BC%9A%E5%85%A8%E9%9D%A2%E5%B1%95%E5%BC%80%E8%87%AA%E6%9F%A5%E6%95%B4%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [最年轻俄总统候选人刚过完40岁生日](https://www.baidu.com/s?wd=%E6%9C%80%E5%B9%B4%E8%BD%BB%E4%BF%84%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E5%88%9A%E8%BF%87%E5%AE%8C40%E5%B2%81%E7%94%9F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多个上门按摩APP被曝涉黄](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E4%B8%8A%E9%97%A8%E6%8C%89%E6%91%A9APP%E8%A2%AB%E6%9B%9D%E6%B6%89%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
