@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 15:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 15:38:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [这就是春天里的中国](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%98%A5%E5%A4%A9%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子快递收到13kg价值657万金条懵了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1%E6%87%B5%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [鸭血 甲醛](https://s.weibo.com/weibo?q=%E9%B8%AD%E8%A1%80%20%E7%94%B2%E9%86%9B&t=31&band_rank=5&Refer=top)<br />
-6. [林俊杰咖啡车](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%92%96%E5%95%A1%E8%BD%A6&t=31&band_rank=6&Refer=top)<br />
-7. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=7&Refer=top)<br />
-8. [26岁规培女医生在医院卫生间自杀](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E8%A7%84%E5%9F%B9%E5%A5%B3%E5%8C%BB%E7%94%9F%E5%9C%A8%E5%8C%BB%E9%99%A2%E5%8D%AB%E7%94%9F%E9%97%B4%E8%87%AA%E6%9D%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [郑合惠子发声](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
+6. [郑合惠子发声](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
+7. [林俊杰咖啡车](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%92%96%E5%95%A1%E8%BD%A6&t=31&band_rank=7&Refer=top)<br />
+8. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=8&Refer=top)<br />
+9. [26岁规培女医生在医院卫生间自杀](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E8%A7%84%E5%9F%B9%E5%A5%B3%E5%8C%BB%E7%94%9F%E5%9C%A8%E5%8C%BB%E9%99%A2%E5%8D%AB%E7%94%9F%E9%97%B4%E8%87%AA%E6%9D%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
