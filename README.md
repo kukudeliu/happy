@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 20:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 20:19:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [珍爱网76岁董事长道歉](https://www.baidu.com/s?wd=%E7%8F%8D%E7%88%B1%E7%BD%9176%E5%B2%81%E8%91%A3%E4%BA%8B%E9%95%BF%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [人勤春来早 田间春管忙](https://www.baidu.com/s?wd=%E4%BA%BA%E5%8B%A4%E6%98%A5%E6%9D%A5%E6%97%A9+%E7%94%B0%E9%97%B4%E6%98%A5%E7%AE%A1%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天水文旅喊话麻辣烫老板注意表情](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E6%96%87%E6%97%85%E5%96%8A%E8%AF%9D%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%E6%B3%A8%E6%84%8F%E8%A1%A8%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [沙丘2后遗症](https://www.baidu.com/s?wd=%E6%B2%99%E4%B8%982%E5%90%8E%E9%81%97%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [“天水麻辣烫”烫到A股](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E2%80%9D%E7%83%AB%E5%88%B0A%E8%82%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [福州公安介入调查恋爱体验馆](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E5%85%AC%E5%AE%89%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E6%81%8B%E7%88%B1%E4%BD%93%E9%AA%8C%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [珍爱网76岁董事长道歉](https://www.baidu.com/s?wd=%E7%8F%8D%E7%88%B1%E7%BD%9176%E5%B2%81%E8%91%A3%E4%BA%8B%E9%95%BF%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [人勤春来早 田间春管忙](https://www.baidu.com/s?wd=%E4%BA%BA%E5%8B%A4%E6%98%A5%E6%9D%A5%E6%97%A9+%E7%94%B0%E9%97%B4%E6%98%A5%E7%AE%A1%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天水文旅喊话麻辣烫老板注意表情](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E6%96%87%E6%97%85%E5%96%8A%E8%AF%9D%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%E6%B3%A8%E6%84%8F%E8%A1%A8%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [沙丘2后遗症](https://www.baidu.com/s?wd=%E6%B2%99%E4%B8%982%E5%90%8E%E9%81%97%E7%97%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [“天水麻辣烫”烫到A股](https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E2%80%9D%E7%83%AB%E5%88%B0A%E8%82%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [福州公安介入调查恋爱体验馆](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E5%85%AC%E5%AE%89%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E6%81%8B%E7%88%B1%E4%BD%93%E9%AA%8C%E9%A6%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
