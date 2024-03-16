@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 08:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 08:47:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [夸父炸串](https://s.weibo.com/weibo?q=%E5%A4%B8%E7%88%B6%E7%82%B8%E4%B8%B2&t=31&band_rank=4&Refer=top)<br />
 5. [茶颜悦色放置半小时仅剩半杯](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E6%94%BE%E7%BD%AE%E5%8D%8A%E5%B0%8F%E6%97%B6%E4%BB%85%E5%89%A9%E5%8D%8A%E6%9D%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [主持人马卉被永久封禁直播权限](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%A9%AC%E5%8D%89%E8%A2%AB%E6%B0%B8%E4%B9%85%E5%B0%81%E7%A6%81%E7%9B%B4%E6%92%AD%E6%9D%83%E9%99%90%23&t=31&band_rank=6&Refer=top)<br />
-7. [省考](https://s.weibo.com/weibo?q=%E7%9C%81%E8%80%83&t=31&band_rank=7&Refer=top)<br />
-8. [官方通报199元4天桂林低价游情况](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5199%E5%85%834%E5%A4%A9%E6%A1%82%E6%9E%97%E4%BD%8E%E4%BB%B7%E6%B8%B8%E6%83%85%E5%86%B5%23&t=31&band_rank=8&Refer=top)<br />
+7. [官方通报199元4天桂林低价游情况](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5199%E5%85%834%E5%A4%A9%E6%A1%82%E6%9E%97%E4%BD%8E%E4%BB%B7%E6%B8%B8%E6%83%85%E5%86%B5%23&t=31&band_rank=7&Refer=top)<br />
+8. [省考](https://s.weibo.com/weibo?q=%E7%9C%81%E8%80%83&t=31&band_rank=8&Refer=top)<br />
 9. [自杀程序员与前妻在世纪佳缘相识](https://s.weibo.com/weibo?q=%23%E8%87%AA%E6%9D%80%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%8E%E5%89%8D%E5%A6%BB%E5%9C%A8%E4%B8%96%E7%BA%AA%E4%BD%B3%E7%BC%98%E7%9B%B8%E8%AF%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
