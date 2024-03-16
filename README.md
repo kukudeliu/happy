@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 14:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 14:53:01</h4></div>
 
 > 微博  
 
 1. [女子快递收到13kg价值657万金条懵了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1%E6%87%B5%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [鸭血 甲醛](https://s.weibo.com/weibo?q=%E9%B8%AD%E8%A1%80%20%E7%94%B2%E9%86%9B&t=31&band_rank=2&Refer=top)<br />
+2. [夸父炸串回应](https://s.weibo.com/weibo?q=%23%E5%A4%B8%E7%88%B6%E7%82%B8%E4%B8%B2%E5%9B%9E%E5%BA%94%23&t=31&band_rank=2&Refer=top)<br />
 3. [这就是春天里的中国](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%98%A5%E5%A4%A9%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [老舅把陈赫认成酒店安保](https://s.weibo.com/weibo?q=%23%E8%80%81%E8%88%85%E6%8A%8A%E9%99%88%E8%B5%AB%E8%AE%A4%E6%88%90%E9%85%92%E5%BA%97%E5%AE%89%E4%BF%9D%23&t=31&band_rank=4&Refer=top)<br />
-5. [媒体称赵丽颖是行业一根救命稻草](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E7%A7%B0%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%AF%E8%A1%8C%E4%B8%9A%E4%B8%80%E6%A0%B9%E6%95%91%E5%91%BD%E7%A8%BB%E8%8D%89%23&t=31&band_rank=5&Refer=top)<br />
-6. [王诗龄与同学合照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E4%B8%8E%E5%90%8C%E5%AD%A6%E5%90%88%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=7&Refer=top)<br />
-8. [陈都灵唐装](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%E5%94%90%E8%A3%85&t=31&band_rank=8&Refer=top)<br />
-9. [百果园回应将烂果做高端果切售卖](https://s.weibo.com/weibo?q=%23%E7%99%BE%E6%9E%9C%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%B0%86%E7%83%82%E6%9E%9C%E5%81%9A%E9%AB%98%E7%AB%AF%E6%9E%9C%E5%88%87%E5%94%AE%E5%8D%96%23&t=31&band_rank=9&Refer=top)<br />
+4. [鸭血 甲醛](https://s.weibo.com/weibo?q=%E9%B8%AD%E8%A1%80%20%E7%94%B2%E9%86%9B&t=31&band_rank=4&Refer=top)<br />
+5. [老舅把陈赫认成酒店安保](https://s.weibo.com/weibo?q=%23%E8%80%81%E8%88%85%E6%8A%8A%E9%99%88%E8%B5%AB%E8%AE%A4%E6%88%90%E9%85%92%E5%BA%97%E5%AE%89%E4%BF%9D%23&t=31&band_rank=5&Refer=top)<br />
+6. [媒体称赵丽颖是行业一根救命稻草](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E7%A7%B0%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%AF%E8%A1%8C%E4%B8%9A%E4%B8%80%E6%A0%B9%E6%95%91%E5%91%BD%E7%A8%BB%E8%8D%89%23&t=31&band_rank=6&Refer=top)<br />
+7. [王诗龄与同学合照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E4%B8%8E%E5%90%8C%E5%AD%A6%E5%90%88%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=8&Refer=top)<br />
+9. [陈都灵唐装](https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%E5%94%90%E8%A3%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
