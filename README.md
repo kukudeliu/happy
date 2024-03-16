@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 05:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 05:09:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [中国地质大学回应教授疑用AI写论文](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%95%99%E6%8E%88%E7%96%91%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新质生产力下的农田可以这样酷](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E4%B8%8B%E7%9A%84%E5%86%9C%E7%94%B0%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E9%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [58600买的听花酒刚到手就被曝光了](https://www.baidu.com/s?wd=58600%E4%B9%B0%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E8%A2%AB%E6%9B%9D%E5%85%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多个上门按摩APP被曝涉黄](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E4%B8%8A%E9%97%A8%E6%8C%89%E6%91%A9APP%E8%A2%AB%E6%9B%9D%E6%B6%89%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [珍爱网76岁董事长道歉](https://www.baidu.com/s?wd=%E7%8F%8D%E7%88%B1%E7%BD%9176%E5%B2%81%E8%91%A3%E4%BA%8B%E9%95%BF%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [下夜班医生多看一眼救下心梗老人](https://www.baidu.com/s?wd=%E4%B8%8B%E5%A4%9C%E7%8F%AD%E5%8C%BB%E7%94%9F%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E4%B8%8B%E5%BF%83%E6%A2%97%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王传福：新能源车进入惨烈淘汰赛](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E6%83%A8%E7%83%88%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [中国地质大学回应教授疑用AI写论文](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%95%99%E6%8E%88%E7%96%91%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新质生产力下的农田可以这样酷](https://www.baidu.com/s?wd=%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E4%B8%8B%E7%9A%84%E5%86%9C%E7%94%B0%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E9%85%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [58600买的听花酒刚到手就被曝光了](https://www.baidu.com/s?wd=58600%E4%B9%B0%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%E5%88%9A%E5%88%B0%E6%89%8B%E5%B0%B1%E8%A2%AB%E6%9B%9D%E5%85%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多个上门按摩APP被曝涉黄](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E4%B8%8A%E9%97%A8%E6%8C%89%E6%91%A9APP%E8%A2%AB%E6%9B%9D%E6%B6%89%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [珍爱网76岁董事长道歉](https://www.baidu.com/s?wd=%E7%8F%8D%E7%88%B1%E7%BD%9176%E5%B2%81%E8%91%A3%E4%BA%8B%E9%95%BF%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [下夜班医生多看一眼救下心梗老人](https://www.baidu.com/s?wd=%E4%B8%8B%E5%A4%9C%E7%8F%AD%E5%8C%BB%E7%94%9F%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E4%B8%8B%E5%BF%83%E6%A2%97%E8%80%81%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [王传福：新能源车进入惨烈淘汰赛](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E6%83%A8%E7%83%88%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [女子快递收到13kg价值657万金条](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
