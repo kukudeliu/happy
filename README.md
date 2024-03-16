@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 16:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 16:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [东方甄选卖的槽头肉可办理仅退款](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%8D%96%E7%9A%84%E6%A7%BD%E5%A4%B4%E8%82%89%E5%8F%AF%E5%8A%9E%E7%90%86%E4%BB%85%E9%80%80%E6%AC%BE%23&t=31&band_rank=6&Refer=top)<br />
 7. [马龙林高远男双夺冠](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E6%9E%97%E9%AB%98%E8%BF%9C%E7%94%B7%E5%8F%8C%E5%A4%BA%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [省考](https://s.weibo.com/weibo?q=%E7%9C%81%E8%80%83&t=31&band_rank=8&Refer=top)<br />
-9. [国乒总教练李隼解读新规](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%80%BB%E6%95%99%E7%BB%83%E6%9D%8E%E9%9A%BC%E8%A7%A3%E8%AF%BB%E6%96%B0%E8%A7%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [女子快递收到13kg价值657万金条懵了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BF%AB%E9%80%92%E6%94%B6%E5%88%B013kg%E4%BB%B7%E5%80%BC657%E4%B8%87%E9%87%91%E6%9D%A1%E6%87%B5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
