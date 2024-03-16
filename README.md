@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 21:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 21:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [雅江山火](https://s.weibo.com/weibo?q=%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB&t=31&band_rank=6&Refer=top)<br />
 7. [陈梦王曼昱夺冠](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%BA%E5%86%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [唐嫣赫本公主风](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E8%B5%AB%E6%9C%AC%E5%85%AC%E4%B8%BB%E9%A3%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [所以明天到底该吃什么](https://s.weibo.com/weibo?q=%23%E6%89%80%E4%BB%A5%E6%98%8E%E5%A4%A9%E5%88%B0%E5%BA%95%E8%AF%A5%E5%90%83%E4%BB%80%E4%B9%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [红莲 赤练](https://s.weibo.com/weibo?q=%E7%BA%A2%E8%8E%B2%20%E8%B5%A4%E7%BB%83&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
