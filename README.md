@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 09:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 09:31:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [俄总统大选 选票上除了普京还有谁？](https://www.baidu.com/s?wd=%E4%BF%84%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89+%E9%80%89%E7%A5%A8%E4%B8%8A%E9%99%A4%E4%BA%86%E6%99%AE%E4%BA%AC%E8%BF%98%E6%9C%89%E8%B0%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮人类文明美好图景](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E7%BE%8E%E5%A5%BD%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天水麻辣烫老板：高兴！高兴滴很！](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%EF%BC%9A%E9%AB%98%E5%85%B4%EF%BC%81%E9%AB%98%E5%85%B4%E6%BB%B4%E5%BE%88%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [宝马表示将承担所有维修费用](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E8%A1%A8%E7%A4%BA%E5%B0%86%E6%89%BF%E6%8B%85%E6%89%80%E6%9C%89%E7%BB%B4%E4%BF%AE%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [恋爱体验馆男女肢体接触被明码标价](https://www.baidu.com/s?wd=%E6%81%8B%E7%88%B1%E4%BD%93%E9%AA%8C%E9%A6%86%E7%94%B7%E5%A5%B3%E8%82%A2%E4%BD%93%E6%8E%A5%E8%A7%A6%E8%A2%AB%E6%98%8E%E7%A0%81%E6%A0%87%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [谁在喝5万8一瓶的听花酒？](https://www.baidu.com/s?wd=%E8%B0%81%E5%9C%A8%E5%96%9D5%E4%B8%878%E4%B8%80%E7%93%B6%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [恋爱体验馆男女肢体接触被明码标价](https://www.baidu.com/s?wd=%E6%81%8B%E7%88%B1%E4%BD%93%E9%AA%8C%E9%A6%86%E7%94%B7%E5%A5%B3%E8%82%A2%E4%BD%93%E6%8E%A5%E8%A7%A6%E8%A2%AB%E6%98%8E%E7%A0%81%E6%A0%87%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [谁在喝5万8一瓶的听花酒？](https://www.baidu.com/s?wd=%E8%B0%81%E5%9C%A8%E5%96%9D5%E4%B8%878%E4%B8%80%E7%93%B6%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [自杀程序员与前妻在世纪佳缘相识](https://www.baidu.com/s?wd=%E8%87%AA%E6%9D%80%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%8E%E5%89%8D%E5%A6%BB%E5%9C%A8%E4%B8%96%E7%BA%AA%E4%BD%B3%E7%BC%98%E7%9B%B8%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣交警测酒驾可以作弊](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%BA%A4%E8%AD%A6%E6%B5%8B%E9%85%92%E9%A9%BE%E5%8F%AF%E4%BB%A5%E4%BD%9C%E5%BC%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [俄总统大选 选票上除了普京还有谁？](https://www.baidu.com/s?wd=%E4%BF%84%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89+%E9%80%89%E7%A5%A8%E4%B8%8A%E9%99%A4%E4%BA%86%E6%99%AE%E4%BA%AC%E8%BF%98%E6%9C%89%E8%B0%81%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [点亮人类文明美好图景](https://www.baidu.com/s?wd=%E7%82%B9%E4%BA%AE%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E7%BE%8E%E5%A5%BD%E5%9B%BE%E6%99%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天水麻辣烫老板：高兴！高兴滴很！](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%EF%BC%9A%E9%AB%98%E5%85%B4%EF%BC%81%E9%AB%98%E5%85%B4%E6%BB%B4%E5%BE%88%EF%BC%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [宝马表示将承担所有维修费用](https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E8%A1%A8%E7%A4%BA%E5%B0%86%E6%89%BF%E6%8B%85%E6%89%80%E6%9C%89%E7%BB%B4%E4%BF%AE%E8%B4%B9%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [恋爱体验馆男女肢体接触被明码标价](https://www.baidu.com/s?wd=%E6%81%8B%E7%88%B1%E4%BD%93%E9%AA%8C%E9%A6%86%E7%94%B7%E5%A5%B3%E8%82%A2%E4%BD%93%E6%8E%A5%E8%A7%A6%E8%A2%AB%E6%98%8E%E7%A0%81%E6%A0%87%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [谁在喝5万8一瓶的听花酒？](https://www.baidu.com/s?wd=%E8%B0%81%E5%9C%A8%E5%96%9D5%E4%B8%878%E4%B8%80%E7%93%B6%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [恋爱体验馆男女肢体接触被明码标价](https://www.baidu.com/s?wd=%E6%81%8B%E7%88%B1%E4%BD%93%E9%AA%8C%E9%A6%86%E7%94%B7%E5%A5%B3%E8%82%A2%E4%BD%93%E6%8E%A5%E8%A7%A6%E8%A2%AB%E6%98%8E%E7%A0%81%E6%A0%87%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [谁在喝5万8一瓶的听花酒？](https://www.baidu.com/s?wd=%E8%B0%81%E5%9C%A8%E5%96%9D5%E4%B8%878%E4%B8%80%E7%93%B6%E7%9A%84%E5%90%AC%E8%8A%B1%E9%85%92%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [自杀程序员与前妻在世纪佳缘相识](https://www.baidu.com/s?wd=%E8%87%AA%E6%9D%80%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%8E%E5%89%8D%E5%A6%BB%E5%9C%A8%E4%B8%96%E7%BA%AA%E4%BD%B3%E7%BC%98%E7%9B%B8%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣交警测酒驾可以作弊](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%BA%A4%E8%AD%A6%E6%B5%8B%E9%85%92%E9%A9%BE%E5%8F%AF%E4%BB%A5%E4%BD%9C%E5%BC%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
