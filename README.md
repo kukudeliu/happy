@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 10:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 10:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [315晚会](https://s.weibo.com/weibo?q=%23315%E6%99%9A%E4%BC%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [江宏杰已接到孩子离开日本](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%AE%8F%E6%9D%B0%E5%B7%B2%E6%8E%A5%E5%88%B0%E5%AD%A9%E5%AD%90%E7%A6%BB%E5%BC%80%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top)<br />
 7. [茶颜悦色放置半小时仅剩半杯](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E6%94%BE%E7%BD%AE%E5%8D%8A%E5%B0%8F%E6%97%B6%E4%BB%85%E5%89%A9%E5%8D%8A%E6%9D%AF%23&t=31&band_rank=7&Refer=top)<br />
-8. [肖战代言元气森林](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E4%BB%A3%E8%A8%80%E5%85%83%E6%B0%94%E6%A3%AE%E6%9E%97&t=31&band_rank=8&Refer=top)<br />
-9. [天津1死37伤车祸客车里有学生](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A51%E6%AD%BB37%E4%BC%A4%E8%BD%A6%E7%A5%B8%E5%AE%A2%E8%BD%A6%E9%87%8C%E6%9C%89%E5%AD%A6%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [天津1死37伤车祸客车里有学生](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A51%E6%AD%BB37%E4%BC%A4%E8%BD%A6%E7%A5%B8%E5%AE%A2%E8%BD%A6%E9%87%8C%E6%9C%89%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [肖战代言元气森林](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E4%BB%A3%E8%A8%80%E5%85%83%E6%B0%94%E6%A3%AE%E6%9E%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
