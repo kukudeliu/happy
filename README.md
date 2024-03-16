@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 22:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 22:19:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [中国地质大学回应教授疑用AI写论文](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%95%99%E6%8E%88%E7%96%91%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [人勤春来早 田间春管忙](https://www.baidu.com/s?wd=%E4%BA%BA%E5%8B%A4%E6%98%A5%E6%9D%A5%E6%97%A9+%E7%94%B0%E9%97%B4%E6%98%A5%E7%AE%A1%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [545名消防员赶赴四川雅江山火现场](https://www.baidu.com/s?wd=545%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E8%B5%B6%E8%B5%B4%E5%9B%9B%E5%B7%9D%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [王传福：新能源车进入惨烈淘汰赛](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E6%83%A8%E7%83%88%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [06年小伙摆摊卖榴莲饼月入三四万](https://www.baidu.com/s?wd=06%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%91%86%E6%91%8A%E5%8D%96%E6%A6%B4%E8%8E%B2%E9%A5%BC%E6%9C%88%E5%85%A5%E4%B8%89%E5%9B%9B%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [隐形加班举证是难点](https://www.baidu.com/s?wd=%E9%9A%90%E5%BD%A2%E5%8A%A0%E7%8F%AD%E4%B8%BE%E8%AF%81%E6%98%AF%E9%9A%BE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [居民日平均睡眠不足7小时](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%97%A5%E5%B9%B3%E5%9D%87%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B37%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [止跌回升：去年结婚登记数768万对](https://www.baidu.com/s?wd=%E6%AD%A2%E8%B7%8C%E5%9B%9E%E5%8D%87%EF%BC%9A%E5%8E%BB%E5%B9%B4%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E6%95%B0768%E4%B8%87%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [天水文旅喊话麻辣烫老板注意表情](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E6%96%87%E6%97%85%E5%96%8A%E8%AF%9D%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%E6%B3%A8%E6%84%8F%E8%A1%A8%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [中国地质大学回应教授疑用AI写论文](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%95%99%E6%8E%88%E7%96%91%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [人勤春来早 田间春管忙](https://www.baidu.com/s?wd=%E4%BA%BA%E5%8B%A4%E6%98%A5%E6%9D%A5%E6%97%A9+%E7%94%B0%E9%97%B4%E6%98%A5%E7%AE%A1%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [545名消防员赶赴四川雅江山火现场](https://www.baidu.com/s?wd=545%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E8%B5%B6%E8%B5%B4%E5%9B%9B%E5%B7%9D%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [王传福：新能源车进入惨烈淘汰赛](https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E6%83%A8%E7%83%88%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [06年小伙摆摊卖榴莲饼月入三四万](https://www.baidu.com/s?wd=06%E5%B9%B4%E5%B0%8F%E4%BC%99%E6%91%86%E6%91%8A%E5%8D%96%E6%A6%B4%E8%8E%B2%E9%A5%BC%E6%9C%88%E5%85%A5%E4%B8%89%E5%9B%9B%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [隐形加班举证是难点](https://www.baidu.com/s?wd=%E9%9A%90%E5%BD%A2%E5%8A%A0%E7%8F%AD%E4%B8%BE%E8%AF%81%E6%98%AF%E9%9A%BE%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [居民日平均睡眠不足7小时](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%97%A5%E5%B9%B3%E5%9D%87%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B37%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [止跌回升：去年结婚登记数768万对](https://www.baidu.com/s?wd=%E6%AD%A2%E8%B7%8C%E5%9B%9E%E5%8D%87%EF%BC%9A%E5%8E%BB%E5%B9%B4%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E6%95%B0768%E4%B8%87%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [天水文旅喊话麻辣烫老板注意表情](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E6%96%87%E6%97%85%E5%96%8A%E8%AF%9D%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%E6%B3%A8%E6%84%8F%E8%A1%A8%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
