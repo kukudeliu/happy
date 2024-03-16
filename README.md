@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 23:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-16 23:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [河北省公安厅介入初中生杀害同学案](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%9C%81%E5%85%AC%E5%AE%89%E5%8E%85%E4%BB%8B%E5%85%A5%E5%88%9D%E4%B8%AD%E7%94%9F%E6%9D%80%E5%AE%B3%E5%90%8C%E5%AD%A6%E6%A1%88%23&t=31&band_rank=6&Refer=top)<br />
 7. [中医从不提倡多喝水](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E4%BB%8E%E4%B8%8D%E6%8F%90%E5%80%A1%E5%A4%9A%E5%96%9D%E6%B0%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [郑合惠子 不要捧一踩一](https://s.weibo.com/weibo?q=%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%20%E4%B8%8D%E8%A6%81%E6%8D%A7%E4%B8%80%E8%B8%A9%E4%B8%80&t=31&band_rank=8&Refer=top)<br />
-9. [孙龙世锦赛夺金](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%BE%99%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A4%BA%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴北京出发进组路透](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8C%97%E4%BA%AC%E5%87%BA%E5%8F%91%E8%BF%9B%E7%BB%84%E8%B7%AF%E9%80%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
