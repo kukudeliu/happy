@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 23:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 23:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [三水结婚](https://s.weibo.com/weibo?q=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&t=31&band_rank=6&Refer=top)<br />
 7. [本周狗屎运最旺的星座TOP4](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7TOP4&t=31&band_rank=7&Refer=top)<br />
 8. [陈星旭陈牧驰 山河表里](https://s.weibo.com/weibo?q=%E9%99%88%E6%98%9F%E6%97%AD%E9%99%88%E7%89%A7%E9%A9%B0%20%E5%B1%B1%E6%B2%B3%E8%A1%A8%E9%87%8C&t=31&band_rank=8&Refer=top)<br />
-9. [黄大宪 朴知元](https://s.weibo.com/weibo?q=%E9%BB%84%E5%A4%A7%E5%AE%AA%20%E6%9C%B4%E7%9F%A5%E5%85%83&t=31&band_rank=9&Refer=top)<br />
+9. [火星哥因赌博欠债5000万美元](https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
