@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 14:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 14:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [樊振东看霉霉演唱会vlog](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%9C%8B%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9Avlog&t=31&band_rank=6&Refer=top)<br />
 7. [幼儿园关停潮下幼师的自救之路](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%85%B3%E5%81%9C%E6%BD%AE%E4%B8%8B%E5%B9%BC%E5%B8%88%E7%9A%84%E8%87%AA%E6%95%91%E4%B9%8B%E8%B7%AF%23&t=31&band_rank=7&Refer=top)<br />
 8. [315打假击败全国99%大学生](https://s.weibo.com/weibo?q=%23315%E6%89%93%E5%81%87%E5%87%BB%E8%B4%A5%E5%85%A8%E5%9B%BD99%25%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [花间令创年内首播播放量新高](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%97%B4%E4%BB%A4%E5%88%9B%E5%B9%B4%E5%86%85%E9%A6%96%E6%92%AD%E6%92%AD%E6%94%BE%E9%87%8F%E6%96%B0%E9%AB%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [鸡骨泥](https://s.weibo.com/weibo?q=%E9%B8%A1%E9%AA%A8%E6%B3%A5&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
