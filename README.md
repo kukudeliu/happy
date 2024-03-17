@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 04:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 04:04:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [抢抓农时春日忙](https://s.weibo.com/weibo?q=%23%E6%8A%A2%E6%8A%93%E5%86%9C%E6%97%B6%E6%98%A5%E6%97%A5%E5%BF%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [邯郸初中生被杀害案嫌疑人全部抓获](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%85%A8%E9%83%A8%E6%8A%93%E8%8E%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [英国王室上演消失的她](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%AE%A4%E4%B8%8A%E6%BC%94%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=5&Refer=top)<br />
-6. [误以为很贵实际很便宜的车](https://s.weibo.com/weibo?q=%23%E8%AF%AF%E4%BB%A5%E4%B8%BA%E5%BE%88%E8%B4%B5%E5%AE%9E%E9%99%85%E5%BE%88%E4%BE%BF%E5%AE%9C%E7%9A%84%E8%BD%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [Angel父亲离世](https://s.weibo.com/weibo?q=%23Angel%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
+6. [Angel父亲离世](https://s.weibo.com/weibo?q=%23Angel%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
+7. [误以为很贵实际很便宜的车](https://s.weibo.com/weibo?q=%23%E8%AF%AF%E4%BB%A5%E4%B8%BA%E5%BE%88%E8%B4%B5%E5%AE%9E%E9%99%85%E5%BE%88%E4%BE%BF%E5%AE%9C%E7%9A%84%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [商家直播2小时连吃10根淀粉肠](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E7%9B%B4%E6%92%AD2%E5%B0%8F%E6%97%B6%E8%BF%9E%E5%90%8310%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0%23&t=31&band_rank=8&Refer=top)<br />
 9. [小洋睡不着](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B4%8B%E7%9D%A1%E4%B8%8D%E7%9D%80%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [315打假击败全国99%大学生](https://www.baidu.com/s?wd=315%E6%89%93%E5%81%87%E5%87%BB%E8%B4%A5%E5%85%A8%E5%9B%BD99%25%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [三水结婚](https://www.baidu.com/s?wd=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [房价普跌 西安新房价格却连涨13个月](https://www.baidu.com/s?wd=%E6%88%BF%E4%BB%B7%E6%99%AE%E8%B7%8C+%E8%A5%BF%E5%AE%89%E6%96%B0%E6%88%BF%E4%BB%B7%E6%A0%BC%E5%8D%B4%E8%BF%9E%E6%B6%A813%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [婴儿被月嫂扇巴掌强行灌奶](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%9C%88%E5%AB%82%E6%89%87%E5%B7%B4%E6%8E%8C%E5%BC%BA%E8%A1%8C%E7%81%8C%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [315打假击败全国99%大学生](https://www.baidu.com/s?wd=315%E6%89%93%E5%81%87%E5%87%BB%E8%B4%A5%E5%85%A8%E5%9B%BD99%25%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [三水结婚](https://www.baidu.com/s?wd=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [房价普跌 西安新房价格却连涨13个月](https://www.baidu.com/s?wd=%E6%88%BF%E4%BB%B7%E6%99%AE%E8%B7%8C+%E8%A5%BF%E5%AE%89%E6%96%B0%E6%88%BF%E4%BB%B7%E6%A0%BC%E5%8D%B4%E8%BF%9E%E6%B6%A813%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [婴儿被月嫂扇巴掌强行灌奶](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%9C%88%E5%AB%82%E6%89%87%E5%B7%B4%E6%8E%8C%E5%BC%BA%E8%A1%8C%E7%81%8C%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
