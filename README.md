@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 13:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 13:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [樊振东看霉霉演唱会vlog](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%9C%8B%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9Avlog&t=31&band_rank=5&Refer=top)<br />
 6. [幼儿园关停潮下幼师的自救之路](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%85%B3%E5%81%9C%E6%BD%AE%E4%B8%8B%E5%B9%BC%E5%B8%88%E7%9A%84%E8%87%AA%E6%95%91%E4%B9%8B%E8%B7%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [315打假击败全国99%大学生](https://s.weibo.com/weibo?q=%23315%E6%89%93%E5%81%87%E5%87%BB%E8%B4%A5%E5%85%A8%E5%9B%BD99%25%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
-8. [闪耀暖暖 严莉莉礼包](https://s.weibo.com/weibo?q=%E9%97%AA%E8%80%80%E6%9A%96%E6%9A%96%20%E4%B8%A5%E8%8E%89%E8%8E%89%E7%A4%BC%E5%8C%85&t=31&band_rank=8&Refer=top)<br />
-9. [4男女混租一间房3个月后留满屋垃圾](https://s.weibo.com/weibo?q=%234%E7%94%B7%E5%A5%B3%E6%B7%B7%E7%A7%9F%E4%B8%80%E9%97%B4%E6%88%BF3%E4%B8%AA%E6%9C%88%E5%90%8E%E7%95%99%E6%BB%A1%E5%B1%8B%E5%9E%83%E5%9C%BE%23&t=31&band_rank=9&Refer=top)<br />
+8. [4男女混租一间房3个月后留满屋垃圾](https://s.weibo.com/weibo?q=%234%E7%94%B7%E5%A5%B3%E6%B7%B7%E7%A7%9F%E4%B8%80%E9%97%B4%E6%88%BF3%E4%B8%AA%E6%9C%88%E5%90%8E%E7%95%99%E6%BB%A1%E5%B1%8B%E5%9E%83%E5%9C%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [闪耀暖暖 严莉莉礼包](https://s.weibo.com/weibo?q=%E9%97%AA%E8%80%80%E6%9A%96%E6%9A%96%20%E4%B8%A5%E8%8E%89%E8%8E%89%E7%A4%BC%E5%8C%85&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [海南男生给室友展示徒嘴剥椰子](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B7%E7%94%9F%E7%BB%99%E5%AE%A4%E5%8F%8B%E5%B1%95%E7%A4%BA%E5%BE%92%E5%98%B4%E5%89%A5%E6%A4%B0%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [淀粉肠创业还没开始就已结束](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E5%88%9B%E4%B8%9A%E8%BF%98%E6%B2%A1%E5%BC%80%E5%A7%8B%E5%B0%B1%E5%B7%B2%E7%BB%93%E6%9D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [4男女混租一间房3个月后留满屋垃圾](https://www.baidu.com/s?wd=4%E7%94%B7%E5%A5%B3%E6%B7%B7%E7%A7%9F%E4%B8%80%E9%97%B4%E6%88%BF3%E4%B8%AA%E6%9C%88%E5%90%8E%E7%95%99%E6%BB%A1%E5%B1%8B%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [气温开启满减模式](https://www.baidu.com/s?wd=%E6%B0%94%E6%B8%A9%E5%BC%80%E5%90%AF%E6%BB%A1%E5%87%8F%E6%A8%A1%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [坐拥亿万资产 “包装大王”被调查](https://www.baidu.com/s?wd=%E5%9D%90%E6%8B%A5%E4%BA%BF%E4%B8%87%E8%B5%84%E4%BA%A7+%E2%80%9C%E5%8C%85%E8%A3%85%E5%A4%A7%E7%8E%8B%E2%80%9D%E8%A2%AB%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [武汉赏樱点否认提供梯子拍照](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E8%B5%8F%E6%A8%B1%E7%82%B9%E5%90%A6%E8%AE%A4%E6%8F%90%E4%BE%9B%E6%A2%AF%E5%AD%90%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [海南男生给室友展示徒嘴剥椰子](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B7%E7%94%9F%E7%BB%99%E5%AE%A4%E5%8F%8B%E5%B1%95%E7%A4%BA%E5%BE%92%E5%98%B4%E5%89%A5%E6%A4%B0%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [淀粉肠创业还没开始就已结束](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E5%88%9B%E4%B8%9A%E8%BF%98%E6%B2%A1%E5%BC%80%E5%A7%8B%E5%B0%B1%E5%B7%B2%E7%BB%93%E6%9D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [4男女混租一间房3个月后留满屋垃圾](https://www.baidu.com/s?wd=4%E7%94%B7%E5%A5%B3%E6%B7%B7%E7%A7%9F%E4%B8%80%E9%97%B4%E6%88%BF3%E4%B8%AA%E6%9C%88%E5%90%8E%E7%95%99%E6%BB%A1%E5%B1%8B%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [气温开启满减模式](https://www.baidu.com/s?wd=%E6%B0%94%E6%B8%A9%E5%BC%80%E5%90%AF%E6%BB%A1%E5%87%8F%E6%A8%A1%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [坐拥亿万资产 “包装大王”被调查](https://www.baidu.com/s?wd=%E5%9D%90%E6%8B%A5%E4%BA%BF%E4%B8%87%E8%B5%84%E4%BA%A7+%E2%80%9C%E5%8C%85%E8%A3%85%E5%A4%A7%E7%8E%8B%E2%80%9D%E8%A2%AB%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [武汉赏樱点否认提供梯子拍照](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E8%B5%8F%E6%A8%B1%E7%82%B9%E5%90%A6%E8%AE%A4%E6%8F%90%E4%BE%9B%E6%A2%AF%E5%AD%90%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
