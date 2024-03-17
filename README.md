@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 22:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 22:11:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [这瓜吃的越来越扑朔迷离了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%93%9C%E5%90%83%E7%9A%84%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%89%91%E6%9C%94%E8%BF%B7%E7%A6%BB%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [徐娇又勇了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%A8%87%E5%8F%88%E5%8B%87%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [邯郸初中生被杀害案嫌疑人全部抓获](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%85%A8%E9%83%A8%E6%8A%93%E8%8E%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [林俊杰衣服](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E8%A1%A3%E6%9C%8D&t=31&band_rank=8&Refer=top)<br />
-9. [三水结婚](https://s.weibo.com/weibo?q=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&t=31&band_rank=9&Refer=top)<br />
+8. [三水结婚](https://s.weibo.com/weibo?q=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&t=31&band_rank=8&Refer=top)<br />
+9. [新说唱2024 尿检](https://s.weibo.com/weibo?q=%E6%96%B0%E8%AF%B4%E5%94%B12024%20%E5%B0%BF%E6%A3%80&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [徐娇又勇了](https://www.baidu.com/s?wd=%E5%BE%90%E5%A8%87%E5%8F%88%E5%8B%87%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方通报7名大学生持棍追打中学生](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A57%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8C%81%E6%A3%8D%E8%BF%BD%E6%89%93%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张雪峰的马甲掉了一地](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%9A%84%E9%A9%AC%E7%94%B2%E6%8E%89%E4%BA%86%E4%B8%80%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南极座头鲸母子同游](https://www.baidu.com/s?wd=%E5%8D%97%E6%9E%81%E5%BA%A7%E5%A4%B4%E9%B2%B8%E6%AF%8D%E5%AD%90%E5%90%8C%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江一5岁女孩确诊长发公主综合征](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%805%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%95%BF%E5%8F%91%E5%85%AC%E4%B8%BB%E7%BB%BC%E5%90%88%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [徐娇又勇了](https://www.baidu.com/s?wd=%E5%BE%90%E5%A8%87%E5%8F%88%E5%8B%87%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [警方通报7名大学生持棍追打中学生](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A57%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8C%81%E6%A3%8D%E8%BF%BD%E6%89%93%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张雪峰的马甲掉了一地](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%9A%84%E9%A9%AC%E7%94%B2%E6%8E%89%E4%BA%86%E4%B8%80%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [南极座头鲸母子同游](https://www.baidu.com/s?wd=%E5%8D%97%E6%9E%81%E5%BA%A7%E5%A4%B4%E9%B2%B8%E6%AF%8D%E5%AD%90%E5%90%8C%E6%B8%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [浙江一5岁女孩确诊长发公主综合征](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%805%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%95%BF%E5%8F%91%E5%85%AC%E4%B8%BB%E7%BB%BC%E5%90%88%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
