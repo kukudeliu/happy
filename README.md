@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 15:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 15:32:02</h4></div>
 
 > 微博  
 
 1. [老人出摊卖淀粉肠无人问津](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%87%BA%E6%91%8A%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E6%97%A0%E4%BA%BA%E9%97%AE%E6%B4%A5%23&t=31&band_rank=1&Refer=top)<br />
 2. [茶百道 崩铁](https://s.weibo.com/weibo?q=%E8%8C%B6%E7%99%BE%E9%81%93%20%E5%B4%A9%E9%93%81&t=31&band_rank=2&Refer=top)<br />
-3. [2024中国春耕图](https://s.weibo.com/weibo?q=%232024%E4%B8%AD%E5%9B%BD%E6%98%A5%E8%80%95%E5%9B%BE%23&t=31&band_rank=3&Refer=top)<br />
+3. [有一种氛围感叫春天](https://s.weibo.com/weibo?q=%E6%9C%89%E4%B8%80%E7%A7%8D%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%8F%AB%E6%98%A5%E5%A4%A9&t=31&band_rank=3&Refer=top)<br />
 4. [鸡骨泥](https://s.weibo.com/weibo?q=%E9%B8%A1%E9%AA%A8%E6%B3%A5&t=31&band_rank=4&Refer=top)<br />
 5. [江歌妈妈谈AI复活亲人](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E8%B0%88AI%E5%A4%8D%E6%B4%BB%E4%BA%B2%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [嘴角起泡其实是感染了病毒](https://s.weibo.com/weibo?q=%23%E5%98%B4%E8%A7%92%E8%B5%B7%E6%B3%A1%E5%85%B6%E5%AE%9E%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%E7%97%85%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
-7. [乔任梁父亲喊话撕下AI复活明星伪善面具](https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E5%96%8A%E8%AF%9D%E6%92%95%E4%B8%8BAI%E5%A4%8D%E6%B4%BB%E6%98%8E%E6%98%9F%E4%BC%AA%E5%96%84%E9%9D%A2%E5%85%B7%23&t=31&band_rank=7&Refer=top)<br />
-8. [费曼辣评吴镇宇](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E6%9B%BC%E8%BE%A3%E8%AF%84%E5%90%B4%E9%95%87%E5%AE%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [樊振东看霉霉演唱会vlog](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%9C%8B%E9%9C%89%E9%9C%89%E6%BC%94%E5%94%B1%E4%BC%9Avlog&t=31&band_rank=9&Refer=top)<br />
+7. [2024中国春耕图](https://s.weibo.com/weibo?q=%232024%E4%B8%AD%E5%9B%BD%E6%98%A5%E8%80%95%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
+8. [乔任梁父亲喊话撕下AI复活明星伪善面具](https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E5%96%8A%E8%AF%9D%E6%92%95%E4%B8%8BAI%E5%A4%8D%E6%B4%BB%E6%98%8E%E6%98%9F%E4%BC%AA%E5%96%84%E9%9D%A2%E5%85%B7%23&t=31&band_rank=8&Refer=top)<br />
+9. [费曼辣评吴镇宇](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E6%9B%BC%E8%BE%A3%E8%AF%84%E5%90%B4%E9%95%87%E5%AE%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
