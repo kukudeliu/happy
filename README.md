@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 11:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 11:25:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [共绘美美与共的人类文明画卷](https://www.baidu.com/s?wd=%E5%85%B1%E7%BB%98%E7%BE%8E%E7%BE%8E%E4%B8%8E%E5%85%B1%E7%9A%84%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [金价下跌了](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [李显刚被查，两周前还在带队督导](https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%BE%E5%88%9A%E8%A2%AB%E6%9F%A5%EF%BC%8C%E4%B8%A4%E5%91%A8%E5%89%8D%E8%BF%98%E5%9C%A8%E5%B8%A6%E9%98%9F%E7%9D%A3%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [西工大教授公开名下研究生去向走红](https://www.baidu.com/s?wd=%E8%A5%BF%E5%B7%A5%E5%A4%A7%E6%95%99%E6%8E%88%E5%85%AC%E5%BC%80%E5%90%8D%E4%B8%8B%E7%A0%94%E7%A9%B6%E7%94%9F%E5%8E%BB%E5%90%91%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一起去赏春](https://www.baidu.com/s?wd=%E4%B8%80%E8%B5%B7%E5%8E%BB%E8%B5%8F%E6%98%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网友拍到淀粉肠摊子2小时没人买](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E6%B7%80%E7%B2%89%E8%82%A0%E6%91%8A%E5%AD%902%E5%B0%8F%E6%97%B6%E6%B2%A1%E4%BA%BA%E4%B9%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [共绘美美与共的人类文明画卷](https://www.baidu.com/s?wd=%E5%85%B1%E7%BB%98%E7%BE%8E%E7%BE%8E%E4%B8%8E%E5%85%B1%E7%9A%84%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [金价下跌了](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [李显刚被查，两周前还在带队督导](https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%BE%E5%88%9A%E8%A2%AB%E6%9F%A5%EF%BC%8C%E4%B8%A4%E5%91%A8%E5%89%8D%E8%BF%98%E5%9C%A8%E5%B8%A6%E9%98%9F%E7%9D%A3%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [西工大教授公开名下研究生去向走红](https://www.baidu.com/s?wd=%E8%A5%BF%E5%B7%A5%E5%A4%A7%E6%95%99%E6%8E%88%E5%85%AC%E5%BC%80%E5%90%8D%E4%B8%8B%E7%A0%94%E7%A9%B6%E7%94%9F%E5%8E%BB%E5%90%91%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一起去赏春](https://www.baidu.com/s?wd=%E4%B8%80%E8%B5%B7%E5%8E%BB%E8%B5%8F%E6%98%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [网友拍到淀粉肠摊子2小时没人买](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E6%B7%80%E7%B2%89%E8%82%A0%E6%91%8A%E5%AD%902%E5%B0%8F%E6%97%B6%E6%B2%A1%E4%BA%BA%E4%B9%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
