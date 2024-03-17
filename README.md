@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 11:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 11:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男生患上桃花癫感觉全校女生都喜欢自己](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%82%A3%E4%B8%8A%E6%A1%83%E8%8A%B1%E7%99%AB%E6%84%9F%E8%A7%89%E5%85%A8%E6%A0%A1%E5%A5%B3%E7%94%9F%E9%83%BD%E5%96%9C%E6%AC%A2%E8%87%AA%E5%B7%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [自制淀粉肠](https://s.weibo.com/weibo?q=%E8%87%AA%E5%88%B6%E6%B7%80%E7%B2%89%E8%82%A0&t=31&band_rank=7&Refer=top)<br />
 8. [59岁员工不会线上请假被开除](https://s.weibo.com/weibo?q=%2359%E5%B2%81%E5%91%98%E5%B7%A5%E4%B8%8D%E4%BC%9A%E7%BA%BF%E4%B8%8A%E8%AF%B7%E5%81%87%E8%A2%AB%E5%BC%80%E9%99%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [有一种氛围感叫春天](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%8F%AB%E6%98%A5%E5%A4%A9%23&t=31&band_rank=9&Refer=top)<br />
+9. [都柏林偶遇朴宝剑](https://s.weibo.com/weibo?q=%23%E9%83%BD%E6%9F%8F%E6%9E%97%E5%81%B6%E9%81%87%E6%9C%B4%E5%AE%9D%E5%89%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
