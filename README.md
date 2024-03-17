@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 06:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 06:23:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [邯郸初中生被杀害案嫌疑人全部抓获](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%85%A8%E9%83%A8%E6%8A%93%E8%8E%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [女孩将小男孩从高处推下](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%B0%86%E5%B0%8F%E7%94%B7%E5%AD%A9%E4%BB%8E%E9%AB%98%E5%A4%84%E6%8E%A8%E4%B8%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [张慧雯最近避避风头吧](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%85%A7%E9%9B%AF%E6%9C%80%E8%BF%91%E9%81%BF%E9%81%BF%E9%A3%8E%E5%A4%B4%E5%90%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [商家直播2小时连吃10根淀粉肠](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E7%9B%B4%E6%92%AD2%E5%B0%8F%E6%97%B6%E8%BF%9E%E5%90%8310%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [火星哥因赌博欠债5000万美元](https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
