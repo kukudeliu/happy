@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 03:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 03:02:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [邯郸初中生被杀害案嫌疑人全部抓获](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%85%A8%E9%83%A8%E6%8A%93%E8%8E%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [Angel父亲离世](https://s.weibo.com/weibo?q=%23Angel%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [误以为很贵实际很便宜的车](https://s.weibo.com/weibo?q=%23%E8%AF%AF%E4%BB%A5%E4%B8%BA%E5%BE%88%E8%B4%B5%E5%AE%9E%E9%99%85%E5%BE%88%E4%BE%BF%E5%AE%9C%E7%9A%84%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [英国王室上演消失的她](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%AE%A4%E4%B8%8A%E6%BC%94%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [火星哥因赌博欠债5000万美元](https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+8. [火星哥因赌博欠债5000万美元](https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [英国王室上演消失的她](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%AE%A4%E4%B8%8A%E6%BC%94%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
