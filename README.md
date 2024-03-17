@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 07:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 07:15:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [感受中非共同发展的加速度](https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E4%B8%AD%E9%9D%9E%E5%85%B1%E5%90%8C%E5%8F%91%E5%B1%95%E7%9A%84%E5%8A%A0%E9%80%9F%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [商家直播2小时连吃10根淀粉肠](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E7%9B%B4%E6%92%AD2%E5%B0%8F%E6%97%B6%E8%BF%9E%E5%90%8310%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [普京在俄罗斯总统选举中胜选](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E4%B8%AD%E8%83%9C%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [警方通报7名大学生持棍追打中学生](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A57%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8C%81%E6%A3%8D%E8%BF%BD%E6%89%93%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [商家直播2小时连吃10根淀粉肠](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E7%9B%B4%E6%92%AD2%E5%B0%8F%E6%97%B6%E8%BF%9E%E5%90%8310%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江一5岁女孩确诊长发公主综合征](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%805%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%95%BF%E5%8F%91%E5%85%AC%E4%B8%BB%E7%BB%BC%E5%90%88%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [房价普跌 西安新房价格却连涨13个月](https://www.baidu.com/s?wd=%E6%88%BF%E4%BB%B7%E6%99%AE%E8%B7%8C+%E8%A5%BF%E5%AE%89%E6%96%B0%E6%88%BF%E4%BB%B7%E6%A0%BC%E5%8D%B4%E8%BF%9E%E6%B6%A813%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [三水结婚](https://www.baidu.com/s?wd=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [感受中非共同发展的加速度](https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E4%B8%AD%E9%9D%9E%E5%85%B1%E5%90%8C%E5%8F%91%E5%B1%95%E7%9A%84%E5%8A%A0%E9%80%9F%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [商家直播2小时连吃10根淀粉肠](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E7%9B%B4%E6%92%AD2%E5%B0%8F%E6%97%B6%E8%BF%9E%E5%90%8310%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [普京在俄罗斯总统选举中胜选](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E4%B8%AD%E8%83%9C%E9%80%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [警方通报7名大学生持棍追打中学生](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A57%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8C%81%E6%A3%8D%E8%BF%BD%E6%89%93%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [商家直播2小时连吃10根淀粉肠](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E7%9B%B4%E6%92%AD2%E5%B0%8F%E6%97%B6%E8%BF%9E%E5%90%8310%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [浙江一5岁女孩确诊长发公主综合征](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%805%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%95%BF%E5%8F%91%E5%85%AC%E4%B8%BB%E7%BB%BC%E5%90%88%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [房价普跌 西安新房价格却连涨13个月](https://www.baidu.com/s?wd=%E6%88%BF%E4%BB%B7%E6%99%AE%E8%B7%8C+%E8%A5%BF%E5%AE%89%E6%96%B0%E6%88%BF%E4%BB%B7%E6%A0%BC%E5%8D%B4%E8%BF%9E%E6%B6%A813%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [三水结婚](https://www.baidu.com/s?wd=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
