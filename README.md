@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 10:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 10:37:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [男生患上桃花癫感觉全校女生都喜欢自己](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%82%A3%E4%B8%8A%E6%A1%83%E8%8A%B1%E7%99%AB%E6%84%9F%E8%A7%89%E5%85%A8%E6%A0%A1%E5%A5%B3%E7%94%9F%E9%83%BD%E5%96%9C%E6%AC%A2%E8%87%AA%E5%B7%B1%23&t=31&band_rank=4&Refer=top)<br />
 5. [金价下跌了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [恩静在酒店地下车库随舞](https://s.weibo.com/weibo?q=%23%E6%81%A9%E9%9D%99%E5%9C%A8%E9%85%92%E5%BA%97%E5%9C%B0%E4%B8%8B%E8%BD%A6%E5%BA%93%E9%9A%8F%E8%88%9E%23&t=31&band_rank=6&Refer=top)<br />
-7. [年轻人为啥盯上天水麻辣烫](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E5%95%A5%E7%9B%AF%E4%B8%8A%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [江西省考被曝有考生作弊](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E7%9C%81%E8%80%83%E8%A2%AB%E6%9B%9D%E6%9C%89%E8%80%83%E7%94%9F%E4%BD%9C%E5%BC%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [浓眉被封眼](https://s.weibo.com/weibo?q=%23%E6%B5%93%E7%9C%89%E8%A2%AB%E5%B0%81%E7%9C%BC%23&t=31&band_rank=9&Refer=top)<br />
+7. [去年我国结婚人数为近十年来首次回升](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E6%88%91%E5%9B%BD%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E4%B8%BA%E8%BF%91%E5%8D%81%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%8D%87%23&t=31&band_rank=7&Refer=top)<br />
+8. [年轻人为啥盯上天水麻辣烫](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E5%95%A5%E7%9B%AF%E4%B8%8A%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%23&t=31&band_rank=8&Refer=top)<br />
+9. [江西省考被曝有考生作弊](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E7%9C%81%E8%80%83%E8%A2%AB%E6%9B%9D%E6%9C%89%E8%80%83%E7%94%9F%E4%BD%9C%E5%BC%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
