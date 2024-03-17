@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 04:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 04:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [英国王室上演消失的她](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%AE%A4%E4%B8%8A%E6%BC%94%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [误以为很贵实际很便宜的车](https://s.weibo.com/weibo?q=%23%E8%AF%AF%E4%BB%A5%E4%B8%BA%E5%BE%88%E8%B4%B5%E5%AE%9E%E9%99%85%E5%BE%88%E4%BE%BF%E5%AE%9C%E7%9A%84%E8%BD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [张慧雯最近避避风头吧](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%85%A7%E9%9B%AF%E6%9C%80%E8%BF%91%E9%81%BF%E9%81%BF%E9%A3%8E%E5%A4%B4%E5%90%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [Angel父亲离世](https://s.weibo.com/weibo?q=%23Angel%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [商家直播2小时连吃10根淀粉肠](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E7%9B%B4%E6%92%AD2%E5%B0%8F%E6%97%B6%E8%BF%9E%E5%90%8310%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0%23&t=31&band_rank=9&Refer=top)<br />
+8. [商家直播2小时连吃10根淀粉肠](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E7%9B%B4%E6%92%AD2%E5%B0%8F%E6%97%B6%E8%BF%9E%E5%90%8310%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0%23&t=31&band_rank=8&Refer=top)<br />
+9. [Angel父亲离世](https://s.weibo.com/weibo?q=%23Angel%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
