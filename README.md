@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 13:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 13:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [乔任梁父亲喊话撕下AI复活明星伪善面具](https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E5%96%8A%E8%AF%9D%E6%92%95%E4%B8%8BAI%E5%A4%8D%E6%B4%BB%E6%98%8E%E6%98%9F%E4%BC%AA%E5%96%84%E9%9D%A2%E5%85%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [纪凌尘朱梓骁情头](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%87%8C%E5%B0%98%E6%9C%B1%E6%A2%93%E9%AA%81%E6%83%85%E5%A4%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [4男女混租一间房3个月后留满屋垃圾](https://s.weibo.com/weibo?q=%234%E7%94%B7%E5%A5%B3%E6%B7%B7%E7%A7%9F%E4%B8%80%E9%97%B4%E6%88%BF3%E4%B8%AA%E6%9C%88%E5%90%8E%E7%95%99%E6%BB%A1%E5%B1%8B%E5%9E%83%E5%9C%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子淀粉肠创业开始即结束](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B7%80%E7%B2%89%E8%82%A0%E5%88%9B%E4%B8%9A%E5%BC%80%E5%A7%8B%E5%8D%B3%E7%BB%93%E6%9D%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [幼儿园关停潮下幼师的自救之路](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%85%B3%E5%81%9C%E6%BD%AE%E4%B8%8B%E5%B9%BC%E5%B8%88%E7%9A%84%E8%87%AA%E6%95%91%E4%B9%8B%E8%B7%AF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -25,7 +25,7 @@
 6. [淀粉肠创业还没开始就已结束](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E5%88%9B%E4%B8%9A%E8%BF%98%E6%B2%A1%E5%BC%80%E5%A7%8B%E5%B0%B1%E5%B7%B2%E7%BB%93%E6%9D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [坐拥亿万资产 “包装大王”被调查](https://www.baidu.com/s?wd=%E5%9D%90%E6%8B%A5%E4%BA%BF%E4%B8%87%E8%B5%84%E4%BA%A7+%E2%80%9C%E5%8C%85%E8%A3%85%E5%A4%A7%E7%8E%8B%E2%80%9D%E8%A2%AB%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [金价下跌了](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武汉赏樱点否认提供梯子拍照](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E8%B5%8F%E6%A8%B1%E7%82%B9%E5%90%A6%E8%AE%A4%E6%8F%90%E4%BE%9B%E6%A2%AF%E5%AD%90%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [淀粉肠创业还没开始就已结束](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E5%88%9B%E4%B8%9A%E8%BF%98%E6%B2%A1%E5%BC%80%E5%A7%8B%E5%B0%B1%E5%B7%B2%E7%BB%93%E6%9D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [坐拥亿万资产 “包装大王”被调查](https://www.baidu.com/s?wd=%E5%9D%90%E6%8B%A5%E4%BA%BF%E4%B8%87%E8%B5%84%E4%BA%A7+%E2%80%9C%E5%8C%85%E8%A3%85%E5%A4%A7%E7%8E%8B%E2%80%9D%E8%A2%AB%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [金价下跌了](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [武汉赏樱点否认提供梯子拍照](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E8%B5%8F%E6%A8%B1%E7%82%B9%E5%90%A6%E8%AE%A4%E6%8F%90%E4%BE%9B%E6%A2%AF%E5%AD%90%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
