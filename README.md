@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 14:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 14:24:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [淀粉肠创业还没开始就已结束](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E5%88%9B%E4%B8%9A%E8%BF%98%E6%B2%A1%E5%BC%80%E5%A7%8B%E5%B0%B1%E5%B7%B2%E7%BB%93%E6%9D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [4男女混租一间房3个月后留满屋垃圾](https://www.baidu.com/s?wd=4%E7%94%B7%E5%A5%B3%E6%B7%B7%E7%A7%9F%E4%B8%80%E9%97%B4%E6%88%BF3%E4%B8%AA%E6%9C%88%E5%90%8E%E7%95%99%E6%BB%A1%E5%B1%8B%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [采摘刺客？三篮草莓卖1800元](https://www.baidu.com/s?wd=%E9%87%87%E6%91%98%E5%88%BA%E5%AE%A2%EF%BC%9F%E4%B8%89%E7%AF%AE%E8%8D%89%E8%8E%93%E5%8D%961800%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [金价下跌了](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [满记甜品被曝多地关店](https://www.baidu.com/s?wd=%E6%BB%A1%E8%AE%B0%E7%94%9C%E5%93%81%E8%A2%AB%E6%9B%9D%E5%A4%9A%E5%9C%B0%E5%85%B3%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [武汉赏樱点否认提供梯子拍照](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E8%B5%8F%E6%A8%B1%E7%82%B9%E5%90%A6%E8%AE%A4%E6%8F%90%E4%BE%9B%E6%A2%AF%E5%AD%90%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [淀粉肠创业还没开始就已结束](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E5%88%9B%E4%B8%9A%E8%BF%98%E6%B2%A1%E5%BC%80%E5%A7%8B%E5%B0%B1%E5%B7%B2%E7%BB%93%E6%9D%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [4男女混租一间房3个月后留满屋垃圾](https://www.baidu.com/s?wd=4%E7%94%B7%E5%A5%B3%E6%B7%B7%E7%A7%9F%E4%B8%80%E9%97%B4%E6%88%BF3%E4%B8%AA%E6%9C%88%E5%90%8E%E7%95%99%E6%BB%A1%E5%B1%8B%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [采摘刺客？三篮草莓卖1800元](https://www.baidu.com/s?wd=%E9%87%87%E6%91%98%E5%88%BA%E5%AE%A2%EF%BC%9F%E4%B8%89%E7%AF%AE%E8%8D%89%E8%8E%93%E5%8D%961800%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [金价下跌了](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [满记甜品被曝多地关店](https://www.baidu.com/s?wd=%E6%BB%A1%E8%AE%B0%E7%94%9C%E5%93%81%E8%A2%AB%E6%9B%9D%E5%A4%9A%E5%9C%B0%E5%85%B3%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [武汉赏樱点否认提供梯子拍照](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E8%B5%8F%E6%A8%B1%E7%82%B9%E5%90%A6%E8%AE%A4%E6%8F%90%E4%BE%9B%E6%A2%AF%E5%AD%90%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
