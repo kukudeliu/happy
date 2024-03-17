@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 08:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 08:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [7旬夫妇住月租850元海景房养老](https://s.weibo.com/weibo?q=%237%E6%97%AC%E5%A4%AB%E5%A6%87%E4%BD%8F%E6%9C%88%E7%A7%9F850%E5%85%83%E6%B5%B7%E6%99%AF%E6%88%BF%E5%85%BB%E8%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [甘肃麻辣烫老板娘忙到十天瘦八斤](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%E5%A8%98%E5%BF%99%E5%88%B0%E5%8D%81%E5%A4%A9%E7%98%A6%E5%85%AB%E6%96%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [中医从不提倡多喝水](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E4%BB%8E%E4%B8%8D%E6%8F%90%E5%80%A1%E5%A4%9A%E5%96%9D%E6%B0%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=9&Refer=top)<br />
+9. [就地原谅淀粉肠的人为何如此偏爱](https://s.weibo.com/weibo?q=%23%E5%B0%B1%E5%9C%B0%E5%8E%9F%E8%B0%85%E6%B7%80%E7%B2%89%E8%82%A0%E7%9A%84%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E5%81%8F%E7%88%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
