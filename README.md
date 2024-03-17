@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 18:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 18:13:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [一组数据看农村消费不断升温](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E5%86%9C%E6%9D%91%E6%B6%88%E8%B4%B9%E4%B8%8D%E6%96%AD%E5%8D%87%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [交警被路人同款反光外套逗笑](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E8%A2%AB%E8%B7%AF%E4%BA%BA%E5%90%8C%E6%AC%BE%E5%8F%8D%E5%85%89%E5%A4%96%E5%A5%97%E9%80%97%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张雪峰的马甲掉了一地](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%9A%84%E9%A9%AC%E7%94%B2%E6%8E%89%E4%BA%86%E4%B8%80%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [居民楼暗藏大量“代孕宿舍”](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%A5%BC%E6%9A%97%E8%97%8F%E5%A4%A7%E9%87%8F%E2%80%9C%E4%BB%A3%E5%AD%95%E5%AE%BF%E8%88%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江西一考生参加省考作弊被抓](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E8%80%83%E7%94%9F%E5%8F%82%E5%8A%A0%E7%9C%81%E8%80%83%E4%BD%9C%E5%BC%8A%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [年轻人为啥盯上天水麻辣烫](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E5%95%A5%E7%9B%AF%E4%B8%8A%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [居民楼暗藏大量“代孕宿舍”](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%A5%BC%E6%9A%97%E8%97%8F%E5%A4%A7%E9%87%8F%E2%80%9C%E4%BB%A3%E5%AD%95%E5%AE%BF%E8%88%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [武汉赏樱点否认提供梯子拍照](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E8%B5%8F%E6%A8%B1%E7%82%B9%E5%90%A6%E8%AE%A4%E6%8F%90%E4%BE%9B%E6%A2%AF%E5%AD%90%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [一组数据看农村消费不断升温](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E5%86%9C%E6%9D%91%E6%B6%88%E8%B4%B9%E4%B8%8D%E6%96%AD%E5%8D%87%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [交警被路人同款反光外套逗笑](https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E8%A2%AB%E8%B7%AF%E4%BA%BA%E5%90%8C%E6%AC%BE%E5%8F%8D%E5%85%89%E5%A4%96%E5%A5%97%E9%80%97%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张雪峰的马甲掉了一地](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%9A%84%E9%A9%AC%E7%94%B2%E6%8E%89%E4%BA%86%E4%B8%80%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [居民楼暗藏大量“代孕宿舍”](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%A5%BC%E6%9A%97%E8%97%8F%E5%A4%A7%E9%87%8F%E2%80%9C%E4%BB%A3%E5%AD%95%E5%AE%BF%E8%88%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江西一考生参加省考作弊被抓](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%80%E8%80%83%E7%94%9F%E5%8F%82%E5%8A%A0%E7%9C%81%E8%80%83%E4%BD%9C%E5%BC%8A%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [年轻人为啥盯上天水麻辣烫](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E5%95%A5%E7%9B%AF%E4%B8%8A%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [居民楼暗藏大量“代孕宿舍”](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%A5%BC%E6%9A%97%E8%97%8F%E5%A4%A7%E9%87%8F%E2%80%9C%E4%BB%A3%E5%AD%95%E5%AE%BF%E8%88%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [武汉赏樱点否认提供梯子拍照](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E8%B5%8F%E6%A8%B1%E7%82%B9%E5%90%A6%E8%AE%A4%E6%8F%90%E4%BE%9B%E6%A2%AF%E5%AD%90%E6%8B%8D%E7%85%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
