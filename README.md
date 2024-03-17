@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 16:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 16:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [茶百道 崩铁](https://s.weibo.com/weibo?q=%E8%8C%B6%E7%99%BE%E9%81%93%20%E5%B4%A9%E9%93%81&t=31&band_rank=5&Refer=top)<br />
 6. [嘴角起泡其实是感染了病毒](https://s.weibo.com/weibo?q=%23%E5%98%B4%E8%A7%92%E8%B5%B7%E6%B3%A1%E5%85%B6%E5%AE%9E%E6%98%AF%E6%84%9F%E6%9F%93%E4%BA%86%E7%97%85%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [鸡骨泥](https://s.weibo.com/weibo?q=%E9%B8%A1%E9%AA%A8%E6%B3%A5&t=31&band_rank=7&Refer=top)<br />
-8. [乔任梁父亲喊话撕下AI复活明星伪善面具](https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E5%96%8A%E8%AF%9D%E6%92%95%E4%B8%8BAI%E5%A4%8D%E6%B4%BB%E6%98%8E%E6%98%9F%E4%BC%AA%E5%96%84%E9%9D%A2%E5%85%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [陈牧驰耳钉](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0%E8%80%B3%E9%92%89%23&t=31&band_rank=9&Refer=top)<br />
+8. [陈牧驰耳钉](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0%E8%80%B3%E9%92%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [乔任梁父亲喊话撕下AI复活明星伪善面具](https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E5%96%8A%E8%AF%9D%E6%92%95%E4%B8%8BAI%E5%A4%8D%E6%B4%BB%E6%98%8E%E6%98%9F%E4%BC%AA%E5%96%84%E9%9D%A2%E5%85%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
