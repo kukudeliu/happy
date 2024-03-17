@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 02:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 02:29:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [警方通报7名大学生持棍追打中学生](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A57%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8C%81%E6%A3%8D%E8%BF%BD%E6%89%93%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [游客下飞机就排队吃天水麻辣烫](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%B0%B1%E6%8E%92%E9%98%9F%E5%90%83%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [年轻人为啥盯上天水麻辣烫](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E5%95%A5%E7%9B%AF%E4%B8%8A%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [婴儿被月嫂扇巴掌强行灌奶](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%9C%88%E5%AB%82%E6%89%87%E5%B7%B4%E6%8E%8C%E5%BC%BA%E8%A1%8C%E7%81%8C%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [居民楼暗藏大量“代孕宿舍”](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%A5%BC%E6%9A%97%E8%97%8F%E5%A4%A7%E9%87%8F%E2%80%9C%E4%BB%A3%E5%AD%95%E5%AE%BF%E8%88%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [警方通报7名大学生持棍追打中学生](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A57%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8C%81%E6%A3%8D%E8%BF%BD%E6%89%93%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [游客下飞机就排队吃天水麻辣烫](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%B0%B1%E6%8E%92%E9%98%9F%E5%90%83%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [年轻人为啥盯上天水麻辣烫](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E5%95%A5%E7%9B%AF%E4%B8%8A%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [婴儿被月嫂扇巴掌强行灌奶](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%9C%88%E5%AB%82%E6%89%87%E5%B7%B4%E6%8E%8C%E5%BC%BA%E8%A1%8C%E7%81%8C%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [居民楼暗藏大量“代孕宿舍”](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%A5%BC%E6%9A%97%E8%97%8F%E5%A4%A7%E9%87%8F%E2%80%9C%E4%BB%A3%E5%AD%95%E5%AE%BF%E8%88%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
