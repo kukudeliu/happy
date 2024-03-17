@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 00:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 00:31:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [三水结婚](https://www.baidu.com/s?wd=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [云南临沧山火：3名扑火人员遇险身亡](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%B4%E6%B2%A7%E5%B1%B1%E7%81%AB%EF%BC%9A3%E5%90%8D%E6%89%91%E7%81%AB%E4%BA%BA%E5%91%98%E9%81%87%E9%99%A9%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [婴儿被月嫂扇巴掌强行灌奶](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%9C%88%E5%AB%82%E6%89%87%E5%B7%B4%E6%8E%8C%E5%BC%BA%E8%A1%8C%E7%81%8C%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [婴儿被月嫂扇巴掌强行灌奶](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%9C%88%E5%AB%82%E6%89%87%E5%B7%B4%E6%8E%8C%E5%BC%BA%E8%A1%8C%E7%81%8C%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新冠病毒感染与认知功能下降有关](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E4%B8%8E%E8%AE%A4%E7%9F%A5%E5%8A%9F%E8%83%BD%E4%B8%8B%E9%99%8D%E6%9C%89%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [三水结婚](https://www.baidu.com/s?wd=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [云南临沧山火：3名扑火人员遇险身亡](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%B4%E6%B2%A7%E5%B1%B1%E7%81%AB%EF%BC%9A3%E5%90%8D%E6%89%91%E7%81%AB%E4%BA%BA%E5%91%98%E9%81%87%E9%99%A9%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [婴儿被月嫂扇巴掌强行灌奶](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%9C%88%E5%AB%82%E6%89%87%E5%B7%B4%E6%8E%8C%E5%BC%BA%E8%A1%8C%E7%81%8C%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [婴儿被月嫂扇巴掌强行灌奶](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%9C%88%E5%AB%82%E6%89%87%E5%B7%B4%E6%8E%8C%E5%BC%BA%E8%A1%8C%E7%81%8C%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新冠病毒感染与认知功能下降有关](https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E4%B8%8E%E8%AE%A4%E7%9F%A5%E5%8A%9F%E8%83%BD%E4%B8%8B%E9%99%8D%E6%9C%89%E5%85%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
