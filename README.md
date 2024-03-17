@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 00:13:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 00:14:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [三水结婚](https://www.baidu.com/s?wd=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [凯特王妃“失踪” 密友透露新消息](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E2%80%9C%E5%A4%B1%E8%B8%AA%E2%80%9D+%E5%AF%86%E5%8F%8B%E9%80%8F%E9%9C%B2%E6%96%B0%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [年轻人为啥盯上天水麻辣烫](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E5%95%A5%E7%9B%AF%E4%B8%8A%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [315打假击败全国99%大学生](https://www.baidu.com/s?wd=315%E6%89%93%E5%81%87%E5%87%BB%E8%B4%A5%E5%85%A8%E5%9B%BD99%25%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [凯特王妃“失踪” 密友透露新消息](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E2%80%9C%E5%A4%B1%E8%B8%AA%E2%80%9D+%E5%AF%86%E5%8F%8B%E9%80%8F%E9%9C%B2%E6%96%B0%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [三水结婚](https://www.baidu.com/s?wd=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [凯特王妃“失踪” 密友透露新消息](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E2%80%9C%E5%A4%B1%E8%B8%AA%E2%80%9D+%E5%AF%86%E5%8F%8B%E9%80%8F%E9%9C%B2%E6%96%B0%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [年轻人为啥盯上天水麻辣烫](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E5%95%A5%E7%9B%AF%E4%B8%8A%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [315打假击败全国99%大学生](https://www.baidu.com/s?wd=315%E6%89%93%E5%81%87%E5%87%BB%E8%B4%A5%E5%85%A8%E5%9B%BD99%25%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [凯特王妃“失踪” 密友透露新消息](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E2%80%9C%E5%A4%B1%E8%B8%AA%E2%80%9D+%E5%AF%86%E5%8F%8B%E9%80%8F%E9%9C%B2%E6%96%B0%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
