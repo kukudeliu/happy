@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 23:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 23:49:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [抢抓农时春日忙](https://s.weibo.com/weibo?q=%23%E6%8A%A2%E6%8A%93%E5%86%9C%E6%97%B6%E6%98%A5%E6%97%A5%E5%BF%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [Angel父亲离世](https://s.weibo.com/weibo?q=%23Angel%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
 5. [商家直播2小时连吃10根淀粉肠](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E7%9B%B4%E6%92%AD2%E5%B0%8F%E6%97%B6%E8%BF%9E%E5%90%8310%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0%23&t=31&band_rank=5&Refer=top)<br />
-6. [三水结婚](https://s.weibo.com/weibo?q=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&t=31&band_rank=6&Refer=top)<br />
-7. [本周狗屎运最旺的星座TOP4](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7TOP4&t=31&band_rank=7&Refer=top)<br />
-8. [陈星旭陈牧驰 山河表里](https://s.weibo.com/weibo?q=%E9%99%88%E6%98%9F%E6%97%AD%E9%99%88%E7%89%A7%E9%A9%B0%20%E5%B1%B1%E6%B2%B3%E8%A1%A8%E9%87%8C&t=31&band_rank=8&Refer=top)<br />
-9. [火星哥因赌博欠债5000万美元](https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+6. [本周狗屎运最旺的星座TOP4](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7TOP4&t=31&band_rank=6&Refer=top)<br />
+7. [三水结婚](https://s.weibo.com/weibo?q=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&t=31&band_rank=7&Refer=top)<br />
+8. [火星哥因赌博欠债5000万美元](https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈星旭陈牧驰 山河表里](https://s.weibo.com/weibo?q=%E9%99%88%E6%98%9F%E6%97%AD%E9%99%88%E7%89%A7%E9%A9%B0%20%E5%B1%B1%E6%B2%B3%E8%A1%A8%E9%87%8C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [警方通报7名大学生持棍追打中学生](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A57%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8C%81%E6%A3%8D%E8%BF%BD%E6%89%93%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Angel父亲离世](https://www.baidu.com/s?wd=Angel%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张雪峰的马甲掉了一地](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%9A%84%E9%A9%AC%E7%94%B2%E6%8E%89%E4%BA%86%E4%B8%80%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [游客下飞机就排队吃天水麻辣烫](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%B0%B1%E6%8E%92%E9%98%9F%E5%90%83%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [警方通报7名大学生持棍追打中学生](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A57%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8C%81%E6%A3%8D%E8%BF%BD%E6%89%93%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [Angel父亲离世](https://www.baidu.com/s?wd=Angel%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张雪峰的马甲掉了一地](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%9A%84%E9%A9%AC%E7%94%B2%E6%8E%89%E4%BA%86%E4%B8%80%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [游客下飞机就排队吃天水麻辣烫](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%B0%B1%E6%8E%92%E9%98%9F%E5%90%83%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
