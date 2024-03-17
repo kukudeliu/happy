@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 23:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 23:25:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [邯郸初中生被杀害案嫌疑人全部抓获](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%85%A8%E9%83%A8%E6%8A%93%E8%8E%B7%23&t=31&band_rank=2&Refer=top)<br />
 3. [抢抓农时春日忙](https://s.weibo.com/weibo?q=%23%E6%8A%A2%E6%8A%93%E5%86%9C%E6%97%B6%E6%98%A5%E6%97%A5%E5%BF%99%23&t=31&band_rank=3&Refer=top)<br />
 4. [Angel父亲离世](https://s.weibo.com/weibo?q=%23Angel%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top)<br />
-5. [三水结婚](https://s.weibo.com/weibo?q=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&t=31&band_rank=5&Refer=top)<br />
-6. [商家直播2小时连吃10根淀粉肠](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E7%9B%B4%E6%92%AD2%E5%B0%8F%E6%97%B6%E8%BF%9E%E5%90%8310%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0%23&t=31&band_rank=6&Refer=top)<br />
+5. [商家直播2小时连吃10根淀粉肠](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E7%9B%B4%E6%92%AD2%E5%B0%8F%E6%97%B6%E8%BF%9E%E5%90%8310%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0%23&t=31&band_rank=5&Refer=top)<br />
+6. [三水结婚](https://s.weibo.com/weibo?q=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&t=31&band_rank=6&Refer=top)<br />
 7. [本周狗屎运最旺的星座TOP4](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7TOP4&t=31&band_rank=7&Refer=top)<br />
 8. [新说唱2024 尿检](https://s.weibo.com/weibo?q=%E6%96%B0%E8%AF%B4%E5%94%B12024%20%E5%B0%BF%E6%A3%80&t=31&band_rank=8&Refer=top)<br />
 9. [眼泪女王编剧](https://s.weibo.com/weibo?q=%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%E7%BC%96%E5%89%A7&t=31&band_rank=9&Refer=top)<br />
