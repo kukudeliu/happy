@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 01:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 01:20:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [三水结婚](https://www.baidu.com/s?wd=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [婴儿被月嫂扇巴掌强行灌奶](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%9C%88%E5%AB%82%E6%89%87%E5%B7%B4%E6%8E%8C%E5%BC%BA%E8%A1%8C%E7%81%8C%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多个网络平台销售假999足金](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E7%BD%91%E7%BB%9C%E5%B9%B3%E5%8F%B0%E9%94%80%E5%94%AE%E5%81%87999%E8%B6%B3%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [凯特王妃“失踪” 密友透露新消息](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E2%80%9C%E5%A4%B1%E8%B8%AA%E2%80%9D+%E5%AF%86%E5%8F%8B%E9%80%8F%E9%9C%B2%E6%96%B0%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [三水结婚](https://www.baidu.com/s?wd=%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [婴儿被月嫂扇巴掌强行灌奶](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%9C%88%E5%AB%82%E6%89%87%E5%B7%B4%E6%8E%8C%E5%BC%BA%E8%A1%8C%E7%81%8C%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多个网络平台销售假999足金](https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E7%BD%91%E7%BB%9C%E5%B9%B3%E5%8F%B0%E9%94%80%E5%94%AE%E5%81%87999%E8%B6%B3%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [凯特王妃“失踪” 密友透露新消息](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E2%80%9C%E5%A4%B1%E8%B8%AA%E2%80%9D+%E5%AF%86%E5%8F%8B%E9%80%8F%E9%9C%B2%E6%96%B0%E6%B6%88%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
