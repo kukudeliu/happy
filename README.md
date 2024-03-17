@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 08:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 08:39:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [网友拍到淀粉肠摊子2小时没人买](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E6%B7%80%E7%B2%89%E8%82%A0%E6%91%8A%E5%AD%902%E5%B0%8F%E6%97%B6%E6%B2%A1%E4%BA%BA%E4%B9%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [59岁员工不会线上请假被开除](https://www.baidu.com/s?wd=59%E5%B2%81%E5%91%98%E5%B7%A5%E4%B8%8D%E4%BC%9A%E7%BA%BF%E4%B8%8A%E8%AF%B7%E5%81%87%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [最年轻俄总统候选人刚过完40岁生日](https://www.baidu.com/s?wd=%E6%9C%80%E5%B9%B4%E8%BD%BB%E4%BF%84%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E5%88%9A%E8%BF%87%E5%AE%8C40%E5%B2%81%E7%94%9F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [珍爱网76岁董事长道歉](https://www.baidu.com/s?wd=%E7%8F%8D%E7%88%B1%E7%BD%9176%E5%B2%81%E8%91%A3%E4%BA%8B%E9%95%BF%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李菲儿向锦超道歉](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8F%B2%E5%84%BF%E5%90%91%E9%94%A6%E8%B6%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [网友拍到淀粉肠摊子2小时没人买](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E6%B7%80%E7%B2%89%E8%82%A0%E6%91%8A%E5%AD%902%E5%B0%8F%E6%97%B6%E6%B2%A1%E4%BA%BA%E4%B9%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [59岁员工不会线上请假被开除](https://www.baidu.com/s?wd=59%E5%B2%81%E5%91%98%E5%B7%A5%E4%B8%8D%E4%BC%9A%E7%BA%BF%E4%B8%8A%E8%AF%B7%E5%81%87%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [最年轻俄总统候选人刚过完40岁生日](https://www.baidu.com/s?wd=%E6%9C%80%E5%B9%B4%E8%BD%BB%E4%BF%84%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E5%88%9A%E8%BF%87%E5%AE%8C40%E5%B2%81%E7%94%9F%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [珍爱网76岁董事长道歉](https://www.baidu.com/s?wd=%E7%8F%8D%E7%88%B1%E7%BD%9176%E5%B2%81%E8%91%A3%E4%BA%8B%E9%95%BF%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李菲儿向锦超道歉](https://www.baidu.com/s?wd=%E6%9D%8E%E8%8F%B2%E5%84%BF%E5%90%91%E9%94%A6%E8%B6%85%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
