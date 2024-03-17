@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 18:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 18:21:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [鞠婧祎发了个感叹号](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%8F%91%E4%BA%86%E4%B8%AA%E6%84%9F%E5%8F%B9%E5%8F%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [犬舍店主称鸡骨泥是用来做狗粮](https://s.weibo.com/weibo?q=%23%E7%8A%AC%E8%88%8D%E5%BA%97%E4%B8%BB%E7%A7%B0%E9%B8%A1%E9%AA%A8%E6%B3%A5%E6%98%AF%E7%94%A8%E6%9D%A5%E5%81%9A%E7%8B%97%E7%B2%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [茶百道 崩铁](https://s.weibo.com/weibo?q=%E8%8C%B6%E7%99%BE%E9%81%93%20%E5%B4%A9%E9%93%81&t=31&band_rank=7&Refer=top)<br />
-8. [德普被曝片场霸凌女演员](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E6%99%AE%E8%A2%AB%E6%9B%9D%E7%89%87%E5%9C%BA%E9%9C%B8%E5%87%8C%E5%A5%B3%E6%BC%94%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
+8. [浙江一5岁女孩确诊长发公主综合征](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%805%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%95%BF%E5%8F%91%E5%85%AC%E4%B8%BB%E7%BB%BC%E5%90%88%E5%BE%81%23&t=31&band_rank=8&Refer=top)<br />
 9. [消防员七倒八歪的睡姿看得心疼](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%83%E5%80%92%E5%85%AB%E6%AD%AA%E7%9A%84%E7%9D%A1%E5%A7%BF%E7%9C%8B%E5%BE%97%E5%BF%83%E7%96%BC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
