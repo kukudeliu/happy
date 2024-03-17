@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 20:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 20:49:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [一组数据看农村消费不断升温](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E5%86%9C%E6%9D%91%E6%B6%88%E8%B4%B9%E4%B8%8D%E6%96%AD%E5%8D%87%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [浙江一5岁女孩确诊长发公主综合征](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%805%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%95%BF%E5%8F%91%E5%85%AC%E4%B8%BB%E7%BB%BC%E5%90%88%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [徐娇又勇了](https://www.baidu.com/s?wd=%E5%BE%90%E5%A8%87%E5%8F%88%E5%8B%87%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [房价普跌 西安新房价格却连涨13个月](https://www.baidu.com/s?wd=%E6%88%BF%E4%BB%B7%E6%99%AE%E8%B7%8C+%E8%A5%BF%E5%AE%89%E6%96%B0%E6%88%BF%E4%BB%B7%E6%A0%BC%E5%8D%B4%E8%BF%9E%E6%B6%A813%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淀粉肠你伤了小孩哥的心](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E4%BD%A0%E4%BC%A4%E4%BA%86%E5%B0%8F%E5%AD%A9%E5%93%A5%E7%9A%84%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [在家上学合法吗？靠谱吗？](https://www.baidu.com/s?wd=%E5%9C%A8%E5%AE%B6%E4%B8%8A%E5%AD%A6%E5%90%88%E6%B3%95%E5%90%97%EF%BC%9F%E9%9D%A0%E8%B0%B1%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [房价普跌 西安新房价格却连涨13个月](https://www.baidu.com/s?wd=%E6%88%BF%E4%BB%B7%E6%99%AE%E8%B7%8C+%E8%A5%BF%E5%AE%89%E6%96%B0%E6%88%BF%E4%BB%B7%E6%A0%BC%E5%8D%B4%E8%BF%9E%E6%B6%A813%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [一组数据看农村消费不断升温](https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E5%86%9C%E6%9D%91%E6%B6%88%E8%B4%B9%E4%B8%8D%E6%96%AD%E5%8D%87%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [浙江一5岁女孩确诊长发公主综合征](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%805%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%95%BF%E5%8F%91%E5%85%AC%E4%B8%BB%E7%BB%BC%E5%90%88%E5%BE%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [徐娇又勇了](https://www.baidu.com/s?wd=%E5%BE%90%E5%A8%87%E5%8F%88%E5%8B%87%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [房价普跌 西安新房价格却连涨13个月](https://www.baidu.com/s?wd=%E6%88%BF%E4%BB%B7%E6%99%AE%E8%B7%8C+%E8%A5%BF%E5%AE%89%E6%96%B0%E6%88%BF%E4%BB%B7%E6%A0%BC%E5%8D%B4%E8%BF%9E%E6%B6%A813%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [淀粉肠你伤了小孩哥的心](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E4%BD%A0%E4%BC%A4%E4%BA%86%E5%B0%8F%E5%AD%A9%E5%93%A5%E7%9A%84%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [在家上学合法吗？靠谱吗？](https://www.baidu.com/s?wd=%E5%9C%A8%E5%AE%B6%E4%B8%8A%E5%AD%A6%E5%90%88%E6%B3%95%E5%90%97%EF%BC%9F%E9%9D%A0%E8%B0%B1%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [房价普跌 西安新房价格却连涨13个月](https://www.baidu.com/s?wd=%E6%88%BF%E4%BB%B7%E6%99%AE%E8%B7%8C+%E8%A5%BF%E5%AE%89%E6%96%B0%E6%88%BF%E4%BB%B7%E6%A0%BC%E5%8D%B4%E8%BF%9E%E6%B6%A813%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
