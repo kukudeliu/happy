@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 16:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 16:53:03</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [茶百道 崩铁](https://s.weibo.com/weibo?q=%E8%8C%B6%E7%99%BE%E9%81%93%20%E5%B4%A9%E9%93%81&t=31&band_rank=4&Refer=top)<br />
 5. [幼儿园关闭潮最终会影响到大学](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%85%B3%E9%97%AD%E6%BD%AE%E6%9C%80%E7%BB%88%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%88%B0%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [身边逐渐消失的职业](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E8%BE%B9%E9%80%90%E6%B8%90%E6%B6%88%E5%A4%B1%E7%9A%84%E8%81%8C%E4%B8%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [陈牧驰耳钉](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0%E8%80%B3%E9%92%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [乔任梁父亲喊话撕下AI复活明星伪善面具](https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E5%96%8A%E8%AF%9D%E6%92%95%E4%B8%8BAI%E5%A4%8D%E6%B4%BB%E6%98%8E%E6%98%9F%E4%BC%AA%E5%96%84%E9%9D%A2%E5%85%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [花间令热度破10000](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%97%B4%E4%BB%A4%E7%83%AD%E5%BA%A6%E7%A0%B410000%23&t=31&band_rank=9&Refer=top)<br />
+7. [花间令热度破10000](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%97%B4%E4%BB%A4%E7%83%AD%E5%BA%A6%E7%A0%B410000%23&t=31&band_rank=7&Refer=top)<br />
+8. [陈牧驰耳钉](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0%E8%80%B3%E9%92%89%23&t=31&band_rank=8&Refer=top)<br />
+9. [乔任梁父亲喊话撕下AI复活明星伪善面具](https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E5%96%8A%E8%AF%9D%E6%92%95%E4%B8%8BAI%E5%A4%8D%E6%B4%BB%E6%98%8E%E6%98%9F%E4%BC%AA%E5%96%84%E9%9D%A2%E5%85%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
