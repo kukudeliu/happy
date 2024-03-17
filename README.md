@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 00:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 00:56:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [误以为很贵实际很便宜的车](https://s.weibo.com/weibo?q=%23%E8%AF%AF%E4%BB%A5%E4%B8%BA%E5%BE%88%E8%B4%B5%E5%AE%9E%E9%99%85%E5%BE%88%E4%BE%BF%E5%AE%9C%E7%9A%84%E8%BD%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [女孩将小男孩从高处推下](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%B0%86%E5%B0%8F%E7%94%B7%E5%AD%A9%E4%BB%8E%E9%AB%98%E5%A4%84%E6%8E%A8%E4%B8%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [火星哥因赌博欠债5000万美元](https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [小洋睡不着](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%B4%8B%E7%9D%A1%E4%B8%8D%E7%9D%80&t=31&band_rank=9&Refer=top)<br />
+9. [张慧雯最近避避风头吧](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%85%A7%E9%9B%AF%E6%9C%80%E8%BF%91%E9%81%BF%E9%81%BF%E9%A3%8E%E5%A4%B4%E5%90%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
