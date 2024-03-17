@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 11:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-17 11:32:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [西工大教授公开名下研究生去向走红](https://www.baidu.com/s?wd=%E8%A5%BF%E5%B7%A5%E5%A4%A7%E6%95%99%E6%8E%88%E5%85%AC%E5%BC%80%E5%90%8D%E4%B8%8B%E7%A0%94%E7%A9%B6%E7%94%9F%E5%8E%BB%E5%90%91%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一起去赏春](https://www.baidu.com/s?wd=%E4%B8%80%E8%B5%B7%E5%8E%BB%E8%B5%8F%E6%98%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [海南男生给室友展示徒嘴剥椰子](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B7%E7%94%9F%E7%BB%99%E5%AE%A4%E5%8F%8B%E5%B1%95%E7%A4%BA%E5%BE%92%E5%98%B4%E5%89%A5%E6%A4%B0%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [乔任梁父亲回应儿子被AI复活](https://www.baidu.com/s?wd=%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%84%BF%E5%AD%90%E8%A2%ABAI%E5%A4%8D%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男生患桃花癫感觉全校女生喜欢自己](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%82%A3%E6%A1%83%E8%8A%B1%E7%99%AB%E6%84%9F%E8%A7%89%E5%85%A8%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%96%9C%E6%AC%A2%E8%87%AA%E5%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [金价下跌了](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [4男女混租一间房3个月后留满屋垃圾](https://www.baidu.com/s?wd=4%E7%94%B7%E5%A5%B3%E6%B7%B7%E7%A7%9F%E4%B8%80%E9%97%B4%E6%88%BF3%E4%B8%AA%E6%9C%88%E5%90%8E%E7%95%99%E6%BB%A1%E5%B1%8B%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乔任梁父亲回应儿子被AI复活](https://www.baidu.com/s?wd=%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%84%BF%E5%AD%90%E8%A2%ABAI%E5%A4%8D%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生患桃花癫感觉全校女生喜欢自己](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%82%A3%E6%A1%83%E8%8A%B1%E7%99%AB%E6%84%9F%E8%A7%89%E5%85%A8%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%96%9C%E6%AC%A2%E8%87%AA%E5%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [西工大教授公开名下研究生去向走红](https://www.baidu.com/s?wd=%E8%A5%BF%E5%B7%A5%E5%A4%A7%E6%95%99%E6%8E%88%E5%85%AC%E5%BC%80%E5%90%8D%E4%B8%8B%E7%A0%94%E7%A9%B6%E7%94%9F%E5%8E%BB%E5%90%91%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一起去赏春](https://www.baidu.com/s?wd=%E4%B8%80%E8%B5%B7%E5%8E%BB%E8%B5%8F%E6%98%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [海南男生给室友展示徒嘴剥椰子](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%94%B7%E7%94%9F%E7%BB%99%E5%AE%A4%E5%8F%8B%E5%B1%95%E7%A4%BA%E5%BE%92%E5%98%B4%E5%89%A5%E6%A4%B0%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [乔任梁父亲回应儿子被AI复活](https://www.baidu.com/s?wd=%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%84%BF%E5%AD%90%E8%A2%ABAI%E5%A4%8D%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男生患桃花癫感觉全校女生喜欢自己](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%82%A3%E6%A1%83%E8%8A%B1%E7%99%AB%E6%84%9F%E8%A7%89%E5%85%A8%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%96%9C%E6%AC%A2%E8%87%AA%E5%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [金价下跌了](https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [4男女混租一间房3个月后留满屋垃圾](https://www.baidu.com/s?wd=4%E7%94%B7%E5%A5%B3%E6%B7%B7%E7%A7%9F%E4%B8%80%E9%97%B4%E6%88%BF3%E4%B8%AA%E6%9C%88%E5%90%8E%E7%95%99%E6%BB%A1%E5%B1%8B%E5%9E%83%E5%9C%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乔任梁父亲回应儿子被AI复活](https://www.baidu.com/s?wd=%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%84%BF%E5%AD%90%E8%A2%ABAI%E5%A4%8D%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男生患桃花癫感觉全校女生喜欢自己](https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E6%82%A3%E6%A1%83%E8%8A%B1%E7%99%AB%E6%84%9F%E8%A7%89%E5%85%A8%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%96%9C%E6%AC%A2%E8%87%AA%E5%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [这些关于减肥的谣言不可信](https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%8F%E8%82%A5%E7%9A%84%E8%B0%A3%E8%A8%80%E4%B8%8D%E5%8F%AF%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
