@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 03:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 03:23:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [英国王室上演消失的她](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%AE%A4%E4%B8%8A%E6%BC%94%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [Angel父亲离世](https://s.weibo.com/weibo?q=%23Angel%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [火星哥因赌博欠债5000万美元](https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [商家直播2小时连吃10根淀粉肠](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E7%9B%B4%E6%92%AD2%E5%B0%8F%E6%97%B6%E8%BF%9E%E5%90%8310%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0%23&t=31&band_rank=9&Refer=top)<br />
+9. [张慧雯最近避避风头吧](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%85%A7%E9%9B%AF%E6%9C%80%E8%BF%91%E9%81%BF%E9%81%BF%E9%A3%8E%E5%A4%B4%E5%90%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
