@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 02:18:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 02:19:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [警方通报7名大学生持棍追打中学生](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A57%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8C%81%E6%A3%8D%E8%BF%BD%E6%89%93%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [婴儿被月嫂扇巴掌强行灌奶](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%9C%88%E5%AB%82%E6%89%87%E5%B7%B4%E6%8E%8C%E5%BC%BA%E8%A1%8C%E7%81%8C%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [淀粉肠你伤了小孩哥的心](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E4%BD%A0%E4%BC%A4%E4%BA%86%E5%B0%8F%E5%AD%A9%E5%93%A5%E7%9A%84%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新疆百万头牲畜大转场](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%99%BE%E4%B8%87%E5%A4%B4%E7%89%B2%E7%95%9C%E5%A4%A7%E8%BD%AC%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [游客下飞机就排队吃天水麻辣烫](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%B0%B1%E6%8E%92%E9%98%9F%E5%90%83%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [婴儿被月嫂扇巴掌强行灌奶](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%9C%88%E5%AB%82%E6%89%87%E5%B7%B4%E6%8E%8C%E5%BC%BA%E8%A1%8C%E7%81%8C%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张雪峰的马甲掉了一地](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%9A%84%E9%A9%AC%E7%94%B2%E6%8E%89%E4%BA%86%E4%B8%80%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [警方通报7名大学生持棍追打中学生](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A57%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8C%81%E6%A3%8D%E8%BF%BD%E6%89%93%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [天水麻辣烫火了 省委书记批示](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%81%AB%E4%BA%86+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%89%B9%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [婴儿被月嫂扇巴掌强行灌奶](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%9C%88%E5%AB%82%E6%89%87%E5%B7%B4%E6%8E%8C%E5%BC%BA%E8%A1%8C%E7%81%8C%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [淀粉肠你伤了小孩哥的心](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E4%BD%A0%E4%BC%A4%E4%BA%86%E5%B0%8F%E5%AD%A9%E5%93%A5%E7%9A%84%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [新疆百万头牲畜大转场](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%99%BE%E4%B8%87%E5%A4%B4%E7%89%B2%E7%95%9C%E5%A4%A7%E8%BD%AC%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [游客下飞机就排队吃天水麻辣烫](https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%B0%B1%E6%8E%92%E9%98%9F%E5%90%83%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [婴儿被月嫂扇巴掌强行灌奶](https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%9C%88%E5%AB%82%E6%89%87%E5%B7%B4%E6%8E%8C%E5%BC%BA%E8%A1%8C%E7%81%8C%E5%A5%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张雪峰的马甲掉了一地](https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%9A%84%E9%A9%AC%E7%94%B2%E6%8E%89%E4%BA%86%E4%B8%80%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
