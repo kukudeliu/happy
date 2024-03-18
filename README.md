@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 05:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 05:37:02</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [英国白金汉宫否认国王去世](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%99%BD%E9%87%91%E6%B1%89%E5%AE%AB%E5%90%A6%E8%AE%A4%E5%9B%BD%E7%8E%8B%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [这是一堂生动的思政课](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%80%E5%A0%82%E7%94%9F%E5%8A%A8%E7%9A%84%E6%80%9D%E6%94%BF%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [女孩拼2年考研上岸一学期后退学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8B%BC2%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%90%8E%E9%80%80%E5%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
-5. [林狗还是帅的](https://s.weibo.com/weibo?q=%E6%9E%97%E7%8B%97%E8%BF%98%E6%98%AF%E5%B8%85%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
-6. [早上六点起床跟八点起床的区别](https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B8%8A%E5%85%AD%E7%82%B9%E8%B5%B7%E5%BA%8A%E8%B7%9F%E5%85%AB%E7%82%B9%E8%B5%B7%E5%BA%8A%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [与凤行](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C&t=31&band_rank=7&Refer=top)<br />
+5. [早上六点起床跟八点起床的区别](https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B8%8A%E5%85%AD%E7%82%B9%E8%B5%B7%E5%BA%8A%E8%B7%9F%E5%85%AB%E7%82%B9%E8%B5%B7%E5%BA%8A%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=5&Refer=top)<br />
+6. [与凤行](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C&t=31&band_rank=6&Refer=top)<br />
+7. [林狗还是帅的](https://s.weibo.com/weibo?q=%E6%9E%97%E7%8B%97%E8%BF%98%E6%98%AF%E5%B8%85%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
 8. [审判与凤行](https://s.weibo.com/weibo?q=%E5%AE%A1%E5%88%A4%E4%B8%8E%E5%87%A4%E8%A1%8C&t=31&band_rank=8&Refer=top)<br />
 9. [杨幂戴了好多手串](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%88%B4%E4%BA%86%E5%A5%BD%E5%A4%9A%E6%89%8B%E4%B8%B2%23&t=31&band_rank=9&Refer=top)<br />
 
