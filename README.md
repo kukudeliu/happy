@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 11:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 11:26:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [今年315未曝光卫生巾问题](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4315%E6%9C%AA%E6%9B%9D%E5%85%89%E5%8D%AB%E7%94%9F%E5%B7%BE%E9%97%AE%E9%A2%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [网传颅骨照与邯郸初中生遇害案无关](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E9%A2%85%E9%AA%A8%E7%85%A7%E4%B8%8E%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E9%81%87%E5%AE%B3%E6%A1%88%E6%97%A0%E5%85%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [普京赢得俄罗斯总统大选](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%B5%A2%E5%BE%97%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘学义郑合惠子cp感](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90cp%E6%84%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [妈妈卖红薯将女儿培养成村里首个博士](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%8D%96%E7%BA%A2%E8%96%AF%E5%B0%86%E5%A5%B3%E5%84%BF%E5%9F%B9%E5%85%BB%E6%88%90%E6%9D%91%E9%87%8C%E9%A6%96%E4%B8%AA%E5%8D%9A%E5%A3%AB%23&t=31&band_rank=9&Refer=top)<br />
+8. [黄旭熙solo告吹](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%AD%E7%86%99solo%E5%91%8A%E5%90%B9%23&t=31&band_rank=8&Refer=top)<br />
+9. [刘学义郑合惠子cp感](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90cp%E6%84%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [听花酒母公司青海春天股价跌停](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E6%AF%8D%E5%85%AC%E5%8F%B8%E9%9D%92%E6%B5%B7%E6%98%A5%E5%A4%A9%E8%82%A1%E4%BB%B7%E8%B7%8C%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子加盟奶茶店半年亏60多万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8A%A0%E7%9B%9F%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%8D%8A%E5%B9%B4%E4%BA%8F60%E5%A4%9A%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [火星哥因赌博欠债5000万美元](https://www.baidu.com/s?wd=%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特朗普：泽连斯基是最伟大的推销员](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%98%AF%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%8E%A8%E9%94%80%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [淀粉肠摊主一晚0收入](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E6%91%8A%E4%B8%BB%E4%B8%80%E6%99%9A0%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [盒马大润发辟谣出售传闻](https://www.baidu.com/s?wd=%E7%9B%92%E9%A9%AC%E5%A4%A7%E6%B6%A6%E5%8F%91%E8%BE%9F%E8%B0%A3%E5%87%BA%E5%94%AE%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [听花酒母公司青海春天股价跌停](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E6%AF%8D%E5%85%AC%E5%8F%B8%E9%9D%92%E6%B5%B7%E6%98%A5%E5%A4%A9%E8%82%A1%E4%BB%B7%E8%B7%8C%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子加盟奶茶店半年亏60多万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8A%A0%E7%9B%9F%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%8D%8A%E5%B9%B4%E4%BA%8F60%E5%A4%9A%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [火星哥因赌博欠债5000万美元](https://www.baidu.com/s?wd=%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特朗普：泽连斯基是最伟大的推销员](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%98%AF%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%8E%A8%E9%94%80%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [淀粉肠摊主一晚0收入](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E6%91%8A%E4%B8%BB%E4%B8%80%E6%99%9A0%E6%94%B6%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [盒马大润发辟谣出售传闻](https://www.baidu.com/s?wd=%E7%9B%92%E9%A9%AC%E5%A4%A7%E6%B6%A6%E5%8F%91%E8%BE%9F%E8%B0%A3%E5%87%BA%E5%94%AE%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
