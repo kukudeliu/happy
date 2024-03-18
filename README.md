@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 16:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 16:25:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [全力以赴保春耕](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E4%BF%9D%E6%98%A5%E8%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国外交部发言人上新](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A8%80%E4%BA%BA%E4%B8%8A%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家称今年刚需买房的人可以下手了](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BB%8A%E5%B9%B4%E5%88%9A%E9%9C%80%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E5%8F%AF%E4%BB%A5%E4%B8%8B%E6%89%8B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [狗狗每次路过狗肉馆都会大声吼](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E6%AF%8F%E6%AC%A1%E8%B7%AF%E8%BF%87%E7%8B%97%E8%82%89%E9%A6%86%E9%83%BD%E4%BC%9A%E5%A4%A7%E5%A3%B0%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [00后长期熬夜长出老年斑](https://www.baidu.com/s?wd=00%E5%90%8E%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E9%95%BF%E5%87%BA%E8%80%81%E5%B9%B4%E6%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [00后长期熬夜长出老年斑](https://www.baidu.com/s?wd=00%E5%90%8E%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E9%95%BF%E5%87%BA%E8%80%81%E5%B9%B4%E6%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [狗狗每次路过狗肉馆都会大声吼](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E6%AF%8F%E6%AC%A1%E8%B7%AF%E8%BF%87%E7%8B%97%E8%82%89%E9%A6%86%E9%83%BD%E4%BC%9A%E5%A4%A7%E5%A3%B0%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣雅江山火救援力量撤出](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F%E6%92%A4%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [全力以赴保春耕](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E4%BF%9D%E6%98%A5%E8%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中国外交部发言人上新](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A8%80%E4%BA%BA%E4%B8%8A%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [专家称今年刚需买房的人可以下手了](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BB%8A%E5%B9%B4%E5%88%9A%E9%9C%80%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E5%8F%AF%E4%BB%A5%E4%B8%8B%E6%89%8B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [狗狗每次路过狗肉馆都会大声吼](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E6%AF%8F%E6%AC%A1%E8%B7%AF%E8%BF%87%E7%8B%97%E8%82%89%E9%A6%86%E9%83%BD%E4%BC%9A%E5%A4%A7%E5%A3%B0%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [00后长期熬夜长出老年斑](https://www.baidu.com/s?wd=00%E5%90%8E%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E9%95%BF%E5%87%BA%E8%80%81%E5%B9%B4%E6%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [00后长期熬夜长出老年斑](https://www.baidu.com/s?wd=00%E5%90%8E%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E9%95%BF%E5%87%BA%E8%80%81%E5%B9%B4%E6%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [狗狗每次路过狗肉馆都会大声吼](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E6%AF%8F%E6%AC%A1%E8%B7%AF%E8%BF%87%E7%8B%97%E8%82%89%E9%A6%86%E9%83%BD%E4%BC%9A%E5%A4%A7%E5%A3%B0%E5%90%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣雅江山火救援力量撤出](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F%E6%92%A4%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
