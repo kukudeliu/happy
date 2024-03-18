@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 15:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 15:29:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [喜茶称呼查理苏为您先生](https://s.weibo.com/weibo?q=%E5%96%9C%E8%8C%B6%E7%A7%B0%E5%91%BC%E6%9F%A5%E7%90%86%E8%8B%8F%E4%B8%BA%E6%82%A8%E5%85%88%E7%94%9F&t=31&band_rank=6&Refer=top)<br />
 7. [淀粉肠小王子发声](https://s.weibo.com/weibo?q=%23%E6%B7%80%E7%B2%89%E8%82%A0%E5%B0%8F%E7%8E%8B%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [三只羊就梅菜扣肉事件致歉](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%B0%B1%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [辛芷蕾连穿8套顶级高定](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%BF%9E%E7%A9%BF8%E5%A5%97%E9%A1%B6%E7%BA%A7%E9%AB%98%E5%AE%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [樊振东最好的回应是拿实力说话](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%9C%80%E5%A5%BD%E7%9A%84%E5%9B%9E%E5%BA%94%E6%98%AF%E6%8B%BF%E5%AE%9E%E5%8A%9B%E8%AF%B4%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
