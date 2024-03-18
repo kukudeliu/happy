@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 21:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 21:42:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [云南大理突发山火 消防赶赴现场扑救](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E7%AA%81%E5%8F%91%E5%B1%B1%E7%81%AB+%E6%B6%88%E9%98%B2%E8%B5%B6%E8%B5%B4%E7%8E%B0%E5%9C%BA%E6%89%91%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [幼儿园关停潮下 90后幼师纷纷转行](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%85%B3%E5%81%9C%E6%BD%AE%E4%B8%8B+90%E5%90%8E%E5%B9%BC%E5%B8%88%E7%BA%B7%E7%BA%B7%E8%BD%AC%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [4岁受害女童父亲：内心恐慌悲凉](https://www.baidu.com/s?wd=4%E5%B2%81%E5%8F%97%E5%AE%B3%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%86%85%E5%BF%83%E6%81%90%E6%85%8C%E6%82%B2%E5%87%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [海关截获2万余只活蟑螂](https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%88%AA%E8%8E%B72%E4%B8%87%E4%BD%99%E5%8F%AA%E6%B4%BB%E8%9F%91%E8%9E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全国房价比峰顶下降23%](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%88%BF%E4%BB%B7%E6%AF%94%E5%B3%B0%E9%A1%B6%E4%B8%8B%E9%99%8D23%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [云南大理突发山火 消防赶赴现场扑救](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E7%AA%81%E5%8F%91%E5%B1%B1%E7%81%AB+%E6%B6%88%E9%98%B2%E8%B5%B6%E8%B5%B4%E7%8E%B0%E5%9C%BA%E6%89%91%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [幼儿园关停潮下 90后幼师纷纷转行](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%85%B3%E5%81%9C%E6%BD%AE%E4%B8%8B+90%E5%90%8E%E5%B9%BC%E5%B8%88%E7%BA%B7%E7%BA%B7%E8%BD%AC%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [4岁受害女童父亲：内心恐慌悲凉](https://www.baidu.com/s?wd=4%E5%B2%81%E5%8F%97%E5%AE%B3%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%86%85%E5%BF%83%E6%81%90%E6%85%8C%E6%82%B2%E5%87%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [海关截获2万余只活蟑螂](https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%88%AA%E8%8E%B72%E4%B8%87%E4%BD%99%E5%8F%AA%E6%B4%BB%E8%9F%91%E8%9E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全国房价比峰顶下降23%](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%88%BF%E4%BB%B7%E6%AF%94%E5%B3%B0%E9%A1%B6%E4%B8%8B%E9%99%8D23%25&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
