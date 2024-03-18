@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 17:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 17:22:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [三只羊就梅菜扣肉事件致歉](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%B0%B1%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [查尔斯](https://s.weibo.com/weibo?q=%E6%9F%A5%E5%B0%94%E6%96%AF&t=31&band_rank=6&Refer=top)<br />
 7. [宋轶 红山动物园](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%BD%B6%20%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD&t=31&band_rank=7&Refer=top)<br />
-8. [凯特现身](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=9&Refer=top)<br />
+8. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=8&Refer=top)<br />
+9. [凯特现身](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
