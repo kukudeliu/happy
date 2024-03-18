@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 09:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 09:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [AppleID将成历史](https://s.weibo.com/weibo?q=%23AppleID%E5%B0%86%E6%88%90%E5%8E%86%E5%8F%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [快餐顶流黄焖鸡为啥没人吃了](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%A4%90%E9%A1%B6%E6%B5%81%E9%BB%84%E7%84%96%E9%B8%A1%E4%B8%BA%E5%95%A5%E6%B2%A1%E4%BA%BA%E5%90%83%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [国人平均睡眠时长6.75小时](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%BA%E5%B9%B3%E5%9D%87%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF6.75%E5%B0%8F%E6%97%B6%23&t=31&band_rank=8&Refer=top)<br />
-9. [徐娇再喊话竹内亮](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%A8%87%E5%86%8D%E5%96%8A%E8%AF%9D%E7%AB%B9%E5%86%85%E4%BA%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [当我收到了我的二月份工资](https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E6%94%B6%E5%88%B0%E4%BA%86%E6%88%91%E7%9A%84%E4%BA%8C%E6%9C%88%E4%BB%BD%E5%B7%A5%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
