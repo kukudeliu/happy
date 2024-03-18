@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 12:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 12:46:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [特朗普发出新威胁指向中国电动汽车](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%87%BA%E6%96%B0%E5%A8%81%E8%83%81%E6%8C%87%E5%90%91%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子加盟奶茶店半年亏60多万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8A%A0%E7%9B%9F%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%8D%8A%E5%B9%B4%E4%BA%8F60%E5%A4%9A%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [三岁半孙子每天给开公交的爷爷送饭](https://www.baidu.com/s?wd=%E4%B8%89%E5%B2%81%E5%8D%8A%E5%AD%99%E5%AD%90%E6%AF%8F%E5%A4%A9%E7%BB%99%E5%BC%80%E5%85%AC%E4%BA%A4%E7%9A%84%E7%88%B7%E7%88%B7%E9%80%81%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京首次回应纳瓦利内之死](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E7%BA%B3%E7%93%A6%E5%88%A9%E5%86%85%E4%B9%8B%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国两女子街头互殴引200人围观](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%A5%B3%E5%AD%90%E8%A1%97%E5%A4%B4%E4%BA%92%E6%AE%B4%E5%BC%95200%E4%BA%BA%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣雅江山火救援力量撤出](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F%E6%92%A4%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [特朗普发出新威胁指向中国电动汽车](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%87%BA%E6%96%B0%E5%A8%81%E8%83%81%E6%8C%87%E5%90%91%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子加盟奶茶店半年亏60多万](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8A%A0%E7%9B%9F%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%8D%8A%E5%B9%B4%E4%BA%8F60%E5%A4%9A%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [三岁半孙子每天给开公交的爷爷送饭](https://www.baidu.com/s?wd=%E4%B8%89%E5%B2%81%E5%8D%8A%E5%AD%99%E5%AD%90%E6%AF%8F%E5%A4%A9%E7%BB%99%E5%BC%80%E5%85%AC%E4%BA%A4%E7%9A%84%E7%88%B7%E7%88%B7%E9%80%81%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [普京首次回应纳瓦利内之死](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E7%BA%B3%E7%93%A6%E5%88%A9%E5%86%85%E4%B9%8B%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国两女子街头互殴引200人围观](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%A5%B3%E5%AD%90%E8%A1%97%E5%A4%B4%E4%BA%92%E6%AE%B4%E5%BC%95200%E4%BA%BA%E5%9B%B4%E8%A7%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣雅江山火救援力量撤出](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F%E6%92%A4%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
