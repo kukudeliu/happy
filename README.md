@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 13:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 13:48:01</h4></div>
 
 > 微博  
 
-1. [邯郸初中生遇害案死者被活埋不实](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E9%81%87%E5%AE%B3%E6%A1%88%E6%AD%BB%E8%80%85%E8%A2%AB%E6%B4%BB%E5%9F%8B%E4%B8%8D%E5%AE%9E%23&t=31&band_rank=1&Refer=top)<br />
-2. [凯特现身](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=2&Refer=top)<br />
+1. [凯特现身](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=1&Refer=top)<br />
+2. [邯郸初中生遇害案死者被活埋不实](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E9%81%87%E5%AE%B3%E6%A1%88%E6%AD%BB%E8%80%85%E8%A2%AB%E6%B4%BB%E5%9F%8B%E4%B8%8D%E5%AE%9E%23&t=31&band_rank=2&Refer=top)<br />
 3. [春天里的大美中国](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E9%87%8C%E7%9A%84%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [淀粉肠小王子发声](https://s.weibo.com/weibo?q=%23%E6%B7%80%E7%B2%89%E8%82%A0%E5%B0%8F%E7%8E%8B%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [专家称今年刚需买房的人可以下手了](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BB%8A%E5%B9%B4%E5%88%9A%E9%9C%80%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E5%8F%AF%E4%BB%A5%E4%B8%8B%E6%89%8B%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
