@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 11:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 11:24:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [今年315未曝光卫生巾问题](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4315%E6%9C%AA%E6%9B%9D%E5%85%89%E5%8D%AB%E7%94%9F%E5%B7%BE%E9%97%AE%E9%A2%98%23&t=31&band_rank=5&Refer=top)<br />
 6. [网传颅骨照与邯郸初中生遇害案无关](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E9%A2%85%E9%AA%A8%E7%85%A7%E4%B8%8E%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E9%81%87%E5%AE%B3%E6%A1%88%E6%97%A0%E5%85%B3%23&t=31&band_rank=6&Refer=top)<br />
 7. [普京赢得俄罗斯总统大选](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%B5%A2%E5%BE%97%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [妈妈卖红薯将女儿培养成村里首个博士](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%8D%96%E7%BA%A2%E8%96%AF%E5%B0%86%E5%A5%B3%E5%84%BF%E5%9F%B9%E5%85%BB%E6%88%90%E6%9D%91%E9%87%8C%E9%A6%96%E4%B8%AA%E5%8D%9A%E5%A3%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘学义郑合惠子cp感](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90cp%E6%84%9F%23&t=31&band_rank=9&Refer=top)<br />
+8. [刘学义郑合惠子cp感](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90cp%E6%84%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [妈妈卖红薯将女儿培养成村里首个博士](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%8D%96%E7%BA%A2%E8%96%AF%E5%B0%86%E5%A5%B3%E5%84%BF%E5%9F%B9%E5%85%BB%E6%88%90%E6%9D%91%E9%87%8C%E9%A6%96%E4%B8%AA%E5%8D%9A%E5%A3%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
