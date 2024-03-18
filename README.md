@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 10:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 11:01:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [妈妈卖红薯将女儿培养成村里首个博士](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%8D%96%E7%BA%A2%E8%96%AF%E5%B0%86%E5%A5%B3%E5%84%BF%E5%9F%B9%E5%85%BB%E6%88%90%E6%9D%91%E9%87%8C%E9%A6%96%E4%B8%AA%E5%8D%9A%E5%A3%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [普京赢得俄罗斯总统大选](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%B5%A2%E5%BE%97%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [长期炎症容易拖成癌](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%82%8E%E7%97%87%E5%AE%B9%E6%98%93%E6%8B%96%E6%88%90%E7%99%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [95后男生自研甲油胶每月卖60万](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E7%94%B7%E7%94%9F%E8%87%AA%E7%A0%94%E7%94%B2%E6%B2%B9%E8%83%B6%E6%AF%8F%E6%9C%88%E5%8D%9660%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [优酷开知否限免](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E5%BC%80%E7%9F%A5%E5%90%A6%E9%99%90%E5%85%8D%23&t=31&band_rank=9&Refer=top)<br />
+8. [优酷开知否限免](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E5%BC%80%E7%9F%A5%E5%90%A6%E9%99%90%E5%85%8D%23&t=31&band_rank=8&Refer=top)<br />
+9. [95后男生自研甲油胶每月卖60万](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E7%94%B7%E7%94%9F%E8%87%AA%E7%A0%94%E7%94%B2%E6%B2%B9%E8%83%B6%E6%AF%8F%E6%9C%88%E5%8D%9660%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
