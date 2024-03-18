@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 21:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 21:08:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [许家印拟被终身证券市场禁入](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E6%8B%9F%E8%A2%AB%E7%BB%88%E8%BA%AB%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA%E7%A6%81%E5%85%A5%23&t=31&band_rank=5&Refer=top)<br />
 6. [查尔斯](https://s.weibo.com/weibo?q=%E6%9F%A5%E5%B0%94%E6%96%AF&t=31&band_rank=6&Refer=top)<br />
 7. [恒大地产被罚41.75亿元](https://s.weibo.com/weibo?q=%23%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7%E8%A2%AB%E7%BD%9A41.75%E4%BA%BF%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
-8. [祖国各地春日美食上新了](https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E5%90%84%E5%9C%B0%E6%98%A5%E6%97%A5%E7%BE%8E%E9%A3%9F%E4%B8%8A%E6%96%B0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [与凤行特效](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C%E7%89%B9%E6%95%88&t=31&band_rank=9&Refer=top)<br />
+8. [与凤行特效](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C%E7%89%B9%E6%95%88&t=31&band_rank=8&Refer=top)<br />
+9. [早上六点起床跟八点起床的区别](https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B8%8A%E5%85%AD%E7%82%B9%E8%B5%B7%E5%BA%8A%E8%B7%9F%E5%85%AB%E7%82%B9%E8%B5%B7%E5%BA%8A%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
