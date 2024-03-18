@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 23:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 23:28:01</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [英国白金汉宫否认国王去世](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%99%BD%E9%87%91%E6%B1%89%E5%AE%AB%E5%90%A6%E8%AE%A4%E5%9B%BD%E7%8E%8B%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top)<br />
 3. [县在出发](https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%9C%A8%E5%87%BA%E5%8F%91%23&t=31&band_rank=3&Refer=top)<br />
 4. [杨幂戴了好多手串](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%88%B4%E4%BA%86%E5%A5%BD%E5%A4%9A%E6%89%8B%E4%B8%B2%23&t=31&band_rank=4&Refer=top)<br />
-5. [赵丽颖 扛剧](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%89%9B%E5%89%A7&t=31&band_rank=5&Refer=top)<br />
-6. [郑合惠子刘学义能二搭吗](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E5%88%98%E5%AD%A6%E4%B9%89%E8%83%BD%E4%BA%8C%E6%90%AD%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
+5. [郑合惠子刘学义能二搭吗](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E5%88%98%E5%AD%A6%E4%B9%89%E8%83%BD%E4%BA%8C%E6%90%AD%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
+6. [赵丽颖 扛剧](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%89%9B%E5%89%A7&t=31&band_rank=6&Refer=top)<br />
 7. [许家印决策并组织实施财务造假](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%86%B3%E7%AD%96%E5%B9%B6%E7%BB%84%E7%BB%87%E5%AE%9E%E6%96%BD%E8%B4%A2%E5%8A%A1%E9%80%A0%E5%81%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [审判与凤行](https://s.weibo.com/weibo?q=%E5%AE%A1%E5%88%A4%E4%B8%8E%E5%87%A4%E8%A1%8C&t=31&band_rank=8&Refer=top)<br />
+8. [毕竟是九亿少女的梦](https://s.weibo.com/weibo?q=%E6%AF%95%E7%AB%9F%E6%98%AF%E4%B9%9D%E4%BA%BF%E5%B0%91%E5%A5%B3%E7%9A%84%E6%A2%A6&t=31&band_rank=8&Refer=top)<br />
 9. [淀粉肠生产企业董事长直播吃淀粉肠](https://s.weibo.com/weibo?q=%23%E6%B7%80%E7%B2%89%E8%82%A0%E7%94%9F%E4%BA%A7%E4%BC%81%E4%B8%9A%E8%91%A3%E4%BA%8B%E9%95%BF%E7%9B%B4%E6%92%AD%E5%90%83%E6%B7%80%E7%B2%89%E8%82%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
