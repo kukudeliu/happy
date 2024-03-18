@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 08:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 08:28:01</h4></div>
 
 > 微博  
 
@@ -21,11 +21,11 @@
 2. [普京赢得俄罗斯总统选举](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%B5%A2%E5%BE%97%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [13岁男生猥亵女生被送专门学校训诫](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E7%94%9F%E7%8C%A5%E4%BA%B5%E5%A5%B3%E7%94%9F%E8%A2%AB%E9%80%81%E4%B8%93%E9%97%A8%E5%AD%A6%E6%A0%A1%E8%AE%AD%E8%AF%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [警方通报7名大学生持棍追打中学生](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A57%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8C%81%E6%A3%8D%E8%BF%BD%E6%89%93%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [买房一年后被告知厕所是邻居家的](https://www.baidu.com/s?wd=%E4%B9%B0%E6%88%BF%E4%B8%80%E5%B9%B4%E5%90%8E%E8%A2%AB%E5%91%8A%E7%9F%A5%E5%8E%95%E6%89%80%E6%98%AF%E9%82%BB%E5%B1%85%E5%AE%B6%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俄罗斯的猫用尾巴挡弹片救下主人](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E7%8C%AB%E7%94%A8%E5%B0%BE%E5%B7%B4%E6%8C%A1%E5%BC%B9%E7%89%87%E6%95%91%E4%B8%8B%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子讨薪十年坐火车仅吃萝卜充饥](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AE%A8%E8%96%AA%E5%8D%81%E5%B9%B4%E5%9D%90%E7%81%AB%E8%BD%A6%E4%BB%85%E5%90%83%E8%90%9D%E5%8D%9C%E5%85%85%E9%A5%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [买房一年后被告知厕所是邻居家的](https://www.baidu.com/s?wd=%E4%B9%B0%E6%88%BF%E4%B8%80%E5%B9%B4%E5%90%8E%E8%A2%AB%E5%91%8A%E7%9F%A5%E5%8E%95%E6%89%80%E6%98%AF%E9%82%BB%E5%B1%85%E5%AE%B6%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [俄罗斯的猫用尾巴挡弹片救下主人](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E7%8C%AB%E7%94%A8%E5%B0%BE%E5%B7%B4%E6%8C%A1%E5%BC%B9%E7%89%87%E6%95%91%E4%B8%8B%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子讨薪十年坐火车仅吃萝卜充饥](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AE%A8%E8%96%AA%E5%8D%81%E5%B9%B4%E5%9D%90%E7%81%AB%E8%BD%A6%E4%BB%85%E5%90%83%E8%90%9D%E5%8D%9C%E5%85%85%E9%A5%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [商家直播2小时连吃10根淀粉肠](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E7%9B%B4%E6%92%AD2%E5%B0%8F%E6%97%B6%E8%BF%9E%E5%90%8310%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网传初中生遇害案颅骨照片不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%88%9D%E4%B8%AD%E7%94%9F%E9%81%87%E5%AE%B3%E6%A1%88%E9%A2%85%E9%AA%A8%E7%85%A7%E7%89%87%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -33,8 +33,8 @@
 2. [普京赢得俄罗斯总统选举](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%B5%A2%E5%BE%97%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [13岁男生猥亵女生被送专门学校训诫](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E7%94%9F%E7%8C%A5%E4%BA%B5%E5%A5%B3%E7%94%9F%E8%A2%AB%E9%80%81%E4%B8%93%E9%97%A8%E5%AD%A6%E6%A0%A1%E8%AE%AD%E8%AF%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [警方通报7名大学生持棍追打中学生](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A57%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8C%81%E6%A3%8D%E8%BF%BD%E6%89%93%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [买房一年后被告知厕所是邻居家的](https://www.baidu.com/s?wd=%E4%B9%B0%E6%88%BF%E4%B8%80%E5%B9%B4%E5%90%8E%E8%A2%AB%E5%91%8A%E7%9F%A5%E5%8E%95%E6%89%80%E6%98%AF%E9%82%BB%E5%B1%85%E5%AE%B6%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俄罗斯的猫用尾巴挡弹片救下主人](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E7%8C%AB%E7%94%A8%E5%B0%BE%E5%B7%B4%E6%8C%A1%E5%BC%B9%E7%89%87%E6%95%91%E4%B8%8B%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子讨薪十年坐火车仅吃萝卜充饥](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AE%A8%E8%96%AA%E5%8D%81%E5%B9%B4%E5%9D%90%E7%81%AB%E8%BD%A6%E4%BB%85%E5%90%83%E8%90%9D%E5%8D%9C%E5%85%85%E9%A5%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [安徽修高速发现汉代古墓不实](https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BF%AE%E9%AB%98%E9%80%9F%E5%8F%91%E7%8E%B0%E6%B1%89%E4%BB%A3%E5%8F%A4%E5%A2%93%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [买房一年后被告知厕所是邻居家的](https://www.baidu.com/s?wd=%E4%B9%B0%E6%88%BF%E4%B8%80%E5%B9%B4%E5%90%8E%E8%A2%AB%E5%91%8A%E7%9F%A5%E5%8E%95%E6%89%80%E6%98%AF%E9%82%BB%E5%B1%85%E5%AE%B6%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [俄罗斯的猫用尾巴挡弹片救下主人](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E7%8C%AB%E7%94%A8%E5%B0%BE%E5%B7%B4%E6%8C%A1%E5%BC%B9%E7%89%87%E6%95%91%E4%B8%8B%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子讨薪十年坐火车仅吃萝卜充饥](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AE%A8%E8%96%AA%E5%8D%81%E5%B9%B4%E5%9D%90%E7%81%AB%E8%BD%A6%E4%BB%85%E5%90%83%E8%90%9D%E5%8D%9C%E5%85%85%E9%A5%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [商家直播2小时连吃10根淀粉肠](https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E7%9B%B4%E6%92%AD2%E5%B0%8F%E6%97%B6%E8%BF%9E%E5%90%8310%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网传初中生遇害案颅骨照片不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%88%9D%E4%B8%AD%E7%94%9F%E9%81%87%E5%AE%B3%E6%A1%88%E9%A2%85%E9%AA%A8%E7%85%A7%E7%89%87%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
