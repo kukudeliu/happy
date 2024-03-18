@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 00:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 01:00:02</h4></div>
 
 > 微博  
 
-1. [女孩拼2年考研上岸一学期后退学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8B%BC2%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%90%8E%E9%80%80%E5%AD%A6%23&t=31&band_rank=1&Refer=top)<br />
-2. [林狗还是帅的](https://s.weibo.com/weibo?q=%E6%9E%97%E7%8B%97%E8%BF%98%E6%98%AF%E5%B8%85%E7%9A%84&t=31&band_rank=2&Refer=top)<br />
+1. [林狗还是帅的](https://s.weibo.com/weibo?q=%E6%9E%97%E7%8B%97%E8%BF%98%E6%98%AF%E5%B8%85%E7%9A%84&t=31&band_rank=1&Refer=top)<br />
+2. [女孩拼2年考研上岸一学期后退学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8B%BC2%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%90%8E%E9%80%80%E5%AD%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [县在出发](https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%9C%A8%E5%87%BA%E5%8F%91%23&t=31&band_rank=3&Refer=top)<br />
 4. [郑合惠子刘学义能二搭吗](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E5%88%98%E5%AD%A6%E4%B9%89%E8%83%BD%E4%BA%8C%E6%90%AD%E5%90%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [早上六点起床跟八点起床的区别](https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B8%8A%E5%85%AD%E7%82%B9%E8%B5%B7%E5%BA%8A%E8%B7%9F%E5%85%AB%E7%82%B9%E8%B5%B7%E5%BA%8A%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=5&Refer=top)<br />
-6. [迪丽热巴 枭起青壤](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4&t=31&band_rank=6&Refer=top)<br />
-7. [你以为很卫生其实很脏的行为](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%A5%E4%B8%BA%E5%BE%88%E5%8D%AB%E7%94%9F%E5%85%B6%E5%AE%9E%E5%BE%88%E8%84%8F%E7%9A%84%E8%A1%8C%E4%B8%BA&t=31&band_rank=7&Refer=top)<br />
+6. [你以为很卫生其实很脏的行为](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%A5%E4%B8%BA%E5%BE%88%E5%8D%AB%E7%94%9F%E5%85%B6%E5%AE%9E%E5%BE%88%E8%84%8F%E7%9A%84%E8%A1%8C%E4%B8%BA&t=31&band_rank=6&Refer=top)<br />
+7. [迪丽热巴 枭起青壤](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4&t=31&band_rank=7&Refer=top)<br />
 8. [赵丽颖 扛剧](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%89%9B%E5%89%A7&t=31&band_rank=8&Refer=top)<br />
 9. [刘学义上桌了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E4%B8%8A%E6%A1%8C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
