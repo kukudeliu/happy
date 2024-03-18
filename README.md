@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 16:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 16:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [315打假名单](https://s.weibo.com/weibo?q=315%E6%89%93%E5%81%87%E5%90%8D%E5%8D%95&t=31&band_rank=6&Refer=top)<br />
 7. [凯特现身](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=7&Refer=top)<br />
 8. [鞠婧祎闭错眼了](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%97%AD%E9%94%99%E7%9C%BC%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [喜茶称呼查理苏为您先生](https://s.weibo.com/weibo?q=%E5%96%9C%E8%8C%B6%E7%A7%B0%E5%91%BC%E6%9F%A5%E7%90%86%E8%8B%8F%E4%B8%BA%E6%82%A8%E5%85%88%E7%94%9F&t=31&band_rank=9&Refer=top)<br />
+9. [鸡骨泥运用于淀粉肠中不算违规](https://s.weibo.com/weibo?q=%23%E9%B8%A1%E9%AA%A8%E6%B3%A5%E8%BF%90%E7%94%A8%E4%BA%8E%E6%B7%80%E7%B2%89%E8%82%A0%E4%B8%AD%E4%B8%8D%E7%AE%97%E8%BF%9D%E8%A7%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
