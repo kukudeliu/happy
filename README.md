@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 21:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 21:25:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [习近平心系这门“关键课程”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E7%B3%BB%E8%BF%99%E9%97%A8%E2%80%9C%E5%85%B3%E9%94%AE%E8%AF%BE%E7%A8%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [许家印拟被终身禁入证券市场](https://www.baidu.com/s?wd=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E6%8B%9F%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E5%85%A5%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [梅菜扣肉厂家晒检验报告自证清白](https://www.baidu.com/s?wd=%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E5%8E%82%E5%AE%B6%E6%99%92%E6%A3%80%E9%AA%8C%E6%8A%A5%E5%91%8A%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [淀粉肠生产企业董事长直播吃淀粉肠](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E7%94%9F%E4%BA%A7%E4%BC%81%E4%B8%9A%E8%91%A3%E4%BA%8B%E9%95%BF%E7%9B%B4%E6%92%AD%E5%90%83%E6%B7%80%E7%B2%89%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春分将至农事忙](https://www.baidu.com/s?wd=%E6%98%A5%E5%88%86%E5%B0%86%E8%87%B3%E5%86%9C%E4%BA%8B%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [云南大理突发山火 消防赶赴现场扑救](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E7%AA%81%E5%8F%91%E5%B1%B1%E7%81%AB+%E6%B6%88%E9%98%B2%E8%B5%B6%E8%B5%B4%E7%8E%B0%E5%9C%BA%E6%89%91%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [当金店开始讨好年轻人](https://www.baidu.com/s?wd=%E5%BD%93%E9%87%91%E5%BA%97%E5%BC%80%E5%A7%8B%E8%AE%A8%E5%A5%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [习近平心系这门“关键课程”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E7%B3%BB%E8%BF%99%E9%97%A8%E2%80%9C%E5%85%B3%E9%94%AE%E8%AF%BE%E7%A8%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [许家印拟被终身禁入证券市场](https://www.baidu.com/s?wd=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E6%8B%9F%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E5%85%A5%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [梅菜扣肉厂家晒检验报告自证清白](https://www.baidu.com/s?wd=%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E5%8E%82%E5%AE%B6%E6%99%92%E6%A3%80%E9%AA%8C%E6%8A%A5%E5%91%8A%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [淀粉肠生产企业董事长直播吃淀粉肠](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E7%94%9F%E4%BA%A7%E4%BC%81%E4%B8%9A%E8%91%A3%E4%BA%8B%E9%95%BF%E7%9B%B4%E6%92%AD%E5%90%83%E6%B7%80%E7%B2%89%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春分将至农事忙](https://www.baidu.com/s?wd=%E6%98%A5%E5%88%86%E5%B0%86%E8%87%B3%E5%86%9C%E4%BA%8B%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [云南大理突发山火 消防赶赴现场扑救](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E7%AA%81%E5%8F%91%E5%B1%B1%E7%81%AB+%E6%B6%88%E9%98%B2%E8%B5%B6%E8%B5%B4%E7%8E%B0%E5%9C%BA%E6%89%91%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [当金店开始讨好年轻人](https://www.baidu.com/s?wd=%E5%BD%93%E9%87%91%E5%BA%97%E5%BC%80%E5%A7%8B%E8%AE%A8%E5%A5%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
