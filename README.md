@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 19:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 19:42:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [杨幂小拇指好短](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%B0%8F%E6%8B%87%E6%8C%87%E5%A5%BD%E7%9F%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [你以为很卫生其实很脏的行为](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%A5%E4%B8%BA%E5%BE%88%E5%8D%AB%E7%94%9F%E5%85%B6%E5%AE%9E%E5%BE%88%E8%84%8F%E7%9A%84%E8%A1%8C%E4%B8%BA&t=31&band_rank=5&Refer=top)<br />
 6. [肠妃回宫](https://s.weibo.com/weibo?q=%E8%82%A0%E5%A6%83%E5%9B%9E%E5%AE%AB&t=31&band_rank=6&Refer=top)<br />
-7. [赵小棠妈妈状态](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%B0%8F%E6%A3%A0%E5%A6%88%E5%A6%88%E7%8A%B6%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [查尔斯](https://s.weibo.com/weibo?q=%E6%9F%A5%E5%B0%94%E6%96%AF&t=31&band_rank=8&Refer=top)<br />
+7. [查尔斯](https://s.weibo.com/weibo?q=%E6%9F%A5%E5%B0%94%E6%96%AF&t=31&band_rank=7&Refer=top)<br />
+8. [赵小棠妈妈状态](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%B0%8F%E6%A3%A0%E5%A6%88%E5%A6%88%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
 9. [4岁娃迷路在派出所大口干饭](https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A8%83%E8%BF%B7%E8%B7%AF%E5%9C%A8%E6%B4%BE%E5%87%BA%E6%89%80%E5%A4%A7%E5%8F%A3%E5%B9%B2%E9%A5%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
