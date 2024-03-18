@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 15:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 15:40:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [三只羊就梅菜扣肉事件致歉](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%B0%B1%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89%23&t=31&band_rank=4&Refer=top)<br />
 5. [鞠婧祎闭错眼了](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%97%AD%E9%94%99%E7%9C%BC%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [林剑成外交部新任发言人](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%89%91%E6%88%90%E5%A4%96%E4%BA%A4%E9%83%A8%E6%96%B0%E4%BB%BB%E5%8F%91%E8%A8%80%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [专家称今年刚需买房的人可以下手了](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BB%8A%E5%B9%B4%E5%88%9A%E9%9C%80%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E5%8F%AF%E4%BB%A5%E4%B8%8B%E6%89%8B%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [喜茶称呼查理苏为您先生](https://s.weibo.com/weibo?q=%E5%96%9C%E8%8C%B6%E7%A7%B0%E5%91%BC%E6%9F%A5%E7%90%86%E8%8B%8F%E4%B8%BA%E6%82%A8%E5%85%88%E7%94%9F&t=31&band_rank=8&Refer=top)<br />
+7. [喜茶称呼查理苏为您先生](https://s.weibo.com/weibo?q=%E5%96%9C%E8%8C%B6%E7%A7%B0%E5%91%BC%E6%9F%A5%E7%90%86%E8%8B%8F%E4%B8%BA%E6%82%A8%E5%85%88%E7%94%9F&t=31&band_rank=7&Refer=top)<br />
+8. [专家称今年刚需买房的人可以下手了](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BB%8A%E5%B9%B4%E5%88%9A%E9%9C%80%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E5%8F%AF%E4%BB%A5%E4%B8%8B%E6%89%8B%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [淀粉肠小王子发声](https://s.weibo.com/weibo?q=%23%E6%B7%80%E7%B2%89%E8%82%A0%E5%B0%8F%E7%8E%8B%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
