@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 09:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 09:59:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [买房一年后被告知厕所是邻居家的](https://www.baidu.com/s?wd=%E4%B9%B0%E6%88%BF%E4%B8%80%E5%B9%B4%E5%90%8E%E8%A2%AB%E5%91%8A%E7%9F%A5%E5%8E%95%E6%89%80%E6%98%AF%E9%82%BB%E5%B1%85%E5%AE%B6%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [火星哥因赌博欠债5000万美元](https://www.baidu.com/s?wd=%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俄罗斯的猫用尾巴挡弹片救下主人](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E7%8C%AB%E7%94%A8%E5%B0%BE%E5%B7%B4%E6%8C%A1%E5%BC%B9%E7%89%87%E6%95%91%E4%B8%8B%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩自己注射司美格鲁肽被送医抢救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%B7%B1%E6%B3%A8%E5%B0%84%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E8%A2%AB%E9%80%81%E5%8C%BB%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩国短道速滑内斗再上新台阶](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%86%85%E6%96%97%E5%86%8D%E4%B8%8A%E6%96%B0%E5%8F%B0%E9%98%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄罗斯的猫用尾巴挡弹片救下主人](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E7%8C%AB%E7%94%A8%E5%B0%BE%E5%B7%B4%E6%8C%A1%E5%BC%B9%E7%89%87%E6%95%91%E4%B8%8B%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [盒马大润发辟谣出售传闻](https://www.baidu.com/s?wd=%E7%9B%92%E9%A9%AC%E5%A4%A7%E6%B6%A6%E5%8F%91%E8%BE%9F%E8%B0%A3%E5%87%BA%E5%94%AE%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [各地陆续进入春耕时节](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%99%86%E7%BB%AD%E8%BF%9B%E5%85%A5%E6%98%A5%E8%80%95%E6%97%B6%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [买房一年后被告知厕所是邻居家的](https://www.baidu.com/s?wd=%E4%B9%B0%E6%88%BF%E4%B8%80%E5%B9%B4%E5%90%8E%E8%A2%AB%E5%91%8A%E7%9F%A5%E5%8E%95%E6%89%80%E6%98%AF%E9%82%BB%E5%B1%85%E5%AE%B6%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [火星哥因赌博欠债5000万美元](https://www.baidu.com/s?wd=%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [俄罗斯的猫用尾巴挡弹片救下主人](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E7%8C%AB%E7%94%A8%E5%B0%BE%E5%B7%B4%E6%8C%A1%E5%BC%B9%E7%89%87%E6%95%91%E4%B8%8B%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩自己注射司美格鲁肽被送医抢救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%B7%B1%E6%B3%A8%E5%B0%84%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E8%A2%AB%E9%80%81%E5%8C%BB%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩国短道速滑内斗再上新台阶](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%86%85%E6%96%97%E5%86%8D%E4%B8%8A%E6%96%B0%E5%8F%B0%E9%98%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄罗斯的猫用尾巴挡弹片救下主人](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E7%8C%AB%E7%94%A8%E5%B0%BE%E5%B7%B4%E6%8C%A1%E5%BC%B9%E7%89%87%E6%95%91%E4%B8%8B%E4%B8%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [盒马大润发辟谣出售传闻](https://www.baidu.com/s?wd=%E7%9B%92%E9%A9%AC%E5%A4%A7%E6%B6%A6%E5%8F%91%E8%BE%9F%E8%B0%A3%E5%87%BA%E5%94%AE%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
