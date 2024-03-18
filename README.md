@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 17:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 17:41:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [祖国各地春日美食上新了](https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E5%90%84%E5%9C%B0%E6%98%A5%E6%97%A5%E7%BE%8E%E9%A3%9F%E4%B8%8A%E6%96%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [肠妃回宫](https://s.weibo.com/weibo?q=%E8%82%A0%E5%A6%83%E5%9B%9E%E5%AE%AB&t=31&band_rank=4&Refer=top)<br />
 5. [Angelababy蜻蜓仙子](https://s.weibo.com/weibo?q=%23Angelababy%E8%9C%BB%E8%9C%93%E4%BB%99%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
-6. [三只羊就梅菜扣肉事件致歉](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%B0%B1%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
+6. [刘亦菲灵蛇女王](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%81%B5%E8%9B%87%E5%A5%B3%E7%8E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [凯特现身](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘亦菲灵蛇女王](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%81%B5%E8%9B%87%E5%A5%B3%E7%8E%8B%23&t=31&band_rank=8&Refer=top)<br />
+8. [三只羊就梅菜扣肉事件致歉](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%B0%B1%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [宋轶 红山动物园](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%BD%B6%20%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [绿我涓滴 会它千顷澄碧](https://www.baidu.com/s?wd=%E7%BB%BF%E6%88%91%E6%B6%93%E6%BB%B4+%E4%BC%9A%E5%AE%83%E5%8D%83%E9%A1%B7%E6%BE%84%E7%A2%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平心系这门“关键课程”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E7%B3%BB%E8%BF%99%E9%97%A8%E2%80%9C%E5%85%B3%E9%94%AE%E8%AF%BE%E7%A8%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [三只羊就梅菜扣肉事件致歉](https://www.baidu.com/s?wd=%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%B0%B1%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女子山顶徒手攀爬石头手滑摔下](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B1%B1%E9%A1%B6%E5%BE%92%E6%89%8B%E6%94%80%E7%88%AC%E7%9F%B3%E5%A4%B4%E6%89%8B%E6%BB%91%E6%91%94%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春分将至农事忙](https://www.baidu.com/s?wd=%E6%98%A5%E5%88%86%E5%B0%86%E8%87%B3%E5%86%9C%E4%BA%8B%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [绿我涓滴 会它千顷澄碧](https://www.baidu.com/s?wd=%E7%BB%BF%E6%88%91%E6%B6%93%E6%BB%B4+%E4%BC%9A%E5%AE%83%E5%8D%83%E9%A1%B7%E6%BE%84%E7%A2%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平心系这门“关键课程”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E7%B3%BB%E8%BF%99%E9%97%A8%E2%80%9C%E5%85%B3%E9%94%AE%E8%AF%BE%E7%A8%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [三只羊就梅菜扣肉事件致歉](https://www.baidu.com/s?wd=%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%B0%B1%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [女子山顶徒手攀爬石头手滑摔下](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B1%B1%E9%A1%B6%E5%BE%92%E6%89%8B%E6%94%80%E7%88%AC%E7%9F%B3%E5%A4%B4%E6%89%8B%E6%BB%91%E6%91%94%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春分将至农事忙](https://www.baidu.com/s?wd=%E6%98%A5%E5%88%86%E5%B0%86%E8%87%B3%E5%86%9C%E4%BA%8B%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
