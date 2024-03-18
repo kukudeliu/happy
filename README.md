@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 17:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 17:44:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [肠妃回宫](https://s.weibo.com/weibo?q=%E8%82%A0%E5%A6%83%E5%9B%9E%E5%AE%AB&t=31&band_rank=4&Refer=top)<br />
 5. [Angelababy蜻蜓仙子](https://s.weibo.com/weibo?q=%23Angelababy%E8%9C%BB%E8%9C%93%E4%BB%99%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘亦菲灵蛇女王](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%81%B5%E8%9B%87%E5%A5%B3%E7%8E%8B%23&t=31&band_rank=6&Refer=top)<br />
-7. [凯特现身](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [三只羊就梅菜扣肉事件致歉](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%B0%B1%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [宋轶 红山动物园](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%BD%B6%20%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD&t=31&band_rank=9&Refer=top)<br />
+7. [卖淀粉肠大哥改行卖烤面筋](https://s.weibo.com/weibo?q=%23%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E5%A4%A7%E5%93%A5%E6%94%B9%E8%A1%8C%E5%8D%96%E7%83%A4%E9%9D%A2%E7%AD%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [凯特现身](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=8&Refer=top)<br />
+9. [三只羊就梅菜扣肉事件致歉](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%B0%B1%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
