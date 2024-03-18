@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 21:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 21:45:01</h4></div>
 
 > 微博  
 
-1. [审判与凤行](https://s.weibo.com/weibo?q=%E5%AE%A1%E5%88%A4%E4%B8%8E%E5%87%A4%E8%A1%8C&t=31&band_rank=1&Refer=top)<br />
-2. [林狗还是帅的](https://s.weibo.com/weibo?q=%E6%9E%97%E7%8B%97%E8%BF%98%E6%98%AF%E5%B8%85%E7%9A%84&t=31&band_rank=2&Refer=top)<br />
+1. [林狗还是帅的](https://s.weibo.com/weibo?q=%E6%9E%97%E7%8B%97%E8%BF%98%E6%98%AF%E5%B8%85%E7%9A%84&t=31&band_rank=1&Refer=top)<br />
+2. [审判与凤行](https://s.weibo.com/weibo?q=%E5%AE%A1%E5%88%A4%E4%B8%8E%E5%87%A4%E8%A1%8C&t=31&band_rank=2&Refer=top)<br />
 3. [县在出发](https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%9C%A8%E5%87%BA%E5%8F%91%23&t=31&band_rank=3&Refer=top)<br />
 4. [27岁自杀规培生已签署三甲医院麻醉科](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E8%87%AA%E6%9D%80%E8%A7%84%E5%9F%B9%E7%94%9F%E5%B7%B2%E7%AD%BE%E7%BD%B2%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E9%BA%BB%E9%86%89%E7%A7%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [与凤行](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C&t=31&band_rank=5&Refer=top)<br />
