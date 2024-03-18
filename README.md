@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 15:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 15:28:01</h4></div>
 
 > 微博  
 
-1. [凯特现身](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=1&Refer=top)<br />
-2. [李宏毅家的衣服卖13块钱](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AE%8F%E6%AF%85%E5%AE%B6%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%8D%9613%E5%9D%97%E9%92%B1&t=31&band_rank=2&Refer=top)<br />
+1. [李宏毅家的衣服卖13块钱](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AE%8F%E6%AF%85%E5%AE%B6%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%8D%9613%E5%9D%97%E9%92%B1&t=31&band_rank=1&Refer=top)<br />
+2. [凯特现身](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=2&Refer=top)<br />
 3. [每个网红城市火爆背后都是努力的回甘](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E7%BD%91%E7%BA%A2%E5%9F%8E%E5%B8%82%E7%81%AB%E7%88%86%E8%83%8C%E5%90%8E%E9%83%BD%E6%98%AF%E5%8A%AA%E5%8A%9B%E7%9A%84%E5%9B%9E%E7%94%98%23&t=31&band_rank=3&Refer=top)<br />
 4. [鞠婧祎闭错眼了](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%97%AD%E9%94%99%E7%9C%BC%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [专家称今年刚需买房的人可以下手了](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BB%8A%E5%B9%B4%E5%88%9A%E9%9C%80%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E5%8F%AF%E4%BB%A5%E4%B8%8B%E6%89%8B%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
