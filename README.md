@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 06:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 07:00:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [早上六点起床跟八点起床的区别](https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B8%8A%E5%85%AD%E7%82%B9%E8%B5%B7%E5%BA%8A%E8%B7%9F%E5%85%AB%E7%82%B9%E8%B5%B7%E5%BA%8A%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=5&Refer=top)<br />
 6. [毕竟是九亿少女的梦](https://s.weibo.com/weibo?q=%E6%AF%95%E7%AB%9F%E6%98%AF%E4%B9%9D%E4%BA%BF%E5%B0%91%E5%A5%B3%E7%9A%84%E6%A2%A6&t=31&band_rank=6&Refer=top)<br />
 7. [英国白金汉宫否认国王去世](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%99%BD%E9%87%91%E6%B1%89%E5%AE%AB%E5%90%A6%E8%AE%A4%E5%9B%BD%E7%8E%8B%E5%8E%BB%E4%B8%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [林狗还是帅的](https://s.weibo.com/weibo?q=%E6%9E%97%E7%8B%97%E8%BF%98%E6%98%AF%E5%B8%85%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
-9. [93年副所长入警9年满头白发](https://s.weibo.com/weibo?q=%2393%E5%B9%B4%E5%89%AF%E6%89%80%E9%95%BF%E5%85%A5%E8%AD%A69%E5%B9%B4%E6%BB%A1%E5%A4%B4%E7%99%BD%E5%8F%91%23&t=31&band_rank=9&Refer=top)<br />
+8. [93年副所长入警9年满头白发](https://s.weibo.com/weibo?q=%2393%E5%B9%B4%E5%89%AF%E6%89%80%E9%95%BF%E5%85%A5%E8%AD%A69%E5%B9%B4%E6%BB%A1%E5%A4%B4%E7%99%BD%E5%8F%91%23&t=31&band_rank=8&Refer=top)<br />
+9. [林狗还是帅的](https://s.weibo.com/weibo?q=%E6%9E%97%E7%8B%97%E8%BF%98%E6%98%AF%E5%B8%85%E7%9A%84&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
