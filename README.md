@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 11:50:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 11:51:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [邯郸初中生遇害案死者被活埋不实](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E9%81%87%E5%AE%B3%E6%A1%88%E6%AD%BB%E8%80%85%E8%A2%AB%E6%B4%BB%E5%9F%8B%E4%B8%8D%E5%AE%9E%23&t=31&band_rank=5&Refer=top)<br />
 6. [今年315未曝光卫生巾问题](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4315%E6%9C%AA%E6%9B%9D%E5%85%89%E5%8D%AB%E7%94%9F%E5%B7%BE%E9%97%AE%E9%A2%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [12岁以上可担刑责](https://s.weibo.com/weibo?q=%2312%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%8F%AF%E6%8B%85%E5%88%91%E8%B4%A3%23&t=31&band_rank=7&Refer=top)<br />
-8. [与凤行首播4集不断更](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%87%A4%E8%A1%8C%E9%A6%96%E6%92%AD4%E9%9B%86%E4%B8%8D%E6%96%AD%E6%9B%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [SM耍猴](https://s.weibo.com/weibo?q=SM%E8%80%8D%E7%8C%B4&t=31&band_rank=9&Refer=top)<br />
+8. [SM耍猴](https://s.weibo.com/weibo?q=SM%E8%80%8D%E7%8C%B4&t=31&band_rank=8&Refer=top)<br />
+9. [与凤行首播4集不断更](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%87%A4%E8%A1%8C%E9%A6%96%E6%92%AD4%E9%9B%86%E4%B8%8D%E6%96%AD%E6%9B%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
