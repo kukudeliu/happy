@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 04:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 04:12:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [与凤行](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C&t=31&band_rank=5&Refer=top)<br />
 6. [英国白金汉宫否认国王去世](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%99%BD%E9%87%91%E6%B1%89%E5%AE%AB%E5%90%A6%E8%AE%A4%E5%9B%BD%E7%8E%8B%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [杨采薇 断崖上的兰草](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%87%87%E8%96%87%20%E6%96%AD%E5%B4%96%E4%B8%8A%E7%9A%84%E5%85%B0%E8%8D%89&t=31&band_rank=7&Refer=top)<br />
-8. [早上六点起床跟八点起床的区别](https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B8%8A%E5%85%AD%E7%82%B9%E8%B5%B7%E5%BA%8A%E8%B7%9F%E5%85%AB%E7%82%B9%E8%B5%B7%E5%BA%8A%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [审判与凤行](https://s.weibo.com/weibo?q=%E5%AE%A1%E5%88%A4%E4%B8%8E%E5%87%A4%E8%A1%8C&t=31&band_rank=9&Refer=top)<br />
+8. [审判与凤行](https://s.weibo.com/weibo?q=%E5%AE%A1%E5%88%A4%E4%B8%8E%E5%87%A4%E8%A1%8C&t=31&band_rank=8&Refer=top)<br />
+9. [早上六点起床跟八点起床的区别](https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B8%8A%E5%85%AD%E7%82%B9%E8%B5%B7%E5%BA%8A%E8%B7%9F%E5%85%AB%E7%82%B9%E8%B5%B7%E5%BA%8A%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
