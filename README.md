@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 09:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 09:20:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [AppleID将成历史](https://s.weibo.com/weibo?q=%23AppleID%E5%B0%86%E6%88%90%E5%8E%86%E5%8F%B2%23&t=31&band_rank=6&Refer=top)<br />
 7. [快餐顶流黄焖鸡为啥没人吃了](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%A4%90%E9%A1%B6%E6%B5%81%E9%BB%84%E7%84%96%E9%B8%A1%E4%B8%BA%E5%95%A5%E6%B2%A1%E4%BA%BA%E5%90%83%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [13岁男生猥亵女生被送至专门学校](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E7%94%B7%E7%94%9F%E7%8C%A5%E4%BA%B5%E5%A5%B3%E7%94%9F%E8%A2%AB%E9%80%81%E8%87%B3%E4%B8%93%E9%97%A8%E5%AD%A6%E6%A0%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [国人平均睡眠时长6.75小时](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%BA%E5%B9%B3%E5%9D%87%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF6.75%E5%B0%8F%E6%97%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [七度空间](https://s.weibo.com/weibo?q=%E4%B8%83%E5%BA%A6%E7%A9%BA%E9%97%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
