@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 21:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 21:34:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [淀粉肠生产企业董事长直播吃淀粉肠](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E7%94%9F%E4%BA%A7%E4%BC%81%E4%B8%9A%E8%91%A3%E4%BA%8B%E9%95%BF%E7%9B%B4%E6%92%AD%E5%90%83%E6%B7%80%E7%B2%89%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [不负重托办好学校思想政治理论课](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B4%9F%E9%87%8D%E6%89%98%E5%8A%9E%E5%A5%BD%E5%AD%A6%E6%A0%A1%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [云南大理突发山火 消防赶赴现场扑救](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E7%AA%81%E5%8F%91%E5%B1%B1%E7%81%AB+%E6%B6%88%E9%98%B2%E8%B5%B6%E8%B5%B4%E7%8E%B0%E5%9C%BA%E6%89%91%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [普京赢得俄罗斯总统选举](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%B5%A2%E5%BE%97%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [统计局回应青年人失业率何时发布](https://www.baidu.com/s?wd=%E7%BB%9F%E8%AE%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E9%9D%92%E5%B9%B4%E4%BA%BA%E5%A4%B1%E4%B8%9A%E7%8E%87%E4%BD%95%E6%97%B6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [4岁受害女童父亲：内心恐慌悲凉](https://www.baidu.com/s?wd=4%E5%B2%81%E5%8F%97%E5%AE%B3%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%86%85%E5%BF%83%E6%81%90%E6%85%8C%E6%82%B2%E5%87%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [幼儿园关停潮下 90后幼师纷纷转行](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%85%B3%E5%81%9C%E6%BD%AE%E4%B8%8B+90%E5%90%8E%E5%B9%BC%E5%B8%88%E7%BA%B7%E7%BA%B7%E8%BD%AC%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [淀粉肠生产企业董事长直播吃淀粉肠](https://www.baidu.com/s?wd=%E6%B7%80%E7%B2%89%E8%82%A0%E7%94%9F%E4%BA%A7%E4%BC%81%E4%B8%9A%E8%91%A3%E4%BA%8B%E9%95%BF%E7%9B%B4%E6%92%AD%E5%90%83%E6%B7%80%E7%B2%89%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [不负重托办好学校思想政治理论课](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B4%9F%E9%87%8D%E6%89%98%E5%8A%9E%E5%A5%BD%E5%AD%A6%E6%A0%A1%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [云南大理突发山火 消防赶赴现场扑救](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E7%AA%81%E5%8F%91%E5%B1%B1%E7%81%AB+%E6%B6%88%E9%98%B2%E8%B5%B6%E8%B5%B4%E7%8E%B0%E5%9C%BA%E6%89%91%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [普京赢得俄罗斯总统选举](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%B5%A2%E5%BE%97%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [统计局回应青年人失业率何时发布](https://www.baidu.com/s?wd=%E7%BB%9F%E8%AE%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E9%9D%92%E5%B9%B4%E4%BA%BA%E5%A4%B1%E4%B8%9A%E7%8E%87%E4%BD%95%E6%97%B6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [4岁受害女童父亲：内心恐慌悲凉](https://www.baidu.com/s?wd=4%E5%B2%81%E5%8F%97%E5%AE%B3%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%EF%BC%9A%E5%86%85%E5%BF%83%E6%81%90%E6%85%8C%E6%82%B2%E5%87%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [幼儿园关停潮下 90后幼师纷纷转行](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%85%B3%E5%81%9C%E6%BD%AE%E4%B8%8B+90%E5%90%8E%E5%B9%BC%E5%B8%88%E7%BA%B7%E7%BA%B7%E8%BD%AC%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
