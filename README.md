@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 20:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 20:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [俄男子往下水道扔烟头炸死自己](https://www.baidu.com/s?wd=%E4%BF%84%E7%94%B7%E5%AD%90%E5%BE%80%E4%B8%8B%E6%B0%B4%E9%81%93%E6%89%94%E7%83%9F%E5%A4%B4%E7%82%B8%E6%AD%BB%E8%87%AA%E5%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国3名少年因丢手机纵火烧死一家](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD3%E5%90%8D%E5%B0%91%E5%B9%B4%E5%9B%A0%E4%B8%A2%E6%89%8B%E6%9C%BA%E7%BA%B5%E7%81%AB%E7%83%A7%E6%AD%BB%E4%B8%80%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [4岁娃迷路在派出所大口干饭](https://www.baidu.com/s?wd=4%E5%B2%81%E5%A8%83%E8%BF%B7%E8%B7%AF%E5%9C%A8%E6%B4%BE%E5%87%BA%E6%89%80%E5%A4%A7%E5%8F%A3%E5%B9%B2%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [梅菜扣肉厂家晒检验报告自证清白](https://www.baidu.com/s?wd=%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E5%8E%82%E5%AE%B6%E6%99%92%E6%A3%80%E9%AA%8C%E6%8A%A5%E5%91%8A%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [统计局回应青年人失业率何时发布](https://www.baidu.com/s?wd=%E7%BB%9F%E8%AE%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E9%9D%92%E5%B9%B4%E4%BA%BA%E5%A4%B1%E4%B8%9A%E7%8E%87%E4%BD%95%E6%97%B6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [俄男子往下水道扔烟头炸死自己](https://www.baidu.com/s?wd=%E4%BF%84%E7%94%B7%E5%AD%90%E5%BE%80%E4%B8%8B%E6%B0%B4%E9%81%93%E6%89%94%E7%83%9F%E5%A4%B4%E7%82%B8%E6%AD%BB%E8%87%AA%E5%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [美国3名少年因丢手机纵火烧死一家](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD3%E5%90%8D%E5%B0%91%E5%B9%B4%E5%9B%A0%E4%B8%A2%E6%89%8B%E6%9C%BA%E7%BA%B5%E7%81%AB%E7%83%A7%E6%AD%BB%E4%B8%80%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [4岁娃迷路在派出所大口干饭](https://www.baidu.com/s?wd=4%E5%B2%81%E5%A8%83%E8%BF%B7%E8%B7%AF%E5%9C%A8%E6%B4%BE%E5%87%BA%E6%89%80%E5%A4%A7%E5%8F%A3%E5%B9%B2%E9%A5%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [梅菜扣肉厂家晒检验报告自证清白](https://www.baidu.com/s?wd=%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E5%8E%82%E5%AE%B6%E6%99%92%E6%A3%80%E9%AA%8C%E6%8A%A5%E5%91%8A%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [统计局回应青年人失业率何时发布](https://www.baidu.com/s?wd=%E7%BB%9F%E8%AE%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E9%9D%92%E5%B9%B4%E4%BA%BA%E5%A4%B1%E4%B8%9A%E7%8E%87%E4%BD%95%E6%97%B6%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
