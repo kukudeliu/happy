@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 18:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 18:09:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [祖国各地春日美食上新了](https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E5%90%84%E5%9C%B0%E6%98%A5%E6%97%A5%E7%BE%8E%E9%A3%9F%E4%B8%8A%E6%96%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [刘亦菲灵蛇女王](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%81%B5%E8%9B%87%E5%A5%B3%E7%8E%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [鸡骨泥运用于淀粉肠中不算违规](https://s.weibo.com/weibo?q=%23%E9%B8%A1%E9%AA%A8%E6%B3%A5%E8%BF%90%E7%94%A8%E4%BA%8E%E6%B7%80%E7%B2%89%E8%82%A0%E4%B8%AD%E4%B8%8D%E7%AE%97%E8%BF%9D%E8%A7%84%23&t=31&band_rank=5&Refer=top)<br />
-6. [凯特现身](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [卖淀粉肠大哥改行卖烤面筋](https://s.weibo.com/weibo?q=%23%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E5%A4%A7%E5%93%A5%E6%94%B9%E8%A1%8C%E5%8D%96%E7%83%A4%E9%9D%A2%E7%AD%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [三只羊就梅菜扣肉事件致歉](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%B0%B1%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
+6. [卖淀粉肠大哥改行卖烤面筋](https://s.weibo.com/weibo?q=%23%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E5%A4%A7%E5%93%A5%E6%94%B9%E8%A1%8C%E5%8D%96%E7%83%A4%E9%9D%A2%E7%AD%8B%23&t=31&band_rank=6&Refer=top)<br />
+7. [凯特现身](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=7&Refer=top)<br />
+8. [大爷瀑布下帮捞无人机游客心疼大喊不要了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E7%80%91%E5%B8%83%E4%B8%8B%E5%B8%AE%E6%8D%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%B8%B8%E5%AE%A2%E5%BF%83%E7%96%BC%E5%A4%A7%E5%96%8A%E4%B8%8D%E8%A6%81%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [4岁娃迷路在派出所大口干饭](https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A8%83%E8%BF%B7%E8%B7%AF%E5%9C%A8%E6%B4%BE%E5%87%BA%E6%89%80%E5%A4%A7%E5%8F%A3%E5%B9%B2%E9%A5%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
