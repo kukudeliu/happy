@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 18:59:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [习近平心系这门“关键课程”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E7%B3%BB%E8%BF%99%E9%97%A8%E2%80%9C%E5%85%B3%E9%94%AE%E8%AF%BE%E7%A8%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [三只羊就梅菜扣肉事件致歉](https://www.baidu.com/s?wd=%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%B0%B1%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女子山顶徒手攀爬石头手滑摔下](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B1%B1%E9%A1%B6%E5%BE%92%E6%89%8B%E6%94%80%E7%88%AC%E7%9F%B3%E5%A4%B4%E6%89%8B%E6%BB%91%E6%91%94%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [全国房价比峰顶下降23%](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%88%BF%E4%BB%B7%E6%AF%94%E5%B3%B0%E9%A1%B6%E4%B8%8B%E9%99%8D23%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [卖淀粉肠大哥改行卖烤面筋](https://www.baidu.com/s?wd=%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E5%A4%A7%E5%93%A5%E6%94%B9%E8%A1%8C%E5%8D%96%E7%83%A4%E9%9D%A2%E7%AD%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春分将至农事忙](https://www.baidu.com/s?wd=%E6%98%A5%E5%88%86%E5%B0%86%E8%87%B3%E5%86%9C%E4%BA%8B%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [鸡骨泥运用于淀粉肠中不算违规](https://www.baidu.com/s?wd=%E9%B8%A1%E9%AA%A8%E6%B3%A5%E8%BF%90%E7%94%A8%E4%BA%8E%E6%B7%80%E7%B2%89%E8%82%A0%E4%B8%AD%E4%B8%8D%E7%AE%97%E8%BF%9D%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [俄男子往下水道扔烟头炸死自己](https://www.baidu.com/s?wd=%E4%BF%84%E7%94%B7%E5%AD%90%E5%BE%80%E4%B8%8B%E6%B0%B4%E9%81%93%E6%89%94%E7%83%9F%E5%A4%B4%E7%82%B8%E6%AD%BB%E8%87%AA%E5%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [深圳14岁男孩把30颗珠子塞进尿道](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E6%8A%8A30%E9%A2%97%E7%8F%A0%E5%AD%90%E5%A1%9E%E8%BF%9B%E5%B0%BF%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全国房价比峰顶下降23%](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%88%BF%E4%BB%B7%E6%AF%94%E5%B3%B0%E9%A1%B6%E4%B8%8B%E9%99%8D23%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [逃税50万元以上为数额巨大](https://www.baidu.com/s?wd=%E9%80%83%E7%A8%8E50%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8A%E4%B8%BA%E6%95%B0%E9%A2%9D%E5%B7%A8%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [逃税50万元以上为数额巨大](https://www.baidu.com/s?wd=%E9%80%83%E7%A8%8E50%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8A%E4%B8%BA%E6%95%B0%E9%A2%9D%E5%B7%A8%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多家厂商否认淀粉肠使用骨泥](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%8E%82%E5%95%86%E5%90%A6%E8%AE%A4%E6%B7%80%E7%B2%89%E8%82%A0%E4%BD%BF%E7%94%A8%E9%AA%A8%E6%B3%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [习近平心系这门“关键课程”](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BF%83%E7%B3%BB%E8%BF%99%E9%97%A8%E2%80%9C%E5%85%B3%E9%94%AE%E8%AF%BE%E7%A8%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [三只羊就梅菜扣肉事件致歉](https://www.baidu.com/s?wd=%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%B0%B1%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女子山顶徒手攀爬石头手滑摔下](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B1%B1%E9%A1%B6%E5%BE%92%E6%89%8B%E6%94%80%E7%88%AC%E7%9F%B3%E5%A4%B4%E6%89%8B%E6%BB%91%E6%91%94%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [全国房价比峰顶下降23%](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%88%BF%E4%BB%B7%E6%AF%94%E5%B3%B0%E9%A1%B6%E4%B8%8B%E9%99%8D23%25&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [卖淀粉肠大哥改行卖烤面筋](https://www.baidu.com/s?wd=%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E5%A4%A7%E5%93%A5%E6%94%B9%E8%A1%8C%E5%8D%96%E7%83%A4%E9%9D%A2%E7%AD%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春分将至农事忙](https://www.baidu.com/s?wd=%E6%98%A5%E5%88%86%E5%B0%86%E8%87%B3%E5%86%9C%E4%BA%8B%E5%BF%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [鸡骨泥运用于淀粉肠中不算违规](https://www.baidu.com/s?wd=%E9%B8%A1%E9%AA%A8%E6%B3%A5%E8%BF%90%E7%94%A8%E4%BA%8E%E6%B7%80%E7%B2%89%E8%82%A0%E4%B8%AD%E4%B8%8D%E7%AE%97%E8%BF%9D%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [俄男子往下水道扔烟头炸死自己](https://www.baidu.com/s?wd=%E4%BF%84%E7%94%B7%E5%AD%90%E5%BE%80%E4%B8%8B%E6%B0%B4%E9%81%93%E6%89%94%E7%83%9F%E5%A4%B4%E7%82%B8%E6%AD%BB%E8%87%AA%E5%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [深圳14岁男孩把30颗珠子塞进尿道](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E6%8A%8A30%E9%A2%97%E7%8F%A0%E5%AD%90%E5%A1%9E%E8%BF%9B%E5%B0%BF%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [全国房价比峰顶下降23%](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%88%BF%E4%BB%B7%E6%AF%94%E5%B3%B0%E9%A1%B6%E4%B8%8B%E9%99%8D23%25&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [逃税50万元以上为数额巨大](https://www.baidu.com/s?wd=%E9%80%83%E7%A8%8E50%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8A%E4%B8%BA%E6%95%B0%E9%A2%9D%E5%B7%A8%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [逃税50万元以上为数额巨大](https://www.baidu.com/s?wd=%E9%80%83%E7%A8%8E50%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8A%E4%B8%BA%E6%95%B0%E9%A2%9D%E5%B7%A8%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多家厂商否认淀粉肠使用骨泥](https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%8E%82%E5%95%86%E5%90%A6%E8%AE%A4%E6%B7%80%E7%B2%89%E8%82%A0%E4%BD%BF%E7%94%A8%E9%AA%A8%E6%B3%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
