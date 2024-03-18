@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 19:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 19:04:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [俄男子往下水道扔烟头炸死自己](https://www.baidu.com/s?wd=%E4%BF%84%E7%94%B7%E5%AD%90%E5%BE%80%E4%B8%8B%E6%B0%B4%E9%81%93%E6%89%94%E7%83%9F%E5%A4%B4%E7%82%B8%E6%AD%BB%E8%87%AA%E5%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [深圳14岁男孩把30颗珠子塞进尿道](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E6%8A%8A30%E9%A2%97%E7%8F%A0%E5%AD%90%E5%A1%9E%E8%BF%9B%E5%B0%BF%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [鸡骨泥运用于淀粉肠中不算违规](https://www.baidu.com/s?wd=%E9%B8%A1%E9%AA%A8%E6%B3%A5%E8%BF%90%E7%94%A8%E4%BA%8E%E6%B7%80%E7%B2%89%E8%82%A0%E4%B8%AD%E4%B8%8D%E7%AE%97%E8%BF%9D%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [海关截获2万余只活蟑螂](https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%88%AA%E8%8E%B72%E4%B8%87%E4%BD%99%E5%8F%AA%E6%B4%BB%E8%9F%91%E8%9E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [贵州一妇产医院被曝贩卖出生证明](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%80%E5%A6%87%E4%BA%A7%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%9B%9D%E8%B4%A9%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [俄男子往下水道扔烟头炸死自己](https://www.baidu.com/s?wd=%E4%BF%84%E7%94%B7%E5%AD%90%E5%BE%80%E4%B8%8B%E6%B0%B4%E9%81%93%E6%89%94%E7%83%9F%E5%A4%B4%E7%82%B8%E6%AD%BB%E8%87%AA%E5%B7%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [深圳14岁男孩把30颗珠子塞进尿道](https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E6%8A%8A30%E9%A2%97%E7%8F%A0%E5%AD%90%E5%A1%9E%E8%BF%9B%E5%B0%BF%E9%81%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [鸡骨泥运用于淀粉肠中不算违规](https://www.baidu.com/s?wd=%E9%B8%A1%E9%AA%A8%E6%B3%A5%E8%BF%90%E7%94%A8%E4%BA%8E%E6%B7%80%E7%B2%89%E8%82%A0%E4%B8%AD%E4%B8%8D%E7%AE%97%E8%BF%9D%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [海关截获2万余只活蟑螂](https://www.baidu.com/s?wd=%E6%B5%B7%E5%85%B3%E6%88%AA%E8%8E%B72%E4%B8%87%E4%BD%99%E5%8F%AA%E6%B4%BB%E8%9F%91%E8%9E%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [贵州一妇产医院被曝贩卖出生证明](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%80%E5%A6%87%E4%BA%A7%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%9B%9D%E8%B4%A9%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
