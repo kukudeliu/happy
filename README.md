@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 10:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 10:47:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [听花酒母公司青海春天股价跌停](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E6%AF%8D%E5%85%AC%E5%8F%B8%E9%9D%92%E6%B5%B7%E6%98%A5%E5%A4%A9%E8%82%A1%E4%BB%B7%E8%B7%8C%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [火星哥因赌博欠债5000万美元](https://www.baidu.com/s?wd=%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩自己注射司美格鲁肽被送医抢救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%B7%B1%E6%B3%A8%E5%B0%84%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E8%A2%AB%E9%80%81%E5%8C%BB%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子获理赔后又将病死牛挖出来卖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%8E%B7%E7%90%86%E8%B5%94%E5%90%8E%E5%8F%88%E5%B0%86%E7%97%85%E6%AD%BB%E7%89%9B%E6%8C%96%E5%87%BA%E6%9D%A5%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特朗普：泽连斯基是最伟大的推销员](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%98%AF%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%8E%A8%E9%94%80%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [盒马大润发辟谣出售传闻](https://www.baidu.com/s?wd=%E7%9B%92%E9%A9%AC%E5%A4%A7%E6%B6%A6%E5%8F%91%E8%BE%9F%E8%B0%A3%E5%87%BA%E5%94%AE%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [听花酒母公司青海春天股价跌停](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E6%AF%8D%E5%85%AC%E5%8F%B8%E9%9D%92%E6%B5%B7%E6%98%A5%E5%A4%A9%E8%82%A1%E4%BB%B7%E8%B7%8C%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [火星哥因赌博欠债5000万美元](https://www.baidu.com/s?wd=%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩自己注射司美格鲁肽被送医抢救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%B7%B1%E6%B3%A8%E5%B0%84%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E8%A2%AB%E9%80%81%E5%8C%BB%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子获理赔后又将病死牛挖出来卖](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%8E%B7%E7%90%86%E8%B5%94%E5%90%8E%E5%8F%88%E5%B0%86%E7%97%85%E6%AD%BB%E7%89%9B%E6%8C%96%E5%87%BA%E6%9D%A5%E5%8D%96&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [特朗普：泽连斯基是最伟大的推销员](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%98%AF%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%8E%A8%E9%94%80%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [盒马大润发辟谣出售传闻](https://www.baidu.com/s?wd=%E7%9B%92%E9%A9%AC%E5%A4%A7%E6%B6%A6%E5%8F%91%E8%BE%9F%E8%B0%A3%E5%87%BA%E5%94%AE%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
