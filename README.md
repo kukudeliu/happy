@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 15:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 15:18:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [鞠婧祎闭错眼了](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%97%AD%E9%94%99%E7%9C%BC%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [专家称今年刚需买房的人可以下手了](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BB%8A%E5%B9%B4%E5%88%9A%E9%9C%80%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E5%8F%AF%E4%BB%A5%E4%B8%8B%E6%89%8B%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [淀粉肠小王子发声](https://s.weibo.com/weibo?q=%23%E6%B7%80%E7%B2%89%E8%82%A0%E5%B0%8F%E7%8E%8B%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top)<br />
-7. [郑合惠子被恶意评分](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E8%A2%AB%E6%81%B6%E6%84%8F%E8%AF%84%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [辛芷蕾连穿8套顶级高定](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%BF%9E%E7%A9%BF8%E5%A5%97%E9%A1%B6%E7%BA%A7%E9%AB%98%E5%AE%9A%23&t=31&band_rank=8&Refer=top)<br />
+7. [辛芷蕾连穿8套顶级高定](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%BF%9E%E7%A9%BF8%E5%A5%97%E9%A1%B6%E7%BA%A7%E9%AB%98%E5%AE%9A%23&t=31&band_rank=7&Refer=top)<br />
+8. [郑合惠子被恶意评分](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E8%A2%AB%E6%81%B6%E6%84%8F%E8%AF%84%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [马卉发文致歉](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8D%89%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
