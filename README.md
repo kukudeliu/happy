@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 16:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 17:00:01</h4></div>
 
 > 微博  
 
 1. [你以为很卫生其实很脏的行为](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%A5%E4%B8%BA%E5%BE%88%E5%8D%AB%E7%94%9F%E5%85%B6%E5%AE%9E%E5%BE%88%E8%84%8F%E7%9A%84%E8%A1%8C%E4%B8%BA&t=31&band_rank=1&Refer=top)<br />
 2. [三只羊就梅菜扣肉事件致歉](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%B0%B1%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [每个网红城市火爆背后都是努力的回甘](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E7%BD%91%E7%BA%A2%E5%9F%8E%E5%B8%82%E7%81%AB%E7%88%86%E8%83%8C%E5%90%8E%E9%83%BD%E6%98%AF%E5%8A%AA%E5%8A%9B%E7%9A%84%E5%9B%9E%E7%94%98%23&t=31&band_rank=3&Refer=top)<br />
-4. [宋轶 红山动物园](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%BD%B6%20%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD&t=31&band_rank=4&Refer=top)<br />
-5. [鸡骨泥运用于淀粉肠中不算违规](https://s.weibo.com/weibo?q=%23%E9%B8%A1%E9%AA%A8%E6%B3%A5%E8%BF%90%E7%94%A8%E4%BA%8E%E6%B7%80%E7%B2%89%E8%82%A0%E4%B8%AD%E4%B8%8D%E7%AE%97%E8%BF%9D%E8%A7%84%23&t=31&band_rank=5&Refer=top)<br />
+4. [鸡骨泥运用于淀粉肠中不算违规](https://s.weibo.com/weibo?q=%23%E9%B8%A1%E9%AA%A8%E6%B3%A5%E8%BF%90%E7%94%A8%E4%BA%8E%E6%B7%80%E7%B2%89%E8%82%A0%E4%B8%AD%E4%B8%8D%E7%AE%97%E8%BF%9D%E8%A7%84%23&t=31&band_rank=4&Refer=top)<br />
+5. [宋轶 红山动物园](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%BD%B6%20%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD&t=31&band_rank=5&Refer=top)<br />
 6. [查尔斯](https://s.weibo.com/weibo?q=%E6%9F%A5%E5%B0%94%E6%96%AF&t=31&band_rank=6&Refer=top)<br />
 7. [李宏毅家的衣服卖13块钱](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AE%8F%E6%AF%85%E5%AE%B6%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%8D%9613%E5%9D%97%E9%92%B1&t=31&band_rank=7&Refer=top)<br />
 8. [凯特现身](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [315打假名单](https://s.weibo.com/weibo?q=315%E6%89%93%E5%81%87%E5%90%8D%E5%8D%95&t=31&band_rank=9&Refer=top)<br />
+9. [主办方公布梅西缺阵退款方案](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E5%8A%9E%E6%96%B9%E5%85%AC%E5%B8%83%E6%A2%85%E8%A5%BF%E7%BC%BA%E9%98%B5%E9%80%80%E6%AC%BE%E6%96%B9%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
