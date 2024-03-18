@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 10:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 10:36:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [全力以赴保春耕](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E4%BF%9D%E6%98%A5%E8%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [听花酒母公司青海春天股价跌停](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E6%AF%8D%E5%85%AC%E5%8F%B8%E9%9D%92%E6%B5%B7%E6%98%A5%E5%A4%A9%E8%82%A1%E4%BB%B7%E8%B7%8C%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [火星哥因赌博欠债5000万美元](https://www.baidu.com/s?wd=%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [不法分子破坏边境设施偷渡进中国](https://www.baidu.com/s?wd=%E4%B8%8D%E6%B3%95%E5%88%86%E5%AD%90%E7%A0%B4%E5%9D%8F%E8%BE%B9%E5%A2%83%E8%AE%BE%E6%96%BD%E5%81%B7%E6%B8%A1%E8%BF%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩自己注射司美格鲁肽被送医抢救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%B7%B1%E6%B3%A8%E5%B0%84%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E8%A2%AB%E9%80%81%E5%8C%BB%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女孩自己注射司美格鲁肽被送医抢救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%B7%B1%E6%B3%A8%E5%B0%84%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E8%A2%AB%E9%80%81%E5%8C%BB%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [不法分子破坏边境设施偷渡进中国](https://www.baidu.com/s?wd=%E4%B8%8D%E6%B3%95%E5%88%86%E5%AD%90%E7%A0%B4%E5%9D%8F%E8%BE%B9%E5%A2%83%E8%AE%BE%E6%96%BD%E5%81%B7%E6%B8%A1%E8%BF%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [盒马大润发辟谣出售传闻](https://www.baidu.com/s?wd=%E7%9B%92%E9%A9%AC%E5%A4%A7%E6%B6%A6%E5%8F%91%E8%BE%9F%E8%B0%A3%E5%87%BA%E5%94%AE%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [全力以赴保春耕](https://www.baidu.com/s?wd=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E4%BF%9D%E6%98%A5%E8%80%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [听花酒母公司青海春天股价跌停](https://www.baidu.com/s?wd=%E5%90%AC%E8%8A%B1%E9%85%92%E6%AF%8D%E5%85%AC%E5%8F%B8%E9%9D%92%E6%B5%B7%E6%98%A5%E5%A4%A9%E8%82%A1%E4%BB%B7%E8%B7%8C%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [火星哥因赌博欠债5000万美元](https://www.baidu.com/s?wd=%E7%81%AB%E6%98%9F%E5%93%A5%E5%9B%A0%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA5000%E4%B8%87%E7%BE%8E%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [不法分子破坏边境设施偷渡进中国](https://www.baidu.com/s?wd=%E4%B8%8D%E6%B3%95%E5%88%86%E5%AD%90%E7%A0%B4%E5%9D%8F%E8%BE%B9%E5%A2%83%E8%AE%BE%E6%96%BD%E5%81%B7%E6%B8%A1%E8%BF%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩自己注射司美格鲁肽被送医抢救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%B7%B1%E6%B3%A8%E5%B0%84%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E8%A2%AB%E9%80%81%E5%8C%BB%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女孩自己注射司美格鲁肽被送医抢救](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%B7%B1%E6%B3%A8%E5%B0%84%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E8%A2%AB%E9%80%81%E5%8C%BB%E6%8A%A2%E6%95%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [不法分子破坏边境设施偷渡进中国](https://www.baidu.com/s?wd=%E4%B8%8D%E6%B3%95%E5%88%86%E5%AD%90%E7%A0%B4%E5%9D%8F%E8%BE%B9%E5%A2%83%E8%AE%BE%E6%96%BD%E5%81%B7%E6%B8%A1%E8%BF%9B%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [盒马大润发辟谣出售传闻](https://www.baidu.com/s?wd=%E7%9B%92%E9%A9%AC%E5%A4%A7%E6%B6%A6%E5%8F%91%E8%BE%9F%E8%B0%A3%E5%87%BA%E5%94%AE%E4%BC%A0%E9%97%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
