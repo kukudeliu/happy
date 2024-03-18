@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 00:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 00:02:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [焦点访谈曝光无底线骗流量短视频](https://www.baidu.com/s?wd=%E7%84%A6%E7%82%B9%E8%AE%BF%E8%B0%88%E6%9B%9D%E5%85%89%E6%97%A0%E5%BA%95%E7%BA%BF%E9%AA%97%E6%B5%81%E9%87%8F%E7%9F%AD%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [不负重托办好学校思想政治理论课](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B4%9F%E9%87%8D%E6%89%98%E5%8A%9E%E5%A5%BD%E5%AD%A6%E6%A0%A1%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [《与凤行》咯咯哒表情包被玩坏](https://www.baidu.com/s?wd=%E3%80%8A%E4%B8%8E%E5%87%A4%E8%A1%8C%E3%80%8B%E5%92%AF%E5%92%AF%E5%93%92%E8%A1%A8%E6%83%85%E5%8C%85%E8%A2%AB%E7%8E%A9%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子19岁时杀人逃亡42年落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9019%E5%B2%81%E6%97%B6%E6%9D%80%E4%BA%BA%E9%80%83%E4%BA%A142%E5%B9%B4%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [幼儿园关停潮下 90后幼师纷纷转行](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%85%B3%E5%81%9C%E6%BD%AE%E4%B8%8B+90%E5%90%8E%E5%B9%BC%E5%B8%88%E7%BA%B7%E7%BA%B7%E8%BD%AC%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [贵州一妇产医院被曝贩卖出生证明](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%80%E5%A6%87%E4%BA%A7%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%9B%9D%E8%B4%A9%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [93年副所长入警9年满头白发](https://www.baidu.com/s?wd=93%E5%B9%B4%E5%89%AF%E6%89%80%E9%95%BF%E5%85%A5%E8%AD%A69%E5%B9%B4%E6%BB%A1%E5%A4%B4%E7%99%BD%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子19岁时杀人逃亡42年落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9019%E5%B2%81%E6%97%B6%E6%9D%80%E4%BA%BA%E9%80%83%E4%BA%A142%E5%B9%B4%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [百万粉丝网红凉山孟阳被判刑](https://www.baidu.com/s?wd=%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E5%87%89%E5%B1%B1%E5%AD%9F%E9%98%B3%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [焦点访谈曝光无底线骗流量短视频](https://www.baidu.com/s?wd=%E7%84%A6%E7%82%B9%E8%AE%BF%E8%B0%88%E6%9B%9D%E5%85%89%E6%97%A0%E5%BA%95%E7%BA%BF%E9%AA%97%E6%B5%81%E9%87%8F%E7%9F%AD%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [不负重托办好学校思想政治理论课](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B4%9F%E9%87%8D%E6%89%98%E5%8A%9E%E5%A5%BD%E5%AD%A6%E6%A0%A1%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [《与凤行》咯咯哒表情包被玩坏](https://www.baidu.com/s?wd=%E3%80%8A%E4%B8%8E%E5%87%A4%E8%A1%8C%E3%80%8B%E5%92%AF%E5%92%AF%E5%93%92%E8%A1%A8%E6%83%85%E5%8C%85%E8%A2%AB%E7%8E%A9%E5%9D%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子19岁时杀人逃亡42年落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9019%E5%B2%81%E6%97%B6%E6%9D%80%E4%BA%BA%E9%80%83%E4%BA%A142%E5%B9%B4%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [幼儿园关停潮下 90后幼师纷纷转行](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%85%B3%E5%81%9C%E6%BD%AE%E4%B8%8B+90%E5%90%8E%E5%B9%BC%E5%B8%88%E7%BA%B7%E7%BA%B7%E8%BD%AC%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [贵州一妇产医院被曝贩卖出生证明](https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%80%E5%A6%87%E4%BA%A7%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%9B%9D%E8%B4%A9%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [93年副所长入警9年满头白发](https://www.baidu.com/s?wd=93%E5%B9%B4%E5%89%AF%E6%89%80%E9%95%BF%E5%85%A5%E8%AD%A69%E5%B9%B4%E6%BB%A1%E5%A4%B4%E7%99%BD%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子19岁时杀人逃亡42年落网](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9019%E5%B2%81%E6%97%B6%E6%9D%80%E4%BA%BA%E9%80%83%E4%BA%A142%E5%B9%B4%E8%90%BD%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [百万粉丝网红凉山孟阳被判刑](https://www.baidu.com/s?wd=%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E5%87%89%E5%B1%B1%E5%AD%9F%E9%98%B3%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
