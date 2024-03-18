@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 20:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-18 20:25:01</h4></div>
 
 > 微博  
 
 1. [与凤行](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C&t=31&band_rank=1&Refer=top)<br />
-2. [能不能禁止东北人干翻译](https://s.weibo.com/weibo?q=%23%E8%83%BD%E4%B8%8D%E8%83%BD%E7%A6%81%E6%AD%A2%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%B9%B2%E7%BF%BB%E8%AF%91%23&t=31&band_rank=2&Refer=top)<br />
+2. [早上六点起床跟八点起床的区别](https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B8%8A%E5%85%AD%E7%82%B9%E8%B5%B7%E5%BA%8A%E8%B7%9F%E5%85%AB%E7%82%B9%E8%B5%B7%E5%BA%8A%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=2&Refer=top)<br />
 3. [祖国各地春日美食上新了](https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E5%90%84%E5%9C%B0%E6%98%A5%E6%97%A5%E7%BE%8E%E9%A3%9F%E4%B8%8A%E6%96%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top)<br />
 4. [27岁自杀规培生已签署三甲医院麻醉科](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E8%87%AA%E6%9D%80%E8%A7%84%E5%9F%B9%E7%94%9F%E5%B7%B2%E7%AD%BE%E7%BD%B2%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E9%BA%BB%E9%86%89%E7%A7%91%23&t=31&band_rank=4&Refer=top)<br />
-5. [早上六点起床跟八点起床的区别](https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B8%8A%E5%85%AD%E7%82%B9%E8%B5%B7%E5%BA%8A%E8%B7%9F%E5%85%AB%E7%82%B9%E8%B5%B7%E5%BA%8A%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=5&Refer=top)<br />
+5. [能不能禁止东北人干翻译](https://s.weibo.com/weibo?q=%23%E8%83%BD%E4%B8%8D%E8%83%BD%E7%A6%81%E6%AD%A2%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%B9%B2%E7%BF%BB%E8%AF%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [查尔斯](https://s.weibo.com/weibo?q=%E6%9F%A5%E5%B0%94%E6%96%AF&t=31&band_rank=6&Refer=top)<br />
 7. [你以为很卫生其实很脏的行为](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%A5%E4%B8%BA%E5%BE%88%E5%8D%AB%E7%94%9F%E5%85%B6%E5%AE%9E%E5%BE%88%E8%84%8F%E7%9A%84%E8%A1%8C%E4%B8%BA&t=31&band_rank=7&Refer=top)<br />
 8. [直播间买上百万金条迟迟不发货](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B9%B0%E4%B8%8A%E7%99%BE%E4%B8%87%E9%87%91%E6%9D%A1%E8%BF%9F%E8%BF%9F%E4%B8%8D%E5%8F%91%E8%B4%A7%23&t=31&band_rank=8&Refer=top)<br />
