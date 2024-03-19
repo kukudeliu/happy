@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 14:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 14:39:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [韩安冉入住杭州2000万大平层](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AE%89%E5%86%89%E5%85%A5%E4%BD%8F%E6%9D%AD%E5%B7%9E2000%E4%B8%87%E5%A4%A7%E5%B9%B3%E5%B1%82%23&t=31&band_rank=5&Refer=top)<br />
 6. [瑞幸咖啡线下点单存价差](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E7%BA%BF%E4%B8%8B%E7%82%B9%E5%8D%95%E5%AD%98%E4%BB%B7%E5%B7%AE%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘亦菲周冬雨撞造型](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%91%A8%E5%86%AC%E9%9B%A8%E6%92%9E%E9%80%A0%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [1天1万的衣服值得吗](https://s.weibo.com/weibo?q=%231%E5%A4%A91%E4%B8%87%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%80%BC%E5%BE%97%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘学义郑合惠子拥抱镜头](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E6%8B%A5%E6%8A%B1%E9%95%9C%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
+8. [刘学义郑合惠子拥抱镜头](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E6%8B%A5%E6%8A%B1%E9%95%9C%E5%A4%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [凯特王妃疑术后首次露面](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%9C%AF%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
