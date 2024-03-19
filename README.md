@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 15:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 15:29:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [起步平稳 稳中有升](https://www.baidu.com/s?wd=%E8%B5%B7%E6%AD%A5%E5%B9%B3%E7%A8%B3+%E7%A8%B3%E4%B8%AD%E6%9C%89%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [北大回应考生与前校长蔡元培同名](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E4%B8%8E%E5%89%8D%E6%A0%A1%E9%95%BF%E8%94%A1%E5%85%83%E5%9F%B9%E5%90%8C%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友洛杉矶偶遇贾玲](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%81%B6%E9%81%87%E8%B4%BE%E7%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [英伟达最新AI芯片成本能耗降低25倍](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0AI%E8%8A%AF%E7%89%87%E6%88%90%E6%9C%AC%E8%83%BD%E8%80%97%E9%99%8D%E4%BD%8E25%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [考生莫言也上北大硕士复试名单了](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%8E%AB%E8%A8%80%E4%B9%9F%E4%B8%8A%E5%8C%97%E5%A4%A7%E7%A1%95%E5%A3%AB%E5%A4%8D%E8%AF%95%E5%90%8D%E5%8D%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [考生莫言也上北大硕士复试名单了](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%8E%AB%E8%A8%80%E4%B9%9F%E4%B8%8A%E5%8C%97%E5%A4%A7%E7%A1%95%E5%A3%AB%E5%A4%8D%E8%AF%95%E5%90%8D%E5%8D%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [外国人感慨凌晨的中国很安全](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%84%9F%E6%85%A8%E5%87%8C%E6%99%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BE%88%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西核潜艇车间生产核弹头系谣言](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%A0%B8%E6%BD%9C%E8%89%87%E8%BD%A6%E9%97%B4%E7%94%9F%E4%BA%A7%E6%A0%B8%E5%BC%B9%E5%A4%B4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [起步平稳 稳中有升](https://www.baidu.com/s?wd=%E8%B5%B7%E6%AD%A5%E5%B9%B3%E7%A8%B3+%E7%A8%B3%E4%B8%AD%E6%9C%89%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [北大回应考生与前校长蔡元培同名](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E4%B8%8E%E5%89%8D%E6%A0%A1%E9%95%BF%E8%94%A1%E5%85%83%E5%9F%B9%E5%90%8C%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [网友洛杉矶偶遇贾玲](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%81%B6%E9%81%87%E8%B4%BE%E7%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [英伟达最新AI芯片成本能耗降低25倍](https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0AI%E8%8A%AF%E7%89%87%E6%88%90%E6%9C%AC%E8%83%BD%E8%80%97%E9%99%8D%E4%BD%8E25%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [考生莫言也上北大硕士复试名单了](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%8E%AB%E8%A8%80%E4%B9%9F%E4%B8%8A%E5%8C%97%E5%A4%A7%E7%A1%95%E5%A3%AB%E5%A4%8D%E8%AF%95%E5%90%8D%E5%8D%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [考生莫言也上北大硕士复试名单了](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%8E%AB%E8%A8%80%E4%B9%9F%E4%B8%8A%E5%8C%97%E5%A4%A7%E7%A1%95%E5%A3%AB%E5%A4%8D%E8%AF%95%E5%90%8D%E5%8D%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [外国人感慨凌晨的中国很安全](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%84%9F%E6%85%A8%E5%87%8C%E6%99%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BE%88%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西核潜艇车间生产核弹头系谣言](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%A0%B8%E6%BD%9C%E8%89%87%E8%BD%A6%E9%97%B4%E7%94%9F%E4%BA%A7%E6%A0%B8%E5%BC%B9%E5%A4%B4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
