@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 20:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 20:43:01</h4></div>
 
 > 微博  
 
 1. [当你早睡一次 你的器官](https://s.weibo.com/weibo?q=%E5%BD%93%E4%BD%A0%E6%97%A9%E7%9D%A1%E4%B8%80%E6%AC%A1%20%E4%BD%A0%E7%9A%84%E5%99%A8%E5%AE%98&t=31&band_rank=1&Refer=top)<br />
 2. [纪凌尘他做到了](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%E4%BB%96%E5%81%9A%E5%88%B0%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
 3. [认识你真好](https://s.weibo.com/weibo?q=%23%E8%AE%A4%E8%AF%86%E4%BD%A0%E7%9C%9F%E5%A5%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [请回答1988善宇近照](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%9B%9E%E7%AD%941988%E5%96%84%E5%AE%87%E8%BF%91%E7%85%A7%23&t=31&band_rank=4&Refer=top)<br />
-5. [武大声明](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%A3%B0%E6%98%8E%23&t=31&band_rank=5&Refer=top)<br />
+4. [武大声明](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%A3%B0%E6%98%8E%23&t=31&band_rank=4&Refer=top)<br />
+5. [请回答1988善宇近照](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%9B%9E%E7%AD%941988%E5%96%84%E5%AE%87%E8%BF%91%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [花间令低开高走](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%97%B4%E4%BB%A4%E4%BD%8E%E5%BC%80%E9%AB%98%E8%B5%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [淀粉肠](https://s.weibo.com/weibo?q=%E6%B7%80%E7%B2%89%E8%82%A0&t=31&band_rank=7&Refer=top)<br />
 8. [LGD战胜WBG](https://s.weibo.com/weibo?q=%23LGD%E6%88%98%E8%83%9CWBG%23&t=31&band_rank=8&Refer=top)<br />
