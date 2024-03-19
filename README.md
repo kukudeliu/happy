@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 18:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 18:17:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [张家界山上长满韩国人](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%B1%B1%E4%B8%8A%E9%95%BF%E6%BB%A1%E9%9F%A9%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [除了医院谁还会这么算年龄](https://s.weibo.com/weibo?q=%23%E9%99%A4%E4%BA%86%E5%8C%BB%E9%99%A2%E8%B0%81%E8%BF%98%E4%BC%9A%E8%BF%99%E4%B9%88%E7%AE%97%E5%B9%B4%E9%BE%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [海底捞玥](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%8E%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [为什么洗完头后容易炸毛](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B4%97%E5%AE%8C%E5%A4%B4%E5%90%8E%E5%AE%B9%E6%98%93%E7%82%B8%E6%AF%9B%23&t=31&band_rank=8&Refer=top)<br />
+8. [庆余年](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
 9. [山东一学校惊现4层楼高视力表](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%AD%A6%E6%A0%A1%E6%83%8A%E7%8E%B04%E5%B1%82%E6%A5%BC%E9%AB%98%E8%A7%86%E5%8A%9B%E8%A1%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
