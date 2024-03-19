@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 20:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 20:34:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [花间令低开高走](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%97%B4%E4%BB%A4%E4%BD%8E%E5%BC%80%E9%AB%98%E8%B5%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [LGD战胜WBG](https://s.weibo.com/weibo?q=%23LGD%E6%88%98%E8%83%9CWBG%23&t=31&band_rank=6&Refer=top)<br />
 7. [维护国家安全条例草案三读审议通过](https://s.weibo.com/weibo?q=%23%E7%BB%B4%E6%8A%A4%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%9D%A1%E4%BE%8B%E8%8D%89%E6%A1%88%E4%B8%89%E8%AF%BB%E5%AE%A1%E8%AE%AE%E9%80%9A%E8%BF%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [鞠婧祎郑合惠子二搭了](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E4%BA%8C%E6%90%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [武大声明](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%A3%B0%E6%98%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [淀粉肠](https://s.weibo.com/weibo?q=%E6%B7%80%E7%B2%89%E8%82%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [妈妈回应孩子在校撞护栏坠楼](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E5%AD%A9%E5%AD%90%E5%9C%A8%E6%A0%A1%E6%92%9E%E6%8A%A4%E6%A0%8F%E5%9D%A0%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [两大学生合买彩票中奖一人不认账](https://www.baidu.com/s?wd=%E4%B8%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%88%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96%E4%B8%80%E4%BA%BA%E4%B8%8D%E8%AE%A4%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [315晚会后胖东来又人满为患了](https://www.baidu.com/s?wd=315%E6%99%9A%E4%BC%9A%E5%90%8E%E8%83%96%E4%B8%9C%E6%9D%A5%E5%8F%88%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多所高校食堂推出天水麻辣烫](https://www.baidu.com/s?wd=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E6%8E%A8%E5%87%BA%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国标起草人：淀粉肠是低配版火腿肠](https://www.baidu.com/s?wd=%E5%9B%BD%E6%A0%87%E8%B5%B7%E8%8D%89%E4%BA%BA%EF%BC%9A%E6%B7%80%E7%B2%89%E8%82%A0%E6%98%AF%E4%BD%8E%E9%85%8D%E7%89%88%E7%81%AB%E8%85%BF%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅江山火三名扑火人员牺牲系谣言](https://www.baidu.com/s?wd=%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E4%B8%89%E5%90%8D%E6%89%91%E7%81%AB%E4%BA%BA%E5%91%98%E7%89%BA%E7%89%B2%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [妈妈回应孩子在校撞护栏坠楼](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E5%AD%A9%E5%AD%90%E5%9C%A8%E6%A0%A1%E6%92%9E%E6%8A%A4%E6%A0%8F%E5%9D%A0%E6%A5%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [两大学生合买彩票中奖一人不认账](https://www.baidu.com/s?wd=%E4%B8%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%88%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96%E4%B8%80%E4%BA%BA%E4%B8%8D%E8%AE%A4%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [315晚会后胖东来又人满为患了](https://www.baidu.com/s?wd=315%E6%99%9A%E4%BC%9A%E5%90%8E%E8%83%96%E4%B8%9C%E6%9D%A5%E5%8F%88%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多所高校食堂推出天水麻辣烫](https://www.baidu.com/s?wd=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E6%8E%A8%E5%87%BA%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [国标起草人：淀粉肠是低配版火腿肠](https://www.baidu.com/s?wd=%E5%9B%BD%E6%A0%87%E8%B5%B7%E8%8D%89%E4%BA%BA%EF%BC%9A%E6%B7%80%E7%B2%89%E8%82%A0%E6%98%AF%E4%BD%8E%E9%85%8D%E7%89%88%E7%81%AB%E8%85%BF%E8%82%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅江山火三名扑火人员牺牲系谣言](https://www.baidu.com/s?wd=%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E4%B8%89%E5%90%8D%E6%89%91%E7%81%AB%E4%BA%BA%E5%91%98%E7%89%BA%E7%89%B2%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
