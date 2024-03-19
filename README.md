@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 16:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 16:02:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [北大回应考生与前校长蔡元培同名](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E4%B8%8E%E5%89%8D%E6%A0%A1%E9%95%BF%E8%94%A1%E5%85%83%E5%9F%B9%E5%90%8C%E5%90%8D%23&t=31&band_rank=4&Refer=top)<br />
 5. [韩安冉入住杭州2000万大平层](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AE%89%E5%86%89%E5%85%A5%E4%BD%8F%E6%9D%AD%E5%B7%9E2000%E4%B8%87%E5%A4%A7%E5%B9%B3%E5%B1%82%23&t=31&band_rank=5&Refer=top)<br />
 6. [蔡元培](https://s.weibo.com/weibo?q=%E8%94%A1%E5%85%83%E5%9F%B9&t=31&band_rank=6&Refer=top)<br />
-7. [男孩8年未见母亲被告知被遗忘](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A98%E5%B9%B4%E6%9C%AA%E8%A7%81%E6%AF%8D%E4%BA%B2%E8%A2%AB%E5%91%8A%E7%9F%A5%E8%A2%AB%E9%81%97%E5%BF%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [凯特王妃疑术后首次露面](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%9C%AF%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘学义郑合惠子拥抱镜头](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E6%8B%A5%E6%8A%B1%E9%95%9C%E5%A4%B4%23&t=31&band_rank=9&Refer=top)<br />
+7. [倪萍分享减重40斤方法](https://s.weibo.com/weibo?q=%23%E5%80%AA%E8%90%8D%E5%88%86%E4%BA%AB%E5%87%8F%E9%87%8D40%E6%96%A4%E6%96%B9%E6%B3%95%23&t=31&band_rank=7&Refer=top)<br />
+8. [男孩8年未见母亲被告知被遗忘](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A98%E5%B9%B4%E6%9C%AA%E8%A7%81%E6%AF%8D%E4%BA%B2%E8%A2%AB%E5%91%8A%E7%9F%A5%E8%A2%AB%E9%81%97%E5%BF%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [安崎](https://s.weibo.com/weibo?q=%E5%AE%89%E5%B4%8E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
