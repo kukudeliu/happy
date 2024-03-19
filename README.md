@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 08:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 08:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李惠利吴世勋裴秀智毕业合照](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%A0%E5%88%A9%E5%90%B4%E4%B8%96%E5%8B%8B%E8%A3%B4%E7%A7%80%E6%99%BA%E6%AF%95%E4%B8%9A%E5%90%88%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [蜜雪冰城回应涨价1元尚未全国推广](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B71%E5%85%83%E5%B0%9A%E6%9C%AA%E5%85%A8%E5%9B%BD%E6%8E%A8%E5%B9%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [她和智障哥哥唯一合照是陌生人拍的](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E5%92%8C%E6%99%BA%E9%9A%9C%E5%93%A5%E5%93%A5%E5%94%AF%E4%B8%80%E5%90%88%E7%85%A7%E6%98%AF%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8B%8D%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [女孩拼2年考研上岸一学期后退学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8B%BC2%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%90%8E%E9%80%80%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+9. [警方回应邯郸初中生被杀害案](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
