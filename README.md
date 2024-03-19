@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 12:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 12:16:02</h4></div>
 
 > 微博  
 
-1. [嫡校长](https://s.weibo.com/weibo?q=%E5%AB%A1%E6%A0%A1%E9%95%BF&t=31&band_rank=1&Refer=top)<br />
-2. [蔡元培](https://s.weibo.com/weibo?q=%E8%94%A1%E5%85%83%E5%9F%B9&t=31&band_rank=2&Refer=top)<br />
+1. [蔡元培](https://s.weibo.com/weibo?q=%E8%94%A1%E5%85%83%E5%9F%B9&t=31&band_rank=1&Refer=top)<br />
+2. [嫡校长](https://s.weibo.com/weibo?q=%E5%AB%A1%E6%A0%A1%E9%95%BF&t=31&band_rank=2&Refer=top)<br />
 3. [春花遇上中式建筑意境拉满](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%B1%E9%81%87%E4%B8%8A%E4%B8%AD%E5%BC%8F%E5%BB%BA%E7%AD%91%E6%84%8F%E5%A2%83%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [男子被流浪猫绊倒投喂者赔24万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E6%B5%81%E6%B5%AA%E7%8C%AB%E7%BB%8A%E5%80%92%E6%8A%95%E5%96%82%E8%80%85%E8%B5%9424%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [迪丽热巴陈星旭都是浓颜](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%99%88%E6%98%9F%E6%97%AD%E9%83%BD%E6%98%AF%E6%B5%93%E9%A2%9C%23&t=31&band_rank=5&Refer=top)<br />
