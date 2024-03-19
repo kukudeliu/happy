@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 11:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 11:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [迪丽热巴陈星旭都是浓颜](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%99%88%E6%98%9F%E6%97%AD%E9%83%BD%E6%98%AF%E6%B5%93%E9%A2%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [凯特王妃疑术后首次露面](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%9C%AF%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [小米测试车被天津高速抓到逃费](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B5%8B%E8%AF%95%E8%BD%A6%E8%A2%AB%E5%A4%A9%E6%B4%A5%E9%AB%98%E9%80%9F%E6%8A%93%E5%88%B0%E9%80%83%E8%B4%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [教育部发布24种本科新增专业](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%8324%E7%A7%8D%E6%9C%AC%E7%A7%91%E6%96%B0%E5%A2%9E%E4%B8%93%E4%B8%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [反向消费有多爽](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%90%91%E6%B6%88%E8%B4%B9%E6%9C%89%E5%A4%9A%E7%88%BD%23&t=31&band_rank=9&Refer=top)<br />
+8. [反向消费有多爽](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%90%91%E6%B6%88%E8%B4%B9%E6%9C%89%E5%A4%9A%E7%88%BD%23&t=31&band_rank=8&Refer=top)<br />
+9. [教育部发布24种本科新增专业](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%8324%E7%A7%8D%E6%9C%AC%E7%A7%91%E6%96%B0%E5%A2%9E%E4%B8%93%E4%B8%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
