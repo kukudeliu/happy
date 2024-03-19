@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 20:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 20:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [花间令低开高走](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%97%B4%E4%BB%A4%E4%BD%8E%E5%BC%80%E9%AB%98%E8%B5%B0%23&t=31&band_rank=6&Refer=top)<br />
 7. [淀粉肠](https://s.weibo.com/weibo?q=%E6%B7%80%E7%B2%89%E8%82%A0&t=31&band_rank=7&Refer=top)<br />
 8. [与凤行](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C&t=31&band_rank=8&Refer=top)<br />
-9. [LGD战胜WBG](https://s.weibo.com/weibo?q=%23LGD%E6%88%98%E8%83%9CWBG%23&t=31&band_rank=9&Refer=top)<br />
+9. [妈妈让我边考研边考公边找工作](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E8%AE%A9%E6%88%91%E8%BE%B9%E8%80%83%E7%A0%94%E8%BE%B9%E8%80%83%E5%85%AC%E8%BE%B9%E6%89%BE%E5%B7%A5%E4%BD%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
