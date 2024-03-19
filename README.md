@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 14:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 14:56:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [许家印被限制高消费](https://www.baidu.com/s?wd=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E9%99%90%E5%88%B6%E9%AB%98%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [起步平稳 稳中有升](https://www.baidu.com/s?wd=%E8%B5%B7%E6%AD%A5%E5%B9%B3%E7%A8%B3+%E7%A8%B3%E4%B8%AD%E6%9C%89%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [北大回应考生与前校长蔡元培同名](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E4%B8%8E%E5%89%8D%E6%A0%A1%E9%95%BF%E8%94%A1%E5%85%83%E5%9F%B9%E5%90%8C%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [外国人感慨凌晨的中国很安全](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%84%9F%E6%85%A8%E5%87%8C%E6%99%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BE%88%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [测试车高速逃费 小米：已补缴](https://www.baidu.com/s?wd=%E6%B5%8B%E8%AF%95%E8%BD%A6%E9%AB%98%E9%80%9F%E9%80%83%E8%B4%B9+%E5%B0%8F%E7%B1%B3%EF%BC%9A%E5%B7%B2%E8%A1%A5%E7%BC%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江一高校内汽车冲撞行人 多人受伤](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E9%AB%98%E6%A0%A1%E5%86%85%E6%B1%BD%E8%BD%A6%E5%86%B2%E6%92%9E%E8%A1%8C%E4%BA%BA+%E5%A4%9A%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [网友洛杉矶偶遇贾玲](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%81%B6%E9%81%87%E8%B4%BE%E7%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [外国人感慨凌晨的中国很安全](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%84%9F%E6%85%A8%E5%87%8C%E6%99%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BE%88%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [测试车高速逃费 小米：已补缴](https://www.baidu.com/s?wd=%E6%B5%8B%E8%AF%95%E8%BD%A6%E9%AB%98%E9%80%9F%E9%80%83%E8%B4%B9+%E5%B0%8F%E7%B1%B3%EF%BC%9A%E5%B7%B2%E8%A1%A5%E7%BC%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西核潜艇车间生产核弹头系谣言](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%A0%B8%E6%BD%9C%E8%89%87%E8%BD%A6%E9%97%B4%E7%94%9F%E4%BA%A7%E6%A0%B8%E5%BC%B9%E5%A4%B4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [许家印被限制高消费](https://www.baidu.com/s?wd=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E9%99%90%E5%88%B6%E9%AB%98%E6%B6%88%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [起步平稳 稳中有升](https://www.baidu.com/s?wd=%E8%B5%B7%E6%AD%A5%E5%B9%B3%E7%A8%B3+%E7%A8%B3%E4%B8%AD%E6%9C%89%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [北大回应考生与前校长蔡元培同名](https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E4%B8%8E%E5%89%8D%E6%A0%A1%E9%95%BF%E8%94%A1%E5%85%83%E5%9F%B9%E5%90%8C%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [外国人感慨凌晨的中国很安全](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%84%9F%E6%85%A8%E5%87%8C%E6%99%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BE%88%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [测试车高速逃费 小米：已补缴](https://www.baidu.com/s?wd=%E6%B5%8B%E8%AF%95%E8%BD%A6%E9%AB%98%E9%80%9F%E9%80%83%E8%B4%B9+%E5%B0%8F%E7%B1%B3%EF%BC%9A%E5%B7%B2%E8%A1%A5%E7%BC%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [浙江一高校内汽车冲撞行人 多人受伤](https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E9%AB%98%E6%A0%A1%E5%86%85%E6%B1%BD%E8%BD%A6%E5%86%B2%E6%92%9E%E8%A1%8C%E4%BA%BA+%E5%A4%9A%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [网友洛杉矶偶遇贾玲](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%81%B6%E9%81%87%E8%B4%BE%E7%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [外国人感慨凌晨的中国很安全](https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%84%9F%E6%85%A8%E5%87%8C%E6%99%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BE%88%E5%AE%89%E5%85%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [测试车高速逃费 小米：已补缴](https://www.baidu.com/s?wd=%E6%B5%8B%E8%AF%95%E8%BD%A6%E9%AB%98%E9%80%9F%E9%80%83%E8%B4%B9+%E5%B0%8F%E7%B1%B3%EF%BC%9A%E5%B7%B2%E8%A1%A5%E7%BC%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西核潜艇车间生产核弹头系谣言](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%A0%B8%E6%BD%9C%E8%89%87%E8%BD%A6%E9%97%B4%E7%94%9F%E4%BA%A7%E6%A0%B8%E5%BC%B9%E5%A4%B4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
