@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 17:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 17:39:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [为什么洗完头后容易炸毛](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B4%97%E5%AE%8C%E5%A4%B4%E5%90%8E%E5%AE%B9%E6%98%93%E7%82%B8%E6%AF%9B%23&t=31&band_rank=5&Refer=top)<br />
 6. [除了医院谁还会这么算年龄](https://s.weibo.com/weibo?q=%23%E9%99%A4%E4%BA%86%E5%8C%BB%E9%99%A2%E8%B0%81%E8%BF%98%E4%BC%9A%E8%BF%99%E4%B9%88%E7%AE%97%E5%B9%B4%E9%BE%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [这真的是快50岁的何老师吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E5%BF%AB50%E5%B2%81%E7%9A%84%E4%BD%95%E8%80%81%E5%B8%88%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [李辉粲涉嫌强制猥亵](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%BE%89%E7%B2%B2%E6%B6%89%E5%AB%8C%E5%BC%BA%E5%88%B6%E7%8C%A5%E4%BA%B5%23&t=31&band_rank=8&Refer=top)<br />
-9. [庆余年](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
+8. [庆余年](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
+9. [李辉粲涉嫌强制猥亵](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%BE%89%E7%B2%B2%E6%B6%89%E5%AB%8C%E5%BC%BA%E5%88%B6%E7%8C%A5%E4%BA%B5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
