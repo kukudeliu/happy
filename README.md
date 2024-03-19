@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 09:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 09:03:01</h4></div>
 
 > 微博  
 
-1. [邯郸初中生被害案嫌犯为有预谋作案](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%8A%AF%E4%B8%BA%E6%9C%89%E9%A2%84%E8%B0%8B%E4%BD%9C%E6%A1%88%23&t=31&band_rank=1&Refer=top)<br />
-2. [凯特王妃疑术后首次露面](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%9C%AF%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=2&Refer=top)<br />
+1. [凯特王妃疑术后首次露面](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%9C%AF%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=1&Refer=top)<br />
+2. [邯郸初中生被害案嫌犯为有预谋作案](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%8A%AF%E4%B8%BA%E6%9C%89%E9%A2%84%E8%B0%8B%E4%BD%9C%E6%A1%88%23&t=31&band_rank=2&Refer=top)<br />
 3. [这是一堂生动的思政课](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%80%E5%A0%82%E7%94%9F%E5%8A%A8%E7%9A%84%E6%80%9D%E6%94%BF%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [凯特](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9&t=31&band_rank=4&Refer=top)<br />
 5. [李惠利吴世勋裴秀智毕业合照](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%A0%E5%88%A9%E5%90%B4%E4%B8%96%E5%8B%8B%E8%A3%B4%E7%A7%80%E6%99%BA%E6%AF%95%E4%B8%9A%E5%90%88%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
