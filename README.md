@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 16:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 16:05:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [韩安冉入住杭州2000万大平层](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AE%89%E5%86%89%E5%85%A5%E4%BD%8F%E6%9D%AD%E5%B7%9E2000%E4%B8%87%E5%A4%A7%E5%B9%B3%E5%B1%82%23&t=31&band_rank=5&Refer=top)<br />
 6. [蔡元培](https://s.weibo.com/weibo?q=%E8%94%A1%E5%85%83%E5%9F%B9&t=31&band_rank=6&Refer=top)<br />
 7. [倪萍分享减重40斤方法](https://s.weibo.com/weibo?q=%23%E5%80%AA%E8%90%8D%E5%88%86%E4%BA%AB%E5%87%8F%E9%87%8D40%E6%96%A4%E6%96%B9%E6%B3%95%23&t=31&band_rank=7&Refer=top)<br />
-8. [男孩8年未见母亲被告知被遗忘](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A98%E5%B9%B4%E6%9C%AA%E8%A7%81%E6%AF%8D%E4%BA%B2%E8%A2%AB%E5%91%8A%E7%9F%A5%E8%A2%AB%E9%81%97%E5%BF%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [安崎](https://s.weibo.com/weibo?q=%E5%AE%89%E5%B4%8E&t=31&band_rank=9&Refer=top)<br />
+8. [安崎](https://s.weibo.com/weibo?q=%E5%AE%89%E5%B4%8E&t=31&band_rank=8&Refer=top)<br />
+9. [男孩8年未见母亲被告知被遗忘](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A98%E5%B9%B4%E6%9C%AA%E8%A7%81%E6%AF%8D%E4%BA%B2%E8%A2%AB%E5%91%8A%E7%9F%A5%E8%A2%AB%E9%81%97%E5%BF%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
