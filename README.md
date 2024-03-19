@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 16:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 16:19:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [庆余年](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4&t=31&band_rank=4&Refer=top)<br />
 5. [北大回应考生与前校长蔡元培同名](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E4%B8%8E%E5%89%8D%E6%A0%A1%E9%95%BF%E8%94%A1%E5%85%83%E5%9F%B9%E5%90%8C%E5%90%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [蔡元培](https://s.weibo.com/weibo?q=%E8%94%A1%E5%85%83%E5%9F%B9&t=31&band_rank=6&Refer=top)<br />
-7. [韩安冉入住杭州2000万大平层](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AE%89%E5%86%89%E5%85%A5%E4%BD%8F%E6%9D%AD%E5%B7%9E2000%E4%B8%87%E5%A4%A7%E5%B9%B3%E5%B1%82%23&t=31&band_rank=7&Refer=top)<br />
-8. [李辉粲涉嫌强制猥亵](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%BE%89%E7%B2%B2%E6%B6%89%E5%AB%8C%E5%BC%BA%E5%88%B6%E7%8C%A5%E4%BA%B5%23&t=31&band_rank=8&Refer=top)<br />
+7. [李辉粲涉嫌强制猥亵](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%BE%89%E7%B2%B2%E6%B6%89%E5%AB%8C%E5%BC%BA%E5%88%B6%E7%8C%A5%E4%BA%B5%23&t=31&band_rank=7&Refer=top)<br />
+8. [韩安冉入住杭州2000万大平层](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AE%89%E5%86%89%E5%85%A5%E4%BD%8F%E6%9D%AD%E5%B7%9E2000%E4%B8%87%E5%A4%A7%E5%B9%B3%E5%B1%82%23&t=31&band_rank=8&Refer=top)<br />
 9. [男孩8年未见母亲被告知被遗忘](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A98%E5%B9%B4%E6%9C%AA%E8%A7%81%E6%AF%8D%E4%BA%B2%E8%A2%AB%E5%91%8A%E7%9F%A5%E8%A2%AB%E9%81%97%E5%BF%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
