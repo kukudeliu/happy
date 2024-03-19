@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 09:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 09:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [睡醒之后一定要改掉这4个坏习惯](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E9%86%92%E4%B9%8B%E5%90%8E%E4%B8%80%E5%AE%9A%E8%A6%81%E6%94%B9%E6%8E%89%E8%BF%994%E4%B8%AA%E5%9D%8F%E4%B9%A0%E6%83%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [郑俊英出狱](https://s.weibo.com/weibo?q=%E9%83%91%E4%BF%8A%E8%8B%B1%E5%87%BA%E7%8B%B1&t=31&band_rank=7&Refer=top)<br />
 8. [聂可以自曝在女团被集体霸凌](https://s.weibo.com/weibo?q=%23%E8%81%82%E5%8F%AF%E4%BB%A5%E8%87%AA%E6%9B%9D%E5%9C%A8%E5%A5%B3%E5%9B%A2%E8%A2%AB%E9%9B%86%E4%BD%93%E9%9C%B8%E5%87%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [蜜雪冰城回应涨价1元尚未全国推广](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B71%E5%85%83%E5%B0%9A%E6%9C%AA%E5%85%A8%E5%9B%BD%E6%8E%A8%E5%B9%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [HYBE将推出水溶性小卡](https://s.weibo.com/weibo?q=%23HYBE%E5%B0%86%E6%8E%A8%E5%87%BA%E6%B0%B4%E6%BA%B6%E6%80%A7%E5%B0%8F%E5%8D%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
