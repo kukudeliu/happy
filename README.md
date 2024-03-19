@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 22:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 22:51:01</h4></div>
 
 > 微博  
 
@@ -17,24 +17,24 @@
 
 > 百度  
 
-1. [技术创新驱动低碳未来](https://www.baidu.com/s?wd=%E6%8A%80%E6%9C%AF%E5%88%9B%E6%96%B0%E9%A9%B1%E5%8A%A8%E4%BD%8E%E7%A2%B3%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平走进农田考察春耕备耕情况](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B5%B0%E8%BF%9B%E5%86%9C%E7%94%B0%E8%80%83%E5%AF%9F%E6%98%A5%E8%80%95%E5%A4%87%E8%80%95%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [香港通过《维护国家安全条例》](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%80%9A%E8%BF%87%E3%80%8A%E7%BB%B4%E6%8A%A4%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%9D%A1%E4%BE%8B%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [两大学生合买彩票中奖一人不认账](https://www.baidu.com/s?wd=%E4%B8%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%88%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96%E4%B8%80%E4%BA%BA%E4%B8%8D%E8%AE%A4%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让美丽中国“从细节出发”](https://www.baidu.com/s?wd=%E8%AE%A9%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E2%80%9C%E4%BB%8E%E7%BB%86%E8%8A%82%E5%87%BA%E5%8F%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [高校汽车撞人致3死16伤 司机系学生](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B43%E6%AD%BB16%E4%BC%A4+%E5%8F%B8%E6%9C%BA%E7%B3%BB%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [19岁小伙救下5人后溺亡 多方发声](https://www.baidu.com/s?wd=19%E5%B2%81%E5%B0%8F%E4%BC%99%E6%95%91%E4%B8%8B5%E4%BA%BA%E5%90%8E%E6%BA%BA%E4%BA%A1+%E5%A4%9A%E6%96%B9%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [单亲妈妈陷入热恋 14岁儿子报警](https://www.baidu.com/s?wd=%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E9%99%B7%E5%85%A5%E7%83%AD%E6%81%8B+14%E5%B2%81%E5%84%BF%E5%AD%90%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [19岁小伙救下5人后溺亡 多方发声](https://www.baidu.com/s?wd=19%E5%B2%81%E5%B0%8F%E4%BC%99%E6%95%91%E4%B8%8B5%E4%BA%BA%E5%90%8E%E6%BA%BA%E4%BA%A1+%E5%A4%9A%E6%96%B9%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [开除党籍5年后 原水城县长再被查](https://www.baidu.com/s?wd=%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D5%E5%B9%B4%E5%90%8E+%E5%8E%9F%E6%B0%B4%E5%9F%8E%E5%8E%BF%E9%95%BF%E5%86%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [郑州一火锅店爆改成麻辣烫店](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E7%81%AB%E9%94%85%E5%BA%97%E7%88%86%E6%94%B9%E6%88%90%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王楚钦登顶三项第一](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%99%BB%E9%A1%B6%E4%B8%89%E9%A1%B9%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅江山火三名扑火人员牺牲系谣言](https://www.baidu.com/s?wd=%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E4%B8%89%E5%90%8D%E6%89%91%E7%81%AB%E4%BA%BA%E5%91%98%E7%89%BA%E7%89%B2%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
-1. [技术创新驱动低碳未来](https://www.baidu.com/s?wd=%E6%8A%80%E6%9C%AF%E5%88%9B%E6%96%B0%E9%A9%B1%E5%8A%A8%E4%BD%8E%E7%A2%B3%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平走进农田考察春耕备耕情况](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B5%B0%E8%BF%9B%E5%86%9C%E7%94%B0%E8%80%83%E5%AF%9F%E6%98%A5%E8%80%95%E5%A4%87%E8%80%95%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [香港通过《维护国家安全条例》](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%80%9A%E8%BF%87%E3%80%8A%E7%BB%B4%E6%8A%A4%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%9D%A1%E4%BE%8B%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [两大学生合买彩票中奖一人不认账](https://www.baidu.com/s?wd=%E4%B8%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%88%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96%E4%B8%80%E4%BA%BA%E4%B8%8D%E8%AE%A4%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让美丽中国“从细节出发”](https://www.baidu.com/s?wd=%E8%AE%A9%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E2%80%9C%E4%BB%8E%E7%BB%86%E8%8A%82%E5%87%BA%E5%8F%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [高校汽车撞人致3死16伤 司机系学生](https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B43%E6%AD%BB16%E4%BC%A4+%E5%8F%B8%E6%9C%BA%E7%B3%BB%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [19岁小伙救下5人后溺亡 多方发声](https://www.baidu.com/s?wd=19%E5%B2%81%E5%B0%8F%E4%BC%99%E6%95%91%E4%B8%8B5%E4%BA%BA%E5%90%8E%E6%BA%BA%E4%BA%A1+%E5%A4%9A%E6%96%B9%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [单亲妈妈陷入热恋 14岁儿子报警](https://www.baidu.com/s?wd=%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E9%99%B7%E5%85%A5%E7%83%AD%E6%81%8B+14%E5%B2%81%E5%84%BF%E5%AD%90%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [19岁小伙救下5人后溺亡 多方发声](https://www.baidu.com/s?wd=19%E5%B2%81%E5%B0%8F%E4%BC%99%E6%95%91%E4%B8%8B5%E4%BA%BA%E5%90%8E%E6%BA%BA%E4%BA%A1+%E5%A4%9A%E6%96%B9%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [开除党籍5年后 原水城县长再被查](https://www.baidu.com/s?wd=%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D5%E5%B9%B4%E5%90%8E+%E5%8E%9F%E6%B0%B4%E5%9F%8E%E5%8E%BF%E9%95%BF%E5%86%8D%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [郑州一火锅店爆改成麻辣烫店](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E7%81%AB%E9%94%85%E5%BA%97%E7%88%86%E6%94%B9%E6%88%90%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王楚钦登顶三项第一](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%99%BB%E9%A1%B6%E4%B8%89%E9%A1%B9%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅江山火三名扑火人员牺牲系谣言](https://www.baidu.com/s?wd=%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E4%B8%89%E5%90%8D%E6%89%91%E7%81%AB%E4%BA%BA%E5%91%98%E7%89%BA%E7%89%B2%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
