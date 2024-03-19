@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 09:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 09:24:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [世界排名王楚钦三项第一](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%89%E9%A1%B9%E7%AC%AC%E4%B8%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [睡醒之后一定要改掉这4个坏习惯](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E9%86%92%E4%B9%8B%E5%90%8E%E4%B8%80%E5%AE%9A%E8%A6%81%E6%94%B9%E6%8E%89%E8%BF%994%E4%B8%AA%E5%9D%8F%E4%B9%A0%E6%83%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [郑俊英出狱](https://s.weibo.com/weibo?q=%E9%83%91%E4%BF%8A%E8%8B%B1%E5%87%BA%E7%8B%B1&t=31&band_rank=6&Refer=top)<br />
-7. [凯特](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9&t=31&band_rank=7&Refer=top)<br />
-8. [苹果称128GB的iPhone也有充裕空间](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%A7%B0128GB%E7%9A%84iPhone%E4%B9%9F%E6%9C%89%E5%85%85%E8%A3%95%E7%A9%BA%E9%97%B4%23&t=31&band_rank=8&Refer=top)<br />
+7. [苹果称128GB的iPhone也有充裕空间](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%A7%B0128GB%E7%9A%84iPhone%E4%B9%9F%E6%9C%89%E5%85%85%E8%A3%95%E7%A9%BA%E9%97%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [凯特](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9&t=31&band_rank=8&Refer=top)<br />
 9. [蜜雪冰城回应涨价1元尚未全国推广](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B71%E5%85%83%E5%B0%9A%E6%9C%AA%E5%85%A8%E5%9B%BD%E6%8E%A8%E5%B9%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
