@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 17:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 17:47:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [中国拥有亿元资产的家庭达13.3万户](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8B%A5%E6%9C%89%E4%BA%BF%E5%85%83%E8%B5%84%E4%BA%A7%E7%9A%84%E5%AE%B6%E5%BA%AD%E8%BE%BE13.3%E4%B8%87%E6%88%B7%23&t=31&band_rank=4&Refer=top)<br />
 5. [除了医院谁还会这么算年龄](https://s.weibo.com/weibo?q=%23%E9%99%A4%E4%BA%86%E5%8C%BB%E9%99%A2%E8%B0%81%E8%BF%98%E4%BC%9A%E8%BF%99%E4%B9%88%E7%AE%97%E5%B9%B4%E9%BE%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [为什么洗完头后容易炸毛](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B4%97%E5%AE%8C%E5%A4%B4%E5%90%8E%E5%AE%B9%E6%98%93%E7%82%B8%E6%AF%9B%23&t=31&band_rank=6&Refer=top)<br />
-7. [这真的是快50岁的何老师吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E5%BF%AB50%E5%B2%81%E7%9A%84%E4%BD%95%E8%80%81%E5%B8%88%E5%90%97%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵磊 我也不用了谢谢](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%A3%8A%20%E6%88%91%E4%B9%9F%E4%B8%8D%E7%94%A8%E4%BA%86%E8%B0%A2%E8%B0%A2&t=31&band_rank=8&Refer=top)<br />
+7. [赵磊 我也不用了谢谢](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%A3%8A%20%E6%88%91%E4%B9%9F%E4%B8%8D%E7%94%A8%E4%BA%86%E8%B0%A2%E8%B0%A2&t=31&band_rank=7&Refer=top)<br />
+8. [这真的是快50岁的何老师吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E5%BF%AB50%E5%B2%81%E7%9A%84%E4%BD%95%E8%80%81%E5%B8%88%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
 9. [庆余年](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
