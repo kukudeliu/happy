@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 09:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 09:55:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [睡醒之后一定要改掉这4个坏习惯](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E9%86%92%E4%B9%8B%E5%90%8E%E4%B8%80%E5%AE%9A%E8%A6%81%E6%94%B9%E6%8E%89%E8%BF%994%E4%B8%AA%E5%9D%8F%E4%B9%A0%E6%83%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [郑俊英出狱](https://s.weibo.com/weibo?q=%E9%83%91%E4%BF%8A%E8%8B%B1%E5%87%BA%E7%8B%B1&t=31&band_rank=7&Refer=top)<br />
 8. [聂可以自曝在女团被集体霸凌](https://s.weibo.com/weibo?q=%23%E8%81%82%E5%8F%AF%E4%BB%A5%E8%87%AA%E6%9B%9D%E5%9C%A8%E5%A5%B3%E5%9B%A2%E8%A2%AB%E9%9B%86%E4%BD%93%E9%9C%B8%E5%87%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [HYBE将推出水溶性小卡](https://s.weibo.com/weibo?q=%23HYBE%E5%B0%86%E6%8E%A8%E5%87%BA%E6%B0%B4%E6%BA%B6%E6%80%A7%E5%B0%8F%E5%8D%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [王海称小杨哥和东方甄选或明知槽头扣肉](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%B7%E7%A7%B0%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%92%8C%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%88%96%E6%98%8E%E7%9F%A5%E6%A7%BD%E5%A4%B4%E6%89%A3%E8%82%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -21,8 +21,8 @@
 2. [沉迷短剧的人就像掉进了杀猪盘](https://www.baidu.com/s?wd=%E6%B2%89%E8%BF%B7%E7%9F%AD%E5%89%A7%E7%9A%84%E4%BA%BA%E5%B0%B1%E5%83%8F%E6%8E%89%E8%BF%9B%E4%BA%86%E6%9D%80%E7%8C%AA%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [路边卖淀粉肠阿姨主动出示声明书](https://www.baidu.com/s?wd=%E8%B7%AF%E8%BE%B9%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E9%98%BF%E5%A7%A8%E4%B8%BB%E5%8A%A8%E5%87%BA%E7%A4%BA%E5%A3%B0%E6%98%8E%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [不负重托办好学校思想政治理论课](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B4%9F%E9%87%8D%E6%89%98%E5%8A%9E%E5%A5%BD%E5%AD%A6%E6%A0%A1%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [七年后宇文玥被薅头发捞上岸](https://www.baidu.com/s?wd=%E4%B8%83%E5%B9%B4%E5%90%8E%E5%AE%87%E6%96%87%E7%8E%A5%E8%A2%AB%E8%96%85%E5%A4%B4%E5%8F%91%E6%8D%9E%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [寝室梦魇：学姐21天多次霸凌他人](https://www.baidu.com/s?wd=%E5%AF%9D%E5%AE%A4%E6%A2%A6%E9%AD%87%EF%BC%9A%E5%AD%A6%E5%A7%9021%E5%A4%A9%E5%A4%9A%E6%AC%A1%E9%9C%B8%E5%87%8C%E4%BB%96%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [寝室梦魇：学姐21天多次霸凌他人](https://www.baidu.com/s?wd=%E5%AF%9D%E5%AE%A4%E6%A2%A6%E9%AD%87%EF%BC%9A%E5%AD%A6%E5%A7%9021%E5%A4%A9%E5%A4%9A%E6%AC%A1%E9%9C%B8%E5%87%8C%E4%BB%96%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [七年后宇文玥被薅头发捞上岸](https://www.baidu.com/s?wd=%E4%B8%83%E5%B9%B4%E5%90%8E%E5%AE%87%E6%96%87%E7%8E%A5%E8%A2%AB%E8%96%85%E5%A4%B4%E5%8F%91%E6%8D%9E%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老人退休金被冒领16年 金额超20万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%80%80%E4%BC%91%E9%87%91%E8%A2%AB%E5%86%92%E9%A2%8616%E5%B9%B4+%E9%87%91%E9%A2%9D%E8%B6%8520%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [兔狲“狲大娘”因病死亡](https://www.baidu.com/s?wd=%E5%85%94%E7%8B%B2%E2%80%9C%E7%8B%B2%E5%A4%A7%E5%A8%98%E2%80%9D%E5%9B%A0%E7%97%85%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,8 +33,8 @@
 2. [沉迷短剧的人就像掉进了杀猪盘](https://www.baidu.com/s?wd=%E6%B2%89%E8%BF%B7%E7%9F%AD%E5%89%A7%E7%9A%84%E4%BA%BA%E5%B0%B1%E5%83%8F%E6%8E%89%E8%BF%9B%E4%BA%86%E6%9D%80%E7%8C%AA%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [路边卖淀粉肠阿姨主动出示声明书](https://www.baidu.com/s?wd=%E8%B7%AF%E8%BE%B9%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E9%98%BF%E5%A7%A8%E4%B8%BB%E5%8A%A8%E5%87%BA%E7%A4%BA%E5%A3%B0%E6%98%8E%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [不负重托办好学校思想政治理论课](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B4%9F%E9%87%8D%E6%89%98%E5%8A%9E%E5%A5%BD%E5%AD%A6%E6%A0%A1%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [七年后宇文玥被薅头发捞上岸](https://www.baidu.com/s?wd=%E4%B8%83%E5%B9%B4%E5%90%8E%E5%AE%87%E6%96%87%E7%8E%A5%E8%A2%AB%E8%96%85%E5%A4%B4%E5%8F%91%E6%8D%9E%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [寝室梦魇：学姐21天多次霸凌他人](https://www.baidu.com/s?wd=%E5%AF%9D%E5%AE%A4%E6%A2%A6%E9%AD%87%EF%BC%9A%E5%AD%A6%E5%A7%9021%E5%A4%A9%E5%A4%9A%E6%AC%A1%E9%9C%B8%E5%87%8C%E4%BB%96%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [寝室梦魇：学姐21天多次霸凌他人](https://www.baidu.com/s?wd=%E5%AF%9D%E5%AE%A4%E6%A2%A6%E9%AD%87%EF%BC%9A%E5%AD%A6%E5%A7%9021%E5%A4%A9%E5%A4%9A%E6%AC%A1%E9%9C%B8%E5%87%8C%E4%BB%96%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [七年后宇文玥被薅头发捞上岸](https://www.baidu.com/s?wd=%E4%B8%83%E5%B9%B4%E5%90%8E%E5%AE%87%E6%96%87%E7%8E%A5%E8%A2%AB%E8%96%85%E5%A4%B4%E5%8F%91%E6%8D%9E%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [老人退休金被冒领16年 金额超20万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%80%80%E4%BC%91%E9%87%91%E8%A2%AB%E5%86%92%E9%A2%8616%E5%B9%B4+%E9%87%91%E9%A2%9D%E8%B6%8520%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [兔狲“狲大娘”因病死亡](https://www.baidu.com/s?wd=%E5%85%94%E7%8B%B2%E2%80%9C%E7%8B%B2%E5%A4%A7%E5%A8%98%E2%80%9D%E5%9B%A0%E7%97%85%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
