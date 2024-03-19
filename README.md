@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 11:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 12:00:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [迪丽热巴陈星旭都是浓颜](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%99%88%E6%98%9F%E6%97%AD%E9%83%BD%E6%98%AF%E6%B5%93%E9%A2%9C%23&t=31&band_rank=5&Refer=top)<br />
 6. [凯特王妃疑术后首次露面](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%9C%AF%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [渤海发现1.04亿吨油田](https://s.weibo.com/weibo?q=%23%E6%B8%A4%E6%B5%B7%E5%8F%91%E7%8E%B01.04%E4%BA%BF%E5%90%A8%E6%B2%B9%E7%94%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [黑马情侣提车](https://s.weibo.com/weibo?q=%E9%BB%91%E9%A9%AC%E6%83%85%E4%BE%A3%E6%8F%90%E8%BD%A6&t=31&band_rank=8&Refer=top)<br />
+8. [蔡元培](https://s.weibo.com/weibo?q=%E8%94%A1%E5%85%83%E5%9F%B9&t=31&band_rank=8&Refer=top)<br />
 9. [长风破浪改名追风者](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E7%A0%B4%E6%B5%AA%E6%94%B9%E5%90%8D%E8%BF%BD%E9%A3%8E%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
