@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 19:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 19:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周杰伦一审败诉网易](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%80%E5%AE%A1%E8%B4%A5%E8%AF%89%E7%BD%91%E6%98%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈哲远瘦了](https://s.weibo.com/weibo?q=%E9%99%88%E5%93%B2%E8%BF%9C%E7%98%A6%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [庆余年](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
-9. [甘肃文旅喊麦宣传天水麻辣烫](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E6%96%87%E6%97%85%E5%96%8A%E9%BA%A6%E5%AE%A3%E4%BC%A0%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [接下来杭州是这样的](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%B8%8B%E6%9D%A5%E6%9D%AD%E5%B7%9E%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
