@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 08:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 08:18:01</h4></div>
 
 > 微博  
 
-1. [路边卖淀粉肠阿姨主动出示声明书](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%BE%B9%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E9%98%BF%E5%A7%A8%E4%B8%BB%E5%8A%A8%E5%87%BA%E7%A4%BA%E5%A3%B0%E6%98%8E%E4%B9%A6%23&t=31&band_rank=1&Refer=top)<br />
-2. [凯特](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9&t=31&band_rank=2&Refer=top)<br />
+1. [凯特](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9&t=31&band_rank=1&Refer=top)<br />
+2. [路边卖淀粉肠阿姨主动出示声明书](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%BE%B9%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E9%98%BF%E5%A7%A8%E4%B8%BB%E5%8A%A8%E5%87%BA%E7%A4%BA%E5%A3%B0%E6%98%8E%E4%B9%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [这是一堂生动的思政课](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%80%E5%A0%82%E7%94%9F%E5%8A%A8%E7%9A%84%E6%80%9D%E6%94%BF%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [睡醒之后一定要改掉这4个坏习惯](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E9%86%92%E4%B9%8B%E5%90%8E%E4%B8%80%E5%AE%9A%E8%A6%81%E6%94%B9%E6%8E%89%E8%BF%994%E4%B8%AA%E5%9D%8F%E4%B9%A0%E6%83%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [凯特多位朋友发声](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E5%A4%9A%E4%BD%8D%E6%9C%8B%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top)<br />
