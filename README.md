@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 09:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 09:31:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [睡醒之后一定要改掉这4个坏习惯](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E9%86%92%E4%B9%8B%E5%90%8E%E4%B8%80%E5%AE%9A%E8%A6%81%E6%94%B9%E6%8E%89%E8%BF%994%E4%B8%AA%E5%9D%8F%E4%B9%A0%E6%83%AF%23&t=31&band_rank=5&Refer=top)<br />
 6. [郑俊英出狱](https://s.weibo.com/weibo?q=%E9%83%91%E4%BF%8A%E8%8B%B1%E5%87%BA%E7%8B%B1&t=31&band_rank=6&Refer=top)<br />
 7. [苹果称128GB的iPhone也有充裕空间](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%A7%B0128GB%E7%9A%84iPhone%E4%B9%9F%E6%9C%89%E5%85%85%E8%A3%95%E7%A9%BA%E9%97%B4%23&t=31&band_rank=7&Refer=top)<br />
-8. [凯特](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9&t=31&band_rank=8&Refer=top)<br />
-9. [蜜雪冰城回应涨价1元尚未全国推广](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B71%E5%85%83%E5%B0%9A%E6%9C%AA%E5%85%A8%E5%9B%BD%E6%8E%A8%E5%B9%BF%23&t=31&band_rank=9&Refer=top)<br />
+8. [蜜雪冰城回应涨价1元尚未全国推广](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B71%E5%85%83%E5%B0%9A%E6%9C%AA%E5%85%A8%E5%9B%BD%E6%8E%A8%E5%B9%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [凯特](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [沉迷短剧的人就像掉进了杀猪盘](https://www.baidu.com/s?wd=%E6%B2%89%E8%BF%B7%E7%9F%AD%E5%89%A7%E7%9A%84%E4%BA%BA%E5%B0%B1%E5%83%8F%E6%8E%89%E8%BF%9B%E4%BA%86%E6%9D%80%E7%8C%AA%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [不负重托办好学校思想政治理论课](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B4%9F%E9%87%8D%E6%89%98%E5%8A%9E%E5%A5%BD%E5%AD%A6%E6%A0%A1%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [七年后宇文玥被薅头发捞上岸](https://www.baidu.com/s?wd=%E4%B8%83%E5%B9%B4%E5%90%8E%E5%AE%87%E6%96%87%E7%8E%A5%E8%A2%AB%E8%96%85%E5%A4%B4%E5%8F%91%E6%8D%9E%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [路边卖淀粉肠阿姨主动出示声明书](https://www.baidu.com/s?wd=%E8%B7%AF%E8%BE%B9%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E9%98%BF%E5%A7%A8%E4%B8%BB%E5%8A%A8%E5%87%BA%E7%A4%BA%E5%A3%B0%E6%98%8E%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老人退休金被冒领16年 金额超20万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%80%80%E4%BC%91%E9%87%91%E8%A2%AB%E5%86%92%E9%A2%8616%E5%B9%B4+%E9%87%91%E9%A2%9D%E8%B6%8520%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南驻马店通报西平中学跳楼事件](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E9%A9%BB%E9%A9%AC%E5%BA%97%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%B9%B3%E4%B8%AD%E5%AD%A6%E8%B7%B3%E6%A5%BC%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [河南驻马店通报西平中学跳楼事件](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E9%A9%BB%E9%A9%AC%E5%BA%97%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%B9%B3%E4%B8%AD%E5%AD%A6%E8%B7%B3%E6%A5%BC%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [路边卖淀粉肠阿姨主动出示声明书](https://www.baidu.com/s?wd=%E8%B7%AF%E8%BE%B9%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E9%98%BF%E5%A7%A8%E4%B8%BB%E5%8A%A8%E5%87%BA%E7%A4%BA%E5%A3%B0%E6%98%8E%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人退休金被冒领16年 金额超20万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%80%80%E4%BC%91%E9%87%91%E8%A2%AB%E5%86%92%E9%A2%8616%E5%B9%B4+%E9%87%91%E9%A2%9D%E8%B6%8520%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [沉迷短剧的人就像掉进了杀猪盘](https://www.baidu.com/s?wd=%E6%B2%89%E8%BF%B7%E7%9F%AD%E5%89%A7%E7%9A%84%E4%BA%BA%E5%B0%B1%E5%83%8F%E6%8E%89%E8%BF%9B%E4%BA%86%E6%9D%80%E7%8C%AA%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [不负重托办好学校思想政治理论课](https://www.baidu.com/s?wd=%E4%B8%8D%E8%B4%9F%E9%87%8D%E6%89%98%E5%8A%9E%E5%A5%BD%E5%AD%A6%E6%A0%A1%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [七年后宇文玥被薅头发捞上岸](https://www.baidu.com/s?wd=%E4%B8%83%E5%B9%B4%E5%90%8E%E5%AE%87%E6%96%87%E7%8E%A5%E8%A2%AB%E8%96%85%E5%A4%B4%E5%8F%91%E6%8D%9E%E4%B8%8A%E5%B2%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [路边卖淀粉肠阿姨主动出示声明书](https://www.baidu.com/s?wd=%E8%B7%AF%E8%BE%B9%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E9%98%BF%E5%A7%A8%E4%B8%BB%E5%8A%A8%E5%87%BA%E7%A4%BA%E5%A3%B0%E6%98%8E%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [老人退休金被冒领16年 金额超20万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%80%80%E4%BC%91%E9%87%91%E8%A2%AB%E5%86%92%E9%A2%8616%E5%B9%B4+%E9%87%91%E9%A2%9D%E8%B6%8520%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [河南驻马店通报西平中学跳楼事件](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E9%A9%BB%E9%A9%AC%E5%BA%97%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%B9%B3%E4%B8%AD%E5%AD%A6%E8%B7%B3%E6%A5%BC%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [河南驻马店通报西平中学跳楼事件](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E9%A9%BB%E9%A9%AC%E5%BA%97%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%B9%B3%E4%B8%AD%E5%AD%A6%E8%B7%B3%E6%A5%BC%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [路边卖淀粉肠阿姨主动出示声明书](https://www.baidu.com/s?wd=%E8%B7%AF%E8%BE%B9%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E9%98%BF%E5%A7%A8%E4%B8%BB%E5%8A%A8%E5%87%BA%E7%A4%BA%E5%A3%B0%E6%98%8E%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [老人退休金被冒领16年 金额超20万](https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%80%80%E4%BC%91%E9%87%91%E8%A2%AB%E5%86%92%E9%A2%8616%E5%B9%B4+%E9%87%91%E9%A2%9D%E8%B6%8520%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [重庆一大楼火灾致伤亡不实](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B4%E4%BC%A4%E4%BA%A1%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
