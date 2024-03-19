@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 22:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 22:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [林更新回复评论](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E5%9B%9E%E5%A4%8D%E8%AF%84%E8%AE%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [2大学生合买2张彩票中20万后1人不认账](https://s.weibo.com/weibo?q=%232%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%88%E4%B9%B02%E5%BC%A0%E5%BD%A9%E7%A5%A8%E4%B8%AD20%E4%B8%87%E5%90%8E1%E4%BA%BA%E4%B8%8D%E8%AE%A4%E8%B4%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [朱梓骁 纪凌尘是我的贵人](https://s.weibo.com/weibo?q=%E6%9C%B1%E6%A2%93%E9%AA%81%20%E7%BA%AA%E5%87%8C%E5%B0%98%E6%98%AF%E6%88%91%E7%9A%84%E8%B4%B5%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
-8. [妈妈让我边考研边考公边找工作](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E8%AE%A9%E6%88%91%E8%BE%B9%E8%80%83%E7%A0%94%E8%BE%B9%E8%80%83%E5%85%AC%E8%BE%B9%E6%89%BE%E5%B7%A5%E4%BD%9C&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖玄学](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8E%84%E5%AD%A6&t=31&band_rank=9&Refer=top)<br />
+8. [赵丽颖玄学](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8E%84%E5%AD%A6&t=31&band_rank=8&Refer=top)<br />
+9. [妈妈让我边考研边考公边找工作](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E8%AE%A9%E6%88%91%E8%BE%B9%E8%80%83%E7%A0%94%E8%BE%B9%E8%80%83%E5%85%AC%E8%BE%B9%E6%89%BE%E5%B7%A5%E4%BD%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
