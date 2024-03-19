@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 13:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 13:21:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [瑞幸咖啡线下点单存价差](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E7%BA%BF%E4%B8%8B%E7%82%B9%E5%8D%95%E5%AD%98%E4%BB%B7%E5%B7%AE%23&t=31&band_rank=4&Refer=top)<br />
 5. [嫡校长](https://s.weibo.com/weibo?q=%E5%AB%A1%E6%A0%A1%E9%95%BF&t=31&band_rank=5&Refer=top)<br />
 6. [凯特王妃疑术后首次露面](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%9C%AF%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=6&Refer=top)<br />
-7. [渤海发现1.04亿吨油田](https://s.weibo.com/weibo?q=%23%E6%B8%A4%E6%B5%B7%E5%8F%91%E7%8E%B01.04%E4%BA%BF%E5%90%A8%E6%B2%B9%E7%94%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [迪丽热巴陈星旭都是浓颜](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%99%88%E6%98%9F%E6%97%AD%E9%83%BD%E6%98%AF%E6%B5%93%E9%A2%9C%23&t=31&band_rank=8&Refer=top)<br />
+7. [迪丽热巴陈星旭都是浓颜](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%99%88%E6%98%9F%E6%97%AD%E9%83%BD%E6%98%AF%E6%B5%93%E9%A2%9C%23&t=31&band_rank=7&Refer=top)<br />
+8. [渤海发现1.04亿吨油田](https://s.weibo.com/weibo?q=%23%E6%B8%A4%E6%B5%B7%E5%8F%91%E7%8E%B01.04%E4%BA%BF%E5%90%A8%E6%B2%B9%E7%94%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [男子被流浪猫绊倒投喂者赔24万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E6%B5%81%E6%B5%AA%E7%8C%AB%E7%BB%8A%E5%80%92%E6%8A%95%E5%96%82%E8%80%85%E8%B5%9424%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
