@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 22:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 22:48:01</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平走进农田考察春耕备耕情况](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B5%B0%E8%BF%9B%E5%86%9C%E7%94%B0%E8%80%83%E5%AF%9F%E6%98%A5%E8%80%95%E5%A4%87%E8%80%95%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [技术创新驱动低碳未来](https://www.baidu.com/s?wd=%E6%8A%80%E6%9C%AF%E5%88%9B%E6%96%B0%E9%A9%B1%E5%8A%A8%E4%BD%8E%E7%A2%B3%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [香港通过《维护国家安全条例》](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%80%9A%E8%BF%87%E3%80%8A%E7%BB%B4%E6%8A%A4%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%9D%A1%E4%BE%8B%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [两大学生合买彩票中奖一人不认账](https://www.baidu.com/s?wd=%E4%B8%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%88%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96%E4%B8%80%E4%BA%BA%E4%B8%8D%E8%AE%A4%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让美丽中国“从细节出发”](https://www.baidu.com/s?wd=%E8%AE%A9%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E2%80%9C%E4%BB%8E%E7%BB%86%E8%8A%82%E5%87%BA%E5%8F%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平走进农田考察春耕备耕情况](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B5%B0%E8%BF%9B%E5%86%9C%E7%94%B0%E8%80%83%E5%AF%9F%E6%98%A5%E8%80%95%E5%A4%87%E8%80%95%E6%83%85%E5%86%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [技术创新驱动低碳未来](https://www.baidu.com/s?wd=%E6%8A%80%E6%9C%AF%E5%88%9B%E6%96%B0%E9%A9%B1%E5%8A%A8%E4%BD%8E%E7%A2%B3%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [香港通过《维护国家安全条例》](https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%80%9A%E8%BF%87%E3%80%8A%E7%BB%B4%E6%8A%A4%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%9D%A1%E4%BE%8B%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [两大学生合买彩票中奖一人不认账](https://www.baidu.com/s?wd=%E4%B8%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%88%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96%E4%B8%80%E4%BA%BA%E4%B8%8D%E8%AE%A4%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [让美丽中国“从细节出发”](https://www.baidu.com/s?wd=%E8%AE%A9%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E2%80%9C%E4%BB%8E%E7%BB%86%E8%8A%82%E5%87%BA%E5%8F%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
