@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 08:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 08:31:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [路边卖淀粉肠阿姨主动出示声明书](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%BE%B9%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E9%98%BF%E5%A7%A8%E4%B8%BB%E5%8A%A8%E5%87%BA%E7%A4%BA%E5%A3%B0%E6%98%8E%E4%B9%A6%23&t=31&band_rank=2&Refer=top)<br />
 3. [这是一堂生动的思政课](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%80%E5%A0%82%E7%94%9F%E5%8A%A8%E7%9A%84%E6%80%9D%E6%94%BF%E8%AF%BE%23&t=31&band_rank=3&Refer=top)<br />
 4. [睡醒之后一定要改掉这4个坏习惯](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E9%86%92%E4%B9%8B%E5%90%8E%E4%B8%80%E5%AE%9A%E8%A6%81%E6%94%B9%E6%8E%89%E8%BF%994%E4%B8%AA%E5%9D%8F%E4%B9%A0%E6%83%AF%23&t=31&band_rank=4&Refer=top)<br />
-5. [蜜雪冰城回应涨价1元尚未全国推广](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B71%E5%85%83%E5%B0%9A%E6%9C%AA%E5%85%A8%E5%9B%BD%E6%8E%A8%E5%B9%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [女孩拼2年考研上岸一学期后退学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8B%BC2%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%90%8E%E9%80%80%E5%AD%A6%23&t=31&band_rank=6&Refer=top)<br />
-7. [凯特多位朋友发声](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E5%A4%9A%E4%BD%8D%E6%9C%8B%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top)<br />
+5. [她和智障哥哥唯一合照是陌生人拍的](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E5%92%8C%E6%99%BA%E9%9A%9C%E5%93%A5%E5%93%A5%E5%94%AF%E4%B8%80%E5%90%88%E7%85%A7%E6%98%AF%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8B%8D%E7%9A%84%23&t=31&band_rank=5&Refer=top)<br />
+6. [蜜雪冰城回应涨价1元尚未全国推广](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B71%E5%85%83%E5%B0%9A%E6%9C%AA%E5%85%A8%E5%9B%BD%E6%8E%A8%E5%B9%BF%23&t=31&band_rank=6&Refer=top)<br />
+7. [女孩拼2年考研上岸一学期后退学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8B%BC2%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%90%8E%E9%80%80%E5%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [毕竟是九亿少女的梦](https://s.weibo.com/weibo?q=%E6%AF%95%E7%AB%9F%E6%98%AF%E4%B9%9D%E4%BA%BF%E5%B0%91%E5%A5%B3%E7%9A%84%E6%A2%A6&t=31&band_rank=8&Refer=top)<br />
-9. [卫健委回应19岁少年疑卖血后猝死](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%9419%E5%B2%81%E5%B0%91%E5%B9%B4%E7%96%91%E5%8D%96%E8%A1%80%E5%90%8E%E7%8C%9D%E6%AD%BB%23&t=31&band_rank=9&Refer=top)<br />
+9. [凯特多位朋友发声](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E5%A4%9A%E4%BD%8D%E6%9C%8B%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
