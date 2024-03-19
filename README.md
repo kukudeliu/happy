@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 11:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 11:51:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [小米测试车被天津高速抓到逃费](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B5%8B%E8%AF%95%E8%BD%A6%E8%A2%AB%E5%A4%A9%E6%B4%A5%E9%AB%98%E9%80%9F%E6%8A%93%E5%88%B0%E9%80%83%E8%B4%B9%23&t=31&band_rank=5&Refer=top)<br />
 6. [凯特王妃疑术后首次露面](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%9C%AF%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [黑马情侣提车](https://s.weibo.com/weibo?q=%E9%BB%91%E9%A9%AC%E6%83%85%E4%BE%A3%E6%8F%90%E8%BD%A6&t=31&band_rank=7&Refer=top)<br />
-8. [反向消费有多爽](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%90%91%E6%B6%88%E8%B4%B9%E6%9C%89%E5%A4%9A%E7%88%BD%23&t=31&band_rank=8&Refer=top)<br />
+8. [渤海发现1.04亿吨油田](https://s.weibo.com/weibo?q=%23%E6%B8%A4%E6%B5%B7%E5%8F%91%E7%8E%B01.04%E4%BA%BF%E5%90%A8%E6%B2%B9%E7%94%B0%23&t=31&band_rank=8&Refer=top)<br />
 9. [长风破浪改名追风者](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E7%A0%B4%E6%B5%AA%E6%94%B9%E5%90%8D%E8%BF%BD%E9%A3%8E%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
