@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 17:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 17:46:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [春来种下丰产粮](https://www.baidu.com/s?wd=%E6%98%A5%E6%9D%A5%E7%A7%8D%E4%B8%8B%E4%B8%B0%E4%BA%A7%E7%B2%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西双版纳热带植物园回应蜉蝣大爆发](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E7%83%AD%E5%B8%A6%E6%A4%8D%E7%89%A9%E5%9B%AD%E5%9B%9E%E5%BA%94%E8%9C%89%E8%9D%A3%E5%A4%A7%E7%88%86%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [周杰伦一审败诉网易](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%80%E5%AE%A1%E8%B4%A5%E8%AF%89%E7%BD%91%E6%98%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男孩8年未见母亲被告知被遗忘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A98%E5%B9%B4%E6%9C%AA%E8%A7%81%E6%AF%8D%E4%BA%B2%E8%A2%AB%E5%91%8A%E7%9F%A5%E8%A2%AB%E9%81%97%E5%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张立群任西安交通大学校长](https://www.baidu.com/s?wd=%E5%BC%A0%E7%AB%8B%E7%BE%A4%E4%BB%BB%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [春日AI学季一起涨新知](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5AI%E5%AD%A6%E5%AD%A3%E4%B8%80%E8%B5%B7%E6%B6%A8%E6%96%B0%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西核潜艇车间生产核弹头系谣言](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%A0%B8%E6%BD%9C%E8%89%87%E8%BD%A6%E9%97%B4%E7%94%9F%E4%BA%A7%E6%A0%B8%E5%BC%B9%E5%A4%B4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [春来种下丰产粮](https://www.baidu.com/s?wd=%E6%98%A5%E6%9D%A5%E7%A7%8D%E4%B8%8B%E4%B8%B0%E4%BA%A7%E7%B2%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [西双版纳热带植物园回应蜉蝣大爆发](https://www.baidu.com/s?wd=%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E7%83%AD%E5%B8%A6%E6%A4%8D%E7%89%A9%E5%9B%AD%E5%9B%9E%E5%BA%94%E8%9C%89%E8%9D%A3%E5%A4%A7%E7%88%86%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [周杰伦一审败诉网易](https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%80%E5%AE%A1%E8%B4%A5%E8%AF%89%E7%BD%91%E6%98%93&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男孩8年未见母亲被告知被遗忘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A98%E5%B9%B4%E6%9C%AA%E8%A7%81%E6%AF%8D%E4%BA%B2%E8%A2%AB%E5%91%8A%E7%9F%A5%E8%A2%AB%E9%81%97%E5%BF%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [张立群任西安交通大学校长](https://www.baidu.com/s?wd=%E5%BC%A0%E7%AB%8B%E7%BE%A4%E4%BB%BB%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [春日AI学季一起涨新知](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5AI%E5%AD%A6%E5%AD%A3%E4%B8%80%E8%B5%B7%E6%B6%A8%E6%96%B0%E7%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广西核潜艇车间生产核弹头系谣言](https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%A0%B8%E6%BD%9C%E8%89%87%E8%BD%A6%E9%97%B4%E7%94%9F%E4%BA%A7%E6%A0%B8%E5%BC%B9%E5%A4%B4%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
