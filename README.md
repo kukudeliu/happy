@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 00:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 00:19:01</h4></div>
 
 > 微博  
 
 1. [当你早睡一次 你的器官](https://s.weibo.com/weibo?q=%E5%BD%93%E4%BD%A0%E6%97%A9%E7%9D%A1%E4%B8%80%E6%AC%A1%20%E4%BD%A0%E7%9A%84%E5%99%A8%E5%AE%98&t=31&band_rank=1&Refer=top)<br />
-2. [上班是真的谈不到对象](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E6%98%AF%E7%9C%9F%E7%9A%84%E8%B0%88%E4%B8%8D%E5%88%B0%E5%AF%B9%E8%B1%A1%23&t=31&band_rank=2&Refer=top)<br />
+2. [淀粉肠小王子日销售额涨超10倍](https://s.weibo.com/weibo?q=%23%E6%B7%80%E7%B2%89%E8%82%A0%E5%B0%8F%E7%8E%8B%E5%AD%90%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E6%B6%A8%E8%B6%8510%E5%80%8D%23&t=31&band_rank=2&Refer=top)<br />
 3. [第十一届中国网络视听大会](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%8A%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E5%A4%A7%E4%BC%9A%23&t=31&band_rank=3&Refer=top)<br />
 4. [微信 月经提醒](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%20%E6%9C%88%E7%BB%8F%E6%8F%90%E9%86%92&t=31&band_rank=4&Refer=top)<br />
-5. [淀粉肠小王子日销售额涨超10倍](https://s.weibo.com/weibo?q=%23%E6%B7%80%E7%B2%89%E8%82%A0%E5%B0%8F%E7%8E%8B%E5%AD%90%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E6%B6%A8%E8%B6%8510%E5%80%8D%23&t=31&band_rank=5&Refer=top)<br />
+5. [上班是真的谈不到对象](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E6%98%AF%E7%9C%9F%E7%9A%84%E8%B0%88%E4%B8%8D%E5%88%B0%E5%AF%B9%E8%B1%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [想睡一觉躺挣5千结果进去了](https://s.weibo.com/weibo?q=%23%E6%83%B3%E7%9D%A1%E4%B8%80%E8%A7%89%E8%BA%BA%E6%8C%A35%E5%8D%83%E7%BB%93%E6%9E%9C%E8%BF%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [英媒发布凯特王妃现身视频引网友质疑](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AA%92%E5%8F%91%E5%B8%83%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%8E%B0%E8%BA%AB%E8%A7%86%E9%A2%91%E5%BC%95%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵丽颖玄学](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8E%84%E5%AD%A6&t=31&band_rank=8&Refer=top)<br />
@@ -24,7 +24,7 @@
 5. [19岁小伙救下5人后溺亡 多方发声](https://www.baidu.com/s?wd=19%E5%B2%81%E5%B0%8F%E4%BC%99%E6%95%91%E4%B8%8B5%E4%BA%BA%E5%90%8E%E6%BA%BA%E4%BA%A1+%E5%A4%9A%E6%96%B9%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [卫健委通报少年有偿捐血浆16次猝死](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5%E5%B0%91%E5%B9%B4%E6%9C%89%E5%81%BF%E6%8D%90%E8%A1%80%E6%B5%8616%E6%AC%A1%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [汪小菲曝离婚始末](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B0%8F%E8%8F%B2%E6%9B%9D%E7%A6%BB%E5%A9%9A%E5%A7%8B%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子被猫抓伤后确诊“猫抓病”](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E7%8C%AB%E6%8A%93%E4%BC%A4%E5%90%8E%E7%A1%AE%E8%AF%8A%E2%80%9C%E7%8C%AB%E6%8A%93%E7%97%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [手机成瘾是影响睡眠质量重要因素](https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%88%90%E7%98%BE%E6%98%AF%E5%BD%B1%E5%93%8D%E7%9D%A1%E7%9C%A0%E8%B4%A8%E9%87%8F%E9%87%8D%E8%A6%81%E5%9B%A0%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅江山火三名扑火人员牺牲系谣言](https://www.baidu.com/s?wd=%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E4%B8%89%E5%90%8D%E6%89%91%E7%81%AB%E4%BA%BA%E5%91%98%E7%89%BA%E7%89%B2%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [19岁小伙救下5人后溺亡 多方发声](https://www.baidu.com/s?wd=19%E5%B2%81%E5%B0%8F%E4%BC%99%E6%95%91%E4%B8%8B5%E4%BA%BA%E5%90%8E%E6%BA%BA%E4%BA%A1+%E5%A4%9A%E6%96%B9%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [卫健委通报少年有偿捐血浆16次猝死](https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5%E5%B0%91%E5%B9%B4%E6%9C%89%E5%81%BF%E6%8D%90%E8%A1%80%E6%B5%8616%E6%AC%A1%E7%8C%9D%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [汪小菲曝离婚始末](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B0%8F%E8%8F%B2%E6%9B%9D%E7%A6%BB%E5%A9%9A%E5%A7%8B%E6%9C%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子被猫抓伤后确诊“猫抓病”](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E7%8C%AB%E6%8A%93%E4%BC%A4%E5%90%8E%E7%A1%AE%E8%AF%8A%E2%80%9C%E7%8C%AB%E6%8A%93%E7%97%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [手机成瘾是影响睡眠质量重要因素](https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%88%90%E7%98%BE%E6%98%AF%E5%BD%B1%E5%93%8D%E7%9D%A1%E7%9C%A0%E8%B4%A8%E9%87%8F%E9%87%8D%E8%A6%81%E5%9B%A0%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [雅江山火三名扑火人员牺牲系谣言](https://www.baidu.com/s?wd=%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E4%B8%89%E5%90%8D%E6%89%91%E7%81%AB%E4%BA%BA%E5%91%98%E7%89%BA%E7%89%B2%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
