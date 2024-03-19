@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 08:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 08:08:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [睡醒之后一定要改掉这4个坏习惯](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E9%86%92%E4%B9%8B%E5%90%8E%E4%B8%80%E5%AE%9A%E8%A6%81%E6%94%B9%E6%8E%89%E8%BF%994%E4%B8%AA%E5%9D%8F%E4%B9%A0%E6%83%AF%23&t=31&band_rank=4&Refer=top)<br />
 5. [女孩拼2年考研上岸一学期后退学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8B%BC2%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%90%8E%E9%80%80%E5%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [凯特](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9&t=31&band_rank=6&Refer=top)<br />
-7. [毕竟是九亿少女的梦](https://s.weibo.com/weibo?q=%E6%AF%95%E7%AB%9F%E6%98%AF%E4%B9%9D%E4%BA%BF%E5%B0%91%E5%A5%B3%E7%9A%84%E6%A2%A6&t=31&band_rank=7&Refer=top)<br />
-8. [比酒精还厉害的肝脏刺客](https://s.weibo.com/weibo?q=%E6%AF%94%E9%85%92%E7%B2%BE%E8%BF%98%E5%8E%89%E5%AE%B3%E7%9A%84%E8%82%9D%E8%84%8F%E5%88%BA%E5%AE%A2&t=31&band_rank=8&Refer=top)<br />
+7. [比酒精还厉害的肝脏刺客](https://s.weibo.com/weibo?q=%E6%AF%94%E9%85%92%E7%B2%BE%E8%BF%98%E5%8E%89%E5%AE%B3%E7%9A%84%E8%82%9D%E8%84%8F%E5%88%BA%E5%AE%A2&t=31&band_rank=7&Refer=top)<br />
+8. [毕竟是九亿少女的梦](https://s.weibo.com/weibo?q=%E6%AF%95%E7%AB%9F%E6%98%AF%E4%B9%9D%E4%BA%BF%E5%B0%91%E5%A5%B3%E7%9A%84%E6%A2%A6&t=31&band_rank=8&Refer=top)<br />
 9. [早上六点起床跟八点起床的区别](https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B8%8A%E5%85%AD%E7%82%B9%E8%B5%B7%E5%BA%8A%E8%B7%9F%E5%85%AB%E7%82%B9%E8%B5%B7%E5%BA%8A%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
