@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 21:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 21:12:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [妈妈让我边考研边考公边找工作](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E8%AE%A9%E6%88%91%E8%BE%B9%E8%80%83%E7%A0%94%E8%BE%B9%E8%80%83%E5%85%AC%E8%BE%B9%E6%89%BE%E5%B7%A5%E4%BD%9C&t=31&band_rank=6&Refer=top)<br />
 7. [纪凌尘他做到了](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%E4%BB%96%E5%81%9A%E5%88%B0%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [英雄联盟](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&t=31&band_rank=8&Refer=top)<br />
-9. [请回答1988善宇近照](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%9B%9E%E7%AD%941988%E5%96%84%E5%AE%87%E8%BF%91%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [英雄联盟 进不去](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%20%E8%BF%9B%E4%B8%8D%E5%8E%BB&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
