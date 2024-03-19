@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 08:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 08:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [路边卖淀粉肠阿姨主动出示声明书](https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%BE%B9%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E9%98%BF%E5%A7%A8%E4%B8%BB%E5%8A%A8%E5%87%BA%E7%A4%BA%E5%A3%B0%E6%98%8E%E4%B9%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [凯特王妃疑术后首次露面](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%9C%AF%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [蜜雪冰城回应涨价1元尚未全国推广](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B71%E5%85%83%E5%B0%9A%E6%9C%AA%E5%85%A8%E5%9B%BD%E6%8E%A8%E5%B9%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [警方回应邯郸初中生被杀害案](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%23&t=31&band_rank=9&Refer=top)<br />
+9. [她和智障哥哥唯一合照是陌生人拍的](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E5%92%8C%E6%99%BA%E9%9A%9C%E5%93%A5%E5%93%A5%E5%94%AF%E4%B8%80%E5%90%88%E7%85%A7%E6%98%AF%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8B%8D%E7%9A%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
