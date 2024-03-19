@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 20:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 20:40:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [请回答1988善宇近照](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%9B%9E%E7%AD%941988%E5%96%84%E5%AE%87%E8%BF%91%E7%85%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [花间令低开高走](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%97%B4%E4%BB%A4%E4%BD%8E%E5%BC%80%E9%AB%98%E8%B5%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [武大声明](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%A3%B0%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
-7. [LGD战胜WBG](https://s.weibo.com/weibo?q=%23LGD%E6%88%98%E8%83%9CWBG%23&t=31&band_rank=7&Refer=top)<br />
-8. [淀粉肠](https://s.weibo.com/weibo?q=%E6%B7%80%E7%B2%89%E8%82%A0&t=31&band_rank=8&Refer=top)<br />
+7. [淀粉肠](https://s.weibo.com/weibo?q=%E6%B7%80%E7%B2%89%E8%82%A0&t=31&band_rank=7&Refer=top)<br />
+8. [LGD战胜WBG](https://s.weibo.com/weibo?q=%23LGD%E6%88%98%E8%83%9CWBG%23&t=31&band_rank=8&Refer=top)<br />
 9. [维护国家安全条例草案三读审议通过](https://s.weibo.com/weibo?q=%23%E7%BB%B4%E6%8A%A4%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%9D%A1%E4%BE%8B%E8%8D%89%E6%A1%88%E4%B8%89%E8%AF%BB%E5%AE%A1%E8%AE%AE%E9%80%9A%E8%BF%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
