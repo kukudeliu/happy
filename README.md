@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 10:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-19 10:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [凯特王妃疑术后首次露面](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%96%91%E6%9C%AF%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [李惠利吴世勋裴秀智毕业合照](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%A0%E5%88%A9%E5%90%B4%E4%B8%96%E5%8B%8B%E8%A3%B4%E7%A7%80%E6%99%BA%E6%AF%95%E4%B8%9A%E5%90%88%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [苹果称128GB的iPhone也有充裕空间](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%A7%B0128GB%E7%9A%84iPhone%E4%B9%9F%E6%9C%89%E5%85%85%E8%A3%95%E7%A9%BA%E9%97%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [世界排名王楚钦三项第一](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%89%E9%A1%B9%E7%AC%AC%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [教育部发布24种本科新增专业](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%8324%E7%A7%8D%E6%9C%AC%E7%A7%91%E6%96%B0%E5%A2%9E%E4%B8%93%E4%B8%9A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
