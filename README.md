@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 02:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 02:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [男生美国卖三蹦子首日进账1万美金](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%BE%8E%E5%9B%BD%E5%8D%96%E4%B8%89%E8%B9%A6%E5%AD%90%E9%A6%96%E6%97%A5%E8%BF%9B%E8%B4%A61%E4%B8%87%E7%BE%8E%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子怀孕7个月刚独自待5分钟就倒地](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%957%E4%B8%AA%E6%9C%88%E5%88%9A%E7%8B%AC%E8%87%AA%E5%BE%855%E5%88%86%E9%92%9F%E5%B0%B1%E5%80%92%E5%9C%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [鹿晗给自己整不好意思了](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%BB%99%E8%87%AA%E5%B7%B1%E6%95%B4%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [关晓彤短发](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E7%9F%AD%E5%8F%91&t=31&band_rank=9&Refer=top)<br />
+9. [天水麻辣烫成都分烫火到闭店](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%88%90%E9%83%BD%E5%88%86%E7%83%AB%E7%81%AB%E5%88%B0%E9%97%AD%E5%BA%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
