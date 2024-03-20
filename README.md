@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 17:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 17:56:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [腾讯宣布2024年回购不少于1000亿港元](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%AE%A3%E5%B8%832024%E5%B9%B4%E5%9B%9E%E8%B4%AD%E4%B8%8D%E5%B0%91%E4%BA%8E1000%E4%BA%BF%E6%B8%AF%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [C罗中国行机酒退款到账](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%B8%AD%E5%9B%BD%E8%A1%8C%E6%9C%BA%E9%85%92%E9%80%80%E6%AC%BE%E5%88%B0%E8%B4%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵丽颖方辟谣推荐知否屠二爷](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%8E%A8%E8%8D%90%E7%9F%A5%E5%90%A6%E5%B1%A0%E4%BA%8C%E7%88%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [四川麻辣烫申请出战被本地人驳回](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%94%B3%E8%AF%B7%E5%87%BA%E6%88%98%E8%A2%AB%E6%9C%AC%E5%9C%B0%E4%BA%BA%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=9&Refer=top)<br />
+9. [奔马不踏飞燕改行捣辣椒做麻辣烫了](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%AC%E4%B8%8D%E8%B8%8F%E9%A3%9E%E7%87%95%E6%94%B9%E8%A1%8C%E6%8D%A3%E8%BE%A3%E6%A4%92%E5%81%9A%E9%BA%BB%E8%BE%A3%E7%83%AB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
