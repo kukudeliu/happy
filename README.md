@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 13:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 13:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [知否屠二爷是赵丽颖推荐的](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E5%90%A6%E5%B1%A0%E4%BA%8C%E7%88%B7%E6%98%AF%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%8E%A8%E8%8D%90%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [英国王室又一合照被曝P图](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%AE%A4%E5%8F%88%E4%B8%80%E5%90%88%E7%85%A7%E8%A2%AB%E6%9B%9DP%E5%9B%BE%23&t=31&band_rank=7&Refer=top)<br />
 8. [有个姐真把千机伞做出来了](https://s.weibo.com/weibo?q=%E6%9C%89%E4%B8%AA%E5%A7%90%E7%9C%9F%E6%8A%8A%E5%8D%83%E6%9C%BA%E4%BC%9E%E5%81%9A%E5%87%BA%E6%9D%A5%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [吴磊赤膊骑车](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%E8%B5%A4%E8%86%8A%E9%AA%91%E8%BD%A6&t=31&band_rank=9&Refer=top)<br />
+9. [韩政府首次吊销离岗医生执照](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%94%BF%E5%BA%9C%E9%A6%96%E6%AC%A1%E5%90%8A%E9%94%80%E7%A6%BB%E5%B2%97%E5%8C%BB%E7%94%9F%E6%89%A7%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
