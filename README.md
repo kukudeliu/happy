@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 21:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 21:51:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [日媒称一中国富豪借给福原爱3亿日元](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%AF%8C%E8%B1%AA%E5%80%9F%E7%BB%99%E7%A6%8F%E5%8E%9F%E7%88%B13%E4%BA%BF%E6%97%A5%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [东航致132人遇难事故调查进展发布](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E8%87%B4132%E4%BA%BA%E9%81%87%E9%9A%BE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95%E5%8F%91%E5%B8%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战藏海传官服造型](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%AE%98%E6%9C%8D%E9%80%A0%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘亦菲又在撕嘴皮](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8F%88%E5%9C%A8%E6%92%95%E5%98%B4%E7%9A%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [2月龄男婴接种疫苗14天后死亡](https://s.weibo.com/weibo?q=%232%E6%9C%88%E9%BE%84%E7%94%B7%E5%A9%B4%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%9714%E5%A4%A9%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [2月龄男婴接种疫苗14天后死亡](https://s.weibo.com/weibo?q=%232%E6%9C%88%E9%BE%84%E7%94%B7%E5%A9%B4%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%9714%E5%A4%A9%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [刘亦菲又在撕嘴皮](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8F%88%E5%9C%A8%E6%92%95%E5%98%B4%E7%9A%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [主播靠辱骂母亲走红被批捕封号](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E9%9D%A0%E8%BE%B1%E9%AA%82%E6%AF%8D%E4%BA%B2%E8%B5%B0%E7%BA%A2%E8%A2%AB%E6%89%B9%E6%8D%95%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江西高速回应禁止特斯拉上高速](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [素媛案罪犯又被判了](https://www.baidu.com/s?wd=%E7%B4%A0%E5%AA%9B%E6%A1%88%E7%BD%AA%E7%8A%AF%E5%8F%88%E8%A2%AB%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东航坠机事故调查进展公布](https://www.baidu.com/s?wd=%E4%B8%9C%E8%88%AA%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [初三直通硕士？有人已被录取](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%89%E7%9B%B4%E9%80%9A%E7%A1%95%E5%A3%AB%EF%BC%9F%E6%9C%89%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [环卫工垃圾桶内捡到30万元？不实](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%86%85%E6%8D%A1%E5%88%B030%E4%B8%87%E5%85%83%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [主播靠辱骂母亲走红被批捕封号](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E9%9D%A0%E8%BE%B1%E9%AA%82%E6%AF%8D%E4%BA%B2%E8%B5%B0%E7%BA%A2%E8%A2%AB%E6%89%B9%E6%8D%95%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [江西高速回应禁止特斯拉上高速](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [素媛案罪犯又被判了](https://www.baidu.com/s?wd=%E7%B4%A0%E5%AA%9B%E6%A1%88%E7%BD%AA%E7%8A%AF%E5%8F%88%E8%A2%AB%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [东航坠机事故调查进展公布](https://www.baidu.com/s?wd=%E4%B8%9C%E8%88%AA%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [初三直通硕士？有人已被录取](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%89%E7%9B%B4%E9%80%9A%E7%A1%95%E5%A3%AB%EF%BC%9F%E6%9C%89%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [环卫工垃圾桶内捡到30万元？不实](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%86%85%E6%8D%A1%E5%88%B030%E4%B8%87%E5%85%83%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
