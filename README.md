@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 19:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 19:03:01</h4></div>
 
 > 微博  
 
 1. [东航致132人遇难事故调查进展发布](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E8%87%B4132%E4%BA%BA%E9%81%87%E9%9A%BE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95%E5%8F%91%E5%B8%83%23&t=31&band_rank=1&Refer=top)<br />
 2. [林依晨 你](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%20%E4%BD%A0&t=31&band_rank=2&Refer=top)<br />
 3. [认识你真好](https://s.weibo.com/weibo?q=%23%E8%AE%A4%E8%AF%86%E4%BD%A0%E7%9C%9F%E5%A5%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [东航](https://s.weibo.com/weibo?q=%E4%B8%9C%E8%88%AA&t=31&band_rank=4&Refer=top)<br />
-5. [2024年全国高考时间确定](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4%E7%A1%AE%E5%AE%9A%23&t=31&band_rank=5&Refer=top)<br />
+4. [2024年全国高考时间确定](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4%E7%A1%AE%E5%AE%9A%23&t=31&band_rank=4&Refer=top)<br />
+5. [东航](https://s.weibo.com/weibo?q=%E4%B8%9C%E8%88%AA&t=31&band_rank=5&Refer=top)<br />
 6. [主播靠辱骂母亲走红被批捕封号](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E9%9D%A0%E8%BE%B1%E9%AA%82%E6%AF%8D%E4%BA%B2%E8%B5%B0%E7%BA%A2%E8%A2%AB%E6%89%B9%E6%8D%95%E5%B0%81%E5%8F%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [短剧把李沁证件照P成黑白](https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%8A%8A%E6%9D%8E%E6%B2%81%E8%AF%81%E4%BB%B6%E7%85%A7P%E6%88%90%E9%BB%91%E7%99%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [不要再为吃糖油混合物焦虑了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B8%BA%E5%90%83%E7%B3%96%E6%B2%B9%E6%B7%B7%E5%90%88%E7%89%A9%E7%84%A6%E8%99%91%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
