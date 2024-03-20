@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 20:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 20:06:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [播种春天播撒希望](https://s.weibo.com/weibo?q=%23%E6%92%AD%E7%A7%8D%E6%98%A5%E5%A4%A9%E6%92%AD%E6%92%92%E5%B8%8C%E6%9C%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [林依晨 你](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%20%E4%BD%A0&t=31&band_rank=4&Refer=top)<br />
 5. [李沁方回应被短剧P黑白照](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%9F%AD%E5%89%A7P%E9%BB%91%E7%99%BD%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
-6. [2024年全国高考时间确定](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4%E7%A1%AE%E5%AE%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [雷军佩服只有特斯拉敢涨价](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E4%BD%A9%E6%9C%8D%E5%8F%AA%E6%9C%89%E7%89%B9%E6%96%AF%E6%8B%89%E6%95%A2%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=7&Refer=top)<br />
+6. [雷军佩服只有特斯拉敢涨价](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E4%BD%A9%E6%9C%8D%E5%8F%AA%E6%9C%89%E7%89%B9%E6%96%AF%E6%8B%89%E6%95%A2%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=6&Refer=top)<br />
+7. [2024年全国高考时间确定](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4%E7%A1%AE%E5%AE%9A%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘亦菲又在撕嘴皮](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8F%88%E5%9C%A8%E6%92%95%E5%98%B4%E7%9A%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [龚俊邓为撞衫](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E9%82%93%E4%B8%BA%E6%92%9E%E8%A1%AB%23&t=31&band_rank=9&Refer=top)<br />
+9. [2月龄男婴接种疫苗14天后死亡](https://s.weibo.com/weibo?q=%232%E6%9C%88%E9%BE%84%E7%94%B7%E5%A9%B4%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%9714%E5%A4%A9%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,7 +23,7 @@
 4. [草木蔓发 春山在望](https://www.baidu.com/s?wd=%E8%8D%89%E6%9C%A8%E8%94%93%E5%8F%91+%E6%98%A5%E5%B1%B1%E5%9C%A8%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [越南国家主席武文赏辞职](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E6%AD%A6%E6%96%87%E8%B5%8F%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东航坠机事故调查进展公布](https://www.baidu.com/s?wd=%E4%B8%9C%E8%88%AA%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [雷军：只有特斯拉敢涨价](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%8F%AA%E6%9C%89%E7%89%B9%E6%96%AF%E6%8B%89%E6%95%A2%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [初三直通硕士？有人已被录取](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%89%E7%9B%B4%E9%80%9A%E7%A1%95%E5%A3%AB%EF%BC%9F%E6%9C%89%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#寻味春分节气美食#](https://www.baidu.com/s?wd=%23%E5%AF%BB%E5%91%B3%E6%98%A5%E5%88%86%E8%8A%82%E6%B0%94%E7%BE%8E%E9%A3%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [环卫工垃圾桶内捡到30万元？不实](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%86%85%E6%8D%A1%E5%88%B030%E4%B8%87%E5%85%83%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [草木蔓发 春山在望](https://www.baidu.com/s?wd=%E8%8D%89%E6%9C%A8%E8%94%93%E5%8F%91+%E6%98%A5%E5%B1%B1%E5%9C%A8%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [越南国家主席武文赏辞职](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E6%AD%A6%E6%96%87%E8%B5%8F%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东航坠机事故调查进展公布](https://www.baidu.com/s?wd=%E4%B8%9C%E8%88%AA%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [雷军：只有特斯拉敢涨价](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%8F%AA%E6%9C%89%E7%89%B9%E6%96%AF%E6%8B%89%E6%95%A2%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [初三直通硕士？有人已被录取](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%89%E7%9B%B4%E9%80%9A%E7%A1%95%E5%A3%AB%EF%BC%9F%E6%9C%89%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#寻味春分节气美食#](https://www.baidu.com/s?wd=%23%E5%AF%BB%E5%91%B3%E6%98%A5%E5%88%86%E8%8A%82%E6%B0%94%E7%BE%8E%E9%A3%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [环卫工垃圾桶内捡到30万元？不实](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%86%85%E6%8D%A1%E5%88%B030%E4%B8%87%E5%85%83%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
