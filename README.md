@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 07:21:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 07:22:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [那些放弃社保的年轻人](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E6%94%BE%E5%BC%83%E7%A4%BE%E4%BF%9D%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [女子怀孕7个月刚独自待5分钟就倒地](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%957%E4%B8%AA%E6%9C%88%E5%88%9A%E7%8B%AC%E8%87%AA%E5%BE%855%E5%88%86%E9%92%9F%E5%B0%B1%E5%80%92%E5%9C%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [男生美国卖三蹦子首日进账1万美金](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%BE%8E%E5%9B%BD%E5%8D%96%E4%B8%89%E8%B9%A6%E5%AD%90%E9%A6%96%E6%97%A5%E8%BF%9B%E8%B4%A61%E4%B8%87%E7%BE%8E%E9%87%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [素媛案罪犯赵斗淳又被判了](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E7%BD%AA%E7%8A%AF%E8%B5%B5%E6%96%97%E6%B7%B3%E5%8F%88%E8%A2%AB%E5%88%A4%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [天水麻辣烫成都分烫火到闭店](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%88%90%E9%83%BD%E5%88%86%E7%83%AB%E7%81%AB%E5%88%B0%E9%97%AD%E5%BA%97%23&t=31&band_rank=8&Refer=top)<br />
+7. [天水麻辣烫成都分烫火到闭店](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%88%90%E9%83%BD%E5%88%86%E7%83%AB%E7%81%AB%E5%88%B0%E9%97%AD%E5%BA%97%23&t=31&band_rank=7&Refer=top)<br />
+8. [素媛案罪犯赵斗淳又被判了](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E7%BD%AA%E7%8A%AF%E8%B5%B5%E6%96%97%E6%B7%B3%E5%8F%88%E8%A2%AB%E5%88%A4%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [花间令开始吓人了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%97%B4%E4%BB%A4%E5%BC%80%E5%A7%8B%E5%90%93%E4%BA%BA%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
