@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 21:35:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 21:36:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [鹿晗强迫好友深夜督战曼联](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E5%BC%BA%E8%BF%AB%E5%A5%BD%E5%8F%8B%E6%B7%B1%E5%A4%9C%E7%9D%A3%E6%88%98%E6%9B%BC%E8%81%94&t=31&band_rank=5&Refer=top)<br />
 6. [日媒称一中国富豪借给福原爱3亿日元](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%AF%8C%E8%B1%AA%E5%80%9F%E7%BB%99%E7%A6%8F%E5%8E%9F%E7%88%B13%E4%BA%BF%E6%97%A5%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战藏海传官服造型](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%AE%98%E6%9C%8D%E9%80%A0%E5%9E%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘亦菲又在撕嘴皮](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8F%88%E5%9C%A8%E6%92%95%E5%98%B4%E7%9A%AE%23&t=31&band_rank=8&Refer=top)<br />
-9. [2月龄男婴接种疫苗14天后死亡](https://s.weibo.com/weibo?q=%232%E6%9C%88%E9%BE%84%E7%94%B7%E5%A9%B4%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%9714%E5%A4%A9%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [2月龄男婴接种疫苗14天后死亡](https://s.weibo.com/weibo?q=%232%E6%9C%88%E9%BE%84%E7%94%B7%E5%A9%B4%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%9714%E5%A4%A9%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [刘亦菲又在撕嘴皮](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8F%88%E5%9C%A8%E6%92%95%E5%98%B4%E7%9A%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
