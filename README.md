@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 07:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 07:36:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [总书记再次聚焦新质生产力](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%86%8D%E6%AC%A1%E8%81%9A%E7%84%A6%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [原“天上人间”老板覃辉在美认罪](https://www.baidu.com/s?wd=%E5%8E%9F%E2%80%9C%E5%A4%A9%E4%B8%8A%E4%BA%BA%E9%97%B4%E2%80%9D%E8%80%81%E6%9D%BF%E8%A6%83%E8%BE%89%E5%9C%A8%E7%BE%8E%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [世界睡眠日](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E7%9D%A1%E7%9C%A0%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [央媒：校园霸凌出现高度危险苗头](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E5%87%BA%E7%8E%B0%E9%AB%98%E5%BA%A6%E5%8D%B1%E9%99%A9%E8%8B%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“春日经济”活力十足](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%A5%E6%97%A5%E7%BB%8F%E6%B5%8E%E2%80%9D%E6%B4%BB%E5%8A%9B%E5%8D%81%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [主播靠辱骂母亲走红被批捕封号](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E9%9D%A0%E8%BE%B1%E9%AA%82%E6%AF%8D%E4%BA%B2%E8%B5%B0%E7%BA%A2%E8%A2%AB%E6%89%B9%E6%8D%95%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [那位90多岁仍一站到底的院士走了](https://www.baidu.com/s?wd=%E9%82%A3%E4%BD%8D90%E5%A4%9A%E5%B2%81%E4%BB%8D%E4%B8%80%E7%AB%99%E5%88%B0%E5%BA%95%E7%9A%84%E9%99%A2%E5%A3%AB%E8%B5%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [江西高速回应禁止特斯拉上高速](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [素媛案罪犯又被判了](https://www.baidu.com/s?wd=%E7%B4%A0%E5%AA%9B%E6%A1%88%E7%BD%AA%E7%8A%AF%E5%8F%88%E8%A2%AB%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子怀孕7个月独自待5分钟就倒地](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%957%E4%B8%AA%E6%9C%88%E7%8B%AC%E8%87%AA%E5%BE%855%E5%88%86%E9%92%9F%E5%B0%B1%E5%80%92%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [那位90多岁仍一站到底的院士走了](https://www.baidu.com/s?wd=%E9%82%A3%E4%BD%8D90%E5%A4%9A%E5%B2%81%E4%BB%8D%E4%B8%80%E7%AB%99%E5%88%B0%E5%BA%95%E7%9A%84%E9%99%A2%E5%A3%AB%E8%B5%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [原“天上人间”老板覃辉在美认罪](https://www.baidu.com/s?wd=%E5%8E%9F%E2%80%9C%E5%A4%A9%E4%B8%8A%E4%BA%BA%E9%97%B4%E2%80%9D%E8%80%81%E6%9D%BF%E8%A6%83%E8%BE%89%E5%9C%A8%E7%BE%8E%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [环卫工垃圾桶内捡到30万元？不实](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%86%85%E6%8D%A1%E5%88%B030%E4%B8%87%E5%85%83%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [总书记再次聚焦新质生产力](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%86%8D%E6%AC%A1%E8%81%9A%E7%84%A6%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [原“天上人间”老板覃辉在美认罪](https://www.baidu.com/s?wd=%E5%8E%9F%E2%80%9C%E5%A4%A9%E4%B8%8A%E4%BA%BA%E9%97%B4%E2%80%9D%E8%80%81%E6%9D%BF%E8%A6%83%E8%BE%89%E5%9C%A8%E7%BE%8E%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [世界睡眠日](https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E7%9D%A1%E7%9C%A0%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [央媒：校园霸凌出现高度危险苗头](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%EF%BC%9A%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E5%87%BA%E7%8E%B0%E9%AB%98%E5%BA%A6%E5%8D%B1%E9%99%A9%E8%8B%97%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“春日经济”活力十足](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%A5%E6%97%A5%E7%BB%8F%E6%B5%8E%E2%80%9D%E6%B4%BB%E5%8A%9B%E5%8D%81%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [主播靠辱骂母亲走红被批捕封号](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E9%9D%A0%E8%BE%B1%E9%AA%82%E6%AF%8D%E4%BA%B2%E8%B5%B0%E7%BA%A2%E8%A2%AB%E6%89%B9%E6%8D%95%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [那位90多岁仍一站到底的院士走了](https://www.baidu.com/s?wd=%E9%82%A3%E4%BD%8D90%E5%A4%9A%E5%B2%81%E4%BB%8D%E4%B8%80%E7%AB%99%E5%88%B0%E5%BA%95%E7%9A%84%E9%99%A2%E5%A3%AB%E8%B5%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [江西高速回应禁止特斯拉上高速](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [素媛案罪犯又被判了](https://www.baidu.com/s?wd=%E7%B4%A0%E5%AA%9B%E6%A1%88%E7%BD%AA%E7%8A%AF%E5%8F%88%E8%A2%AB%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子怀孕7个月独自待5分钟就倒地](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%957%E4%B8%AA%E6%9C%88%E7%8B%AC%E8%87%AA%E5%BE%855%E5%88%86%E9%92%9F%E5%B0%B1%E5%80%92%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [那位90多岁仍一站到底的院士走了](https://www.baidu.com/s?wd=%E9%82%A3%E4%BD%8D90%E5%A4%9A%E5%B2%81%E4%BB%8D%E4%B8%80%E7%AB%99%E5%88%B0%E5%BA%95%E7%9A%84%E9%99%A2%E5%A3%AB%E8%B5%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [原“天上人间”老板覃辉在美认罪](https://www.baidu.com/s?wd=%E5%8E%9F%E2%80%9C%E5%A4%A9%E4%B8%8A%E4%BA%BA%E9%97%B4%E2%80%9D%E8%80%81%E6%9D%BF%E8%A6%83%E8%BE%89%E5%9C%A8%E7%BE%8E%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [环卫工垃圾桶内捡到30万元？不实](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%86%85%E6%8D%A1%E5%88%B030%E4%B8%87%E5%85%83%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
