@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 17:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 17:39:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [60岁老人炒菠菜未焯水致肾病恶化](https://www.baidu.com/s?wd=60%E5%B2%81%E8%80%81%E4%BA%BA%E7%82%92%E8%8F%A0%E8%8F%9C%E6%9C%AA%E7%84%AF%E6%B0%B4%E8%87%B4%E8%82%BE%E7%97%85%E6%81%B6%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子涉嫌走私被判11年却一天牢没坐](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B6%89%E5%AB%8C%E8%B5%B0%E7%A7%81%E8%A2%AB%E5%88%A411%E5%B9%B4%E5%8D%B4%E4%B8%80%E5%A4%A9%E7%89%A2%E6%B2%A1%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#寻味春分节气美食#](https://www.baidu.com/s?wd=%23%E5%AF%BB%E5%91%B3%E6%98%A5%E5%88%86%E8%8A%82%E6%B0%94%E7%BE%8E%E9%A3%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网传落水者说“没让你救”系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E8%90%BD%E6%B0%B4%E8%80%85%E8%AF%B4%E2%80%9C%E6%B2%A1%E8%AE%A9%E4%BD%A0%E6%95%91%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [环卫工垃圾桶内捡到30万元？不实](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%86%85%E6%8D%A1%E5%88%B030%E4%B8%87%E5%85%83%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [60岁老人炒菠菜未焯水致肾病恶化](https://www.baidu.com/s?wd=60%E5%B2%81%E8%80%81%E4%BA%BA%E7%82%92%E8%8F%A0%E8%8F%9C%E6%9C%AA%E7%84%AF%E6%B0%B4%E8%87%B4%E8%82%BE%E7%97%85%E6%81%B6%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [男子涉嫌走私被判11年却一天牢没坐](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B6%89%E5%AB%8C%E8%B5%B0%E7%A7%81%E8%A2%AB%E5%88%A411%E5%B9%B4%E5%8D%B4%E4%B8%80%E5%A4%A9%E7%89%A2%E6%B2%A1%E5%9D%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#寻味春分节气美食#](https://www.baidu.com/s?wd=%23%E5%AF%BB%E5%91%B3%E6%98%A5%E5%88%86%E8%8A%82%E6%B0%94%E7%BE%8E%E9%A3%9F%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网传落水者说“没让你救”系谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E8%90%BD%E6%B0%B4%E8%80%85%E8%AF%B4%E2%80%9C%E6%B2%A1%E8%AE%A9%E4%BD%A0%E6%95%91%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [环卫工垃圾桶内捡到30万元？不实](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%86%85%E6%8D%A1%E5%88%B030%E4%B8%87%E5%85%83%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
