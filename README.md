@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 06:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 06:04:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [主播靠辱骂母亲走红被批捕封号](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E9%9D%A0%E8%BE%B1%E9%AA%82%E6%AF%8D%E4%BA%B2%E8%B5%B0%E7%BA%A2%E8%A2%AB%E6%89%B9%E6%8D%95%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东航坠机事故调查进展公布](https://www.baidu.com/s?wd=%E4%B8%9C%E8%88%AA%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [60岁老人炒菠菜未焯水致肾病恶化](https://www.baidu.com/s?wd=60%E5%B2%81%E8%80%81%E4%BA%BA%E7%82%92%E8%8F%A0%E8%8F%9C%E6%9C%AA%E7%84%AF%E6%B0%B4%E8%87%B4%E8%82%BE%E7%97%85%E6%81%B6%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江西高速回应禁止特斯拉上高速](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2024年全国高考时间确定](https://www.baidu.com/s?wd=2024%E5%B9%B4%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4%E7%A1%AE%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [环卫工垃圾桶内捡到30万元？不实](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%86%85%E6%8D%A1%E5%88%B030%E4%B8%87%E5%85%83%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [主播靠辱骂母亲走红被批捕封号](https://www.baidu.com/s?wd=%E4%B8%BB%E6%92%AD%E9%9D%A0%E8%BE%B1%E9%AA%82%E6%AF%8D%E4%BA%B2%E8%B5%B0%E7%BA%A2%E8%A2%AB%E6%89%B9%E6%8D%95%E5%B0%81%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [东航坠机事故调查进展公布](https://www.baidu.com/s?wd=%E4%B8%9C%E8%88%AA%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [60岁老人炒菠菜未焯水致肾病恶化](https://www.baidu.com/s?wd=60%E5%B2%81%E8%80%81%E4%BA%BA%E7%82%92%E8%8F%A0%E8%8F%9C%E6%9C%AA%E7%84%AF%E6%B0%B4%E8%87%B4%E8%82%BE%E7%97%85%E6%81%B6%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [江西高速回应禁止特斯拉上高速](https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%AB%98%E9%80%9F%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E9%AB%98%E9%80%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [2024年全国高考时间确定](https://www.baidu.com/s?wd=2024%E5%B9%B4%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4%E7%A1%AE%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [环卫工垃圾桶内捡到30万元？不实](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%86%85%E6%8D%A1%E5%88%B030%E4%B8%87%E5%85%83%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
