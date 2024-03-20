@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 21:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 21:14:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [越南国家主席武文赏辞职](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E6%AD%A6%E6%96%87%E8%B5%8F%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [原“天上人间”老板覃辉在美认罪](https://www.baidu.com/s?wd=%E5%8E%9F%E2%80%9C%E5%A4%A9%E4%B8%8A%E4%BA%BA%E9%97%B4%E2%80%9D%E8%80%81%E6%9D%BF%E8%A6%83%E8%BE%89%E5%9C%A8%E7%BE%8E%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [致14死车祸车上游客多超60岁](https://www.baidu.com/s?wd=%E8%87%B414%E6%AD%BB%E8%BD%A6%E7%A5%B8%E8%BD%A6%E4%B8%8A%E6%B8%B8%E5%AE%A2%E5%A4%9A%E8%B6%8560%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雷军：只有特斯拉敢涨价](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%8F%AA%E6%9C%89%E7%89%B9%E6%96%AF%E6%8B%89%E6%95%A2%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东航坠机事故调查进展公布](https://www.baidu.com/s?wd=%E4%B8%9C%E8%88%AA%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [环卫工垃圾桶内捡到30万元？不实](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%86%85%E6%8D%A1%E5%88%B030%E4%B8%87%E5%85%83%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [越南国家主席武文赏辞职](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E6%AD%A6%E6%96%87%E8%B5%8F%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [原“天上人间”老板覃辉在美认罪](https://www.baidu.com/s?wd=%E5%8E%9F%E2%80%9C%E5%A4%A9%E4%B8%8A%E4%BA%BA%E9%97%B4%E2%80%9D%E8%80%81%E6%9D%BF%E8%A6%83%E8%BE%89%E5%9C%A8%E7%BE%8E%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [致14死车祸车上游客多超60岁](https://www.baidu.com/s?wd=%E8%87%B414%E6%AD%BB%E8%BD%A6%E7%A5%B8%E8%BD%A6%E4%B8%8A%E6%B8%B8%E5%AE%A2%E5%A4%9A%E8%B6%8560%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雷军：只有特斯拉敢涨价](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%8F%AA%E6%9C%89%E7%89%B9%E6%96%AF%E6%8B%89%E6%95%A2%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [东航坠机事故调查进展公布](https://www.baidu.com/s?wd=%E4%B8%9C%E8%88%AA%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [环卫工垃圾桶内捡到30万元？不实](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%86%85%E6%8D%A1%E5%88%B030%E4%B8%87%E5%85%83%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
