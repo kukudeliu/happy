@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 20:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 21:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2月龄男婴接种疫苗14天后死亡](https://s.weibo.com/weibo?q=%232%E6%9C%88%E9%BE%84%E7%94%B7%E5%A9%B4%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%9714%E5%A4%A9%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘亦菲又在撕嘴皮](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8F%88%E5%9C%A8%E6%92%95%E5%98%B4%E7%9A%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [林依晨 你](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%20%E4%BD%A0&t=31&band_rank=8&Refer=top)<br />
-9. [李沁方回应被短剧P黑白照](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%9F%AD%E5%89%A7P%E9%BB%91%E7%99%BD%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [越共中央批准越南国家主席武文赏辞职](https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%89%B9%E5%87%86%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E6%AD%A6%E6%96%87%E8%B5%8F%E8%BE%9E%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
