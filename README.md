@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 22:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 22:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [东航致132人遇难事故调查进展发布](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E8%87%B4132%E4%BA%BA%E9%81%87%E9%9A%BE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95%E5%8F%91%E5%B8%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [藏海传](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E4%BC%A0&t=31&band_rank=7&Refer=top)<br />
 8. [承欢记要来了](https://s.weibo.com/weibo?q=%23%E6%89%BF%E6%AC%A2%E8%AE%B0%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [鹿晗强迫好友深夜督战曼联](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E5%BC%BA%E8%BF%AB%E5%A5%BD%E5%8F%8B%E6%B7%B1%E5%A4%9C%E7%9D%A3%E6%88%98%E6%9B%BC%E8%81%94&t=31&band_rank=9&Refer=top)<br />
+9. [新中式穿搭](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%AD%E5%BC%8F%E7%A9%BF%E6%90%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
