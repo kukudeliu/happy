@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 18:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 18:07:01</h4></div>
 
 > 微博  
 
-1. [主播靠辱骂母亲走红被批捕封号](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E9%9D%A0%E8%BE%B1%E9%AA%82%E6%AF%8D%E4%BA%B2%E8%B5%B0%E7%BA%A2%E8%A2%AB%E6%89%B9%E6%8D%95%E5%B0%81%E5%8F%B7%23&t=31&band_rank=1&Refer=top)<br />
-2. [林依晨 你](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%20%E4%BD%A0&t=31&band_rank=2&Refer=top)<br />
+1. [林依晨 你](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%20%E4%BD%A0&t=31&band_rank=1&Refer=top)<br />
+2. [主播靠辱骂母亲走红被批捕封号](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E9%9D%A0%E8%BE%B1%E9%AA%82%E6%AF%8D%E4%BA%B2%E8%B5%B0%E7%BA%A2%E8%A2%AB%E6%89%B9%E6%8D%95%E5%B0%81%E5%8F%B7%23&t=31&band_rank=2&Refer=top)<br />
 3. [认识你真好](https://s.weibo.com/weibo?q=%23%E8%AE%A4%E8%AF%86%E4%BD%A0%E7%9C%9F%E5%A5%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [不要再为吃糖油混合物焦虑了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B8%BA%E5%90%83%E7%B3%96%E6%B2%B9%E6%B7%B7%E5%90%88%E7%89%A9%E7%84%A6%E8%99%91%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [短剧把李沁证件照P成黑白](https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%8A%8A%E6%9D%8E%E6%B2%81%E8%AF%81%E4%BB%B6%E7%85%A7P%E6%88%90%E9%BB%91%E7%99%BD%23&t=31&band_rank=5&Refer=top)<br />
