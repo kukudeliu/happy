@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 21:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 21:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [日媒称一中国富豪借给福原爱3亿日元](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%AF%8C%E8%B1%AA%E5%80%9F%E7%BB%99%E7%A6%8F%E5%8E%9F%E7%88%B13%E4%BA%BF%E6%97%A5%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
 6. [2月龄男婴接种疫苗14天后死亡](https://s.weibo.com/weibo?q=%232%E6%9C%88%E9%BE%84%E7%94%B7%E5%A9%B4%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%9714%E5%A4%A9%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘亦菲又在撕嘴皮](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8F%88%E5%9C%A8%E6%92%95%E5%98%B4%E7%9A%AE%23&t=31&band_rank=7&Refer=top)<br />
-8. [林依晨 你](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%20%E4%BD%A0&t=31&band_rank=8&Refer=top)<br />
-9. [肖战藏海传官服造型](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%AE%98%E6%9C%8D%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
+8. [肖战藏海传官服造型](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%AE%98%E6%9C%8D%E9%80%A0%E5%9E%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [林依晨 你](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%20%E4%BD%A0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [越南国家主席武文赏辞职](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E6%AD%A6%E6%96%87%E8%B5%8F%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [原“天上人间”老板覃辉在美认罪](https://www.baidu.com/s?wd=%E5%8E%9F%E2%80%9C%E5%A4%A9%E4%B8%8A%E4%BA%BA%E9%97%B4%E2%80%9D%E8%80%81%E6%9D%BF%E8%A6%83%E8%BE%89%E5%9C%A8%E7%BE%8E%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [雷军：只有特斯拉敢涨价](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%8F%AA%E6%9C%89%E7%89%B9%E6%96%AF%E6%8B%89%E6%95%A2%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特斯拉宣布涨价](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [致14死车祸车上游客多超60岁](https://www.baidu.com/s?wd=%E8%87%B414%E6%AD%BB%E8%BD%A6%E7%A5%B8%E8%BD%A6%E4%B8%8A%E6%B8%B8%E5%AE%A2%E5%A4%9A%E8%B6%8560%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [环卫工垃圾桶内捡到30万元？不实](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%86%85%E6%8D%A1%E5%88%B030%E4%B8%87%E5%85%83%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [越南国家主席武文赏辞职](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E6%AD%A6%E6%96%87%E8%B5%8F%E8%BE%9E%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [原“天上人间”老板覃辉在美认罪](https://www.baidu.com/s?wd=%E5%8E%9F%E2%80%9C%E5%A4%A9%E4%B8%8A%E4%BA%BA%E9%97%B4%E2%80%9D%E8%80%81%E6%9D%BF%E8%A6%83%E8%BE%89%E5%9C%A8%E7%BE%8E%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [雷军：只有特斯拉敢涨价](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%8F%AA%E6%9C%89%E7%89%B9%E6%96%AF%E6%8B%89%E6%95%A2%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [特斯拉宣布涨价](https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [致14死车祸车上游客多超60岁](https://www.baidu.com/s?wd=%E8%87%B414%E6%AD%BB%E8%BD%A6%E7%A5%B8%E8%BD%A6%E4%B8%8A%E6%B8%B8%E5%AE%A2%E5%A4%9A%E8%B6%8560%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [环卫工垃圾桶内捡到30万元？不实](https://www.baidu.com/s?wd=%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%86%85%E6%8D%A1%E5%88%B030%E4%B8%87%E5%85%83%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
