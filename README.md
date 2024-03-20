@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 18:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 18:54:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [主播靠辱骂母亲走红被批捕封号](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E9%9D%A0%E8%BE%B1%E9%AA%82%E6%AF%8D%E4%BA%B2%E8%B5%B0%E7%BA%A2%E8%A2%AB%E6%89%B9%E6%8D%95%E5%B0%81%E5%8F%B7%23&t=31&band_rank=5&Refer=top)<br />
 6. [不要再为吃糖油混合物焦虑了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B8%BA%E5%90%83%E7%B3%96%E6%B2%B9%E6%B7%B7%E5%90%88%E7%89%A9%E7%84%A6%E8%99%91%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [短剧把李沁证件照P成黑白](https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%8A%8A%E6%9D%8E%E6%B2%81%E8%AF%81%E4%BB%B6%E7%85%A7P%E6%88%90%E9%BB%91%E7%99%BD%23&t=31&band_rank=7&Refer=top)<br />
-8. [恶作剧之吻](https://s.weibo.com/weibo?q=%E6%81%B6%E4%BD%9C%E5%89%A7%E4%B9%8B%E5%90%BB&t=31&band_rank=8&Refer=top)<br />
+8. [2024年全国高考时间确定](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4%E7%A1%AE%E5%AE%9A%23&t=31&band_rank=8&Refer=top)<br />
 9. [奔马不踏飞燕改行捣辣椒做麻辣烫了](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%AC%E4%B8%8D%E8%B8%8F%E9%A3%9E%E7%87%95%E6%94%B9%E8%A1%8C%E6%8D%A3%E8%BE%A3%E6%A4%92%E5%81%9A%E9%BA%BB%E8%BE%A3%E7%83%AB%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
