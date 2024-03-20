@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 09:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 09:54:01</h4></div>
 
 > 微博  
 
-1. [清明放假调休3天](https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E6%94%BE%E5%81%87%E8%B0%83%E4%BC%913%E5%A4%A9%23&t=31&band_rank=1&Refer=top)<br />
-2. [呼北高速特大交通事故已致13人死亡](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%8C%97%E9%AB%98%E9%80%9F%E7%89%B9%E5%A4%A7%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B413%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
+1. [呼北高速特大交通事故已致13人死亡](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%8C%97%E9%AB%98%E9%80%9F%E7%89%B9%E5%A4%A7%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B413%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
+2. [清明放假调休3天](https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E6%94%BE%E5%81%87%E8%B0%83%E4%BC%913%E5%A4%A9%23&t=31&band_rank=2&Refer=top)<br />
 3. [我拍的春暖花开](https://s.weibo.com/weibo?q=%23%E6%88%91%E6%8B%8D%E7%9A%84%E6%98%A5%E6%9A%96%E8%8A%B1%E5%BC%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [有个姐真把千机伞做出来了](https://s.weibo.com/weibo?q=%E6%9C%89%E4%B8%AA%E5%A7%90%E7%9C%9F%E6%8A%8A%E5%8D%83%E6%9C%BA%E4%BC%9E%E5%81%9A%E5%87%BA%E6%9D%A5%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [绯闻小三否认插足凯特王妃婚姻](https://s.weibo.com/weibo?q=%23%E7%BB%AF%E9%97%BB%E5%B0%8F%E4%B8%89%E5%90%A6%E8%AE%A4%E6%8F%92%E8%B6%B3%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%A9%9A%E5%A7%BB%23&t=31&band_rank=5&Refer=top)<br />
