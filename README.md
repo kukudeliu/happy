@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 04:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 04:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [为什么牙不好疾病满身跑](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%89%99%E4%B8%8D%E5%A5%BD%E7%96%BE%E7%97%85%E6%BB%A1%E8%BA%AB%E8%B7%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [日媒称一中国富豪借给福原爱3亿日元](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%AF%8C%E8%B1%AA%E5%80%9F%E7%BB%99%E7%A6%8F%E5%8E%9F%E7%88%B13%E4%BA%BF%E6%97%A5%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [男生美国卖三蹦子首日进账1万美金](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%BE%8E%E5%9B%BD%E5%8D%96%E4%B8%89%E8%B9%A6%E5%AD%90%E9%A6%96%E6%97%A5%E8%BF%9B%E8%B4%A61%E4%B8%87%E7%BE%8E%E9%87%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [花间令开始吓人了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%97%B4%E4%BB%A4%E5%BC%80%E5%A7%8B%E5%90%93%E4%BA%BA%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [鹿晗给自己整不好意思了](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%BB%99%E8%87%AA%E5%B7%B1%E6%95%B4%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
