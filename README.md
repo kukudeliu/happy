@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 10:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 10:30:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [绯闻小三否认插足凯特王妃婚姻](https://s.weibo.com/weibo?q=%23%E7%BB%AF%E9%97%BB%E5%B0%8F%E4%B8%89%E5%90%A6%E8%AE%A4%E6%8F%92%E8%B6%B3%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%A9%9A%E5%A7%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [呼北高速山西吉河段交通事故已致13死](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%8C%97%E9%AB%98%E9%80%9F%E5%B1%B1%E8%A5%BF%E5%90%89%E6%B2%B3%E6%AE%B5%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B413%E6%AD%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [当你早睡一次 你的器官](https://s.weibo.com/weibo?q=%E5%BD%93%E4%BD%A0%E6%97%A9%E7%9D%A1%E4%B8%80%E6%AC%A1%20%E4%BD%A0%E7%9A%84%E5%99%A8%E5%AE%98&t=31&band_rank=8&Refer=top)<br />
-9. [春分](https://s.weibo.com/weibo?q=%E6%98%A5%E5%88%86&t=31&band_rank=9&Refer=top)<br />
+9. [蒋敦豪 晴天](https://s.weibo.com/weibo?q=%E8%92%8B%E6%95%A6%E8%B1%AA%20%E6%99%B4%E5%A4%A9&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
