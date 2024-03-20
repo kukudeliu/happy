@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 11:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 11:06:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [婚后的隐形家务真的会让人崩溃](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%90%8E%E7%9A%84%E9%9A%90%E5%BD%A2%E5%AE%B6%E5%8A%A1%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%AE%A9%E4%BA%BA%E5%B4%A9%E6%BA%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [清明放假调休3天](https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E6%94%BE%E5%81%87%E8%B0%83%E4%BC%913%E5%A4%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [疑有医院员工试图查凯特病例被捕](https://s.weibo.com/weibo?q=%23%E7%96%91%E6%9C%89%E5%8C%BB%E9%99%A2%E5%91%98%E5%B7%A5%E8%AF%95%E5%9B%BE%E6%9F%A5%E5%87%AF%E7%89%B9%E7%97%85%E4%BE%8B%E8%A2%AB%E6%8D%95%23&t=31&band_rank=8&Refer=top)<br />
-9. [特斯拉涨价](https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%B6%A8%E4%BB%B7&t=31&band_rank=9&Refer=top)<br />
+9. [呼北高速交通事故已造成14人死亡](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%8C%97%E9%AB%98%E9%80%9F%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E5%B7%B2%E9%80%A0%E6%88%9014%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
