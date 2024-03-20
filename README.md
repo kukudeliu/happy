@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 00:16:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 00:17:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [恋爱兄妹](https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%88%B1%E5%85%84%E5%A6%B9%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子怀孕7个月刚独自待5分钟就倒地](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%957%E4%B8%AA%E6%9C%88%E5%88%9A%E7%8B%AC%E8%87%AA%E5%BE%855%E5%88%86%E9%92%9F%E5%B0%B1%E5%80%92%E5%9C%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [行云念了沈璃一辈子](https://s.weibo.com/weibo?q=%23%E8%A1%8C%E4%BA%91%E5%BF%B5%E4%BA%86%E6%B2%88%E7%92%83%E4%B8%80%E8%BE%88%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [藏海传](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E4%BC%A0&t=31&band_rank=9&Refer=top)<br />
+9. [一年级班主任的课间能有多忙](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%9A%84%E8%AF%BE%E9%97%B4%E8%83%BD%E6%9C%89%E5%A4%9A%E5%BF%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
