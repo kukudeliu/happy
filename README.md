@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 21:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-20 21:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [2月龄男婴接种疫苗14天后死亡](https://s.weibo.com/weibo?q=%232%E6%9C%88%E9%BE%84%E7%94%B7%E5%A9%B4%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%9714%E5%A4%A9%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [刘亦菲又在撕嘴皮](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8F%88%E5%9C%A8%E6%92%95%E5%98%B4%E7%9A%AE%23&t=31&band_rank=7&Refer=top)<br />
 8. [林依晨 你](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%20%E4%BD%A0&t=31&band_rank=8&Refer=top)<br />
-9. [越共中央批准越南国家主席武文赏辞职](https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%89%B9%E5%87%86%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E6%AD%A6%E6%96%87%E8%B5%8F%E8%BE%9E%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [肖战藏海传官服造型](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%AE%98%E6%9C%8D%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
