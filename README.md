@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 07:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 07:09:01</h4></div>
 
 > 微博  
 
-1. [凯特](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9&t=31&band_rank=1&Refer=top)<br />
-2. [不吃早饭比不吃晚饭危害更大吗](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%90%83%E6%97%A9%E9%A5%AD%E6%AF%94%E4%B8%8D%E5%90%83%E6%99%9A%E9%A5%AD%E5%8D%B1%E5%AE%B3%E6%9B%B4%E5%A4%A7%E5%90%97%23&t=31&band_rank=2&Refer=top)<br />
+1. [不吃早饭比不吃晚饭危害更大吗](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%90%83%E6%97%A9%E9%A5%AD%E6%AF%94%E4%B8%8D%E5%90%83%E6%99%9A%E9%A5%AD%E5%8D%B1%E5%AE%B3%E6%9B%B4%E5%A4%A7%E5%90%97%23&t=31&band_rank=1&Refer=top)<br />
+2. [凯特](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9&t=31&band_rank=2&Refer=top)<br />
 3. [春好正是耕种时](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A5%BD%E6%AD%A3%E6%98%AF%E8%80%95%E7%A7%8D%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子怀孕7个月刚独自待5分钟就倒地](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%957%E4%B8%AA%E6%9C%88%E5%88%9A%E7%8B%AC%E8%87%AA%E5%BE%855%E5%88%86%E9%92%9F%E5%B0%B1%E5%80%92%E5%9C%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [男生美国卖三蹦子首日进账1万美金](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%BE%8E%E5%9B%BD%E5%8D%96%E4%B8%89%E8%B9%A6%E5%AD%90%E9%A6%96%E6%97%A5%E8%BF%9B%E8%B4%A61%E4%B8%87%E7%BE%8E%E9%87%91%23&t=31&band_rank=5&Refer=top)<br />
