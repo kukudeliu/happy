@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 06:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 06:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [素媛案罪犯赵斗淳又被判了](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E7%BD%AA%E7%8A%AF%E8%B5%B5%E6%96%97%E6%B7%B3%E5%8F%88%E8%A2%AB%E5%88%A4%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [花间令开始吓人了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%97%B4%E4%BB%A4%E5%BC%80%E5%A7%8B%E5%90%93%E4%BA%BA%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [关晓彤短发](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E7%9F%AD%E5%8F%91&t=31&band_rank=8&Refer=top)<br />
-9. [日媒称一中国富豪借给福原爱3亿日元](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%AF%8C%E8%B1%AA%E5%80%9F%E7%BB%99%E7%A6%8F%E5%8E%9F%E7%88%B13%E4%BA%BF%E6%97%A5%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [行云念了沈璃一辈子](https://s.weibo.com/weibo?q=%23%E8%A1%8C%E4%BA%91%E5%BF%B5%E4%BA%86%E6%B2%88%E7%92%83%E4%B8%80%E8%BE%88%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
