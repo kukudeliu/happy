@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 10:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 10:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杨幂黄金](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E9%BB%84%E9%87%91&t=31&band_rank=6&Refer=top)<br />
 7. [古驰突然就卖不动了](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E9%A9%B0%E7%AA%81%E7%84%B6%E5%B0%B1%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [加拿大快递员11年偷走866台苹果设备](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BF%AB%E9%80%92%E5%91%9811%E5%B9%B4%E5%81%B7%E8%B5%B0866%E5%8F%B0%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [爱你官宣开机](https://s.weibo.com/weibo?q=%23%E7%88%B1%E4%BD%A0%E5%AE%98%E5%AE%A3%E5%BC%80%E6%9C%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [黄金](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
