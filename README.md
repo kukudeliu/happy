@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 20:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 20:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [清华大学巅班](https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%B7%85%E7%8F%AD&t=31&band_rank=6&Refer=top)<br />
 7. [消保委点名周杰伦演唱会抢票先充VIP](https://s.weibo.com/weibo?q=%23%E6%B6%88%E4%BF%9D%E5%A7%94%E7%82%B9%E5%90%8D%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8%E5%85%88%E5%85%85VIP%23&t=31&band_rank=7&Refer=top)<br />
 8. [预制菜明确不允许添加防腐剂](https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E8%8F%9C%E6%98%8E%E7%A1%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E6%B7%BB%E5%8A%A0%E9%98%B2%E8%85%90%E5%89%82%23&t=31&band_rank=8&Refer=top)<br />
-9. [杜海涛爆改](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%88%86%E6%94%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [杨幂再现月牙笑](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%86%8D%E7%8E%B0%E6%9C%88%E7%89%99%E7%AC%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
