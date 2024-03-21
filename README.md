@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 15:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 15:42:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [认识你真好](https://s.weibo.com/weibo?q=%23%E8%AE%A4%E8%AF%86%E4%BD%A0%E7%9C%9F%E5%A5%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [科学家成功清除已感染的艾滋病毒](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%88%90%E5%8A%9F%E6%B8%85%E9%99%A4%E5%B7%B2%E6%84%9F%E6%9F%93%E7%9A%84%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%23&t=31&band_rank=4&Refer=top)<br />
 5. [吴彦祖去看贾玲了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A6%E7%A5%96%E5%8E%BB%E7%9C%8B%E8%B4%BE%E7%8E%B2%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [凤凰传奇演唱会取消](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%23&t=31&band_rank=6&Refer=top)<br />
-7. [小米发布会](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
+6. [小米发布会](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
+7. [凤凰传奇演唱会取消](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [记者卧底鲜芋仙曝光后厨乱象](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E9%B2%9C%E8%8A%8B%E4%BB%99%E6%9B%9D%E5%85%89%E5%90%8E%E5%8E%A8%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [四六级报名](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%8A%A5%E5%90%8D&t=31&band_rank=9&Refer=top)<br />
 
