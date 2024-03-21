@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 15:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 16:00:01</h4></div>
 
 > 微博  
 
 1. [刘维做手术](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E5%81%9A%E6%89%8B%E6%9C%AF%23&t=31&band_rank=1&Refer=top)<br />
 2. [乱写简历被录取了是种什么体验](https://s.weibo.com/weibo?q=%23%E4%B9%B1%E5%86%99%E7%AE%80%E5%8E%86%E8%A2%AB%E5%BD%95%E5%8F%96%E4%BA%86%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [认识你真好](https://s.weibo.com/weibo?q=%23%E8%AE%A4%E8%AF%86%E4%BD%A0%E7%9C%9F%E5%A5%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [科学家成功清除已感染的艾滋病毒](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%88%90%E5%8A%9F%E6%B8%85%E9%99%A4%E5%B7%B2%E6%84%9F%E6%9F%93%E7%9A%84%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%23&t=31&band_rank=4&Refer=top)<br />
+4. [鲜芋仙致歉声明](https://s.weibo.com/weibo?q=%23%E9%B2%9C%E8%8A%8B%E4%BB%99%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23&t=31&band_rank=4&Refer=top)<br />
 5. [吴彦祖 贾玲惊人的转变令人瞠目结舌](https://s.weibo.com/weibo?q=%E5%90%B4%E5%BD%A6%E7%A5%96%20%E8%B4%BE%E7%8E%B2%E6%83%8A%E4%BA%BA%E7%9A%84%E8%BD%AC%E5%8F%98%E4%BB%A4%E4%BA%BA%E7%9E%A0%E7%9B%AE%E7%BB%93%E8%88%8C&t=31&band_rank=5&Refer=top)<br />
-6. [鲜芋仙致歉声明](https://s.weibo.com/weibo?q=%23%E9%B2%9C%E8%8A%8B%E4%BB%99%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
+6. [科学家成功清除已感染的艾滋病毒](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%88%90%E5%8A%9F%E6%B8%85%E9%99%A4%E5%B7%B2%E6%84%9F%E6%9F%93%E7%9A%84%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [做了一年半的阿姨发短信来内涵](https://s.weibo.com/weibo?q=%23%E5%81%9A%E4%BA%86%E4%B8%80%E5%B9%B4%E5%8D%8A%E7%9A%84%E9%98%BF%E5%A7%A8%E5%8F%91%E7%9F%AD%E4%BF%A1%E6%9D%A5%E5%86%85%E6%B6%B5%23&t=31&band_rank=7&Refer=top)<br />
-8. [为什么古人吃鹿肉现代人却不吃](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%A4%E4%BA%BA%E5%90%83%E9%B9%BF%E8%82%89%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%8D%B4%E4%B8%8D%E5%90%83%23&t=31&band_rank=8&Refer=top)<br />
-9. [记者卧底鲜芋仙曝光后厨乱象](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E9%B2%9C%E8%8A%8B%E4%BB%99%E6%9B%9D%E5%85%89%E5%90%8E%E5%8E%A8%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [记者卧底鲜芋仙曝光后厨乱象](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E9%B2%9C%E8%8A%8B%E4%BB%99%E6%9B%9D%E5%85%89%E5%90%8E%E5%8E%A8%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [柳州螺蛳粉协会秘书长谈增臭剂](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%B7%9E%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%8D%8F%E4%BC%9A%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B0%88%E5%A2%9E%E8%87%AD%E5%89%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
