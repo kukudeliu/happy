@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 19:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 19:07:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [预制菜明确不允许添加防腐剂](https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E8%8F%9C%E6%98%8E%E7%A1%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E6%B7%BB%E5%8A%A0%E9%98%B2%E8%85%90%E5%89%82%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨幂再现月牙笑](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%86%8D%E7%8E%B0%E6%9C%88%E7%89%99%E7%AC%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [黄渤张艺兴快碎了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%BC%A0%E8%89%BA%E5%85%B4%E5%BF%AB%E7%A2%8E%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [普京被正式宣布选举获胜](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%A2%AB%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E9%80%89%E4%B8%BE%E8%8E%B7%E8%83%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [玄彬孙艺珍孔刘李栋旭一起看球赛](https://s.weibo.com/weibo?q=%23%E7%8E%84%E5%BD%AC%E5%AD%99%E8%89%BA%E7%8F%8D%E5%AD%94%E5%88%98%E6%9D%8E%E6%A0%8B%E6%97%AD%E4%B8%80%E8%B5%B7%E7%9C%8B%E7%90%83%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
+7. [玄彬孙艺珍孔刘李栋旭一起看球赛](https://s.weibo.com/weibo?q=%23%E7%8E%84%E5%BD%AC%E5%AD%99%E8%89%BA%E7%8F%8D%E5%AD%94%E5%88%98%E6%9D%8E%E6%A0%8B%E6%97%AD%E4%B8%80%E8%B5%B7%E7%9C%8B%E7%90%83%E8%B5%9B%23&t=31&band_rank=7&Refer=top)<br />
+8. [普京被正式宣布选举获胜](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%A2%AB%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E9%80%89%E4%B8%BE%E8%8E%B7%E8%83%9C%23&t=31&band_rank=8&Refer=top)<br />
 9. [321适合许愿](https://s.weibo.com/weibo?q=%23321%E9%80%82%E5%90%88%E8%AE%B8%E6%84%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
