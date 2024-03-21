@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 21:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 21:46:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [世预赛：国足vs新加坡](https://www.baidu.com/s?wd=%E4%B8%96%E9%A2%84%E8%B5%9B%EF%BC%9A%E5%9B%BD%E8%B6%B3vs%E6%96%B0%E5%8A%A0%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杜海涛爆改](https://www.baidu.com/s?wd=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%88%86%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [银行柜员因两个字当场翻脸](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E5%9B%A0%E4%B8%A4%E4%B8%AA%E5%AD%97%E5%BD%93%E5%9C%BA%E7%BF%BB%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [翟潇闻站台霸王茶姬 说成茶颜悦色](https://www.baidu.com/s?wd=%E7%BF%9F%E6%BD%87%E9%97%BB%E7%AB%99%E5%8F%B0%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC+%E8%AF%B4%E6%88%90%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [异常春困可能是身体在发出预警](https://www.baidu.com/s?wd=%E5%BC%82%E5%B8%B8%E6%98%A5%E5%9B%B0%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E5%8F%91%E5%87%BA%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [世预赛：国足vs新加坡](https://www.baidu.com/s?wd=%E4%B8%96%E9%A2%84%E8%B5%9B%EF%BC%9A%E5%9B%BD%E8%B6%B3vs%E6%96%B0%E5%8A%A0%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杜海涛爆改](https://www.baidu.com/s?wd=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%88%86%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [银行柜员因两个字当场翻脸](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E5%9B%A0%E4%B8%A4%E4%B8%AA%E5%AD%97%E5%BD%93%E5%9C%BA%E7%BF%BB%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [翟潇闻站台霸王茶姬 说成茶颜悦色](https://www.baidu.com/s?wd=%E7%BF%9F%E6%BD%87%E9%97%BB%E7%AB%99%E5%8F%B0%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC+%E8%AF%B4%E6%88%90%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [异常春困可能是身体在发出预警](https://www.baidu.com/s?wd=%E5%BC%82%E5%B8%B8%E6%98%A5%E5%9B%B0%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E5%8F%91%E5%87%BA%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
