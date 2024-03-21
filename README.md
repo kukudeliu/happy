@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 22:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 22:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [国足2-2被新加坡逼平](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-2%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%BC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [世预赛：国足vs新加坡](https://www.baidu.com/s?wd=%E4%B8%96%E9%A2%84%E8%B5%9B%EF%BC%9A%E5%9B%BD%E8%B6%B3vs%E6%96%B0%E5%8A%A0%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国足打破进球荒](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E6%89%93%E7%A0%B4%E8%BF%9B%E7%90%83%E8%8D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国第一夫人“消失”近4个月](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E2%80%9C%E6%B6%88%E5%A4%B1%E2%80%9D%E8%BF%914%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国足2-2被新加坡逼平](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-2%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%BC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [世预赛：国足vs新加坡](https://www.baidu.com/s?wd=%E4%B8%96%E9%A2%84%E8%B5%9B%EF%BC%9A%E5%9B%BD%E8%B6%B3vs%E6%96%B0%E5%8A%A0%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国足打破进球荒](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E6%89%93%E7%A0%B4%E8%BF%9B%E7%90%83%E8%8D%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国第一夫人“消失”近4个月](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E2%80%9C%E6%B6%88%E5%A4%B1%E2%80%9D%E8%BF%914%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
