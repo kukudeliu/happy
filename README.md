@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 12:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 12:36:01</h4></div>
 
 > 微博  
 
 1. [我爸把养了六年的猫扔了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E6%8A%8A%E5%85%BB%E4%BA%86%E5%85%AD%E5%B9%B4%E7%9A%84%E7%8C%AB%E6%89%94%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
 2. [凤凰传奇演唱会取消](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%23&t=31&band_rank=2&Refer=top)<br />
-3. [认识你真好](https://s.weibo.com/weibo?q=%23%E8%AE%A4%E8%AF%86%E4%BD%A0%E7%9C%9F%E5%A5%BD%23&t=31&band_rank=3&Refer=top)<br />
+3. [用课本封面打开春耕画卷](https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%AF%BE%E6%9C%AC%E5%B0%81%E9%9D%A2%E6%89%93%E5%BC%80%E6%98%A5%E8%80%95%E7%94%BB%E5%8D%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [吴彦祖去看贾玲了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A6%E7%A5%96%E5%8E%BB%E7%9C%8B%E8%B4%BE%E7%8E%B2%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [身边真的有好多人在重启人生啊](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E8%BE%B9%E7%9C%9F%E7%9A%84%E6%9C%89%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%9C%A8%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F%E5%95%8A%23&t=31&band_rank=5&Refer=top)<br />
 6. [费翔胡子刮了](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E7%BF%94%E8%83%A1%E5%AD%90%E5%88%AE%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=7&Refer=top)<br />
-8. [没想到相亲对象请喝香飘飘](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%9B%B8%E4%BA%B2%E5%AF%B9%E8%B1%A1%E8%AF%B7%E5%96%9D%E9%A6%99%E9%A3%98%E9%A3%98%23&t=31&band_rank=8&Refer=top)<br />
-9. [多家螺蛳粉品牌客服回应](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%93%81%E7%89%8C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
+7. [认识你真好](https://s.weibo.com/weibo?q=%23%E8%AE%A4%E8%AF%86%E4%BD%A0%E7%9C%9F%E5%A5%BD%23&t=31&band_rank=7&Refer=top)<br />
+8. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=8&Refer=top)<br />
+9. [没想到相亲对象请喝香飘飘](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%9B%B8%E4%BA%B2%E5%AF%B9%E8%B1%A1%E8%AF%B7%E5%96%9D%E9%A6%99%E9%A3%98%E9%A3%98%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
