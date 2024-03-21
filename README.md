@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 12:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 12:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [没想到相亲对象请喝香飘飘](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%9B%B8%E4%BA%B2%E5%AF%B9%E8%B1%A1%E8%AF%B7%E5%96%9D%E9%A6%99%E9%A3%98%E9%A3%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [费翔胡子刮了](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E7%BF%94%E8%83%A1%E5%AD%90%E5%88%AE%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=8&Refer=top)<br />
-9. [用课本封面打开春耕画卷](https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%AF%BE%E6%9C%AC%E5%B0%81%E9%9D%A2%E6%89%93%E5%BC%80%E6%98%A5%E8%80%95%E7%94%BB%E5%8D%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [珠帘玉幕 磨皮](https://s.weibo.com/weibo?q=%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%20%E7%A3%A8%E7%9A%AE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
