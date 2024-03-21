@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 11:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 11:59:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [张艺兴新综艺正式官宣](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%96%B0%E7%BB%BC%E8%89%BA%E6%AD%A3%E5%BC%8F%E5%AE%98%E5%AE%A3%23&t=31&band_rank=4&Refer=top)<br />
 5. [白客郑合惠子 万合天宜](https://s.weibo.com/weibo?q=%E7%99%BD%E5%AE%A2%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%20%E4%B8%87%E5%90%88%E5%A4%A9%E5%AE%9C&t=31&band_rank=5&Refer=top)<br />
 6. [珠帘玉幕 磨皮](https://s.weibo.com/weibo?q=%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%20%E7%A3%A8%E7%9A%AE&t=31&band_rank=6&Refer=top)<br />
-7. [黄金](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=7&Refer=top)<br />
-8. [身边真的有好多人在重启人生啊](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E8%BE%B9%E7%9C%9F%E7%9A%84%E6%9C%89%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%9C%A8%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F%E5%95%8A%23&t=31&band_rank=8&Refer=top)<br />
-9. [吴彦祖去看贾玲了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A6%E7%A5%96%E5%8E%BB%E7%9C%8B%E8%B4%BE%E7%8E%B2%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [身边真的有好多人在重启人生啊](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E8%BE%B9%E7%9C%9F%E7%9A%84%E6%9C%89%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%9C%A8%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F%E5%95%8A%23&t=31&band_rank=7&Refer=top)<br />
+8. [吴彦祖去看贾玲了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A6%E7%A5%96%E5%8E%BB%E7%9C%8B%E8%B4%BE%E7%8E%B2%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [黄金](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
