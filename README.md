@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 16:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 16:04:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [吴彦祖 贾玲惊人的转变令人瞠目结舌](https://s.weibo.com/weibo?q=%E5%90%B4%E5%BD%A6%E7%A5%96%20%E8%B4%BE%E7%8E%B2%E6%83%8A%E4%BA%BA%E7%9A%84%E8%BD%AC%E5%8F%98%E4%BB%A4%E4%BA%BA%E7%9E%A0%E7%9B%AE%E7%BB%93%E8%88%8C&t=31&band_rank=5&Refer=top)<br />
 6. [科学家成功清除已感染的艾滋病毒](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%88%90%E5%8A%9F%E6%B8%85%E9%99%A4%E5%B7%B2%E6%84%9F%E6%9F%93%E7%9A%84%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%23&t=31&band_rank=6&Refer=top)<br />
 7. [做了一年半的阿姨发短信来内涵](https://s.weibo.com/weibo?q=%23%E5%81%9A%E4%BA%86%E4%B8%80%E5%B9%B4%E5%8D%8A%E7%9A%84%E9%98%BF%E5%A7%A8%E5%8F%91%E7%9F%AD%E4%BF%A1%E6%9D%A5%E5%86%85%E6%B6%B5%23&t=31&band_rank=7&Refer=top)<br />
-8. [记者卧底鲜芋仙曝光后厨乱象](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E9%B2%9C%E8%8A%8B%E4%BB%99%E6%9B%9D%E5%85%89%E5%90%8E%E5%8E%A8%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [柳州螺蛳粉协会秘书长谈增臭剂](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%B7%9E%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%8D%8F%E4%BC%9A%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B0%88%E5%A2%9E%E8%87%AD%E5%89%82%23&t=31&band_rank=9&Refer=top)<br />
+8. [为什么古人吃鹿肉现代人却不吃](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%A4%E4%BA%BA%E5%90%83%E9%B9%BF%E8%82%89%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%8D%B4%E4%B8%8D%E5%90%83%23&t=31&band_rank=8&Refer=top)<br />
+9. [记者卧底鲜芋仙曝光后厨乱象](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E9%B2%9C%E8%8A%8B%E4%BB%99%E6%9B%9D%E5%85%89%E5%90%8E%E5%8E%A8%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,9 +22,9 @@
 3. [离婚冷静期杀妻案择期宣判](https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E5%86%B7%E9%9D%99%E6%9C%9F%E6%9D%80%E5%A6%BB%E6%A1%88%E6%8B%A9%E6%9C%9F%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王树国那些金句为何能引人共鸣](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E9%82%A3%E4%BA%9B%E9%87%91%E5%8F%A5%E4%B8%BA%E4%BD%95%E8%83%BD%E5%BC%95%E4%BA%BA%E5%85%B1%E9%B8%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [柳州螺蛳粉协会秘书长谈增臭剂](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%8D%8F%E4%BC%9A%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B0%88%E5%A2%9E%E8%87%AD%E5%89%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [韩国医疗界酝酿全面罢工](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%96%97%E7%95%8C%E9%85%9D%E9%85%BF%E5%85%A8%E9%9D%A2%E7%BD%A2%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“凑不够钱”的特朗普将面临什么](https://www.baidu.com/s?wd=%E2%80%9C%E5%87%91%E4%B8%8D%E5%A4%9F%E9%92%B1%E2%80%9D%E7%9A%84%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E9%9D%A2%E4%B8%B4%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [离婚冷静期杀妻案择期宣判](https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E5%86%B7%E9%9D%99%E6%9C%9F%E6%9D%80%E5%A6%BB%E6%A1%88%E6%8B%A9%E6%9C%9F%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王树国那些金句为何能引人共鸣](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E9%82%A3%E4%BA%9B%E9%87%91%E5%8F%A5%E4%B8%BA%E4%BD%95%E8%83%BD%E5%BC%95%E4%BA%BA%E5%85%B1%E9%B8%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [柳州螺蛳粉协会秘书长谈增臭剂](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%8D%8F%E4%BC%9A%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B0%88%E5%A2%9E%E8%87%AD%E5%89%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [韩国医疗界酝酿全面罢工](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%96%97%E7%95%8C%E9%85%9D%E9%85%BF%E5%85%A8%E9%9D%A2%E7%BD%A2%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“凑不够钱”的特朗普将面临什么](https://www.baidu.com/s?wd=%E2%80%9C%E5%87%91%E4%B8%8D%E5%A4%9F%E9%92%B1%E2%80%9D%E7%9A%84%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E9%9D%A2%E4%B8%B4%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
