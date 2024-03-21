@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 08:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 08:51:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [赵丽颖说拍大结局从早哭到晚](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E6%8B%8D%E5%A4%A7%E7%BB%93%E5%B1%80%E4%BB%8E%E6%97%A9%E5%93%AD%E5%88%B0%E6%99%9A%23&t=31&band_rank=2&Refer=top)<br />
 3. [春好正是耕种时](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A5%BD%E6%AD%A3%E6%98%AF%E8%80%95%E7%A7%8D%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [天水麻辣烫成都分烫火到闭店](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%88%90%E9%83%BD%E5%88%86%E7%83%AB%E7%81%AB%E5%88%B0%E9%97%AD%E5%BA%97%23&t=31&band_rank=4&Refer=top)<br />
-5. [那些放弃社保的年轻人](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E6%94%BE%E5%BC%83%E7%A4%BE%E4%BF%9D%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [胸部自检](https://s.weibo.com/weibo?q=%E8%83%B8%E9%83%A8%E8%87%AA%E6%A3%80&t=31&band_rank=6&Refer=top)<br />
+5. [胸部自检](https://s.weibo.com/weibo?q=%E8%83%B8%E9%83%A8%E8%87%AA%E6%A3%80&t=31&band_rank=5&Refer=top)<br />
+6. [那些放弃社保的年轻人](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E6%94%BE%E5%BC%83%E7%A4%BE%E4%BF%9D%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
 7. [结婚邀请了大学室友](https://s.weibo.com/weibo?q=%E7%BB%93%E5%A9%9A%E9%82%80%E8%AF%B7%E4%BA%86%E5%A4%A7%E5%AD%A6%E5%AE%A4%E5%8F%8B&t=31&band_rank=7&Refer=top)<br />
 8. [凯特](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9&t=31&band_rank=8&Refer=top)<br />
 9. [睡不着的时候试试3个不管不顾](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E4%B8%8D%E7%9D%80%E7%9A%84%E6%97%B6%E5%80%99%E8%AF%95%E8%AF%953%E4%B8%AA%E4%B8%8D%E7%AE%A1%E4%B8%8D%E9%A1%BE%23&t=31&band_rank=9&Refer=top)<br />
