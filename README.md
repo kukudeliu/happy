@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 14:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 14:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴彦祖去看贾玲了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A6%E7%A5%96%E5%8E%BB%E7%9C%8B%E8%B4%BE%E7%8E%B2%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [张凌赫三年了终于把古装脱了](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%89%E5%B9%B4%E4%BA%86%E7%BB%88%E4%BA%8E%E6%8A%8A%E5%8F%A4%E8%A3%85%E8%84%B1%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [玲花回应演唱会取消](https://s.weibo.com/weibo?q=%23%E7%8E%B2%E8%8A%B1%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [谈恋爱花的钱分手后要对方还吗](https://s.weibo.com/weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E8%8A%B1%E7%9A%84%E9%92%B1%E5%88%86%E6%89%8B%E5%90%8E%E8%A6%81%E5%AF%B9%E6%96%B9%E8%BF%98%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
+9. [身边真的有好多人在重启人生啊](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E8%BE%B9%E7%9C%9F%E7%9A%84%E6%9C%89%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%9C%A8%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
