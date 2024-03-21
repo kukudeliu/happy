@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 10:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 10:55:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [春好正是耕种时](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A5%BD%E6%AD%A3%E6%98%AF%E8%80%95%E7%A7%8D%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [黄金](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=4&Refer=top)<br />
 5. [螺蛳粉 增臭剂](https://s.weibo.com/weibo?q=%E8%9E%BA%E8%9B%B3%E7%B2%89%20%E5%A2%9E%E8%87%AD%E5%89%82&t=31&band_rank=5&Refer=top)<br />
-6. [古驰突然就卖不动了](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E9%A9%B0%E7%AA%81%E7%84%B6%E5%B0%B1%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [加拿大快递员11年偷走866台苹果设备](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BF%AB%E9%80%92%E5%91%9811%E5%B9%B4%E5%81%B7%E8%B5%B0866%E5%8F%B0%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨幂黄金](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E9%BB%84%E9%87%91&t=31&band_rank=8&Refer=top)<br />
-9. [窝囊系艺人](https://s.weibo.com/weibo?q=%E7%AA%9D%E5%9B%8A%E7%B3%BB%E8%89%BA%E4%BA%BA&t=31&band_rank=9&Refer=top)<br />
+6. [加拿大快递员11年偷走866台苹果设备](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BF%AB%E9%80%92%E5%91%9811%E5%B9%B4%E5%81%B7%E8%B5%B0866%E5%8F%B0%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%23&t=31&band_rank=6&Refer=top)<br />
+7. [古驰突然就卖不动了](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E9%A9%B0%E7%AA%81%E7%84%B6%E5%B0%B1%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [窝囊系艺人](https://s.weibo.com/weibo?q=%E7%AA%9D%E5%9B%8A%E7%B3%BB%E8%89%BA%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
+9. [杨幂黄金](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E9%BB%84%E9%87%91&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
