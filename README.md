@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 05:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 05:16:01</h4></div>
 
 > 微博  
 
-1. [凭什么要禁止东北人做翻译啊](https://s.weibo.com/weibo?q=%E5%87%AD%E4%BB%80%E4%B9%88%E8%A6%81%E7%A6%81%E6%AD%A2%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%81%9A%E7%BF%BB%E8%AF%91%E5%95%8A&t=31&band_rank=1&Refer=top)<br />
-2. [过度疲劳的表现](https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E7%96%B2%E5%8A%B3%E7%9A%84%E8%A1%A8%E7%8E%B0&t=31&band_rank=2&Refer=top)<br />
+1. [过度疲劳的表现](https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E7%96%B2%E5%8A%B3%E7%9A%84%E8%A1%A8%E7%8E%B0&t=31&band_rank=1&Refer=top)<br />
+2. [凭什么要禁止东北人做翻译啊](https://s.weibo.com/weibo?q=%E5%87%AD%E4%BB%80%E4%B9%88%E8%A6%81%E7%A6%81%E6%AD%A2%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%81%9A%E7%BF%BB%E8%AF%91%E5%95%8A&t=31&band_rank=2&Refer=top)<br />
 3. [今年春耕科技范儿满满](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%98%A5%E8%80%95%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [女子家门口凌晨4点被人做三角标记](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%87%8C%E6%99%A84%E7%82%B9%E8%A2%AB%E4%BA%BA%E5%81%9A%E4%B8%89%E8%A7%92%E6%A0%87%E8%AE%B0%23&t=31&band_rank=4&Refer=top)<br />
 5. [个人所得税收入下降](https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E%E6%94%B6%E5%85%A5%E4%B8%8B%E9%99%8D%23&t=31&band_rank=5&Refer=top)<br />
