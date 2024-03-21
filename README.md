@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 17:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 17:49:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张兰控诉大S犯下重婚罪](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E6%8E%A7%E8%AF%89%E5%A4%A7S%E7%8A%AF%E4%B8%8B%E9%87%8D%E5%A9%9A%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [遏制“自动续费”问题有新规](https://www.baidu.com/s?wd=%E9%81%8F%E5%88%B6%E2%80%9C%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E2%80%9D%E9%97%AE%E9%A2%98%E6%9C%89%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [加沙南部最大医院如今空无一人](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%8D%97%E9%83%A8%E6%9C%80%E5%A4%A7%E5%8C%BB%E9%99%A2%E5%A6%82%E4%BB%8A%E7%A9%BA%E6%97%A0%E4%B8%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美欲制裁与华为相关中国芯片公司](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%B2%E5%88%B6%E8%A3%81%E4%B8%8E%E5%8D%8E%E4%B8%BA%E7%9B%B8%E5%85%B3%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张兰控诉大S犯下重婚罪](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E6%8E%A7%E8%AF%89%E5%A4%A7S%E7%8A%AF%E4%B8%8B%E9%87%8D%E5%A9%9A%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [遏制“自动续费”问题有新规](https://www.baidu.com/s?wd=%E9%81%8F%E5%88%B6%E2%80%9C%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E2%80%9D%E9%97%AE%E9%A2%98%E6%9C%89%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [加沙南部最大医院如今空无一人](https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%8D%97%E9%83%A8%E6%9C%80%E5%A4%A7%E5%8C%BB%E9%99%A2%E5%A6%82%E4%BB%8A%E7%A9%BA%E6%97%A0%E4%B8%80%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [美欲制裁与华为相关中国芯片公司](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%B2%E5%88%B6%E8%A3%81%E4%B8%8E%E5%8D%8E%E4%B8%BA%E7%9B%B8%E5%85%B3%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
