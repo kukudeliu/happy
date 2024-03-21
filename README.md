@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 20:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 20:04:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [医院称2名医学生先后自杀情况属实](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E7%A7%B02%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%85%88%E5%90%8E%E8%87%AA%E6%9D%80%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杜海涛爆改](https://www.baidu.com/s?wd=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%88%86%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [银行柜员因两个字当场翻脸](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E5%9B%A0%E4%B8%A4%E4%B8%AA%E5%AD%97%E5%BD%93%E5%9C%BA%E7%BF%BB%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红炸包臭包玩具含急性剧毒](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%82%B8%E5%8C%85%E8%87%AD%E5%8C%85%E7%8E%A9%E5%85%B7%E5%90%AB%E6%80%A5%E6%80%A7%E5%89%A7%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美欲制裁与华为相关中国芯片公司](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%B2%E5%88%B6%E8%A3%81%E4%B8%8E%E5%8D%8E%E4%B8%BA%E7%9B%B8%E5%85%B3%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [医院称2名医学生先后自杀情况属实](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E7%A7%B02%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%85%88%E5%90%8E%E8%87%AA%E6%9D%80%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杜海涛爆改](https://www.baidu.com/s?wd=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%88%86%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [银行柜员因两个字当场翻脸](https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E5%9B%A0%E4%B8%A4%E4%B8%AA%E5%AD%97%E5%BD%93%E5%9C%BA%E7%BF%BB%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红炸包臭包玩具含急性剧毒](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%82%B8%E5%8C%85%E8%87%AD%E5%8C%85%E7%8E%A9%E5%85%B7%E5%90%AB%E6%80%A5%E6%80%A7%E5%89%A7%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美欲制裁与华为相关中国芯片公司](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%B2%E5%88%B6%E8%A3%81%E4%B8%8E%E5%8D%8E%E4%B8%BA%E7%9B%B8%E5%85%B3%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
