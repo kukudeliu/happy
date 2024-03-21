@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 14:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 14:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [记者卧底鲜芋仙曝光后厨乱象](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E9%B2%9C%E8%8A%8B%E4%BB%99%E6%9B%9D%E5%85%89%E5%90%8E%E5%8E%A8%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [张凌赫三年了终于把古装脱了](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%89%E5%B9%B4%E4%BA%86%E7%BB%88%E4%BA%8E%E6%8A%8A%E5%8F%A4%E8%A3%85%E8%84%B1%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [玲花回应演唱会取消](https://s.weibo.com/weibo?q=%23%E7%8E%B2%E8%8A%B1%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [西北工业大学校园应用启动鸿蒙化](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E5%BA%94%E7%94%A8%E5%90%AF%E5%8A%A8%E9%B8%BF%E8%92%99%E5%8C%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [谈恋爱花的钱分手后要对方还吗](https://s.weibo.com/weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E8%8A%B1%E7%9A%84%E9%92%B1%E5%88%86%E6%89%8B%E5%90%8E%E8%A6%81%E5%AF%B9%E6%96%B9%E8%BF%98%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,7 +23,7 @@
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [赵安吉死前血液酒精含量高出法定3倍](https://www.baidu.com/s?wd=%E8%B5%B5%E5%AE%89%E5%90%89%E6%AD%BB%E5%89%8D%E8%A1%80%E6%B6%B2%E9%85%92%E7%B2%BE%E5%90%AB%E9%87%8F%E9%AB%98%E5%87%BA%E6%B3%95%E5%AE%9A3%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高三男生被指在女厕长期偷拍并传播](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E7%94%B7%E7%94%9F%E8%A2%AB%E6%8C%87%E5%9C%A8%E5%A5%B3%E5%8E%95%E9%95%BF%E6%9C%9F%E5%81%B7%E6%8B%8D%E5%B9%B6%E4%BC%A0%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [洗车行夫妻收留智障孤儿16年](https://www.baidu.com/s?wd=%E6%B4%97%E8%BD%A6%E8%A1%8C%E5%A4%AB%E5%A6%BB%E6%94%B6%E7%95%99%E6%99%BA%E9%9A%9C%E5%AD%A4%E5%84%BF16%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#春日宠物联萌#](https://www.baidu.com/s?wd=%23%E6%98%A5%E6%97%A5%E5%AE%A0%E7%89%A9%E8%81%94%E8%90%8C%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [赵安吉死前血液酒精含量高出法定3倍](https://www.baidu.com/s?wd=%E8%B5%B5%E5%AE%89%E5%90%89%E6%AD%BB%E5%89%8D%E8%A1%80%E6%B6%B2%E9%85%92%E7%B2%BE%E5%90%AB%E9%87%8F%E9%AB%98%E5%87%BA%E6%B3%95%E5%AE%9A3%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高三男生被指在女厕长期偷拍并传播](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E7%94%B7%E7%94%9F%E8%A2%AB%E6%8C%87%E5%9C%A8%E5%A5%B3%E5%8E%95%E9%95%BF%E6%9C%9F%E5%81%B7%E6%8B%8D%E5%B9%B6%E4%BC%A0%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [洗车行夫妻收留智障孤儿16年](https://www.baidu.com/s?wd=%E6%B4%97%E8%BD%A6%E8%A1%8C%E5%A4%AB%E5%A6%BB%E6%94%B6%E7%95%99%E6%99%BA%E9%9A%9C%E5%AD%A4%E5%84%BF16%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#春日宠物联萌#](https://www.baidu.com/s?wd=%23%E6%98%A5%E6%97%A5%E5%AE%A0%E7%89%A9%E8%81%94%E8%90%8C%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
