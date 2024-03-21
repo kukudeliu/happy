@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 00:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 00:44:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [助力传统产业发生质的“跃迁”](https://www.baidu.com/s?wd=%E5%8A%A9%E5%8A%9B%E4%BC%A0%E7%BB%9F%E4%BA%A7%E4%B8%9A%E5%8F%91%E7%94%9F%E8%B4%A8%E7%9A%84%E2%80%9C%E8%B7%83%E8%BF%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足2-2被新加坡逼平](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-2%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%BC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教育局回应校园欺凌生最后投档](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C%E7%94%9F%E6%9C%80%E5%90%8E%E6%8A%95%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [城管制止商贩 双方只动嘴不动手](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E5%88%B6%E6%AD%A2%E5%95%86%E8%B4%A9+%E5%8F%8C%E6%96%B9%E5%8F%AA%E5%8A%A8%E5%98%B4%E4%B8%8D%E5%8A%A8%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杜海涛爆改](https://www.baidu.com/s?wd=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%88%86%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [00后已经开始有立遗嘱意识](https://www.baidu.com/s?wd=00%E5%90%8E%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E6%9C%89%E7%AB%8B%E9%81%97%E5%98%B1%E6%84%8F%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多省市教育部门就校园欺凌案发声](https://www.baidu.com/s?wd=%E5%A4%9A%E7%9C%81%E5%B8%82%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%E5%B0%B1%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C%E6%A1%88%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [助力传统产业发生质的“跃迁”](https://www.baidu.com/s?wd=%E5%8A%A9%E5%8A%9B%E4%BC%A0%E7%BB%9F%E4%BA%A7%E4%B8%9A%E5%8F%91%E7%94%9F%E8%B4%A8%E7%9A%84%E2%80%9C%E8%B7%83%E8%BF%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足2-2被新加坡逼平](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-2%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%BC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教育局回应校园欺凌生最后投档](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C%E7%94%9F%E6%9C%80%E5%90%8E%E6%8A%95%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [城管制止商贩 双方只动嘴不动手](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E5%88%B6%E6%AD%A2%E5%95%86%E8%B4%A9+%E5%8F%8C%E6%96%B9%E5%8F%AA%E5%8A%A8%E5%98%B4%E4%B8%8D%E5%8A%A8%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杜海涛爆改](https://www.baidu.com/s?wd=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%88%86%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [00后已经开始有立遗嘱意识](https://www.baidu.com/s?wd=00%E5%90%8E%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E6%9C%89%E7%AB%8B%E9%81%97%E5%98%B1%E6%84%8F%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多省市教育部门就校园欺凌案发声](https://www.baidu.com/s?wd=%E5%A4%9A%E7%9C%81%E5%B8%82%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%E5%B0%B1%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C%E6%A1%88%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
