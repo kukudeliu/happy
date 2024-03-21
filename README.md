@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 19:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 19:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [每天睡多久才算睡够了](https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E7%9D%A1%E5%A4%9A%E4%B9%85%E6%89%8D%E7%AE%97%E7%9D%A1%E5%A4%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [洗车行夫妻收留智障孤儿16年](https://www.baidu.com/s?wd=%E6%B4%97%E8%BD%A6%E8%A1%8C%E5%A4%AB%E5%A6%BB%E6%94%B6%E7%95%99%E6%99%BA%E9%9A%9C%E5%AD%A4%E5%84%BF16%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [每天睡多久才算睡够了](https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E7%9D%A1%E5%A4%9A%E4%B9%85%E6%89%8D%E7%AE%97%E7%9D%A1%E5%A4%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [洗车行夫妻收留智障孤儿16年](https://www.baidu.com/s?wd=%E6%B4%97%E8%BD%A6%E8%A1%8C%E5%A4%AB%E5%A6%BB%E6%94%B6%E7%95%99%E6%99%BA%E9%9A%9C%E5%AD%A4%E5%84%BF16%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
