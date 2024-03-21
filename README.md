@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 18:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 18:33:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [乱写简历被录取了是种什么体验](https://s.weibo.com/weibo?q=%23%E4%B9%B1%E5%86%99%E7%AE%80%E5%8E%86%E8%A2%AB%E5%BD%95%E5%8F%96%E4%BA%86%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [黄渤张艺兴快碎了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%BC%A0%E8%89%BA%E5%85%B4%E5%BF%AB%E7%A2%8E%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [杨幂再现月牙笑](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%86%8D%E7%8E%B0%E6%9C%88%E7%89%99%E7%AC%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [甄嬛传原定结局](https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E5%8E%9F%E5%AE%9A%E7%BB%93%E5%B1%80&t=31&band_rank=7&Refer=top)<br />
-8. [张馨予在东北光腿](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E5%9C%A8%E4%B8%9C%E5%8C%97%E5%85%89%E8%85%BF%23&t=31&band_rank=8&Refer=top)<br />
+7. [杜海涛爆改](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%88%86%E6%94%B9%23&t=31&band_rank=7&Refer=top)<br />
+8. [甄嬛传原定结局](https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E5%8E%9F%E5%AE%9A%E7%BB%93%E5%B1%80&t=31&band_rank=8&Refer=top)<br />
 9. [321适合许愿](https://s.weibo.com/weibo?q=%23321%E9%80%82%E5%90%88%E8%AE%B8%E6%84%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
