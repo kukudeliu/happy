@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 00:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 00:40:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [国足2-2被新加坡逼平](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-2%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%BC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教育局回应校园欺凌生最后投档](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C%E7%94%9F%E6%9C%80%E5%90%8E%E6%8A%95%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [城管制止商贩 双方只动嘴不动手](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E5%88%B6%E6%AD%A2%E5%95%86%E8%B4%A9+%E5%8F%8C%E6%96%B9%E5%8F%AA%E5%8A%A8%E5%98%B4%E4%B8%8D%E5%8A%A8%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [凯特王妃病历疑遭偷看 英多方回应](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%97%85%E5%8E%86%E7%96%91%E9%81%AD%E5%81%B7%E7%9C%8B+%E8%8B%B1%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杜海涛爆改](https://www.baidu.com/s?wd=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%88%86%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国足2-2被新加坡逼平](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-2%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%BC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教育局回应校园欺凌生最后投档](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C%E7%94%9F%E6%9C%80%E5%90%8E%E6%8A%95%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [城管制止商贩 双方只动嘴不动手](https://www.baidu.com/s?wd=%E5%9F%8E%E7%AE%A1%E5%88%B6%E6%AD%A2%E5%95%86%E8%B4%A9+%E5%8F%8C%E6%96%B9%E5%8F%AA%E5%8A%A8%E5%98%B4%E4%B8%8D%E5%8A%A8%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [凯特王妃病历疑遭偷看 英多方回应](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%97%85%E5%8E%86%E7%96%91%E9%81%AD%E5%81%B7%E7%9C%8B+%E8%8B%B1%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [杜海涛爆改](https://www.baidu.com/s?wd=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%88%86%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
