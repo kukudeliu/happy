@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 23:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 00:00:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [李小冉 我没演过小时代](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%20%E6%88%91%E6%B2%A1%E6%BC%94%E8%BF%87%E5%B0%8F%E6%97%B6%E4%BB%A3&t=31&band_rank=4&Refer=top)<br />
 5. [个人所得税收入下降](https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E%E6%94%B6%E5%85%A5%E4%B8%8B%E9%99%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [阴阳师 王者荣耀](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%20%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=6&Refer=top)<br />
-7. [新加坡2比2国足](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A12%E6%AF%942%E5%9B%BD%E8%B6%B3%23&t=31&band_rank=7&Refer=top)<br />
-8. [沈璃行止圆房](https://s.weibo.com/weibo?q=%23%E6%B2%88%E7%92%83%E8%A1%8C%E6%AD%A2%E5%9C%86%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
+7. [沈璃行止圆房](https://s.weibo.com/weibo?q=%23%E6%B2%88%E7%92%83%E8%A1%8C%E6%AD%A2%E5%9C%86%E6%88%BF%23&t=31&band_rank=7&Refer=top)<br />
+8. [新加坡2比2国足](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A12%E6%AF%942%E5%9B%BD%E8%B6%B3%23&t=31&band_rank=8&Refer=top)<br />
 9. [张琳芃失误](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%90%B3%E8%8A%83%E5%A4%B1%E8%AF%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [国足2-2被新加坡逼平](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-2%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%BC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教育局回应校园欺凌生最后投档](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C%E7%94%9F%E6%9C%80%E5%90%8E%E6%8A%95%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国第一夫人“消失”近4个月](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E2%80%9C%E6%B6%88%E5%A4%B1%E2%80%9D%E8%BF%914%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [每天睡多久才算睡够了](https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E7%9D%A1%E5%A4%9A%E4%B9%85%E6%89%8D%E7%AE%97%E7%9D%A1%E5%A4%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国足2-2被新加坡逼平](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-2%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%BC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [教育局回应校园欺凌生最后投档](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C%E7%94%9F%E6%9C%80%E5%90%8E%E6%8A%95%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [韩国第一夫人“消失”近4个月](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E2%80%9C%E6%B6%88%E5%A4%B1%E2%80%9D%E8%BF%914%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [每天睡多久才算睡够了](https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E7%9D%A1%E5%A4%9A%E4%B9%85%E6%89%8D%E7%AE%97%E7%9D%A1%E5%A4%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
