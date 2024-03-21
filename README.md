@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 13:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 13:46:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [小杨哥鞠躬致歉梅菜扣肉事件](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E9%9E%A0%E8%BA%AC%E8%87%B4%E6%AD%89%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=4&Refer=top)<br />
 5. [吴彦祖去看贾玲了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A6%E7%A5%96%E5%8E%BB%E7%9C%8B%E8%B4%BE%E7%8E%B2%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [张凌赫三年了终于把古装脱了](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%89%E5%B9%B4%E4%BA%86%E7%BB%88%E4%BA%8E%E6%8A%8A%E5%8F%A4%E8%A3%85%E8%84%B1%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
-7. [玲花回应演唱会取消](https://s.weibo.com/weibo?q=%23%E7%8E%B2%E8%8A%B1%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [西北工业大学校园应用启动鸿蒙化](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E5%BA%94%E7%94%A8%E5%90%AF%E5%8A%A8%E9%B8%BF%E8%92%99%E5%8C%96%23&t=31&band_rank=8&Refer=top)<br />
+7. [西北工业大学校园应用启动鸿蒙化](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E5%BA%94%E7%94%A8%E5%90%AF%E5%8A%A8%E9%B8%BF%E8%92%99%E5%8C%96%23&t=31&band_rank=7&Refer=top)<br />
+8. [身边真的有好多人在重启人生啊](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E8%BE%B9%E7%9C%9F%E7%9A%84%E6%9C%89%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%9C%A8%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F%E5%95%8A%23&t=31&band_rank=8&Refer=top)<br />
 9. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
