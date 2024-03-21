@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 04:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 04:38:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [凭什么要禁止东北人做翻译啊](https://s.weibo.com/weibo?q=%E5%87%AD%E4%BB%80%E4%B9%88%E8%A6%81%E7%A6%81%E6%AD%A2%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%81%9A%E7%BF%BB%E8%AF%91%E5%95%8A&t=31&band_rank=6&Refer=top)<br />
 7. [杜海涛 霍尊](https://s.weibo.com/weibo?q=%E6%9D%9C%E6%B5%B7%E6%B6%9B%20%E9%9C%8D%E5%B0%8A&t=31&band_rank=7&Refer=top)<br />
 8. [沈璃行止圆房](https://s.weibo.com/weibo?q=%23%E6%B2%88%E7%92%83%E8%A1%8C%E6%AD%A2%E5%9C%86%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [李小冉 我没演过小时代](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%20%E6%88%91%E6%B2%A1%E6%BC%94%E8%BF%87%E5%B0%8F%E6%97%B6%E4%BB%A3&t=31&band_rank=9&Refer=top)<br />
+9. [反诈老陈晒2023年收入](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E6%99%922023%E5%B9%B4%E6%94%B6%E5%85%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
