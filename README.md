@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 12:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 12:59:02</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [赵安吉死前血液酒精含量高出法定3倍](https://www.baidu.com/s?wd=%E8%B5%B5%E5%AE%89%E5%90%89%E6%AD%BB%E5%89%8D%E8%A1%80%E6%B6%B2%E9%85%92%E7%B2%BE%E5%90%AB%E9%87%8F%E9%AB%98%E5%87%BA%E6%B3%95%E5%AE%9A3%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男孩长太高 班主任站凳子上训](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E9%95%BF%E5%A4%AA%E9%AB%98+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%AB%99%E5%87%B3%E5%AD%90%E4%B8%8A%E8%AE%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [两名“内鬼”同日被通报逮捕](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%90%8C%E6%97%A5%E8%A2%AB%E9%80%9A%E6%8A%A5%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [遏制“自动续费”问题有新规](https://www.baidu.com/s?wd=%E9%81%8F%E5%88%B6%E2%80%9C%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E2%80%9D%E9%97%AE%E9%A2%98%E6%9C%89%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#春日宠物联萌#](https://www.baidu.com/s?wd=%23%E6%98%A5%E6%97%A5%E5%AE%A0%E7%89%A9%E8%81%94%E8%90%8C%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [赵安吉死前血液酒精含量高出法定3倍](https://www.baidu.com/s?wd=%E8%B5%B5%E5%AE%89%E5%90%89%E6%AD%BB%E5%89%8D%E8%A1%80%E6%B6%B2%E9%85%92%E7%B2%BE%E5%90%AB%E9%87%8F%E9%AB%98%E5%87%BA%E6%B3%95%E5%AE%9A3%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男孩长太高 班主任站凳子上训](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E9%95%BF%E5%A4%AA%E9%AB%98+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%AB%99%E5%87%B3%E5%AD%90%E4%B8%8A%E8%AE%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [两名“内鬼”同日被通报逮捕](https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%90%8C%E6%97%A5%E8%A2%AB%E9%80%9A%E6%8A%A5%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [遏制“自动续费”问题有新规](https://www.baidu.com/s?wd=%E9%81%8F%E5%88%B6%E2%80%9C%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E2%80%9D%E9%97%AE%E9%A2%98%E6%9C%89%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#春日宠物联萌#](https://www.baidu.com/s?wd=%23%E6%98%A5%E6%97%A5%E5%AE%A0%E7%89%A9%E8%81%94%E8%90%8C%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
