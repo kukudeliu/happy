@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 16:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 16:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [乌首都遭俄军数枚高超音速导弹袭击](https://www.baidu.com/s?wd=%E4%B9%8C%E9%A6%96%E9%83%BD%E9%81%AD%E4%BF%84%E5%86%9B%E6%95%B0%E6%9E%9A%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [13岁男孩遭自家狗撕咬近百处伤口](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E9%81%AD%E8%87%AA%E5%AE%B6%E7%8B%97%E6%92%95%E5%92%AC%E8%BF%91%E7%99%BE%E5%A4%84%E4%BC%A4%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [超3亿人存在睡眠障碍](https://www.baidu.com/s?wd=%E8%B6%853%E4%BA%BF%E4%BA%BA%E5%AD%98%E5%9C%A8%E7%9D%A1%E7%9C%A0%E9%9A%9C%E7%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [翟潇闻站台霸王茶姬 说成茶颜悦色](https://www.baidu.com/s?wd=%E7%BF%9F%E6%BD%87%E9%97%BB%E7%AB%99%E5%8F%B0%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC+%E8%AF%B4%E6%88%90%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [乌首都遭俄军数枚高超音速导弹袭击](https://www.baidu.com/s?wd=%E4%B9%8C%E9%A6%96%E9%83%BD%E9%81%AD%E4%BF%84%E5%86%9B%E6%95%B0%E6%9E%9A%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [13岁男孩遭自家狗撕咬近百处伤口](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E9%81%AD%E8%87%AA%E5%AE%B6%E7%8B%97%E6%92%95%E5%92%AC%E8%BF%91%E7%99%BE%E5%A4%84%E4%BC%A4%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [超3亿人存在睡眠障碍](https://www.baidu.com/s?wd=%E8%B6%853%E4%BA%BF%E4%BA%BA%E5%AD%98%E5%9C%A8%E7%9D%A1%E7%9C%A0%E9%9A%9C%E7%A2%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [翟潇闻站台霸王茶姬 说成茶颜悦色](https://www.baidu.com/s?wd=%E7%BF%9F%E6%BD%87%E9%97%BB%E7%AB%99%E5%8F%B0%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC+%E8%AF%B4%E6%88%90%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
