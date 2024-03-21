@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 16:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 16:15:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [离婚冷静期杀妻案择期宣判](https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E5%86%B7%E9%9D%99%E6%9C%9F%E6%9D%80%E5%A6%BB%E6%A1%88%E6%8B%A9%E6%9C%9F%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子怕受欺负带《孙子兵法》偷渡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%95%E5%8F%97%E6%AC%BA%E8%B4%9F%E5%B8%A6%E3%80%8A%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95%E3%80%8B%E5%81%B7%E6%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌首都遭俄军数枚高超音速导弹袭击](https://www.baidu.com/s?wd=%E4%B9%8C%E9%A6%96%E9%83%BD%E9%81%AD%E4%BF%84%E5%86%9B%E6%95%B0%E6%9E%9A%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [柳州螺蛳粉协会秘书长谈增臭剂](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%8D%8F%E4%BC%9A%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B0%88%E5%A2%9E%E8%87%AD%E5%89%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [乌首都遭俄军数枚高超音速导弹袭击](https://www.baidu.com/s?wd=%E4%B9%8C%E9%A6%96%E9%83%BD%E9%81%AD%E4%BF%84%E5%86%9B%E6%95%B0%E6%9E%9A%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子怕受欺负带《孙子兵法》偷渡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%95%E5%8F%97%E6%AC%BA%E8%B4%9F%E5%B8%A6%E3%80%8A%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95%E3%80%8B%E5%81%B7%E6%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [离婚冷静期杀妻案择期宣判](https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E5%86%B7%E9%9D%99%E6%9C%9F%E6%9D%80%E5%A6%BB%E6%A1%88%E6%8B%A9%E6%9C%9F%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子怕受欺负带《孙子兵法》偷渡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%95%E5%8F%97%E6%AC%BA%E8%B4%9F%E5%B8%A6%E3%80%8A%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95%E3%80%8B%E5%81%B7%E6%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [乌首都遭俄军数枚高超音速导弹袭击](https://www.baidu.com/s?wd=%E4%B9%8C%E9%A6%96%E9%83%BD%E9%81%AD%E4%BF%84%E5%86%9B%E6%95%B0%E6%9E%9A%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [柳州螺蛳粉协会秘书长谈增臭剂](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%8D%8F%E4%BC%9A%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B0%88%E5%A2%9E%E8%87%AD%E5%89%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [乌首都遭俄军数枚高超音速导弹袭击](https://www.baidu.com/s?wd=%E4%B9%8C%E9%A6%96%E9%83%BD%E9%81%AD%E4%BF%84%E5%86%9B%E6%95%B0%E6%9E%9A%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子怕受欺负带《孙子兵法》偷渡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%80%95%E5%8F%97%E6%AC%BA%E8%B4%9F%E5%B8%A6%E3%80%8A%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95%E3%80%8B%E5%81%B7%E6%B8%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
