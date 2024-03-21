@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 18:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 18:19:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [勒沃库森迎两张中国面孔](https://www.baidu.com/s?wd=%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE%E8%BF%8E%E4%B8%A4%E5%BC%A0%E4%B8%AD%E5%9B%BD%E9%9D%A2%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [天水麻辣烫走红:有人凌晨2点排队](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%B5%B0%E7%BA%A2%3A%E6%9C%89%E4%BA%BA%E5%87%8C%E6%99%A82%E7%82%B9%E6%8E%92%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [勒沃库森迎两张中国面孔](https://www.baidu.com/s?wd=%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE%E8%BF%8E%E4%B8%A4%E5%BC%A0%E4%B8%AD%E5%9B%BD%E9%9D%A2%E5%AD%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [天水麻辣烫走红:有人凌晨2点排队](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%B5%B0%E7%BA%A2%3A%E6%9C%89%E4%BA%BA%E5%87%8C%E6%99%A82%E7%82%B9%E6%8E%92%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
