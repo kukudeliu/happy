@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 13:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 13:39:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [娃哈哈网店销量暴降 客服：因为没货](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E7%BD%91%E5%BA%97%E9%94%80%E9%87%8F%E6%9A%B4%E9%99%8D+%E5%AE%A2%E6%9C%8D%EF%BC%9A%E5%9B%A0%E4%B8%BA%E6%B2%A1%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [赵安吉死前血液酒精含量高出法定3倍](https://www.baidu.com/s?wd=%E8%B5%B5%E5%AE%89%E5%90%89%E6%AD%BB%E5%89%8D%E8%A1%80%E6%B6%B2%E9%85%92%E7%B2%BE%E5%90%AB%E9%87%8F%E9%AB%98%E5%87%BA%E6%B3%95%E5%AE%9A3%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [武汉一剧组封路与居民发生争执](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%80%E5%89%A7%E7%BB%84%E5%B0%81%E8%B7%AF%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8F%91%E7%94%9F%E4%BA%89%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [王树国那些金句为何能引人共鸣](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E9%82%A3%E4%BA%9B%E9%87%91%E5%8F%A5%E4%B8%BA%E4%BD%95%E8%83%BD%E5%BC%95%E4%BA%BA%E5%85%B1%E9%B8%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [调查称我国居民平均在0点后入睡](https://www.baidu.com/s?wd=%E8%B0%83%E6%9F%A5%E7%A7%B0%E6%88%91%E5%9B%BD%E5%B1%85%E6%B0%91%E5%B9%B3%E5%9D%87%E5%9C%A80%E7%82%B9%E5%90%8E%E5%85%A5%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#春日宠物联萌#](https://www.baidu.com/s?wd=%23%E6%98%A5%E6%97%A5%E5%AE%A0%E7%89%A9%E8%81%94%E8%90%8C%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [娃哈哈网店销量暴降 客服：因为没货](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E7%BD%91%E5%BA%97%E9%94%80%E9%87%8F%E6%9A%B4%E9%99%8D+%E5%AE%A2%E6%9C%8D%EF%BC%9A%E5%9B%A0%E4%B8%BA%E6%B2%A1%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [赵安吉死前血液酒精含量高出法定3倍](https://www.baidu.com/s?wd=%E8%B5%B5%E5%AE%89%E5%90%89%E6%AD%BB%E5%89%8D%E8%A1%80%E6%B6%B2%E9%85%92%E7%B2%BE%E5%90%AB%E9%87%8F%E9%AB%98%E5%87%BA%E6%B3%95%E5%AE%9A3%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [武汉一剧组封路与居民发生争执](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%80%E5%89%A7%E7%BB%84%E5%B0%81%E8%B7%AF%E4%B8%8E%E5%B1%85%E6%B0%91%E5%8F%91%E7%94%9F%E4%BA%89%E6%89%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [王树国那些金句为何能引人共鸣](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E9%82%A3%E4%BA%9B%E9%87%91%E5%8F%A5%E4%B8%BA%E4%BD%95%E8%83%BD%E5%BC%95%E4%BA%BA%E5%85%B1%E9%B8%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [调查称我国居民平均在0点后入睡](https://www.baidu.com/s?wd=%E8%B0%83%E6%9F%A5%E7%A7%B0%E6%88%91%E5%9B%BD%E5%B1%85%E6%B0%91%E5%B9%B3%E5%9D%87%E5%9C%A80%E7%82%B9%E5%90%8E%E5%85%A5%E7%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#春日宠物联萌#](https://www.baidu.com/s?wd=%23%E6%98%A5%E6%97%A5%E5%AE%A0%E7%89%A9%E8%81%94%E8%90%8C%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
