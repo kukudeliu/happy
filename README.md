@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 18:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 18:16:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [奋力谱写中部地区崛起新篇章](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E8%B0%B1%E5%86%99%E4%B8%AD%E9%83%A8%E5%9C%B0%E5%8C%BA%E5%B4%9B%E8%B5%B7%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [柳州螺蛳粉协会秘书长谈增臭剂](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%8D%8F%E4%BC%9A%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B0%88%E5%A2%9E%E8%87%AD%E5%89%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [菲34人非法登铁线礁 中国海警回应](https://www.baidu.com/s?wd=%E8%8F%B234%E4%BA%BA%E9%9D%9E%E6%B3%95%E7%99%BB%E9%93%81%E7%BA%BF%E7%A4%81+%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [官宣！普京赢得俄罗斯总统选举](https://www.baidu.com/s?wd=%E5%AE%98%E5%AE%A3%EF%BC%81%E6%99%AE%E4%BA%AC%E8%B5%A2%E5%BE%97%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [每天睡多久才算睡够了](https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E7%9D%A1%E5%A4%9A%E4%B9%85%E6%89%8D%E7%AE%97%E7%9D%A1%E5%A4%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [天水麻辣烫走红:有人凌晨2点排队](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%B5%B0%E7%BA%A2%3A%E6%9C%89%E4%BA%BA%E5%87%8C%E6%99%A82%E7%82%B9%E6%8E%92%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [奋力谱写中部地区崛起新篇章](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E8%B0%B1%E5%86%99%E4%B8%AD%E9%83%A8%E5%9C%B0%E5%8C%BA%E5%B4%9B%E8%B5%B7%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [柳州螺蛳粉协会秘书长谈增臭剂](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%8D%8F%E4%BC%9A%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B0%88%E5%A2%9E%E8%87%AD%E5%89%82&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [菲34人非法登铁线礁 中国海警回应](https://www.baidu.com/s?wd=%E8%8F%B234%E4%BA%BA%E9%9D%9E%E6%B3%95%E7%99%BB%E9%93%81%E7%BA%BF%E7%A4%81+%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [官宣！普京赢得俄罗斯总统选举](https://www.baidu.com/s?wd=%E5%AE%98%E5%AE%A3%EF%BC%81%E6%99%AE%E4%BA%AC%E8%B5%A2%E5%BE%97%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [每天睡多久才算睡够了](https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E7%9D%A1%E5%A4%9A%E4%B9%85%E6%89%8D%E7%AE%97%E7%9D%A1%E5%A4%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [天水麻辣烫走红:有人凌晨2点排队](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%B5%B0%E7%BA%A2%3A%E6%9C%89%E4%BA%BA%E5%87%8C%E6%99%A82%E7%82%B9%E6%8E%92%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
