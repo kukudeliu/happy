@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 20:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 20:37:01</h4></div>
 
 > 微博  
 
-1. [反诈老陈晒2023年收入](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E6%99%922023%E5%B9%B4%E6%94%B6%E5%85%A5%23&t=31&band_rank=1&Refer=top)<br />
-2. [梦中梦中梦中梦中梦](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E6%A2%A6%E4%B8%AD%E6%A2%A6%E4%B8%AD%E6%A2%A6%E4%B8%AD%E6%A2%A6&t=31&band_rank=2&Refer=top)<br />
+1. [梦中梦中梦中梦中梦](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E6%A2%A6%E4%B8%AD%E6%A2%A6%E4%B8%AD%E6%A2%A6%E4%B8%AD%E6%A2%A6&t=31&band_rank=1&Refer=top)<br />
+2. [反诈老陈晒2023年收入](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E6%99%922023%E5%B9%B4%E6%94%B6%E5%85%A5%23&t=31&band_rank=2&Refer=top)<br />
 3. [用课本封面打开春耕画卷](https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%AF%BE%E6%9C%AC%E5%B0%81%E9%9D%A2%E6%89%93%E5%BC%80%E6%98%A5%E8%80%95%E7%94%BB%E5%8D%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [阴阳师 王者荣耀](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%20%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=4&Refer=top)<br />
 5. [消保委点名周杰伦演唱会抢票先充VIP](https://s.weibo.com/weibo?q=%23%E6%B6%88%E4%BF%9D%E5%A7%94%E7%82%B9%E5%90%8D%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8%E5%85%88%E5%85%85VIP%23&t=31&band_rank=5&Refer=top)<br />
