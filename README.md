@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 19:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 19:46:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [预制菜明确不允许添加防腐剂](https://www.baidu.com/s?wd=%E9%A2%84%E5%88%B6%E8%8F%9C%E6%98%8E%E7%A1%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E6%B7%BB%E5%8A%A0%E9%98%B2%E8%85%90%E5%89%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [大学女老师课堂表演赣剧火出圈](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E5%A5%B3%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%A1%A8%E6%BC%94%E8%B5%A3%E5%89%A7%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医院称2名医学生先后自杀情况属实](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E7%A7%B02%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%85%88%E5%90%8E%E8%87%AA%E6%9D%80%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [医院称2名医学生先后自杀情况属实](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E7%A7%B02%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%85%88%E5%90%8E%E8%87%AA%E6%9D%80%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [开封王婆喊话网红别上台蹭流量](https://www.baidu.com/s?wd=%E5%BC%80%E5%B0%81%E7%8E%8B%E5%A9%86%E5%96%8A%E8%AF%9D%E7%BD%91%E7%BA%A2%E5%88%AB%E4%B8%8A%E5%8F%B0%E8%B9%AD%E6%B5%81%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [预制菜明确不允许添加防腐剂](https://www.baidu.com/s?wd=%E9%A2%84%E5%88%B6%E8%8F%9C%E6%98%8E%E7%A1%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E6%B7%BB%E5%8A%A0%E9%98%B2%E8%85%90%E5%89%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [大学女老师课堂表演赣剧火出圈](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E5%A5%B3%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%A1%A8%E6%BC%94%E8%B5%A3%E5%89%A7%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [医院称2名医学生先后自杀情况属实](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E7%A7%B02%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%85%88%E5%90%8E%E8%87%AA%E6%9D%80%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [医院称2名医学生先后自杀情况属实](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E7%A7%B02%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%85%88%E5%90%8E%E8%87%AA%E6%9D%80%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [开封王婆喊话网红别上台蹭流量](https://www.baidu.com/s?wd=%E5%BC%80%E5%B0%81%E7%8E%8B%E5%A9%86%E5%96%8A%E8%AF%9D%E7%BD%91%E7%BA%A2%E5%88%AB%E4%B8%8A%E5%8F%B0%E8%B9%AD%E6%B5%81%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
