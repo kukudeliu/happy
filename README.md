@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 18:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 18:27:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [张馨予在东北光腿](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E5%9C%A8%E4%B8%9C%E5%8C%97%E5%85%89%E8%85%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [乱写简历被录取了是种什么体验](https://s.weibo.com/weibo?q=%23%E4%B9%B1%E5%86%99%E7%AE%80%E5%8E%86%E8%A2%AB%E5%BD%95%E5%8F%96%E4%BA%86%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [甄嬛传原定结局](https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E5%8E%9F%E5%AE%9A%E7%BB%93%E5%B1%80&t=31&band_rank=6&Refer=top)<br />
-7. [金世佳猎罪图鉴2路透](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%B8%96%E4%BD%B3%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B42%E8%B7%AF%E9%80%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [黄渤张艺兴快碎了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%BC%A0%E8%89%BA%E5%85%B4%E5%BF%AB%E7%A2%8E%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [黄渤张艺兴快碎了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%BC%A0%E8%89%BA%E5%85%B4%E5%BF%AB%E7%A2%8E%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [金世佳猎罪图鉴2路透](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%B8%96%E4%BD%B3%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B42%E8%B7%AF%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
 9. [321适合许愿](https://s.weibo.com/weibo?q=%23321%E9%80%82%E5%90%88%E8%AE%B8%E6%84%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [天水麻辣烫成都分烫火到闭店](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%88%90%E9%83%BD%E5%88%86%E7%83%AB%E7%81%AB%E5%88%B0%E9%97%AD%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王树国那些金句为何能引人共鸣](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E9%82%A3%E4%BA%9B%E9%87%91%E5%8F%A5%E4%B8%BA%E4%BD%95%E8%83%BD%E5%BC%95%E4%BA%BA%E5%85%B1%E9%B8%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国医疗界酝酿全面罢工](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%96%97%E7%95%8C%E9%85%9D%E9%85%BF%E5%85%A8%E9%9D%A2%E7%BD%A2%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [天水麻辣烫成都分烫火到闭店](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%88%90%E9%83%BD%E5%88%86%E7%83%AB%E7%81%AB%E5%88%B0%E9%97%AD%E5%BA%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王树国那些金句为何能引人共鸣](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E9%82%A3%E4%BA%9B%E9%87%91%E5%8F%A5%E4%B8%BA%E4%BD%95%E8%83%BD%E5%BC%95%E4%BA%BA%E5%85%B1%E9%B8%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国医疗界酝酿全面罢工](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%96%97%E7%95%8C%E9%85%9D%E9%85%BF%E5%85%A8%E9%9D%A2%E7%BD%A2%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
