@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 14:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 14:27:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [吴彦祖去看贾玲了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A6%E7%A5%96%E5%8E%BB%E7%9C%8B%E8%B4%BE%E7%8E%B2%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [张凌赫三年了终于把古装脱了](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%89%E5%B9%B4%E4%BA%86%E7%BB%88%E4%BA%8E%E6%8A%8A%E5%8F%A4%E8%A3%85%E8%84%B1%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [玲花回应演唱会取消](https://s.weibo.com/weibo?q=%23%E7%8E%B2%E8%8A%B1%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [身边真的有好多人在重启人生啊](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E8%BE%B9%E7%9C%9F%E7%9A%84%E6%9C%89%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%9C%A8%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
+9. [小米发布会](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -19,7 +19,7 @@
 
 1. [奋力谱写中部地区崛起新篇章](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E8%B0%B1%E5%86%99%E4%B8%AD%E9%83%A8%E5%9C%B0%E5%8C%BA%E5%B4%9B%E8%B5%B7%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [每天睡多久才算睡够了](https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E7%9D%A1%E5%A4%9A%E4%B9%85%E6%89%8D%E7%AE%97%E7%9D%A1%E5%A4%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [娃哈哈网店销量暴降 客服：因为没货](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E7%BD%91%E5%BA%97%E9%94%80%E9%87%8F%E6%9A%B4%E9%99%8D+%E5%AE%A2%E6%9C%8D%EF%BC%9A%E5%9B%A0%E4%B8%BA%E6%B2%A1%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [柳州螺蛳粉协会秘书长谈增臭剂](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%8D%8F%E4%BC%9A%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B0%88%E5%A2%9E%E8%87%AD%E5%89%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [赵安吉死前血液酒精含量高出法定3倍](https://www.baidu.com/s?wd=%E8%B5%B5%E5%AE%89%E5%90%89%E6%AD%BB%E5%89%8D%E8%A1%80%E6%B6%B2%E9%85%92%E7%B2%BE%E5%90%AB%E9%87%8F%E9%AB%98%E5%87%BA%E6%B3%95%E5%AE%9A3%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高三男生被指在女厕长期偷拍并传播](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E7%94%B7%E7%94%9F%E8%A2%AB%E6%8C%87%E5%9C%A8%E5%A5%B3%E5%8E%95%E9%95%BF%E6%9C%9F%E5%81%B7%E6%8B%8D%E5%B9%B6%E4%BC%A0%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [奋力谱写中部地区崛起新篇章](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E8%B0%B1%E5%86%99%E4%B8%AD%E9%83%A8%E5%9C%B0%E5%8C%BA%E5%B4%9B%E8%B5%B7%E6%96%B0%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [每天睡多久才算睡够了](https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E7%9D%A1%E5%A4%9A%E4%B9%85%E6%89%8D%E7%AE%97%E7%9D%A1%E5%A4%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [娃哈哈网店销量暴降 客服：因为没货](https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E7%BD%91%E5%BA%97%E9%94%80%E9%87%8F%E6%9A%B4%E9%99%8D+%E5%AE%A2%E6%9C%8D%EF%BC%9A%E5%9B%A0%E4%B8%BA%E6%B2%A1%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [柳州螺蛳粉协会秘书长谈增臭剂](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%8D%8F%E4%BC%9A%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B0%88%E5%A2%9E%E8%87%AD%E5%89%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [赵安吉死前血液酒精含量高出法定3倍](https://www.baidu.com/s?wd=%E8%B5%B5%E5%AE%89%E5%90%89%E6%AD%BB%E5%89%8D%E8%A1%80%E6%B6%B2%E9%85%92%E7%B2%BE%E5%90%AB%E9%87%8F%E9%AB%98%E5%87%BA%E6%B3%95%E5%AE%9A3%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [高三男生被指在女厕长期偷拍并传播](https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E7%94%B7%E7%94%9F%E8%A2%AB%E6%8C%87%E5%9C%A8%E5%A5%B3%E5%8E%95%E9%95%BF%E6%9C%9F%E5%81%B7%E6%8B%8D%E5%B9%B6%E4%BC%A0%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
