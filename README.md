@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 12:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 12:39:01</h4></div>
 
 > 微博  
 
-1. [我爸把养了六年的猫扔了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E6%8A%8A%E5%85%BB%E4%BA%86%E5%85%AD%E5%B9%B4%E7%9A%84%E7%8C%AB%E6%89%94%E4%BA%86%23&t=31&band_rank=1&Refer=top)<br />
-2. [凤凰传奇演唱会取消](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%23&t=31&band_rank=2&Refer=top)<br />
+1. [凤凰传奇演唱会取消](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%23&t=31&band_rank=1&Refer=top)<br />
+2. [我爸把养了六年的猫扔了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E6%8A%8A%E5%85%BB%E4%BA%86%E5%85%AD%E5%B9%B4%E7%9A%84%E7%8C%AB%E6%89%94%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [用课本封面打开春耕画卷](https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%AF%BE%E6%9C%AC%E5%B0%81%E9%9D%A2%E6%89%93%E5%BC%80%E6%98%A5%E8%80%95%E7%94%BB%E5%8D%B7%23&t=31&band_rank=3&Refer=top)<br />
 4. [吴彦祖去看贾玲了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A6%E7%A5%96%E5%8E%BB%E7%9C%8B%E8%B4%BE%E7%8E%B2%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [身边真的有好多人在重启人生啊](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E8%BE%B9%E7%9C%9F%E7%9A%84%E6%9C%89%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%9C%A8%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F%E5%95%8A%23&t=31&band_rank=5&Refer=top)<br />
