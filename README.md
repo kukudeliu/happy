@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 15:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 15:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [做了一年半的阿姨发短信来内涵](https://s.weibo.com/weibo?q=%23%E5%81%9A%E4%BA%86%E4%B8%80%E5%B9%B4%E5%8D%8A%E7%9A%84%E9%98%BF%E5%A7%A8%E5%8F%91%E7%9F%AD%E4%BF%A1%E6%9D%A5%E5%86%85%E6%B6%B5%23&t=31&band_rank=6&Refer=top)<br />
 7. [小米发布会](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=7&Refer=top)<br />
 8. [记者卧底鲜芋仙曝光后厨乱象](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E9%B2%9C%E8%8A%8B%E4%BB%99%E6%9B%9D%E5%85%89%E5%90%8E%E5%8E%A8%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [四六级报名](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%8A%A5%E5%90%8D&t=31&band_rank=9&Refer=top)<br />
+9. [柳州螺蛳粉协会秘书长谈增臭剂](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%B7%9E%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%8D%8F%E4%BC%9A%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B0%88%E5%A2%9E%E8%87%AD%E5%89%82%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
