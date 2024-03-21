@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 09:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 09:45:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [古驰突然就卖不动了](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E9%A9%B0%E7%AA%81%E7%84%B6%E5%B0%B1%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [不吃早饭比不吃晚饭危害更大吗](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%90%83%E6%97%A9%E9%A5%AD%E6%AF%94%E4%B8%8D%E5%90%83%E6%99%9A%E9%A5%AD%E5%8D%B1%E5%AE%B3%E6%9B%B4%E5%A4%A7%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [结婚邀请了大学室友](https://s.weibo.com/weibo?q=%E7%BB%93%E5%A9%9A%E9%82%80%E8%AF%B7%E4%BA%86%E5%A4%A7%E5%AD%A6%E5%AE%A4%E5%8F%8B&t=31&band_rank=6&Refer=top)<br />
-7. [赵丽颖说拍大结局从早哭到晚](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E6%8B%8D%E5%A4%A7%E7%BB%93%E5%B1%80%E4%BB%8E%E6%97%A9%E5%93%AD%E5%88%B0%E6%99%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [睡不着的时候试试3个不管不顾](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E4%B8%8D%E7%9D%80%E7%9A%84%E6%97%B6%E5%80%99%E8%AF%95%E8%AF%953%E4%B8%AA%E4%B8%8D%E7%AE%A1%E4%B8%8D%E9%A1%BE%23&t=31&band_rank=8&Refer=top)<br />
+7. [陈乔恩 陈欣怡](https://s.weibo.com/weibo?q=%E9%99%88%E4%B9%94%E6%81%A9%20%E9%99%88%E6%AC%A3%E6%80%A1&t=31&band_rank=7&Refer=top)<br />
+8. [赵丽颖说拍大结局从早哭到晚](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E6%8B%8D%E5%A4%A7%E7%BB%93%E5%B1%80%E4%BB%8E%E6%97%A9%E5%93%AD%E5%88%B0%E6%99%9A%23&t=31&band_rank=8&Refer=top)<br />
 9. [素媛案罪犯赵斗淳又被判了](https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E7%BD%AA%E7%8A%AF%E8%B5%B5%E6%96%97%E6%B7%B3%E5%8F%88%E8%A2%AB%E5%88%A4%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
