@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 03:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 03:24:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [助力传统产业发生质的“跃迁”](https://www.baidu.com/s?wd=%E5%8A%A9%E5%8A%9B%E4%BC%A0%E7%BB%9F%E4%BA%A7%E4%B8%9A%E5%8F%91%E7%94%9F%E8%B4%A8%E7%9A%84%E2%80%9C%E8%B7%83%E8%BF%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足2-2被新加坡逼平](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-2%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%BC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杜海涛爆改](https://www.baidu.com/s?wd=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%88%86%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩国第一夫人“消失”近4个月](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E2%80%9C%E6%B6%88%E5%A4%B1%E2%80%9D%E8%BF%914%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美欲制裁与华为相关中国芯片公司](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%B2%E5%88%B6%E8%A3%81%E4%B8%8E%E5%8D%8E%E4%B8%BA%E7%9B%B8%E5%85%B3%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大学女老师课堂表演赣剧火出圈](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E5%A5%B3%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%A1%A8%E6%BC%94%E8%B5%A3%E5%89%A7%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男童留遗书坠楼案二审未宣判](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E7%95%99%E9%81%97%E4%B9%A6%E5%9D%A0%E6%A5%BC%E6%A1%88%E4%BA%8C%E5%AE%A1%E6%9C%AA%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [助力传统产业发生质的“跃迁”](https://www.baidu.com/s?wd=%E5%8A%A9%E5%8A%9B%E4%BC%A0%E7%BB%9F%E4%BA%A7%E4%B8%9A%E5%8F%91%E7%94%9F%E8%B4%A8%E7%9A%84%E2%80%9C%E8%B7%83%E8%BF%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [国足2-2被新加坡逼平](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-2%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%BC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [杜海涛爆改](https://www.baidu.com/s?wd=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%88%86%E6%94%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩国第一夫人“消失”近4个月](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E2%80%9C%E6%B6%88%E5%A4%B1%E2%80%9D%E8%BF%914%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [美欲制裁与华为相关中国芯片公司](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%B2%E5%88%B6%E8%A3%81%E4%B8%8E%E5%8D%8E%E4%B8%BA%E7%9B%B8%E5%85%B3%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [大学女老师课堂表演赣剧火出圈](https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E5%A5%B3%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%A1%A8%E6%BC%94%E8%B5%A3%E5%89%A7%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男童留遗书坠楼案二审未宣判](https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E7%95%99%E9%81%97%E4%B9%A6%E5%9D%A0%E6%A5%BC%E6%A1%88%E4%BA%8C%E5%AE%A1%E6%9C%AA%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
