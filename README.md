@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 16:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 16:28:02</h4></div>
 
 > 微博  
 
-1. [刘维做手术](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E5%81%9A%E6%89%8B%E6%9C%AF%23&t=31&band_rank=1&Refer=top)<br />
-2. [乳房自检不能捏而要按](https://s.weibo.com/weibo?q=%23%E4%B9%B3%E6%88%BF%E8%87%AA%E6%A3%80%E4%B8%8D%E8%83%BD%E6%8D%8F%E8%80%8C%E8%A6%81%E6%8C%89%23&t=31&band_rank=2&Refer=top)<br />
+1. [乳房自检不能捏而要按](https://s.weibo.com/weibo?q=%23%E4%B9%B3%E6%88%BF%E8%87%AA%E6%A3%80%E4%B8%8D%E8%83%BD%E6%8D%8F%E8%80%8C%E8%A6%81%E6%8C%89%23&t=31&band_rank=1&Refer=top)<br />
+2. [刘维做手术](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E5%81%9A%E6%89%8B%E6%9C%AF%23&t=31&band_rank=2&Refer=top)<br />
 3. [认识你真好](https://s.weibo.com/weibo?q=%23%E8%AE%A4%E8%AF%86%E4%BD%A0%E7%9C%9F%E5%A5%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [乱写简历被录取了是种什么体验](https://s.weibo.com/weibo?q=%23%E4%B9%B1%E5%86%99%E7%AE%80%E5%8E%86%E8%A2%AB%E5%BD%95%E5%8F%96%E4%BA%86%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [鲜芋仙致歉声明](https://s.weibo.com/weibo?q=%23%E9%B2%9C%E8%8A%8B%E4%BB%99%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23&t=31&band_rank=5&Refer=top)<br />
