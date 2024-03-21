@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 02:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 02:26:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [今年春耕科技范儿满满](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%98%A5%E8%80%95%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [阴阳师 王者荣耀](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%20%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=4&Refer=top)<br />
 5. [李小冉 我没演过小时代](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%20%E6%88%91%E6%B2%A1%E6%BC%94%E8%BF%87%E5%B0%8F%E6%97%B6%E4%BB%A3&t=31&band_rank=5&Refer=top)<br />
-6. [张琳芃说是时候结束国家队生涯了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%90%B3%E8%8A%83%E8%AF%B4%E6%98%AF%E6%97%B6%E5%80%99%E7%BB%93%E6%9D%9F%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+6. [金秀贤IU合照](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4IU%E5%90%88%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [杜海涛 霍尊](https://s.weibo.com/weibo?q=%E6%9D%9C%E6%B5%B7%E6%B6%9B%20%E9%9C%8D%E5%B0%8A&t=31&band_rank=7&Refer=top)<br />
-8. [金秀贤IU合照](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4IU%E5%90%88%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
+8. [张琳芃说是时候结束国家队生涯了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%90%B3%E8%8A%83%E8%AF%B4%E6%98%AF%E6%97%B6%E5%80%99%E7%BB%93%E6%9D%9F%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [个人所得税收入下降](https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E%E6%94%B6%E5%85%A5%E4%B8%8B%E9%99%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [国足2-2被新加坡逼平](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-2%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%BC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医院也出剧本杀了](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E4%B9%9F%E5%87%BA%E5%89%A7%E6%9C%AC%E6%9D%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国足2-2被新加坡逼平](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-2%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%BC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [医院也出剧本杀了](https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E4%B9%9F%E5%87%BA%E5%89%A7%E6%9C%AC%E6%9D%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
