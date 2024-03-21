@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 03:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 03:10:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郑合惠子上桌原因](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E4%B8%8A%E6%A1%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [杜海涛 霍尊](https://s.weibo.com/weibo?q=%E6%9D%9C%E6%B5%B7%E6%B6%9B%20%E9%9C%8D%E5%B0%8A&t=31&band_rank=7&Refer=top)<br />
 8. [沈璃行止圆房](https://s.weibo.com/weibo?q=%23%E6%B2%88%E7%92%83%E8%A1%8C%E6%AD%A2%E5%9C%86%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [李小冉 我没演过小时代](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%20%E6%88%91%E6%B2%A1%E6%BC%94%E8%BF%87%E5%B0%8F%E6%97%B6%E4%BB%A3&t=31&band_rank=9&Refer=top)<br />
+9. [王者荣耀大司命](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%A4%A7%E5%8F%B8%E5%91%BD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
