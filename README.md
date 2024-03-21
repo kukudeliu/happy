@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 22:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 22:36:02</h4></div>
 
 > 微博  
 
@@ -21,10 +21,10 @@
 2. [菲34人非法登铁线礁 中国海警回应](https://www.baidu.com/s?wd=%E8%8F%B234%E4%BA%BA%E9%9D%9E%E6%B3%95%E7%99%BB%E9%93%81%E7%BA%BF%E7%A4%81+%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [预制菜明确不允许添加防腐剂](https://www.baidu.com/s?wd=%E9%A2%84%E5%88%B6%E8%8F%9C%E6%98%8E%E7%A1%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E6%B7%BB%E5%8A%A0%E9%98%B2%E8%85%90%E5%89%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [助力传统产业发生质的“跃迁”](https://www.baidu.com/s?wd=%E5%8A%A9%E5%8A%9B%E4%BC%A0%E7%BB%9F%E4%BA%A7%E4%B8%9A%E5%8F%91%E7%94%9F%E8%B4%A8%E7%9A%84%E2%80%9C%E8%B7%83%E8%BF%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [世预赛：国足vs新加坡](https://www.baidu.com/s?wd=%E4%B8%96%E9%A2%84%E8%B5%9B%EF%BC%9A%E5%9B%BD%E8%B6%B3vs%E6%96%B0%E5%8A%A0%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [消保委点名周杰伦演唱会购票先充VIP](https://www.baidu.com/s?wd=%E6%B6%88%E4%BF%9D%E5%A7%94%E7%82%B9%E5%90%8D%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B4%AD%E7%A5%A8%E5%85%88%E5%85%85VIP&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [村干部埋水泥桩拦路报复村民](https://www.baidu.com/s?wd=%E6%9D%91%E5%B9%B2%E9%83%A8%E5%9F%8B%E6%B0%B4%E6%B3%A5%E6%A1%A9%E6%8B%A6%E8%B7%AF%E6%8A%A5%E5%A4%8D%E6%9D%91%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [遏制“自动续费”问题有新规](https://www.baidu.com/s?wd=%E9%81%8F%E5%88%B6%E2%80%9C%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E2%80%9D%E9%97%AE%E9%A2%98%E6%9C%89%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [世预赛：国足vs新加坡](https://www.baidu.com/s?wd=%E4%B8%96%E9%A2%84%E8%B5%9B%EF%BC%9A%E5%9B%BD%E8%B6%B3vs%E6%96%B0%E5%8A%A0%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [菲34人非法登铁线礁 中国海警回应](https://www.baidu.com/s?wd=%E8%8F%B234%E4%BA%BA%E9%9D%9E%E6%B3%95%E7%99%BB%E9%93%81%E7%BA%BF%E7%A4%81+%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [预制菜明确不允许添加防腐剂](https://www.baidu.com/s?wd=%E9%A2%84%E5%88%B6%E8%8F%9C%E6%98%8E%E7%A1%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E6%B7%BB%E5%8A%A0%E9%98%B2%E8%85%90%E5%89%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [助力传统产业发生质的“跃迁”](https://www.baidu.com/s?wd=%E5%8A%A9%E5%8A%9B%E4%BC%A0%E7%BB%9F%E4%BA%A7%E4%B8%9A%E5%8F%91%E7%94%9F%E8%B4%A8%E7%9A%84%E2%80%9C%E8%B7%83%E8%BF%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [世预赛：国足vs新加坡](https://www.baidu.com/s?wd=%E4%B8%96%E9%A2%84%E8%B5%9B%EF%BC%9A%E5%9B%BD%E8%B6%B3vs%E6%96%B0%E5%8A%A0%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [消保委点名周杰伦演唱会购票先充VIP](https://www.baidu.com/s?wd=%E6%B6%88%E4%BF%9D%E5%A7%94%E7%82%B9%E5%90%8D%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B4%AD%E7%A5%A8%E5%85%88%E5%85%85VIP&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [村干部埋水泥桩拦路报复村民](https://www.baidu.com/s?wd=%E6%9D%91%E5%B9%B2%E9%83%A8%E5%9F%8B%E6%B0%B4%E6%B3%A5%E6%A1%A9%E6%8B%A6%E8%B7%AF%E6%8A%A5%E5%A4%8D%E6%9D%91%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [遏制“自动续费”问题有新规](https://www.baidu.com/s?wd=%E9%81%8F%E5%88%B6%E2%80%9C%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E2%80%9D%E9%97%AE%E9%A2%98%E6%9C%89%E6%96%B0%E8%A7%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [世预赛：国足vs新加坡](https://www.baidu.com/s?wd=%E4%B8%96%E9%A2%84%E8%B5%9B%EF%BC%9A%E5%9B%BD%E8%B6%B3vs%E6%96%B0%E5%8A%A0%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
