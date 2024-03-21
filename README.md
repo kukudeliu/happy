@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 08:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 08:53:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [胸部自检](https://s.weibo.com/weibo?q=%E8%83%B8%E9%83%A8%E8%87%AA%E6%A3%80&t=31&band_rank=5&Refer=top)<br />
 6. [结婚邀请了大学室友](https://s.weibo.com/weibo?q=%E7%BB%93%E5%A9%9A%E9%82%80%E8%AF%B7%E4%BA%86%E5%A4%A7%E5%AD%A6%E5%AE%A4%E5%8F%8B&t=31&band_rank=6&Refer=top)<br />
 7. [睡不着的时候试试3个不管不顾](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E4%B8%8D%E7%9D%80%E7%9A%84%E6%97%B6%E5%80%99%E8%AF%95%E8%AF%953%E4%B8%AA%E4%B8%8D%E7%AE%A1%E4%B8%8D%E9%A1%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [那些放弃社保的年轻人](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E6%94%BE%E5%BC%83%E7%A4%BE%E4%BF%9D%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [王一博完了完了完了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AE%8C%E4%BA%86%E5%AE%8C%E4%BA%86%E5%AE%8C%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [王一博完了完了完了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AE%8C%E4%BA%86%E5%AE%8C%E4%BA%86%E5%AE%8C%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [那些放弃社保的年轻人](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E6%94%BE%E5%BC%83%E7%A4%BE%E4%BF%9D%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
