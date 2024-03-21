@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 12:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 12:44:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top)<br />
 7. [费翔胡子刮了](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E7%BF%94%E8%83%A1%E5%AD%90%E5%88%AE%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [珠帘玉幕 磨皮](https://s.weibo.com/weibo?q=%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%20%E7%A3%A8%E7%9A%AE&t=31&band_rank=8&Refer=top)<br />
-9. [翟潇闻 霸王茶姬茶颜悦色](https://s.weibo.com/weibo?q=%E7%BF%9F%E6%BD%87%E9%97%BB%20%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2&t=31&band_rank=9&Refer=top)<br />
+9. [多家螺蛳粉品牌客服回应](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%93%81%E7%89%8C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
