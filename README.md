@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 17:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 17:15:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张兰控诉大S犯下重婚罪](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E6%8E%A7%E8%AF%89%E5%A4%A7S%E7%8A%AF%E4%B8%8B%E9%87%8D%E5%A9%9A%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [13岁男孩遭自家狗撕咬近百处伤口](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E9%81%AD%E8%87%AA%E5%AE%B6%E7%8B%97%E6%92%95%E5%92%AC%E8%BF%91%E7%99%BE%E5%A4%84%E4%BC%A4%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌首都遭俄军数枚高超音速导弹袭击](https://www.baidu.com/s?wd=%E4%B9%8C%E9%A6%96%E9%83%BD%E9%81%AD%E4%BF%84%E5%86%9B%E6%95%B0%E6%9E%9A%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌首都遭俄军数枚高超音速导弹袭击](https://www.baidu.com/s?wd=%E4%B9%8C%E9%A6%96%E9%83%BD%E9%81%AD%E4%BF%84%E5%86%9B%E6%95%B0%E6%9E%9A%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩长太高 班主任站凳子上训](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E9%95%BF%E5%A4%AA%E9%AB%98+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%AB%99%E5%87%B3%E5%AD%90%E4%B8%8A%E8%AE%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张兰控诉大S犯下重婚罪](https://www.baidu.com/s?wd=%E5%BC%A0%E5%85%B0%E6%8E%A7%E8%AF%89%E5%A4%A7S%E7%8A%AF%E4%B8%8B%E9%87%8D%E5%A9%9A%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [13岁男孩遭自家狗撕咬近百处伤口](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E9%81%AD%E8%87%AA%E5%AE%B6%E7%8B%97%E6%92%95%E5%92%AC%E8%BF%91%E7%99%BE%E5%A4%84%E4%BC%A4%E5%8F%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [乌首都遭俄军数枚高超音速导弹袭击](https://www.baidu.com/s?wd=%E4%B9%8C%E9%A6%96%E9%83%BD%E9%81%AD%E4%BF%84%E5%86%9B%E6%95%B0%E6%9E%9A%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [乌首都遭俄军数枚高超音速导弹袭击](https://www.baidu.com/s?wd=%E4%B9%8C%E9%A6%96%E9%83%BD%E9%81%AD%E4%BF%84%E5%86%9B%E6%95%B0%E6%9E%9A%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩长太高 班主任站凳子上训](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E9%95%BF%E5%A4%AA%E9%AB%98+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%AB%99%E5%87%B3%E5%AD%90%E4%B8%8A%E8%AE%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
