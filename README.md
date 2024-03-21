@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 17:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 17:07:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [杨幂背部身材](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%83%8C%E9%83%A8%E8%BA%AB%E6%9D%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘维做手术](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E5%81%9A%E6%89%8B%E6%9C%AF%23&t=31&band_rank=6&Refer=top)<br />
 7. [鲜芋仙致歉声明](https://s.weibo.com/weibo?q=%23%E9%B2%9C%E8%8A%8B%E4%BB%99%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23&t=31&band_rank=7&Refer=top)<br />
-8. [金世佳猎罪图鉴2路透](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%B8%96%E4%BD%B3%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B42%E8%B7%AF%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
+8. [乱写简历被录取了是种什么体验](https://s.weibo.com/weibo?q=%23%E4%B9%B1%E5%86%99%E7%AE%80%E5%8E%86%E8%A2%AB%E5%BD%95%E5%8F%96%E4%BA%86%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=8&Refer=top)<br />
 9. [普京被正式宣布选举获胜](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%A2%AB%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E9%80%89%E4%B8%BE%E8%8E%B7%E8%83%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
