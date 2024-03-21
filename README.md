@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 15:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 15:55:02</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [认识你真好](https://s.weibo.com/weibo?q=%23%E8%AE%A4%E8%AF%86%E4%BD%A0%E7%9C%9F%E5%A5%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [科学家成功清除已感染的艾滋病毒](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%88%90%E5%8A%9F%E6%B8%85%E9%99%A4%E5%B7%B2%E6%84%9F%E6%9F%93%E7%9A%84%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%23&t=31&band_rank=4&Refer=top)<br />
 5. [吴彦祖 贾玲惊人的转变令人瞠目结舌](https://s.weibo.com/weibo?q=%E5%90%B4%E5%BD%A6%E7%A5%96%20%E8%B4%BE%E7%8E%B2%E6%83%8A%E4%BA%BA%E7%9A%84%E8%BD%AC%E5%8F%98%E4%BB%A4%E4%BA%BA%E7%9E%A0%E7%9B%AE%E7%BB%93%E8%88%8C&t=31&band_rank=5&Refer=top)<br />
-6. [做了一年半的阿姨发短信来内涵](https://s.weibo.com/weibo?q=%23%E5%81%9A%E4%BA%86%E4%B8%80%E5%B9%B4%E5%8D%8A%E7%9A%84%E9%98%BF%E5%A7%A8%E5%8F%91%E7%9F%AD%E4%BF%A1%E6%9D%A5%E5%86%85%E6%B6%B5%23&t=31&band_rank=6&Refer=top)<br />
-7. [鲜芋仙致歉声明](https://s.weibo.com/weibo?q=%23%E9%B2%9C%E8%8A%8B%E4%BB%99%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23&t=31&band_rank=7&Refer=top)<br />
+6. [鲜芋仙致歉声明](https://s.weibo.com/weibo?q=%23%E9%B2%9C%E8%8A%8B%E4%BB%99%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23&t=31&band_rank=6&Refer=top)<br />
+7. [做了一年半的阿姨发短信来内涵](https://s.weibo.com/weibo?q=%23%E5%81%9A%E4%BA%86%E4%B8%80%E5%B9%B4%E5%8D%8A%E7%9A%84%E9%98%BF%E5%A7%A8%E5%8F%91%E7%9F%AD%E4%BF%A1%E6%9D%A5%E5%86%85%E6%B6%B5%23&t=31&band_rank=7&Refer=top)<br />
 8. [记者卧底鲜芋仙曝光后厨乱象](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E9%B2%9C%E8%8A%8B%E4%BB%99%E6%9B%9D%E5%85%89%E5%90%8E%E5%8E%A8%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=8&Refer=top)<br />
 9. [柳州螺蛳粉协会秘书长谈增臭剂](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%B7%9E%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%8D%8F%E4%BC%9A%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B0%88%E5%A2%9E%E8%87%AD%E5%89%82%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -22,9 +22,9 @@
 3. [柳州螺蛳粉协会秘书长谈增臭剂](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%8D%8F%E4%BC%9A%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B0%88%E5%A2%9E%E8%87%AD%E5%89%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [赵安吉死前血液酒精含量高出法定3倍](https://www.baidu.com/s?wd=%E8%B5%B5%E5%AE%89%E5%90%89%E6%AD%BB%E5%89%8D%E8%A1%80%E6%B6%B2%E9%85%92%E7%B2%BE%E5%90%AB%E9%87%8F%E9%AB%98%E5%87%BA%E6%B3%95%E5%AE%9A3%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川一住建局原局长疯狂受贿买房](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%8E%9F%E5%B1%80%E9%95%BF%E7%96%AF%E7%8B%82%E5%8F%97%E8%B4%BF%E4%B9%B0%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩长太高 班主任站凳子上训](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E9%95%BF%E5%A4%AA%E9%AB%98+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%AB%99%E5%87%B3%E5%AD%90%E4%B8%8A%E8%AE%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [柳州螺蛳粉协会秘书长谈增臭剂](https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%8D%8F%E4%BC%9A%E7%A7%98%E4%B9%A6%E9%95%BF%E8%B0%88%E5%A2%9E%E8%87%AD%E5%89%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [赵安吉死前血液酒精含量高出法定3倍](https://www.baidu.com/s?wd=%E8%B5%B5%E5%AE%89%E5%90%89%E6%AD%BB%E5%89%8D%E8%A1%80%E6%B6%B2%E9%85%92%E7%B2%BE%E5%90%AB%E9%87%8F%E9%AB%98%E5%87%BA%E6%B3%95%E5%AE%9A3%E5%80%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [四川一住建局原局长疯狂受贿买房](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%8E%9F%E5%B1%80%E9%95%BF%E7%96%AF%E7%8B%82%E5%8F%97%E8%B4%BF%E4%B9%B0%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男孩长太高 班主任站凳子上训](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E9%95%BF%E5%A4%AA%E9%AB%98+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%AB%99%E5%87%B3%E5%AD%90%E4%B8%8A%E8%AE%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
