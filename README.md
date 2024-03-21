@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 10:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 10:41:01</h4></div>
 
 > 微博  
 
-1. [大学生乳头以下突然没知觉被同学送医](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B9%B3%E5%A4%B4%E4%BB%A5%E4%B8%8B%E7%AA%81%E7%84%B6%E6%B2%A1%E7%9F%A5%E8%A7%89%E8%A2%AB%E5%90%8C%E5%AD%A6%E9%80%81%E5%8C%BB%23&t=31&band_rank=1&Refer=top)<br />
-2. [千万不要等到胸部不舒服了再重视](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%AD%89%E5%88%B0%E8%83%B8%E9%83%A8%E4%B8%8D%E8%88%92%E6%9C%8D%E4%BA%86%E5%86%8D%E9%87%8D%E8%A7%86&t=31&band_rank=2&Refer=top)<br />
+1. [千万不要等到胸部不舒服了再重视](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%AD%89%E5%88%B0%E8%83%B8%E9%83%A8%E4%B8%8D%E8%88%92%E6%9C%8D%E4%BA%86%E5%86%8D%E9%87%8D%E8%A7%86&t=31&band_rank=1&Refer=top)<br />
+2. [白客郑合惠子 万合天宜](https://s.weibo.com/weibo?q=%E7%99%BD%E5%AE%A2%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%20%E4%B8%87%E5%90%88%E5%A4%A9%E5%AE%9C&t=31&band_rank=2&Refer=top)<br />
 3. [春好正是耕种时](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A5%BD%E6%AD%A3%E6%98%AF%E8%80%95%E7%A7%8D%E6%97%B6%23&t=31&band_rank=3&Refer=top)<br />
-4. [白客郑合惠子 万合天宜](https://s.weibo.com/weibo?q=%E7%99%BD%E5%AE%A2%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%20%E4%B8%87%E5%90%88%E5%A4%A9%E5%AE%9C&t=31&band_rank=4&Refer=top)<br />
+4. [大学生乳头以下突然没知觉被同学送医](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B9%B3%E5%A4%B4%E4%BB%A5%E4%B8%8B%E7%AA%81%E7%84%B6%E6%B2%A1%E7%9F%A5%E8%A7%89%E8%A2%AB%E5%90%8C%E5%AD%A6%E9%80%81%E5%8C%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨幂黄金](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E9%BB%84%E9%87%91&t=31&band_rank=5&Refer=top)<br />
 6. [螺蛳粉 增臭剂](https://s.weibo.com/weibo?q=%E8%9E%BA%E8%9B%B3%E7%B2%89%20%E5%A2%9E%E8%87%AD%E5%89%82&t=31&band_rank=6&Refer=top)<br />
 7. [古驰突然就卖不动了](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E9%A9%B0%E7%AA%81%E7%84%B6%E5%B0%B1%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
