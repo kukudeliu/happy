@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 18:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 18:59:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [预制菜明确不允许添加防腐剂](https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E8%8F%9C%E6%98%8E%E7%A1%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E6%B7%BB%E5%8A%A0%E9%98%B2%E8%85%90%E5%89%82%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨幂再现月牙笑](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%86%8D%E7%8E%B0%E6%9C%88%E7%89%99%E7%AC%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [普京被正式宣布选举获胜](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%A2%AB%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E9%80%89%E4%B8%BE%E8%8E%B7%E8%83%9C%23&t=31&band_rank=6&Refer=top)<br />
-7. [别被8小时睡眠论给骗了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%A2%AB8%E5%B0%8F%E6%97%B6%E7%9D%A1%E7%9C%A0%E8%AE%BA%E7%BB%99%E9%AA%97%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [黄渤张艺兴快碎了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%BC%A0%E8%89%BA%E5%85%B4%E5%BF%AB%E7%A2%8E%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [黄渤张艺兴快碎了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%BC%A0%E8%89%BA%E5%85%B4%E5%BF%AB%E7%A2%8E%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [别被8小时睡眠论给骗了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%A2%AB8%E5%B0%8F%E6%97%B6%E7%9D%A1%E7%9C%A0%E8%AE%BA%E7%BB%99%E9%AA%97%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [321适合许愿](https://s.weibo.com/weibo?q=%23321%E9%80%82%E5%90%88%E8%AE%B8%E6%84%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [重庆姐弟坠楼案孩子母亲患癌](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%A7%90%E5%BC%9F%E5%9D%A0%E6%A5%BC%E6%A1%88%E5%AD%A9%E5%AD%90%E6%AF%8D%E4%BA%B2%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美欲制裁与华为相关中国芯片公司](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%B2%E5%88%B6%E8%A3%81%E4%B8%8E%E5%8D%8E%E4%B8%BA%E7%9B%B8%E5%85%B3%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美欲制裁与华为相关中国芯片公司](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%B2%E5%88%B6%E8%A3%81%E4%B8%8E%E5%8D%8E%E4%B8%BA%E7%9B%B8%E5%85%B3%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [重庆姐弟坠楼案孩子母亲患癌](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%A7%90%E5%BC%9F%E5%9D%A0%E6%A5%BC%E6%A1%88%E5%AD%A9%E5%AD%90%E6%AF%8D%E4%BA%B2%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美欲制裁与华为相关中国芯片公司](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%B2%E5%88%B6%E8%A3%81%E4%B8%8E%E5%8D%8E%E4%B8%BA%E7%9B%B8%E5%85%B3%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [英国空姐嘲讽中国人被解雇](https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E7%A9%BA%E5%A7%90%E5%98%B2%E8%AE%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%A7%A3%E9%9B%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美欲制裁与华为相关中国芯片公司](https://www.baidu.com/s?wd=%E7%BE%8E%E6%AC%B2%E5%88%B6%E8%A3%81%E4%B8%8E%E5%8D%8E%E4%B8%BA%E7%9B%B8%E5%85%B3%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
