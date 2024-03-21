@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 02:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 02:30:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [国足2-2被新加坡逼平](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-2%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%BC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [开封王婆回应爆火：没有剧本](https://www.baidu.com/s?wd=%E5%BC%80%E5%B0%81%E7%8E%8B%E5%A9%86%E5%9B%9E%E5%BA%94%E7%88%86%E7%81%AB%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%89%A7%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [村干部埋水泥桩拦路报复村民](https://www.baidu.com/s?wd=%E6%9D%91%E5%B9%B2%E9%83%A8%E5%9F%8B%E6%B0%B4%E6%B3%A5%E6%A1%A9%E6%8B%A6%E8%B7%AF%E6%8A%A5%E5%A4%8D%E6%9D%91%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [异常春困可能是身体在发出预警](https://www.baidu.com/s?wd=%E5%BC%82%E5%B8%B8%E6%98%A5%E5%9B%B0%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E5%8F%91%E5%87%BA%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [国足2-2被新加坡逼平](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32-2%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%BC%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [开封王婆回应爆火：没有剧本](https://www.baidu.com/s?wd=%E5%BC%80%E5%B0%81%E7%8E%8B%E5%A9%86%E5%9B%9E%E5%BA%94%E7%88%86%E7%81%AB%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%89%A7%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [村干部埋水泥桩拦路报复村民](https://www.baidu.com/s?wd=%E6%9D%91%E5%B9%B2%E9%83%A8%E5%9F%8B%E6%B0%B4%E6%B3%A5%E6%A1%A9%E6%8B%A6%E8%B7%AF%E6%8A%A5%E5%A4%8D%E6%9D%91%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [越南国家主席辞职背后浮出大案](https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C%E8%83%8C%E5%90%8E%E6%B5%AE%E5%87%BA%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [异常春困可能是身体在发出预警](https://www.baidu.com/s?wd=%E5%BC%82%E5%B8%B8%E6%98%A5%E5%9B%B0%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E5%8F%91%E5%87%BA%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
