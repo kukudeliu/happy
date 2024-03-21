@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 16:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-21 16:09:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [离婚冷静期杀妻案择期宣判](https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E5%86%B7%E9%9D%99%E6%9C%9F%E6%9D%80%E5%A6%BB%E6%A1%88%E6%8B%A9%E6%9C%9F%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [韩国医疗界酝酿全面罢工](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%96%97%E7%95%8C%E9%85%9D%E9%85%BF%E5%85%A8%E9%9D%A2%E7%BD%A2%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“凑不够钱”的特朗普将面临什么](https://www.baidu.com/s?wd=%E2%80%9C%E5%87%91%E4%B8%8D%E5%A4%9F%E9%92%B1%E2%80%9D%E7%9A%84%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E9%9D%A2%E4%B8%B4%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [“凑不够钱”的特朗普将面临什么](https://www.baidu.com/s?wd=%E2%80%9C%E5%87%91%E4%B8%8D%E5%A4%9F%E9%92%B1%E2%80%9D%E7%9A%84%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E9%9D%A2%E4%B8%B4%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩国医疗界酝酿全面罢工](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%96%97%E7%95%8C%E9%85%9D%E9%85%BF%E5%85%A8%E9%9D%A2%E7%BD%A2%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [离婚冷静期杀妻案择期宣判](https://www.baidu.com/s?wd=%E7%A6%BB%E5%A9%9A%E5%86%B7%E9%9D%99%E6%9C%9F%E6%9D%80%E5%A6%BB%E6%A1%88%E6%8B%A9%E6%9C%9F%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [全国春灌有序展开](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%98%A5%E7%81%8C%E6%9C%89%E5%BA%8F%E5%B1%95%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [多人三亚潜水时被摘下面罩强行推销](https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E4%B8%89%E4%BA%9A%E6%BD%9C%E6%B0%B4%E6%97%B6%E8%A2%AB%E6%91%98%E4%B8%8B%E9%9D%A2%E7%BD%A9%E5%BC%BA%E8%A1%8C%E6%8E%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [韩国医疗界酝酿全面罢工](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%96%97%E7%95%8C%E9%85%9D%E9%85%BF%E5%85%A8%E9%9D%A2%E7%BD%A2%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [“凑不够钱”的特朗普将面临什么](https://www.baidu.com/s?wd=%E2%80%9C%E5%87%91%E4%B8%8D%E5%A4%9F%E9%92%B1%E2%80%9D%E7%9A%84%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E9%9D%A2%E4%B8%B4%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [“凑不够钱”的特朗普将面临什么](https://www.baidu.com/s?wd=%E2%80%9C%E5%87%91%E4%B8%8D%E5%A4%9F%E9%92%B1%E2%80%9D%E7%9A%84%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E9%9D%A2%E4%B8%B4%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [韩国医疗界酝酿全面罢工](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%96%97%E7%95%8C%E9%85%9D%E9%85%BF%E5%85%A8%E9%9D%A2%E7%BD%A2%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [马克龙晒硬汉照：打沙袋表情凶狠](https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%99%92%E7%A1%AC%E6%B1%89%E7%85%A7%EF%BC%9A%E6%89%93%E6%B2%99%E8%A2%8B%E8%A1%A8%E6%83%85%E5%87%B6%E7%8B%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [男孩要钱被拒街上踢踹母亲？谣言](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E8%A6%81%E9%92%B1%E8%A2%AB%E6%8B%92%E8%A1%97%E4%B8%8A%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
