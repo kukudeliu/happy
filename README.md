@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 21:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 21:21:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [朔尔茨：中国造城比我们审批还快](https://www.baidu.com/s?wd=%E6%9C%94%E5%B0%94%E8%8C%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%9F%8E%E6%AF%94%E6%88%91%E4%BB%AC%E5%AE%A1%E6%89%B9%E8%BF%98%E5%BF%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爸爸隔保鲜膜狂亲新生宝宝](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E9%9A%94%E4%BF%9D%E9%B2%9C%E8%86%9C%E7%8B%82%E4%BA%B2%E6%96%B0%E7%94%9F%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [万吨登陆舰南海开展实弹射击训练](https://www.baidu.com/s?wd=%E4%B8%87%E5%90%A8%E7%99%BB%E9%99%86%E8%88%B0%E5%8D%97%E6%B5%B7%E5%BC%80%E5%B1%95%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB%E8%AE%AD%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [模仿凯特王妃的表演者：没当替身](https://www.baidu.com/s?wd=%E6%A8%A1%E4%BB%BF%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%9A%84%E8%A1%A8%E6%BC%94%E8%80%85%EF%BC%9A%E6%B2%A1%E5%BD%93%E6%9B%BF%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [让HR无法拒绝的冰学简历](https://www.baidu.com/s?wd=%E8%AE%A9HR%E6%97%A0%E6%B3%95%E6%8B%92%E7%BB%9D%E7%9A%84%E5%86%B0%E5%AD%A6%E7%AE%80%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙有重大刑案发悬赏通告？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E6%9C%89%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%8F%91%E6%82%AC%E8%B5%8F%E9%80%9A%E5%91%8A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [朔尔茨：中国造城比我们审批还快](https://www.baidu.com/s?wd=%E6%9C%94%E5%B0%94%E8%8C%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%9F%8E%E6%AF%94%E6%88%91%E4%BB%AC%E5%AE%A1%E6%89%B9%E8%BF%98%E5%BF%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [爸爸隔保鲜膜狂亲新生宝宝](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E9%9A%94%E4%BF%9D%E9%B2%9C%E8%86%9C%E7%8B%82%E4%BA%B2%E6%96%B0%E7%94%9F%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [万吨登陆舰南海开展实弹射击训练](https://www.baidu.com/s?wd=%E4%B8%87%E5%90%A8%E7%99%BB%E9%99%86%E8%88%B0%E5%8D%97%E6%B5%B7%E5%BC%80%E5%B1%95%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB%E8%AE%AD%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [模仿凯特王妃的表演者：没当替身](https://www.baidu.com/s?wd=%E6%A8%A1%E4%BB%BF%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%9A%84%E8%A1%A8%E6%BC%94%E8%80%85%EF%BC%9A%E6%B2%A1%E5%BD%93%E6%9B%BF%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [让HR无法拒绝的冰学简历](https://www.baidu.com/s?wd=%E8%AE%A9HR%E6%97%A0%E6%B3%95%E6%8B%92%E7%BB%9D%E7%9A%84%E5%86%B0%E5%AD%A6%E7%AE%80%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙有重大刑案发悬赏通告？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E6%9C%89%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%8F%91%E6%82%AC%E8%B5%8F%E9%80%9A%E5%91%8A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
