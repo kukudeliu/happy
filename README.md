@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 23:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 23:14:01</h4></div>
 
 > 微博  
 
@@ -22,7 +22,7 @@
 3. [落马官员何泽华受贿超9亿受审](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E4%BD%95%E6%B3%BD%E5%8D%8E%E5%8F%97%E8%B4%BF%E8%B6%859%E4%BA%BF%E5%8F%97%E5%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国吸引外资空间广阔](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E7%A9%BA%E9%97%B4%E5%B9%BF%E9%98%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [爸爸隔保鲜膜狂亲新生宝宝](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E9%9A%94%E4%BF%9D%E9%B2%9C%E8%86%9C%E7%8B%82%E4%BA%B2%E6%96%B0%E7%94%9F%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [俄媒曝俄潜艇在日本海演习画面](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%E6%9B%9D%E4%BF%84%E6%BD%9C%E8%89%87%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%B5%B7%E6%BC%94%E4%B9%A0%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [让HR无法拒绝的冰学简历](https://www.baidu.com/s?wd=%E8%AE%A9HR%E6%97%A0%E6%B3%95%E6%8B%92%E7%BB%9D%E7%9A%84%E5%86%B0%E5%AD%A6%E7%AE%80%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [未成年人严重暴力犯罪监护人要担责](https://www.baidu.com/s?wd=%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%B8%A5%E9%87%8D%E6%9A%B4%E5%8A%9B%E7%8A%AF%E7%BD%AA%E7%9B%91%E6%8A%A4%E4%BA%BA%E8%A6%81%E6%8B%85%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [以色列没收巴勒斯坦部分土地](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%B2%A1%E6%94%B6%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E9%83%A8%E5%88%86%E5%9C%9F%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙有重大刑案发悬赏通告？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E6%9C%89%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%8F%91%E6%82%AC%E8%B5%8F%E9%80%9A%E5%91%8A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [落马官员何泽华受贿超9亿受审](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E4%BD%95%E6%B3%BD%E5%8D%8E%E5%8F%97%E8%B4%BF%E8%B6%859%E4%BA%BF%E5%8F%97%E5%AE%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国吸引外资空间广阔](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E7%A9%BA%E9%97%B4%E5%B9%BF%E9%98%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [爸爸隔保鲜膜狂亲新生宝宝](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E9%9A%94%E4%BF%9D%E9%B2%9C%E8%86%9C%E7%8B%82%E4%BA%B2%E6%96%B0%E7%94%9F%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [俄媒曝俄潜艇在日本海演习画面](https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%E6%9B%9D%E4%BF%84%E6%BD%9C%E8%89%87%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%B5%B7%E6%BC%94%E4%B9%A0%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [让HR无法拒绝的冰学简历](https://www.baidu.com/s?wd=%E8%AE%A9HR%E6%97%A0%E6%B3%95%E6%8B%92%E7%BB%9D%E7%9A%84%E5%86%B0%E5%AD%A6%E7%AE%80%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [未成年人严重暴力犯罪监护人要担责](https://www.baidu.com/s?wd=%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%B8%A5%E9%87%8D%E6%9A%B4%E5%8A%9B%E7%8A%AF%E7%BD%AA%E7%9B%91%E6%8A%A4%E4%BA%BA%E8%A6%81%E6%8B%85%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [以色列没收巴勒斯坦部分土地](https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%B2%A1%E6%94%B6%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E9%83%A8%E5%88%86%E5%9C%9F%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙有重大刑案发悬赏通告？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E6%9C%89%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%8F%91%E6%82%AC%E8%B5%8F%E9%80%9A%E5%91%8A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
