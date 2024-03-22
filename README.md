@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 01:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 01:17:02</h4></div>
 
 > 微博  
 
-1. [阴阳师给王者荣耀律师函](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%E7%BB%99%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%BE%8B%E5%B8%88%E5%87%BD&t=31&band_rank=1&Refer=top)<br />
-2. [火烧云孕妇免排队被指慷他人之慨](https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%83%A7%E4%BA%91%E5%AD%95%E5%A6%87%E5%85%8D%E6%8E%92%E9%98%9F%E8%A2%AB%E6%8C%87%E6%85%B7%E4%BB%96%E4%BA%BA%E4%B9%8B%E6%85%A8%23&t=31&band_rank=2&Refer=top)<br />
+1. [火烧云孕妇免排队被指慷他人之慨](https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%83%A7%E4%BA%91%E5%AD%95%E5%A6%87%E5%85%8D%E6%8E%92%E9%98%9F%E8%A2%AB%E6%8C%87%E6%85%B7%E4%BB%96%E4%BA%BA%E4%B9%8B%E6%85%A8%23&t=31&band_rank=1&Refer=top)<br />
+2. [阴阳师给王者荣耀律师函](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%E7%BB%99%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%BE%8B%E5%B8%88%E5%87%BD&t=31&band_rank=2&Refer=top)<br />
 3. [花开种花家](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%BC%80%E7%A7%8D%E8%8A%B1%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [手部出现3种异样可能患癌](https://s.weibo.com/weibo?q=%23%E6%89%8B%E9%83%A8%E5%87%BA%E7%8E%B03%E7%A7%8D%E5%BC%82%E6%A0%B7%E5%8F%AF%E8%83%BD%E6%82%A3%E7%99%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [咸雪 赵丽颖](https://s.weibo.com/weibo?q=%E5%92%B8%E9%9B%AA%20%E8%B5%B5%E4%B8%BD%E9%A2%96&t=31&band_rank=5&Refer=top)<br />
