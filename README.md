@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 18:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 18:02:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子杀害弟弟和弟媳被执行死刑](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%BC%9F%E5%BC%9F%E5%92%8C%E5%BC%9F%E5%AA%B3%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苹果伴手礼被黄牛盯上了](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%BC%B4%E6%89%8B%E7%A4%BC%E8%A2%AB%E9%BB%84%E7%89%9B%E7%9B%AF%E4%B8%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [护理学等被列为国控专业](https://www.baidu.com/s?wd=%E6%8A%A4%E7%90%86%E5%AD%A6%E7%AD%89%E8%A2%AB%E5%88%97%E4%B8%BA%E5%9B%BD%E6%8E%A7%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [云南出现持枪恐怖分子？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%87%BA%E7%8E%B0%E6%8C%81%E6%9E%AA%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [长沙有重大刑案发悬赏通告？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E6%9C%89%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%8F%91%E6%82%AC%E8%B5%8F%E9%80%9A%E5%91%8A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子杀害弟弟和弟媳被执行死刑](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%BC%9F%E5%BC%9F%E5%92%8C%E5%BC%9F%E5%AA%B3%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苹果伴手礼被黄牛盯上了](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%BC%B4%E6%89%8B%E7%A4%BC%E8%A2%AB%E9%BB%84%E7%89%9B%E7%9B%AF%E4%B8%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [护理学等被列为国控专业](https://www.baidu.com/s?wd=%E6%8A%A4%E7%90%86%E5%AD%A6%E7%AD%89%E8%A2%AB%E5%88%97%E4%B8%BA%E5%9B%BD%E6%8E%A7%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [云南出现持枪恐怖分子？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%87%BA%E7%8E%B0%E6%8C%81%E6%9E%AA%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [长沙有重大刑案发悬赏通告？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E6%9C%89%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%8F%91%E6%82%AC%E8%B5%8F%E9%80%9A%E5%91%8A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
