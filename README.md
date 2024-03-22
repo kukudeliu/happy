@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 07:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 07:36:01</h4></div>
 
 > 微博  
 
@@ -19,22 +19,22 @@
 
 1. [总书记为中部地区细谋划](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E4%B8%AD%E9%83%A8%E5%9C%B0%E5%8C%BA%E7%BB%86%E8%B0%8B%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [俄一音乐厅遭恐袭 上百人死伤](https://www.baidu.com/s?wd=%E4%BF%84%E4%B8%80%E9%9F%B3%E4%B9%90%E5%8E%85%E9%81%AD%E6%81%90%E8%A2%AD+%E4%B8%8A%E7%99%BE%E4%BA%BA%E6%AD%BB%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [凯特王妃露面称患癌](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E9%9C%B2%E9%9D%A2%E7%A7%B0%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [“伊斯兰国”宣称对莫斯科枪击负责](https://www.baidu.com/s?wd=%E2%80%9C%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD%E2%80%9D%E5%AE%A3%E7%A7%B0%E5%AF%B9%E8%8E%AB%E6%96%AF%E7%A7%91%E6%9E%AA%E5%87%BB%E8%B4%9F%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国吸引外资空间广阔](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E7%A9%BA%E9%97%B4%E5%B9%BF%E9%98%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [火烧云回应孕妇免排队争议](https://www.baidu.com/s?wd=%E7%81%AB%E7%83%A7%E4%BA%91%E5%9B%9E%E5%BA%94%E5%AD%95%E5%A6%87%E5%85%8D%E6%8E%92%E9%98%9F%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“伊斯兰国”宣称对莫斯科枪击负责](https://www.baidu.com/s?wd=%E2%80%9C%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD%E2%80%9D%E5%AE%A3%E7%A7%B0%E5%AF%B9%E8%8E%AB%E6%96%AF%E7%A7%91%E6%9E%AA%E5%87%BB%E8%B4%9F%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [7人因强摘潜水游客面罩被警方抓获](https://www.baidu.com/s?wd=7%E4%BA%BA%E5%9B%A0%E5%BC%BA%E6%91%98%E6%BD%9C%E6%B0%B4%E6%B8%B8%E5%AE%A2%E9%9D%A2%E7%BD%A9%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [爸爸隔保鲜膜狂亲新生宝宝](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E9%9A%94%E4%BF%9D%E9%B2%9C%E8%86%9C%E7%8B%82%E4%BA%B2%E6%96%B0%E7%94%9F%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [莫斯科枪击案袭击者逃跑照片曝光](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%9E%AA%E5%87%BB%E6%A1%88%E8%A2%AD%E5%87%BB%E8%80%85%E9%80%83%E8%B7%91%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [凯特王妃露面称患癌](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E9%9C%B2%E9%9D%A2%E7%A7%B0%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [7人因强摘潜水游客面罩被警方抓获](https://www.baidu.com/s?wd=7%E4%BA%BA%E5%9B%A0%E5%BC%BA%E6%91%98%E6%BD%9C%E6%B0%B4%E6%B8%B8%E5%AE%A2%E9%9D%A2%E7%BD%A9%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙有重大刑案发悬赏通告？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E6%9C%89%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%8F%91%E6%82%AC%E8%B5%8F%E9%80%9A%E5%91%8A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [总书记为中部地区细谋划](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E4%B8%AD%E9%83%A8%E5%9C%B0%E5%8C%BA%E7%BB%86%E8%B0%8B%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [俄一音乐厅遭恐袭 上百人死伤](https://www.baidu.com/s?wd=%E4%BF%84%E4%B8%80%E9%9F%B3%E4%B9%90%E5%8E%85%E9%81%AD%E6%81%90%E8%A2%AD+%E4%B8%8A%E7%99%BE%E4%BA%BA%E6%AD%BB%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [凯特王妃露面称患癌](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E9%9C%B2%E9%9D%A2%E7%A7%B0%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [“伊斯兰国”宣称对莫斯科枪击负责](https://www.baidu.com/s?wd=%E2%80%9C%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD%E2%80%9D%E5%AE%A3%E7%A7%B0%E5%AF%B9%E8%8E%AB%E6%96%AF%E7%A7%91%E6%9E%AA%E5%87%BB%E8%B4%9F%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国吸引外资空间广阔](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E7%A9%BA%E9%97%B4%E5%B9%BF%E9%98%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [火烧云回应孕妇免排队争议](https://www.baidu.com/s?wd=%E7%81%AB%E7%83%A7%E4%BA%91%E5%9B%9E%E5%BA%94%E5%AD%95%E5%A6%87%E5%85%8D%E6%8E%92%E9%98%9F%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“伊斯兰国”宣称对莫斯科枪击负责](https://www.baidu.com/s?wd=%E2%80%9C%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD%E2%80%9D%E5%AE%A3%E7%A7%B0%E5%AF%B9%E8%8E%AB%E6%96%AF%E7%A7%91%E6%9E%AA%E5%87%BB%E8%B4%9F%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [7人因强摘潜水游客面罩被警方抓获](https://www.baidu.com/s?wd=7%E4%BA%BA%E5%9B%A0%E5%BC%BA%E6%91%98%E6%BD%9C%E6%B0%B4%E6%B8%B8%E5%AE%A2%E9%9D%A2%E7%BD%A9%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [爸爸隔保鲜膜狂亲新生宝宝](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E9%9A%94%E4%BF%9D%E9%B2%9C%E8%86%9C%E7%8B%82%E4%BA%B2%E6%96%B0%E7%94%9F%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [莫斯科枪击案袭击者逃跑照片曝光](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%9E%AA%E5%87%BB%E6%A1%88%E8%A2%AD%E5%87%BB%E8%80%85%E9%80%83%E8%B7%91%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [凯特王妃露面称患癌](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E9%9C%B2%E9%9D%A2%E7%A7%B0%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [7人因强摘潜水游客面罩被警方抓获](https://www.baidu.com/s?wd=7%E4%BA%BA%E5%9B%A0%E5%BC%BA%E6%91%98%E6%BD%9C%E6%B0%B4%E6%B8%B8%E5%AE%A2%E9%9D%A2%E7%BD%A9%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙有重大刑案发悬赏通告？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E6%9C%89%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%8F%91%E6%82%AC%E8%B5%8F%E9%80%9A%E5%91%8A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
