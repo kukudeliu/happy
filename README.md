@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 08:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 08:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [苹果市值一夜蒸发超7919亿](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%857919%E4%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [个人所得税收入下降](https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E%E6%94%B6%E5%85%A5%E4%B8%8B%E9%99%8D%23&t=31&band_rank=6&Refer=top)<br />
 7. [重庆一火锅店来了位87岁的服务员](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E7%81%AB%E9%94%85%E5%BA%97%E6%9D%A5%E4%BA%86%E4%BD%8D87%E5%B2%81%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%91%98%23&t=31&band_rank=7&Refer=top)<br />
-8. [女子家门口凌晨4点被人做三角标记](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%87%8C%E6%99%A84%E7%82%B9%E8%A2%AB%E4%BA%BA%E5%81%9A%E4%B8%89%E8%A7%92%E6%A0%87%E8%AE%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [消费者起诉爱马仕配货潜规则](https://s.weibo.com/weibo?q=%23%E6%B6%88%E8%B4%B9%E8%80%85%E8%B5%B7%E8%AF%89%E7%88%B1%E9%A9%AC%E4%BB%95%E9%85%8D%E8%B4%A7%E6%BD%9C%E8%A7%84%E5%88%99%23&t=31&band_rank=9&Refer=top)<br />
+8. [消费者起诉爱马仕配货潜规则](https://s.weibo.com/weibo?q=%23%E6%B6%88%E8%B4%B9%E8%80%85%E8%B5%B7%E8%AF%89%E7%88%B1%E9%A9%AC%E4%BB%95%E9%85%8D%E8%B4%A7%E6%BD%9C%E8%A7%84%E5%88%99%23&t=31&band_rank=8&Refer=top)<br />
+9. [女子家门口凌晨4点被人做三角标记](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%87%8C%E6%99%A84%E7%82%B9%E8%A2%AB%E4%BA%BA%E5%81%9A%E4%B8%89%E8%A7%92%E6%A0%87%E8%AE%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
