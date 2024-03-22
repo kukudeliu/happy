@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 22:52:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 22:54:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [以色列宣布没收8平方公里巴勒斯坦土地](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E6%B2%A1%E6%94%B68%E5%B9%B3%E6%96%B9%E5%85%AC%E9%87%8C%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9C%9F%E5%9C%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [花开种花家](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%BC%80%E7%A7%8D%E8%8A%B1%E5%AE%B6%23&t=31&band_rank=3&Refer=top)<br />
 4. [为什么大多数销冠都是女的](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%A4%9A%E6%95%B0%E9%94%80%E5%86%A0%E9%83%BD%E6%98%AF%E5%A5%B3%E7%9A%84%23&t=31&band_rank=4&Refer=top)<br />
-5. [警方回应67岁老人做工讨薪遭殴打](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%9467%E5%B2%81%E8%80%81%E4%BA%BA%E5%81%9A%E5%B7%A5%E8%AE%A8%E8%96%AA%E9%81%AD%E6%AE%B4%E6%89%93%23&t=31&band_rank=5&Refer=top)<br />
-6. [阴阳师给王者荣耀律师函](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%E7%BB%99%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%BE%8B%E5%B8%88%E5%87%BD&t=31&band_rank=6&Refer=top)<br />
+5. [阴阳师给王者荣耀律师函](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%E7%BB%99%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%BE%8B%E5%B8%88%E5%87%BD&t=31&band_rank=5&Refer=top)<br />
+6. [警方回应67岁老人做工讨薪遭殴打](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%9467%E5%B2%81%E8%80%81%E4%BA%BA%E5%81%9A%E5%B7%A5%E8%AE%A8%E8%96%AA%E9%81%AD%E6%AE%B4%E6%89%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [喜证被倒卖1.9元1张](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%AF%81%E8%A2%AB%E5%80%92%E5%8D%961.9%E5%85%831%E5%BC%A0%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵丽颖林更新给对方的微信备注](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9E%97%E6%9B%B4%E6%96%B0%E7%BB%99%E5%AF%B9%E6%96%B9%E7%9A%84%E5%BE%AE%E4%BF%A1%E5%A4%87%E6%B3%A8%23&t=31&band_rank=8&Refer=top)<br />
 9. [安踏在魏若来脸上植入广告](https://s.weibo.com/weibo?q=%E5%AE%89%E8%B8%8F%E5%9C%A8%E9%AD%8F%E8%8B%A5%E6%9D%A5%E8%84%B8%E4%B8%8A%E6%A4%8D%E5%85%A5%E5%B9%BF%E5%91%8A&t=31&band_rank=9&Refer=top)<br />
@@ -22,9 +22,9 @@
 3. [喜茶回应喜证被倒卖1.9元1张](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E5%9B%9E%E5%BA%94%E5%96%9C%E8%AF%81%E8%A2%AB%E5%80%92%E5%8D%961.9%E5%85%831%E5%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国吸引外资空间广阔](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E7%A9%BA%E9%97%B4%E5%B9%BF%E9%98%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [爸爸隔保鲜膜狂亲新生宝宝](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E9%9A%94%E4%BF%9D%E9%B2%9C%E8%86%9C%E7%8B%82%E4%BA%B2%E6%96%B0%E7%94%9F%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [全国花粉过敏指数地图来了](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E8%8A%B1%E7%B2%89%E8%BF%87%E6%95%8F%E6%8C%87%E6%95%B0%E5%9C%B0%E5%9B%BE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [媒体人：如今的中国足球无话可说](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E4%BA%BA%EF%BC%9A%E5%A6%82%E4%BB%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E6%97%A0%E8%AF%9D%E5%8F%AF%E8%AF%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [未成年人严重暴力犯罪监护人要担责](https://www.baidu.com/s?wd=%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%B8%A5%E9%87%8D%E6%9A%B4%E5%8A%9B%E7%8A%AF%E7%BD%AA%E7%9B%91%E6%8A%A4%E4%BA%BA%E8%A6%81%E6%8B%85%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [让HR无法拒绝的冰学简历](https://www.baidu.com/s?wd=%E8%AE%A9HR%E6%97%A0%E6%B3%95%E6%8B%92%E7%BB%9D%E7%9A%84%E5%86%B0%E5%AD%A6%E7%AE%80%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川雅江山火起火原因初步查明](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E5%88%9D%E6%AD%A5%E6%9F%A5%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙有重大刑案发悬赏通告？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E6%9C%89%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%8F%91%E6%82%AC%E8%B5%8F%E9%80%9A%E5%91%8A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [喜茶回应喜证被倒卖1.9元1张](https://www.baidu.com/s?wd=%E5%96%9C%E8%8C%B6%E5%9B%9E%E5%BA%94%E5%96%9C%E8%AF%81%E8%A2%AB%E5%80%92%E5%8D%961.9%E5%85%831%E5%BC%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [中国吸引外资空间广阔](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E7%A9%BA%E9%97%B4%E5%B9%BF%E9%98%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [爸爸隔保鲜膜狂亲新生宝宝](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E9%9A%94%E4%BF%9D%E9%B2%9C%E8%86%9C%E7%8B%82%E4%BA%B2%E6%96%B0%E7%94%9F%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [全国花粉过敏指数地图来了](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E8%8A%B1%E7%B2%89%E8%BF%87%E6%95%8F%E6%8C%87%E6%95%B0%E5%9C%B0%E5%9B%BE%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [媒体人：如今的中国足球无话可说](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E4%BA%BA%EF%BC%9A%E5%A6%82%E4%BB%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E6%97%A0%E8%AF%9D%E5%8F%AF%E8%AF%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [未成年人严重暴力犯罪监护人要担责](https://www.baidu.com/s?wd=%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%B8%A5%E9%87%8D%E6%9A%B4%E5%8A%9B%E7%8A%AF%E7%BD%AA%E7%9B%91%E6%8A%A4%E4%BA%BA%E8%A6%81%E6%8B%85%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [让HR无法拒绝的冰学简历](https://www.baidu.com/s?wd=%E8%AE%A9HR%E6%97%A0%E6%B3%95%E6%8B%92%E7%BB%9D%E7%9A%84%E5%86%B0%E5%AD%A6%E7%AE%80%E5%8E%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [四川雅江山火起火原因初步查明](https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E5%88%9D%E6%AD%A5%E6%9F%A5%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙有重大刑案发悬赏通告？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E6%9C%89%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%8F%91%E6%82%AC%E8%B5%8F%E9%80%9A%E5%91%8A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
