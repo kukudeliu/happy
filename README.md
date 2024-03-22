@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 10:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 10:12:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [BLACKPINK续约金额高达400亿韩元](https://s.weibo.com/weibo?q=%23BLACKPINK%E7%BB%AD%E7%BA%A6%E9%87%91%E9%A2%9D%E9%AB%98%E8%BE%BE400%E4%BA%BF%E9%9F%A9%E5%85%83%23&t=31&band_rank=2&Refer=top)<br />
 3. [今年春耕科技范儿满满](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%98%A5%E8%80%95%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [凭什么要禁止东北人做翻译啊](https://s.weibo.com/weibo?q=%E5%87%AD%E4%BB%80%E4%B9%88%E8%A6%81%E7%A6%81%E6%AD%A2%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%81%9A%E7%BF%BB%E8%AF%91%E5%95%8A&t=31&band_rank=4&Refer=top)<br />
-5. [过度疲劳的表现](https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E7%96%B2%E5%8A%B3%E7%9A%84%E8%A1%A8%E7%8E%B0&t=31&band_rank=5&Refer=top)<br />
-6. [微商教母张庭卷土重来](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%95%86%E6%95%99%E6%AF%8D%E5%BC%A0%E5%BA%AD%E5%8D%B7%E5%9C%9F%E9%87%8D%E6%9D%A5%23&t=31&band_rank=6&Refer=top)<br />
+5. [微商教母张庭卷土重来](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%95%86%E6%95%99%E6%AF%8D%E5%BC%A0%E5%BA%AD%E5%8D%B7%E5%9C%9F%E9%87%8D%E6%9D%A5%23&t=31&band_rank=5&Refer=top)<br />
+6. [过度疲劳的表现](https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E7%96%B2%E5%8A%B3%E7%9A%84%E8%A1%A8%E7%8E%B0&t=31&band_rank=6&Refer=top)<br />
 7. [林更新让林更新](https://s.weibo.com/weibo?q=%E6%9E%97%E6%9B%B4%E6%96%B0%E8%AE%A9%E6%9E%97%E6%9B%B4%E6%96%B0&t=31&band_rank=7&Refer=top)<br />
 8. [六旬大爷三战考研成绩暴涨278分](https://s.weibo.com/weibo?q=%23%E5%85%AD%E6%97%AC%E5%A4%A7%E7%88%B7%E4%B8%89%E6%88%98%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9A%B4%E6%B6%A8278%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [央视网再评校园霸凌](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E5%86%8D%E8%AF%84%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘维术后报平安](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E6%9C%AF%E5%90%8E%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
