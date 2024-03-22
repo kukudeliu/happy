@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 20:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 20:15:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [国产三体 吊打](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BA%A7%E4%B8%89%E4%BD%93%20%E5%90%8A%E6%89%93&t=31&band_rank=4&Refer=top)<br />
 5. [未成年人犯故意杀人等重罪要依法追究刑责](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%AD%89%E9%87%8D%E7%BD%AA%E8%A6%81%E4%BE%9D%E6%B3%95%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [67岁老人遭黑社会殴打](https://s.weibo.com/weibo?q=%2367%E5%B2%81%E8%80%81%E4%BA%BA%E9%81%AD%E9%BB%91%E7%A4%BE%E4%BC%9A%E6%AE%B4%E6%89%93%23&t=31&band_rank=6&Refer=top)<br />
-7. [爸爸隔保鲜膜狂亲新生宝宝](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E9%9A%94%E4%BF%9D%E9%B2%9C%E8%86%9C%E7%8B%82%E4%BA%B2%E6%96%B0%E7%94%9F%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=7&Refer=top)<br />
-8. [这类玩具致癌](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%B1%BB%E7%8E%A9%E5%85%B7%E8%87%B4%E7%99%8C%23&t=31&band_rank=8&Refer=top)<br />
+7. [这类玩具致癌](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%B1%BB%E7%8E%A9%E5%85%B7%E8%87%B4%E7%99%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [爸爸隔保鲜膜狂亲新生宝宝](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E9%9A%94%E4%BF%9D%E9%B2%9C%E8%86%9C%E7%8B%82%E4%BA%B2%E6%96%B0%E7%94%9F%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=8&Refer=top)<br />
 9. [何悯鸿 悬着的心终于死了](https://s.weibo.com/weibo?q=%E4%BD%95%E6%82%AF%E9%B8%BF%20%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
