@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 20:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 20:43:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [何悯鸿 悬着的心终于死了](https://s.weibo.com/weibo?q=%E4%BD%95%E6%82%AF%E9%B8%BF%20%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [肖战泪痣](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%B3%AA%E7%97%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [未成年人犯故意杀人等重罪要依法追究刑责](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%AD%89%E9%87%8D%E7%BD%AA%E8%A6%81%E4%BE%9D%E6%B3%95%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3%23&t=31&band_rank=6&Refer=top)<br />
-7. [花花盛开的中国春意拉满](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E7%9B%9B%E5%BC%80%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%98%A5%E6%84%8F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=7&Refer=top)<br />
-8. [这类玩具致癌](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%B1%BB%E7%8E%A9%E5%85%B7%E8%87%B4%E7%99%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [未成年人严重暴力犯罪监护人要担责](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%B8%A5%E9%87%8D%E6%9A%B4%E5%8A%9B%E7%8A%AF%E7%BD%AA%E7%9B%91%E6%8A%A4%E4%BA%BA%E8%A6%81%E6%8B%85%E8%B4%A3%23&t=31&band_rank=9&Refer=top)<br />
+7. [这类玩具致癌](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%B1%BB%E7%8E%A9%E5%85%B7%E8%87%B4%E7%99%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [未成年人严重暴力犯罪监护人要担责](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%B8%A5%E9%87%8D%E6%9A%B4%E5%8A%9B%E7%8A%AF%E7%BD%AA%E7%9B%91%E6%8A%A4%E4%BA%BA%E8%A6%81%E6%8B%85%E8%B4%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [国产三体 吊打](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BA%A7%E4%B8%89%E4%BD%93%20%E5%90%8A%E6%89%93&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
