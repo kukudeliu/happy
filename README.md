@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 19:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 19:52:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [国产三体 吊打](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BA%A7%E4%B8%89%E4%BD%93%20%E5%90%8A%E6%89%93&t=31&band_rank=4&Refer=top)<br />
 5. [未成年人犯故意杀人等重罪要依法追究刑责](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%AD%89%E9%87%8D%E7%BD%AA%E8%A6%81%E4%BE%9D%E6%B3%95%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [爸爸隔保鲜膜狂亲新生宝宝](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E9%9A%94%E4%BF%9D%E9%B2%9C%E8%86%9C%E7%8B%82%E4%BA%B2%E6%96%B0%E7%94%9F%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=6&Refer=top)<br />
-7. [赵丽颖说林更新每天在朋友圈做菜](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E6%9E%97%E6%9B%B4%E6%96%B0%E6%AF%8F%E5%A4%A9%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%81%9A%E8%8F%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [这类玩具致癌](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%B1%BB%E7%8E%A9%E5%85%B7%E8%87%B4%E7%99%8C%23&t=31&band_rank=8&Refer=top)<br />
+7. [这类玩具致癌](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%B1%BB%E7%8E%A9%E5%85%B7%E8%87%B4%E7%99%8C%23&t=31&band_rank=7&Refer=top)<br />
+8. [赵丽颖说林更新每天在朋友圈做菜](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E6%9E%97%E6%9B%B4%E6%96%B0%E6%AF%8F%E5%A4%A9%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%81%9A%E8%8F%9C%23&t=31&band_rank=8&Refer=top)<br />
 9. [接亲路上一声巨响新郎出手了](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%BA%B2%E8%B7%AF%E4%B8%8A%E4%B8%80%E5%A3%B0%E5%B7%A8%E5%93%8D%E6%96%B0%E9%83%8E%E5%87%BA%E6%89%8B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
