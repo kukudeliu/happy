@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 21:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 21:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [未成年人犯故意杀人等重罪要依法追究刑责](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%AD%89%E9%87%8D%E7%BD%AA%E8%A6%81%E4%BE%9D%E6%B3%95%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [未成年人严重暴力犯罪监护人要担责](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%B8%A5%E9%87%8D%E6%9A%B4%E5%8A%9B%E7%8A%AF%E7%BD%AA%E7%9B%91%E6%8A%A4%E4%BA%BA%E8%A6%81%E6%8B%85%E8%B4%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [67岁老人做工讨薪被殴打致轻伤二级](https://s.weibo.com/weibo?q=%2367%E5%B2%81%E8%80%81%E4%BA%BA%E5%81%9A%E5%B7%A5%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%AE%B4%E6%89%93%E8%87%B4%E8%BD%BB%E4%BC%A4%E4%BA%8C%E7%BA%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [这类玩具致癌](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%B1%BB%E7%8E%A9%E5%85%B7%E8%87%B4%E7%99%8C%23&t=31&band_rank=9&Refer=top)<br />
+9. [东京食尸鬼 时代的代表](https://s.weibo.com/weibo?q=%E4%B8%9C%E4%BA%AC%E9%A3%9F%E5%B0%B8%E9%AC%BC%20%E6%97%B6%E4%BB%A3%E7%9A%84%E4%BB%A3%E8%A1%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
