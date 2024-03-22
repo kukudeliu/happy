@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 12:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 12:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [游族网络投毒案凶手一审获死刑](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%97%8F%E7%BD%91%E7%BB%9C%E6%8A%95%E6%AF%92%E6%A1%88%E5%87%B6%E6%89%8B%E4%B8%80%E5%AE%A1%E8%8E%B7%E6%AD%BB%E5%88%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [新加坡队长竟是房产中介](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%98%9F%E9%95%BF%E7%AB%9F%E6%98%AF%E6%88%BF%E4%BA%A7%E4%B8%AD%E4%BB%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [张雨绮也有赘肉](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E4%B9%9F%E6%9C%89%E8%B5%98%E8%82%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [微商教母张庭卷土重来](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%95%86%E6%95%99%E6%AF%8D%E5%BC%A0%E5%BA%AD%E5%8D%B7%E5%9C%9F%E9%87%8D%E6%9D%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [丫丫你肚子拖地了](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E4%BD%A0%E8%82%9A%E5%AD%90%E6%8B%96%E5%9C%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
