@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 15:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 15:50:02</h4></div>
 
 > 微博  
 
 1. [未成年人犯故意杀人等重罪要依法追究刑责](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%AD%89%E9%87%8D%E7%BD%AA%E8%A6%81%E4%BE%9D%E6%B3%95%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3%23&t=31&band_rank=1&Refer=top)<br />
 2. [武汉地铁就无臂男子事件道歉](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%B0%B1%E6%97%A0%E8%87%82%E7%94%B7%E5%AD%90%E4%BA%8B%E4%BB%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top)<br />
 3. [认识你真好](https://s.weibo.com/weibo?q=%23%E8%AE%A4%E8%AF%86%E4%BD%A0%E7%9C%9F%E5%A5%BD%23&t=31&band_rank=3&Refer=top)<br />
-4. [虞书欣父亲退出被强执公司](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%88%B6%E4%BA%B2%E9%80%80%E5%87%BA%E8%A2%AB%E5%BC%BA%E6%89%A7%E5%85%AC%E5%8F%B8%23&t=31&band_rank=4&Refer=top)<br />
-5. [凯特现身视频卖了50万英镑](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%E8%A7%86%E9%A2%91%E5%8D%96%E4%BA%8650%E4%B8%87%E8%8B%B1%E9%95%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [为什么胸口会刺痛几秒](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%B8%E5%8F%A3%E4%BC%9A%E5%88%BA%E7%97%9B%E5%87%A0%E7%A7%92%23&t=31&band_rank=6&Refer=top)<br />
-7. [王楚钦发博退出仁川赛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E5%8D%9A%E9%80%80%E5%87%BA%E4%BB%81%E5%B7%9D%E8%B5%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [赵丽颖不理解自己被叫老公](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8D%E7%90%86%E8%A7%A3%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%8F%AB%E8%80%81%E5%85%AC%23&t=31&band_rank=8&Refer=top)<br />
-9. [TFBOYS十年之约现象级演唱会](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E7%8E%B0%E8%B1%A1%E7%BA%A7%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top)<br />
+4. [卫健委辟谣怀孕留长发会抢宝宝营养](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E8%BE%9F%E8%B0%A3%E6%80%80%E5%AD%95%E7%95%99%E9%95%BF%E5%8F%91%E4%BC%9A%E6%8A%A2%E5%AE%9D%E5%AE%9D%E8%90%A5%E5%85%BB%23&t=31&band_rank=4&Refer=top)<br />
+5. [虞书欣父亲退出被强执公司](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%88%B6%E4%BA%B2%E9%80%80%E5%87%BA%E8%A2%AB%E5%BC%BA%E6%89%A7%E5%85%AC%E5%8F%B8%23&t=31&band_rank=5&Refer=top)<br />
+6. [凯特现身视频卖了50万英镑](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%E8%A7%86%E9%A2%91%E5%8D%96%E4%BA%8650%E4%B8%87%E8%8B%B1%E9%95%91%23&t=31&band_rank=6&Refer=top)<br />
+7. [为什么胸口会刺痛几秒](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%B8%E5%8F%A3%E4%BC%9A%E5%88%BA%E7%97%9B%E5%87%A0%E7%A7%92%23&t=31&band_rank=7&Refer=top)<br />
+8. [王楚钦发博退出仁川赛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E5%8D%9A%E9%80%80%E5%87%BA%E4%BB%81%E5%B7%9D%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
+9. [赵丽颖不理解自己被叫老公](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8D%E7%90%86%E8%A7%A3%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%8F%AB%E8%80%81%E5%85%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [毒杀游族网络董事长 许垚被判死刑](https://www.baidu.com/s?wd=%E6%AF%92%E6%9D%80%E6%B8%B8%E6%97%8F%E7%BD%91%E7%BB%9C%E8%91%A3%E4%BA%8B%E9%95%BF+%E8%AE%B8%E5%9E%9A%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [农夫山泉浙江饮用水公司注销](https://www.baidu.com/s?wd=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E6%B5%99%E6%B1%9F%E9%A5%AE%E7%94%A8%E6%B0%B4%E5%85%AC%E5%8F%B8%E6%B3%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [消费者起诉爱马仕配货潜规则](https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%80%85%E8%B5%B7%E8%AF%89%E7%88%B1%E9%A9%AC%E4%BB%95%E9%85%8D%E8%B4%A7%E6%BD%9C%E8%A7%84%E5%88%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苹果新店赠品礼盒二手价卖到399元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%BA%97%E8%B5%A0%E5%93%81%E7%A4%BC%E7%9B%92%E4%BA%8C%E6%89%8B%E4%BB%B7%E5%8D%96%E5%88%B0399%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝马克龙曾称乌可能很快就会崩溃](https://www.baidu.com/s?wd=%E6%9B%9D%E9%A9%AC%E5%85%8B%E9%BE%99%E6%9B%BE%E7%A7%B0%E4%B9%8C%E5%8F%AF%E8%83%BD%E5%BE%88%E5%BF%AB%E5%B0%B1%E4%BC%9A%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南出现持枪恐怖分子？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%87%BA%E7%8E%B0%E6%8C%81%E6%9E%AA%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [毒杀游族网络董事长 许垚被判死刑](https://www.baidu.com/s?wd=%E6%AF%92%E6%9D%80%E6%B8%B8%E6%97%8F%E7%BD%91%E7%BB%9C%E8%91%A3%E4%BA%8B%E9%95%BF+%E8%AE%B8%E5%9E%9A%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [农夫山泉浙江饮用水公司注销](https://www.baidu.com/s?wd=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E6%B5%99%E6%B1%9F%E9%A5%AE%E7%94%A8%E6%B0%B4%E5%85%AC%E5%8F%B8%E6%B3%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [消费者起诉爱马仕配货潜规则](https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%80%85%E8%B5%B7%E8%AF%89%E7%88%B1%E9%A9%AC%E4%BB%95%E9%85%8D%E8%B4%A7%E6%BD%9C%E8%A7%84%E5%88%99&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [苹果新店赠品礼盒二手价卖到399元](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%BA%97%E8%B5%A0%E5%93%81%E7%A4%BC%E7%9B%92%E4%BA%8C%E6%89%8B%E4%BB%B7%E5%8D%96%E5%88%B0399%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [曝马克龙曾称乌可能很快就会崩溃](https://www.baidu.com/s?wd=%E6%9B%9D%E9%A9%AC%E5%85%8B%E9%BE%99%E6%9B%BE%E7%A7%B0%E4%B9%8C%E5%8F%AF%E8%83%BD%E5%BE%88%E5%BF%AB%E5%B0%B1%E4%BC%9A%E5%B4%A9%E6%BA%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南出现持枪恐怖分子？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%87%BA%E7%8E%B0%E6%8C%81%E6%9E%AA%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
