@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 15:54:03</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 15:55:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [认识你真好](https://s.weibo.com/weibo?q=%23%E8%AE%A4%E8%AF%86%E4%BD%A0%E7%9C%9F%E5%A5%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [卫健委辟谣怀孕留长发会抢宝宝营养](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E8%BE%9F%E8%B0%A3%E6%80%80%E5%AD%95%E7%95%99%E9%95%BF%E5%8F%91%E4%BC%9A%E6%8A%A2%E5%AE%9D%E5%AE%9D%E8%90%A5%E5%85%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [虞书欣父亲退出被强执公司](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%88%B6%E4%BA%B2%E9%80%80%E5%87%BA%E8%A2%AB%E5%BC%BA%E6%89%A7%E5%85%AC%E5%8F%B8%23&t=31&band_rank=5&Refer=top)<br />
-6. [凯特现身视频卖了50万英镑](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%E8%A7%86%E9%A2%91%E5%8D%96%E4%BA%8650%E4%B8%87%E8%8B%B1%E9%95%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [为什么胸口会刺痛几秒](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%B8%E5%8F%A3%E4%BC%9A%E5%88%BA%E7%97%9B%E5%87%A0%E7%A7%92%23&t=31&band_rank=7&Refer=top)<br />
+6. [为什么胸口会刺痛几秒](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%B8%E5%8F%A3%E4%BC%9A%E5%88%BA%E7%97%9B%E5%87%A0%E7%A7%92%23&t=31&band_rank=6&Refer=top)<br />
+7. [凯特现身视频卖了50万英镑](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%E8%A7%86%E9%A2%91%E5%8D%96%E4%BA%8650%E4%B8%87%E8%8B%B1%E9%95%91%23&t=31&band_rank=7&Refer=top)<br />
 8. [王楚钦发博退出仁川赛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E5%8D%9A%E9%80%80%E5%87%BA%E4%BB%81%E5%B7%9D%E8%B5%9B%23&t=31&band_rank=8&Refer=top)<br />
 9. [赵丽颖不理解自己被叫老公](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8D%E7%90%86%E8%A7%A3%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%8F%AB%E8%80%81%E5%85%AC%23&t=31&band_rank=9&Refer=top)<br />
 
