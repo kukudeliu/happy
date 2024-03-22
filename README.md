@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 15:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 15:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [凯特现身视频卖了50万英镑](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%B0%E8%BA%AB%E8%A7%86%E9%A2%91%E5%8D%96%E4%BA%8650%E4%B8%87%E8%8B%B1%E9%95%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [王楚钦发博退出仁川赛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E5%8D%9A%E9%80%80%E5%87%BA%E4%BB%81%E5%B7%9D%E8%B5%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [TFBOYS十年之约现象级演唱会](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E7%8E%B0%E8%B1%A1%E7%BA%A7%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=8&Refer=top)<br />
-9. [武汉地铁](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81&t=31&band_rank=9&Refer=top)<br />
+9. [赵丽颖不理解自己被叫老公](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8D%E7%90%86%E8%A7%A3%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%8F%AB%E8%80%81%E5%85%AC%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
