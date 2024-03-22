@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 08:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 08:26:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [个人所得税收入下降](https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E%E6%94%B6%E5%85%A5%E4%B8%8B%E9%99%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [苹果市值一夜蒸发超7919亿](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%857919%E4%BA%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [女子家门口凌晨4点被人做三角标记](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%87%8C%E6%99%A84%E7%82%B9%E8%A2%AB%E4%BA%BA%E5%81%9A%E4%B8%89%E8%A7%92%E6%A0%87%E8%AE%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [杜海涛 夏油杰](https://s.weibo.com/weibo?q=%E6%9D%9C%E6%B5%B7%E6%B6%9B%20%E5%A4%8F%E6%B2%B9%E6%9D%B0&t=31&band_rank=8&Refer=top)<br />
-9. [重庆一火锅店来了位87岁的服务员](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E7%81%AB%E9%94%85%E5%BA%97%E6%9D%A5%E4%BA%86%E4%BD%8D87%E5%B2%81%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+8. [重庆一火锅店来了位87岁的服务员](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E7%81%AB%E9%94%85%E5%BA%97%E6%9D%A5%E4%BA%86%E4%BD%8D87%E5%B2%81%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%91%98%23&t=31&band_rank=8&Refer=top)<br />
+9. [杜海涛 夏油杰](https://s.weibo.com/weibo?q=%E6%9D%9C%E6%B5%B7%E6%B6%9B%20%E5%A4%8F%E6%B2%B9%E6%9D%B0&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
