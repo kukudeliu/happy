@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 16:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 16:09:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [最高检检察长谈未成年故意杀人犯罪](https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%A3%80%E6%A3%80%E5%AF%9F%E9%95%BF%E8%B0%88%E6%9C%AA%E6%88%90%E5%B9%B4%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%8A%AF%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地春耕备耕一线扫描](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%98%A5%E8%80%95%E5%A4%87%E8%80%95%E4%B8%80%E7%BA%BF%E6%89%AB%E6%8F%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [毒杀游族网络董事长 许垚被判死刑](https://www.baidu.com/s?wd=%E6%AF%92%E6%9D%80%E6%B8%B8%E6%97%8F%E7%BD%91%E7%BB%9C%E8%91%A3%E4%BA%8B%E9%95%BF+%E8%AE%B8%E5%9E%9A%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [卫龙去年收入超48亿元](https://www.baidu.com/s?wd=%E5%8D%AB%E9%BE%99%E5%8E%BB%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%8548%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [云南鲁甸县副县长徐国军主动投案](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E9%B2%81%E7%94%B8%E5%8E%BF%E5%89%AF%E5%8E%BF%E9%95%BF%E5%BE%90%E5%9B%BD%E5%86%9B%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [持股市值上亿女子称生活困难](https://www.baidu.com/s?wd=%E6%8C%81%E8%82%A1%E5%B8%82%E5%80%BC%E4%B8%8A%E4%BA%BF%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%94%9F%E6%B4%BB%E5%9B%B0%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [云南鲁甸县副县长徐国军主动投案](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E9%B2%81%E7%94%B8%E5%8E%BF%E5%89%AF%E5%8E%BF%E9%95%BF%E5%BE%90%E5%9B%BD%E5%86%9B%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [卫龙去年收入超48亿元](https://www.baidu.com/s?wd=%E5%8D%AB%E9%BE%99%E5%8E%BB%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%8548%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子杀害弟弟和弟媳被执行死刑](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%BC%9F%E5%BC%9F%E5%92%8C%E5%BC%9F%E5%AA%B3%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南出现持枪恐怖分子？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%87%BA%E7%8E%B0%E6%8C%81%E6%9E%AA%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [最高检检察长谈未成年故意杀人犯罪](https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%A3%80%E6%A3%80%E5%AF%9F%E9%95%BF%E8%B0%88%E6%9C%AA%E6%88%90%E5%B9%B4%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%8A%AF%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地春耕备耕一线扫描](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%98%A5%E8%80%95%E5%A4%87%E8%80%95%E4%B8%80%E7%BA%BF%E6%89%AB%E6%8F%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [毒杀游族网络董事长 许垚被判死刑](https://www.baidu.com/s?wd=%E6%AF%92%E6%9D%80%E6%B8%B8%E6%97%8F%E7%BD%91%E7%BB%9C%E8%91%A3%E4%BA%8B%E9%95%BF+%E8%AE%B8%E5%9E%9A%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [卫龙去年收入超48亿元](https://www.baidu.com/s?wd=%E5%8D%AB%E9%BE%99%E5%8E%BB%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%8548%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [云南鲁甸县副县长徐国军主动投案](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E9%B2%81%E7%94%B8%E5%8E%BF%E5%89%AF%E5%8E%BF%E9%95%BF%E5%BE%90%E5%9B%BD%E5%86%9B%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [持股市值上亿女子称生活困难](https://www.baidu.com/s?wd=%E6%8C%81%E8%82%A1%E5%B8%82%E5%80%BC%E4%B8%8A%E4%BA%BF%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%94%9F%E6%B4%BB%E5%9B%B0%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [云南鲁甸县副县长徐国军主动投案](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E9%B2%81%E7%94%B8%E5%8E%BF%E5%89%AF%E5%8E%BF%E9%95%BF%E5%BE%90%E5%9B%BD%E5%86%9B%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [卫龙去年收入超48亿元](https://www.baidu.com/s?wd=%E5%8D%AB%E9%BE%99%E5%8E%BB%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%8548%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子杀害弟弟和弟媳被执行死刑](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%BC%9F%E5%BC%9F%E5%92%8C%E5%BC%9F%E5%AA%B3%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南出现持枪恐怖分子？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%87%BA%E7%8E%B0%E6%8C%81%E6%9E%AA%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
