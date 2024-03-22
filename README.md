@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 11:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 11:36:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [毒杀游族网络董事长 许垚被判死刑](https://www.baidu.com/s?wd=%E6%AF%92%E6%9D%80%E6%B8%B8%E6%97%8F%E7%BD%91%E7%BB%9C%E8%91%A3%E4%BA%8B%E9%95%BF+%E8%AE%B8%E5%9E%9A%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张庭夫妇96套房产查封后又被解封](https://www.baidu.com/s?wd=%E5%BC%A0%E5%BA%AD%E5%A4%AB%E5%A6%8796%E5%A5%97%E6%88%BF%E4%BA%A7%E6%9F%A5%E5%B0%81%E5%90%8E%E5%8F%88%E8%A2%AB%E8%A7%A3%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [98岁网红“大姥姥”去世](https://www.baidu.com/s?wd=98%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E5%A4%A7%E5%A7%A5%E5%A7%A5%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [护理学等被列为国控专业](https://www.baidu.com/s?wd=%E6%8A%A4%E7%90%86%E5%AD%A6%E7%AD%89%E8%A2%AB%E5%88%97%E4%B8%BA%E5%9B%BD%E6%8E%A7%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [无臂男子免费乘地铁被要求亮残疾证](https://www.baidu.com/s?wd=%E6%97%A0%E8%87%82%E7%94%B7%E5%AD%90%E5%85%8D%E8%B4%B9%E4%B9%98%E5%9C%B0%E9%93%81%E8%A2%AB%E8%A6%81%E6%B1%82%E4%BA%AE%E6%AE%8B%E7%96%BE%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [毒杀游族网络董事长 许垚被判死刑](https://www.baidu.com/s?wd=%E6%AF%92%E6%9D%80%E6%B8%B8%E6%97%8F%E7%BD%91%E7%BB%9C%E8%91%A3%E4%BA%8B%E9%95%BF+%E8%AE%B8%E5%9E%9A%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张庭夫妇96套房产查封后又被解封](https://www.baidu.com/s?wd=%E5%BC%A0%E5%BA%AD%E5%A4%AB%E5%A6%8796%E5%A5%97%E6%88%BF%E4%BA%A7%E6%9F%A5%E5%B0%81%E5%90%8E%E5%8F%88%E8%A2%AB%E8%A7%A3%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [98岁网红“大姥姥”去世](https://www.baidu.com/s?wd=98%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E5%A4%A7%E5%A7%A5%E5%A7%A5%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [护理学等被列为国控专业](https://www.baidu.com/s?wd=%E6%8A%A4%E7%90%86%E5%AD%A6%E7%AD%89%E8%A2%AB%E5%88%97%E4%B8%BA%E5%9B%BD%E6%8E%A7%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [无臂男子免费乘地铁被要求亮残疾证](https://www.baidu.com/s?wd=%E6%97%A0%E8%87%82%E7%94%B7%E5%AD%90%E5%85%8D%E8%B4%B9%E4%B9%98%E5%9C%B0%E9%93%81%E8%A2%AB%E8%A6%81%E6%B1%82%E4%BA%AE%E6%AE%8B%E7%96%BE%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [十大致癌卫生巾品牌系AI生成](https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A7%E8%87%B4%E7%99%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%93%81%E7%89%8C%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news&rsv_dl=fyb_news)<br />
