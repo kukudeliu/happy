@@ -1,8 +1,8 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 20:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 20:27:01</h4></div>
 
 > 微博  
 
-1. [67岁老人做工讨薪被殴打致轻伤二级](https://s.weibo.com/weibo?q=67%E5%B2%81%E8%80%81%E4%BA%BA%E5%81%9A%E5%B7%A5%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%AE%B4%E6%89%93%E8%87%B4%E8%BD%BB%E4%BC%A4%E4%BA%8C%E7%BA%A7&t=31&band_rank=1&Refer=top)<br />
+1. [67岁老人做工讨薪被殴打致轻伤二级](https://s.weibo.com/weibo?q=%2367%E5%B2%81%E8%80%81%E4%BA%BA%E5%81%9A%E5%B7%A5%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%AE%B4%E6%89%93%E8%87%B4%E8%BD%BB%E4%BC%A4%E4%BA%8C%E7%BA%A7%23&t=31&band_rank=1&Refer=top)<br />
 2. [阴阳师给王者荣耀律师函](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%E7%BB%99%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%BE%8B%E5%B8%88%E5%87%BD&t=31&band_rank=2&Refer=top)<br />
 3. [花花盛开的中国春意拉满](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E7%9B%9B%E5%BC%80%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%98%A5%E6%84%8F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [喜证被倒卖1.9元1张](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%AF%81%E8%A2%AB%E5%80%92%E5%8D%961.9%E5%85%831%E5%BC%A0%23&t=31&band_rank=4&Refer=top)<br />
