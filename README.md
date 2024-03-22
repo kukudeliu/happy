@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 20:29:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 20:30:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [国产三体 吊打](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BA%A7%E4%B8%89%E4%BD%93%20%E5%90%8A%E6%89%93&t=31&band_rank=6&Refer=top)<br />
 7. [这类玩具致癌](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%B1%BB%E7%8E%A9%E5%85%B7%E8%87%B4%E7%99%8C%23&t=31&band_rank=7&Refer=top)<br />
 8. [未成年人犯故意杀人等重罪要依法追究刑责](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%AD%89%E9%87%8D%E7%BD%AA%E8%A6%81%E4%BE%9D%E6%B3%95%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [恋爱兄妹](https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%88%B1%E5%85%84%E5%A6%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [肖战泪痣](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%B3%AA%E7%97%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
