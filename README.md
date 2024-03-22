@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 23:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 23:52:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [爸爸隔保鲜膜狂亲新生宝宝](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E9%9A%94%E4%BF%9D%E9%B2%9C%E8%86%9C%E7%8B%82%E4%BA%B2%E6%96%B0%E7%94%9F%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [外交部回应斯威士兰首相窜访台湾](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%96%AF%E5%A8%81%E5%A3%AB%E5%85%B0%E9%A6%96%E7%9B%B8%E7%AA%9C%E8%AE%BF%E5%8F%B0%E6%B9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [未成年人严重暴力犯罪监护人要担责](https://www.baidu.com/s?wd=%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%B8%A5%E9%87%8D%E6%9A%B4%E5%8A%9B%E7%8A%AF%E7%BD%AA%E7%9B%91%E6%8A%A4%E4%BA%BA%E8%A6%81%E6%8B%85%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [AI全流程微短剧《中国神话》](https://www.baidu.com/s?wd=AI%E5%85%A8%E6%B5%81%E7%A8%8B%E5%BE%AE%E7%9F%AD%E5%89%A7%E3%80%8A%E4%B8%AD%E5%9B%BD%E7%A5%9E%E8%AF%9D%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [无臂男子回应武汉地铁道歉](https://www.baidu.com/s?wd=%E6%97%A0%E8%87%82%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙有重大刑案发悬赏通告？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E6%9C%89%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%8F%91%E6%82%AC%E8%B5%8F%E9%80%9A%E5%91%8A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [爸爸隔保鲜膜狂亲新生宝宝](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E9%9A%94%E4%BF%9D%E9%B2%9C%E8%86%9C%E7%8B%82%E4%BA%B2%E6%96%B0%E7%94%9F%E5%AE%9D%E5%AE%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [外交部回应斯威士兰首相窜访台湾](https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%96%AF%E5%A8%81%E5%A3%AB%E5%85%B0%E9%A6%96%E7%9B%B8%E7%AA%9C%E8%AE%BF%E5%8F%B0%E6%B9%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [未成年人严重暴力犯罪监护人要担责](https://www.baidu.com/s?wd=%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%B8%A5%E9%87%8D%E6%9A%B4%E5%8A%9B%E7%8A%AF%E7%BD%AA%E7%9B%91%E6%8A%A4%E4%BA%BA%E8%A6%81%E6%8B%85%E8%B4%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [AI全流程微短剧《中国神话》](https://www.baidu.com/s?wd=AI%E5%85%A8%E6%B5%81%E7%A8%8B%E5%BE%AE%E7%9F%AD%E5%89%A7%E3%80%8A%E4%B8%AD%E5%9B%BD%E7%A5%9E%E8%AF%9D%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [无臂男子回应武汉地铁道歉](https://www.baidu.com/s?wd=%E6%97%A0%E8%87%82%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙有重大刑案发悬赏通告？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E6%9C%89%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%8F%91%E6%82%AC%E8%B5%8F%E9%80%9A%E5%91%8A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
