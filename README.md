@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 12:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 12:49:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [毒杀游族网络董事长 许垚被判死刑](https://www.baidu.com/s?wd=%E6%AF%92%E6%9D%80%E6%B8%B8%E6%97%8F%E7%BD%91%E7%BB%9C%E8%91%A3%E4%BA%8B%E9%95%BF+%E8%AE%B8%E5%9E%9A%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [98岁网红“大姥姥”去世](https://www.baidu.com/s?wd=98%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E5%A4%A7%E5%A7%A5%E5%A7%A5%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [无臂男子免费乘地铁被要求亮残疾证](https://www.baidu.com/s?wd=%E6%97%A0%E8%87%82%E7%94%B7%E5%AD%90%E5%85%8D%E8%B4%B9%E4%B9%98%E5%9C%B0%E9%93%81%E8%A2%AB%E8%A6%81%E6%B1%82%E4%BA%AE%E6%AE%8B%E7%96%BE%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [你转的罗翔余华鸡汤文可能是假的](https://www.baidu.com/s?wd=%E4%BD%A0%E8%BD%AC%E7%9A%84%E7%BD%97%E7%BF%94%E4%BD%99%E5%8D%8E%E9%B8%A1%E6%B1%A4%E6%96%87%E5%8F%AF%E8%83%BD%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [护理学等被列为国控专业](https://www.baidu.com/s?wd=%E6%8A%A4%E7%90%86%E5%AD%A6%E7%AD%89%E8%A2%AB%E5%88%97%E4%B8%BA%E5%9B%BD%E6%8E%A7%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南出现持枪恐怖分子？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%87%BA%E7%8E%B0%E6%8C%81%E6%9E%AA%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [毒杀游族网络董事长 许垚被判死刑](https://www.baidu.com/s?wd=%E6%AF%92%E6%9D%80%E6%B8%B8%E6%97%8F%E7%BD%91%E7%BB%9C%E8%91%A3%E4%BA%8B%E9%95%BF+%E8%AE%B8%E5%9E%9A%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [98岁网红“大姥姥”去世](https://www.baidu.com/s?wd=98%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E5%A4%A7%E5%A7%A5%E5%A7%A5%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [无臂男子免费乘地铁被要求亮残疾证](https://www.baidu.com/s?wd=%E6%97%A0%E8%87%82%E7%94%B7%E5%AD%90%E5%85%8D%E8%B4%B9%E4%B9%98%E5%9C%B0%E9%93%81%E8%A2%AB%E8%A6%81%E6%B1%82%E4%BA%AE%E6%AE%8B%E7%96%BE%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [你转的罗翔余华鸡汤文可能是假的](https://www.baidu.com/s?wd=%E4%BD%A0%E8%BD%AC%E7%9A%84%E7%BD%97%E7%BF%94%E4%BD%99%E5%8D%8E%E9%B8%A1%E6%B1%A4%E6%96%87%E5%8F%AF%E8%83%BD%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [护理学等被列为国控专业](https://www.baidu.com/s?wd=%E6%8A%A4%E7%90%86%E5%AD%A6%E7%AD%89%E8%A2%AB%E5%88%97%E4%B8%BA%E5%9B%BD%E6%8E%A7%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南出现持枪恐怖分子？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%87%BA%E7%8E%B0%E6%8C%81%E6%9E%AA%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
