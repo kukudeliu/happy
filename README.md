@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 10:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 10:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [新加坡队长竟是房产中介](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%98%9F%E9%95%BF%E7%AB%9F%E6%98%AF%E6%88%BF%E4%BA%A7%E4%B8%AD%E4%BB%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [BLACKPINK续约金额高达400亿韩元](https://s.weibo.com/weibo?q=%23BLACKPINK%E7%BB%AD%E7%BA%A6%E9%87%91%E9%A2%9D%E9%AB%98%E8%BE%BE400%E4%BA%BF%E9%9F%A9%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [凭什么要禁止东北人做翻译啊](https://s.weibo.com/weibo?q=%E5%87%AD%E4%BB%80%E4%B9%88%E8%A6%81%E7%A6%81%E6%AD%A2%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%81%9A%E7%BF%BB%E8%AF%91%E5%95%8A&t=31&band_rank=8&Refer=top)<br />
-9. [六旬大爷三战考研成绩暴涨278分](https://s.weibo.com/weibo?q=%23%E5%85%AD%E6%97%AC%E5%A4%A7%E7%88%B7%E4%B8%89%E6%88%98%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9A%B4%E6%B6%A8278%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
