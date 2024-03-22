@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 07:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 07:21:02</h4></div>
 
 > 微博  
 
 1. [英国凯特王妃患癌症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%82%A3%E7%99%8C%E7%97%87%23&t=31&band_rank=1&Refer=top)<br />
 2. [火烧云孕妇免排队被指慷他人之慨](https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%83%A7%E4%BA%91%E5%AD%95%E5%A6%87%E5%85%8D%E6%8E%92%E9%98%9F%E8%A2%AB%E6%8C%87%E6%85%B7%E4%BB%96%E4%BA%BA%E4%B9%8B%E6%85%A8%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国网民规模已达到10.92亿人](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BD%91%E6%B0%91%E8%A7%84%E6%A8%A1%E5%B7%B2%E8%BE%BE%E5%88%B010.92%E4%BA%BF%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
-4. [手部出现3种异样可能患癌](https://s.weibo.com/weibo?q=%23%E6%89%8B%E9%83%A8%E5%87%BA%E7%8E%B03%E7%A7%8D%E5%BC%82%E6%A0%B7%E5%8F%AF%E8%83%BD%E6%82%A3%E7%99%8C%23&t=31&band_rank=4&Refer=top)<br />
-5. [睡不着就在床头放个苹果](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E4%B8%8D%E7%9D%80%E5%B0%B1%E5%9C%A8%E5%BA%8A%E5%A4%B4%E6%94%BE%E4%B8%AA%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=5&Refer=top)<br />
-6. [以色列宣布没收8平方公里巴勒斯坦土地](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E6%B2%A1%E6%94%B68%E5%B9%B3%E6%96%B9%E5%85%AC%E9%87%8C%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9C%9F%E5%9C%B0%23&t=31&band_rank=6&Refer=top)<br />
-7. [富士相机怎么成了摄影界的茅台](https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%A3%AB%E7%9B%B8%E6%9C%BA%E6%80%8E%E4%B9%88%E6%88%90%E4%BA%86%E6%91%84%E5%BD%B1%E7%95%8C%E7%9A%84%E8%8C%85%E5%8F%B0%23&t=31&band_rank=7&Refer=top)<br />
-8. [咸雪 赵丽颖](https://s.weibo.com/weibo?q=%E5%92%B8%E9%9B%AA%20%E8%B5%B5%E4%B8%BD%E9%A2%96&t=31&band_rank=8&Refer=top)<br />
-9. [莫斯科遭遇恐怖袭击](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E9%81%AD%E9%81%87%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%23&t=31&band_rank=9&Refer=top)<br />
+4. [俄一音乐厅遭恐袭40人遇难百余人伤](https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B8%80%E9%9F%B3%E4%B9%90%E5%8E%85%E9%81%AD%E6%81%90%E8%A2%AD40%E4%BA%BA%E9%81%87%E9%9A%BE%E7%99%BE%E4%BD%99%E4%BA%BA%E4%BC%A4%23&t=31&band_rank=4&Refer=top)<br />
+5. [手部出现3种异样可能患癌](https://s.weibo.com/weibo?q=%23%E6%89%8B%E9%83%A8%E5%87%BA%E7%8E%B03%E7%A7%8D%E5%BC%82%E6%A0%B7%E5%8F%AF%E8%83%BD%E6%82%A3%E7%99%8C%23&t=31&band_rank=5&Refer=top)<br />
+6. [莫斯科遭遇恐怖袭击](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E9%81%AD%E9%81%87%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%23&t=31&band_rank=6&Refer=top)<br />
+7. [睡不着就在床头放个苹果](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E4%B8%8D%E7%9D%80%E5%B0%B1%E5%9C%A8%E5%BA%8A%E5%A4%B4%E6%94%BE%E4%B8%AA%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=7&Refer=top)<br />
+8. [以色列宣布没收8平方公里巴勒斯坦土地](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E6%B2%A1%E6%94%B68%E5%B9%B3%E6%96%B9%E5%85%AC%E9%87%8C%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9C%9F%E5%9C%B0%23&t=31&band_rank=8&Refer=top)<br />
+9. [俄罗斯](https://s.weibo.com/weibo?q=%E4%BF%84%E7%BD%97%E6%96%AF&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
