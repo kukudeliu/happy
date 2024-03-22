@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 01:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 01:21:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [手部出现3种异样可能患癌](https://s.weibo.com/weibo?q=%23%E6%89%8B%E9%83%A8%E5%87%BA%E7%8E%B03%E7%A7%8D%E5%BC%82%E6%A0%B7%E5%8F%AF%E8%83%BD%E6%82%A3%E7%99%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [咸雪 赵丽颖](https://s.weibo.com/weibo?q=%E5%92%B8%E9%9B%AA%20%E8%B5%B5%E4%B8%BD%E9%A2%96&t=31&band_rank=5&Refer=top)<br />
 6. [睡不着就在床头放个苹果](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E4%B8%8D%E7%9D%80%E5%B0%B1%E5%9C%A8%E5%BA%8A%E5%A4%B4%E6%94%BE%E4%B8%AA%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=6&Refer=top)<br />
-7. [迪丽热巴白衣牛仔裤路透](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%99%BD%E8%A1%A3%E7%89%9B%E4%BB%94%E8%A3%A4%E8%B7%AF%E9%80%8F%23&t=31&band_rank=7&Refer=top)<br />
-8. [客厅存在的意义是什么](https://s.weibo.com/weibo?q=%23%E5%AE%A2%E5%8E%85%E5%AD%98%E5%9C%A8%E7%9A%84%E6%84%8F%E4%B9%89%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=8&Refer=top)<br />
+7. [客厅存在的意义是什么](https://s.weibo.com/weibo?q=%23%E5%AE%A2%E5%8E%85%E5%AD%98%E5%9C%A8%E7%9A%84%E6%84%8F%E4%B9%89%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=7&Refer=top)<br />
+8. [迪丽热巴白衣牛仔裤路透](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%99%BD%E8%A1%A3%E7%89%9B%E4%BB%94%E8%A3%A4%E8%B7%AF%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
 9. [考试选15000字论文还是15秒舞蹈](https://s.weibo.com/weibo?q=%23%E8%80%83%E8%AF%95%E9%80%8915000%E5%AD%97%E8%AE%BA%E6%96%87%E8%BF%98%E6%98%AF15%E7%A7%92%E8%88%9E%E8%B9%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
