@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 10:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 10:34:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [新加坡队长竟是房产中介](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%98%9F%E9%95%BF%E7%AB%9F%E6%98%AF%E6%88%BF%E4%BA%A7%E4%B8%AD%E4%BB%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [98岁网红大姥姥去世](https://s.weibo.com/weibo?q=%2398%E5%B2%81%E7%BD%91%E7%BA%A2%E5%A4%A7%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [凭什么要禁止东北人做翻译啊](https://s.weibo.com/weibo?q=%E5%87%AD%E4%BB%80%E4%B9%88%E8%A6%81%E7%A6%81%E6%AD%A2%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%81%9A%E7%BF%BB%E8%AF%91%E5%95%8A&t=31&band_rank=7&Refer=top)<br />
-8. [六旬大爷三战考研成绩暴涨278分](https://s.weibo.com/weibo?q=%23%E5%85%AD%E6%97%AC%E5%A4%A7%E7%88%B7%E4%B8%89%E6%88%98%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9A%B4%E6%B6%A8278%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [过度疲劳的表现](https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E7%96%B2%E5%8A%B3%E7%9A%84%E8%A1%A8%E7%8E%B0&t=31&band_rank=9&Refer=top)<br />
+8. [未成年人犯故意杀人等重罪要依法追究刑责](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%AD%89%E9%87%8D%E7%BD%AA%E8%A6%81%E4%BE%9D%E6%B3%95%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [六旬大爷三战考研成绩暴涨278分](https://s.weibo.com/weibo?q=%23%E5%85%AD%E6%97%AC%E5%A4%A7%E7%88%B7%E4%B8%89%E6%88%98%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9A%B4%E6%B6%A8278%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
