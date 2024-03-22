@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 16:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 16:23:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [赵丽颖和替身合照](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%92%8C%E6%9B%BF%E8%BA%AB%E5%90%88%E7%85%A7%23&t=31&band_rank=4&Refer=top)<br />
 5. [虞书欣父亲退出被强执公司](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%88%B6%E4%BA%B2%E9%80%80%E5%87%BA%E8%A2%AB%E5%BC%BA%E6%89%A7%E5%85%AC%E5%8F%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [武汉地铁就无臂男子事件道歉](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E5%B0%B1%E6%97%A0%E8%87%82%E7%94%B7%E5%AD%90%E4%BA%8B%E4%BB%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
-7. [为什么胸口会刺痛几秒](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%B8%E5%8F%A3%E4%BC%9A%E5%88%BA%E7%97%9B%E5%87%A0%E7%A7%92%23&t=31&band_rank=7&Refer=top)<br />
-8. [黄子韬直播cue徐艺洋](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9B%B4%E6%92%ADcue%E5%BE%90%E8%89%BA%E6%B4%8B%23&t=31&band_rank=8&Refer=top)<br />
+7. [黄子韬直播cue徐艺洋](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9B%B4%E6%92%ADcue%E5%BE%90%E8%89%BA%E6%B4%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [为什么胸口会刺痛几秒](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%B8%E5%8F%A3%E4%BC%9A%E5%88%BA%E7%97%9B%E5%87%A0%E7%A7%92%23&t=31&band_rank=8&Refer=top)<br />
 9. [王楚钦发博退出仁川赛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E5%8D%9A%E9%80%80%E5%87%BA%E4%BB%81%E5%B7%9D%E8%B5%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
