@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 23:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 23:17:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [以色列宣布没收8平方公里巴勒斯坦土地](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E6%B2%A1%E6%94%B68%E5%B9%B3%E6%96%B9%E5%85%AC%E9%87%8C%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9C%9F%E5%9C%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [阴阳师给王者荣耀律师函](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%E7%BB%99%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%BE%8B%E5%B8%88%E5%87%BD&t=31&band_rank=6&Refer=top)<br />
 7. [赵丽颖林更新给对方的微信备注](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9E%97%E6%9B%B4%E6%96%B0%E7%BB%99%E5%AF%B9%E6%96%B9%E7%9A%84%E5%BE%AE%E4%BF%A1%E5%A4%87%E6%B3%A8%23&t=31&band_rank=7&Refer=top)<br />
-8. [喜证被倒卖1.9元1张](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%AF%81%E8%A2%AB%E5%80%92%E5%8D%961.9%E5%85%831%E5%BC%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [睡不着就在床头放个苹果](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E4%B8%8D%E7%9D%80%E5%B0%B1%E5%9C%A8%E5%BA%8A%E5%A4%B4%E6%94%BE%E4%B8%AA%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=9&Refer=top)<br />
+8. [睡不着就在床头放个苹果](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E4%B8%8D%E7%9D%80%E5%B0%B1%E5%9C%A8%E5%BA%8A%E5%A4%B4%E6%94%BE%E4%B8%AA%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [喜证被倒卖1.9元1张](https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%AF%81%E8%A2%AB%E5%80%92%E5%8D%961.9%E5%85%831%E5%BC%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
