@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 13:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 13:03:01</h4></div>
 
 > 微博  
 
-1. [王楚钦发博退出仁川赛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E5%8D%9A%E9%80%80%E5%87%BA%E4%BB%81%E5%B7%9D%E8%B5%9B%23&t=31&band_rank=1&Refer=top)<br />
-2. [未成年人犯故意杀人等重罪要依法追究刑责](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%AD%89%E9%87%8D%E7%BD%AA%E8%A6%81%E4%BE%9D%E6%B3%95%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3%23&t=31&band_rank=2&Refer=top)<br />
+1. [未成年人犯故意杀人等重罪要依法追究刑责](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%AD%89%E9%87%8D%E7%BD%AA%E8%A6%81%E4%BE%9D%E6%B3%95%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3%23&t=31&band_rank=1&Refer=top)<br />
+2. [王楚钦发博退出仁川赛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E5%8D%9A%E9%80%80%E5%87%BA%E4%BB%81%E5%B7%9D%E8%B5%9B%23&t=31&band_rank=2&Refer=top)<br />
 3. [认识你真好](https://s.weibo.com/weibo?q=%23%E8%AE%A4%E8%AF%86%E4%BD%A0%E7%9C%9F%E5%A5%BD%23&t=31&band_rank=3&Refer=top)<br />
 4. [贾玲 杂志排版](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%20%E6%9D%82%E5%BF%97%E6%8E%92%E7%89%88&t=31&band_rank=4&Refer=top)<br />
 5. [丫丫你肚子拖地了](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E4%BD%A0%E8%82%9A%E5%AD%90%E6%8B%96%E5%9C%B0%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
