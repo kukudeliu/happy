@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 18:05:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 18:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [宫崎骏 拥抱比亲吻更有力量](https://s.weibo.com/weibo?q=%E5%AE%AB%E5%B4%8E%E9%AA%8F%20%E6%8B%A5%E6%8A%B1%E6%AF%94%E4%BA%B2%E5%90%BB%E6%9B%B4%E6%9C%89%E5%8A%9B%E9%87%8F&t=31&band_rank=6&Refer=top)<br />
 7. [女版相柳](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%89%88%E7%9B%B8%E6%9F%B3&t=31&band_rank=7&Refer=top)<br />
 8. [黄子韬直播cue徐艺洋](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9B%B4%E6%92%ADcue%E5%BE%90%E8%89%BA%E6%B4%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [接亲路上一声巨响新郎出手了](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%BA%B2%E8%B7%AF%E4%B8%8A%E4%B8%80%E5%A3%B0%E5%B7%A8%E5%93%8D%E6%96%B0%E9%83%8E%E5%87%BA%E6%89%8B%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [宁夏辣糊糊到底有多香](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E8%BE%A3%E7%B3%8A%E7%B3%8A%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%A6%99%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [朔尔茨：中国造城比我们审批还快](https://www.baidu.com/s?wd=%E6%9C%94%E5%B0%94%E8%8C%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%9F%8E%E6%AF%94%E6%88%91%E4%BB%AC%E5%AE%A1%E6%89%B9%E8%BF%98%E5%BF%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子杀害弟弟和弟媳被执行死刑](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%BC%9F%E5%BC%9F%E5%92%8C%E5%BC%9F%E5%AA%B3%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苹果伴手礼被黄牛盯上了](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%BC%B4%E6%89%8B%E7%A4%BC%E8%A2%AB%E9%BB%84%E7%89%9B%E7%9B%AF%E4%B8%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州152户人家出现密集白蚁](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E152%E6%88%B7%E4%BA%BA%E5%AE%B6%E5%87%BA%E7%8E%B0%E5%AF%86%E9%9B%86%E7%99%BD%E8%9A%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [护理学等被列为国控专业](https://www.baidu.com/s?wd=%E6%8A%A4%E7%90%86%E5%AD%A6%E7%AD%89%E8%A2%AB%E5%88%97%E4%B8%BA%E5%9B%BD%E6%8E%A7%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙有重大刑案发悬赏通告？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E6%9C%89%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%8F%91%E6%82%AC%E8%B5%8F%E9%80%9A%E5%91%8A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [朔尔茨：中国造城比我们审批还快](https://www.baidu.com/s?wd=%E6%9C%94%E5%B0%94%E8%8C%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%9F%8E%E6%AF%94%E6%88%91%E4%BB%AC%E5%AE%A1%E6%89%B9%E8%BF%98%E5%BF%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子杀害弟弟和弟媳被执行死刑](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%BC%9F%E5%BC%9F%E5%92%8C%E5%BC%9F%E5%AA%B3%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [苹果伴手礼被黄牛盯上了](https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%BC%B4%E6%89%8B%E7%A4%BC%E8%A2%AB%E9%BB%84%E7%89%9B%E7%9B%AF%E4%B8%8A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [杭州152户人家出现密集白蚁](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E152%E6%88%B7%E4%BA%BA%E5%AE%B6%E5%87%BA%E7%8E%B0%E5%AF%86%E9%9B%86%E7%99%BD%E8%9A%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [护理学等被列为国控专业](https://www.baidu.com/s?wd=%E6%8A%A4%E7%90%86%E5%AD%A6%E7%AD%89%E8%A2%AB%E5%88%97%E4%B8%BA%E5%9B%BD%E6%8E%A7%E4%B8%93%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [长沙有重大刑案发悬赏通告？假的](https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E6%9C%89%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%8F%91%E6%82%AC%E8%B5%8F%E9%80%9A%E5%91%8A%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
