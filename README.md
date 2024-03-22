@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 21:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 21:58:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [未成年人犯故意杀人等重罪要依法追究刑责](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%AD%89%E9%87%8D%E7%BD%AA%E8%A6%81%E4%BE%9D%E6%B3%95%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战cue身材](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98cue%E8%BA%AB%E6%9D%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [何悯鸿 悬着的心终于死了](https://s.weibo.com/weibo?q=%E4%BD%95%E6%82%AF%E9%B8%BF%20%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [与凤行断层第一](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%87%A4%E8%A1%8C%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [警方回应67岁老人做工讨薪遭殴打](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%9467%E5%B2%81%E8%80%81%E4%BA%BA%E5%81%9A%E5%B7%A5%E8%AE%A8%E8%96%AA%E9%81%AD%E6%AE%B4%E6%89%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
