@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 09:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 09:18:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [重庆一火锅店来了位87岁的服务员](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E7%81%AB%E9%94%85%E5%BA%97%E6%9D%A5%E4%BA%86%E4%BD%8D87%E5%B2%81%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%91%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [韩版凯特门](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%89%88%E5%87%AF%E7%89%B9%E9%97%A8%23&t=31&band_rank=7&Refer=top)<br />
 8. [16岁的刘学义](https://s.weibo.com/weibo?q=%2316%E5%B2%81%E7%9A%84%E5%88%98%E5%AD%A6%E4%B9%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [苹果市值一夜蒸发超7919亿](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%857919%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [柳叶刀称本世纪末97%国家人口将减少](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%8F%B6%E5%88%80%E7%A7%B0%E6%9C%AC%E4%B8%96%E7%BA%AA%E6%9C%AB97%25%E5%9B%BD%E5%AE%B6%E4%BA%BA%E5%8F%A3%E5%B0%86%E5%87%8F%E5%B0%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
