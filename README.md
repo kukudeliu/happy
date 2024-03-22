@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 10:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 10:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [微商教母张庭卷土重来](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%95%86%E6%95%99%E6%AF%8D%E5%BC%A0%E5%BA%AD%E5%8D%B7%E5%9C%9F%E9%87%8D%E6%9D%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [过度疲劳的表现](https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E7%96%B2%E5%8A%B3%E7%9A%84%E8%A1%A8%E7%8E%B0&t=31&band_rank=7&Refer=top)<br />
 8. [六旬大爷三战考研成绩暴涨278分](https://s.weibo.com/weibo?q=%23%E5%85%AD%E6%97%AC%E5%A4%A7%E7%88%B7%E4%B8%89%E6%88%98%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9A%B4%E6%B6%A8278%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [林更新让林更新](https://s.weibo.com/weibo?q=%E6%9E%97%E6%9B%B4%E6%96%B0%E8%AE%A9%E6%9E%97%E6%9B%B4%E6%96%B0&t=31&band_rank=9&Refer=top)<br />
+9. [宋仲基夫妇看球赛](https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%A4%AB%E5%A6%87%E7%9C%8B%E7%90%83%E8%B5%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
