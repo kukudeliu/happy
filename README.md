@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 14:16:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 14:17:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [奋力谱写中国式现代化湖南篇章](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E8%B0%B1%E5%86%99%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B9%96%E5%8D%97%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [无臂男子免费乘地铁被要求亮残疾证](https://www.baidu.com/s?wd=%E6%97%A0%E8%87%82%E7%94%B7%E5%AD%90%E5%85%8D%E8%B4%B9%E4%B9%98%E5%9C%B0%E9%93%81%E8%A2%AB%E8%A6%81%E6%B1%82%E4%BA%AE%E6%AE%8B%E7%96%BE%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [要求无臂男子出示残疾证 地铁致歉](https://www.baidu.com/s?wd=%E8%A6%81%E6%B1%82%E6%97%A0%E8%87%82%E7%94%B7%E5%AD%90%E5%87%BA%E7%A4%BA%E6%AE%8B%E7%96%BE%E8%AF%81+%E5%9C%B0%E9%93%81%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [最高检检察长谈未成年故意杀人犯罪](https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%A3%80%E6%A3%80%E5%AF%9F%E9%95%BF%E8%B0%88%E6%9C%AA%E6%88%90%E5%B9%B4%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%8A%AF%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地春耕备耕一线扫描](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%98%A5%E8%80%95%E5%A4%87%E8%80%95%E4%B8%80%E7%BA%BF%E6%89%AB%E6%8F%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [毒杀游族网络董事长 许垚被判死刑](https://www.baidu.com/s?wd=%E6%AF%92%E6%9D%80%E6%B8%B8%E6%97%8F%E7%BD%91%E7%BB%9C%E8%91%A3%E4%BA%8B%E9%95%BF+%E8%AE%B8%E5%9E%9A%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [奋力谱写中国式现代化湖南篇章](https://www.baidu.com/s?wd=%E5%A5%8B%E5%8A%9B%E8%B0%B1%E5%86%99%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B9%96%E5%8D%97%E7%AF%87%E7%AB%A0&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [无臂男子免费乘地铁被要求亮残疾证](https://www.baidu.com/s?wd=%E6%97%A0%E8%87%82%E7%94%B7%E5%AD%90%E5%85%8D%E8%B4%B9%E4%B9%98%E5%9C%B0%E9%93%81%E8%A2%AB%E8%A6%81%E6%B1%82%E4%BA%AE%E6%AE%8B%E7%96%BE%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [要求无臂男子出示残疾证 地铁致歉](https://www.baidu.com/s?wd=%E8%A6%81%E6%B1%82%E6%97%A0%E8%87%82%E7%94%B7%E5%AD%90%E5%87%BA%E7%A4%BA%E6%AE%8B%E7%96%BE%E8%AF%81+%E5%9C%B0%E9%93%81%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [最高检检察长谈未成年故意杀人犯罪](https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%A3%80%E6%A3%80%E5%AF%9F%E9%95%BF%E8%B0%88%E6%9C%AA%E6%88%90%E5%B9%B4%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%8A%AF%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [各地春耕备耕一线扫描](https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E6%98%A5%E8%80%95%E5%A4%87%E8%80%95%E4%B8%80%E7%BA%BF%E6%89%AB%E6%8F%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [毒杀游族网络董事长 许垚被判死刑](https://www.baidu.com/s?wd=%E6%AF%92%E6%9D%80%E6%B8%B8%E6%97%8F%E7%BD%91%E7%BB%9C%E8%91%A3%E4%BA%8B%E9%95%BF+%E8%AE%B8%E5%9E%9A%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
