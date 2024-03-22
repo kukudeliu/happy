@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 09:46:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 09:47:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [凭什么要禁止东北人做翻译啊](https://s.weibo.com/weibo?q=%E5%87%AD%E4%BB%80%E4%B9%88%E8%A6%81%E7%A6%81%E6%AD%A2%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%81%9A%E7%BF%BB%E8%AF%91%E5%95%8A&t=31&band_rank=4&Refer=top)<br />
 5. [央视网再评校园霸凌](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E5%86%8D%E8%AF%84%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [林更新让林更新](https://s.weibo.com/weibo?q=%E6%9E%97%E6%9B%B4%E6%96%B0%E8%AE%A9%E6%9E%97%E6%9B%B4%E6%96%B0&t=31&band_rank=6&Refer=top)<br />
-7. [消费者起诉爱马仕配货潜规则](https://s.weibo.com/weibo?q=%23%E6%B6%88%E8%B4%B9%E8%80%85%E8%B5%B7%E8%AF%89%E7%88%B1%E9%A9%AC%E4%BB%95%E9%85%8D%E8%B4%A7%E6%BD%9C%E8%A7%84%E5%88%99%23&t=31&band_rank=7&Refer=top)<br />
-8. [BLACKPINK续约金额高达400亿韩元](https://s.weibo.com/weibo?q=%23BLACKPINK%E7%BB%AD%E7%BA%A6%E9%87%91%E9%A2%9D%E9%AB%98%E8%BE%BE400%E4%BA%BF%E9%9F%A9%E5%85%83%23&t=31&band_rank=8&Refer=top)<br />
+7. [BLACKPINK续约金额高达400亿韩元](https://s.weibo.com/weibo?q=%23BLACKPINK%E7%BB%AD%E7%BA%A6%E9%87%91%E9%A2%9D%E9%AB%98%E8%BE%BE400%E4%BA%BF%E9%9F%A9%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
+8. [消费者起诉爱马仕配货潜规则](https://s.weibo.com/weibo?q=%23%E6%B6%88%E8%B4%B9%E8%80%85%E8%B5%B7%E8%AF%89%E7%88%B1%E9%A9%AC%E4%BB%95%E9%85%8D%E8%B4%A7%E6%BD%9C%E8%A7%84%E5%88%99%23&t=31&band_rank=8&Refer=top)<br />
 9. [韩版凯特门](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%89%88%E5%87%AF%E7%89%B9%E9%97%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
