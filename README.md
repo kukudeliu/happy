@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 10:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-22 10:24:01</h4></div>
 
 > 微博  
 
@@ -7,9 +7,9 @@
 3. [今年春耕科技范儿满满](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%98%A5%E8%80%95%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [凭什么要禁止东北人做翻译啊](https://s.weibo.com/weibo?q=%E5%87%AD%E4%BB%80%E4%B9%88%E8%A6%81%E7%A6%81%E6%AD%A2%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%81%9A%E7%BF%BB%E8%AF%91%E5%95%8A&t=31&band_rank=4&Refer=top)<br />
 5. [微商教母张庭卷土重来](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%95%86%E6%95%99%E6%AF%8D%E5%BC%A0%E5%BA%AD%E5%8D%B7%E5%9C%9F%E9%87%8D%E6%9D%A5%23&t=31&band_rank=5&Refer=top)<br />
-6. [98岁网红大姥姥去世](https://s.weibo.com/weibo?q=%2398%E5%B2%81%E7%BD%91%E7%BA%A2%E5%A4%A7%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top)<br />
+6. [六旬大爷三战考研成绩暴涨278分](https://s.weibo.com/weibo?q=%23%E5%85%AD%E6%97%AC%E5%A4%A7%E7%88%B7%E4%B8%89%E6%88%98%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9A%B4%E6%B6%A8278%E5%88%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [过度疲劳的表现](https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E7%96%B2%E5%8A%B3%E7%9A%84%E8%A1%A8%E7%8E%B0&t=31&band_rank=7&Refer=top)<br />
-8. [六旬大爷三战考研成绩暴涨278分](https://s.weibo.com/weibo?q=%23%E5%85%AD%E6%97%AC%E5%A4%A7%E7%88%B7%E4%B8%89%E6%88%98%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9A%B4%E6%B6%A8278%E5%88%86%23&t=31&band_rank=8&Refer=top)<br />
+8. [98岁网红大姥姥去世](https://s.weibo.com/weibo?q=%2398%E5%B2%81%E7%BD%91%E7%BA%A2%E5%A4%A7%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top)<br />
 9. [宋仲基夫妇看球赛](https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%A4%AB%E5%A6%87%E7%9C%8B%E7%90%83%E8%B5%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
