@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 18:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 18:37:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [宫崎骏 死了就看不到日落了](https://s.weibo.com/weibo?q=%E5%AE%AB%E5%B4%8E%E9%AA%8F%20%E6%AD%BB%E4%BA%86%E5%B0%B1%E7%9C%8B%E4%B8%8D%E5%88%B0%E6%97%A5%E8%90%BD%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [夏之光 霸王茶姬](https://s.weibo.com/weibo?q=%E5%A4%8F%E4%B9%8B%E5%85%89%20%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC&t=31&band_rank=6&Refer=top)<br />
 7. [南航大学涉事师生已报警](https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E5%A4%A7%E5%AD%A6%E6%B6%89%E4%BA%8B%E5%B8%88%E7%94%9F%E5%B7%B2%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨幂小水晚宴合照](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%B0%8F%E6%B0%B4%E6%99%9A%E5%AE%B4%E5%90%88%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
+8. [整治内娱的综艺来了](https://s.weibo.com/weibo?q=%E6%95%B4%E6%B2%BB%E5%86%85%E5%A8%B1%E7%9A%84%E7%BB%BC%E8%89%BA%E6%9D%A5%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [交警处罚当事人后自费买下6份早饭](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%A4%84%E7%BD%9A%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%90%8E%E8%87%AA%E8%B4%B9%E4%B9%B0%E4%B8%8B6%E4%BB%BD%E6%97%A9%E9%A5%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
