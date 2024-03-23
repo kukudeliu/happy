@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 12:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 12:48:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [凯特王妃宣布患癌视频录制于3天前](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%AE%A3%E5%B8%83%E6%82%A3%E7%99%8C%E8%A7%86%E9%A2%91%E5%BD%95%E5%88%B6%E4%BA%8E3%E5%A4%A9%E5%89%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [英国凯特王妃患癌症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%82%A3%E7%99%8C%E7%97%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [莫斯科恐袭死亡人数增至70](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%A2%9E%E8%87%B370%23&t=31&band_rank=7&Refer=top)<br />
-8. [颜值输给了簪花的男友](https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%80%BC%E8%BE%93%E7%BB%99%E4%BA%86%E7%B0%AA%E8%8A%B1%E7%9A%84%E7%94%B7%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [偷看凯特病例员工或被永久吊销执照](https://s.weibo.com/weibo?q=%23%E5%81%B7%E7%9C%8B%E5%87%AF%E7%89%B9%E7%97%85%E4%BE%8B%E5%91%98%E5%B7%A5%E6%88%96%E8%A2%AB%E6%B0%B8%E4%B9%85%E5%90%8A%E9%94%80%E6%89%A7%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
+8. [偷看凯特病例员工或被永久吊销执照](https://s.weibo.com/weibo?q=%23%E5%81%B7%E7%9C%8B%E5%87%AF%E7%89%B9%E7%97%85%E4%BE%8B%E5%91%98%E5%B7%A5%E6%88%96%E8%A2%AB%E6%B0%B8%E4%B9%85%E5%90%8A%E9%94%80%E6%89%A7%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
+9. [颜值输给了簪花的男友](https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%80%BC%E8%BE%93%E7%BB%99%E4%BA%86%E7%B0%AA%E8%8A%B1%E7%9A%84%E7%94%B7%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
