@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 08:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 08:15:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [火烧云回应孕妇免排队争议](https://www.baidu.com/s?wd=%E7%81%AB%E7%83%A7%E4%BA%91%E5%9B%9E%E5%BA%94%E5%AD%95%E5%A6%87%E5%85%8D%E6%8E%92%E9%98%9F%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [莫斯科枪击案袭击者逃跑照片曝光](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%9E%AA%E5%87%BB%E6%A1%88%E8%A2%AD%E5%87%BB%E8%80%85%E9%80%83%E8%B7%91%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [凯特王妃露面称患癌](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E9%9C%B2%E9%9D%A2%E7%A7%B0%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [7人因强摘潜水游客面罩被警方抓获](https://www.baidu.com/s?wd=7%E4%BA%BA%E5%9B%A0%E5%BC%BA%E6%91%98%E6%BD%9C%E6%B0%B4%E6%B8%B8%E5%AE%A2%E9%9D%A2%E7%BD%A9%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宁夏辣糊糊到底有多香](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%A3%E7%B3%8A%E7%B3%8A%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%A6%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南地质灾害致8人死亡？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3%E8%87%B48%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [火烧云回应孕妇免排队争议](https://www.baidu.com/s?wd=%E7%81%AB%E7%83%A7%E4%BA%91%E5%9B%9E%E5%BA%94%E5%AD%95%E5%A6%87%E5%85%8D%E6%8E%92%E9%98%9F%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [莫斯科枪击案袭击者逃跑照片曝光](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%9E%AA%E5%87%BB%E6%A1%88%E8%A2%AD%E5%87%BB%E8%80%85%E9%80%83%E8%B7%91%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [凯特王妃露面称患癌](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E9%9C%B2%E9%9D%A2%E7%A7%B0%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [7人因强摘潜水游客面罩被警方抓获](https://www.baidu.com/s?wd=7%E4%BA%BA%E5%9B%A0%E5%BC%BA%E6%91%98%E6%BD%9C%E6%B0%B4%E6%B8%B8%E5%AE%A2%E9%9D%A2%E7%BD%A9%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8A%93%E8%8E%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [宁夏辣糊糊到底有多香](https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E8%BE%A3%E7%B3%8A%E7%B3%8A%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%A6%99&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南地质灾害致8人死亡？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3%E8%87%B48%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
