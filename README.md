@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 17:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 17:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [莫斯科恐袭93人死亡](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD93%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [新版微信朋友圈都是短线](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%89%88%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%83%BD%E6%98%AF%E7%9F%AD%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨幂小水晚宴合照](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%B0%8F%E6%B0%B4%E6%99%9A%E5%AE%B4%E5%90%88%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [鹿晗腹肌没了](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%85%B9%E8%82%8C%E6%B2%A1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [苹果高管一家四口被撞身亡](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
