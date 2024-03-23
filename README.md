@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 16:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 16:35:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鹿晗腹肌没了](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%85%B9%E8%82%8C%E6%B2%A1%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [莫斯科恐袭事件11人被捕](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B611%E4%BA%BA%E8%A2%AB%E6%8D%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [吴磊浙江警察学院路演](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E6%B5%99%E6%B1%9F%E8%AD%A6%E5%AF%9F%E5%AD%A6%E9%99%A2%E8%B7%AF%E6%BC%94%23&t=31&band_rank=8&Refer=top)<br />
-9. [都选C的试卷终于出现了](https://s.weibo.com/weibo?q=%23%E9%83%BD%E9%80%89C%E7%9A%84%E8%AF%95%E5%8D%B7%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [D社把IU照片发到边伯贤超话](https://s.weibo.com/weibo?q=%23D%E7%A4%BE%E6%8A%8AIU%E7%85%A7%E7%89%87%E5%8F%91%E5%88%B0%E8%BE%B9%E4%BC%AF%E8%B4%A4%E8%B6%85%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
