@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 10:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 10:11:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [火烧云回应孕妇免排队争议](https://www.baidu.com/s?wd=%E7%81%AB%E7%83%A7%E4%BA%91%E5%9B%9E%E5%BA%94%E5%AD%95%E5%A6%87%E5%85%8D%E6%8E%92%E9%98%9F%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京就恐袭作出指示](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%B0%B1%E6%81%90%E8%A2%AD%E4%BD%9C%E5%87%BA%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [凯特王妃露面称患癌](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E9%9C%B2%E9%9D%A2%E7%A7%B0%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拜登回应凯特露面承认患癌](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%9B%9E%E5%BA%94%E5%87%AF%E7%89%B9%E9%9C%B2%E9%9D%A2%E6%89%BF%E8%AE%A4%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄遭袭音乐厅厕所内发现超10具尸体](https://www.baidu.com/s?wd=%E4%BF%84%E9%81%AD%E8%A2%AD%E9%9F%B3%E4%B9%90%E5%8E%85%E5%8E%95%E6%89%80%E5%86%85%E5%8F%91%E7%8E%B0%E8%B6%8510%E5%85%B7%E5%B0%B8%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南地质灾害致8人死亡？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3%E8%87%B48%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [火烧云回应孕妇免排队争议](https://www.baidu.com/s?wd=%E7%81%AB%E7%83%A7%E4%BA%91%E5%9B%9E%E5%BA%94%E5%AD%95%E5%A6%87%E5%85%8D%E6%8E%92%E9%98%9F%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [普京就恐袭作出指示](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%B0%B1%E6%81%90%E8%A2%AD%E4%BD%9C%E5%87%BA%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [凯特王妃露面称患癌](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E9%9C%B2%E9%9D%A2%E7%A7%B0%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [拜登回应凯特露面承认患癌](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%9B%9E%E5%BA%94%E5%87%AF%E7%89%B9%E9%9C%B2%E9%9D%A2%E6%89%BF%E8%AE%A4%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄遭袭音乐厅厕所内发现超10具尸体](https://www.baidu.com/s?wd=%E4%BF%84%E9%81%AD%E8%A2%AD%E9%9F%B3%E4%B9%90%E5%8E%85%E5%8E%95%E6%89%80%E5%86%85%E5%8F%91%E7%8E%B0%E8%B6%8510%E5%85%B7%E5%B0%B8%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南地质灾害致8人死亡？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3%E8%87%B48%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
