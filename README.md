@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 14:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 14:50:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [邓超背着孙俪在家干这事](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%83%8C%E7%9D%80%E5%AD%99%E4%BF%AA%E5%9C%A8%E5%AE%B6%E5%B9%B2%E8%BF%99%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [鹿晗宝石老舅王勉被范志毅偷家](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%AE%9D%E7%9F%B3%E8%80%81%E8%88%85%E7%8E%8B%E5%8B%89%E8%A2%AB%E8%8C%83%E5%BF%97%E6%AF%85%E5%81%B7%E5%AE%B6%23&t=31&band_rank=7&Refer=top)<br />
 8. [英国凯特王妃患癌症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%82%A3%E7%99%8C%E7%97%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [梅德韦杰夫称要血债血偿](https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%E7%A7%B0%E8%A6%81%E8%A1%80%E5%80%BA%E8%A1%80%E5%81%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [水哥 鬼才之眼](https://s.weibo.com/weibo?q=%E6%B0%B4%E5%93%A5%20%E9%AC%BC%E6%89%8D%E4%B9%8B%E7%9C%BC&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
