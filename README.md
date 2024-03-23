@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 19:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 19:12:01</h4></div>
 
 > 微博  
 
-1. [茶王吧唧](https://s.weibo.com/weibo?q=%E8%8C%B6%E7%8E%8B%E5%90%A7%E5%94%A7&t=31&band_rank=1&Refer=top)<br />
-2. [莫斯科恐袭已致115人死亡](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4115%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
+1. [莫斯科恐袭已致115人死亡](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4115%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top)<br />
+2. [茶王吧唧](https://s.weibo.com/weibo?q=%E8%8C%B6%E7%8E%8B%E5%90%A7%E5%94%A7&t=31&band_rank=2&Refer=top)<br />
 3. [春耕这件事中国人有多认真](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%80%95%E8%BF%99%E4%BB%B6%E4%BA%8B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E5%A4%9A%E8%AE%A4%E7%9C%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [整治内娱的综艺来了](https://s.weibo.com/weibo?q=%23%E6%95%B4%E6%B2%BB%E5%86%85%E5%A8%B1%E7%9A%84%E7%BB%BC%E8%89%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [俄罗斯已进入战争状态](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%23&t=31&band_rank=5&Refer=top)<br />
