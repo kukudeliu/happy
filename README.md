@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 11:38:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 11:39:02</h4></div>
 
 > 微博  
 
 1. [俄罗斯已进入战争状态](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%23&t=31&band_rank=1&Refer=top)<br />
 2. [莫斯科恐袭死亡人数增至70](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%A2%9E%E8%87%B370%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国网民规模已达到10.92亿人](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BD%91%E6%B0%91%E8%A7%84%E6%A8%A1%E5%B7%B2%E8%BE%BE%E5%88%B010.92%E4%BA%BF%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
-4. [中国留学生亲历莫斯科恐怖袭击](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E4%BA%B2%E5%8E%86%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%23&t=31&band_rank=4&Refer=top)<br />
-5. [凯特王妃宣布患癌视频录制于3天前](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%AE%A3%E5%B8%83%E6%82%A3%E7%99%8C%E8%A7%86%E9%A2%91%E5%BD%95%E5%88%B6%E4%BA%8E3%E5%A4%A9%E5%89%8D%23&t=31&band_rank=5&Refer=top)<br />
+4. [凯特王妃宣布患癌视频录制于3天前](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%AE%A3%E5%B8%83%E6%82%A3%E7%99%8C%E8%A7%86%E9%A2%91%E5%BD%95%E5%88%B6%E4%BA%8E3%E5%A4%A9%E5%89%8D%23&t=31&band_rank=4&Refer=top)<br />
+5. [中国留学生亲历莫斯科恐怖袭击](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E4%BA%B2%E5%8E%86%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [英国凯特王妃患癌症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%82%A3%E7%99%8C%E7%97%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [王者荣耀称将严肃回击](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%A7%B0%E5%B0%86%E4%B8%A5%E8%82%83%E5%9B%9E%E5%87%BB%23&t=31&band_rank=7&Refer=top)<br />
 8. [颜值输给了簪花的男友](https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%80%BC%E8%BE%93%E7%BB%99%E4%BA%86%E7%B0%AA%E8%8A%B1%E7%9A%84%E7%94%B7%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
