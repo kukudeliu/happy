@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 20:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 20:55:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [莫斯科恐袭2名嫌疑人被捕画面公开](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD2%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8D%95%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子反复咳嗽竟因20年前吞下笔帽](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8D%E5%A4%8D%E5%92%B3%E5%97%BD%E7%AB%9F%E5%9B%A020%E5%B9%B4%E5%89%8D%E5%90%9E%E4%B8%8B%E7%AC%94%E5%B8%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子10瓶茅台入境藏卫生间6小时](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9010%E7%93%B6%E8%8C%85%E5%8F%B0%E5%85%A5%E5%A2%83%E8%97%8F%E5%8D%AB%E7%94%9F%E9%97%B46%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子地铁被诬偷拍案3次调解均失败](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E8%A2%AB%E8%AF%AC%E5%81%B7%E6%8B%8D%E6%A1%883%E6%AC%A1%E8%B0%83%E8%A7%A3%E5%9D%87%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子误吞鱼刺从200斤瘦成70斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E5%90%9E%E9%B1%BC%E5%88%BA%E4%BB%8E200%E6%96%A4%E7%98%A6%E6%88%9070%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣河西小海地着火](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E6%B2%B3%E8%A5%BF%E5%B0%8F%E6%B5%B7%E5%9C%B0%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [莫斯科恐袭2名嫌疑人被捕画面公开](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD2%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8D%95%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子反复咳嗽竟因20年前吞下笔帽](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%8F%8D%E5%A4%8D%E5%92%B3%E5%97%BD%E7%AB%9F%E5%9B%A020%E5%B9%B4%E5%89%8D%E5%90%9E%E4%B8%8B%E7%AC%94%E5%B8%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子10瓶茅台入境藏卫生间6小时](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9010%E7%93%B6%E8%8C%85%E5%8F%B0%E5%85%A5%E5%A2%83%E8%97%8F%E5%8D%AB%E7%94%9F%E9%97%B46%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子地铁被诬偷拍案3次调解均失败](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E8%A2%AB%E8%AF%AC%E5%81%B7%E6%8B%8D%E6%A1%883%E6%AC%A1%E8%B0%83%E8%A7%A3%E5%9D%87%E5%A4%B1%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子误吞鱼刺从200斤瘦成70斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E5%90%9E%E9%B1%BC%E5%88%BA%E4%BB%8E200%E6%96%A4%E7%98%A6%E6%88%9070%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣河西小海地着火](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E6%B2%B3%E8%A5%BF%E5%B0%8F%E6%B5%B7%E5%9C%B0%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
