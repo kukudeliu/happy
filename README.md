@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 06:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 06:02:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [俄方称已抓捕的恐袭者均为外国公民](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%96%B9%E7%A7%B0%E5%B7%B2%E6%8A%93%E6%8D%95%E7%9A%84%E6%81%90%E8%A2%AD%E8%80%85%E5%9D%87%E4%B8%BA%E5%A4%96%E5%9B%BD%E5%85%AC%E6%B0%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [苹果高管一家四口被撞身亡](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [林更新被100多条信息轰炸求剧透](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E8%A2%AB100%E5%A4%9A%E6%9D%A1%E4%BF%A1%E6%81%AF%E8%BD%B0%E7%82%B8%E6%B1%82%E5%89%A7%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [纪凌尘emo了](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%87%8C%E5%B0%98emo%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [珠帘玉幕 磨皮](https://s.weibo.com/weibo?q=%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%20%E7%A3%A8%E7%9A%AE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
