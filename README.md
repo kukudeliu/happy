@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 04:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 04:59:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [农业“发新芽”](https://www.baidu.com/s?wd=%E5%86%9C%E4%B8%9A%E2%80%9C%E5%8F%91%E6%96%B0%E8%8A%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京宣布3月24日为全国哀悼日](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%833%E6%9C%8824%E6%97%A5%E4%B8%BA%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海打雷](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%89%93%E9%9B%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [尔冬升把徐若晗赶出片场](https://www.baidu.com/s?wd=%E5%B0%94%E5%86%AC%E5%8D%87%E6%8A%8A%E5%BE%90%E8%8B%A5%E6%99%97%E8%B5%B6%E5%87%BA%E7%89%87%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [贵人鸟预亏损近5亿元](https://www.baidu.com/s?wd=%E8%B4%B5%E4%BA%BA%E9%B8%9F%E9%A2%84%E4%BA%8F%E6%8D%9F%E8%BF%915%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [都选C的试卷终于出现了](https://www.baidu.com/s?wd=%E9%83%BD%E9%80%89C%E7%9A%84%E8%AF%95%E5%8D%B7%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新版微信朋友圈都是短线](https://www.baidu.com/s?wd=%E6%96%B0%E7%89%88%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%83%BD%E6%98%AF%E7%9F%AD%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣河西小海地着火](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E6%B2%B3%E8%A5%BF%E5%B0%8F%E6%B5%B7%E5%9C%B0%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [农业“发新芽”](https://www.baidu.com/s?wd=%E5%86%9C%E4%B8%9A%E2%80%9C%E5%8F%91%E6%96%B0%E8%8A%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京宣布3月24日为全国哀悼日](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%833%E6%9C%8824%E6%97%A5%E4%B8%BA%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [上海打雷](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%89%93%E9%9B%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [尔冬升把徐若晗赶出片场](https://www.baidu.com/s?wd=%E5%B0%94%E5%86%AC%E5%8D%87%E6%8A%8A%E5%BE%90%E8%8B%A5%E6%99%97%E8%B5%B6%E5%87%BA%E7%89%87%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [贵人鸟预亏损近5亿元](https://www.baidu.com/s?wd=%E8%B4%B5%E4%BA%BA%E9%B8%9F%E9%A2%84%E4%BA%8F%E6%8D%9F%E8%BF%915%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [都选C的试卷终于出现了](https://www.baidu.com/s?wd=%E9%83%BD%E9%80%89C%E7%9A%84%E8%AF%95%E5%8D%B7%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [新版微信朋友圈都是短线](https://www.baidu.com/s?wd=%E6%96%B0%E7%89%88%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%83%BD%E6%98%AF%E7%9F%AD%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣河西小海地着火](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E6%B2%B3%E8%A5%BF%E5%B0%8F%E6%B5%B7%E5%9C%B0%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
