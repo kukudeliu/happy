@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 21:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 21:06:01</h4></div>
 
 > 微博  
 
 1. [俄恐袭已致143人遇难](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4143%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top)<br />
 2. [粉丝曾提醒夏之光是霸王茶姬](https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E6%9B%BE%E6%8F%90%E9%86%92%E5%A4%8F%E4%B9%8B%E5%85%89%E6%98%AF%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%23&t=31&band_rank=2&Refer=top)<br />
 3. [春日花经济焕发新动力](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%97%A5%E8%8A%B1%E7%BB%8F%E6%B5%8E%E7%84%95%E5%8F%91%E6%96%B0%E5%8A%A8%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [俄恐袭嫌疑人称有人出100万卢布买凶](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%81%90%E8%A2%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E7%A7%B0%E6%9C%89%E4%BA%BA%E5%87%BA100%E4%B8%87%E5%8D%A2%E5%B8%83%E4%B9%B0%E5%87%B6%23&t=31&band_rank=4&Refer=top)<br />
+4. [莫斯科恐袭嫌疑人被捕现场](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8D%95%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [王室专家称凯特因孩子推迟公布患癌](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%A4%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%87%AF%E7%89%B9%E5%9B%A0%E5%AD%A9%E5%AD%90%E6%8E%A8%E8%BF%9F%E5%85%AC%E5%B8%83%E6%82%A3%E7%99%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [张杰给内娱一点小小的震撼](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%BB%99%E5%86%85%E5%A8%B1%E4%B8%80%E7%82%B9%E5%B0%8F%E5%B0%8F%E7%9A%84%E9%9C%87%E6%92%BC%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵露思出图](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%87%BA%E5%9B%BE&t=31&band_rank=7&Refer=top)<br />
