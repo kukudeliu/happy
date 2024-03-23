@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 23:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 23:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郝蕾说看纪凌尘演戏太难受了](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E8%AF%B4%E7%9C%8B%E7%BA%AA%E5%87%8C%E5%B0%98%E6%BC%94%E6%88%8F%E5%A4%AA%E9%9A%BE%E5%8F%97%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [难哄要官宣了](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E8%A6%81%E5%AE%98%E5%AE%A3%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [张杰给内娱一点小小的震撼](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%BB%99%E5%86%85%E5%A8%B1%E4%B8%80%E7%82%B9%E5%B0%8F%E5%B0%8F%E7%9A%84%E9%9C%87%E6%92%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [俄罗斯已进入战争状态](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [俄方称已抓捕的恐袭者均为外国公民](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%96%B9%E7%A7%B0%E5%B7%B2%E6%8A%93%E6%8D%95%E7%9A%84%E6%81%90%E8%A2%AD%E8%80%85%E5%9D%87%E4%B8%BA%E5%A4%96%E5%9B%BD%E5%85%AC%E6%B0%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
