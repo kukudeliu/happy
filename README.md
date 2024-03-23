@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 13:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 13:57:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [这个“脊梁”要更硬一点](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E2%80%9C%E8%84%8A%E6%A2%81%E2%80%9D%E8%A6%81%E6%9B%B4%E7%A1%AC%E4%B8%80%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [俄方：恐袭参与者必须血债血偿](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%81%90%E8%A2%AD%E5%8F%82%E4%B8%8E%E8%80%85%E5%BF%85%E9%A1%BB%E8%A1%80%E5%80%BA%E8%A1%80%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [商务部部长会见苹果CEO库克](https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E9%83%A8%E9%95%BF%E4%BC%9A%E8%A7%81%E8%8B%B9%E6%9E%9CCEO%E5%BA%93%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [都选C的试卷终于出现了](https://www.baidu.com/s?wd=%E9%83%BD%E9%80%89C%E7%9A%84%E8%AF%95%E5%8D%B7%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [智慧春耕藏着多少黑科技](https://www.baidu.com/s?wd=%E6%99%BA%E6%85%A7%E6%98%A5%E8%80%95%E8%97%8F%E7%9D%80%E5%A4%9A%E5%B0%91%E9%BB%91%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直击莫斯科音乐厅袭击现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E8%8E%AB%E6%96%AF%E7%A7%91%E9%9F%B3%E4%B9%90%E5%8E%85%E8%A2%AD%E5%87%BB%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子误吞鱼刺从200斤瘦成70斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E5%90%9E%E9%B1%BC%E5%88%BA%E4%BB%8E200%E6%96%A4%E7%98%A6%E6%88%9070%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [这个“脊梁”要更硬一点](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E2%80%9C%E8%84%8A%E6%A2%81%E2%80%9D%E8%A6%81%E6%9B%B4%E7%A1%AC%E4%B8%80%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [俄方：恐袭参与者必须血债血偿](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%81%90%E8%A2%AD%E5%8F%82%E4%B8%8E%E8%80%85%E5%BF%85%E9%A1%BB%E8%A1%80%E5%80%BA%E8%A1%80%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [商务部部长会见苹果CEO库克](https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E9%83%A8%E9%95%BF%E4%BC%9A%E8%A7%81%E8%8B%B9%E6%9E%9CCEO%E5%BA%93%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [都选C的试卷终于出现了](https://www.baidu.com/s?wd=%E9%83%BD%E9%80%89C%E7%9A%84%E8%AF%95%E5%8D%B7%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [智慧春耕藏着多少黑科技](https://www.baidu.com/s?wd=%E6%99%BA%E6%85%A7%E6%98%A5%E8%80%95%E8%97%8F%E7%9D%80%E5%A4%9A%E5%B0%91%E9%BB%91%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直击莫斯科音乐厅袭击现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E8%8E%AB%E6%96%AF%E7%A7%91%E9%9F%B3%E4%B9%90%E5%8E%85%E8%A2%AD%E5%87%BB%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子误吞鱼刺从200斤瘦成70斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E5%90%9E%E9%B1%BC%E5%88%BA%E4%BB%8E200%E6%96%A4%E7%98%A6%E6%88%9070%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
