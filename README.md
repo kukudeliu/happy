@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 22:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 22:24:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [普京就恐怖袭击事件发表电视讲话](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%B0%B1%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6%E5%8F%91%E8%A1%A8%E7%94%B5%E8%A7%86%E8%AE%B2%E8%AF%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [郝蕾说看纪凌尘演戏太难受了](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E8%AF%B4%E7%9C%8B%E7%BA%AA%E5%87%8C%E5%B0%98%E6%BC%94%E6%88%8F%E5%A4%AA%E9%9A%BE%E5%8F%97%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [金莎化丑妆和男朋友视频](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%8C%96%E4%B8%91%E5%A6%86%E5%92%8C%E7%94%B7%E6%9C%8B%E5%8F%8B%E8%A7%86%E9%A2%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [张杰给内娱一点小小的震撼](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%BB%99%E5%86%85%E5%A8%B1%E4%B8%80%E7%82%B9%E5%B0%8F%E5%B0%8F%E7%9A%84%E9%9C%87%E6%92%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [难哄要官宣了](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E8%A6%81%E5%AE%98%E5%AE%A3%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
