@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 11:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 11:26:02</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [中国留学生亲历莫斯科恐怖袭击](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E4%BA%B2%E5%8E%86%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%23&t=31&band_rank=4&Refer=top)<br />
 5. [王者荣耀称将严肃回击](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%A7%B0%E5%B0%86%E4%B8%A5%E8%82%83%E5%9B%9E%E5%87%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [英国凯特王妃患癌症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%82%A3%E7%99%8C%E7%97%87%23&t=31&band_rank=6&Refer=top)<br />
-7. [全钟瑞 校园暴力](https://s.weibo.com/weibo?q=%E5%85%A8%E9%92%9F%E7%91%9E%20%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B&t=31&band_rank=7&Refer=top)<br />
-8. [王者荣耀 阴阳师](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%20%E9%98%B4%E9%98%B3%E5%B8%88&t=31&band_rank=8&Refer=top)<br />
+7. [王者荣耀 阴阳师](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%20%E9%98%B4%E9%98%B3%E5%B8%88&t=31&band_rank=7&Refer=top)<br />
+8. [全钟瑞 校园暴力](https://s.weibo.com/weibo?q=%E5%85%A8%E9%92%9F%E7%91%9E%20%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B&t=31&band_rank=8&Refer=top)<br />
 9. [你好星期六全员cos加速猎人](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E5%85%A8%E5%91%98cos%E5%8A%A0%E9%80%9F%E7%8C%8E%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
