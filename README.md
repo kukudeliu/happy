@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 23:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 23:08:01</h4></div>
 
 > 微博  
 
-1. [尔冬升把徐若晗赶出片场](https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E6%8A%8A%E5%BE%90%E8%8B%A5%E6%99%97%E8%B5%B6%E5%87%BA%E7%89%87%E5%9C%BA%23&t=31&band_rank=1&Refer=top)<br />
-2. [俄恐袭已致143人遇难](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4143%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=2&Refer=top)<br />
+1. [俄恐袭已致143人遇难](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4143%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top)<br />
+2. [尔冬升把徐若晗赶出片场](https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E6%8A%8A%E5%BE%90%E8%8B%A5%E6%99%97%E8%B5%B6%E5%87%BA%E7%89%87%E5%9C%BA%23&t=31&band_rank=2&Refer=top)<br />
 3. [春日花经济焕发新动力](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%97%A5%E8%8A%B1%E7%BB%8F%E6%B5%8E%E7%84%95%E5%8F%91%E6%96%B0%E5%8A%A8%E5%8A%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [难哄要官宣了](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E8%A6%81%E5%AE%98%E5%AE%A3%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [俄罗斯已进入战争状态](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%23&t=31&band_rank=5&Refer=top)<br />
