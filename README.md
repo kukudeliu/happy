@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 04:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 04:40:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [普京宣布3月24日为全国哀悼日](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%833%E6%9C%8824%E6%97%A5%E4%B8%BA%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [尔冬升把徐若晗赶出片场](https://www.baidu.com/s?wd=%E5%B0%94%E5%86%AC%E5%8D%87%E6%8A%8A%E5%BE%90%E8%8B%A5%E6%99%97%E8%B5%B6%E5%87%BA%E7%89%87%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [雄孔雀求偶频繁开屏被长臂猿拔毛](https://www.baidu.com/s?wd=%E9%9B%84%E5%AD%94%E9%9B%80%E6%B1%82%E5%81%B6%E9%A2%91%E7%B9%81%E5%BC%80%E5%B1%8F%E8%A2%AB%E9%95%BF%E8%87%82%E7%8C%BF%E6%8B%94%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [正部级李钺锋落马 上周还在参会](https://www.baidu.com/s?wd=%E6%AD%A3%E9%83%A8%E7%BA%A7%E6%9D%8E%E9%92%BA%E9%94%8B%E8%90%BD%E9%A9%AC+%E4%B8%8A%E5%91%A8%E8%BF%98%E5%9C%A8%E5%8F%82%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海打雷](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%89%93%E9%9B%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣河西小海地着火](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E6%B2%B3%E8%A5%BF%E5%B0%8F%E6%B5%B7%E5%9C%B0%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [普京宣布3月24日为全国哀悼日](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%833%E6%9C%8824%E6%97%A5%E4%B8%BA%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [尔冬升把徐若晗赶出片场](https://www.baidu.com/s?wd=%E5%B0%94%E5%86%AC%E5%8D%87%E6%8A%8A%E5%BE%90%E8%8B%A5%E6%99%97%E8%B5%B6%E5%87%BA%E7%89%87%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [雄孔雀求偶频繁开屏被长臂猿拔毛](https://www.baidu.com/s?wd=%E9%9B%84%E5%AD%94%E9%9B%80%E6%B1%82%E5%81%B6%E9%A2%91%E7%B9%81%E5%BC%80%E5%B1%8F%E8%A2%AB%E9%95%BF%E8%87%82%E7%8C%BF%E6%8B%94%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [正部级李钺锋落马 上周还在参会](https://www.baidu.com/s?wd=%E6%AD%A3%E9%83%A8%E7%BA%A7%E6%9D%8E%E9%92%BA%E9%94%8B%E8%90%BD%E9%A9%AC+%E4%B8%8A%E5%91%A8%E8%BF%98%E5%9C%A8%E5%8F%82%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [上海打雷](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%89%93%E9%9B%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣河西小海地着火](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E6%B2%B3%E8%A5%BF%E5%B0%8F%E6%B5%B7%E5%9C%B0%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
