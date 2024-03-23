@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 08:40:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [英国多方回应凯特患癌](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%87%AF%E7%89%B9%E6%82%A3%E7%99%8C%23&t=31&band_rank=5&Refer=top)<br />
 6. [纸业巨头维达261亿被收购](https://s.weibo.com/weibo?q=%23%E7%BA%B8%E4%B8%9A%E5%B7%A8%E5%A4%B4%E7%BB%B4%E8%BE%BE261%E4%BA%BF%E8%A2%AB%E6%94%B6%E8%B4%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [手部出现3种异样可能患癌](https://s.weibo.com/weibo?q=%23%E6%89%8B%E9%83%A8%E5%87%BA%E7%8E%B03%E7%A7%8D%E5%BC%82%E6%A0%B7%E5%8F%AF%E8%83%BD%E6%82%A3%E7%99%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [俄一音乐厅遭恐袭40人遇难百余人伤](https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B8%80%E9%9F%B3%E4%B9%90%E5%8E%85%E9%81%AD%E6%81%90%E8%A2%AD40%E4%BA%BA%E9%81%87%E9%9A%BE%E7%99%BE%E4%BD%99%E4%BA%BA%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [伊斯兰国宣称对莫斯科枪击事件负责](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD%E5%AE%A3%E7%A7%B0%E5%AF%B9%E8%8E%AB%E6%96%AF%E7%A7%91%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E8%B4%9F%E8%B4%A3%23&t=31&band_rank=9&Refer=top)<br />
+8. [伊斯兰国宣称对莫斯科枪击事件负责](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD%E5%AE%A3%E7%A7%B0%E5%AF%B9%E8%8E%AB%E6%96%AF%E7%A7%91%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E8%B4%9F%E8%B4%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [俄一音乐厅遭恐袭40人遇难百余人伤](https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B8%80%E9%9F%B3%E4%B9%90%E5%8E%85%E9%81%AD%E6%81%90%E8%A2%AD40%E4%BA%BA%E9%81%87%E9%9A%BE%E7%99%BE%E4%BD%99%E4%BA%BA%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [火烧云回应孕妇免排队争议](https://www.baidu.com/s?wd=%E7%81%AB%E7%83%A7%E4%BA%91%E5%9B%9E%E5%BA%94%E5%AD%95%E5%A6%87%E5%85%8D%E6%8E%92%E9%98%9F%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [莫斯科枪击案袭击者逃跑照片曝光](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%9E%AA%E5%87%BB%E6%A1%88%E8%A2%AD%E5%87%BB%E8%80%85%E9%80%83%E8%B7%91%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [凯特王妃露面称患癌](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E9%9C%B2%E9%9D%A2%E7%A7%B0%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [无臂男子回应武汉地铁道歉](https://www.baidu.com/s?wd=%E6%97%A0%E8%87%82%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [捡到30万练功券的环卫工获奖8000元](https://www.baidu.com/s?wd=%E6%8D%A1%E5%88%B030%E4%B8%87%E7%BB%83%E5%8A%9F%E5%88%B8%E7%9A%84%E7%8E%AF%E5%8D%AB%E5%B7%A5%E8%8E%B7%E5%A5%968000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南地质灾害致8人死亡？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3%E8%87%B48%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [火烧云回应孕妇免排队争议](https://www.baidu.com/s?wd=%E7%81%AB%E7%83%A7%E4%BA%91%E5%9B%9E%E5%BA%94%E5%AD%95%E5%A6%87%E5%85%8D%E6%8E%92%E9%98%9F%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [莫斯科枪击案袭击者逃跑照片曝光](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%9E%AA%E5%87%BB%E6%A1%88%E8%A2%AD%E5%87%BB%E8%80%85%E9%80%83%E8%B7%91%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [凯特王妃露面称患癌](https://www.baidu.com/s?wd=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E9%9C%B2%E9%9D%A2%E7%A7%B0%E6%82%A3%E7%99%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [无臂男子回应武汉地铁道歉](https://www.baidu.com/s?wd=%E6%97%A0%E8%87%82%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [捡到30万练功券的环卫工获奖8000元](https://www.baidu.com/s?wd=%E6%8D%A1%E5%88%B030%E4%B8%87%E7%BB%83%E5%8A%9F%E5%88%B8%E7%9A%84%E7%8E%AF%E5%8D%AB%E5%B7%A5%E8%8E%B7%E5%A5%968000%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南地质灾害致8人死亡？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3%E8%87%B48%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
