@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 14:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 14:34:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [莫斯科恐袭](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%23&t=31&band_rank=2&Refer=top)<br />
 3. [春耕春管把科技范儿拉满](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%80%95%E6%98%A5%E7%AE%A1%E6%8A%8A%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [都选C的试卷终于出现了](https://s.weibo.com/weibo?q=%23%E9%83%BD%E9%80%89C%E7%9A%84%E8%AF%95%E5%8D%B7%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
-5. [邓超背着孙俪在家干这事](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%83%8C%E7%9D%80%E5%AD%99%E4%BF%AA%E5%9C%A8%E5%AE%B6%E5%B9%B2%E8%BF%99%E4%BA%8B%23&t=31&band_rank=5&Refer=top)<br />
-6. [凯特王妃宣布患癌视频录制于3天前](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%AE%A3%E5%B8%83%E6%82%A3%E7%99%8C%E8%A7%86%E9%A2%91%E5%BD%95%E5%88%B6%E4%BA%8E3%E5%A4%A9%E5%89%8D%23&t=31&band_rank=6&Refer=top)<br />
+5. [凯特王妃宣布患癌视频录制于3天前](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%AE%A3%E5%B8%83%E6%82%A3%E7%99%8C%E8%A7%86%E9%A2%91%E5%BD%95%E5%88%B6%E4%BA%8E3%E5%A4%A9%E5%89%8D%23&t=31&band_rank=5&Refer=top)<br />
+6. [邓超背着孙俪在家干这事](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%83%8C%E7%9D%80%E5%AD%99%E4%BF%AA%E5%9C%A8%E5%AE%B6%E5%B9%B2%E8%BF%99%E4%BA%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [梅德韦杰夫称要血债血偿](https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%E7%A7%B0%E8%A6%81%E8%A1%80%E5%80%BA%E8%A1%80%E5%81%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [英国凯特王妃患癌症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%82%A3%E7%99%8C%E7%97%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [鹿晗宝石老舅王勉被范志毅偷家](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%AE%9D%E7%9F%B3%E8%80%81%E8%88%85%E7%8E%8B%E5%8B%89%E8%A2%AB%E8%8C%83%E5%BF%97%E6%AF%85%E5%81%B7%E5%AE%B6%23&t=31&band_rank=9&Refer=top)<br />
