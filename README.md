@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 15:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 15:39:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [莫斯科母婴室发现遇难者](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%AF%8D%E5%A9%B4%E5%AE%A4%E5%8F%91%E7%8E%B0%E9%81%87%E9%9A%BE%E8%80%85%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴宣传为地球献出一小时](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%AE%A3%E4%BC%A0%E4%B8%BA%E5%9C%B0%E7%90%83%E7%8C%AE%E5%87%BA%E4%B8%80%E5%B0%8F%E6%97%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [凯特王妃宣布患癌视频录制于3天前](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%AE%A3%E5%B8%83%E6%82%A3%E7%99%8C%E8%A7%86%E9%A2%91%E5%BD%95%E5%88%B6%E4%BA%8E3%E5%A4%A9%E5%89%8D%23&t=31&band_rank=7&Refer=top)<br />
-8. [莫斯科恐袭](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [盒子里的猫](https://s.weibo.com/weibo?q=%E7%9B%92%E5%AD%90%E9%87%8C%E7%9A%84%E7%8C%AB&t=31&band_rank=9&Refer=top)<br />
+8. [盒子里的猫](https://s.weibo.com/weibo?q=%E7%9B%92%E5%AD%90%E9%87%8C%E7%9A%84%E7%8C%AB&t=31&band_rank=8&Refer=top)<br />
+9. [莫斯科恐袭](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
