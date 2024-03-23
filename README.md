@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 11:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 11:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [英国凯特王妃患癌症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%82%A3%E7%99%8C%E7%97%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [王者荣耀 阴阳师](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%20%E9%98%B4%E9%98%B3%E5%B8%88&t=31&band_rank=7&Refer=top)<br />
 8. [全钟瑞 校园暴力](https://s.weibo.com/weibo?q=%E5%85%A8%E9%92%9F%E7%91%9E%20%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B&t=31&band_rank=8&Refer=top)<br />
-9. [你好星期六全员cos加速猎人](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E5%85%A8%E5%91%98cos%E5%8A%A0%E9%80%9F%E7%8C%8E%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [颜值输给了簪花的男友](https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%80%BC%E8%BE%93%E7%BB%99%E4%BA%86%E7%B0%AA%E8%8A%B1%E7%9A%84%E7%94%B7%E5%8F%8B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
