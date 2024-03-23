@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 16:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 16:02:01</h4></div>
 
 > 微博  
 
 1. [俄罗斯已进入战争状态](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%23&t=31&band_rank=1&Refer=top)<br />
 2. [南航大学回应学生与教授发生关系](https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%B8%8E%E6%95%99%E6%8E%88%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%23&t=31&band_rank=2&Refer=top)<br />
-3. [春耕这件事中国人有多认真](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%80%95%E8%BF%99%E4%BB%B6%E4%BA%8B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E5%A4%9A%E8%AE%A4%E7%9C%9F%23&t=31&band_rank=3&Refer=top)<br />
+3. [2023全国十大考古新发现](https://s.weibo.com/weibo?q=%232023%E5%85%A8%E5%9B%BD%E5%8D%81%E5%A4%A7%E8%80%83%E5%8F%A4%E6%96%B0%E5%8F%91%E7%8E%B0%23&t=31&band_rank=3&Refer=top)<br />
 4. [新版微信朋友圈都是短线](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%89%88%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%83%BD%E6%98%AF%E7%9F%AD%E7%BA%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [2名莫斯科恐袭嫌疑人被捕](https://s.weibo.com/weibo?q=%232%E5%90%8D%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8D%95%23&t=31&band_rank=5&Refer=top)<br />
 6. [都选C的试卷终于出现了](https://s.weibo.com/weibo?q=%23%E9%83%BD%E9%80%89C%E7%9A%84%E8%AF%95%E5%8D%B7%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
