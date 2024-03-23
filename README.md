@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 10:00:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 10:01:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [莫斯科遭遇恐怖袭击](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E9%81%AD%E9%81%87%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [伊斯兰国宣称对莫斯科枪击事件负责](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD%E5%AE%A3%E7%A7%B0%E5%AF%B9%E8%8E%AB%E6%96%AF%E7%A7%91%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E8%B4%9F%E8%B4%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [纸业巨头维达261亿被收购](https://s.weibo.com/weibo?q=%23%E7%BA%B8%E4%B8%9A%E5%B7%A8%E5%A4%B4%E7%BB%B4%E8%BE%BE261%E4%BA%BF%E8%A2%AB%E6%94%B6%E8%B4%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [鹿晗济南](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E6%B5%8E%E5%8D%97&t=31&band_rank=9&Refer=top)<br />
+9. [全钟瑞 校园暴力](https://s.weibo.com/weibo?q=%E5%85%A8%E9%92%9F%E7%91%9E%20%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
