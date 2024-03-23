@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 17:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 17:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [莫斯科恐袭：枪声、尖叫和火海](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%EF%BC%9A%E6%9E%AA%E5%A3%B0%E3%80%81%E5%B0%96%E5%8F%AB%E5%92%8C%E7%81%AB%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [南航回应“男生与教授发生关系”](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%B7%E7%94%9F%E4%B8%8E%E6%95%99%E6%8E%88%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [鹿晗腹肌没了](https://www.baidu.com/s?wd=%E9%B9%BF%E6%99%97%E8%85%B9%E8%82%8C%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩在厕所被脚踢扇耳光 9人到案](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9C%A8%E5%8E%95%E6%89%80%E8%A2%AB%E8%84%9A%E8%B8%A2%E6%89%87%E8%80%B3%E5%85%89+9%E4%BA%BA%E5%88%B0%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [都选C的试卷终于出现了](https://www.baidu.com/s?wd=%E9%83%BD%E9%80%89C%E7%9A%84%E8%AF%95%E5%8D%B7%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣河西小海地着火](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E6%B2%B3%E8%A5%BF%E5%B0%8F%E6%B5%B7%E5%9C%B0%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [莫斯科恐袭：枪声、尖叫和火海](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%EF%BC%9A%E6%9E%AA%E5%A3%B0%E3%80%81%E5%B0%96%E5%8F%AB%E5%92%8C%E7%81%AB%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [南航回应“男生与教授发生关系”](https://www.baidu.com/s?wd=%E5%8D%97%E8%88%AA%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%B7%E7%94%9F%E4%B8%8E%E6%95%99%E6%8E%88%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [鹿晗腹肌没了](https://www.baidu.com/s?wd=%E9%B9%BF%E6%99%97%E8%85%B9%E8%82%8C%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女孩在厕所被脚踢扇耳光 9人到案](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9C%A8%E5%8E%95%E6%89%80%E8%A2%AB%E8%84%9A%E8%B8%A2%E6%89%87%E8%80%B3%E5%85%89+9%E4%BA%BA%E5%88%B0%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [都选C的试卷终于出现了](https://www.baidu.com/s?wd=%E9%83%BD%E9%80%89C%E7%9A%84%E8%AF%95%E5%8D%B7%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣河西小海地着火](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E6%B2%B3%E8%A5%BF%E5%B0%8F%E6%B5%B7%E5%9C%B0%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
