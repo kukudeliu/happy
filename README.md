@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 19:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 19:04:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [莫斯科恐袭：枪声、尖叫和火海](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%EF%BC%9A%E6%9E%AA%E5%A3%B0%E3%80%81%E5%B0%96%E5%8F%AB%E5%92%8C%E7%81%AB%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新版微信朋友圈都是短线](https://www.baidu.com/s?wd=%E6%96%B0%E7%89%88%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%83%BD%E6%98%AF%E7%9F%AD%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [莫斯科恐袭事件11人被捕](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B611%E4%BA%BA%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [丈夫去世 神秘恩人连续转账47个月](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%8E%BB%E4%B8%96+%E7%A5%9E%E7%A7%98%E6%81%A9%E4%BA%BA%E8%BF%9E%E7%BB%AD%E8%BD%AC%E8%B4%A647%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [都选C的试卷终于出现了](https://www.baidu.com/s?wd=%E9%83%BD%E9%80%89C%E7%9A%84%E8%AF%95%E5%8D%B7%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣河西小海地着火](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E6%B2%B3%E8%A5%BF%E5%B0%8F%E6%B5%B7%E5%9C%B0%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [莫斯科恐袭：枪声、尖叫和火海](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%EF%BC%9A%E6%9E%AA%E5%A3%B0%E3%80%81%E5%B0%96%E5%8F%AB%E5%92%8C%E7%81%AB%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [新版微信朋友圈都是短线](https://www.baidu.com/s?wd=%E6%96%B0%E7%89%88%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%83%BD%E6%98%AF%E7%9F%AD%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [莫斯科恐袭事件11人被捕](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B611%E4%BA%BA%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [丈夫去世 神秘恩人连续转账47个月](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%8E%BB%E4%B8%96+%E7%A5%9E%E7%A7%98%E6%81%A9%E4%BA%BA%E8%BF%9E%E7%BB%AD%E8%BD%AC%E8%B4%A647%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [都选C的试卷终于出现了](https://www.baidu.com/s?wd=%E9%83%BD%E9%80%89C%E7%9A%84%E8%AF%95%E5%8D%B7%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣河西小海地着火](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E6%B2%B3%E8%A5%BF%E5%B0%8F%E6%B5%B7%E5%9C%B0%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
