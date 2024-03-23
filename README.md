@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 15:14:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 15:17:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [俄方：恐袭参与者必须血债血偿](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%81%90%E8%A2%AD%E5%8F%82%E4%B8%8E%E8%80%85%E5%BF%85%E9%A1%BB%E8%A1%80%E5%80%BA%E8%A1%80%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [丈夫去世 神秘恩人连续转账47个月](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%8E%BB%E4%B8%96+%E7%A5%9E%E7%A7%98%E6%81%A9%E4%BA%BA%E8%BF%9E%E7%BB%AD%E8%BD%AC%E8%B4%A647%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩在厕所被脚踢扇耳光 9人到案](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9C%A8%E5%8E%95%E6%89%80%E8%A2%AB%E8%84%9A%E8%B8%A2%E6%89%87%E8%80%B3%E5%85%89+9%E4%BA%BA%E5%88%B0%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王者荣耀称将严肃回击](https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%A7%B0%E5%B0%86%E4%B8%A5%E8%82%83%E5%9B%9E%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张庭新店开张65天销量仅3件](https://www.baidu.com/s?wd=%E5%BC%A0%E5%BA%AD%E6%96%B0%E5%BA%97%E5%BC%80%E5%BC%A065%E5%A4%A9%E9%94%80%E9%87%8F%E4%BB%853%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南地质灾害致8人死亡？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3%E8%87%B48%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [俄方：恐袭参与者必须血债血偿](https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%81%90%E8%A2%AD%E5%8F%82%E4%B8%8E%E8%80%85%E5%BF%85%E9%A1%BB%E8%A1%80%E5%80%BA%E8%A1%80%E5%81%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [丈夫去世 神秘恩人连续转账47个月](https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%8E%BB%E4%B8%96+%E7%A5%9E%E7%A7%98%E6%81%A9%E4%BA%BA%E8%BF%9E%E7%BB%AD%E8%BD%AC%E8%B4%A647%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女孩在厕所被脚踢扇耳光 9人到案](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9C%A8%E5%8E%95%E6%89%80%E8%A2%AB%E8%84%9A%E8%B8%A2%E6%89%87%E8%80%B3%E5%85%89+9%E4%BA%BA%E5%88%B0%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [王者荣耀称将严肃回击](https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%A7%B0%E5%B0%86%E4%B8%A5%E8%82%83%E5%9B%9E%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [张庭新店开张65天销量仅3件](https://www.baidu.com/s?wd=%E5%BC%A0%E5%BA%AD%E6%96%B0%E5%BA%97%E5%BC%80%E5%BC%A065%E5%A4%A9%E9%94%80%E9%87%8F%E4%BB%853%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南地质灾害致8人死亡？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3%E8%87%B48%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
