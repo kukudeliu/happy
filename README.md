@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 14:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 14:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [英国凯特王妃患癌症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%82%A3%E7%99%8C%E7%97%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [邓超背着孙俪在家干这事](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%83%8C%E7%9D%80%E5%AD%99%E4%BF%AA%E5%9C%A8%E5%AE%B6%E5%B9%B2%E8%BF%99%E4%BA%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [凯特王妃宣布患癌视频录制于3天前](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%AE%A3%E5%B8%83%E6%82%A3%E7%99%8C%E8%A7%86%E9%A2%91%E5%BD%95%E5%88%B6%E4%BA%8E3%E5%A4%A9%E5%89%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [王者荣耀 阴阳师](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%20%E9%98%B4%E9%98%B3%E5%B8%88&t=31&band_rank=9&Refer=top)<br />
+9. [毛不易回应穿洞洞鞋爬长白山](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E5%9B%9E%E5%BA%94%E7%A9%BF%E6%B4%9E%E6%B4%9E%E9%9E%8B%E7%88%AC%E9%95%BF%E7%99%BD%E5%B1%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
