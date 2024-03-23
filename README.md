@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 16:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 16:17:01</h4></div>
 
 > 微博  
 
-1. [俄罗斯已进入战争状态](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%23&t=31&band_rank=1&Refer=top)<br />
-2. [2名莫斯科恐袭嫌疑人被捕](https://s.weibo.com/weibo?q=%232%E5%90%8D%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8D%95%23&t=31&band_rank=2&Refer=top)<br />
+1. [2名莫斯科恐袭嫌疑人被捕](https://s.weibo.com/weibo?q=%232%E5%90%8D%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8D%95%23&t=31&band_rank=1&Refer=top)<br />
+2. [俄罗斯已进入战争状态](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023全国十大考古新发现](https://s.weibo.com/weibo?q=%232023%E5%85%A8%E5%9B%BD%E5%8D%81%E5%A4%A7%E8%80%83%E5%8F%A4%E6%96%B0%E5%8F%91%E7%8E%B0%23&t=31&band_rank=3&Refer=top)<br />
 4. [新版微信朋友圈都是短线](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%89%88%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%83%BD%E6%98%AF%E7%9F%AD%E7%BA%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [南航大学回应学生与教授发生关系](https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%B8%8E%E6%95%99%E6%8E%88%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [鹿晗腹肌没了](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%85%B9%E8%82%8C%E6%B2%A1%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [都选C的试卷终于出现了](https://s.weibo.com/weibo?q=%23%E9%83%BD%E9%80%89C%E7%9A%84%E8%AF%95%E5%8D%B7%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [周杰伦演唱会抢票](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
-9. [莫斯科母婴室发现遇难者](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%AF%8D%E5%A9%B4%E5%AE%A4%E5%8F%91%E7%8E%B0%E9%81%87%E9%9A%BE%E8%80%85%23&t=31&band_rank=9&Refer=top)<br />
+8. [莫斯科母婴室发现遇难者](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%AF%8D%E5%A9%B4%E5%AE%A4%E5%8F%91%E7%8E%B0%E9%81%87%E9%9A%BE%E8%80%85%23&t=31&band_rank=8&Refer=top)<br />
+9. [凯特王妃宣布患癌视频录制于3天前](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%AE%A3%E5%B8%83%E6%82%A3%E7%99%8C%E8%A7%86%E9%A2%91%E5%BD%95%E5%88%B6%E4%BA%8E3%E5%A4%A9%E5%89%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
