@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 17:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 17:37:02</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [俄罗斯已进入战争状态](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [春耕这件事中国人有多认真](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%80%95%E8%BF%99%E4%BB%B6%E4%BA%8B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E5%A4%9A%E8%AE%A4%E7%9C%9F%23&t=31&band_rank=3&Refer=top)<br />
 4. [莫斯科恐袭事件11人被捕](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B611%E4%BA%BA%E8%A2%AB%E6%8D%95%23&t=31&band_rank=4&Refer=top)<br />
-5. [莫斯科恐袭93人死亡](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD93%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
-6. [茶王吧唧](https://s.weibo.com/weibo?q=%E8%8C%B6%E7%8E%8B%E5%90%A7%E5%94%A7&t=31&band_rank=6&Refer=top)<br />
+5. [茶王吧唧](https://s.weibo.com/weibo?q=%E8%8C%B6%E7%8E%8B%E5%90%A7%E5%94%A7&t=31&band_rank=5&Refer=top)<br />
+6. [莫斯科恐袭93人死亡](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD93%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=6&Refer=top)<br />
 7. [新版微信朋友圈都是短线](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%89%88%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%83%BD%E6%98%AF%E7%9F%AD%E7%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨幂小水晚宴合照](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%B0%8F%E6%B0%B4%E6%99%9A%E5%AE%B4%E5%90%88%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [鹿晗腹肌没了](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%85%B9%E8%82%8C%E6%B2%A1%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
