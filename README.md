@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 10:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 10:44:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [全钟瑞 校园暴力](https://s.weibo.com/weibo?q=%E5%85%A8%E9%92%9F%E7%91%9E%20%E6%A0%A1%E5%9B%AD%E6%9A%B4%E5%8A%9B&t=31&band_rank=5&Refer=top)<br />
 6. [英国凯特王妃患癌症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%82%A3%E7%99%8C%E7%97%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [普京将就恐怖袭击事件发表电视演讲](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%B0%86%E5%B0%B1%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6%E5%8F%91%E8%A1%A8%E7%94%B5%E8%A7%86%E6%BC%94%E8%AE%B2%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘涛时隔十年再录花少](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E6%97%B6%E9%9A%94%E5%8D%81%E5%B9%B4%E5%86%8D%E5%BD%95%E8%8A%B1%E5%B0%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [王者荣耀称将严肃回击](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%A7%B0%E5%B0%86%E4%B8%A5%E8%82%83%E5%9B%9E%E5%87%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [王者荣耀称将严肃回击](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%A7%B0%E5%B0%86%E4%B8%A5%E8%82%83%E5%9B%9E%E5%87%BB%23&t=31&band_rank=8&Refer=top)<br />
+9. [刘涛时隔十年再录花少](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E6%97%B6%E9%9A%94%E5%8D%81%E5%B9%B4%E5%86%8D%E5%BD%95%E8%8A%B1%E5%B0%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
