@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 05:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 06:00:01</h4></div>
 
 > 微博  
 
 1. [俄恐袭已致143人遇难](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4143%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top)<br />
 2. [杭州兵马俑被游客吐槽不值票价](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%85%B5%E9%A9%AC%E4%BF%91%E8%A2%AB%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E4%B8%8D%E5%80%BC%E7%A5%A8%E4%BB%B7%23&t=31&band_rank=2&Refer=top)<br />
 3. [10.92亿背后的流量与力量](https://s.weibo.com/weibo?q=%2310.92%E4%BA%BF%E8%83%8C%E5%90%8E%E7%9A%84%E6%B5%81%E9%87%8F%E4%B8%8E%E5%8A%9B%E9%87%8F%23&t=31&band_rank=3&Refer=top)<br />
-4. [赵露思出图](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%87%BA%E5%9B%BE&t=31&band_rank=4&Refer=top)<br />
-5. [尔冬升把徐若晗赶出片场](https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E6%8A%8A%E5%BE%90%E8%8B%A5%E6%99%97%E8%B5%B6%E5%87%BA%E7%89%87%E5%9C%BA%23&t=31&band_rank=5&Refer=top)<br />
+4. [尔冬升把徐若晗赶出片场](https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E6%8A%8A%E5%BE%90%E8%8B%A5%E6%99%97%E8%B5%B6%E5%87%BA%E7%89%87%E5%9C%BA%23&t=31&band_rank=4&Refer=top)<br />
+5. [赵露思出图](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%87%BA%E5%9B%BE&t=31&band_rank=5&Refer=top)<br />
 6. [俄方称已抓捕的恐袭者均为外国公民](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%96%B9%E7%A7%B0%E5%B7%B2%E6%8A%93%E6%8D%95%E7%9A%84%E6%81%90%E8%A2%AD%E8%80%85%E5%9D%87%E4%B8%BA%E5%A4%96%E5%9B%BD%E5%85%AC%E6%B0%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [苹果高管一家四口被撞身亡](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [林更新被100多条信息轰炸求剧透](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E8%A2%AB100%E5%A4%9A%E6%9D%A1%E4%BF%A1%E6%81%AF%E8%BD%B0%E7%82%B8%E6%B1%82%E5%89%A7%E9%80%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵露思澳门活动造型](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%BE%B3%E9%97%A8%E6%B4%BB%E5%8A%A8%E9%80%A0%E5%9E%8B%23&t=31&band_rank=9&Refer=top)<br />
+9. [纪凌尘emo了](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%87%8C%E5%B0%98emo%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [普京宣布3月24日为全国哀悼日](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%833%E6%9C%8824%E6%97%A5%E4%B8%BA%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [雄孔雀求偶频繁开屏被长臂猿拔毛](https://www.baidu.com/s?wd=%E9%9B%84%E5%AD%94%E9%9B%80%E6%B1%82%E5%81%B6%E9%A2%91%E7%B9%81%E5%BC%80%E5%B1%8F%E8%A2%AB%E9%95%BF%E8%87%82%E7%8C%BF%E6%8B%94%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上海打雷](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%89%93%E9%9B%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [亿万富豪父子“股权争夺战”](https://www.baidu.com/s?wd=%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E7%88%B6%E5%AD%90%E2%80%9C%E8%82%A1%E6%9D%83%E4%BA%89%E5%A4%BA%E6%88%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [尔冬升把徐若晗赶出片场](https://www.baidu.com/s?wd=%E5%B0%94%E5%86%AC%E5%8D%87%E6%8A%8A%E5%BE%90%E8%8B%A5%E6%99%97%E8%B5%B6%E5%87%BA%E7%89%87%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣河西小海地着火](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E6%B2%B3%E8%A5%BF%E5%B0%8F%E6%B5%B7%E5%9C%B0%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [普京宣布3月24日为全国哀悼日](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%833%E6%9C%8824%E6%97%A5%E4%B8%BA%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E6%97%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [雄孔雀求偶频繁开屏被长臂猿拔毛](https://www.baidu.com/s?wd=%E9%9B%84%E5%AD%94%E9%9B%80%E6%B1%82%E5%81%B6%E9%A2%91%E7%B9%81%E5%BC%80%E5%B1%8F%E8%A2%AB%E9%95%BF%E8%87%82%E7%8C%BF%E6%8B%94%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [上海打雷](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%89%93%E9%9B%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [亿万富豪父子“股权争夺战”](https://www.baidu.com/s?wd=%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E7%88%B6%E5%AD%90%E2%80%9C%E8%82%A1%E6%9D%83%E4%BA%89%E5%A4%BA%E6%88%98%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [尔冬升把徐若晗赶出片场](https://www.baidu.com/s?wd=%E5%B0%94%E5%86%AC%E5%8D%87%E6%8A%8A%E5%BE%90%E8%8B%A5%E6%99%97%E8%B5%B6%E5%87%BA%E7%89%87%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣河西小海地着火](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E6%B2%B3%E8%A5%BF%E5%B0%8F%E6%B5%B7%E5%9C%B0%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
