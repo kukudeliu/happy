@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 16:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 16:57:01</h4></div>
 
 > 微博  
 
-1. [俄罗斯已进入战争状态](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%23&t=31&band_rank=1&Refer=top)<br />
-2. [夏之光 霸王茶姬](https://s.weibo.com/weibo?q=%E5%A4%8F%E4%B9%8B%E5%85%89%20%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC&t=31&band_rank=2&Refer=top)<br />
+1. [夏之光 霸王茶姬](https://s.weibo.com/weibo?q=%E5%A4%8F%E4%B9%8B%E5%85%89%20%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC&t=31&band_rank=1&Refer=top)<br />
+2. [俄罗斯已进入战争状态](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [2023全国十大考古新发现](https://s.weibo.com/weibo?q=%232023%E5%85%A8%E5%9B%BD%E5%8D%81%E5%A4%A7%E8%80%83%E5%8F%A4%E6%96%B0%E5%8F%91%E7%8E%B0%23&t=31&band_rank=3&Refer=top)<br />
 4. [莫斯科恐袭事件11人被捕](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B611%E4%BA%BA%E8%A2%AB%E6%8D%95%23&t=31&band_rank=4&Refer=top)<br />
 5. [莫斯科恐袭93人死亡](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD93%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
