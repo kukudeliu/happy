@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 16:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 16:27:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [新版微信朋友圈都是短线](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%89%88%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%83%BD%E6%98%AF%E7%9F%AD%E7%BA%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [南航大学回应学生与教授发生关系](https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%B8%8E%E6%95%99%E6%8E%88%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%23&t=31&band_rank=5&Refer=top)<br />
 6. [鹿晗腹肌没了](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%85%B9%E8%82%8C%E6%B2%A1%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [都选C的试卷终于出现了](https://s.weibo.com/weibo?q=%23%E9%83%BD%E9%80%89C%E7%9A%84%E8%AF%95%E5%8D%B7%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [吴磊浙江警察学院路演](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E6%B5%99%E6%B1%9F%E8%AD%A6%E5%AF%9F%E5%AD%A6%E9%99%A2%E8%B7%AF%E6%BC%94%23&t=31&band_rank=8&Refer=top)<br />
+7. [吴磊浙江警察学院路演](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E6%B5%99%E6%B1%9F%E8%AD%A6%E5%AF%9F%E5%AD%A6%E9%99%A2%E8%B7%AF%E6%BC%94%23&t=31&band_rank=7&Refer=top)<br />
+8. [都选C的试卷终于出现了](https://s.weibo.com/weibo?q=%23%E9%83%BD%E9%80%89C%E7%9A%84%E8%AF%95%E5%8D%B7%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [凯特王妃宣布患癌视频录制于3天前](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%AE%A3%E5%B8%83%E6%82%A3%E7%99%8C%E8%A7%86%E9%A2%91%E5%BD%95%E5%88%B6%E4%BA%8E3%E5%A4%A9%E5%89%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -19,7 +19,7 @@
 
 1. [挺起中部“脊梁”](https://www.baidu.com/s?wd=%E6%8C%BA%E8%B5%B7%E4%B8%AD%E9%83%A8%E2%80%9C%E8%84%8A%E6%A2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [正部级李钺锋落马 上周还在参会](https://www.baidu.com/s?wd=%E6%AD%A3%E9%83%A8%E7%BA%A7%E6%9D%8E%E9%92%BA%E9%94%8B%E8%90%BD%E9%A9%AC+%E4%B8%8A%E5%91%A8%E8%BF%98%E5%9C%A8%E5%8F%82%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [直击莫斯科音乐厅袭击现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E8%8E%AB%E6%96%AF%E7%A7%91%E9%9F%B3%E4%B9%90%E5%8E%85%E8%A2%AD%E5%87%BB%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [莫斯科恐袭事件11人被捕](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B611%E4%BA%BA%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [踏青赏花品春味](https://www.baidu.com/s?wd=%E8%B8%8F%E9%9D%92%E8%B5%8F%E8%8A%B1%E5%93%81%E6%98%A5%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [莫斯科恐袭：枪声、尖叫和火海](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%EF%BC%9A%E6%9E%AA%E5%A3%B0%E3%80%81%E5%B0%96%E5%8F%AB%E5%92%8C%E7%81%AB%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈里梅根称对凯特患癌感到非常震惊](https://www.baidu.com/s?wd=%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E7%A7%B0%E5%AF%B9%E5%87%AF%E7%89%B9%E6%82%A3%E7%99%8C%E6%84%9F%E5%88%B0%E9%9D%9E%E5%B8%B8%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [挺起中部“脊梁”](https://www.baidu.com/s?wd=%E6%8C%BA%E8%B5%B7%E4%B8%AD%E9%83%A8%E2%80%9C%E8%84%8A%E6%A2%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [正部级李钺锋落马 上周还在参会](https://www.baidu.com/s?wd=%E6%AD%A3%E9%83%A8%E7%BA%A7%E6%9D%8E%E9%92%BA%E9%94%8B%E8%90%BD%E9%A9%AC+%E4%B8%8A%E5%91%A8%E8%BF%98%E5%9C%A8%E5%8F%82%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [直击莫斯科音乐厅袭击现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E8%8E%AB%E6%96%AF%E7%A7%91%E9%9F%B3%E4%B9%90%E5%8E%85%E8%A2%AD%E5%87%BB%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [莫斯科恐袭事件11人被捕](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B611%E4%BA%BA%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [踏青赏花品春味](https://www.baidu.com/s?wd=%E8%B8%8F%E9%9D%92%E8%B5%8F%E8%8A%B1%E5%93%81%E6%98%A5%E5%91%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [莫斯科恐袭：枪声、尖叫和火海](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%EF%BC%9A%E6%9E%AA%E5%A3%B0%E3%80%81%E5%B0%96%E5%8F%AB%E5%92%8C%E7%81%AB%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [哈里梅根称对凯特患癌感到非常震惊](https://www.baidu.com/s?wd=%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E7%A7%B0%E5%AF%B9%E5%87%AF%E7%89%B9%E6%82%A3%E7%99%8C%E6%84%9F%E5%88%B0%E9%9D%9E%E5%B8%B8%E9%9C%87%E6%83%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
