@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 13:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-23 13:14:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [英国凯特王妃患癌症](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%82%A3%E7%99%8C%E7%97%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [凯特王妃宣布患癌视频录制于3天前](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%AE%A3%E5%B8%83%E6%82%A3%E7%99%8C%E8%A7%86%E9%A2%91%E5%BD%95%E5%88%B6%E4%BA%8E3%E5%A4%A9%E5%89%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [偷看凯特病例员工或被永久吊销执照](https://s.weibo.com/weibo?q=%23%E5%81%B7%E7%9C%8B%E5%87%AF%E7%89%B9%E7%97%85%E4%BE%8B%E5%91%98%E5%B7%A5%E6%88%96%E8%A2%AB%E6%B0%B8%E4%B9%85%E5%90%8A%E9%94%80%E6%89%A7%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [王者荣耀 阴阳师](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%20%E9%98%B4%E9%98%B3%E5%B8%88&t=31&band_rank=9&Refer=top)<br />
+9. [莫斯科恐袭死亡人数增至70](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%A2%9E%E8%87%B370%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,8 +22,8 @@
 3. [商务部部长会见苹果CEO库克](https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E9%83%A8%E9%95%BF%E4%BC%9A%E8%A7%81%E8%8B%B9%E6%9E%9CCEO%E5%BA%93%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [智慧春耕藏着多少黑科技](https://www.baidu.com/s?wd=%E6%99%BA%E6%85%A7%E6%98%A5%E8%80%95%E8%97%8F%E7%9D%80%E5%A4%9A%E5%B0%91%E9%BB%91%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直击莫斯科音乐厅袭击现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E8%8E%AB%E6%96%AF%E7%A7%91%E9%9F%B3%E4%B9%90%E5%8E%85%E8%A2%AD%E5%87%BB%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子误吞鱼刺从200斤瘦成70斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E5%90%9E%E9%B1%BC%E5%88%BA%E4%BB%8E200%E6%96%A4%E7%98%A6%E6%88%9070%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王者荣耀称将严肃回击](https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%A7%B0%E5%B0%86%E4%B8%A5%E8%82%83%E5%9B%9E%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [王者荣耀称将严肃回击](https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%A7%B0%E5%B0%86%E4%B8%A5%E8%82%83%E5%9B%9E%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子误吞鱼刺从200斤瘦成70斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E5%90%9E%E9%B1%BC%E5%88%BA%E4%BB%8E200%E6%96%A4%E7%98%A6%E6%88%9070%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [月租金600元 杭州一公寓被抢爆](https://www.baidu.com/s?wd=%E6%9C%88%E7%A7%9F%E9%87%91600%E5%85%83+%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%85%AC%E5%AF%93%E8%A2%AB%E6%8A%A2%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南地质灾害致8人死亡？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3%E8%87%B48%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [商务部部长会见苹果CEO库克](https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E9%83%A8%E9%95%BF%E4%BC%9A%E8%A7%81%E8%8B%B9%E6%9E%9CCEO%E5%BA%93%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [智慧春耕藏着多少黑科技](https://www.baidu.com/s?wd=%E6%99%BA%E6%85%A7%E6%98%A5%E8%80%95%E8%97%8F%E7%9D%80%E5%A4%9A%E5%B0%91%E9%BB%91%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [直击莫斯科音乐厅袭击现场](https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E8%8E%AB%E6%96%AF%E7%A7%91%E9%9F%B3%E4%B9%90%E5%8E%85%E8%A2%AD%E5%87%BB%E7%8E%B0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [男子误吞鱼刺从200斤瘦成70斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E5%90%9E%E9%B1%BC%E5%88%BA%E4%BB%8E200%E6%96%A4%E7%98%A6%E6%88%9070%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [王者荣耀称将严肃回击](https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%A7%B0%E5%B0%86%E4%B8%A5%E8%82%83%E5%9B%9E%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [王者荣耀称将严肃回击](https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%A7%B0%E5%B0%86%E4%B8%A5%E8%82%83%E5%9B%9E%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子误吞鱼刺从200斤瘦成70斤](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E5%90%9E%E9%B1%BC%E5%88%BA%E4%BB%8E200%E6%96%A4%E7%98%A6%E6%88%9070%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [月租金600元 杭州一公寓被抢爆](https://www.baidu.com/s?wd=%E6%9C%88%E7%A7%9F%E9%87%91600%E5%85%83+%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%85%AC%E5%AF%93%E8%A2%AB%E6%8A%A2%E7%88%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [云南地质灾害致8人死亡？假的](https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3%E8%87%B48%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
