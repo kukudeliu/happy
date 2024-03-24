@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 19:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 19:33:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [俄罗斯](https://s.weibo.com/weibo?q=%E4%BF%84%E7%BD%97%E6%96%AF&t=31&band_rank=5&Refer=top)<br />
 6. [石榴姐](https://s.weibo.com/weibo?q=%E7%9F%B3%E6%A6%B4%E5%A7%90&t=31&band_rank=6&Refer=top)<br />
 7. [infp是写文字天赋型选手](https://s.weibo.com/weibo?q=%23infp%E6%98%AF%E5%86%99%E6%96%87%E5%AD%97%E5%A4%A9%E8%B5%8B%E5%9E%8B%E9%80%89%E6%89%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [王诗龄砂锅铺满了黑松露](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E7%A0%82%E9%94%85%E9%93%BA%E6%BB%A1%E4%BA%86%E9%BB%91%E6%9D%BE%E9%9C%B2%23&t=31&band_rank=8&Refer=top)<br />
+8. [做美甲游离线真的会变长](https://s.weibo.com/weibo?q=%E5%81%9A%E7%BE%8E%E7%94%B2%E6%B8%B8%E7%A6%BB%E7%BA%BF%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%98%E9%95%BF&t=31&band_rank=8&Refer=top)<br />
 9. [3男孩遇杂草起火先报警再灭火](https://s.weibo.com/weibo?q=%233%E7%94%B7%E5%AD%A9%E9%81%87%E6%9D%82%E8%8D%89%E8%B5%B7%E7%81%AB%E5%85%88%E6%8A%A5%E8%AD%A6%E5%86%8D%E7%81%AD%E7%81%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
