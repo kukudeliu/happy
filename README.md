@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 17:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 17:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [首个国产女性向3A游戏](https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%B8%AA%E5%9B%BD%E4%BA%A7%E5%A5%B3%E6%80%A7%E5%90%913A%E6%B8%B8%E6%88%8F%23&t=31&band_rank=5&Refer=top)<br />
 6. [女生的裤子可以多到什么程度](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%9A%84%E8%A3%A4%E5%AD%90%E5%8F%AF%E4%BB%A5%E5%A4%9A%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%23&t=31&band_rank=6&Refer=top)<br />
 7. [爸爸因为妈妈要学车开始发癫](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%9B%A0%E4%B8%BA%E5%A6%88%E5%A6%88%E8%A6%81%E5%AD%A6%E8%BD%A6%E5%BC%80%E5%A7%8B%E5%8F%91%E7%99%AB%23&t=31&band_rank=7&Refer=top)<br />
-8. [恋爱一年后依然没有情绪价值](https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%88%B1%E4%B8%80%E5%B9%B4%E5%90%8E%E4%BE%9D%E7%84%B6%E6%B2%A1%E6%9C%89%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [中国气象局发布大地磁暴预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%8F%91%E5%B8%83%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+8. [中国气象局发布大地磁暴预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%8F%91%E5%B8%83%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=8&Refer=top)<br />
+9. [赵露思造型师](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%B8%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
