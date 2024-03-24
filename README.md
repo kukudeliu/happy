@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 09:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 09:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [女生跑42公里全马庆祝30岁生日](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%B7%9142%E5%85%AC%E9%87%8C%E5%85%A8%E9%A9%AC%E5%BA%86%E7%A5%9D30%E5%B2%81%E7%94%9F%E6%97%A5%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵露思出图](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%87%BA%E5%9B%BE&t=31&band_rank=7&Refer=top)<br />
 8. [小爱同学差点帮我买了一套房](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%88%B1%E5%90%8C%E5%AD%A6%E5%B7%AE%E7%82%B9%E5%B8%AE%E6%88%91%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [无锡马拉松](https://s.weibo.com/weibo?q=%E6%97%A0%E9%94%A1%E9%A9%AC%E6%8B%89%E6%9D%BE&t=31&band_rank=9&Refer=top)<br />
+9. [莫斯科恐袭救援结束](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E6%95%91%E6%8F%B4%E7%BB%93%E6%9D%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
