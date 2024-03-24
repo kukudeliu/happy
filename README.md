@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 12:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 12:49:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵奕欢回怼李菲儿](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%A5%95%E6%AC%A2%E5%9B%9E%E6%80%BC%E6%9D%8E%E8%8F%B2%E5%84%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国各省第一大姓](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%90%84%E7%9C%81%E7%AC%AC%E4%B8%80%E5%A4%A7%E5%A7%93&t=31&band_rank=7&Refer=top)<br />
 8. [小林制药中国公司致歉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E8%87%B4%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [95后小伙健身10年增重至200斤](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%B0%8F%E4%BC%99%E5%81%A5%E8%BA%AB10%E5%B9%B4%E5%A2%9E%E9%87%8D%E8%87%B3200%E6%96%A4%23&t=31&band_rank=9&Refer=top)<br />
+9. [台湾一男子持枪朝派出所门口扫射](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E6%9C%9D%E6%B4%BE%E5%87%BA%E6%89%80%E9%97%A8%E5%8F%A3%E6%89%AB%E5%B0%84%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
