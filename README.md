@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 03:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 04:00:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [地磁暴](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4&t=31&band_rank=4&Refer=top)<br />
 5. [突然发现父母是近亲结婚](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E7%88%B6%E6%AF%8D%E6%98%AF%E8%BF%91%E4%BA%B2%E7%BB%93%E5%A9%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [胖东来回应985女生应聘没进面试](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94985%E5%A5%B3%E7%94%9F%E5%BA%94%E8%81%98%E6%B2%A1%E8%BF%9B%E9%9D%A2%E8%AF%95%23&t=31&band_rank=6&Refer=top)<br />
-7. [眼泪女王 家被偷没了](https://s.weibo.com/weibo?q=%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%20%E5%AE%B6%E8%A2%AB%E5%81%B7%E6%B2%A1%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [Cindy去走秀了](https://s.weibo.com/weibo?q=%23Cindy%E5%8E%BB%E8%B5%B0%E7%A7%80%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [Cindy去走秀了](https://s.weibo.com/weibo?q=%23Cindy%E5%8E%BB%E8%B5%B0%E7%A7%80%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [眼泪女王 家被偷没了](https://s.weibo.com/weibo?q=%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%20%E5%AE%B6%E8%A2%AB%E5%81%B7%E6%B2%A1%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [王勉爆改](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8B%89%E7%88%86%E6%94%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [俄恐袭嫌疑人被全程弯腰押运](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%85%A8%E7%A8%8B%E5%BC%AF%E8%85%B0%E6%8A%BC%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全国最繁忙的高速公路之一停止收费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%9C%80%E7%B9%81%E5%BF%99%E7%9A%84%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E4%B9%8B%E4%B8%80%E5%81%9C%E6%AD%A2%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [雷军再谈小米SU7价格：会有点贵](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%86%8D%E8%B0%88%E5%B0%8F%E7%B1%B3SU7%E4%BB%B7%E6%A0%BC%EF%BC%9A%E4%BC%9A%E6%9C%89%E7%82%B9%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2岁萌娃被投诉扰民吓得不会走路](https://www.baidu.com/s?wd=2%E5%B2%81%E8%90%8C%E5%A8%83%E8%A2%AB%E6%8A%95%E8%AF%89%E6%89%B0%E6%B0%91%E5%90%93%E5%BE%97%E4%B8%8D%E4%BC%9A%E8%B5%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子练车被教练骂“死鬼” 下车怒怼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%83%E8%BD%A6%E8%A2%AB%E6%95%99%E7%BB%83%E9%AA%82%E2%80%9C%E6%AD%BB%E9%AC%BC%E2%80%9D+%E4%B8%8B%E8%BD%A6%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“济南发生地震”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B5%8E%E5%8D%97%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [俄恐袭嫌疑人被全程弯腰押运](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%85%A8%E7%A8%8B%E5%BC%AF%E8%85%B0%E6%8A%BC%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全国最繁忙的高速公路之一停止收费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%9C%80%E7%B9%81%E5%BF%99%E7%9A%84%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E4%B9%8B%E4%B8%80%E5%81%9C%E6%AD%A2%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [雷军再谈小米SU7价格：会有点贵](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%86%8D%E8%B0%88%E5%B0%8F%E7%B1%B3SU7%E4%BB%B7%E6%A0%BC%EF%BC%9A%E4%BC%9A%E6%9C%89%E7%82%B9%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [2岁萌娃被投诉扰民吓得不会走路](https://www.baidu.com/s?wd=2%E5%B2%81%E8%90%8C%E5%A8%83%E8%A2%AB%E6%8A%95%E8%AF%89%E6%89%B0%E6%B0%91%E5%90%93%E5%BE%97%E4%B8%8D%E4%BC%9A%E8%B5%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子练车被教练骂“死鬼” 下车怒怼](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%83%E8%BD%A6%E8%A2%AB%E6%95%99%E7%BB%83%E9%AA%82%E2%80%9C%E6%AD%BB%E9%AC%BC%E2%80%9D+%E4%B8%8B%E8%BD%A6%E6%80%92%E6%80%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“济南发生地震”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B5%8E%E5%8D%97%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
