@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 08:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 08:10:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [10.92亿背后的流量与力量](https://s.weibo.com/weibo?q=%2310.92%E4%BA%BF%E8%83%8C%E5%90%8E%E7%9A%84%E6%B5%81%E9%87%8F%E4%B8%8E%E5%8A%9B%E9%87%8F%23&t=31&band_rank=3&Refer=top)<br />
 4. [小爱同学差点帮我买了一套房](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%88%B1%E5%90%8C%E5%AD%A6%E5%B7%AE%E7%82%B9%E5%B8%AE%E6%88%91%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [医生提醒千万不要这样缓解压力](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%BF%99%E6%A0%B7%E7%BC%93%E8%A7%A3%E5%8E%8B%E5%8A%9B%23&t=31&band_rank=5&Refer=top)<br />
-6. [尔冬升把徐若晗赶出片场](https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E6%8A%8A%E5%BE%90%E8%8B%A5%E6%99%97%E8%B5%B6%E5%87%BA%E7%89%87%E5%9C%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [涉黄AI换脸案有人用暗恋女生换脸](https://s.weibo.com/weibo?q=%23%E6%B6%89%E9%BB%84AI%E6%8D%A2%E8%84%B8%E6%A1%88%E6%9C%89%E4%BA%BA%E7%94%A8%E6%9A%97%E6%81%8B%E5%A5%B3%E7%94%9F%E6%8D%A2%E8%84%B8%23&t=31&band_rank=7&Refer=top)<br />
+6. [涉黄AI换脸案有人用暗恋女生换脸](https://s.weibo.com/weibo?q=%23%E6%B6%89%E9%BB%84AI%E6%8D%A2%E8%84%B8%E6%A1%88%E6%9C%89%E4%BA%BA%E7%94%A8%E6%9A%97%E6%81%8B%E5%A5%B3%E7%94%9F%E6%8D%A2%E8%84%B8%23&t=31&band_rank=6&Refer=top)<br />
+7. [尔冬升把徐若晗赶出片场](https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E6%8A%8A%E5%BE%90%E8%8B%A5%E6%99%97%E8%B5%B6%E5%87%BA%E7%89%87%E5%9C%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [赵露思出图](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%87%BA%E5%9B%BE&t=31&band_rank=8&Refer=top)<br />
 9. [莫斯科](https://s.weibo.com/weibo?q=%E8%8E%AB%E6%96%AF%E7%A7%91&t=31&band_rank=9&Refer=top)<br />
 
