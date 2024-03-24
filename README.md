@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 19:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 19:23:01</h4></div>
 
 > 微博  
 
@@ -19,7 +19,7 @@
 
 1. [两个“势”看中部地区崛起](https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E2%80%9C%E5%8A%BF%E2%80%9D%E7%9C%8B%E4%B8%AD%E9%83%A8%E5%9C%B0%E5%8C%BA%E5%B4%9B%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [全国最繁忙的高速公路之一停止收费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%9C%80%E7%B9%81%E5%BF%99%E7%9A%84%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E4%B9%8B%E4%B8%80%E5%81%9C%E6%AD%A2%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [46岁男子醉驾 家属求情他还是小孩](https://www.baidu.com/s?wd=46%E5%B2%81%E7%94%B7%E5%AD%90%E9%86%89%E9%A9%BE+%E5%AE%B6%E5%B1%9E%E6%B1%82%E6%83%85%E4%BB%96%E8%BF%98%E6%98%AF%E5%B0%8F%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [教育部将重点整治教育功利化](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%B0%86%E9%87%8D%E7%82%B9%E6%95%B4%E6%B2%BB%E6%95%99%E8%82%B2%E5%8A%9F%E5%88%A9%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一场亿万人参与的寻味中国](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E4%BA%BF%E4%B8%87%E4%BA%BA%E5%8F%82%E4%B8%8E%E7%9A%84%E5%AF%BB%E5%91%B3%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京获悉恐袭后画面曝光 说了什么](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%8E%B7%E6%82%89%E6%81%90%E8%A2%AD%E5%90%8E%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89+%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩实名举报曾被父亲性侵 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%9B%BE%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%80%A7%E4%BE%B5+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -31,7 +31,7 @@
 
 1. [两个“势”看中部地区崛起](https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E2%80%9C%E5%8A%BF%E2%80%9D%E7%9C%8B%E4%B8%AD%E9%83%A8%E5%9C%B0%E5%8C%BA%E5%B4%9B%E8%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [全国最繁忙的高速公路之一停止收费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%9C%80%E7%B9%81%E5%BF%99%E7%9A%84%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E4%B9%8B%E4%B8%80%E5%81%9C%E6%AD%A2%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [46岁男子醉驾 家属求情他还是小孩](https://www.baidu.com/s?wd=46%E5%B2%81%E7%94%B7%E5%AD%90%E9%86%89%E9%A9%BE+%E5%AE%B6%E5%B1%9E%E6%B1%82%E6%83%85%E4%BB%96%E8%BF%98%E6%98%AF%E5%B0%8F%E5%AD%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [教育部将重点整治教育功利化](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%B0%86%E9%87%8D%E7%82%B9%E6%95%B4%E6%B2%BB%E6%95%99%E8%82%B2%E5%8A%9F%E5%88%A9%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [一场亿万人参与的寻味中国](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E4%BA%BF%E4%B8%87%E4%BA%BA%E5%8F%82%E4%B8%8E%E7%9A%84%E5%AF%BB%E5%91%B3%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京获悉恐袭后画面曝光 说了什么](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%8E%B7%E6%82%89%E6%81%90%E8%A2%AD%E5%90%8E%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89+%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩实名举报曾被父亲性侵 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%9B%BE%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%80%A7%E4%BE%B5+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
