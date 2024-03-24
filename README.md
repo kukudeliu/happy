@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 22:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 22:41:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [朝鲜祖国统一民主主义战线中央委员会解散](https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E7%A5%96%E5%9B%BD%E7%BB%9F%E4%B8%80%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E6%88%98%E7%BA%BF%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E8%A7%A3%E6%95%A3%23&t=31&band_rank=5&Refer=top)<br />
 6. [俄恐袭现场发现137具遗体](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%81%90%E8%A2%AD%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%8E%B0137%E5%85%B7%E9%81%97%E4%BD%93%23&t=31&band_rank=6&Refer=top)<br />
 7. [眼泪女王 离婚协议书](https://s.weibo.com/weibo?q=%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%20%E7%A6%BB%E5%A9%9A%E5%8D%8F%E8%AE%AE%E4%B9%A6&t=31&band_rank=7&Refer=top)<br />
-8. [纪凌尘 小时候发过高烧的感觉](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E5%B0%8F%E6%97%B6%E5%80%99%E5%8F%91%E8%BF%87%E9%AB%98%E7%83%A7%E7%9A%84%E6%84%9F%E8%A7%89&t=31&band_rank=8&Refer=top)<br />
-9. [眼泪女王](https://s.weibo.com/weibo?q=%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B&t=31&band_rank=9&Refer=top)<br />
+8. [地磁暴](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4&t=31&band_rank=8&Refer=top)<br />
+9. [纪凌尘 小时候发过高烧的感觉](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E5%B0%8F%E6%97%B6%E5%80%99%E5%8F%91%E8%BF%87%E9%AB%98%E7%83%A7%E7%9A%84%E6%84%9F%E8%A7%89&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
