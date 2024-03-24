@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 22:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 22:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [眼泪女王](https://s.weibo.com/weibo?q=%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B&t=31&band_rank=6&Refer=top)<br />
 7. [iOS18将采用新的主屏幕](https://s.weibo.com/weibo?q=%23iOS18%E5%B0%86%E9%87%87%E7%94%A8%E6%96%B0%E7%9A%84%E4%B8%BB%E5%B1%8F%E5%B9%95%23&t=31&band_rank=7&Refer=top)<br />
 8. [林更新是怎么做到不笑场的](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E5%88%B0%E4%B8%8D%E7%AC%91%E5%9C%BA%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [AG终结WB八连胜](https://s.weibo.com/weibo?q=%23AG%E7%BB%88%E7%BB%93WB%E5%85%AB%E8%BF%9E%E8%83%9C%23&t=31&band_rank=9&Refer=top)<br />
+9. [江西省级原则上不再举办中等职业学校](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E7%9C%81%E7%BA%A7%E5%8E%9F%E5%88%99%E4%B8%8A%E4%B8%8D%E5%86%8D%E4%B8%BE%E5%8A%9E%E4%B8%AD%E7%AD%89%E8%81%8C%E4%B8%9A%E5%AD%A6%E6%A0%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
