@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 12:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 12:09:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [李菲儿扣了250分](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8F%B2%E5%84%BF%E6%89%A3%E4%BA%86250%E5%88%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [春耕春播春管新图景](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%80%95%E6%98%A5%E6%92%AD%E6%98%A5%E7%AE%A1%E6%96%B0%E5%9B%BE%E6%99%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [王力宏听到前妻的反应](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%90%AC%E5%88%B0%E5%89%8D%E5%A6%BB%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=4&Refer=top)<br />
-5. [莫斯科恐袭嫌疑人招供细节](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E6%8B%9B%E4%BE%9B%E7%BB%86%E8%8A%82%23&t=31&band_rank=5&Refer=top)<br />
-6. [你愿意把5年寿命给自家狗狗吗](https://s.weibo.com/weibo?q=%E4%BD%A0%E6%84%BF%E6%84%8F%E6%8A%8A5%E5%B9%B4%E5%AF%BF%E5%91%BD%E7%BB%99%E8%87%AA%E5%AE%B6%E7%8B%97%E7%8B%97%E5%90%97&t=31&band_rank=6&Refer=top)<br />
+5. [你愿意把5年寿命给自家狗狗吗](https://s.weibo.com/weibo?q=%E4%BD%A0%E6%84%BF%E6%84%8F%E6%8A%8A5%E5%B9%B4%E5%AF%BF%E5%91%BD%E7%BB%99%E8%87%AA%E5%AE%B6%E7%8B%97%E7%8B%97%E5%90%97&t=31&band_rank=5&Refer=top)<br />
+6. [莫斯科恐袭嫌疑人招供细节](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E6%8B%9B%E4%BE%9B%E7%BB%86%E8%8A%82%23&t=31&band_rank=6&Refer=top)<br />
 7. [涉黄AI换脸案有人用暗恋女生换脸](https://s.weibo.com/weibo?q=%23%E6%B6%89%E9%BB%84AI%E6%8D%A2%E8%84%B8%E6%A1%88%E6%9C%89%E4%BA%BA%E7%94%A8%E6%9A%97%E6%81%8B%E5%A5%B3%E7%94%9F%E6%8D%A2%E8%84%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [泰国偶遇娜扎](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%81%B6%E9%81%87%E5%A8%9C%E6%89%8E%23&t=31&band_rank=8&Refer=top)<br />
 9. [商场回应情侣霸占母婴室](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%9B%9E%E5%BA%94%E6%83%85%E4%BE%A3%E9%9C%B8%E5%8D%A0%E6%AF%8D%E5%A9%B4%E5%AE%A4%23&t=31&band_rank=9&Refer=top)<br />
