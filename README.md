@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 08:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 08:54:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [新时代中部地区崛起正当时](https://www.baidu.com/s?wd=%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E9%83%A8%E5%9C%B0%E5%8C%BA%E5%B4%9B%E8%B5%B7%E6%AD%A3%E5%BD%93%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [俄恐袭已致143人遇难](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4143%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [普京称恐袭事件嫌疑人欲逃往乌克兰](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A7%B0%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6%E5%AB%8C%E7%96%91%E4%BA%BA%E6%AC%B2%E9%80%83%E5%BE%80%E4%B9%8C%E5%85%8B%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [杭州兵马俑被游客吐槽不值票价](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%85%B5%E9%A9%AC%E4%BF%91%E8%A2%AB%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E4%B8%8D%E5%80%BC%E7%A5%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [农业“发新芽”](https://www.baidu.com/s?wd=%E5%86%9C%E4%B8%9A%E2%80%9C%E5%8F%91%E6%96%B0%E8%8A%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄恐袭事件嫌疑人招供细节：为了钱](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6%E5%AB%8C%E7%96%91%E4%BA%BA%E6%8B%9B%E4%BE%9B%E7%BB%86%E8%8A%82%EF%BC%9A%E4%B8%BA%E4%BA%86%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [新时代中部地区崛起正当时](https://www.baidu.com/s?wd=%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E9%83%A8%E5%9C%B0%E5%8C%BA%E5%B4%9B%E8%B5%B7%E6%AD%A3%E5%BD%93%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [俄恐袭已致143人遇难](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4143%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [普京称恐袭事件嫌疑人欲逃往乌克兰](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A7%B0%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6%E5%AB%8C%E7%96%91%E4%BA%BA%E6%AC%B2%E9%80%83%E5%BE%80%E4%B9%8C%E5%85%8B%E5%85%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [杭州兵马俑被游客吐槽不值票价](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%85%B5%E9%A9%AC%E4%BF%91%E8%A2%AB%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E4%B8%8D%E5%80%BC%E7%A5%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [农业“发新芽”](https://www.baidu.com/s?wd=%E5%86%9C%E4%B8%9A%E2%80%9C%E5%8F%91%E6%96%B0%E8%8A%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄恐袭事件嫌疑人招供细节：为了钱](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6%E5%AB%8C%E7%96%91%E4%BA%BA%E6%8B%9B%E4%BE%9B%E7%BB%86%E8%8A%82%EF%BC%9A%E4%B8%BA%E4%BA%86%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
