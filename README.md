@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 03:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 03:38:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [突然发现父母是近亲结婚](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E7%88%B6%E6%AF%8D%E6%98%AF%E8%BF%91%E4%BA%B2%E7%BB%93%E5%A9%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [地磁暴](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4&t=31&band_rank=6&Refer=top)<br />
 7. [眼泪女王 家被偷没了](https://s.weibo.com/weibo?q=%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%20%E5%AE%B6%E8%A2%AB%E5%81%B7%E6%B2%A1%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [王勉爆改](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8B%89%E7%88%86%E6%94%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [Cindy去走秀了](https://s.weibo.com/weibo?q=%23Cindy%E5%8E%BB%E8%B5%B0%E7%A7%80%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [Cindy去走秀了](https://s.weibo.com/weibo?q=%23Cindy%E5%8E%BB%E8%B5%B0%E7%A7%80%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [王勉爆改](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8B%89%E7%88%86%E6%94%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
