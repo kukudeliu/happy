@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 15:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 15:47:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [中国气象局发布大地磁暴预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%8F%91%E5%B8%83%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [赵奕欢回怼李菲儿](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%A5%95%E6%AC%A2%E5%9B%9E%E6%80%BC%E6%9D%8E%E8%8F%B2%E5%84%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [难哄官宣](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E5%AE%98%E5%AE%A3&t=31&band_rank=6&Refer=top)<br />
-7. [明兰终究变成了红狼](https://s.weibo.com/weibo?q=%E6%98%8E%E5%85%B0%E7%BB%88%E7%A9%B6%E5%8F%98%E6%88%90%E4%BA%86%E7%BA%A2%E7%8B%BC&t=31&band_rank=7&Refer=top)<br />
-8. [Jessi认出了六年没见的粉丝](https://s.weibo.com/weibo?q=%23Jessi%E8%AE%A4%E5%87%BA%E4%BA%86%E5%85%AD%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E7%B2%89%E4%B8%9D%23&t=31&band_rank=8&Refer=top)<br />
+7. [Jessi认出了六年没见的粉丝](https://s.weibo.com/weibo?q=%23Jessi%E8%AE%A4%E5%87%BA%E4%BA%86%E5%85%AD%E5%B9%B4%E6%B2%A1%E8%A7%81%E7%9A%84%E7%B2%89%E4%B8%9D%23&t=31&band_rank=7&Refer=top)<br />
+8. [明兰终究变成了红狼](https://s.weibo.com/weibo?q=%E6%98%8E%E5%85%B0%E7%BB%88%E7%A9%B6%E5%8F%98%E6%88%90%E4%BA%86%E7%BA%A2%E7%8B%BC&t=31&band_rank=8&Refer=top)<br />
 9. [莫斯科恐袭已致133死152伤](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4133%E6%AD%BB152%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
