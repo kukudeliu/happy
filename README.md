@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 19:20:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 19:21:01</h4></div>
 
 > 微博  
 
@@ -23,7 +23,7 @@
 4. [一场亿万人参与的寻味中国](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E4%BA%BF%E4%B8%87%E4%BA%BA%E5%8F%82%E4%B8%8E%E7%9A%84%E5%AF%BB%E5%91%B3%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京获悉恐袭后画面曝光 说了什么](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%8E%B7%E6%82%89%E6%81%90%E8%A2%AD%E5%90%8E%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89+%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩实名举报曾被父亲性侵 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%9B%BE%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%80%A7%E4%BE%B5+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [在美中国女生醉驾保时捷疯狂翻滚](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BE%8E%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E9%86%89%E9%A9%BE%E4%BF%9D%E6%97%B6%E6%8D%B7%E7%96%AF%E7%8B%82%E7%BF%BB%E6%BB%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子26岁任大学副教授](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9026%E5%B2%81%E4%BB%BB%E5%A4%A7%E5%AD%A6%E5%89%AF%E6%95%99%E6%8E%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [谁发动莫斯科恐袭？俄驻美大使回应](https://www.baidu.com/s?wd=%E8%B0%81%E5%8F%91%E5%8A%A8%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%EF%BC%9F%E4%BF%84%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“济南发生地震”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B5%8E%E5%8D%97%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -35,6 +35,6 @@
 4. [一场亿万人参与的寻味中国](https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E4%BA%BF%E4%B8%87%E4%BA%BA%E5%8F%82%E4%B8%8E%E7%9A%84%E5%AF%BB%E5%91%B3%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [普京获悉恐袭后画面曝光 说了什么](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%8E%B7%E6%82%89%E6%81%90%E8%A2%AD%E5%90%8E%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89+%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女孩实名举报曾被父亲性侵 警方介入](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%9B%BE%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%80%A7%E4%BE%B5+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [在美中国女生醉驾保时捷疯狂翻滚](https://www.baidu.com/s?wd=%E5%9C%A8%E7%BE%8E%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E9%86%89%E9%A9%BE%E4%BF%9D%E6%97%B6%E6%8D%B7%E7%96%AF%E7%8B%82%E7%BF%BB%E6%BB%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男子26岁任大学副教授](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9026%E5%B2%81%E4%BB%BB%E5%A4%A7%E5%AD%A6%E5%89%AF%E6%95%99%E6%8E%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [谁发动莫斯科恐袭？俄驻美大使回应](https://www.baidu.com/s?wd=%E8%B0%81%E5%8F%91%E5%8A%A8%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%EF%BC%9F%E4%BF%84%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“济南发生地震”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B5%8E%E5%8D%97%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
