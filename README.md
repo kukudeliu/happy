@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 21:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 21:50:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [纪凌尘 小时候发过高烧的感觉](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E5%B0%8F%E6%97%B6%E5%80%99%E5%8F%91%E8%BF%87%E9%AB%98%E7%83%A7%E7%9A%84%E6%84%9F%E8%A7%89&t=31&band_rank=4&Refer=top)<br />
 5. [俄媒播出普京获悉音乐厅恐袭后画面](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%AA%92%E6%92%AD%E5%87%BA%E6%99%AE%E4%BA%AC%E8%8E%B7%E6%82%89%E9%9F%B3%E4%B9%90%E5%8E%85%E6%81%90%E8%A2%AD%E5%90%8E%E7%94%BB%E9%9D%A2%23&t=31&band_rank=5&Refer=top)<br />
 6. [眼泪女王](https://s.weibo.com/weibo?q=%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B&t=31&band_rank=6&Refer=top)<br />
-7. [AG对战WB](https://s.weibo.com/weibo?q=%23AG%E5%AF%B9%E6%88%98WB%23&t=31&band_rank=7&Refer=top)<br />
-8. [林更新是怎么做到不笑场的](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E5%88%B0%E4%B8%8D%E7%AC%91%E5%9C%BA%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
-9. [裴珠泫与中国粉丝双向奔赴](https://s.weibo.com/weibo?q=%23%E8%A3%B4%E7%8F%A0%E6%B3%AB%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%B2%89%E4%B8%9D%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&t=31&band_rank=9&Refer=top)<br />
+7. [林更新是怎么做到不笑场的](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E5%88%B0%E4%B8%8D%E7%AC%91%E5%9C%BA%E7%9A%84%23&t=31&band_rank=7&Refer=top)<br />
+8. [裴珠泫与中国粉丝双向奔赴](https://s.weibo.com/weibo?q=%23%E8%A3%B4%E7%8F%A0%E6%B3%AB%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%B2%89%E4%B8%9D%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&t=31&band_rank=8&Refer=top)<br />
+9. [AG对战WB](https://s.weibo.com/weibo?q=%23AG%E5%AF%B9%E6%88%98WB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
