@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 14:58:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 14:59:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [台湾一男子持枪朝派出所门口扫射](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E6%9C%9D%E6%B4%BE%E5%87%BA%E6%89%80%E9%97%A8%E5%8F%A3%E6%89%AB%E5%B0%84%23&t=31&band_rank=5&Refer=top)<br />
 6. [难哄官宣](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E5%AE%98%E5%AE%A3&t=31&band_rank=6&Refer=top)<br />
 7. [李菲儿扣了250分](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8F%B2%E5%84%BF%E6%89%A3%E4%BA%86250%E5%88%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [莫斯科恐袭已致133死152伤](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4133%E6%AD%BB152%E4%BC%A4%23&t=31&band_rank=8&Refer=top)<br />
-9. [明兰终究变成了红狼](https://s.weibo.com/weibo?q=%E6%98%8E%E5%85%B0%E7%BB%88%E7%A9%B6%E5%8F%98%E6%88%90%E4%BA%86%E7%BA%A2%E7%8B%BC&t=31&band_rank=9&Refer=top)<br />
+8. [明兰终究变成了红狼](https://s.weibo.com/weibo?q=%E6%98%8E%E5%85%B0%E7%BB%88%E7%A9%B6%E5%8F%98%E6%88%90%E4%BA%86%E7%BA%A2%E7%8B%BC&t=31&band_rank=8&Refer=top)<br />
+9. [莫斯科恐袭已致133死152伤](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4133%E6%AD%BB152%E4%BC%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
