@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 04:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 04:10:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [俄恐袭嫌疑人被全程弯腰押运](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%85%A8%E7%A8%8B%E5%BC%AF%E8%85%B0%E6%8A%BC%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全国最繁忙的高速公路之一停止收费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%9C%80%E7%B9%81%E5%BF%99%E7%9A%84%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E4%B9%8B%E4%B8%80%E5%81%9C%E6%AD%A2%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胖东来回应985女生应聘没进面试](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94985%E5%A5%B3%E7%94%9F%E5%BA%94%E8%81%98%E6%B2%A1%E8%BF%9B%E9%9D%A2%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雷军再谈小米SU7价格：会有点贵](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%86%8D%E8%B0%88%E5%B0%8F%E7%B1%B3SU7%E4%BB%B7%E6%A0%BC%EF%BC%9A%E4%BC%9A%E6%9C%89%E7%82%B9%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育部将重点整治教育功利化](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%B0%86%E9%87%8D%E7%82%B9%E6%95%B4%E6%B2%BB%E6%95%99%E8%82%B2%E5%8A%9F%E5%88%A9%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“济南发生地震”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B5%8E%E5%8D%97%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [俄恐袭嫌疑人被全程弯腰押运](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%85%A8%E7%A8%8B%E5%BC%AF%E8%85%B0%E6%8A%BC%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全国最繁忙的高速公路之一停止收费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%9C%80%E7%B9%81%E5%BF%99%E7%9A%84%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E4%B9%8B%E4%B8%80%E5%81%9C%E6%AD%A2%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [胖东来回应985女生应聘没进面试](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94985%E5%A5%B3%E7%94%9F%E5%BA%94%E8%81%98%E6%B2%A1%E8%BF%9B%E9%9D%A2%E8%AF%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雷军再谈小米SU7价格：会有点贵](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%86%8D%E8%B0%88%E5%B0%8F%E7%B1%B3SU7%E4%BB%B7%E6%A0%BC%EF%BC%9A%E4%BC%9A%E6%9C%89%E7%82%B9%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [教育部将重点整治教育功利化](https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%B0%86%E9%87%8D%E7%82%B9%E6%95%B4%E6%B2%BB%E6%95%99%E8%82%B2%E5%8A%9F%E5%88%A9%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“济南发生地震”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B5%8E%E5%8D%97%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
