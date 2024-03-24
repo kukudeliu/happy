@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 10:22:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 10:23:01</h4></div>
 
 > 微博  
 
-1. [涉黄AI换脸案有人用暗恋女生换脸](https://s.weibo.com/weibo?q=%23%E6%B6%89%E9%BB%84AI%E6%8D%A2%E8%84%B8%E6%A1%88%E6%9C%89%E4%BA%BA%E7%94%A8%E6%9A%97%E6%81%8B%E5%A5%B3%E7%94%9F%E6%8D%A2%E8%84%B8%23&t=31&band_rank=1&Refer=top)<br />
-2. [难哄官宣](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E5%AE%98%E5%AE%A3&t=31&band_rank=2&Refer=top)<br />
+1. [难哄官宣](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E5%AE%98%E5%AE%A3&t=31&band_rank=1&Refer=top)<br />
+2. [涉黄AI换脸案有人用暗恋女生换脸](https://s.weibo.com/weibo?q=%23%E6%B6%89%E9%BB%84AI%E6%8D%A2%E8%84%B8%E6%A1%88%E6%9C%89%E4%BA%BA%E7%94%A8%E6%9A%97%E6%81%8B%E5%A5%B3%E7%94%9F%E6%8D%A2%E8%84%B8%23&t=31&band_rank=2&Refer=top)<br />
 3. [10.92亿背后的流量与力量](https://s.weibo.com/weibo?q=%2310.92%E4%BA%BF%E8%83%8C%E5%90%8E%E7%9A%84%E6%B5%81%E9%87%8F%E4%B8%8E%E5%8A%9B%E9%87%8F%23&t=31&band_rank=3&Refer=top)<br />
 4. [小区要求空调外机必须统一为黑色](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA%E8%A6%81%E6%B1%82%E7%A9%BA%E8%B0%83%E5%A4%96%E6%9C%BA%E5%BF%85%E9%A1%BB%E7%BB%9F%E4%B8%80%E4%B8%BA%E9%BB%91%E8%89%B2%23&t=31&band_rank=4&Refer=top)<br />
 5. [小林制药公司召回约30万份产品](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF%E5%85%AC%E5%8F%B8%E5%8F%AC%E5%9B%9E%E7%BA%A630%E4%B8%87%E4%BB%BD%E4%BA%A7%E5%93%81%23&t=31&band_rank=5&Refer=top)<br />
