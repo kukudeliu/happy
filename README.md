@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 21:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 21:10:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [首个国产女性向3A游戏](https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%B8%AA%E5%9B%BD%E4%BA%A7%E5%A5%B3%E6%80%A7%E5%90%913A%E6%B8%B8%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [做美甲游离线真的会变长](https://s.weibo.com/weibo?q=%E5%81%9A%E7%BE%8E%E7%94%B2%E6%B8%B8%E7%A6%BB%E7%BA%BF%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%98%E9%95%BF&t=31&band_rank=7&Refer=top)<br />
 8. [张杰他懂他真的懂](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E4%BB%96%E6%87%82%E4%BB%96%E7%9C%9F%E7%9A%84%E6%87%82%23&t=31&band_rank=8&Refer=top)<br />
-9. [沙利文](https://s.weibo.com/weibo?q=%E6%B2%99%E5%88%A9%E6%96%87&t=31&band_rank=9&Refer=top)<br />
+9. [裴珠泫与中国粉丝双向奔赴](https://s.weibo.com/weibo?q=%23%E8%A3%B4%E7%8F%A0%E6%B3%AB%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%B2%89%E4%B8%9D%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
