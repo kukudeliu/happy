@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 09:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 10:00:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [俄恐袭事件嫌疑人招供细节：为了钱](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6%E5%AB%8C%E7%96%91%E4%BA%BA%E6%8B%9B%E4%BE%9B%E7%BB%86%E8%8A%82%EF%BC%9A%E4%B8%BA%E4%BA%86%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [涉黄AI换脸案有人用暗恋女生换脸](https://www.baidu.com/s?wd=%E6%B6%89%E9%BB%84AI%E6%8D%A2%E8%84%B8%E6%A1%88%E6%9C%89%E4%BA%BA%E7%94%A8%E6%9A%97%E6%81%8B%E5%A5%B3%E7%94%9F%E6%8D%A2%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [恒大一楼盘号召业主用违约金买车位](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E4%B8%80%E6%A5%BC%E7%9B%98%E5%8F%B7%E5%8F%AC%E4%B8%9A%E4%B8%BB%E7%94%A8%E8%BF%9D%E7%BA%A6%E9%87%91%E4%B9%B0%E8%BD%A6%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雄孔雀求偶频繁开屏被长臂猿拔毛](https://www.baidu.com/s?wd=%E9%9B%84%E5%AD%94%E9%9B%80%E6%B1%82%E5%81%B6%E9%A2%91%E7%B9%81%E5%BC%80%E5%B1%8F%E8%A2%AB%E9%95%BF%E8%87%82%E7%8C%BF%E6%8B%94%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子不拴绳带狗逛商场致狗卡扶梯](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E6%8B%B4%E7%BB%B3%E5%B8%A6%E7%8B%97%E9%80%9B%E5%95%86%E5%9C%BA%E8%87%B4%E7%8B%97%E5%8D%A1%E6%89%B6%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣河西小海地着火](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E6%B2%B3%E8%A5%BF%E5%B0%8F%E6%B5%B7%E5%9C%B0%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [俄恐袭事件嫌疑人招供细节：为了钱](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6%E5%AB%8C%E7%96%91%E4%BA%BA%E6%8B%9B%E4%BE%9B%E7%BB%86%E8%8A%82%EF%BC%9A%E4%B8%BA%E4%BA%86%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [涉黄AI换脸案有人用暗恋女生换脸](https://www.baidu.com/s?wd=%E6%B6%89%E9%BB%84AI%E6%8D%A2%E8%84%B8%E6%A1%88%E6%9C%89%E4%BA%BA%E7%94%A8%E6%9A%97%E6%81%8B%E5%A5%B3%E7%94%9F%E6%8D%A2%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [恒大一楼盘号召业主用违约金买车位](https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E4%B8%80%E6%A5%BC%E7%9B%98%E5%8F%B7%E5%8F%AC%E4%B8%9A%E4%B8%BB%E7%94%A8%E8%BF%9D%E7%BA%A6%E9%87%91%E4%B9%B0%E8%BD%A6%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雄孔雀求偶频繁开屏被长臂猿拔毛](https://www.baidu.com/s?wd=%E9%9B%84%E5%AD%94%E9%9B%80%E6%B1%82%E5%81%B6%E9%A2%91%E7%B9%81%E5%BC%80%E5%B1%8F%E8%A2%AB%E9%95%BF%E8%87%82%E7%8C%BF%E6%8B%94%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子不拴绳带狗逛商场致狗卡扶梯](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8D%E6%8B%B4%E7%BB%B3%E5%B8%A6%E7%8B%97%E9%80%9B%E5%95%86%E5%9C%BA%E8%87%B4%E7%8B%97%E5%8D%A1%E6%89%B6%E6%A2%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [天津辟谣河西小海地着火](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E8%BE%9F%E8%B0%A3%E6%B2%B3%E8%A5%BF%E5%B0%8F%E6%B5%B7%E5%9C%B0%E7%9D%80%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
