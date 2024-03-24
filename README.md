@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 21:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 21:14:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [俄媒播出普京获悉音乐厅恐袭后画面](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%AA%92%E6%92%AD%E5%87%BA%E6%99%AE%E4%BA%AC%E8%8E%B7%E6%82%89%E9%9F%B3%E4%B9%90%E5%8E%85%E6%81%90%E8%A2%AD%E5%90%8E%E7%94%BB%E9%9D%A2%23&t=31&band_rank=4&Refer=top)<br />
 5. [杨和苏鼻梁](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%92%8C%E8%8B%8F%E9%BC%BB%E6%A2%81&t=31&band_rank=5&Refer=top)<br />
 6. [首个国产女性向3A游戏](https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%B8%AA%E5%9B%BD%E4%BA%A7%E5%A5%B3%E6%80%A7%E5%90%913A%E6%B8%B8%E6%88%8F%23&t=31&band_rank=6&Refer=top)<br />
-7. [做美甲游离线真的会变长](https://s.weibo.com/weibo?q=%E5%81%9A%E7%BE%8E%E7%94%B2%E6%B8%B8%E7%A6%BB%E7%BA%BF%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%98%E9%95%BF&t=31&band_rank=7&Refer=top)<br />
-8. [裴珠泫与中国粉丝双向奔赴](https://s.weibo.com/weibo?q=%23%E8%A3%B4%E7%8F%A0%E6%B3%AB%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%B2%89%E4%B8%9D%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&t=31&band_rank=8&Refer=top)<br />
-9. [张杰他懂他真的懂](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E4%BB%96%E6%87%82%E4%BB%96%E7%9C%9F%E7%9A%84%E6%87%82%23&t=31&band_rank=9&Refer=top)<br />
+7. [裴珠泫与中国粉丝双向奔赴](https://s.weibo.com/weibo?q=%23%E8%A3%B4%E7%8F%A0%E6%B3%AB%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%B2%89%E4%B8%9D%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [做美甲游离线真的会变长](https://s.weibo.com/weibo?q=%E5%81%9A%E7%BE%8E%E7%94%B2%E6%B8%B8%E7%A6%BB%E7%BA%BF%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%98%E9%95%BF&t=31&band_rank=8&Refer=top)<br />
+9. [朝鲜祖国统一民主主义战线中央委员会解散](https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E7%A5%96%E5%9B%BD%E7%BB%9F%E4%B8%80%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E6%88%98%E7%BA%BF%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E8%A7%A3%E6%95%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [普京获悉恐袭后画面曝光 说了什么](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%8E%B7%E6%82%89%E6%81%90%E8%A2%AD%E5%90%8E%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89+%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王诗龄砂锅铺满了黑松露](https://www.baidu.com/s?wd=%E7%8E%8B%E8%AF%97%E9%BE%84%E7%A0%82%E9%94%85%E9%93%BA%E6%BB%A1%E4%BA%86%E9%BB%91%E6%9D%BE%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王健林已出售14座万达广场](https://www.baidu.com/s?wd=%E7%8E%8B%E5%81%A5%E6%9E%97%E5%B7%B2%E5%87%BA%E5%94%AE14%E5%BA%A7%E4%B8%87%E8%BE%BE%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应西双版纳烧烤5串170元](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E7%83%A7%E7%83%A45%E4%B8%B2170%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全国最繁忙的高速公路之一停止收费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%9C%80%E7%B9%81%E5%BF%99%E7%9A%84%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E4%B9%8B%E4%B8%80%E5%81%9C%E6%AD%A2%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“济南发生地震”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B5%8E%E5%8D%97%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [普京获悉恐袭后画面曝光 说了什么](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%8E%B7%E6%82%89%E6%81%90%E8%A2%AD%E5%90%8E%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89+%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王诗龄砂锅铺满了黑松露](https://www.baidu.com/s?wd=%E7%8E%8B%E8%AF%97%E9%BE%84%E7%A0%82%E9%94%85%E9%93%BA%E6%BB%A1%E4%BA%86%E9%BB%91%E6%9D%BE%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [王健林已出售14座万达广场](https://www.baidu.com/s?wd=%E7%8E%8B%E5%81%A5%E6%9E%97%E5%B7%B2%E5%87%BA%E5%94%AE14%E5%BA%A7%E4%B8%87%E8%BE%BE%E5%B9%BF%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方回应西双版纳烧烤5串170元](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E7%83%A7%E7%83%A45%E4%B8%B2170%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全国最繁忙的高速公路之一停止收费](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%9C%80%E7%B9%81%E5%BF%99%E7%9A%84%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E4%B9%8B%E4%B8%80%E5%81%9C%E6%AD%A2%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“济南发生地震”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B5%8E%E5%8D%97%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
