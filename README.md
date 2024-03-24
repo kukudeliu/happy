@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 13:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 13:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵奕欢回怼李菲儿](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%A5%95%E6%AC%A2%E5%9B%9E%E6%80%BC%E6%9D%8E%E8%8F%B2%E5%84%BF%23&t=31&band_rank=6&Refer=top)<br />
 7. [乌克兰全境响防空警报](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%A8%E5%A2%83%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子捡17岁女生手机归还反被讹200](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8D%A117%E5%B2%81%E5%A5%B3%E7%94%9F%E6%89%8B%E6%9C%BA%E5%BD%92%E8%BF%98%E5%8F%8D%E8%A2%AB%E8%AE%B9200%23&t=31&band_rank=8&Refer=top)<br />
-9. [小林制药中国公司致歉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E8%87%B4%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
+9. [俄罗斯男子赤手空拳打晕恐怖分子](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%94%B7%E5%AD%90%E8%B5%A4%E6%89%8B%E7%A9%BA%E6%8B%B3%E6%89%93%E6%99%95%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
