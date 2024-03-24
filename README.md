@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 16:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 16:02:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [中国气象局发布大地磁暴预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%8F%91%E5%B8%83%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [难哄官宣](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E5%AE%98%E5%AE%A3&t=31&band_rank=6&Refer=top)<br />
 7. [嫌疑人称莫斯科恐袭招募人命令无差别射杀](https://s.weibo.com/weibo?q=%23%E5%AB%8C%E7%96%91%E4%BA%BA%E7%A7%B0%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E6%8B%9B%E5%8B%9F%E4%BA%BA%E5%91%BD%E4%BB%A4%E6%97%A0%E5%B7%AE%E5%88%AB%E5%B0%84%E6%9D%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [随手一拍便是一整个春天](https://s.weibo.com/weibo?q=%23%E9%9A%8F%E6%89%8B%E4%B8%80%E6%8B%8D%E4%BE%BF%E6%98%AF%E4%B8%80%E6%95%B4%E4%B8%AA%E6%98%A5%E5%A4%A9%23&t=31&band_rank=8&Refer=top)<br />
+8. [明兰终究变成了红狼](https://s.weibo.com/weibo?q=%E6%98%8E%E5%85%B0%E7%BB%88%E7%A9%B6%E5%8F%98%E6%88%90%E4%BA%86%E7%BA%A2%E7%8B%BC&t=31&band_rank=8&Refer=top)<br />
 9. [李菲儿扣了250分](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8F%B2%E5%84%BF%E6%89%A3%E4%BA%86250%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
