@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 22:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 22:13:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [朝鲜祖国统一民主主义战线中央委员会解散](https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E7%A5%96%E5%9B%BD%E7%BB%9F%E4%B8%80%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E6%88%98%E7%BA%BF%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E8%A7%A3%E6%95%A3%23&t=31&band_rank=2&Refer=top)<br />
 3. [花花盛开的中国春意拉满](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E7%9B%9B%E5%BC%80%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%98%A5%E6%84%8F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [月光实名制吃饭](https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%89%E5%AE%9E%E5%90%8D%E5%88%B6%E5%90%83%E9%A5%AD%23&t=31&band_rank=4&Refer=top)<br />
-5. [AG终结WB八连胜](https://s.weibo.com/weibo?q=%23AG%E7%BB%88%E7%BB%93WB%E5%85%AB%E8%BF%9E%E8%83%9C%23&t=31&band_rank=5&Refer=top)<br />
-6. [纪凌尘 小时候发过高烧的感觉](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E5%B0%8F%E6%97%B6%E5%80%99%E5%8F%91%E8%BF%87%E9%AB%98%E7%83%A7%E7%9A%84%E6%84%9F%E8%A7%89&t=31&band_rank=6&Refer=top)<br />
+5. [纪凌尘 小时候发过高烧的感觉](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E5%B0%8F%E6%97%B6%E5%80%99%E5%8F%91%E8%BF%87%E9%AB%98%E7%83%A7%E7%9A%84%E6%84%9F%E8%A7%89&t=31&band_rank=5&Refer=top)<br />
+6. [AG终结WB八连胜](https://s.weibo.com/weibo?q=%23AG%E7%BB%88%E7%BB%93WB%E5%85%AB%E8%BF%9E%E8%83%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [眼泪女王](https://s.weibo.com/weibo?q=%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B&t=31&band_rank=7&Refer=top)<br />
 8. [iOS18将采用新的主屏幕](https://s.weibo.com/weibo?q=%23iOS18%E5%B0%86%E9%87%87%E7%94%A8%E6%96%B0%E7%9A%84%E4%B8%BB%E5%B1%8F%E5%B9%95%23&t=31&band_rank=8&Refer=top)<br />
 9. [俄媒播出普京获悉音乐厅恐袭后画面](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%AA%92%E6%92%AD%E5%87%BA%E6%99%AE%E4%BA%AC%E8%8E%B7%E6%82%89%E9%9F%B3%E4%B9%90%E5%8E%85%E6%81%90%E8%A2%AD%E5%90%8E%E7%94%BB%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
