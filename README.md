@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 14:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 14:38:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [难哄官宣](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E5%AE%98%E5%AE%A3&t=31&band_rank=5&Refer=top)<br />
 6. [莫斯科恐袭已致133死152伤](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4133%E6%AD%BB152%E4%BC%A4%23&t=31&band_rank=6&Refer=top)<br />
 7. [中国各省第一大姓](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%90%84%E7%9C%81%E7%AC%AC%E4%B8%80%E5%A4%A7%E5%A7%93&t=31&band_rank=7&Refer=top)<br />
-8. [赵露思曾黎素颜合照](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9B%BE%E9%BB%8E%E7%B4%A0%E9%A2%9C%E5%90%88%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
+8. [明兰终究变成了红狼](https://s.weibo.com/weibo?q=%E6%98%8E%E5%85%B0%E7%BB%88%E7%A9%B6%E5%8F%98%E6%88%90%E4%BA%86%E7%BA%A2%E7%8B%BC&t=31&band_rank=8&Refer=top)<br />
 9. [李菲儿扣了250分](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8F%B2%E5%84%BF%E6%89%A3%E4%BA%86250%E5%88%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
