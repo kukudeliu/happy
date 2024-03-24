@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 17:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 17:18:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [俄男子欲救妻徒手打晕恐怖分子](https://www.baidu.com/s?wd=%E4%BF%84%E7%94%B7%E5%AD%90%E6%AC%B2%E6%95%91%E5%A6%BB%E5%BE%92%E6%89%8B%E6%89%93%E6%99%95%E6%81%90%E6%80%96%E5%88%86%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2岁萌娃被投诉扰民吓得不会走路](https://www.baidu.com/s?wd=2%E5%B2%81%E8%90%8C%E5%A8%83%E8%A2%AB%E6%8A%95%E8%AF%89%E6%89%B0%E6%B0%91%E5%90%93%E5%BE%97%E4%B8%8D%E4%BC%9A%E8%B5%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [瞿颖和胡兵合体走秀](https://www.baidu.com/s?wd=%E7%9E%BF%E9%A2%96%E5%92%8C%E8%83%A1%E5%85%B5%E5%90%88%E4%BD%93%E8%B5%B0%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄官方：恐袭已致133死152伤](https://www.baidu.com/s?wd=%E4%BF%84%E5%AE%98%E6%96%B9%EF%BC%9A%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4133%E6%AD%BB152%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄恐袭嫌疑人在病房受审视频曝光](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E5%9C%A8%E7%97%85%E6%88%BF%E5%8F%97%E5%AE%A1%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“济南发生地震”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B5%8E%E5%8D%97%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [俄男子欲救妻徒手打晕恐怖分子](https://www.baidu.com/s?wd=%E4%BF%84%E7%94%B7%E5%AD%90%E6%AC%B2%E6%95%91%E5%A6%BB%E5%BE%92%E6%89%8B%E6%89%93%E6%99%95%E6%81%90%E6%80%96%E5%88%86%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [2岁萌娃被投诉扰民吓得不会走路](https://www.baidu.com/s?wd=2%E5%B2%81%E8%90%8C%E5%A8%83%E8%A2%AB%E6%8A%95%E8%AF%89%E6%89%B0%E6%B0%91%E5%90%93%E5%BE%97%E4%B8%8D%E4%BC%9A%E8%B5%B0%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [瞿颖和胡兵合体走秀](https://www.baidu.com/s?wd=%E7%9E%BF%E9%A2%96%E5%92%8C%E8%83%A1%E5%85%B5%E5%90%88%E4%BD%93%E8%B5%B0%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄官方：恐袭已致133死152伤](https://www.baidu.com/s?wd=%E4%BF%84%E5%AE%98%E6%96%B9%EF%BC%9A%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4133%E6%AD%BB152%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄恐袭嫌疑人在病房受审视频曝光](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E5%9C%A8%E7%97%85%E6%88%BF%E5%8F%97%E5%AE%A1%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“济南发生地震”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B5%8E%E5%8D%97%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
