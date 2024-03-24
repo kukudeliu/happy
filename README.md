@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 10:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-24 10:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [你愿意把5年寿命给自家狗狗吗](https://s.weibo.com/weibo?q=%E4%BD%A0%E6%84%BF%E6%84%8F%E6%8A%8A5%E5%B9%B4%E5%AF%BF%E5%91%BD%E7%BB%99%E8%87%AA%E5%AE%B6%E7%8B%97%E7%8B%97%E5%90%97&t=31&band_rank=6&Refer=top)<br />
 7. [莫斯科恐袭嫌疑人招供细节](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E6%8B%9B%E4%BE%9B%E7%BB%86%E8%8A%82%23&t=31&band_rank=7&Refer=top)<br />
 8. [5岁女孩洗澡被烫伤面部严重水肿](https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%B4%97%E6%BE%A1%E8%A2%AB%E7%83%AB%E4%BC%A4%E9%9D%A2%E9%83%A8%E4%B8%A5%E9%87%8D%E6%B0%B4%E8%82%BF%23&t=31&band_rank=8&Refer=top)<br />
-9. [女生跑42公里全马庆祝30岁生日](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%B7%9142%E5%85%AC%E9%87%8C%E5%85%A8%E9%A9%AC%E5%BA%86%E7%A5%9D30%E5%B2%81%E7%94%9F%E6%97%A5%23&t=31&band_rank=9&Refer=top)<br />
+9. [赵露思出图](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%87%BA%E5%9B%BE&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
