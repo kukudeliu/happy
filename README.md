@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 16:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 16:38:01</h4></div>
 
 > 微博  
 
@@ -18,7 +18,7 @@
 > 百度  
 
 1. [总书记主持召开七场重磅会议](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BB%E6%8C%81%E5%8F%AC%E5%BC%80%E4%B8%83%E5%9C%BA%E9%87%8D%E7%A3%85%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [初中生结婚办婚宴 家长被批评教育](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E7%BB%93%E5%A9%9A%E5%8A%9E%E5%A9%9A%E5%AE%B4+%E5%AE%B6%E9%95%BF%E8%A2%AB%E6%89%B9%E8%AF%84%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [“索要千万逼死老公”翟欣欣认罪](https://www.baidu.com/s?wd=%E2%80%9C%E7%B4%A2%E8%A6%81%E5%8D%83%E4%B8%87%E9%80%BC%E6%AD%BB%E8%80%81%E5%85%AC%E2%80%9D%E7%BF%9F%E6%AC%A3%E6%AC%A3%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [大地磁暴北方多地或能看到极光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E6%88%96%E8%83%BD%E7%9C%8B%E5%88%B0%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春日中国活力无限](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5%E4%B8%AD%E5%9B%BD%E6%B4%BB%E5%8A%9B%E6%97%A0%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [幼儿园老师对男童打头踩脸被开除](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E5%AF%B9%E7%94%B7%E7%AB%A5%E6%89%93%E5%A4%B4%E8%B8%A9%E8%84%B8%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,7 +30,7 @@
 > 哔哩哔哩  
 
 1. [总书记主持召开七场重磅会议](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BB%E6%8C%81%E5%8F%AC%E5%BC%80%E4%B8%83%E5%9C%BA%E9%87%8D%E7%A3%85%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [初中生结婚办婚宴 家长被批评教育](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E7%BB%93%E5%A9%9A%E5%8A%9E%E5%A9%9A%E5%AE%B4+%E5%AE%B6%E9%95%BF%E8%A2%AB%E6%89%B9%E8%AF%84%E6%95%99%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [“索要千万逼死老公”翟欣欣认罪](https://www.baidu.com/s?wd=%E2%80%9C%E7%B4%A2%E8%A6%81%E5%8D%83%E4%B8%87%E9%80%BC%E6%AD%BB%E8%80%81%E5%85%AC%E2%80%9D%E7%BF%9F%E6%AC%A3%E6%AC%A3%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [大地磁暴北方多地或能看到极光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E6%88%96%E8%83%BD%E7%9C%8B%E5%88%B0%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春日中国活力无限](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5%E4%B8%AD%E5%9B%BD%E6%B4%BB%E5%8A%9B%E6%97%A0%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [幼儿园老师对男童打头踩脸被开除](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E5%AF%B9%E7%94%B7%E7%AB%A5%E6%89%93%E5%A4%B4%E8%B8%A9%E8%84%B8%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
