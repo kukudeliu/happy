@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 17:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 17:34:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [翟欣欣或将获刑10年以上](https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%88%96%E5%B0%86%E8%8E%B7%E5%88%9110%E5%B9%B4%E4%BB%A5%E4%B8%8A%23&t=31&band_rank=4&Refer=top)<br />
 5. [向佐荧幕初吻给了阿娇](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E8%8D%A7%E5%B9%95%E5%88%9D%E5%90%BB%E7%BB%99%E4%BA%86%E9%98%BF%E5%A8%87%23&t=31&band_rank=5&Refer=top)<br />
 6. [外交部回应中国籍邮轮遭胡塞武装袭击](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E7%B1%8D%E9%82%AE%E8%BD%AE%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%23&t=31&band_rank=6&Refer=top)<br />
-7. [王鸥复工身材状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E5%A4%8D%E5%B7%A5%E8%BA%AB%E6%9D%90%E7%8A%B6%E6%80%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [减肥期间正确称体重的方法](https://s.weibo.com/weibo?q=%E5%87%8F%E8%82%A5%E6%9C%9F%E9%97%B4%E6%AD%A3%E7%A1%AE%E7%A7%B0%E4%BD%93%E9%87%8D%E7%9A%84%E6%96%B9%E6%B3%95&t=31&band_rank=8&Refer=top)<br />
+7. [减肥期间正确称体重的方法](https://s.weibo.com/weibo?q=%E5%87%8F%E8%82%A5%E6%9C%9F%E9%97%B4%E6%AD%A3%E7%A1%AE%E7%A7%B0%E4%BD%93%E9%87%8D%E7%9A%84%E6%96%B9%E6%B3%95&t=31&band_rank=7&Refer=top)<br />
+8. [王鸥复工身材状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E5%A4%8D%E5%B7%A5%E8%BA%AB%E6%9D%90%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
 9. [英媒指控中国炒作凯特王妃消失](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AA%92%E6%8C%87%E6%8E%A7%E4%B8%AD%E5%9B%BD%E7%82%92%E4%BD%9C%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%B6%88%E5%A4%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
