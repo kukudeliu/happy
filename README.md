@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 01:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 01:58:03</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [地磁暴 极光](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4%20%E6%9E%81%E5%85%89&t=31&band_rank=4&Refer=top)<br />
 5. [墨香铜臭回来了](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [长期吃太饱身体会发生什么变化](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E5%A4%AA%E9%A5%B1%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [郭敬明 纪凌尘最好的医美](https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%20%E7%BA%AA%E5%87%8C%E5%B0%98%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E7%BE%8E&t=31&band_rank=7&Refer=top)<br />
-8. [IU自曝吃东西每口咬150下](https://s.weibo.com/weibo?q=%23IU%E8%87%AA%E6%9B%9D%E5%90%83%E4%B8%9C%E8%A5%BF%E6%AF%8F%E5%8F%A3%E5%92%AC150%E4%B8%8B%23&t=31&band_rank=8&Refer=top)<br />
+7. [IU自曝吃东西每口咬150下](https://s.weibo.com/weibo?q=%23IU%E8%87%AA%E6%9B%9D%E5%90%83%E4%B8%9C%E8%A5%BF%E6%AF%8F%E5%8F%A3%E5%92%AC150%E4%B8%8B%23&t=31&band_rank=7&Refer=top)<br />
+8. [郭敬明 纪凌尘最好的医美](https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%20%E7%BA%AA%E5%87%8C%E5%B0%98%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E7%BE%8E&t=31&band_rank=8&Refer=top)<br />
 9. [杨超越捧花头像](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E6%8D%A7%E8%8A%B1%E5%A4%B4%E5%83%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
