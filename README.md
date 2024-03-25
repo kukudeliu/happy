@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 22:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 22:17:01</h4></div>
 
 > 微博  
 
-1. [郭敬明 纪凌尘最好的医美](https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%20%E7%BA%AA%E5%87%8C%E5%B0%98%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E7%BE%8E&t=31&band_rank=1&Refer=top)<br />
-2. [张亮麻辣烫部分门店收汤费](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%AE%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%83%A8%E5%88%86%E9%97%A8%E5%BA%97%E6%94%B6%E6%B1%A4%E8%B4%B9%23&t=31&band_rank=2&Refer=top)<br />
+1. [张亮麻辣烫部分门店收汤费](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%AE%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%83%A8%E5%88%86%E9%97%A8%E5%BA%97%E6%94%B6%E6%B1%A4%E8%B4%B9%23&t=31&band_rank=1&Refer=top)<br />
+2. [郭敬明 纪凌尘最好的医美](https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%20%E7%BA%AA%E5%87%8C%E5%B0%98%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E7%BE%8E&t=31&band_rank=2&Refer=top)<br />
 3. [原来设计条铁路有这么多高科技](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%AE%BE%E8%AE%A1%E6%9D%A1%E9%93%81%E8%B7%AF%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E9%AB%98%E7%A7%91%E6%8A%80%23&t=31&band_rank=3&Refer=top)<br />
 4. [墨香铜臭回来了](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
 5. [IU自曝吃东西每口咬150下](https://s.weibo.com/weibo?q=%23IU%E8%87%AA%E6%9B%9D%E5%90%83%E4%B8%9C%E8%A5%BF%E6%AF%8F%E5%8F%A3%E5%92%AC150%E4%B8%8B%23&t=31&band_rank=5&Refer=top)<br />
