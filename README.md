@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 09:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 09:55:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [普京含泪为恐袭遇难者点蜡致哀](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%90%AB%E6%B3%AA%E4%B8%BA%E6%81%90%E8%A2%AD%E9%81%87%E9%9A%BE%E8%80%85%E7%82%B9%E8%9C%A1%E8%87%B4%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [乡村小学校长性侵5名未成年女生](https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E5%B0%8F%E5%AD%A6%E6%A0%A1%E9%95%BF%E6%80%A7%E4%BE%B55%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [初中生免三考直接读985本科硕士](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E5%85%8D%E4%B8%89%E8%80%83%E7%9B%B4%E6%8E%A5%E8%AF%BB985%E6%9C%AC%E7%A7%91%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子称餐厅一个多小时上了两个菜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E9%A4%90%E5%8E%85%E4%B8%80%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E4%B8%8A%E4%BA%86%E4%B8%A4%E4%B8%AA%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [花超800万建高标准农田 2年后被推倒](https://www.baidu.com/s?wd=%E8%8A%B1%E8%B6%85800%E4%B8%87%E5%BB%BA%E9%AB%98%E6%A0%87%E5%87%86%E5%86%9C%E7%94%B0+2%E5%B9%B4%E5%90%8E%E8%A2%AB%E6%8E%A8%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣67岁老人讨薪被打](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A367%E5%B2%81%E8%80%81%E4%BA%BA%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [普京含泪为恐袭遇难者点蜡致哀](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%90%AB%E6%B3%AA%E4%B8%BA%E6%81%90%E8%A2%AD%E9%81%87%E9%9A%BE%E8%80%85%E7%82%B9%E8%9C%A1%E8%87%B4%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [乡村小学校长性侵5名未成年女生](https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E5%B0%8F%E5%AD%A6%E6%A0%A1%E9%95%BF%E6%80%A7%E4%BE%B55%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E5%A5%B3%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [初中生免三考直接读985本科硕士](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E5%85%8D%E4%B8%89%E8%80%83%E7%9B%B4%E6%8E%A5%E8%AF%BB985%E6%9C%AC%E7%A7%91%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子称餐厅一个多小时上了两个菜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E9%A4%90%E5%8E%85%E4%B8%80%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E4%B8%8A%E4%BA%86%E4%B8%A4%E4%B8%AA%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [花超800万建高标准农田 2年后被推倒](https://www.baidu.com/s?wd=%E8%8A%B1%E8%B6%85800%E4%B8%87%E5%BB%BA%E9%AB%98%E6%A0%87%E5%87%86%E5%86%9C%E7%94%B0+2%E5%B9%B4%E5%90%8E%E8%A2%AB%E6%8E%A8%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣67岁老人讨薪被打](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A367%E5%B2%81%E8%80%81%E4%BA%BA%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
