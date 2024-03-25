@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 19:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 19:48:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [墨香铜臭回来了](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [孙俪惊讶大家还在讨论甄嬛传](https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E6%83%8A%E8%AE%B6%E5%A4%A7%E5%AE%B6%E8%BF%98%E5%9C%A8%E8%AE%A8%E8%AE%BA%E7%94%84%E5%AC%9B%E4%BC%A0%23&t=31&band_rank=6&Refer=top)<br />
 7. [大学生借书发现67年前书签](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%80%9F%E4%B9%A6%E5%8F%91%E7%8E%B067%E5%B9%B4%E5%89%8D%E4%B9%A6%E7%AD%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [种地吧郁金香开售](https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E9%83%81%E9%87%91%E9%A6%99%E5%BC%80%E5%94%AE%23&t=31&band_rank=8&Refer=top)<br />
+8. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=8&Refer=top)<br />
 9. [治沙工人给沙漠穿上了格子衫](https://s.weibo.com/weibo?q=%23%E6%B2%BB%E6%B2%99%E5%B7%A5%E4%BA%BA%E7%BB%99%E6%B2%99%E6%BC%A0%E7%A9%BF%E4%B8%8A%E4%BA%86%E6%A0%BC%E5%AD%90%E8%A1%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [总书记的一周](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [“宝马女”谈坐在自行车上哭](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%9D%E9%A9%AC%E5%A5%B3%E2%80%9D%E8%B0%88%E5%9D%90%E5%9C%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E4%B8%8A%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [王树国任福耀科技大学校长](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E4%BB%BB%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [身份证号被恶意传播 樊振东维权](https://www.baidu.com/s?wd=%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E8%A2%AB%E6%81%B6%E6%84%8F%E4%BC%A0%E6%92%AD+%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%BB%B4%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春回大地山河秀](https://www.baidu.com/s?wd=%E6%98%A5%E5%9B%9E%E5%A4%A7%E5%9C%B0%E5%B1%B1%E6%B2%B3%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中籍邮轮遭胡塞武装袭击？中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E7%B1%8D%E9%82%AE%E8%BD%AE%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [年轻人开始整顿自己婚礼](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E8%87%AA%E5%B7%B1%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [Kimi每天获客成本超20万元](https://www.baidu.com/s?wd=Kimi%E6%AF%8F%E5%A4%A9%E8%8E%B7%E5%AE%A2%E6%88%90%E6%9C%AC%E8%B6%8520%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [生父强奸女儿案被移送起诉](https://www.baidu.com/s?wd=%E7%94%9F%E7%88%B6%E5%BC%BA%E5%A5%B8%E5%A5%B3%E5%84%BF%E6%A1%88%E8%A2%AB%E7%A7%BB%E9%80%81%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [年轻人开始整顿自己婚礼](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E8%87%AA%E5%B7%B1%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [农村出现医保“退保潮”系谣言](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E5%87%BA%E7%8E%B0%E5%8C%BB%E4%BF%9D%E2%80%9C%E9%80%80%E4%BF%9D%E6%BD%AE%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [总书记的一周](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [“宝马女”谈坐在自行车上哭](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%9D%E9%A9%AC%E5%A5%B3%E2%80%9D%E8%B0%88%E5%9D%90%E5%9C%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E4%B8%8A%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [王树国任福耀科技大学校长](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E4%BB%BB%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [身份证号被恶意传播 樊振东维权](https://www.baidu.com/s?wd=%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E8%A2%AB%E6%81%B6%E6%84%8F%E4%BC%A0%E6%92%AD+%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%BB%B4%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春回大地山河秀](https://www.baidu.com/s?wd=%E6%98%A5%E5%9B%9E%E5%A4%A7%E5%9C%B0%E5%B1%B1%E6%B2%B3%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中籍邮轮遭胡塞武装袭击？中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E7%B1%8D%E9%82%AE%E8%BD%AE%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [年轻人开始整顿自己婚礼](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E8%87%AA%E5%B7%B1%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [Kimi每天获客成本超20万元](https://www.baidu.com/s?wd=Kimi%E6%AF%8F%E5%A4%A9%E8%8E%B7%E5%AE%A2%E6%88%90%E6%9C%AC%E8%B6%8520%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [生父强奸女儿案被移送起诉](https://www.baidu.com/s?wd=%E7%94%9F%E7%88%B6%E5%BC%BA%E5%A5%B8%E5%A5%B3%E5%84%BF%E6%A1%88%E8%A2%AB%E7%A7%BB%E9%80%81%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [年轻人开始整顿自己婚礼](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E8%87%AA%E5%B7%B1%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [农村出现医保“退保潮”系谣言](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E5%87%BA%E7%8E%B0%E5%8C%BB%E4%BF%9D%E2%80%9C%E9%80%80%E4%BF%9D%E6%BD%AE%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
