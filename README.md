@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 13:03:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 13:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [张艺兴女团成员正面照](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E6%AD%A3%E9%9D%A2%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [俄恐袭一嫌犯年仅19岁](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%81%90%E8%A2%AD%E4%B8%80%E5%AB%8C%E7%8A%AF%E5%B9%B4%E4%BB%8519%E5%B2%81%23&t=31&band_rank=7&Refer=top)<br />
 8. [百度将为国行iPhone16提供AI功能](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E5%B0%86%E4%B8%BA%E5%9B%BD%E8%A1%8CiPhone16%E6%8F%90%E4%BE%9BAI%E5%8A%9F%E8%83%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [发现刘亦菲是表姑的侄女](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E5%88%98%E4%BA%A6%E8%8F%B2%E6%98%AF%E8%A1%A8%E5%A7%91%E7%9A%84%E4%BE%84%E5%A5%B3%23&t=31&band_rank=9&Refer=top)<br />
+9. [刘学义工作室声明](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
