@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 15:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 15:51:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [王鸥复工身材状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E5%A4%8D%E5%B7%A5%E8%BA%AB%E6%9D%90%E7%8A%B6%E6%80%81%23&t=31&band_rank=4&Refer=top)<br />
 5. [天官赐福解锁](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E8%A7%A3%E9%94%81&t=31&band_rank=5&Refer=top)<br />
 6. [雷军称小米最恨品牌溢价](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%E6%9C%80%E6%81%A8%E5%93%81%E7%89%8C%E6%BA%A2%E4%BB%B7%23&t=31&band_rank=6&Refer=top)<br />
-7. [多校呼吁毕业生不要只盯着考研考公](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E7%9B%AF%E7%9D%80%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%23&t=31&band_rank=7&Refer=top)<br />
-8. [考研每四位统考生中平均有一人被录取](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%AF%8F%E5%9B%9B%E4%BD%8D%E7%BB%9F%E8%80%83%E7%94%9F%E4%B8%AD%E5%B9%B3%E5%9D%87%E6%9C%89%E4%B8%80%E4%BA%BA%E8%A2%AB%E5%BD%95%E5%8F%96%23&t=31&band_rank=8&Refer=top)<br />
+7. [考研每四位统考生中平均有一人被录取](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%AF%8F%E5%9B%9B%E4%BD%8D%E7%BB%9F%E8%80%83%E7%94%9F%E4%B8%AD%E5%B9%B3%E5%9D%87%E6%9C%89%E4%B8%80%E4%BA%BA%E8%A2%AB%E5%BD%95%E5%8F%96%23&t=31&band_rank=7&Refer=top)<br />
+8. [多校呼吁毕业生不要只盯着考研考公](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E7%9B%AF%E7%9D%80%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%23&t=31&band_rank=8&Refer=top)<br />
 9. [向佐说现在和郭碧婷恩爱到极点了](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E8%AF%B4%E7%8E%B0%E5%9C%A8%E5%92%8C%E9%83%AD%E7%A2%A7%E5%A9%B7%E6%81%A9%E7%88%B1%E5%88%B0%E6%9E%81%E7%82%B9%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
