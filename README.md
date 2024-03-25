@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 04:00:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 04:01:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [大姐自制清明果一年只卖20天赚十万](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A7%90%E8%87%AA%E5%88%B6%E6%B8%85%E6%98%8E%E6%9E%9C%E4%B8%80%E5%B9%B4%E5%8F%AA%E5%8D%9620%E5%A4%A9%E8%B5%9A%E5%8D%81%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [墨香铜臭回来了](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [长期吃太饱身体会发生什么变化](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E5%A4%AA%E9%A5%B1%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [IU自曝吃东西每口咬150下](https://s.weibo.com/weibo?q=%23IU%E8%87%AA%E6%9B%9D%E5%90%83%E4%B8%9C%E8%A5%BF%E6%AF%8F%E5%8F%A3%E5%92%AC150%E4%B8%8B%23&t=31&band_rank=7&Refer=top)<br />
-8. [开封王婆身体不适暂别舞台](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B0%81%E7%8E%8B%E5%A9%86%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E6%9A%82%E5%88%AB%E8%88%9E%E5%8F%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [墨香铜臭称将全额退还新书霸王票](https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E7%A7%B0%E5%B0%86%E5%85%A8%E9%A2%9D%E9%80%80%E8%BF%98%E6%96%B0%E4%B9%A6%E9%9C%B8%E7%8E%8B%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
+7. [墨香铜臭称将全额退还新书霸王票](https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E7%A7%B0%E5%B0%86%E5%85%A8%E9%A2%9D%E9%80%80%E8%BF%98%E6%96%B0%E4%B9%A6%E9%9C%B8%E7%8E%8B%E7%A5%A8%23&t=31&band_rank=7&Refer=top)<br />
+8. [IU自曝吃东西每口咬150下](https://s.weibo.com/weibo?q=%23IU%E8%87%AA%E6%9B%9D%E5%90%83%E4%B8%9C%E8%A5%BF%E6%AF%8F%E5%8F%A3%E5%92%AC150%E4%B8%8B%23&t=31&band_rank=8&Refer=top)<br />
+9. [开封王婆身体不适暂别舞台](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B0%81%E7%8E%8B%E5%A9%86%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E6%9A%82%E5%88%AB%E8%88%9E%E5%8F%B0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
