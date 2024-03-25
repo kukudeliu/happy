@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 07:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 07:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [闺蜜合伙盗窃靠反复怀孕育11子躲刑罚](https://s.weibo.com/weibo?q=%23%E9%97%BA%E8%9C%9C%E5%90%88%E4%BC%99%E7%9B%97%E7%AA%83%E9%9D%A0%E5%8F%8D%E5%A4%8D%E6%80%80%E5%AD%95%E8%82%B211%E5%AD%90%E8%BA%B2%E5%88%91%E7%BD%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [地磁暴 极光](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4%20%E6%9E%81%E5%85%89&t=31&band_rank=7&Refer=top)<br />
 8. [杭州姐姐给了弟弟200元刮中100万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A7%90%E5%A7%90%E7%BB%99%E4%BA%86%E5%BC%9F%E5%BC%9F200%E5%85%83%E5%88%AE%E4%B8%AD100%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
-9. [开封王婆身体不适暂别舞台](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B0%81%E7%8E%8B%E5%A9%86%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E6%9A%82%E5%88%AB%E8%88%9E%E5%8F%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [苹果官网鼓励升级到iPhone15](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E9%BC%93%E5%8A%B1%E5%8D%87%E7%BA%A7%E5%88%B0iPhone15%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
