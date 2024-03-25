@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 01:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 01:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [郭敬明 纪凌尘最好的医美](https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%20%E7%BA%AA%E5%87%8C%E5%B0%98%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E7%BE%8E&t=31&band_rank=6&Refer=top)<br />
 7. [IU自曝吃东西每口咬150下](https://s.weibo.com/weibo?q=%23IU%E8%87%AA%E6%9B%9D%E5%90%83%E4%B8%9C%E8%A5%BF%E6%AF%8F%E5%8F%A3%E5%92%AC150%E4%B8%8B%23&t=31&band_rank=7&Refer=top)<br />
 8. [杨超越捧花头像](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E6%8D%A7%E8%8A%B1%E5%A4%B4%E5%83%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [爱情公寓特效](https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E7%89%B9%E6%95%88&t=31&band_rank=9&Refer=top)<br />
+9. [墨香铜臭称将全额退还新书霸王票](https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E7%A7%B0%E5%B0%86%E5%85%A8%E9%A2%9D%E9%80%80%E8%BF%98%E6%96%B0%E4%B9%A6%E9%9C%B8%E7%8E%8B%E7%A5%A8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
