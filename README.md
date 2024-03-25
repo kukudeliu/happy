@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 13:10:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 13:11:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [俄恐袭一嫌犯年仅19岁](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%81%90%E8%A2%AD%E4%B8%80%E5%AB%8C%E7%8A%AF%E5%B9%B4%E4%BB%8519%E5%B2%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [百度将为国行iPhone16提供AI功能](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E5%B0%86%E4%B8%BA%E5%9B%BD%E8%A1%8CiPhone16%E6%8F%90%E4%BE%9BAI%E5%8A%9F%E8%83%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [霉霉85亿身家首登胡润富豪榜](https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%8985%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%A6%96%E7%99%BB%E8%83%A1%E6%B6%A6%E5%AF%8C%E8%B1%AA%E6%A6%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [刘学义方否认偷税漏税](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E6%96%B9%E5%90%A6%E8%AE%A4%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=9&Refer=top)<br />
+9. [发现刘亦菲是表姑的侄女](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E5%88%98%E4%BA%A6%E8%8F%B2%E6%98%AF%E8%A1%A8%E5%A7%91%E7%9A%84%E4%BE%84%E5%A5%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
