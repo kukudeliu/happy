@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 11:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 11:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [俄罗斯无法判处恐怖分子死刑](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%97%A0%E6%B3%95%E5%88%A4%E5%A4%84%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国第一夫人已消失100天](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E5%B7%B2%E6%B6%88%E5%A4%B1100%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [初中生免三考直接读985本科硕士](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E5%85%8D%E4%B8%89%E8%80%83%E7%9B%B4%E6%8E%A5%E8%AF%BB985%E6%9C%AC%E7%A7%91%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [台军装甲车为避自行车撞倒路灯](https://www.baidu.com/s?wd=%E5%8F%B0%E5%86%9B%E8%A3%85%E7%94%B2%E8%BD%A6%E4%B8%BA%E9%81%BF%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%92%9E%E5%80%92%E8%B7%AF%E7%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [开豪车男子踢翻外卖小哥电动车](https://www.baidu.com/s?wd=%E5%BC%80%E8%B1%AA%E8%BD%A6%E7%94%B7%E5%AD%90%E8%B8%A2%E7%BF%BB%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E7%94%B5%E5%8A%A8%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣67岁老人讨薪被打](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A367%E5%B2%81%E8%80%81%E4%BA%BA%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [俄罗斯无法判处恐怖分子死刑](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%97%A0%E6%B3%95%E5%88%A4%E5%A4%84%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国第一夫人已消失100天](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E5%B7%B2%E6%B6%88%E5%A4%B1100%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [初中生免三考直接读985本科硕士](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E5%85%8D%E4%B8%89%E8%80%83%E7%9B%B4%E6%8E%A5%E8%AF%BB985%E6%9C%AC%E7%A7%91%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [台军装甲车为避自行车撞倒路灯](https://www.baidu.com/s?wd=%E5%8F%B0%E5%86%9B%E8%A3%85%E7%94%B2%E8%BD%A6%E4%B8%BA%E9%81%BF%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%92%9E%E5%80%92%E8%B7%AF%E7%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [开豪车男子踢翻外卖小哥电动车](https://www.baidu.com/s?wd=%E5%BC%80%E8%B1%AA%E8%BD%A6%E7%94%B7%E5%AD%90%E8%B8%A2%E7%BF%BB%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E7%94%B5%E5%8A%A8%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣67岁老人讨薪被打](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A367%E5%B2%81%E8%80%81%E4%BA%BA%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
