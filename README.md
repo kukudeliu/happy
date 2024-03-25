@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 22:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 22:43:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [樊振东发文维权](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E6%96%87%E7%BB%B4%E6%9D%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [威廉凯特计划带孩子复活节外出](https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%BB%89%E5%87%AF%E7%89%B9%E8%AE%A1%E5%88%92%E5%B8%A6%E5%AD%A9%E5%AD%90%E5%A4%8D%E6%B4%BB%E8%8A%82%E5%A4%96%E5%87%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [墨香铜臭称将全额退还新书霸王票](https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E7%A7%B0%E5%B0%86%E5%85%A8%E9%A2%9D%E9%80%80%E8%BF%98%E6%96%B0%E4%B9%A6%E9%9C%B8%E7%8E%8B%E7%A5%A8%23&t=31&band_rank=8&Refer=top)<br />
-9. [教育部要求开展学生欺凌防治培训](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%A6%81%E6%B1%82%E5%BC%80%E5%B1%95%E5%AD%A6%E7%94%9F%E6%AC%BA%E5%87%8C%E9%98%B2%E6%B2%BB%E5%9F%B9%E8%AE%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [杭州姐姐给了弟弟200元刮中100万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A7%90%E5%A7%90%E7%BB%99%E4%BA%86%E5%BC%9F%E5%BC%9F200%E5%85%83%E5%88%AE%E4%B8%AD100%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
