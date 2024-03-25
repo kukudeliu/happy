@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 15:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 15:24:02</h4></div>
 
 > 微博  
 
@@ -6,10 +6,10 @@
 2. [多校呼吁毕业生不要只盯着考研考公](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E7%9B%AF%E7%9D%80%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%23&t=31&band_rank=2&Refer=top)<br />
 3. [春天的浪漫是花花给的](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E7%9A%84%E6%B5%AA%E6%BC%AB%E6%98%AF%E8%8A%B1%E8%8A%B1%E7%BB%99%E7%9A%84%23&t=31&band_rank=3&Refer=top)<br />
 4. [天官赐福解锁](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E8%A7%A3%E9%94%81&t=31&band_rank=4&Refer=top)<br />
-5. [向佐说现在和郭碧婷恩爱到极点了](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E8%AF%B4%E7%8E%B0%E5%9C%A8%E5%92%8C%E9%83%AD%E7%A2%A7%E5%A9%B7%E6%81%A9%E7%88%B1%E5%88%B0%E6%9E%81%E7%82%B9%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [英媒指控中国炒作凯特王妃消失](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AA%92%E6%8C%87%E6%8E%A7%E4%B8%AD%E5%9B%BD%E7%82%92%E4%BD%9C%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%B6%88%E5%A4%B1%23&t=31&band_rank=6&Refer=top)<br />
-7. [郭德纲直播首秀曹云金狂刷礼物](https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%9B%B4%E6%92%AD%E9%A6%96%E7%A7%80%E6%9B%B9%E4%BA%91%E9%87%91%E7%8B%82%E5%88%B7%E7%A4%BC%E7%89%A9%23&t=31&band_rank=7&Refer=top)<br />
-8. [雷军称小米最恨品牌溢价](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%E6%9C%80%E6%81%A8%E5%93%81%E7%89%8C%E6%BA%A2%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
+5. [英媒指控中国炒作凯特王妃消失](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AA%92%E6%8C%87%E6%8E%A7%E4%B8%AD%E5%9B%BD%E7%82%92%E4%BD%9C%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%B6%88%E5%A4%B1%23&t=31&band_rank=5&Refer=top)<br />
+6. [向佐说现在和郭碧婷恩爱到极点了](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E8%AF%B4%E7%8E%B0%E5%9C%A8%E5%92%8C%E9%83%AD%E7%A2%A7%E5%A9%B7%E6%81%A9%E7%88%B1%E5%88%B0%E6%9E%81%E7%82%B9%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
+7. [雷军称小米最恨品牌溢价](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%E6%9C%80%E6%81%A8%E5%93%81%E7%89%8C%E6%BA%A2%E4%BB%B7%23&t=31&band_rank=7&Refer=top)<br />
+8. [郭德纲直播首秀曹云金狂刷礼物](https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%9B%B4%E6%92%AD%E9%A6%96%E7%A7%80%E6%9B%B9%E4%BA%91%E9%87%91%E7%8B%82%E5%88%B7%E7%A4%BC%E7%89%A9%23&t=31&band_rank=8&Refer=top)<br />
 9. [迪丽热巴首位破3000w点赞女明星](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%A6%96%E4%BD%8D%E7%A0%B43000w%E7%82%B9%E8%B5%9E%E5%A5%B3%E6%98%8E%E6%98%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
