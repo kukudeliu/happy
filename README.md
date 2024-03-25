@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 13:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 13:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [霉霉85亿身家首登胡润富豪榜](https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%8985%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%A6%96%E7%99%BB%E8%83%A1%E6%B6%A6%E5%AF%8C%E8%B1%AA%E6%A6%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [向佐说现在和郭碧婷恩爱到极点了](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E8%AF%B4%E7%8E%B0%E5%9C%A8%E5%92%8C%E9%83%AD%E7%A2%A7%E5%A9%B7%E6%81%A9%E7%88%B1%E5%88%B0%E6%9E%81%E7%82%B9%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘学义方否认偷税漏税](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E6%96%B9%E5%90%A6%E8%AE%A4%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [俄恐袭一嫌犯年仅19岁](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%81%90%E8%A2%AD%E4%B8%80%E5%AB%8C%E7%8A%AF%E5%B9%B4%E4%BB%8519%E5%B2%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [小米su7](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3su7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [俄恐袭嫌犯被押上法庭画面曝光](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%8A%BC%E4%B8%8A%E6%B3%95%E5%BA%AD%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子举报遭生父强奸 其父已被逮捕](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E9%81%AD%E7%94%9F%E7%88%B6%E5%BC%BA%E5%A5%B8+%E5%85%B6%E7%88%B6%E5%B7%B2%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台军装甲车为避自行车撞倒路灯](https://www.baidu.com/s?wd=%E5%8F%B0%E5%86%9B%E8%A3%85%E7%94%B2%E8%BD%A6%E4%B8%BA%E9%81%BF%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%92%9E%E5%80%92%E8%B7%AF%E7%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国家医保局回应农村出现“退保潮”](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%9B%9E%E5%BA%94%E5%86%9C%E6%9D%91%E5%87%BA%E7%8E%B0%E2%80%9C%E9%80%80%E4%BF%9D%E6%BD%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学区房断崖下跌 有人半年亏百万](https://www.baidu.com/s?wd=%E5%AD%A6%E5%8C%BA%E6%88%BF%E6%96%AD%E5%B4%96%E4%B8%8B%E8%B7%8C+%E6%9C%89%E4%BA%BA%E5%8D%8A%E5%B9%B4%E4%BA%8F%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣67岁老人讨薪被打](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A367%E5%B2%81%E8%80%81%E4%BA%BA%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [俄恐袭嫌犯被押上法庭画面曝光](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%8A%BC%E4%B8%8A%E6%B3%95%E5%BA%AD%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子举报遭生父强奸 其父已被逮捕](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E9%81%AD%E7%94%9F%E7%88%B6%E5%BC%BA%E5%A5%B8+%E5%85%B6%E7%88%B6%E5%B7%B2%E8%A2%AB%E9%80%AE%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [台军装甲车为避自行车撞倒路灯](https://www.baidu.com/s?wd=%E5%8F%B0%E5%86%9B%E8%A3%85%E7%94%B2%E8%BD%A6%E4%B8%BA%E9%81%BF%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%92%9E%E5%80%92%E8%B7%AF%E7%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [国家医保局回应农村出现“退保潮”](https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%9B%9E%E5%BA%94%E5%86%9C%E6%9D%91%E5%87%BA%E7%8E%B0%E2%80%9C%E9%80%80%E4%BF%9D%E6%BD%AE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [学区房断崖下跌 有人半年亏百万](https://www.baidu.com/s?wd=%E5%AD%A6%E5%8C%BA%E6%88%BF%E6%96%AD%E5%B4%96%E4%B8%8B%E8%B7%8C+%E6%9C%89%E4%BA%BA%E5%8D%8A%E5%B9%B4%E4%BA%8F%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣67岁老人讨薪被打](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A367%E5%B2%81%E8%80%81%E4%BA%BA%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
