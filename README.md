@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 18:04:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 18:05:02</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [墨香铜臭回来了](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=5&Refer=top)<br />
 6. [外交部回应中国籍油轮遭胡塞武装袭击](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E7%B1%8D%E6%B2%B9%E8%BD%AE%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%23&t=31&band_rank=6&Refer=top)<br />
 7. [薛之谦演唱会官宣三站](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E4%B8%89%E7%AB%99%23&t=31&band_rank=7&Refer=top)<br />
-8. [翟欣欣或将获刑10年以上](https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%88%96%E5%B0%86%E8%8E%B7%E5%88%9110%E5%B9%B4%E4%BB%A5%E4%B8%8A%23&t=31&band_rank=8&Refer=top)<br />
+8. [向佐荧幕初吻给了阿娇](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E8%8D%A7%E5%B9%95%E5%88%9D%E5%90%BB%E7%BB%99%E4%BA%86%E9%98%BF%E5%A8%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [治沙工人给沙漠穿上了格子衫](https://s.weibo.com/weibo?q=%23%E6%B2%BB%E6%B2%99%E5%B7%A5%E4%BA%BA%E7%BB%99%E6%B2%99%E6%BC%A0%E7%A9%BF%E4%B8%8A%E4%BA%86%E6%A0%BC%E5%AD%90%E8%A1%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -25,7 +25,7 @@
 6. [王树国任福耀科技大学校长](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E4%BB%BB%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [公办高中教师招聘薪资1000以下](https://www.baidu.com/s?wd=%E5%85%AC%E5%8A%9E%E9%AB%98%E4%B8%AD%E6%95%99%E5%B8%88%E6%8B%9B%E8%81%98%E8%96%AA%E8%B5%841000%E4%BB%A5%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#烈焰#](https://www.baidu.com/s?wd=%23%E7%83%88%E7%84%B0%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [流浪画家考上大学被顶替？假的](https://www.baidu.com/s?wd=%E6%B5%81%E6%B5%AA%E7%94%BB%E5%AE%B6%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E8%A2%AB%E9%A1%B6%E6%9B%BF%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [农村出现医保“退保潮”系谣言](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E5%87%BA%E7%8E%B0%E5%8C%BB%E4%BF%9D%E2%80%9C%E9%80%80%E4%BF%9D%E6%BD%AE%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [王树国任福耀科技大学校长](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E4%BB%BB%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [公办高中教师招聘薪资1000以下](https://www.baidu.com/s?wd=%E5%85%AC%E5%8A%9E%E9%AB%98%E4%B8%AD%E6%95%99%E5%B8%88%E6%8B%9B%E8%81%98%E8%96%AA%E8%B5%841000%E4%BB%A5%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#烈焰#](https://www.baidu.com/s?wd=%23%E7%83%88%E7%84%B0%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [流浪画家考上大学被顶替？假的](https://www.baidu.com/s?wd=%E6%B5%81%E6%B5%AA%E7%94%BB%E5%AE%B6%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E8%A2%AB%E9%A1%B6%E6%9B%BF%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [农村出现医保“退保潮”系谣言](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E5%87%BA%E7%8E%B0%E5%8C%BB%E4%BF%9D%E2%80%9C%E9%80%80%E4%BF%9D%E6%BD%AE%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
