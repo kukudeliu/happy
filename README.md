@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 17:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 17:45:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [UP主吐槽B站装修综艺令其损失百万](https://s.weibo.com/weibo?q=%23UP%E4%B8%BB%E5%90%90%E6%A7%BDB%E7%AB%99%E8%A3%85%E4%BF%AE%E7%BB%BC%E8%89%BA%E4%BB%A4%E5%85%B6%E6%8D%9F%E5%A4%B1%E7%99%BE%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
 3. [这个超级工程用到了海上巨型滑梯](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E7%94%A8%E5%88%B0%E4%BA%86%E6%B5%B7%E4%B8%8A%E5%B7%A8%E5%9E%8B%E6%BB%91%E6%A2%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [墨香铜臭回来了](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=4&Refer=top)<br />
-5. [向佐荧幕初吻给了阿娇](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E8%8D%A7%E5%B9%95%E5%88%9D%E5%90%BB%E7%BB%99%E4%BA%86%E9%98%BF%E5%A8%87%23&t=31&band_rank=5&Refer=top)<br />
-6. [翟欣欣或将获刑10年以上](https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%88%96%E5%B0%86%E8%8E%B7%E5%88%9110%E5%B9%B4%E4%BB%A5%E4%B8%8A%23&t=31&band_rank=6&Refer=top)<br />
+5. [翟欣欣或将获刑10年以上](https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%88%96%E5%B0%86%E8%8E%B7%E5%88%9110%E5%B9%B4%E4%BB%A5%E4%B8%8A%23&t=31&band_rank=5&Refer=top)<br />
+6. [向佐荧幕初吻给了阿娇](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E8%8D%A7%E5%B9%95%E5%88%9D%E5%90%BB%E7%BB%99%E4%BA%86%E9%98%BF%E5%A8%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=7&Refer=top)<br />
-8. [王鸥复工身材状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E5%A4%8D%E5%B7%A5%E8%BA%AB%E6%9D%90%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [外交部回应中国籍油轮遭胡塞武装袭击](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E7%B1%8D%E6%B2%B9%E8%BD%AE%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%23&t=31&band_rank=9&Refer=top)<br />
+8. [薛之谦演唱会官宣三站](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E4%B8%89%E7%AB%99%23&t=31&band_rank=8&Refer=top)<br />
+9. [王鸥复工身材状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E5%A4%8D%E5%B7%A5%E8%BA%AB%E6%9D%90%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
