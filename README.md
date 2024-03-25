@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 09:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 09:13:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [男子称餐厅一个多小时上了两个菜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E9%A4%90%E5%8E%85%E4%B8%80%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E4%B8%8A%E4%BA%86%E4%B8%A4%E4%B8%AA%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [30岁男子咳断2根肋骨 医生回应](https://www.baidu.com/s?wd=30%E5%B2%81%E7%94%B7%E5%AD%90%E5%92%B3%E6%96%AD2%E6%A0%B9%E8%82%8B%E9%AA%A8+%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全红婵世界杯10米台冠军](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%96%E7%95%8C%E6%9D%AF10%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [67岁老人讨薪被打？警方通报](https://www.baidu.com/s?wd=67%E5%B2%81%E8%80%81%E4%BA%BA%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%89%93%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方辟谣67岁老人讨薪被打](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A367%E5%B2%81%E8%80%81%E4%BA%BA%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [男子称餐厅一个多小时上了两个菜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E9%A4%90%E5%8E%85%E4%B8%80%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E4%B8%8A%E4%BA%86%E4%B8%A4%E4%B8%AA%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [30岁男子咳断2根肋骨 医生回应](https://www.baidu.com/s?wd=30%E5%B2%81%E7%94%B7%E5%AD%90%E5%92%B3%E6%96%AD2%E6%A0%B9%E8%82%8B%E9%AA%A8+%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [全红婵世界杯10米台冠军](https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%96%E7%95%8C%E6%9D%AF10%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [67岁老人讨薪被打？警方通报](https://www.baidu.com/s?wd=67%E5%B2%81%E8%80%81%E4%BA%BA%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%89%93%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [警方辟谣67岁老人讨薪被打](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A367%E5%B2%81%E8%80%81%E4%BA%BA%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
