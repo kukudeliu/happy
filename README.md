@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 19:34:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 19:35:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [孙俪惊讶大家还在讨论甄嬛传](https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E6%83%8A%E8%AE%B6%E5%A4%A7%E5%AE%B6%E8%BF%98%E5%9C%A8%E8%AE%A8%E8%AE%BA%E7%94%84%E5%AC%9B%E4%BC%A0%23&t=31&band_rank=5&Refer=top)<br />
 6. [墨香铜臭称将全额退还新书霸王票](https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E7%A7%B0%E5%B0%86%E5%85%A8%E9%A2%9D%E9%80%80%E8%BF%98%E6%96%B0%E4%B9%A6%E9%9C%B8%E7%8E%8B%E7%A5%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [大学生借书发现67年前书签](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%80%9F%E4%B9%A6%E5%8F%91%E7%8E%B067%E5%B9%B4%E5%89%8D%E4%B9%A6%E7%AD%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=8&Refer=top)<br />
+8. [种地吧郁金香开售](https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E9%83%81%E9%87%91%E9%A6%99%E5%BC%80%E5%94%AE%23&t=31&band_rank=8&Refer=top)<br />
 9. [治沙工人给沙漠穿上了格子衫](https://s.weibo.com/weibo?q=%23%E6%B2%BB%E6%B2%99%E5%B7%A5%E4%BA%BA%E7%BB%99%E6%B2%99%E6%BC%A0%E7%A9%BF%E4%B8%8A%E4%BA%86%E6%A0%BC%E5%AD%90%E8%A1%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
