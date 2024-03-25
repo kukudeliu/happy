@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 20:46:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 20:47:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [樊振东发文维权](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E6%96%87%E7%BB%B4%E6%9D%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [墨香铜臭回来了](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [优酷的七部养老剧](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E7%9A%84%E4%B8%83%E9%83%A8%E5%85%BB%E8%80%81%E5%89%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [种地吧郁金香开售](https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E9%83%81%E9%87%91%E9%A6%99%E5%BC%80%E5%94%AE%23&t=31&band_rank=9&Refer=top)<br />
+9. [大学生借书发现67年前书签](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%80%9F%E4%B9%A6%E5%8F%91%E7%8E%B067%E5%B9%B4%E5%89%8D%E4%B9%A6%E7%AD%BE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
