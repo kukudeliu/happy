@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 08:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 08:19:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [普京含泪为恐袭遇难者点蜡致哀](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%90%AB%E6%B3%AA%E4%B8%BA%E6%81%90%E8%A2%AD%E9%81%87%E9%9A%BE%E8%80%85%E7%82%B9%E8%9C%A1%E8%87%B4%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [30岁男子咳断2根肋骨 医生回应](https://www.baidu.com/s?wd=30%E5%B2%81%E7%94%B7%E5%AD%90%E5%92%B3%E6%96%AD2%E6%A0%B9%E8%82%8B%E9%AA%A8+%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯圣彼得堡一购物中心紧急疏散](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1%E4%B8%80%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E7%B4%A7%E6%80%A5%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红丈夫回应“虐待病妻”质疑](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%BA%94%E2%80%9C%E8%99%90%E5%BE%85%E7%97%85%E5%A6%BB%E2%80%9D%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王诗龄砂锅铺满了黑松露](https://www.baidu.com/s?wd=%E7%8E%8B%E8%AF%97%E9%BE%84%E7%A0%82%E9%94%85%E9%93%BA%E6%BB%A1%E4%BA%86%E9%BB%91%E6%9D%BE%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“济南发生地震”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B5%8E%E5%8D%97%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [普京含泪为恐袭遇难者点蜡致哀](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%90%AB%E6%B3%AA%E4%B8%BA%E6%81%90%E8%A2%AD%E9%81%87%E9%9A%BE%E8%80%85%E7%82%B9%E8%9C%A1%E8%87%B4%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [30岁男子咳断2根肋骨 医生回应](https://www.baidu.com/s?wd=30%E5%B2%81%E7%94%B7%E5%AD%90%E5%92%B3%E6%96%AD2%E6%A0%B9%E8%82%8B%E9%AA%A8+%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯圣彼得堡一购物中心紧急疏散](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1%E4%B8%80%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E7%B4%A7%E6%80%A5%E7%96%8F%E6%95%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [网红丈夫回应“虐待病妻”质疑](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%BA%94%E2%80%9C%E8%99%90%E5%BE%85%E7%97%85%E5%A6%BB%E2%80%9D%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王诗龄砂锅铺满了黑松露](https://www.baidu.com/s?wd=%E7%8E%8B%E8%AF%97%E9%BE%84%E7%A0%82%E9%94%85%E9%93%BA%E6%BB%A1%E4%BA%86%E9%BB%91%E6%9D%BE%E9%9C%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣“济南发生地震”](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E6%B5%8E%E5%8D%97%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
