@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 08:58:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 08:59:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [普京含泪为恐袭遇难者点蜡致哀](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%90%AB%E6%B3%AA%E4%B8%BA%E6%81%90%E8%A2%AD%E9%81%87%E9%9A%BE%E8%80%85%E7%82%B9%E8%9C%A1%E8%87%B4%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子称餐厅一个多小时上了两个菜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E9%A4%90%E5%8E%85%E4%B8%80%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E4%B8%8A%E4%BA%86%E4%B8%A4%E4%B8%AA%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [30岁男子咳断2根肋骨 医生回应](https://www.baidu.com/s?wd=30%E5%B2%81%E7%94%B7%E5%AD%90%E5%92%B3%E6%96%AD2%E6%A0%B9%E8%82%8B%E9%AA%A8+%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张栋梁现身王心凌演唱会](https://www.baidu.com/s?wd=%E5%BC%A0%E6%A0%8B%E6%A2%81%E7%8E%B0%E8%BA%AB%E7%8E%8B%E5%BF%83%E5%87%8C%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [开豪车男子踢翻外卖小哥电动车](https://www.baidu.com/s?wd=%E5%BC%80%E8%B1%AA%E8%BD%A6%E7%94%B7%E5%AD%90%E8%B8%A2%E7%BF%BB%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E7%94%B5%E5%8A%A8%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [67岁老人讨薪被打？警方通报](https://www.baidu.com/s?wd=67%E5%B2%81%E8%80%81%E4%BA%BA%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%89%93%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [普京含泪为恐袭遇难者点蜡致哀](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%90%AB%E6%B3%AA%E4%B8%BA%E6%81%90%E8%A2%AD%E9%81%87%E9%9A%BE%E8%80%85%E7%82%B9%E8%9C%A1%E8%87%B4%E5%93%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子称餐厅一个多小时上了两个菜](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E9%A4%90%E5%8E%85%E4%B8%80%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E4%B8%8A%E4%BA%86%E4%B8%A4%E4%B8%AA%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [30岁男子咳断2根肋骨 医生回应](https://www.baidu.com/s?wd=30%E5%B2%81%E7%94%B7%E5%AD%90%E5%92%B3%E6%96%AD2%E6%A0%B9%E8%82%8B%E9%AA%A8+%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [张栋梁现身王心凌演唱会](https://www.baidu.com/s?wd=%E5%BC%A0%E6%A0%8B%E6%A2%81%E7%8E%B0%E8%BA%AB%E7%8E%8B%E5%BF%83%E5%87%8C%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [开豪车男子踢翻外卖小哥电动车](https://www.baidu.com/s?wd=%E5%BC%80%E8%B1%AA%E8%BD%A6%E7%94%B7%E5%AD%90%E8%B8%A2%E7%BF%BB%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E7%94%B5%E5%8A%A8%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [67岁老人讨薪被打？警方通报](https://www.baidu.com/s?wd=67%E5%B2%81%E8%80%81%E4%BA%BA%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%89%93%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
