@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 20:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 20:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [墨香铜臭称将全额退还新书霸王票](https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E7%A7%B0%E5%B0%86%E5%85%A8%E9%A2%9D%E9%80%80%E8%BF%98%E6%96%B0%E4%B9%A6%E9%9C%B8%E7%8E%8B%E7%A5%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [墨香铜臭回来了](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [大学生借书发现67年前书签](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%80%9F%E4%B9%A6%E5%8F%91%E7%8E%B067%E5%B9%B4%E5%89%8D%E4%B9%A6%E7%AD%BE%23&t=31&band_rank=8&Refer=top)<br />
-9. [肖战工作室放饭了](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%BE%E9%A5%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [种地吧郁金香开售](https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E9%83%81%E9%87%91%E9%A6%99%E5%BC%80%E5%94%AE%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
