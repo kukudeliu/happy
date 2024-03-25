@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 15:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 15:05:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [迪丽热巴首位破3000w点赞女明星](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%A6%96%E4%BD%8D%E7%A0%B43000w%E7%82%B9%E8%B5%9E%E5%A5%B3%E6%98%8E%E6%98%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [林更新退出九亿梦影视公司](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E9%80%80%E5%87%BA%E4%B9%9D%E4%BA%BF%E6%A2%A6%E5%BD%B1%E8%A7%86%E5%85%AC%E5%8F%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [韩国第一夫人消失100天非常不寻常](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E6%B6%88%E5%A4%B1100%E5%A4%A9%E9%9D%9E%E5%B8%B8%E4%B8%8D%E5%AF%BB%E5%B8%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [Kimi每天获客成本超20万元](https://s.weibo.com/weibo?q=%23Kimi%E6%AF%8F%E5%A4%A9%E8%8E%B7%E5%AE%A2%E6%88%90%E6%9C%AC%E8%B6%8520%E4%B8%87%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
