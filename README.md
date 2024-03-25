@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 14:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 14:16:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [向佐说现在和郭碧婷恩爱到极点了](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E8%AF%B4%E7%8E%B0%E5%9C%A8%E5%92%8C%E9%83%AD%E7%A2%A7%E5%A9%B7%E6%81%A9%E7%88%B1%E5%88%B0%E6%9E%81%E7%82%B9%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
 3. [春天的浪漫是花花给的](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E7%9A%84%E6%B5%AA%E6%BC%AB%E6%98%AF%E8%8A%B1%E8%8A%B1%E7%BB%99%E7%9A%84%23&t=31&band_rank=3&Refer=top)<br />
 4. [韩国第一夫人消失100天非常不寻常](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E6%B6%88%E5%A4%B1100%E5%A4%A9%E9%9D%9E%E5%B8%B8%E4%B8%8D%E5%AF%BB%E5%B8%B8%23&t=31&band_rank=4&Refer=top)<br />
-5. [林更新退出九亿梦影视公司](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E9%80%80%E5%87%BA%E4%B9%9D%E4%BA%BF%E6%A2%A6%E5%BD%B1%E8%A7%86%E5%85%AC%E5%8F%B8%23&t=31&band_rank=5&Refer=top)<br />
-6. [多校呼吁毕业生不要只盯着考研考公](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E7%9B%AF%E7%9D%80%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%23&t=31&band_rank=6&Refer=top)<br />
+5. [多校呼吁毕业生不要只盯着考研考公](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E7%9B%AF%E7%9D%80%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%23&t=31&band_rank=5&Refer=top)<br />
+6. [林更新退出九亿梦影视公司](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E9%80%80%E5%87%BA%E4%B9%9D%E4%BA%BF%E6%A2%A6%E5%BD%B1%E8%A7%86%E5%85%AC%E5%8F%B8%23&t=31&band_rank=6&Refer=top)<br />
 7. [Kimi每天获客成本超20万元](https://s.weibo.com/weibo?q=%23Kimi%E6%AF%8F%E5%A4%A9%E8%8E%B7%E5%AE%A2%E6%88%90%E6%9C%AC%E8%B6%8520%E4%B8%87%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
 8. [霉霉85亿身家首登胡润富豪榜](https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%8985%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%A6%96%E7%99%BB%E8%83%A1%E6%B6%A6%E5%AF%8C%E8%B1%AA%E6%A6%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [张艺兴女团成员正面照](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E6%AD%A3%E9%9D%A2%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [迪丽热巴首位破3000w点赞女明星](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%A6%96%E4%BD%8D%E7%A0%B43000w%E7%82%B9%E8%B5%9E%E5%A5%B3%E6%98%8E%E6%98%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
