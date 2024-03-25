@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 17:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 17:16:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [大地磁暴北方多地或能看到极光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E6%88%96%E8%83%BD%E7%9C%8B%E5%88%B0%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春回大地山河秀](https://www.baidu.com/s?wd=%E6%98%A5%E5%9B%9E%E5%A4%A7%E5%9C%B0%E5%B1%B1%E6%B2%B3%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [郭德纲直播曹云金狂刷礼物](https://www.baidu.com/s?wd=%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%9B%B4%E6%92%AD%E6%9B%B9%E4%BA%91%E9%87%91%E7%8B%82%E5%88%B7%E7%A4%BC%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“宝马女”谈坐在自行车上哭](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%9D%E9%A9%AC%E5%A5%B3%E2%80%9D%E8%B0%88%E5%9D%90%E5%9C%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E4%B8%8A%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [Kimi每天获客成本超20万元](https://www.baidu.com/s?wd=Kimi%E6%AF%8F%E5%A4%A9%E8%8E%B7%E5%AE%A2%E6%88%90%E6%9C%AC%E8%B6%8520%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#烈焰#](https://www.baidu.com/s?wd=%23%E7%83%88%E7%84%B0%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [流浪画家考上大学被顶替？假的](https://www.baidu.com/s?wd=%E6%B5%81%E6%B5%AA%E7%94%BB%E5%AE%B6%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E8%A2%AB%E9%A1%B6%E6%9B%BF%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [大地磁暴北方多地或能看到极光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E6%88%96%E8%83%BD%E7%9C%8B%E5%88%B0%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春回大地山河秀](https://www.baidu.com/s?wd=%E6%98%A5%E5%9B%9E%E5%A4%A7%E5%9C%B0%E5%B1%B1%E6%B2%B3%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [郭德纲直播曹云金狂刷礼物](https://www.baidu.com/s?wd=%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%9B%B4%E6%92%AD%E6%9B%B9%E4%BA%91%E9%87%91%E7%8B%82%E5%88%B7%E7%A4%BC%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [“宝马女”谈坐在自行车上哭](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%9D%E9%A9%AC%E5%A5%B3%E2%80%9D%E8%B0%88%E5%9D%90%E5%9C%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E4%B8%8A%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [Kimi每天获客成本超20万元](https://www.baidu.com/s?wd=Kimi%E6%AF%8F%E5%A4%A9%E8%8E%B7%E5%AE%A2%E6%88%90%E6%9C%AC%E8%B6%8520%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#烈焰#](https://www.baidu.com/s?wd=%23%E7%83%88%E7%84%B0%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [流浪画家考上大学被顶替？假的](https://www.baidu.com/s?wd=%E6%B5%81%E6%B5%AA%E7%94%BB%E5%AE%B6%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E8%A2%AB%E9%A1%B6%E6%9B%BF%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
