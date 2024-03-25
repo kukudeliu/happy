@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 19:03:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 19:04:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [中籍邮轮遭胡塞武装袭击？中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E7%B1%8D%E9%82%AE%E8%BD%AE%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王树国任福耀科技大学校长](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E4%BB%BB%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [公办高中教师招聘薪资1000以下](https://www.baidu.com/s?wd=%E5%85%AC%E5%8A%9E%E9%AB%98%E4%B8%AD%E6%95%99%E5%B8%88%E6%8B%9B%E8%81%98%E8%96%AA%E8%B5%841000%E4%BB%A5%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [#烈焰#](https://www.baidu.com/s?wd=%23%E7%83%88%E7%84%B0%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人开始整顿自己婚礼](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E8%87%AA%E5%B7%B1%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [农村出现医保“退保潮”系谣言](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E5%87%BA%E7%8E%B0%E5%8C%BB%E4%BF%9D%E2%80%9C%E9%80%80%E4%BF%9D%E6%BD%AE%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [中籍邮轮遭胡塞武装袭击？中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E7%B1%8D%E9%82%AE%E8%BD%AE%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王树国任福耀科技大学校长](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E4%BB%BB%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [公办高中教师招聘薪资1000以下](https://www.baidu.com/s?wd=%E5%85%AC%E5%8A%9E%E9%AB%98%E4%B8%AD%E6%95%99%E5%B8%88%E6%8B%9B%E8%81%98%E8%96%AA%E8%B5%841000%E4%BB%A5%E4%B8%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [#烈焰#](https://www.baidu.com/s?wd=%23%E7%83%88%E7%84%B0%23&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [年轻人开始整顿自己婚礼](https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E8%87%AA%E5%B7%B1%E5%A9%9A%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [农村出现医保“退保潮”系谣言](https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E5%87%BA%E7%8E%B0%E5%8C%BB%E4%BF%9D%E2%80%9C%E9%80%80%E4%BF%9D%E6%BD%AE%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
