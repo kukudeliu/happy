@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 15:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 15:44:01</h4></div>
 
 > 微博  
 
@@ -6,8 +6,8 @@
 2. [英媒指控中国炒作凯特王妃消失](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AA%92%E6%8C%87%E6%8E%A7%E4%B8%AD%E5%9B%BD%E7%82%92%E4%BD%9C%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%B6%88%E5%A4%B1%23&t=31&band_rank=2&Refer=top)<br />
 3. [春天的浪漫是花花给的](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E7%9A%84%E6%B5%AA%E6%BC%AB%E6%98%AF%E8%8A%B1%E8%8A%B1%E7%BB%99%E7%9A%84%23&t=31&band_rank=3&Refer=top)<br />
 4. [王鸥复工身材状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E5%A4%8D%E5%B7%A5%E8%BA%AB%E6%9D%90%E7%8A%B6%E6%80%81%23&t=31&band_rank=4&Refer=top)<br />
-5. [天官赐福解锁](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E8%A7%A3%E9%94%81&t=31&band_rank=5&Refer=top)<br />
-6. [雷军称小米最恨品牌溢价](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%E6%9C%80%E6%81%A8%E5%93%81%E7%89%8C%E6%BA%A2%E4%BB%B7%23&t=31&band_rank=6&Refer=top)<br />
+5. [雷军称小米最恨品牌溢价](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%E6%9C%80%E6%81%A8%E5%93%81%E7%89%8C%E6%BA%A2%E4%BB%B7%23&t=31&band_rank=5&Refer=top)<br />
+6. [天官赐福解锁](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E8%A7%A3%E9%94%81&t=31&band_rank=6&Refer=top)<br />
 7. [多校呼吁毕业生不要只盯着考研考公](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E7%9B%AF%E7%9D%80%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%23&t=31&band_rank=7&Refer=top)<br />
 8. [向佐说现在和郭碧婷恩爱到极点了](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E8%AF%B4%E7%8E%B0%E5%9C%A8%E5%92%8C%E9%83%AD%E7%A2%A7%E5%A9%B7%E6%81%A9%E7%88%B1%E5%88%B0%E6%9E%81%E7%82%B9%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
 9. [迪丽热巴首位破3000w点赞女明星](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%A6%96%E4%BD%8D%E7%A0%B43000w%E7%82%B9%E8%B5%9E%E5%A5%B3%E6%98%8E%E6%98%9F%23&t=31&band_rank=9&Refer=top)<br />
@@ -22,8 +22,8 @@
 3. [大地磁暴北方多地或能看到极光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E6%88%96%E8%83%BD%E7%9C%8B%E5%88%B0%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春日中国活力无限](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5%E4%B8%AD%E5%9B%BD%E6%B4%BB%E5%8A%9B%E6%97%A0%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [幼儿园老师对男童打头踩脸被开除](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E5%AF%B9%E7%94%B7%E7%AB%A5%E6%89%93%E5%A4%B4%E8%B8%A9%E8%84%B8%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [学区房断崖下跌 有人半年亏百万](https://www.baidu.com/s?wd=%E5%AD%A6%E5%8C%BA%E6%88%BF%E6%96%AD%E5%B4%96%E4%B8%8B%E8%B7%8C+%E6%9C%89%E4%BA%BA%E5%8D%8A%E5%B9%B4%E4%BA%8F%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [学区房断崖下跌 有人半年亏百万](https://www.baidu.com/s?wd=%E5%AD%A6%E5%8C%BA%E6%88%BF%E6%96%AD%E5%B4%96%E4%B8%8B%E8%B7%8C+%E6%9C%89%E4%BA%BA%E5%8D%8A%E5%B9%B4%E4%BA%8F%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#烈焰#](https://www.baidu.com/s?wd=%23%E7%83%88%E7%84%B0%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [流浪画家考上大学被顶替？假的](https://www.baidu.com/s?wd=%E6%B5%81%E6%B5%AA%E7%94%BB%E5%AE%B6%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E8%A2%AB%E9%A1%B6%E6%9B%BF%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [大地磁暴北方多地或能看到极光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E6%88%96%E8%83%BD%E7%9C%8B%E5%88%B0%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春日中国活力无限](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5%E4%B8%AD%E5%9B%BD%E6%B4%BB%E5%8A%9B%E6%97%A0%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [幼儿园老师对男童打头踩脸被开除](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E5%AF%B9%E7%94%B7%E7%AB%A5%E6%89%93%E5%A4%B4%E8%B8%A9%E8%84%B8%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [学区房断崖下跌 有人半年亏百万](https://www.baidu.com/s?wd=%E5%AD%A6%E5%8C%BA%E6%88%BF%E6%96%AD%E5%B4%96%E4%B8%8B%E8%B7%8C+%E6%9C%89%E4%BA%BA%E5%8D%8A%E5%B9%B4%E4%BA%8F%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [学区房断崖下跌 有人半年亏百万](https://www.baidu.com/s?wd=%E5%AD%A6%E5%8C%BA%E6%88%BF%E6%96%AD%E5%B4%96%E4%B8%8B%E8%B7%8C+%E6%9C%89%E4%BA%BA%E5%8D%8A%E5%B9%B4%E4%BA%8F%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#烈焰#](https://www.baidu.com/s?wd=%23%E7%83%88%E7%84%B0%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [流浪画家考上大学被顶替？假的](https://www.baidu.com/s?wd=%E6%B5%81%E6%B5%AA%E7%94%BB%E5%AE%B6%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E8%A2%AB%E9%A1%B6%E6%9B%BF%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
