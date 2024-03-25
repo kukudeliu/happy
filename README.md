@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 14:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 14:07:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [韩国第一夫人消失100天非常不寻常](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E6%B6%88%E5%A4%B1100%E5%A4%A9%E9%9D%9E%E5%B8%B8%E4%B8%8D%E5%AF%BB%E5%B8%B8%23&t=31&band_rank=4&Refer=top)<br />
 5. [林更新退出九亿梦影视公司](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E9%80%80%E5%87%BA%E4%B9%9D%E4%BA%BF%E6%A2%A6%E5%BD%B1%E8%A7%86%E5%85%AC%E5%8F%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [Kimi每天获客成本超20万元](https://s.weibo.com/weibo?q=%23Kimi%E6%AF%8F%E5%A4%A9%E8%8E%B7%E5%AE%A2%E6%88%90%E6%9C%AC%E8%B6%8520%E4%B8%87%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
-7. [霉霉85亿身家首登胡润富豪榜](https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%8985%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%A6%96%E7%99%BB%E8%83%A1%E6%B6%A6%E5%AF%8C%E8%B1%AA%E6%A6%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [张艺兴女团成员正面照](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E6%AD%A3%E9%9D%A2%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [多校呼吁毕业生不要只盯着考研考公](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E7%9B%AF%E7%9D%80%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%23&t=31&band_rank=9&Refer=top)<br />
+7. [多校呼吁毕业生不要只盯着考研考公](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E7%9B%AF%E7%9D%80%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%23&t=31&band_rank=7&Refer=top)<br />
+8. [霉霉85亿身家首登胡润富豪榜](https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%8985%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%A6%96%E7%99%BB%E8%83%A1%E6%B6%A6%E5%AF%8C%E8%B1%AA%E6%A6%9C%23&t=31&band_rank=8&Refer=top)<br />
+9. [张艺兴女团成员正面照](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E6%AD%A3%E9%9D%A2%E7%85%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
