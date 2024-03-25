@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 13:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 13:55:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [Kimi每天获客成本超20万元](https://s.weibo.com/weibo?q=%23Kimi%E6%AF%8F%E5%A4%A9%E8%8E%B7%E5%AE%A2%E6%88%90%E6%9C%AC%E8%B6%8520%E4%B8%87%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
 5. [林更新退出九亿梦影视公司](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E9%80%80%E5%87%BA%E4%B9%9D%E4%BA%BF%E6%A2%A6%E5%BD%B1%E8%A7%86%E5%85%AC%E5%8F%B8%23&t=31&band_rank=5&Refer=top)<br />
 6. [霉霉85亿身家首登胡润富豪榜](https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%8985%E4%BA%BF%E8%BA%AB%E5%AE%B6%E9%A6%96%E7%99%BB%E8%83%A1%E6%B6%A6%E5%AF%8C%E8%B1%AA%E6%A6%9C%23&t=31&band_rank=6&Refer=top)<br />
-7. [张艺兴女团成员正面照](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E6%AD%A3%E9%9D%A2%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [警方已介入幼儿园老师打孩子头并踩脸](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B7%B2%E4%BB%8B%E5%85%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E6%89%93%E5%AD%A9%E5%AD%90%E5%A4%B4%E5%B9%B6%E8%B8%A9%E8%84%B8%23&t=31&band_rank=8&Refer=top)<br />
+7. [警方已介入幼儿园老师打孩子头并踩脸](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B7%B2%E4%BB%8B%E5%85%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E6%89%93%E5%AD%A9%E5%AD%90%E5%A4%B4%E5%B9%B6%E8%B8%A9%E8%84%B8%23&t=31&band_rank=7&Refer=top)<br />
+8. [张艺兴女团成员正面照](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E6%AD%A3%E9%9D%A2%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
 9. [百度将为国行iPhone16提供AI功能](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E5%B0%86%E4%B8%BA%E5%9B%BD%E8%A1%8CiPhone16%E6%8F%90%E4%BE%9BAI%E5%8A%9F%E8%83%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
