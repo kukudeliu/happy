@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 16:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 16:55:01</h4></div>
 
 > 微博  
 
-1. [王鸥复工身材状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E5%A4%8D%E5%B7%A5%E8%BA%AB%E6%9D%90%E7%8A%B6%E6%80%81%23&t=31&band_rank=1&Refer=top)<br />
-2. [减肥期间正确称体重的方法](https://s.weibo.com/weibo?q=%E5%87%8F%E8%82%A5%E6%9C%9F%E9%97%B4%E6%AD%A3%E7%A1%AE%E7%A7%B0%E4%BD%93%E9%87%8D%E7%9A%84%E6%96%B9%E6%B3%95&t=31&band_rank=2&Refer=top)<br />
+1. [减肥期间正确称体重的方法](https://s.weibo.com/weibo?q=%E5%87%8F%E8%82%A5%E6%9C%9F%E9%97%B4%E6%AD%A3%E7%A1%AE%E7%A7%B0%E4%BD%93%E9%87%8D%E7%9A%84%E6%96%B9%E6%B3%95&t=31&band_rank=1&Refer=top)<br />
+2. [王鸥复工身材状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E5%A4%8D%E5%B7%A5%E8%BA%AB%E6%9D%90%E7%8A%B6%E6%80%81%23&t=31&band_rank=2&Refer=top)<br />
 3. [这个超级工程用到了海上巨型滑梯](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E7%94%A8%E5%88%B0%E4%BA%86%E6%B5%B7%E4%B8%8A%E5%B7%A8%E5%9E%8B%E6%BB%91%E6%A2%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [向佐荧幕初吻给了阿娇](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E8%8D%A7%E5%B9%95%E5%88%9D%E5%90%BB%E7%BB%99%E4%BA%86%E9%98%BF%E5%A8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [翟欣欣或将获刑10年以上](https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%88%96%E5%B0%86%E8%8E%B7%E5%88%9110%E5%B9%B4%E4%BB%A5%E4%B8%8A%23&t=31&band_rank=5&Refer=top)<br />
