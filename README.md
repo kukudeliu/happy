@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 19:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 19:42:02</h4></div>
 
 > 微博  
 
@@ -18,8 +18,8 @@
 > 百度  
 
 1. [总书记的一周](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [“索要千万逼死老公”翟欣欣认罪](https://www.baidu.com/s?wd=%E2%80%9C%E7%B4%A2%E8%A6%81%E5%8D%83%E4%B8%87%E9%80%BC%E6%AD%BB%E8%80%81%E5%85%AC%E2%80%9D%E7%BF%9F%E6%AC%A3%E6%AC%A3%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [“宝马女”谈坐在自行车上哭](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%9D%E9%A9%AC%E5%A5%B3%E2%80%9D%E8%B0%88%E5%9D%90%E5%9C%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E4%B8%8A%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [“宝马女”谈坐在自行车上哭](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%9D%E9%A9%AC%E5%A5%B3%E2%80%9D%E8%B0%88%E5%9D%90%E5%9C%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E4%B8%8A%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [身份证号被恶意传播 樊振东维权](https://www.baidu.com/s?wd=%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E8%A2%AB%E6%81%B6%E6%84%8F%E4%BC%A0%E6%92%AD+%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%BB%B4%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春回大地山河秀](https://www.baidu.com/s?wd=%E6%98%A5%E5%9B%9E%E5%A4%A7%E5%9C%B0%E5%B1%B1%E6%B2%B3%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中籍邮轮遭胡塞武装袭击？中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E7%B1%8D%E9%82%AE%E8%BD%AE%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王树国任福耀科技大学校长](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E4%BB%BB%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -30,8 +30,8 @@
 > 哔哩哔哩  
 
 1. [总书记的一周](https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%B8%80%E5%91%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [“索要千万逼死老公”翟欣欣认罪](https://www.baidu.com/s?wd=%E2%80%9C%E7%B4%A2%E8%A6%81%E5%8D%83%E4%B8%87%E9%80%BC%E6%AD%BB%E8%80%81%E5%85%AC%E2%80%9D%E7%BF%9F%E6%AC%A3%E6%AC%A3%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [“宝马女”谈坐在自行车上哭](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%9D%E9%A9%AC%E5%A5%B3%E2%80%9D%E8%B0%88%E5%9D%90%E5%9C%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E4%B8%8A%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [“宝马女”谈坐在自行车上哭](https://www.baidu.com/s?wd=%E2%80%9C%E5%AE%9D%E9%A9%AC%E5%A5%B3%E2%80%9D%E8%B0%88%E5%9D%90%E5%9C%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E4%B8%8A%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [身份证号被恶意传播 樊振东维权](https://www.baidu.com/s?wd=%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E8%A2%AB%E6%81%B6%E6%84%8F%E4%BC%A0%E6%92%AD+%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%BB%B4%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春回大地山河秀](https://www.baidu.com/s?wd=%E6%98%A5%E5%9B%9E%E5%A4%A7%E5%9C%B0%E5%B1%B1%E6%B2%B3%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [中籍邮轮遭胡塞武装袭击？中方回应](https://www.baidu.com/s?wd=%E4%B8%AD%E7%B1%8D%E9%82%AE%E8%BD%AE%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王树国任福耀科技大学校长](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E4%BB%BB%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
