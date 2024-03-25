@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 15:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 15:10:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [郭德纲直播首秀曹云金狂刷礼物](https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%9B%B4%E6%92%AD%E9%A6%96%E7%A7%80%E6%9B%B9%E4%BA%91%E9%87%91%E7%8B%82%E5%88%B7%E7%A4%BC%E7%89%A9%23&t=31&band_rank=5&Refer=top)<br />
 6. [迪丽热巴首位破3000w点赞女明星](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%A6%96%E4%BD%8D%E7%A0%B43000w%E7%82%B9%E8%B5%9E%E5%A5%B3%E6%98%8E%E6%98%9F%23&t=31&band_rank=6&Refer=top)<br />
 7. [林更新退出九亿梦影视公司](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E9%80%80%E5%87%BA%E4%B9%9D%E4%BA%BF%E6%A2%A6%E5%BD%B1%E8%A7%86%E5%85%AC%E5%8F%B8%23&t=31&band_rank=7&Refer=top)<br />
-8. [韩国第一夫人消失100天非常不寻常](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E6%B6%88%E5%A4%B1100%E5%A4%A9%E9%9D%9E%E5%B8%B8%E4%B8%8D%E5%AF%BB%E5%B8%B8%23&t=31&band_rank=8&Refer=top)<br />
+8. [雷军称小米最恨品牌溢价](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%E6%9C%80%E6%81%A8%E5%93%81%E7%89%8C%E6%BA%A2%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
