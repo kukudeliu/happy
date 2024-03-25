@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 16:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 16:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [英媒指控中国炒作凯特王妃消失](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AA%92%E6%8C%87%E6%8E%A7%E4%B8%AD%E5%9B%BD%E7%82%92%E4%BD%9C%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%B6%88%E5%A4%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [向佐荧幕初吻给了阿娇](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E8%8D%A7%E5%B9%95%E5%88%9D%E5%90%BB%E7%BB%99%E4%BA%86%E9%98%BF%E5%A8%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [天官赐福解锁](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E8%A7%A3%E9%94%81&t=31&band_rank=8&Refer=top)<br />
-9. [雷军称小米最恨品牌溢价](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%E6%9C%80%E6%81%A8%E5%93%81%E7%89%8C%E6%BA%A2%E4%BB%B7%23&t=31&band_rank=9&Refer=top)<br />
+9. [语文就适合晚上考](https://s.weibo.com/weibo?q=%23%E8%AF%AD%E6%96%87%E5%B0%B1%E9%80%82%E5%90%88%E6%99%9A%E4%B8%8A%E8%80%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
