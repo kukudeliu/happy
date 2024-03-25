@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 16:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 16:57:02</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [“索要千万逼死老公”翟欣欣认罪](https://www.baidu.com/s?wd=%E2%80%9C%E7%B4%A2%E8%A6%81%E5%8D%83%E4%B8%87%E9%80%BC%E6%AD%BB%E8%80%81%E5%85%AC%E2%80%9D%E7%BF%9F%E6%AC%A3%E6%AC%A3%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [大地磁暴北方多地或能看到极光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E6%88%96%E8%83%BD%E7%9C%8B%E5%88%B0%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春回大地山河秀](https://www.baidu.com/s?wd=%E6%98%A5%E5%9B%9E%E5%A4%A7%E5%9C%B0%E5%B1%B1%E6%B2%B3%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [幼儿园老师对男童打头踩脸被开除](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E5%AF%B9%E7%94%B7%E7%AB%A5%E6%89%93%E5%A4%B4%E8%B8%A9%E8%84%B8%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [郭德纲直播曹云金狂刷礼物](https://www.baidu.com/s?wd=%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%9B%B4%E6%92%AD%E6%9B%B9%E4%BA%91%E9%87%91%E7%8B%82%E5%88%B7%E7%A4%BC%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [Kimi每天获客成本超20万元](https://www.baidu.com/s?wd=Kimi%E6%AF%8F%E5%A4%A9%E8%8E%B7%E5%AE%A2%E6%88%90%E6%9C%AC%E8%B6%8520%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#烈焰#](https://www.baidu.com/s?wd=%23%E7%83%88%E7%84%B0%23&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [“索要千万逼死老公”翟欣欣认罪](https://www.baidu.com/s?wd=%E2%80%9C%E7%B4%A2%E8%A6%81%E5%8D%83%E4%B8%87%E9%80%BC%E6%AD%BB%E8%80%81%E5%85%AC%E2%80%9D%E7%BF%9F%E6%AC%A3%E6%AC%A3%E8%AE%A4%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [大地磁暴北方多地或能看到极光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E6%88%96%E8%83%BD%E7%9C%8B%E5%88%B0%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春回大地山河秀](https://www.baidu.com/s?wd=%E6%98%A5%E5%9B%9E%E5%A4%A7%E5%9C%B0%E5%B1%B1%E6%B2%B3%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [幼儿园老师对男童打头踩脸被开除](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E5%AF%B9%E7%94%B7%E7%AB%A5%E6%89%93%E5%A4%B4%E8%B8%A9%E8%84%B8%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [郭德纲直播曹云金狂刷礼物](https://www.baidu.com/s?wd=%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%9B%B4%E6%92%AD%E6%9B%B9%E4%BA%91%E9%87%91%E7%8B%82%E5%88%B7%E7%A4%BC%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [Kimi每天获客成本超20万元](https://www.baidu.com/s?wd=Kimi%E6%AF%8F%E5%A4%A9%E8%8E%B7%E5%AE%A2%E6%88%90%E6%9C%AC%E8%B6%8520%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#烈焰#](https://www.baidu.com/s?wd=%23%E7%83%88%E7%84%B0%23&sa=fyb_news&rsv_dl=fyb_news)<br />
