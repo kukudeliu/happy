@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 11:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 11:15:01</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [如何因地制宜发展新质生产力](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E5%9B%A0%E5%9C%B0%E5%88%B6%E5%AE%9C%E5%8F%91%E5%B1%95%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄罗斯无法判处恐怖分子死刑](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%97%A0%E6%B3%95%E5%88%A4%E5%A4%84%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国第一夫人已消失100天](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E5%B7%B2%E6%B6%88%E5%A4%B1100%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [镇政府回应村民在景区路口设卡收费](https://www.baidu.com/s?wd=%E9%95%87%E6%94%BF%E5%BA%9C%E5%9B%9E%E5%BA%94%E6%9D%91%E6%B0%91%E5%9C%A8%E6%99%AF%E5%8C%BA%E8%B7%AF%E5%8F%A3%E8%AE%BE%E5%8D%A1%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [初中生免三考直接读985本科硕士](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E5%85%8D%E4%B8%89%E8%80%83%E7%9B%B4%E6%8E%A5%E8%AF%BB985%E6%9C%AC%E7%A7%91%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [初中生免三考直接读985本科硕士](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E5%85%8D%E4%B8%89%E8%80%83%E7%9B%B4%E6%8E%A5%E8%AF%BB985%E6%9C%AC%E7%A7%91%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台军装甲车为避自行车撞倒路灯](https://www.baidu.com/s?wd=%E5%8F%B0%E5%86%9B%E8%A3%85%E7%94%B2%E8%BD%A6%E4%B8%BA%E9%81%BF%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%92%9E%E5%80%92%E8%B7%AF%E7%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣67岁老人讨薪被打](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A367%E5%B2%81%E8%80%81%E4%BA%BA%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [如何因地制宜发展新质生产力](https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E5%9B%A0%E5%9C%B0%E5%88%B6%E5%AE%9C%E5%8F%91%E5%B1%95%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [俄罗斯无法判处恐怖分子死刑](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%97%A0%E6%B3%95%E5%88%A4%E5%A4%84%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [韩国第一夫人已消失100天](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E5%B7%B2%E6%B6%88%E5%A4%B1100%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [镇政府回应村民在景区路口设卡收费](https://www.baidu.com/s?wd=%E9%95%87%E6%94%BF%E5%BA%9C%E5%9B%9E%E5%BA%94%E6%9D%91%E6%B0%91%E5%9C%A8%E6%99%AF%E5%8C%BA%E8%B7%AF%E5%8F%A3%E8%AE%BE%E5%8D%A1%E6%94%B6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [初中生免三考直接读985本科硕士](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E5%85%8D%E4%B8%89%E8%80%83%E7%9B%B4%E6%8E%A5%E8%AF%BB985%E6%9C%AC%E7%A7%91%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [初中生免三考直接读985本科硕士](https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E5%85%8D%E4%B8%89%E8%80%83%E7%9B%B4%E6%8E%A5%E8%AF%BB985%E6%9C%AC%E7%A7%91%E7%A1%95%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [台军装甲车为避自行车撞倒路灯](https://www.baidu.com/s?wd=%E5%8F%B0%E5%86%9B%E8%A3%85%E7%94%B2%E8%BD%A6%E4%B8%BA%E9%81%BF%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%92%9E%E5%80%92%E8%B7%AF%E7%81%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [警方辟谣67岁老人讨薪被打](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A367%E5%B2%81%E8%80%81%E4%BA%BA%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%89%93&sa=fyb_news&rsv_dl=fyb_news)<br />
