@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 15:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 15:49:01</h4></div>
 
 > 微博  
 
@@ -22,8 +22,8 @@
 3. [大地磁暴北方多地或能看到极光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E6%88%96%E8%83%BD%E7%9C%8B%E5%88%B0%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春日中国活力无限](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5%E4%B8%AD%E5%9B%BD%E6%B4%BB%E5%8A%9B%E6%97%A0%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [幼儿园老师对男童打头踩脸被开除](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E5%AF%B9%E7%94%B7%E7%AB%A5%E6%89%93%E5%A4%B4%E8%B8%A9%E8%84%B8%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [学区房断崖下跌 有人半年亏百万](https://www.baidu.com/s?wd=%E5%AD%A6%E5%8C%BA%E6%88%BF%E6%96%AD%E5%B4%96%E4%B8%8B%E8%B7%8C+%E6%9C%89%E4%BA%BA%E5%8D%8A%E5%B9%B4%E4%BA%8F%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [Kimi每天获客成本超20万元](https://www.baidu.com/s?wd=Kimi%E6%AF%8F%E5%A4%A9%E8%8E%B7%E5%AE%A2%E6%88%90%E6%9C%AC%E8%B6%8520%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#烈焰#](https://www.baidu.com/s?wd=%23%E7%83%88%E7%84%B0%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [流浪画家考上大学被顶替？假的](https://www.baidu.com/s?wd=%E6%B5%81%E6%B5%AA%E7%94%BB%E5%AE%B6%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E8%A2%AB%E9%A1%B6%E6%9B%BF%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -34,7 +34,7 @@
 3. [大地磁暴北方多地或能看到极光](https://www.baidu.com/s?wd=%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E6%88%96%E8%83%BD%E7%9C%8B%E5%88%B0%E6%9E%81%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [春日中国活力无限](https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5%E4%B8%AD%E5%9B%BD%E6%B4%BB%E5%8A%9B%E6%97%A0%E9%99%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [幼儿园老师对男童打头踩脸被开除](https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E5%AF%B9%E7%94%B7%E7%AB%A5%E6%89%93%E5%A4%B4%E8%B8%A9%E8%84%B8%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [学区房断崖下跌 有人半年亏百万](https://www.baidu.com/s?wd=%E5%AD%A6%E5%8C%BA%E6%88%BF%E6%96%AD%E5%B4%96%E4%B8%8B%E8%B7%8C+%E6%9C%89%E4%BA%BA%E5%8D%8A%E5%B9%B4%E4%BA%8F%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [90后有高马尾10后有鲶鱼须](https://www.baidu.com/s?wd=90%E5%90%8E%E6%9C%89%E9%AB%98%E9%A9%AC%E5%B0%BE10%E5%90%8E%E6%9C%89%E9%B2%B6%E9%B1%BC%E9%A1%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [Kimi每天获客成本超20万元](https://www.baidu.com/s?wd=Kimi%E6%AF%8F%E5%A4%A9%E8%8E%B7%E5%AE%A2%E6%88%90%E6%9C%AC%E8%B6%8520%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#烈焰#](https://www.baidu.com/s?wd=%23%E7%83%88%E7%84%B0%23&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [流浪画家考上大学被顶替？假的](https://www.baidu.com/s?wd=%E6%B5%81%E6%B5%AA%E7%94%BB%E5%AE%B6%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E8%A2%AB%E9%A1%B6%E6%9B%BF%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
