@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 18:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 18:50:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=5&Refer=top)<br />
 6. [公办高中教师招聘薪资1000以下](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%9E%E9%AB%98%E4%B8%AD%E6%95%99%E5%B8%88%E6%8B%9B%E8%81%98%E8%96%AA%E8%B5%841000%E4%BB%A5%E4%B8%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [外交部回应中国籍油轮遭胡塞武装袭击](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E7%B1%8D%E6%B2%B9%E8%BD%AE%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%23&t=31&band_rank=7&Refer=top)<br />
-8. [UP主吐槽B站装修综艺令其损失百万](https://s.weibo.com/weibo?q=%23UP%E4%B8%BB%E5%90%90%E6%A7%BDB%E7%AB%99%E8%A3%85%E4%BF%AE%E7%BB%BC%E8%89%BA%E4%BB%A4%E5%85%B6%E6%8D%9F%E5%A4%B1%E7%99%BE%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
+8. [大学生借书发现67年前书签](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%80%9F%E4%B9%A6%E5%8F%91%E7%8E%B067%E5%B9%B4%E5%89%8D%E4%B9%A6%E7%AD%BE%23&t=31&band_rank=8&Refer=top)<br />
 9. [治沙工人给沙漠穿上了格子衫](https://s.weibo.com/weibo?q=%23%E6%B2%BB%E6%B2%99%E5%B7%A5%E4%BA%BA%E7%BB%99%E6%B2%99%E6%BC%A0%E7%A9%BF%E4%B8%8A%E4%BA%86%E6%A0%BC%E5%AD%90%E8%A1%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
