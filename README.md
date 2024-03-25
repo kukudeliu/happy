@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 16:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 16:51:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [考研每四位统考生中平均有一人被录取](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%AF%8F%E5%9B%9B%E4%BD%8D%E7%BB%9F%E8%80%83%E7%94%9F%E4%B8%AD%E5%B9%B3%E5%9D%87%E6%9C%89%E4%B8%80%E4%BA%BA%E8%A2%AB%E5%BD%95%E5%8F%96%23&t=31&band_rank=5&Refer=top)<br />
 6. [英媒指控中国炒作凯特王妃消失](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AA%92%E6%8C%87%E6%8E%A7%E4%B8%AD%E5%9B%BD%E7%82%92%E4%BD%9C%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E6%B6%88%E5%A4%B1%23&t=31&band_rank=6&Refer=top)<br />
 7. [翟欣欣或将获刑10年以上](https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%88%96%E5%B0%86%E8%8E%B7%E5%88%9110%E5%B9%B4%E4%BB%A5%E4%B8%8A%23&t=31&band_rank=7&Refer=top)<br />
-8. [天官赐福解锁](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E8%A7%A3%E9%94%81&t=31&band_rank=8&Refer=top)<br />
-9. [警方已介入幼儿园老师打孩子头并踩脸](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B7%B2%E4%BB%8B%E5%85%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E6%89%93%E5%AD%A9%E5%AD%90%E5%A4%B4%E5%B9%B6%E8%B8%A9%E8%84%B8%23&t=31&band_rank=9&Refer=top)<br />
+8. [警方已介入幼儿园老师打孩子头并踩脸](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B7%B2%E4%BB%8B%E5%85%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E6%89%93%E5%AD%A9%E5%AD%90%E5%A4%B4%E5%B9%B6%E8%B8%A9%E8%84%B8%23&t=31&band_rank=8&Refer=top)<br />
+9. [天官赐福解锁](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E8%A7%A3%E9%94%81&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
