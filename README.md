@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 09:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-25 09:39:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [筑牢粮食安全耕基](https://s.weibo.com/weibo?q=%23%E7%AD%91%E7%89%A2%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E8%80%95%E5%9F%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [俄罗斯无法判处恐怖分子死刑](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%97%A0%E6%B3%95%E5%88%A4%E5%A4%84%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E6%AD%BB%E5%88%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [养老金并轨倒计时](https://s.weibo.com/weibo?q=%23%E5%85%BB%E8%80%81%E9%87%91%E5%B9%B6%E8%BD%A8%E5%80%92%E8%AE%A1%E6%97%B6%23&t=31&band_rank=5&Refer=top)<br />
-6. [大地磁暴](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4&t=31&band_rank=6&Refer=top)<br />
-7. [何超莲赵露思合照](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%8E%B2%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%90%88%E7%85%A7%23&t=31&band_rank=7&Refer=top)<br />
-8. [普京含泪为恐袭遇难者点蜡致哀](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%90%AB%E6%B3%AA%E4%B8%BA%E6%81%90%E8%A2%AD%E9%81%87%E9%9A%BE%E8%80%85%E7%82%B9%E8%9C%A1%E8%87%B4%E5%93%80%23&t=31&band_rank=8&Refer=top)<br />
-9. [张杰骨相](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E9%AA%A8%E7%9B%B8%23&t=31&band_rank=9&Refer=top)<br />
+6. [何超莲赵露思合照](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%8E%B2%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%90%88%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
+7. [大地磁暴](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4&t=31&band_rank=7&Refer=top)<br />
+8. [初中生免三考直接读985本科硕士](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E7%94%9F%E5%85%8D%E4%B8%89%E8%80%83%E7%9B%B4%E6%8E%A5%E8%AF%BB985%E6%9C%AC%E7%A7%91%E7%A1%95%E5%A3%AB%23&t=31&band_rank=8&Refer=top)<br />
+9. [普京含泪为恐袭遇难者点蜡致哀](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%90%AB%E6%B3%AA%E4%B8%BA%E6%81%90%E8%A2%AD%E9%81%87%E9%9A%BE%E8%80%85%E7%82%B9%E8%9C%A1%E8%87%B4%E5%93%80%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
