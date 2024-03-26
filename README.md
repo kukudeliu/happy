@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 13:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 13:32:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [双高父母偏信遗传基因17岁儿子身高仅163](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E9%AB%98%E7%88%B6%E6%AF%8D%E5%81%8F%E4%BF%A1%E9%81%97%E4%BC%A0%E5%9F%BA%E5%9B%A017%E5%B2%81%E5%84%BF%E5%AD%90%E8%BA%AB%E9%AB%98%E4%BB%85163%23&t=31&band_rank=2&Refer=top)<br />
 3. [与春日繁花来场浪漫邂逅](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E6%98%A5%E6%97%A5%E7%B9%81%E8%8A%B1%E6%9D%A5%E5%9C%BA%E6%B5%AA%E6%BC%AB%E9%82%82%E9%80%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [跳楼自杀女生生前多次给霸凌者转账](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%9F%E5%89%8D%E5%A4%9A%E6%AC%A1%E7%BB%99%E9%9C%B8%E5%87%8C%E8%80%85%E8%BD%AC%E8%B4%A6%23&t=31&band_rank=4&Refer=top)<br />
-5. [阮经天 我怕老婆](https://s.weibo.com/weibo?q=%E9%98%AE%E7%BB%8F%E5%A4%A9%20%E6%88%91%E6%80%95%E8%80%81%E5%A9%86&t=31&band_rank=5&Refer=top)<br />
-6. [地球出现3小时特大地磁暴](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B03%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%23&t=31&band_rank=6&Refer=top)<br />
+5. [地球出现3小时特大地磁暴](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B03%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%23&t=31&band_rank=5&Refer=top)<br />
+6. [阮经天 我怕老婆](https://s.weibo.com/weibo?q=%E9%98%AE%E7%BB%8F%E5%A4%A9%20%E6%88%91%E6%80%95%E8%80%81%E5%A9%86&t=31&band_rank=6&Refer=top)<br />
 7. [男朋友用我的照片挂数据线](https://s.weibo.com/weibo?q=%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%94%A8%E6%88%91%E7%9A%84%E7%85%A7%E7%89%87%E6%8C%82%E6%95%B0%E6%8D%AE%E7%BA%BF&t=31&band_rank=7&Refer=top)<br />
 8. [奔跑吧12全阵容](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A712%E5%85%A8%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [深圳取消7090政策](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%8F%96%E6%B6%887090%E6%94%BF%E7%AD%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [杜鹃花落作者已被免职](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%B9%83%E8%8A%B1%E8%90%BD%E4%BD%9C%E8%80%85%E5%B7%B2%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
