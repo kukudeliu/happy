@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 17:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 17:05:01</h4></div>
 
 > 微博  
 
-1. [妇产科迎来关停潮](https://s.weibo.com/weibo?q=%23%E5%A6%87%E4%BA%A7%E7%A7%91%E8%BF%8E%E6%9D%A5%E5%85%B3%E5%81%9C%E6%BD%AE%23&t=31&band_rank=1&Refer=top)<br />
-2. [十个勤天郁金香线上开售](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E9%83%81%E9%87%91%E9%A6%99%E7%BA%BF%E4%B8%8A%E5%BC%80%E5%94%AE%23&t=31&band_rank=2&Refer=top)<br />
+1. [十个勤天郁金香线上开售](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E9%83%81%E9%87%91%E9%A6%99%E7%BA%BF%E4%B8%8A%E5%BC%80%E5%94%AE%23&t=31&band_rank=1&Refer=top)<br />
+2. [妇产科迎来关停潮](https://s.weibo.com/weibo?q=%23%E5%A6%87%E4%BA%A7%E7%A7%91%E8%BF%8E%E6%9D%A5%E5%85%B3%E5%81%9C%E6%BD%AE%23&t=31&band_rank=2&Refer=top)<br />
 3. [海基二号海上安装就位](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%9F%BA%E4%BA%8C%E5%8F%B7%E6%B5%B7%E4%B8%8A%E5%AE%89%E8%A3%85%E5%B0%B1%E4%BD%8D%23&t=31&band_rank=3&Refer=top)<br />
 4. [原来是地磁暴 还以为上班上的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9C%B0%E7%A3%81%E6%9A%B4%20%E8%BF%98%E4%BB%A5%E4%B8%BA%E4%B8%8A%E7%8F%AD%E4%B8%8A%E7%9A%84&t=31&band_rank=4&Refer=top)<br />
 5. [胖东来新增10天不开心假](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%B0%E5%A2%9E10%E5%A4%A9%E4%B8%8D%E5%BC%80%E5%BF%83%E5%81%87%23&t=31&band_rank=5&Refer=top)<br />
