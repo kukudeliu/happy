@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 20:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 20:37:01</h4></div>
 
 > 微博  
 
-1. [国足vs新加坡](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E6%96%B0%E5%8A%A0%E5%9D%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [女子怀孕后鼻子变大两倍](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%90%8E%E9%BC%BB%E5%AD%90%E5%8F%98%E5%A4%A7%E4%B8%A4%E5%80%8D%23&t=31&band_rank=2&Refer=top)<br />
+1. [女子怀孕后鼻子变大两倍](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%90%8E%E9%BC%BB%E5%AD%90%E5%8F%98%E5%A4%A7%E4%B8%A4%E5%80%8D%23&t=31&band_rank=1&Refer=top)<br />
+2. [国足vs新加坡](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E6%96%B0%E5%8A%A0%E5%9D%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [春日高铁路线上新伴你走花路](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%97%A5%E9%AB%98%E9%93%81%E8%B7%AF%E7%BA%BF%E4%B8%8A%E6%96%B0%E4%BC%B4%E4%BD%A0%E8%B5%B0%E8%8A%B1%E8%B7%AF%23&t=31&band_rank=3&Refer=top)<br />
 4. [原来是地磁暴 还以为上班上的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9C%B0%E7%A3%81%E6%9A%B4%20%E8%BF%98%E4%BB%A5%E4%B8%BA%E4%B8%8A%E7%8F%AD%E4%B8%8A%E7%9A%84&t=31&band_rank=4&Refer=top)<br />
 5. [巴基斯坦](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&t=31&band_rank=5&Refer=top)<br />
