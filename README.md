@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 10:32:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 10:33:02</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [福建一女生长期遭同学霸凌跳楼身亡](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%A5%B3%E7%94%9F%E9%95%BF%E6%9C%9F%E9%81%AD%E5%90%8C%E5%AD%A6%E9%9C%B8%E5%87%8C%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [房价要触底了吗](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BB%B7%E8%A6%81%E8%A7%A6%E5%BA%95%E4%BA%86%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [陈戌源一审被判无期](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%88%8C%E6%BA%90%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%23&t=31&band_rank=6&Refer=top)<br />
-7. [垫底辣妹将翻拍中国版](https://s.weibo.com/weibo?q=%23%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%A6%B9%E5%B0%86%E7%BF%BB%E6%8B%8D%E4%B8%AD%E5%9B%BD%E7%89%88%23&t=31&band_rank=7&Refer=top)<br />
-8. [地磁暴](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4&t=31&band_rank=8&Refer=top)<br />
-9. [秋瓷炫喝醉被于晓光背上车](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E5%96%9D%E9%86%89%E8%A2%AB%E4%BA%8E%E6%99%93%E5%85%89%E8%83%8C%E4%B8%8A%E8%BD%A6%23&t=31&band_rank=9&Refer=top)<br />
+7. [秋瓷炫喝醉被于晓光背上车](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E5%96%9D%E9%86%89%E8%A2%AB%E4%BA%8E%E6%99%93%E5%85%89%E8%83%8C%E4%B8%8A%E8%BD%A6%23&t=31&band_rank=7&Refer=top)<br />
+8. [垫底辣妹将翻拍中国版](https://s.weibo.com/weibo?q=%23%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%A6%B9%E5%B0%86%E7%BF%BB%E6%8B%8D%E4%B8%AD%E5%9B%BD%E7%89%88%23&t=31&band_rank=8&Refer=top)<br />
+9. [地磁暴](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
