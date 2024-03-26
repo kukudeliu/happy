@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 07:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 07:54:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [专家建议开放国际婚姻 解决剩男问题](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%BC%80%E6%94%BE%E5%9B%BD%E9%99%85%E5%A9%9A%E5%A7%BB+%E8%A7%A3%E5%86%B3%E5%89%A9%E7%94%B7%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [推荐可能认识的人或是一种冒犯](https://www.baidu.com/s?wd=%E6%8E%A8%E8%8D%90%E5%8F%AF%E8%83%BD%E8%AE%A4%E8%AF%86%E7%9A%84%E4%BA%BA%E6%88%96%E6%98%AF%E4%B8%80%E7%A7%8D%E5%86%92%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江苏南通禁止制造、销售冥币](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%80%9A%E7%A6%81%E6%AD%A2%E5%88%B6%E9%80%A0%E3%80%81%E9%94%80%E5%94%AE%E5%86%A5%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [天水20天狂赚近14亿](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B420%E5%A4%A9%E7%8B%82%E8%B5%9A%E8%BF%9114%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武磊登顶世预赛射手榜](https://www.baidu.com/s?wd=%E6%AD%A6%E7%A3%8A%E7%99%BB%E9%A1%B6%E4%B8%96%E9%A2%84%E8%B5%9B%E5%B0%84%E6%89%8B%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州妇儿中心身高普查系谣言](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%A6%87%E5%84%BF%E4%B8%AD%E5%BF%83%E8%BA%AB%E9%AB%98%E6%99%AE%E6%9F%A5%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [专家建议开放国际婚姻 解决剩男问题](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%BC%80%E6%94%BE%E5%9B%BD%E9%99%85%E5%A9%9A%E5%A7%BB+%E8%A7%A3%E5%86%B3%E5%89%A9%E7%94%B7%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [推荐可能认识的人或是一种冒犯](https://www.baidu.com/s?wd=%E6%8E%A8%E8%8D%90%E5%8F%AF%E8%83%BD%E8%AE%A4%E8%AF%86%E7%9A%84%E4%BA%BA%E6%88%96%E6%98%AF%E4%B8%80%E7%A7%8D%E5%86%92%E7%8A%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [江苏南通禁止制造、销售冥币](https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%80%9A%E7%A6%81%E6%AD%A2%E5%88%B6%E9%80%A0%E3%80%81%E9%94%80%E5%94%AE%E5%86%A5%E5%B8%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [天水20天狂赚近14亿](https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%B420%E5%A4%A9%E7%8B%82%E8%B5%9A%E8%BF%9114%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [武磊登顶世预赛射手榜](https://www.baidu.com/s?wd=%E6%AD%A6%E7%A3%8A%E7%99%BB%E9%A1%B6%E4%B8%96%E9%A2%84%E8%B5%9B%E5%B0%84%E6%89%8B%E6%A6%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [广州妇儿中心身高普查系谣言](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%A6%87%E5%84%BF%E4%B8%AD%E5%BF%83%E8%BA%AB%E9%AB%98%E6%99%AE%E6%9F%A5%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
