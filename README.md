@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 19:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 19:57:01</h4></div>
 
 > 微博  
 
 1. [原来是地磁暴 还以为上班上的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9C%B0%E7%A3%81%E6%9A%B4%20%E8%BF%98%E4%BB%A5%E4%B8%BA%E4%B8%8A%E7%8F%AD%E4%B8%8A%E7%9A%84&t=31&band_rank=1&Refer=top)<br />
-2. [妇产科迎来关停潮](https://s.weibo.com/weibo?q=%23%E5%A6%87%E4%BA%A7%E7%A7%91%E8%BF%8E%E6%9D%A5%E5%85%B3%E5%81%9C%E6%BD%AE%23&t=31&band_rank=2&Refer=top)<br />
+2. [外媒称5名中国公民在巴基斯坦遇袭身亡](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B05%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [海基二号海上安装就位](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%9F%BA%E4%BA%8C%E5%8F%B7%E6%B5%B7%E4%B8%8A%E5%AE%89%E8%A3%85%E5%B0%B1%E4%BD%8D%23&t=31&band_rank=3&Refer=top)<br />
-4. [外媒称5名中国公民在巴基斯坦遇袭身亡](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B05%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
+4. [妇产科迎来关停潮](https://s.weibo.com/weibo?q=%23%E5%A6%87%E4%BA%A7%E7%A7%91%E8%BF%8E%E6%9D%A5%E5%85%B3%E5%81%9C%E6%BD%AE%23&t=31&band_rank=4&Refer=top)<br />
 5. [张艺兴是个考公的好苗子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%98%AF%E4%B8%AA%E8%80%83%E5%85%AC%E7%9A%84%E5%A5%BD%E8%8B%97%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [费启鸣拍的虞书欣](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E5%90%AF%E9%B8%A3%E6%8B%8D%E7%9A%84%E8%99%9E%E4%B9%A6%E6%AC%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [天水20天狂赚近14亿](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B420%E5%A4%A9%E7%8B%82%E8%B5%9A%E8%BF%9114%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
