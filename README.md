@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 15:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 15:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [地球出现3小时特大地磁暴](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B03%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%23&t=31&band_rank=6&Refer=top)<br />
 7. [歌手吹牛老爹涉嫌多起性侵案](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%90%B9%E7%89%9B%E8%80%81%E7%88%B9%E6%B6%89%E5%AB%8C%E5%A4%9A%E8%B5%B7%E6%80%A7%E4%BE%B5%E6%A1%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [成都初三语文试卷被曝美化侵华日军](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%88%9D%E4%B8%89%E8%AF%AD%E6%96%87%E8%AF%95%E5%8D%B7%E8%A2%AB%E6%9B%9D%E7%BE%8E%E5%8C%96%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [晋江教育局通报初中女生坠亡](https://s.weibo.com/weibo?q=%23%E6%99%8B%E6%B1%9F%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%88%9D%E4%B8%AD%E5%A5%B3%E7%94%9F%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [爬山9小时后的宋江](https://s.weibo.com/weibo?q=%E7%88%AC%E5%B1%B19%E5%B0%8F%E6%97%B6%E5%90%8E%E7%9A%84%E5%AE%8B%E6%B1%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
