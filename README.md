@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 14:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 14:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [成都初三语文试卷被曝美化侵华日军](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%88%9D%E4%B8%89%E8%AF%AD%E6%96%87%E8%AF%95%E5%8D%B7%E8%A2%AB%E6%9B%9D%E7%BE%8E%E5%8C%96%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%23&t=31&band_rank=6&Refer=top)<br />
 7. [歌手吹牛老爹涉嫌多起性侵案](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%90%B9%E7%89%9B%E8%80%81%E7%88%B9%E6%B6%89%E5%AB%8C%E5%A4%9A%E8%B5%B7%E6%80%A7%E4%BE%B5%E6%A1%88%23&t=31&band_rank=7&Refer=top)<br />
 8. [奔跑吧12全阵容](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A712%E5%85%A8%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [深圳取消7090政策](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%8F%96%E6%B6%887090%E6%94%BF%E7%AD%96%23&t=31&band_rank=9&Refer=top)<br />
+9. [晋江教育局通报初中女生坠亡](https://s.weibo.com/weibo?q=%23%E6%99%8B%E6%B1%9F%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%88%9D%E4%B8%AD%E5%A5%B3%E7%94%9F%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
