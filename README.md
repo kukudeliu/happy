@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 20:41:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 20:43:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金秀贤主动降薪出演眼泪女王](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E4%B8%BB%E5%8A%A8%E9%99%8D%E8%96%AA%E5%87%BA%E6%BC%94%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [中使馆回应5中国公民巴基斯坦遇袭](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%945%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%81%87%E8%A2%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [张艺兴是个考公的好苗子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%98%AF%E4%B8%AA%E8%80%83%E5%85%AC%E7%9A%84%E5%A5%BD%E8%8B%97%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [外媒称5名中国公民在巴基斯坦遇袭身亡](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B05%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [陶喆无锡 抢票](https://s.weibo.com/weibo?q=%E9%99%B6%E5%96%86%E6%97%A0%E9%94%A1%20%E6%8A%A2%E7%A5%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
