@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 11:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 11:32:01</h4></div>
 
 > 微博  
 
-1. [奔跑吧12官宣](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A712%E5%AE%98%E5%AE%A3%23&t=31&band_rank=1&Refer=top)<br />
-2. [陈戌源一审被判无期](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%88%8C%E6%BA%90%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%23&t=31&band_rank=2&Refer=top)<br />
+1. [陈戌源一审被判无期](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%88%8C%E6%BA%90%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%23&t=31&band_rank=1&Refer=top)<br />
+2. [奔跑吧12官宣](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A712%E5%AE%98%E5%AE%A3%23&t=31&band_rank=2&Refer=top)<br />
 3. [与春日繁花来场浪漫邂逅](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E6%98%A5%E6%97%A5%E7%B9%81%E8%8A%B1%E6%9D%A5%E5%9C%BA%E6%B5%AA%E6%BC%AB%E9%82%82%E9%80%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [秋瓷炫喝醉被于晓光背上车](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E5%96%9D%E9%86%89%E8%A2%AB%E4%BA%8E%E6%99%93%E5%85%89%E8%83%8C%E4%B8%8A%E8%BD%A6%23&t=31&band_rank=4&Refer=top)<br />
 5. [奔跑吧12全阵容](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A712%E5%85%A8%E9%98%B5%E5%AE%B9%23&t=31&band_rank=5&Refer=top)<br />
