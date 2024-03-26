@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 15:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 15:34:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [冰雹过后 蔬菜大棚爆改星空顶](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%B9%E8%BF%87%E5%90%8E+%E8%94%AC%E8%8F%9C%E5%A4%A7%E6%A3%9A%E7%88%86%E6%94%B9%E6%98%9F%E7%A9%BA%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [跳楼自杀女生曾多次给霸凌者转账](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E6%9B%BE%E5%A4%9A%E6%AC%A1%E7%BB%99%E9%9C%B8%E5%87%8C%E8%80%85%E8%BD%AC%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [地球出现3小时特大地磁暴](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B03%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胖东来新增10天不开心假](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%B0%E5%A2%9E10%E5%A4%A9%E4%B8%8D%E5%BC%80%E5%BF%83%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [超4万人观赛国足主场对阵新加坡](https://www.baidu.com/s?wd=%E8%B6%854%E4%B8%87%E4%BA%BA%E8%A7%82%E8%B5%9B%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%9C%BA%E5%AF%B9%E9%98%B5%E6%96%B0%E5%8A%A0%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣重庆车展汽车撞伤5人](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8D%E5%BA%86%E8%BD%A6%E5%B1%95%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BC%A45%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [冰雹过后 蔬菜大棚爆改星空顶](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%B9%E8%BF%87%E5%90%8E+%E8%94%AC%E8%8F%9C%E5%A4%A7%E6%A3%9A%E7%88%86%E6%94%B9%E6%98%9F%E7%A9%BA%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [跳楼自杀女生曾多次给霸凌者转账](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E6%9B%BE%E5%A4%9A%E6%AC%A1%E7%BB%99%E9%9C%B8%E5%87%8C%E8%80%85%E8%BD%AC%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [地球出现3小时特大地磁暴](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B03%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [胖东来新增10天不开心假](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%B0%E5%A2%9E10%E5%A4%A9%E4%B8%8D%E5%BC%80%E5%BF%83%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [超4万人观赛国足主场对阵新加坡](https://www.baidu.com/s?wd=%E8%B6%854%E4%B8%87%E4%BA%BA%E8%A7%82%E8%B5%9B%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%9C%BA%E5%AF%B9%E9%98%B5%E6%96%B0%E5%8A%A0%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣重庆车展汽车撞伤5人](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8D%E5%BA%86%E8%BD%A6%E5%B1%95%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BC%A45%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
