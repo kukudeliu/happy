@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 20:50:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 20:51:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [中使馆回应5中国公民巴基斯坦遇袭](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%945%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%81%87%E8%A2%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [张艺兴是个考公的好苗子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%98%AF%E4%B8%AA%E8%80%83%E5%85%AC%E7%9A%84%E5%A5%BD%E8%8B%97%E5%AD%90%23&t=31&band_rank=7&Refer=top)<br />
 8. [为什么越来越多女性开始单身](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%A5%B3%E6%80%A7%E5%BC%80%E5%A7%8B%E5%8D%95%E8%BA%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [地磁暴 嗜睡](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4%20%E5%97%9C%E7%9D%A1&t=31&band_rank=9&Refer=top)<br />
+9. [叔圈天菜和娃娃菜](https://s.weibo.com/weibo?q=%23%E5%8F%94%E5%9C%88%E5%A4%A9%E8%8F%9C%E5%92%8C%E5%A8%83%E5%A8%83%E8%8F%9C%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
