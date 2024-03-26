@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 20:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 20:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [金秀贤主动降薪出演眼泪女王](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E4%B8%BB%E5%8A%A8%E9%99%8D%E8%96%AA%E5%87%BA%E6%BC%94%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [费启鸣拍的虞书欣](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E5%90%AF%E9%B8%A3%E6%8B%8D%E7%9A%84%E8%99%9E%E4%B9%A6%E6%AC%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [陶喆无锡 抢票](https://s.weibo.com/weibo?q=%E9%99%B6%E5%96%86%E6%97%A0%E9%94%A1%20%E6%8A%A2%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
-9. [天水20天狂赚近14亿](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B420%E5%A4%A9%E7%8B%82%E8%B5%9A%E8%BF%9114%E4%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [中使馆回应5中国公民巴基斯坦遇袭](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%945%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%81%87%E8%A2%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
