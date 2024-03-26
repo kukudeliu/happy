@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 12:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 12:06:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [步步倾心定档](https://s.weibo.com/weibo?q=%23%E6%AD%A5%E6%AD%A5%E5%80%BE%E5%BF%83%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [奔跑吧12官宣](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A712%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top)<br />
 8. [天水麻辣烫老板回应锅煮烂了](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E9%94%85%E7%85%AE%E7%83%82%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [莫斯科恐袭案4名被告全部认罪](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E6%A1%884%E5%90%8D%E8%A2%AB%E5%91%8A%E5%85%A8%E9%83%A8%E8%AE%A4%E7%BD%AA%23&t=31&band_rank=9&Refer=top)<br />
+9. [派出所回应女生长期遭霸凌跳楼身亡](https://s.weibo.com/weibo?q=%23%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E9%95%BF%E6%9C%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
