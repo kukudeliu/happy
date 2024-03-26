@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 13:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 13:45:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [杜鹃花落作者已被免职](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%B9%83%E8%8A%B1%E8%90%BD%E4%BD%9C%E8%80%85%E5%B7%B2%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [地球出现3小时特大地磁暴](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B03%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [成都初三语文试卷被曝美化侵华日军](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%88%9D%E4%B8%89%E8%AF%AD%E6%96%87%E8%AF%95%E5%8D%B7%E8%A2%AB%E6%9B%9D%E7%BE%8E%E5%8C%96%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%23&t=31&band_rank=6&Refer=top)<br />
-7. [深圳取消7090政策](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%8F%96%E6%B6%887090%E6%94%BF%E7%AD%96%23&t=31&band_rank=7&Refer=top)<br />
-8. [奔跑吧12全阵容](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A712%E5%85%A8%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
+7. [奔跑吧12全阵容](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A712%E5%85%A8%E9%98%B5%E5%AE%B9%23&t=31&band_rank=7&Refer=top)<br />
+8. [深圳取消7090政策](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%8F%96%E6%B6%887090%E6%94%BF%E7%AD%96%23&t=31&band_rank=8&Refer=top)<br />
 9. [十个勤天回应郁金香只发江浙沪](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E5%9B%9E%E5%BA%94%E9%83%81%E9%87%91%E9%A6%99%E5%8F%AA%E5%8F%91%E6%B1%9F%E6%B5%99%E6%B2%AA&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
