@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 16:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 16:50:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [刘亦菲 我不要面子的吗](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E6%88%91%E4%B8%8D%E8%A6%81%E9%9D%A2%E5%AD%90%E7%9A%84%E5%90%97&t=31&band_rank=5&Refer=top)<br />
 6. [鹿晗金色长假发](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%87%91%E8%89%B2%E9%95%BF%E5%81%87%E5%8F%91%23&t=31&band_rank=6&Refer=top)<br />
 7. [美国一大桥被货船撞塌](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%A4%A7%E6%A1%A5%E8%A2%AB%E8%B4%A7%E8%88%B9%E6%92%9E%E5%A1%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [秦岚迪丽热巴白衣自拍](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%99%BD%E8%A1%A3%E8%87%AA%E6%8B%8D%23&t=31&band_rank=8&Refer=top)<br />
-9. [金智媛成为烧酒代言人](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%BA%E5%AA%9B%E6%88%90%E4%B8%BA%E7%83%A7%E9%85%92%E4%BB%A3%E8%A8%80%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+8. [胖东来新增10天不开心假](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%B0%E5%A2%9E10%E5%A4%A9%E4%B8%8D%E5%BC%80%E5%BF%83%E5%81%87%23&t=31&band_rank=8&Refer=top)<br />
+9. [秦岚迪丽热巴白衣自拍](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%99%BD%E8%A1%A3%E8%87%AA%E6%8B%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
