@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 21:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 21:39:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [原来是地磁暴 还以为上班上的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9C%B0%E7%A3%81%E6%9A%B4%20%E8%BF%98%E4%BB%A5%E4%B8%BA%E4%B8%8A%E7%8F%AD%E4%B8%8A%E7%9A%84&t=31&band_rank=5&Refer=top)<br />
 6. [金秀贤主动降薪出演眼泪女王](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E4%B8%BB%E5%8A%A8%E9%99%8D%E8%96%AA%E5%87%BA%E6%BC%94%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%23&t=31&band_rank=6&Refer=top)<br />
 7. [叔圈天菜和娃娃菜](https://s.weibo.com/weibo?q=%23%E5%8F%94%E5%9C%88%E5%A4%A9%E8%8F%9C%E5%92%8C%E5%A8%83%E5%A8%83%E8%8F%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [张艺兴是个考公的好苗子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%98%AF%E4%B8%AA%E8%80%83%E5%85%AC%E7%9A%84%E5%A5%BD%E8%8B%97%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
+8. [林允为闭口第一次刷酸](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E4%B8%BA%E9%97%AD%E5%8F%A3%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%88%B7%E9%85%B8%23&t=31&band_rank=8&Refer=top)<br />
 9. [女子下班途中遭陌生男锁脖初中生相救](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8B%E7%8F%AD%E9%80%94%E4%B8%AD%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E9%94%81%E8%84%96%E5%88%9D%E4%B8%AD%E7%94%9F%E7%9B%B8%E6%95%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
