@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 19:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 19:54:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [张艺兴是个考公的好苗子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%98%AF%E4%B8%AA%E8%80%83%E5%85%AC%E7%9A%84%E5%A5%BD%E8%8B%97%E5%AD%90%23&t=31&band_rank=5&Refer=top)<br />
 6. [费启鸣拍的虞书欣](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E5%90%AF%E9%B8%A3%E6%8B%8D%E7%9A%84%E8%99%9E%E4%B9%A6%E6%AC%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [天水20天狂赚近14亿](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B420%E5%A4%A9%E7%8B%82%E8%B5%9A%E8%BF%9114%E4%BA%BF%23&t=31&band_rank=7&Refer=top)<br />
-8. [秋瓷炫微博谁发的](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E5%BE%AE%E5%8D%9A%E8%B0%81%E5%8F%91%E7%9A%84%23&t=31&band_rank=8&Refer=top)<br />
+8. [地磁暴 嗜睡](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4%20%E5%97%9C%E7%9D%A1&t=31&band_rank=8&Refer=top)<br />
 9. [女孩趁妈妈外出包一锅老鼠饺子](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%B6%81%E5%A6%88%E5%A6%88%E5%A4%96%E5%87%BA%E5%8C%85%E4%B8%80%E9%94%85%E8%80%81%E9%BC%A0%E9%A5%BA%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
