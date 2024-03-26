@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 21:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 21:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [任敏生图](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E7%94%9F%E5%9B%BE&t=31&band_rank=6&Refer=top)<br />
 7. [叔圈天菜和娃娃菜](https://s.weibo.com/weibo?q=%23%E5%8F%94%E5%9C%88%E5%A4%A9%E8%8F%9C%E5%92%8C%E5%A8%83%E5%A8%83%E8%8F%9C%23&t=31&band_rank=7&Refer=top)<br />
 8. [张艺兴是个考公的好苗子](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%98%AF%E4%B8%AA%E8%80%83%E5%85%AC%E7%9A%84%E5%A5%BD%E8%8B%97%E5%AD%90%23&t=31&band_rank=8&Refer=top)<br />
-9. [巴基斯坦](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&t=31&band_rank=9&Refer=top)<br />
+9. [中使馆回应5中国公民巴基斯坦遇袭](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%945%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%81%87%E8%A2%AD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
