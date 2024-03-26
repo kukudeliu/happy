@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 12:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 12:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [美国将地磁暴预警升至“严重”级](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%E5%8D%87%E8%87%B3%E2%80%9C%E4%B8%A5%E9%87%8D%E2%80%9D%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [招行大客户们存了10万亿元](https://www.baidu.com/s?wd=%E6%8B%9B%E8%A1%8C%E5%A4%A7%E5%AE%A2%E6%88%B7%E4%BB%AC%E5%AD%98%E4%BA%8610%E4%B8%87%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [7年前考上央美的保安现状](https://www.baidu.com/s?wd=7%E5%B9%B4%E5%89%8D%E8%80%83%E4%B8%8A%E5%A4%AE%E7%BE%8E%E7%9A%84%E4%BF%9D%E5%AE%89%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄恐袭事件中3个嫌犯已婚有孩子](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6%E4%B8%AD3%E4%B8%AA%E5%AB%8C%E7%8A%AF%E5%B7%B2%E5%A9%9A%E6%9C%89%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王树国曾评价福耀科技大学](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E6%9B%BE%E8%AF%84%E4%BB%B7%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣重庆车展汽车撞伤5人](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8D%E5%BA%86%E8%BD%A6%E5%B1%95%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BC%A45%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [美国将地磁暴预警升至“严重”级](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%E5%8D%87%E8%87%B3%E2%80%9C%E4%B8%A5%E9%87%8D%E2%80%9D%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [招行大客户们存了10万亿元](https://www.baidu.com/s?wd=%E6%8B%9B%E8%A1%8C%E5%A4%A7%E5%AE%A2%E6%88%B7%E4%BB%AC%E5%AD%98%E4%BA%8610%E4%B8%87%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [7年前考上央美的保安现状](https://www.baidu.com/s?wd=7%E5%B9%B4%E5%89%8D%E8%80%83%E4%B8%8A%E5%A4%AE%E7%BE%8E%E7%9A%84%E4%BF%9D%E5%AE%89%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [俄恐袭事件中3个嫌犯已婚有孩子](https://www.baidu.com/s?wd=%E4%BF%84%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6%E4%B8%AD3%E4%B8%AA%E5%AB%8C%E7%8A%AF%E5%B7%B2%E5%A9%9A%E6%9C%89%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王树国曾评价福耀科技大学](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E6%9B%BE%E8%AF%84%E4%BB%B7%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣重庆车展汽车撞伤5人](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8D%E5%BA%86%E8%BD%A6%E5%B1%95%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BC%A45%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
