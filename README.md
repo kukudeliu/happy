@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 16:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 16:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [杜鹃花落作者已被免职](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%B9%83%E8%8A%B1%E8%90%BD%E4%BD%9C%E8%80%85%E5%B7%B2%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=6&Refer=top)<br />
 7. [秦岚迪丽热巴白衣自拍](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%99%BD%E8%A1%A3%E8%87%AA%E6%8B%8D%23&t=31&band_rank=7&Refer=top)<br />
 8. [频繁洗澡或给身体埋下皮肤癌隐患](https://s.weibo.com/weibo?q=%23%E9%A2%91%E7%B9%81%E6%B4%97%E6%BE%A1%E6%88%96%E7%BB%99%E8%BA%AB%E4%BD%93%E5%9F%8B%E4%B8%8B%E7%9A%AE%E8%82%A4%E7%99%8C%E9%9A%90%E6%82%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [山姆同款鸡腿南京卖74元上海卖29元](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%90%8C%E6%AC%BE%E9%B8%A1%E8%85%BF%E5%8D%97%E4%BA%AC%E5%8D%9674%E5%85%83%E4%B8%8A%E6%B5%B7%E5%8D%9629%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+9. [鹿晗金色长假发](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%87%91%E8%89%B2%E9%95%BF%E5%81%87%E5%8F%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
