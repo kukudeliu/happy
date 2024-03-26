@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 13:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 13:34:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [地球出现3小时特大地磁暴](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B03%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [阮经天 我怕老婆](https://s.weibo.com/weibo?q=%E9%98%AE%E7%BB%8F%E5%A4%A9%20%E6%88%91%E6%80%95%E8%80%81%E5%A9%86&t=31&band_rank=6&Refer=top)<br />
 7. [男朋友用我的照片挂数据线](https://s.weibo.com/weibo?q=%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%94%A8%E6%88%91%E7%9A%84%E7%85%A7%E7%89%87%E6%8C%82%E6%95%B0%E6%8D%AE%E7%BA%BF&t=31&band_rank=7&Refer=top)<br />
-8. [奔跑吧12全阵容](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A712%E5%85%A8%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [杜鹃花落作者已被免职](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%B9%83%E8%8A%B1%E8%90%BD%E4%BD%9C%E8%80%85%E5%B7%B2%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=9&Refer=top)<br />
+8. [杜鹃花落作者已被免职](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%B9%83%E8%8A%B1%E8%90%BD%E4%BD%9C%E8%80%85%E5%B7%B2%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=8&Refer=top)<br />
+9. [奔跑吧12全阵容](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A712%E5%85%A8%E9%98%B5%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
