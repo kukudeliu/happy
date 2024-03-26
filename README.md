@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 22:35:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 22:36:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [任敏生图](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E7%94%9F%E5%9B%BE&t=31&band_rank=6&Refer=top)<br />
 7. [金赛纶发金秀贤合影是为了炫耀](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%B5%9B%E7%BA%B6%E5%8F%91%E9%87%91%E7%A7%80%E8%B4%A4%E5%90%88%E5%BD%B1%E6%98%AF%E4%B8%BA%E4%BA%86%E7%82%AB%E8%80%80%23&t=31&band_rank=7&Refer=top)<br />
 8. [泰国vs韩国](https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BDvs%E9%9F%A9%E5%9B%BD&t=31&band_rank=8&Refer=top)<br />
-9. [王一博 转型](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E8%BD%AC%E5%9E%8B&t=31&band_rank=9&Refer=top)<br />
+9. [iPhone16功能键或变大](https://s.weibo.com/weibo?q=%23iPhone16%E5%8A%9F%E8%83%BD%E9%94%AE%E6%88%96%E5%8F%98%E5%A4%A7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
