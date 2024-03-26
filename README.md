@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 10:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 10:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [秋瓷炫喝醉被于晓光背上车](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E5%96%9D%E9%86%89%E8%A2%AB%E4%BA%8E%E6%99%93%E5%85%89%E8%83%8C%E4%B8%8A%E8%BD%A6%23&t=31&band_rank=5&Refer=top)<br />
 6. [天水麻辣烫把锅煮烂了](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%8A%8A%E9%94%85%E7%85%AE%E7%83%82%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [莫斯科恐袭案4名被告全部认罪](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E6%A1%884%E5%90%8D%E8%A2%AB%E5%91%8A%E5%85%A8%E9%83%A8%E8%AE%A4%E7%BD%AA%23&t=31&band_rank=7&Refer=top)<br />
-8. [房价要触底了吗](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BB%B7%E8%A6%81%E8%A7%A6%E5%BA%95%E4%BA%86%E5%90%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [我的孩子怎么会得精神疾病呢](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%AD%A9%E5%AD%90%E6%80%8E%E4%B9%88%E4%BC%9A%E5%BE%97%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85%E5%91%A2%23&t=31&band_rank=9&Refer=top)<br />
+8. [陈戌源一审被判无期](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%88%8C%E6%BA%90%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%23&t=31&band_rank=8&Refer=top)<br />
+9. [房价要触底了吗](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BB%B7%E8%A6%81%E8%A7%A6%E5%BA%95%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
