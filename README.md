@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 12:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 12:09:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [步步倾心定档](https://s.weibo.com/weibo?q=%23%E6%AD%A5%E6%AD%A5%E5%80%BE%E5%BF%83%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=6&Refer=top)<br />
 7. [天水麻辣烫老板回应锅煮烂了](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E9%94%85%E7%85%AE%E7%83%82%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [奔跑吧12官宣](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A712%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [派出所回应女生长期遭霸凌跳楼身亡](https://s.weibo.com/weibo?q=%23%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E9%95%BF%E6%9C%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [中石油一年赚了1611亿元](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E4%B8%80%E5%B9%B4%E8%B5%9A%E4%BA%861611%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
