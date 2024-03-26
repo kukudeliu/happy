@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 13:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 13:42:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [杜鹃花落作者已被免职](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%B9%83%E8%8A%B1%E8%90%BD%E4%BD%9C%E8%80%85%E5%B7%B2%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=4&Refer=top)<br />
 5. [地球出现3小时特大地磁暴](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B03%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [深圳取消7090政策](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%8F%96%E6%B6%887090%E6%94%BF%E7%AD%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [跳楼自杀女生生前多次给霸凌者转账](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%9F%E5%89%8D%E5%A4%9A%E6%AC%A1%E7%BB%99%E9%9C%B8%E5%87%8C%E8%80%85%E8%BD%AC%E8%B4%A6%23&t=31&band_rank=7&Refer=top)<br />
+7. [成都初三语文试卷被曝美化侵华日军](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%88%9D%E4%B8%89%E8%AF%AD%E6%96%87%E8%AF%95%E5%8D%B7%E8%A2%AB%E6%9B%9D%E7%BE%8E%E5%8C%96%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%23&t=31&band_rank=7&Refer=top)<br />
 8. [奔跑吧12全阵容](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A712%E5%85%A8%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [成都初三语文试卷被曝美化侵华日军](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%88%9D%E4%B8%89%E8%AF%AD%E6%96%87%E8%AF%95%E5%8D%B7%E8%A2%AB%E6%9B%9D%E7%BE%8E%E5%8C%96%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
+9. [跳楼自杀女生生前多次给霸凌者转账](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E7%94%9F%E5%89%8D%E5%A4%9A%E6%AC%A1%E7%BB%99%E9%9C%B8%E5%87%8C%E8%80%85%E8%BD%AC%E8%B4%A6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
