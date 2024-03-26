@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 13:10:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 13:11:02</h4></div>
 
 > 微博  
 
@@ -23,8 +23,8 @@
 4. [中小企业经济运行持续向好](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将地磁暴预警升至“严重”级](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%E5%8D%87%E8%87%B3%E2%80%9C%E4%B8%A5%E9%87%8D%E2%80%9D%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [95后女生腹痛难忍口吐“黑水”](https://www.baidu.com/s?wd=95%E5%90%8E%E5%A5%B3%E7%94%9F%E8%85%B9%E7%97%9B%E9%9A%BE%E5%BF%8D%E5%8F%A3%E5%90%90%E2%80%9C%E9%BB%91%E6%B0%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [义乌冰雹保险行业赔付将超1亿元](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E5%86%B0%E9%9B%B9%E4%BF%9D%E9%99%A9%E8%A1%8C%E4%B8%9A%E8%B5%94%E4%BB%98%E5%B0%86%E8%B6%851%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [7年前考上央美的保安现状](https://www.baidu.com/s?wd=7%E5%B9%B4%E5%89%8D%E8%80%83%E4%B8%8A%E5%A4%AE%E7%BE%8E%E7%9A%84%E4%BF%9D%E5%AE%89%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老师让课代表在作业本上写脏话](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E8%AE%A9%E8%AF%BE%E4%BB%A3%E8%A1%A8%E5%9C%A8%E4%BD%9C%E4%B8%9A%E6%9C%AC%E4%B8%8A%E5%86%99%E8%84%8F%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [姐姐给了弟弟200元刮中100万](https://www.baidu.com/s?wd=%E5%A7%90%E5%A7%90%E7%BB%99%E4%BA%86%E5%BC%9F%E5%BC%9F200%E5%85%83%E5%88%AE%E4%B8%AD100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣重庆车展汽车撞伤5人](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8D%E5%BA%86%E8%BD%A6%E5%B1%95%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BC%A45%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [中小企业经济运行持续向好](https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [美国将地磁暴预警升至“严重”级](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%E5%8D%87%E8%87%B3%E2%80%9C%E4%B8%A5%E9%87%8D%E2%80%9D%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [95后女生腹痛难忍口吐“黑水”](https://www.baidu.com/s?wd=95%E5%90%8E%E5%A5%B3%E7%94%9F%E8%85%B9%E7%97%9B%E9%9A%BE%E5%BF%8D%E5%8F%A3%E5%90%90%E2%80%9C%E9%BB%91%E6%B0%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [义乌冰雹保险行业赔付将超1亿元](https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E5%86%B0%E9%9B%B9%E4%BF%9D%E9%99%A9%E8%A1%8C%E4%B8%9A%E8%B5%94%E4%BB%98%E5%B0%86%E8%B6%851%E4%BA%BF%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [7年前考上央美的保安现状](https://www.baidu.com/s?wd=7%E5%B9%B4%E5%89%8D%E8%80%83%E4%B8%8A%E5%A4%AE%E7%BE%8E%E7%9A%84%E4%BF%9D%E5%AE%89%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [老师让课代表在作业本上写脏话](https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E8%AE%A9%E8%AF%BE%E4%BB%A3%E8%A1%A8%E5%9C%A8%E4%BD%9C%E4%B8%9A%E6%9C%AC%E4%B8%8A%E5%86%99%E8%84%8F%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [姐姐给了弟弟200元刮中100万](https://www.baidu.com/s?wd=%E5%A7%90%E5%A7%90%E7%BB%99%E4%BA%86%E5%BC%9F%E5%BC%9F200%E5%85%83%E5%88%AE%E4%B8%AD100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣重庆车展汽车撞伤5人](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8D%E5%BA%86%E8%BD%A6%E5%B1%95%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BC%A45%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
