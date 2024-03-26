@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 08:52:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 08:53:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [我的孩子怎么会得精神疾病呢](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%AD%A9%E5%AD%90%E6%80%8E%E4%B9%88%E4%BC%9A%E5%BE%97%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85%E5%91%A2%23&t=31&band_rank=4&Refer=top)<br />
 5. [李惠利ins晒照](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%A0%E5%88%A9ins%E6%99%92%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [普京说俄方更关心恐袭雇主是谁](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E4%BF%84%E6%96%B9%E6%9B%B4%E5%85%B3%E5%BF%83%E6%81%90%E8%A2%AD%E9%9B%87%E4%B8%BB%E6%98%AF%E8%B0%81%23&t=31&band_rank=6&Refer=top)<br />
-7. [陈戌源案今天一审宣判](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%88%8C%E6%BA%90%E6%A1%88%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [苹果官网鼓励升级到iPhone15](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E9%BC%93%E5%8A%B1%E5%8D%87%E7%BA%A7%E5%88%B0iPhone15%23&t=31&band_rank=8&Refer=top)<br />
-9. [7年前考上央美的保安现在怎么样了](https://s.weibo.com/weibo?q=%237%E5%B9%B4%E5%89%8D%E8%80%83%E4%B8%8A%E5%A4%AE%E7%BE%8E%E7%9A%84%E4%BF%9D%E5%AE%89%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [苹果官网鼓励升级到iPhone15](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E9%BC%93%E5%8A%B1%E5%8D%87%E7%BA%A7%E5%88%B0iPhone15%23&t=31&band_rank=7&Refer=top)<br />
+8. [7年前考上央美的保安现在怎么样了](https://s.weibo.com/weibo?q=%237%E5%B9%B4%E5%89%8D%E8%80%83%E4%B8%8A%E5%A4%AE%E7%BE%8E%E7%9A%84%E4%BF%9D%E5%AE%89%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [陈戌源案今天一审宣判](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%88%8C%E6%BA%90%E6%A1%88%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
