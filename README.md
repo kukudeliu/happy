@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 10:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 11:00:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [列车穿越粉色花海如漫画世界](https://s.weibo.com/weibo?q=%23%E5%88%97%E8%BD%A6%E7%A9%BF%E8%B6%8A%E7%B2%89%E8%89%B2%E8%8A%B1%E6%B5%B7%E5%A6%82%E6%BC%AB%E7%94%BB%E4%B8%96%E7%95%8C%23&t=31&band_rank=3&Refer=top)<br />
 4. [福建一女生长期遭同学霸凌跳楼身亡](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%A5%B3%E7%94%9F%E9%95%BF%E6%9C%9F%E9%81%AD%E5%90%8C%E5%AD%A6%E9%9C%B8%E5%87%8C%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top)<br />
 5. [秋瓷炫喝醉被于晓光背上车](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E5%96%9D%E9%86%89%E8%A2%AB%E4%BA%8E%E6%99%93%E5%85%89%E8%83%8C%E4%B8%8A%E8%BD%A6%23&t=31&band_rank=5&Refer=top)<br />
-6. [天水麻辣烫把锅煮烂了](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%8A%8A%E9%94%85%E7%85%AE%E7%83%82%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [陈戌源一审被判无期](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%88%8C%E6%BA%90%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%23&t=31&band_rank=7&Refer=top)<br />
+6. [陈戌源一审被判无期](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%88%8C%E6%BA%90%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%23&t=31&band_rank=6&Refer=top)<br />
+7. [天水麻辣烫把锅煮烂了](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%8A%8A%E9%94%85%E7%85%AE%E7%83%82%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [莫斯科恐袭案4名被告全部认罪](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E6%A1%884%E5%90%8D%E8%A2%AB%E5%91%8A%E5%85%A8%E9%83%A8%E8%AE%A4%E7%BD%AA%23&t=31&band_rank=8&Refer=top)<br />
 9. [房价要触底了吗](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BB%B7%E8%A6%81%E8%A7%A6%E5%BA%95%E4%BA%86%E5%90%97%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -24,7 +24,7 @@
 5. [足协原主席陈戌源一审被判无期](https://www.baidu.com/s?wd=%E8%B6%B3%E5%8D%8F%E5%8E%9F%E4%B8%BB%E5%B8%AD%E9%99%88%E6%88%8C%E6%BA%90%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [7年前考上央美的保安现状](https://www.baidu.com/s?wd=7%E5%B9%B4%E5%89%8D%E8%80%83%E4%B8%8A%E5%A4%AE%E7%BE%8E%E7%9A%84%E4%BF%9D%E5%AE%89%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [莫斯科多个购物中心收爆炸威胁](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E5%A4%9A%E4%B8%AA%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E6%94%B6%E7%88%86%E7%82%B8%E5%A8%81%E8%83%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子为保住榜一大哥位置诈骗同事](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E4%BF%9D%E4%BD%8F%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E4%BD%8D%E7%BD%AE%E8%AF%88%E9%AA%97%E5%90%8C%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王树国曾评价福耀科技大学](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E6%9B%BE%E8%AF%84%E4%BB%B7%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣重庆车展汽车撞伤5人](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8D%E5%BA%86%E8%BD%A6%E5%B1%95%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BC%A45%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [足协原主席陈戌源一审被判无期](https://www.baidu.com/s?wd=%E8%B6%B3%E5%8D%8F%E5%8E%9F%E4%B8%BB%E5%B8%AD%E9%99%88%E6%88%8C%E6%BA%90%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [7年前考上央美的保安现状](https://www.baidu.com/s?wd=7%E5%B9%B4%E5%89%8D%E8%80%83%E4%B8%8A%E5%A4%AE%E7%BE%8E%E7%9A%84%E4%BF%9D%E5%AE%89%E7%8E%B0%E7%8A%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [莫斯科多个购物中心收爆炸威胁](https://www.baidu.com/s?wd=%E8%8E%AB%E6%96%AF%E7%A7%91%E5%A4%9A%E4%B8%AA%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E6%94%B6%E7%88%86%E7%82%B8%E5%A8%81%E8%83%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子为保住榜一大哥位置诈骗同事](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E4%BF%9D%E4%BD%8F%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E4%BD%8D%E7%BD%AE%E8%AF%88%E9%AA%97%E5%90%8C%E4%BA%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王树国曾评价福耀科技大学](https://www.baidu.com/s?wd=%E7%8E%8B%E6%A0%91%E5%9B%BD%E6%9B%BE%E8%AF%84%E4%BB%B7%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣重庆车展汽车撞伤5人](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8D%E5%BA%86%E8%BD%A6%E5%B1%95%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BC%A45%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
