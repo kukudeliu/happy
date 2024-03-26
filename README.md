@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 05:06:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 05:07:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [地磁暴 嗜睡](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4%20%E5%97%9C%E7%9D%A1&t=31&band_rank=5&Refer=top)<br />
 6. [AI还原武则天](https://s.weibo.com/weibo?q=%23AI%E8%BF%98%E5%8E%9F%E6%AD%A6%E5%88%99%E5%A4%A9%23&t=31&band_rank=6&Refer=top)<br />
 7. [金赛纶发金秀贤合影是为了炫耀](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%B5%9B%E7%BA%B6%E5%8F%91%E9%87%91%E7%A7%80%E8%B4%A4%E5%90%88%E5%BD%B1%E6%98%AF%E4%B8%BA%E4%BA%86%E7%82%AB%E8%80%80%23&t=31&band_rank=7&Refer=top)<br />
-8. [泰国vs韩国](https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BDvs%E9%9F%A9%E5%9B%BD&t=31&band_rank=8&Refer=top)<br />
-9. [国足4比1新加坡](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B34%E6%AF%941%E6%96%B0%E5%8A%A0%E5%9D%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [国足4比1新加坡](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B34%E6%AF%941%E6%96%B0%E5%8A%A0%E5%9D%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [泰国vs韩国](https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BDvs%E9%9F%A9%E5%9B%BD&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
