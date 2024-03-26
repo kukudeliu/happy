@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 15:23:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 15:24:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [地球出现3小时特大地磁暴](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B03%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%23&t=31&band_rank=5&Refer=top)<br />
 6. [福州一学校厕所装反欺凌报警器](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%8E%95%E6%89%80%E8%A3%85%E5%8F%8D%E6%AC%BA%E5%87%8C%E6%8A%A5%E8%AD%A6%E5%99%A8%23&t=31&band_rank=6&Refer=top)<br />
 7. [李彩玟方承认与柳多仁恋情](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BD%A9%E7%8E%9F%E6%96%B9%E6%89%BF%E8%AE%A4%E4%B8%8E%E6%9F%B3%E5%A4%9A%E4%BB%81%E6%81%8B%E6%83%85%23&t=31&band_rank=7&Refer=top)<br />
-8. [成都初三语文试卷被曝美化侵华日军](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%88%9D%E4%B8%89%E8%AF%AD%E6%96%87%E8%AF%95%E5%8D%B7%E8%A2%AB%E6%9B%9D%E7%BE%8E%E5%8C%96%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
-9. [爬山9小时后的宋江](https://s.weibo.com/weibo?q=%E7%88%AC%E5%B1%B19%E5%B0%8F%E6%97%B6%E5%90%8E%E7%9A%84%E5%AE%8B%E6%B1%9F&t=31&band_rank=9&Refer=top)<br />
+8. [频繁洗澡或给身体埋下皮肤癌隐患](https://s.weibo.com/weibo?q=%23%E9%A2%91%E7%B9%81%E6%B4%97%E6%BE%A1%E6%88%96%E7%BB%99%E8%BA%AB%E4%BD%93%E5%9F%8B%E4%B8%8B%E7%9A%AE%E8%82%A4%E7%99%8C%E9%9A%90%E6%82%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [成都初三语文试卷被曝美化侵华日军](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%88%9D%E4%B8%89%E8%AF%AD%E6%96%87%E8%AF%95%E5%8D%B7%E8%A2%AB%E6%9B%9D%E7%BE%8E%E5%8C%96%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [冰雹过后 蔬菜大棚爆改星空顶](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%B9%E8%BF%87%E5%90%8E+%E8%94%AC%E8%8F%9C%E5%A4%A7%E6%A3%9A%E7%88%86%E6%94%B9%E6%98%9F%E7%A9%BA%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [地球出现3小时特大地磁暴](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B03%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [跳楼自杀女生曾多次给霸凌者转账](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E6%9B%BE%E5%A4%9A%E6%AC%A1%E7%BB%99%E9%9C%B8%E5%87%8C%E8%80%85%E8%BD%AC%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生疑遭霸凌跳楼身亡 教育局通报](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%96%91%E9%81%AD%E9%9C%B8%E5%87%8C%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胖东来新增10天不开心假](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%B0%E5%A2%9E10%E5%A4%A9%E4%B8%8D%E5%BC%80%E5%BF%83%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣重庆车展汽车撞伤5人](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8D%E5%BA%86%E8%BD%A6%E5%B1%95%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BC%A45%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [冰雹过后 蔬菜大棚爆改星空顶](https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%B9%E8%BF%87%E5%90%8E+%E8%94%AC%E8%8F%9C%E5%A4%A7%E6%A3%9A%E7%88%86%E6%94%B9%E6%98%9F%E7%A9%BA%E9%A1%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [地球出现3小时特大地磁暴](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B03%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [跳楼自杀女生曾多次给霸凌者转账](https://www.baidu.com/s?wd=%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E6%9B%BE%E5%A4%9A%E6%AC%A1%E7%BB%99%E9%9C%B8%E5%87%8C%E8%80%85%E8%BD%AC%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生疑遭霸凌跳楼身亡 教育局通报](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%96%91%E9%81%AD%E9%9C%B8%E5%87%8C%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1+%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [胖东来新增10天不开心假](https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%B0%E5%A2%9E10%E5%A4%A9%E4%B8%8D%E5%BC%80%E5%BF%83%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [官方辟谣重庆车展汽车撞伤5人](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8D%E5%BA%86%E8%BD%A6%E5%B1%95%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%BC%A45%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
