@@ -1,9 +1,9 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 23:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 23:07:01</h4></div>
 
 > 微博  
 
-1. [国足4比1新加坡](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B34%E6%AF%941%E6%96%B0%E5%8A%A0%E5%9D%A1%23&t=31&band_rank=1&Refer=top)<br />
-2. [原来是地磁暴 还以为上班上的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9C%B0%E7%A3%81%E6%9A%B4%20%E8%BF%98%E4%BB%A5%E4%B8%BA%E4%B8%8A%E7%8F%AD%E4%B8%8A%E7%9A%84&t=31&band_rank=2&Refer=top)<br />
+1. [原来是地磁暴 还以为上班上的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9C%B0%E7%A3%81%E6%9A%B4%20%E8%BF%98%E4%BB%A5%E4%B8%BA%E4%B8%8A%E7%8F%AD%E4%B8%8A%E7%9A%84&t=31&band_rank=1&Refer=top)<br />
+2. [国足4比1新加坡](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B34%E6%AF%941%E6%96%B0%E5%8A%A0%E5%9D%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [我国完成印度洋渔业资源调查](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%AE%8C%E6%88%90%E5%8D%B0%E5%BA%A6%E6%B4%8B%E6%B8%94%E4%B8%9A%E8%B5%84%E6%BA%90%E8%B0%83%E6%9F%A5%23&t=31&band_rank=3&Refer=top)<br />
 4. [金赛纶发金秀贤合影是为了炫耀](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%B5%9B%E7%BA%B6%E5%8F%91%E9%87%91%E7%A7%80%E8%B4%A4%E5%90%88%E5%BD%B1%E6%98%AF%E4%B8%BA%E4%BA%86%E7%82%AB%E8%80%80%23&t=31&band_rank=4&Refer=top)<br />
 5. [林允为闭口第一次刷酸](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E4%B8%BA%E9%97%AD%E5%8F%A3%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%88%B7%E9%85%B8%23&t=31&band_rank=5&Refer=top)<br />
