@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 15:12:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 15:13:02</h4></div>
 
 > 微博  
 
 1. [地磁暴 嗜睡](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4%20%E5%97%9C%E7%9D%A1&t=31&band_rank=1&Refer=top)<br />
 2. [杜鹃花落作者已被免职](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%B9%83%E8%8A%B1%E8%90%BD%E4%BD%9C%E8%80%85%E5%B7%B2%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=2&Refer=top)<br />
-3. [当汉字与春天不期而遇](https://s.weibo.com/weibo?q=%E5%BD%93%E6%B1%89%E5%AD%97%E4%B8%8E%E6%98%A5%E5%A4%A9%E4%B8%8D%E6%9C%9F%E8%80%8C%E9%81%87&t=31&band_rank=3&Refer=top)<br />
-4. [福州一学校厕所装反欺凌报警器](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%8E%95%E6%89%80%E8%A3%85%E5%8F%8D%E6%AC%BA%E5%87%8C%E6%8A%A5%E8%AD%A6%E5%99%A8%23&t=31&band_rank=4&Refer=top)<br />
-5. [山姆同款鸡腿南京卖74元上海卖29元](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%90%8C%E6%AC%BE%E9%B8%A1%E8%85%BF%E5%8D%97%E4%BA%AC%E5%8D%9674%E5%85%83%E4%B8%8A%E6%B5%B7%E5%8D%9629%E5%85%83%23&t=31&band_rank=5&Refer=top)<br />
+3. [当汉字与春天不期而遇](https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%B1%89%E5%AD%97%E4%B8%8E%E6%98%A5%E5%A4%A9%E4%B8%8D%E6%9C%9F%E8%80%8C%E9%81%87%23&t=31&band_rank=3&Refer=top)<br />
+4. [山姆同款鸡腿南京卖74元上海卖29元](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%90%8C%E6%AC%BE%E9%B8%A1%E8%85%BF%E5%8D%97%E4%BA%AC%E5%8D%9674%E5%85%83%E4%B8%8A%E6%B5%B7%E5%8D%9629%E5%85%83%23&t=31&band_rank=4&Refer=top)<br />
+5. [福州一学校厕所装反欺凌报警器](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%8E%95%E6%89%80%E8%A3%85%E5%8F%8D%E6%AC%BA%E5%87%8C%E6%8A%A5%E8%AD%A6%E5%99%A8%23&t=31&band_rank=5&Refer=top)<br />
 6. [李彩玟方承认与柳多仁恋情](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BD%A9%E7%8E%9F%E6%96%B9%E6%89%BF%E8%AE%A4%E4%B8%8E%E6%9F%B3%E5%A4%9A%E4%BB%81%E6%81%8B%E6%83%85%23&t=31&band_rank=6&Refer=top)<br />
 7. [地球出现3小时特大地磁暴](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B03%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%23&t=31&band_rank=7&Refer=top)<br />
 8. [成都初三语文试卷被曝美化侵华日军](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%88%9D%E4%B8%89%E8%AF%AD%E6%96%87%E8%AF%95%E5%8D%B7%E8%A2%AB%E6%9B%9D%E7%BE%8E%E5%8C%96%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%23&t=31&band_rank=8&Refer=top)<br />
