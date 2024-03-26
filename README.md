@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 14:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-26 14:16:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [杜鹃花落作者已被免职](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%B9%83%E8%8A%B1%E8%90%BD%E4%BD%9C%E8%80%85%E5%B7%B2%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=2&Refer=top)<br />
 3. [与春日繁花来场浪漫邂逅](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E6%98%A5%E6%97%A5%E7%B9%81%E8%8A%B1%E6%9D%A5%E5%9C%BA%E6%B5%AA%E6%BC%AB%E9%82%82%E9%80%85%23&t=31&band_rank=3&Refer=top)<br />
 4. [李彩玟方承认与柳多仁恋情](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BD%A9%E7%8E%9F%E6%96%B9%E6%89%BF%E8%AE%A4%E4%B8%8E%E6%9F%B3%E5%A4%9A%E4%BB%81%E6%81%8B%E6%83%85%23&t=31&band_rank=4&Refer=top)<br />
-5. [双高父母偏信遗传基因17岁儿子身高仅163](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E9%AB%98%E7%88%B6%E6%AF%8D%E5%81%8F%E4%BF%A1%E9%81%97%E4%BC%A0%E5%9F%BA%E5%9B%A017%E5%B2%81%E5%84%BF%E5%AD%90%E8%BA%AB%E9%AB%98%E4%BB%85163%23&t=31&band_rank=5&Refer=top)<br />
-6. [地球出现3小时特大地磁暴](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B03%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%23&t=31&band_rank=6&Refer=top)<br />
-7. [成都初三语文试卷被曝美化侵华日军](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%88%9D%E4%B8%89%E8%AF%AD%E6%96%87%E8%AF%95%E5%8D%B7%E8%A2%AB%E6%9B%9D%E7%BE%8E%E5%8C%96%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%23&t=31&band_rank=7&Refer=top)<br />
-8. [歌手吹牛老爹涉嫌多起性侵案](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%90%B9%E7%89%9B%E8%80%81%E7%88%B9%E6%B6%89%E5%AB%8C%E5%A4%9A%E8%B5%B7%E6%80%A7%E4%BE%B5%E6%A1%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [店家称188元一杯奶茶亏本卖](https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%AE%B6%E7%A7%B0188%E5%85%83%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E4%BA%8F%E6%9C%AC%E5%8D%96%23&t=31&band_rank=9&Refer=top)<br />
+5. [地球出现3小时特大地磁暴](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E5%87%BA%E7%8E%B03%E5%B0%8F%E6%97%B6%E7%89%B9%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%23&t=31&band_rank=5&Refer=top)<br />
+6. [成都初三语文试卷被曝美化侵华日军](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%88%9D%E4%B8%89%E8%AF%AD%E6%96%87%E8%AF%95%E5%8D%B7%E8%A2%AB%E6%9B%9D%E7%BE%8E%E5%8C%96%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%23&t=31&band_rank=6&Refer=top)<br />
+7. [歌手吹牛老爹涉嫌多起性侵案](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%90%B9%E7%89%9B%E8%80%81%E7%88%B9%E6%B6%89%E5%AB%8C%E5%A4%9A%E8%B5%B7%E6%80%A7%E4%BE%B5%E6%A1%88%23&t=31&band_rank=7&Refer=top)<br />
+8. [晋江教育局通报初中女生坠亡](https://s.weibo.com/weibo?q=%23%E6%99%8B%E6%B1%9F%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%88%9D%E4%B8%AD%E5%A5%B3%E7%94%9F%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [奔跑吧12全阵容](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A712%E5%85%A8%E9%98%B5%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
