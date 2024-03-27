@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 12:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 12:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小林制药保健品已致2死106人住院](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF%E4%BF%9D%E5%81%A5%E5%93%81%E5%B7%B2%E8%87%B42%E6%AD%BB106%E4%BA%BA%E4%BD%8F%E9%99%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [曾黎评价赵丽颖](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E8%AF%84%E4%BB%B7%E8%B5%B5%E4%B8%BD%E9%A2%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [南京一米线店改名成甘肃麻辣烫店](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E7%B1%B3%E7%BA%BF%E5%BA%97%E6%94%B9%E5%90%8D%E6%88%90%E7%94%98%E8%82%83%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%BA%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄泉歪了](https://s.weibo.com/weibo?q=%E9%BB%84%E6%B3%89%E6%AD%AA%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [地磁暴全责](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%85%A8%E8%B4%A3&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
