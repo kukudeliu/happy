@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 04:43:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 04:44:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [清华黑天鹅大逃亡计划落空](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E9%BB%91%E5%A4%A9%E9%B9%85%E5%A4%A7%E9%80%83%E4%BA%A1%E8%AE%A1%E5%88%92%E8%90%BD%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [打车2公里“消费”2800元 司机被拘](https://www.baidu.com/s?wd=%E6%89%93%E8%BD%A62%E5%85%AC%E9%87%8C%E2%80%9C%E6%B6%88%E8%B4%B9%E2%80%9D2800%E5%85%83+%E5%8F%B8%E6%9C%BA%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [博主称要挖秦始皇陵警方介入](https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%A7%B0%E8%A6%81%E6%8C%96%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高晓松晒照被称是男版贾玲](https://www.baidu.com/s?wd=%E9%AB%98%E6%99%93%E6%9D%BE%E6%99%92%E7%85%A7%E8%A2%AB%E7%A7%B0%E6%98%AF%E7%94%B7%E7%89%88%E8%B4%BE%E7%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王力宏申请强制执行](https://www.baidu.com/s?wd=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中南大学辟谣宿舍楼起火](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A3%E5%AE%BF%E8%88%8D%E6%A5%BC%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [清华黑天鹅大逃亡计划落空](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E9%BB%91%E5%A4%A9%E9%B9%85%E5%A4%A7%E9%80%83%E4%BA%A1%E8%AE%A1%E5%88%92%E8%90%BD%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [打车2公里“消费”2800元 司机被拘](https://www.baidu.com/s?wd=%E6%89%93%E8%BD%A62%E5%85%AC%E9%87%8C%E2%80%9C%E6%B6%88%E8%B4%B9%E2%80%9D2800%E5%85%83+%E5%8F%B8%E6%9C%BA%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [博主称要挖秦始皇陵警方介入](https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%A7%B0%E8%A6%81%E6%8C%96%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [高晓松晒照被称是男版贾玲](https://www.baidu.com/s?wd=%E9%AB%98%E6%99%93%E6%9D%BE%E6%99%92%E7%85%A7%E8%A2%AB%E7%A7%B0%E6%98%AF%E7%94%B7%E7%89%88%E8%B4%BE%E7%8E%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王力宏申请强制执行](https://www.baidu.com/s?wd=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中南大学辟谣宿舍楼起火](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A3%E5%AE%BF%E8%88%8D%E6%A5%BC%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
