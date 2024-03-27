@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 14:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 14:21:03</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [董宇辉回应被说架子大](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%B4%E6%9E%B6%E5%AD%90%E5%A4%A7%23&t=31&band_rank=5&Refer=top)<br />
 6. [周也 冰国皇太女](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%86%B0%E5%9B%BD%E7%9A%87%E5%A4%AA%E5%A5%B3&t=31&band_rank=6&Refer=top)<br />
 7. [宋茜片场摔倒](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E7%89%87%E5%9C%BA%E6%91%94%E5%80%92&t=31&band_rank=7&Refer=top)<br />
-8. [泫雅转圈](https://s.weibo.com/weibo?q=%E6%B3%AB%E9%9B%85%E8%BD%AC%E5%9C%88&t=31&band_rank=8&Refer=top)<br />
-9. [扫墓时焚烧冥纸谈不上是封建迷信](https://s.weibo.com/weibo?q=%23%E6%89%AB%E5%A2%93%E6%97%B6%E7%84%9A%E7%83%A7%E5%86%A5%E7%BA%B8%E8%B0%88%E4%B8%8D%E4%B8%8A%E6%98%AF%E5%B0%81%E5%BB%BA%E8%BF%B7%E4%BF%A1%23&t=31&band_rank=9&Refer=top)<br />
+8. [扫墓时焚烧冥纸谈不上是封建迷信](https://s.weibo.com/weibo?q=%23%E6%89%AB%E5%A2%93%E6%97%B6%E7%84%9A%E7%83%A7%E5%86%A5%E7%BA%B8%E8%B0%88%E4%B8%8D%E4%B8%8A%E6%98%AF%E5%B0%81%E5%BB%BA%E8%BF%B7%E4%BF%A1%23&t=31&band_rank=8&Refer=top)<br />
+9. [泫雅转圈](https://s.weibo.com/weibo?q=%E6%B3%AB%E9%9B%85%E8%BD%AC%E5%9C%88&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
