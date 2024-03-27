@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 14:24:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 14:26:01</h4></div>
 
 > 微博  
 
-1. [地磁暴全责](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%85%A8%E8%B4%A3&t=31&band_rank=1&Refer=top)<br />
-2. [第一章回国 第二章体测](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%9B%9E%E5%9B%BD%20%E7%AC%AC%E4%BA%8C%E7%AB%A0%E4%BD%93%E6%B5%8B&t=31&band_rank=2&Refer=top)<br />
+1. [第一章回国 第二章体测](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%9B%9E%E5%9B%BD%20%E7%AC%AC%E4%BA%8C%E7%AB%A0%E4%BD%93%E6%B5%8B&t=31&band_rank=1&Refer=top)<br />
+2. [地磁暴全责](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%85%A8%E8%B4%A3&t=31&band_rank=2&Refer=top)<br />
 3. [随手一拍就很出片的春天](https://s.weibo.com/weibo?q=%23%E9%9A%8F%E6%89%8B%E4%B8%80%E6%8B%8D%E5%B0%B1%E5%BE%88%E5%87%BA%E7%89%87%E7%9A%84%E6%98%A5%E5%A4%A9%23&t=31&band_rank=3&Refer=top)<br />
 4. [陈铭的论文](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%93%AD%E7%9A%84%E8%AE%BA%E6%96%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [扫墓时焚烧冥纸谈不上是封建迷信](https://s.weibo.com/weibo?q=%23%E6%89%AB%E5%A2%93%E6%97%B6%E7%84%9A%E7%83%A7%E5%86%A5%E7%BA%B8%E8%B0%88%E4%B8%8D%E4%B8%8A%E6%98%AF%E5%B0%81%E5%BB%BA%E8%BF%B7%E4%BF%A1%23&t=31&band_rank=5&Refer=top)<br />
-6. [董宇辉回应被说架子大](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%B4%E6%9E%B6%E5%AD%90%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
-7. [宋茜片场摔倒](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E7%89%87%E5%9C%BA%E6%91%94%E5%80%92&t=31&band_rank=7&Refer=top)<br />
+6. [宋茜片场摔倒](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E7%89%87%E5%9C%BA%E6%91%94%E5%80%92&t=31&band_rank=6&Refer=top)<br />
+7. [董宇辉回应被说架子大](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%B4%E6%9E%B6%E5%AD%90%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
 8. [周也 冰国皇太女](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%86%B0%E5%9B%BD%E7%9A%87%E5%A4%AA%E5%A5%B3&t=31&band_rank=8&Refer=top)<br />
-9. [泫雅转圈](https://s.weibo.com/weibo?q=%E6%B3%AB%E9%9B%85%E8%BD%AC%E5%9C%88&t=31&band_rank=9&Refer=top)<br />
+9. [陈楚生苏醒魏晨张杰早期写真](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E8%8B%8F%E9%86%92%E9%AD%8F%E6%99%A8%E5%BC%A0%E6%9D%B0%E6%97%A9%E6%9C%9F%E5%86%99%E7%9C%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
