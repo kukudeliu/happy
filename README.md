@@ -1,13 +1,13 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 10:02:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 10:03:01</h4></div>
 
 > 微博  
 
 1. [小林制药保健品已致2死106人住院](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF%E4%BF%9D%E5%81%A5%E5%93%81%E5%B7%B2%E8%87%B42%E6%AD%BB106%E4%BA%BA%E4%BD%8F%E9%99%A2%23&t=31&band_rank=1&Refer=top)<br />
 2. [大姨开面馆凭2个浇头火了7年](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A7%A8%E5%BC%80%E9%9D%A2%E9%A6%86%E5%87%AD2%E4%B8%AA%E6%B5%87%E5%A4%B4%E7%81%AB%E4%BA%867%E5%B9%B4%23&t=31&band_rank=2&Refer=top)<br />
 3. [春日里的中国随手拍](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%97%A5%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%9A%8F%E6%89%8B%E6%8B%8D%23&t=31&band_rank=3&Refer=top)<br />
-4. [考生蔡元培北大复试后仍专业第一](https://s.weibo.com/weibo?q=%E8%80%83%E7%94%9F%E8%94%A1%E5%85%83%E5%9F%B9%E5%8C%97%E5%A4%A7%E5%A4%8D%E8%AF%95%E5%90%8E%E4%BB%8D%E4%B8%93%E4%B8%9A%E7%AC%AC%E4%B8%80&t=31&band_rank=4&Refer=top)<br />
-5. [女孩无声直播1小时卖出20万普洱春茶](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%97%A0%E5%A3%B0%E7%9B%B4%E6%92%AD1%E5%B0%8F%E6%97%B6%E5%8D%96%E5%87%BA20%E4%B8%87%E6%99%AE%E6%B4%B1%E6%98%A5%E8%8C%B6%23&t=31&band_rank=5&Refer=top)<br />
-6. [北大招办回应是否录取蔡元培](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%8B%9B%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%BD%95%E5%8F%96%E8%94%A1%E5%85%83%E5%9F%B9%23&t=31&band_rank=6&Refer=top)<br />
+4. [北大招办回应是否录取蔡元培](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%8B%9B%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%BD%95%E5%8F%96%E8%94%A1%E5%85%83%E5%9F%B9%23&t=31&band_rank=4&Refer=top)<br />
+5. [考生蔡元培北大复试后仍专业第一](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E8%94%A1%E5%85%83%E5%9F%B9%E5%8C%97%E5%A4%A7%E5%A4%8D%E8%AF%95%E5%90%8E%E4%BB%8D%E4%B8%93%E4%B8%9A%E7%AC%AC%E4%B8%80%23&t=31&band_rank=5&Refer=top)<br />
+6. [女孩无声直播1小时卖出20万普洱春茶](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%97%A0%E5%A3%B0%E7%9B%B4%E6%92%AD1%E5%B0%8F%E6%97%B6%E5%8D%96%E5%87%BA20%E4%B8%87%E6%99%AE%E6%B4%B1%E6%98%A5%E8%8C%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [长期处于压力下身体会怎样](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%A4%84%E4%BA%8E%E5%8E%8B%E5%8A%9B%E4%B8%8B%E8%BA%AB%E4%BD%93%E4%BC%9A%E6%80%8E%E6%A0%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [原来是地磁暴 还以为上班上的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9C%B0%E7%A3%81%E6%9A%B4%20%E8%BF%98%E4%BB%A5%E4%B8%BA%E4%B8%8A%E7%8F%AD%E4%B8%8A%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
 9. [加拿大鹅宣布裁员17%](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E5%AE%A3%E5%B8%83%E8%A3%81%E5%91%9817%25%23&t=31&band_rank=9&Refer=top)<br />
