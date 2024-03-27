@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 20:21:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 20:22:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [青糍](https://s.weibo.com/weibo?q=%E9%9D%92%E7%B3%8D&t=31&band_rank=6&Refer=top)<br />
 7. [清华黑天鹅大逃亡计划落空](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E9%BB%91%E5%A4%A9%E9%B9%85%E5%A4%A7%E9%80%83%E4%BA%A1%E8%AE%A1%E5%88%92%E8%90%BD%E7%A9%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [海底捞一天翻台率3.3次](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%B8%80%E5%A4%A9%E7%BF%BB%E5%8F%B0%E7%8E%873.3%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [追风者直播](https://s.weibo.com/weibo?q=%23%E8%BF%BD%E9%A3%8E%E8%80%85%E7%9B%B4%E6%92%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [王一博素颜](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%B4%A0%E9%A2%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
