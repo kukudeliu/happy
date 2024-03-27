@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 17:44:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 17:45:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [刘学义郑合惠子鞠婧祎 hi6](https://s.weibo.com/weibo?q=%E5%88%98%E5%AD%A6%E4%B9%89%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E9%9E%A0%E5%A9%A7%E7%A5%8E%20hi6&t=31&band_rank=5&Refer=top)<br />
 6. [第一章回国 第二章体测](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%9B%9E%E5%9B%BD%20%E7%AC%AC%E4%BA%8C%E7%AB%A0%E4%BD%93%E6%B5%8B&t=31&band_rank=6&Refer=top)<br />
 7. [任敏 接受平凡好好爱自己](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%20%E6%8E%A5%E5%8F%97%E5%B9%B3%E5%87%A1%E5%A5%BD%E5%A5%BD%E7%88%B1%E8%87%AA%E5%B7%B1&t=31&band_rank=7&Refer=top)<br />
-8. [海底捞一天翻台率3.3次](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%B8%80%E5%A4%A9%E7%BF%BB%E5%8F%B0%E7%8E%873.3%E6%AC%A1%23&t=31&band_rank=8&Refer=top)<br />
+8. [一觉醒来夏东海和锅姨在一起了](https://s.weibo.com/weibo?q=%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%A4%8F%E4%B8%9C%E6%B5%B7%E5%92%8C%E9%94%85%E5%A7%A8%E5%9C%A8%E4%B8%80%E8%B5%B7%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [A股杀跌原因](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%9D%80%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
