@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 16:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 16:17:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [地磁暴全责](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%85%A8%E8%B4%A3&t=31&band_rank=6&Refer=top)<br />
 7. [我国法律无明确规定禁售冥纸](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%B3%95%E5%BE%8B%E6%97%A0%E6%98%8E%E7%A1%AE%E8%A7%84%E5%AE%9A%E7%A6%81%E5%94%AE%E5%86%A5%E7%BA%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子校内虐杀流浪猫被大学生抓获](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%A0%A1%E5%86%85%E8%99%90%E6%9D%80%E6%B5%81%E6%B5%AA%E7%8C%AB%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%93%E8%8E%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [武汉大学回应开设雷军班](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%BC%80%E8%AE%BE%E9%9B%B7%E5%86%9B%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [俄罗斯击落18枚吸血鬼火箭弹](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%87%BB%E8%90%BD18%E6%9E%9A%E5%90%B8%E8%A1%80%E9%AC%BC%E7%81%AB%E7%AE%AD%E5%BC%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
