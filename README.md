@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 01:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 01:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
 7. [何悯鸿向四美道歉](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%82%AF%E9%B8%BF%E5%90%91%E5%9B%9B%E7%BE%8E%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [魏大勋说不清了](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AF%B4%E4%B8%8D%E6%B8%85%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [春天的花花接二连三开](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E7%9A%84%E8%8A%B1%E8%8A%B1%E6%8E%A5%E4%BA%8C%E8%BF%9E%E4%B8%89%E5%BC%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [金牛座的焦虑来自于匮乏感](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%89%9B%E5%BA%A7%E7%9A%84%E7%84%A6%E8%99%91%E6%9D%A5%E8%87%AA%E4%BA%8E%E5%8C%AE%E4%B9%8F%E6%84%9F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
