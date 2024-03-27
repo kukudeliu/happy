@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 13:43:03</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 13:44:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [张颂文 你改下网名会不会好点](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%20%E4%BD%A0%E6%94%B9%E4%B8%8B%E7%BD%91%E5%90%8D%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%A5%BD%E7%82%B9&t=31&band_rank=4&Refer=top)<br />
 5. [泫雅转圈](https://s.weibo.com/weibo?q=%E6%B3%AB%E9%9B%85%E8%BD%AC%E5%9C%88&t=31&band_rank=5&Refer=top)<br />
 6. [周也 冰国皇太女](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%86%B0%E5%9B%BD%E7%9A%87%E5%A4%AA%E5%A5%B3&t=31&band_rank=6&Refer=top)<br />
-7. [鹿晗耍帅把假发甩掉了](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E8%80%8D%E5%B8%85%E6%8A%8A%E5%81%87%E5%8F%91%E7%94%A9%E6%8E%89%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
-8. [董宇辉回应被说架子大](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%B4%E6%9E%B6%E5%AD%90%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
+7. [董宇辉回应被说架子大](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%B4%E6%9E%B6%E5%AD%90%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
+8. [鹿晗耍帅把假发甩掉了](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E8%80%8D%E5%B8%85%E6%8A%8A%E5%81%87%E5%8F%91%E7%94%A9%E6%8E%89%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
 9. [爸爸煮饭费水遭女儿压迫式教育](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%85%AE%E9%A5%AD%E8%B4%B9%E6%B0%B4%E9%81%AD%E5%A5%B3%E5%84%BF%E5%8E%8B%E8%BF%AB%E5%BC%8F%E6%95%99%E8%82%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
