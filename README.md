@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 21:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 21:07:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [离异3年内不得京内购房被废止](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%BC%823%E5%B9%B4%E5%86%85%E4%B8%8D%E5%BE%97%E4%BA%AC%E5%86%85%E8%B4%AD%E6%88%BF%E8%A2%AB%E5%BA%9F%E6%AD%A2%23&t=31&band_rank=6&Refer=top)<br />
 7. [禁售殡葬用品后南通12345接大量电话](https://s.weibo.com/weibo?q=%23%E7%A6%81%E5%94%AE%E6%AE%A1%E8%91%AC%E7%94%A8%E5%93%81%E5%90%8E%E5%8D%97%E9%80%9A12345%E6%8E%A5%E5%A4%A7%E9%87%8F%E7%94%B5%E8%AF%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [刚出生就1米85的帅宝宝来了](https://s.weibo.com/weibo?q=%23%E5%88%9A%E5%87%BA%E7%94%9F%E5%B0%B11%E7%B1%B385%E7%9A%84%E5%B8%85%E5%AE%9D%E5%AE%9D%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [清华黑天鹅大逃亡计划落空](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E9%BB%91%E5%A4%A9%E9%B9%85%E5%A4%A7%E9%80%83%E4%BA%A1%E8%AE%A1%E5%88%92%E8%90%BD%E7%A9%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [黄景瑜我妈要百度你的电话](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E6%88%91%E5%A6%88%E8%A6%81%E7%99%BE%E5%BA%A6%E4%BD%A0%E7%9A%84%E7%94%B5%E8%AF%9D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
