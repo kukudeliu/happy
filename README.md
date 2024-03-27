@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 06:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 06:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
 7. [何悯鸿向四美道歉](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%82%AF%E9%B8%BF%E5%90%91%E5%9B%9B%E7%BE%8E%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [180斤山东女孩拍写真美哭网友](https://s.weibo.com/weibo?q=%23180%E6%96%A4%E5%B1%B1%E4%B8%9C%E5%A5%B3%E5%AD%A9%E6%8B%8D%E5%86%99%E7%9C%9F%E7%BE%8E%E5%93%AD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=8&Refer=top)<br />
-9. [大熊猫青糍死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%9D%92%E7%B3%8D%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
+9. [王嘉尔普吉岛](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%E6%99%AE%E5%90%89%E5%B2%9B&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
