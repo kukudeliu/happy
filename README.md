@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 06:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 06:09:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [女子得知父亲去世高速上崩溃大哭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BE%97%E7%9F%A5%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E9%AB%98%E9%80%9F%E4%B8%8A%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23&t=31&band_rank=4&Refer=top)<br />
 5. [大熊猫青糍死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%9D%92%E7%B3%8D%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
-7. [刚出生就1米85的帅宝宝来了](https://s.weibo.com/weibo?q=%23%E5%88%9A%E5%87%BA%E7%94%9F%E5%B0%B11%E7%B1%B385%E7%9A%84%E5%B8%85%E5%AE%9D%E5%AE%9D%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
-8. [何悯鸿向四美道歉](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%82%AF%E9%B8%BF%E5%90%91%E5%9B%9B%E7%BE%8E%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top)<br />
-9. [8万的预算能在深圳玩三天吗](https://s.weibo.com/weibo?q=8%E4%B8%87%E7%9A%84%E9%A2%84%E7%AE%97%E8%83%BD%E5%9C%A8%E6%B7%B1%E5%9C%B3%E7%8E%A9%E4%B8%89%E5%A4%A9%E5%90%97&t=31&band_rank=9&Refer=top)<br />
+7. [何悯鸿向四美道歉](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%82%AF%E9%B8%BF%E5%90%91%E5%9B%9B%E7%BE%8E%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
+8. [8万的预算能在深圳玩三天吗](https://s.weibo.com/weibo?q=8%E4%B8%87%E7%9A%84%E9%A2%84%E7%AE%97%E8%83%BD%E5%9C%A8%E6%B7%B1%E5%9C%B3%E7%8E%A9%E4%B8%89%E5%A4%A9%E5%90%97&t=31&band_rank=8&Refer=top)<br />
+9. [刚出生就1米85的帅宝宝来了](https://s.weibo.com/weibo?q=%23%E5%88%9A%E5%87%BA%E7%94%9F%E5%B0%B11%E7%B1%B385%E7%9A%84%E5%B8%85%E5%AE%9D%E5%AE%9D%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
