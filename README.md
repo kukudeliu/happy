@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 14:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 14:45:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [陈铭的论文](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%93%AD%E7%9A%84%E8%AE%BA%E6%96%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [扫墓时焚烧冥纸谈不上是封建迷信](https://s.weibo.com/weibo?q=%23%E6%89%AB%E5%A2%93%E6%97%B6%E7%84%9A%E7%83%A7%E5%86%A5%E7%BA%B8%E8%B0%88%E4%B8%8D%E4%B8%8A%E6%98%AF%E5%B0%81%E5%BB%BA%E8%BF%B7%E4%BF%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [宋茜片场摔倒](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E7%89%87%E5%9C%BA%E6%91%94%E5%80%92&t=31&band_rank=6&Refer=top)<br />
-7. [马立奥写作业八百个小动作](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%86%99%E4%BD%9C%E4%B8%9A%E5%85%AB%E7%99%BE%E4%B8%AA%E5%B0%8F%E5%8A%A8%E4%BD%9C%23&t=31&band_rank=7&Refer=top)<br />
-8. [周也 冰国皇太女](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%86%B0%E5%9B%BD%E7%9A%87%E5%A4%AA%E5%A5%B3&t=31&band_rank=8&Refer=top)<br />
+7. [陈楚生苏醒魏晨张杰早期写真](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E8%8B%8F%E9%86%92%E9%AD%8F%E6%99%A8%E5%BC%A0%E6%9D%B0%E6%97%A9%E6%9C%9F%E5%86%99%E7%9C%9F%23&t=31&band_rank=7&Refer=top)<br />
+8. [马立奥写作业八百个小动作](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%86%99%E4%BD%9C%E4%B8%9A%E5%85%AB%E7%99%BE%E4%B8%AA%E5%B0%8F%E5%8A%A8%E4%BD%9C%23&t=31&band_rank=8&Refer=top)<br />
 9. [爸爸煮饭费水遭女儿压迫式教育](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%85%AE%E9%A5%AD%E8%B4%B9%E6%B0%B4%E9%81%AD%E5%A5%B3%E5%84%BF%E5%8E%8B%E8%BF%AB%E5%BC%8F%E6%95%99%E8%82%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
