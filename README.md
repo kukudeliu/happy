@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 13:20:03</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 13:21:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [鹿晗耍帅把假发甩掉了](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E8%80%8D%E5%B8%85%E6%8A%8A%E5%81%87%E5%8F%91%E7%94%A9%E6%8E%89%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
 7. [游本昌为追妻写一麻袋情书](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%9C%AC%E6%98%8C%E4%B8%BA%E8%BF%BD%E5%A6%BB%E5%86%99%E4%B8%80%E9%BA%BB%E8%A2%8B%E6%83%85%E4%B9%A6%23&t=31&band_rank=7&Refer=top)<br />
 8. [小林制药保健品已致2死106人住院](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF%E4%BF%9D%E5%81%A5%E5%93%81%E5%B7%B2%E8%87%B42%E6%AD%BB106%E4%BA%BA%E4%BD%8F%E9%99%A2%23&t=31&band_rank=8&Refer=top)<br />
-9. [梅西身价持续下降](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%BA%AB%E4%BB%B7%E6%8C%81%E7%BB%AD%E4%B8%8B%E9%99%8D%23&t=31&band_rank=9&Refer=top)<br />
+9. [爸爸煮饭费水遭女儿压迫式教育](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%85%AE%E9%A5%AD%E8%B4%B9%E6%B0%B4%E9%81%AD%E5%A5%B3%E5%84%BF%E5%8E%8B%E8%BF%AB%E5%BC%8F%E6%95%99%E8%82%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
