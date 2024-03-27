@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 15:51:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 15:52:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [90后外卖小哥称不愿缴纳社保](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E7%A7%B0%E4%B8%8D%E6%84%BF%E7%BC%B4%E7%BA%B3%E7%A4%BE%E4%BF%9D%23&t=31&band_rank=6&Refer=top)<br />
 7. [陈铭的论文](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%93%AD%E7%9A%84%E8%AE%BA%E6%96%87%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子校内虐杀流浪猫被大学生抓获](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%A0%A1%E5%86%85%E8%99%90%E6%9D%80%E6%B5%81%E6%B5%AA%E7%8C%AB%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%93%E8%8E%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [网传春色寄情人定档](https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E6%98%A5%E8%89%B2%E5%AF%84%E6%83%85%E4%BA%BA%E5%AE%9A%E6%A1%A3&t=31&band_rank=9&Refer=top)<br />
+9. [我国法律无明确规定禁售冥纸](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%B3%95%E5%BE%8B%E6%97%A0%E6%98%8E%E7%A1%AE%E8%A7%84%E5%AE%9A%E7%A6%81%E5%94%AE%E5%86%A5%E7%BA%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
