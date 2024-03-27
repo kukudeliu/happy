@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 03:59:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 04:00:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
 7. [广州10块一碗猪脚面](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E10%E5%9D%97%E4%B8%80%E7%A2%97%E7%8C%AA%E8%84%9A%E9%9D%A2&t=31&band_rank=7&Refer=top)<br />
 8. [刚出生就1米85的帅宝宝来了](https://s.weibo.com/weibo?q=%23%E5%88%9A%E5%87%BA%E7%94%9F%E5%B0%B11%E7%B1%B385%E7%9A%84%E5%B8%85%E5%AE%9D%E5%AE%9D%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [王嘉尔普吉岛](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%E6%99%AE%E5%90%89%E5%B2%9B&t=31&band_rank=9&Refer=top)<br />
+9. [何悯鸿向四美道歉](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%82%AF%E9%B8%BF%E5%90%91%E5%9B%9B%E7%BE%8E%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
