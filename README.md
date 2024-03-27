@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 19:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 19:35:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [NikeAirMax](https://s.weibo.com/weibo?q=%23NikeAirMax%23&t=31&band_rank=4&Refer=top)<br />
 5. [刚出生就1米85的帅宝宝来了](https://s.weibo.com/weibo?q=%23%E5%88%9A%E5%87%BA%E7%94%9F%E5%B0%B11%E7%B1%B385%E7%9A%84%E5%B8%85%E5%AE%9D%E5%AE%9D%E6%9D%A5%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [王诗龄晒与李湘在英国的日常](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E6%99%92%E4%B8%8E%E6%9D%8E%E6%B9%98%E5%9C%A8%E8%8B%B1%E5%9B%BD%E7%9A%84%E6%97%A5%E5%B8%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [阿坝州地震](https://s.weibo.com/weibo?q=%E9%98%BF%E5%9D%9D%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=7&Refer=top)<br />
-8. [扫墓时焚烧冥纸谈不上是封建迷信](https://s.weibo.com/weibo?q=%23%E6%89%AB%E5%A2%93%E6%97%B6%E7%84%9A%E7%83%A7%E5%86%A5%E7%BA%B8%E8%B0%88%E4%B8%8D%E4%B8%8A%E6%98%AF%E5%B0%81%E5%BB%BA%E8%BF%B7%E4%BF%A1%23&t=31&band_rank=8&Refer=top)<br />
+7. [一觉醒来夏东海和锅姨在一起了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%A4%8F%E4%B8%9C%E6%B5%B7%E5%92%8C%E9%94%85%E5%A7%A8%E5%9C%A8%E4%B8%80%E8%B5%B7%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [阿坝州地震](https://s.weibo.com/weibo?q=%E9%98%BF%E5%9D%9D%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=8&Refer=top)<br />
 9. [柯基警犬福仔被背着出街](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%9F%BA%E8%AD%A6%E7%8A%AC%E7%A6%8F%E4%BB%94%E8%A2%AB%E8%83%8C%E7%9D%80%E5%87%BA%E8%A1%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
