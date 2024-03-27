@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 20:01:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 20:02:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [刚出生就1米85的帅宝宝来了](https://s.weibo.com/weibo?q=%23%E5%88%9A%E5%87%BA%E7%94%9F%E5%B0%B11%E7%B1%B385%E7%9A%84%E5%B8%85%E5%AE%9D%E5%AE%9D%E6%9D%A5%E4%BA%86%23&t=31&band_rank=5&Refer=top)<br />
 6. [青糍](https://s.weibo.com/weibo?q=%E9%9D%92%E7%B3%8D&t=31&band_rank=6&Refer=top)<br />
 7. [追风者直播](https://s.weibo.com/weibo?q=%23%E8%BF%BD%E9%A3%8E%E8%80%85%E7%9B%B4%E6%92%AD%23&t=31&band_rank=7&Refer=top)<br />
-8. [扫墓时焚烧冥纸谈不上是封建迷信](https://s.weibo.com/weibo?q=%23%E6%89%AB%E5%A2%93%E6%97%B6%E7%84%9A%E7%83%A7%E5%86%A5%E7%BA%B8%E8%B0%88%E4%B8%8D%E4%B8%8A%E6%98%AF%E5%B0%81%E5%BB%BA%E8%BF%B7%E4%BF%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [柯基警犬福仔被背着出街](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%9F%BA%E8%AD%A6%E7%8A%AC%E7%A6%8F%E4%BB%94%E8%A2%AB%E8%83%8C%E7%9D%80%E5%87%BA%E8%A1%97%23&t=31&band_rank=9&Refer=top)<br />
+8. [猎罪图鉴2拍摄进展be like](https://s.weibo.com/weibo?q=%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B42%E6%8B%8D%E6%91%84%E8%BF%9B%E5%B1%95be%20like&t=31&band_rank=8&Refer=top)<br />
+9. [阿坝州地震](https://s.weibo.com/weibo?q=%E9%98%BF%E5%9D%9D%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
