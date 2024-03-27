@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 02:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 02:43:02</h4></div>
 
 > 微博  
 
 1. [你愿意不交社保换更多工资吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%84%BF%E6%84%8F%E4%B8%8D%E4%BA%A4%E7%A4%BE%E4%BF%9D%E6%8D%A2%E6%9B%B4%E5%A4%9A%E5%B7%A5%E8%B5%84%E5%90%97%23&t=31&band_rank=1&Refer=top)<br />
-2. [王嘉尔普吉岛](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%E6%99%AE%E5%90%89%E5%B2%9B&t=31&band_rank=2&Refer=top)<br />
+2. [广州10块一碗猪脚面](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E10%E5%9D%97%E4%B8%80%E7%A2%97%E7%8C%AA%E8%84%9A%E9%9D%A2&t=31&band_rank=2&Refer=top)<br />
 3. [我国网络视听用户规模达10.74亿人](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%94%A8%E6%88%B7%E8%A7%84%E6%A8%A1%E8%BE%BE10.74%E4%BA%BF%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [IMBT](https://s.weibo.com/weibo?q=IMBT&t=31&band_rank=4&Refer=top)<br />
-5. [广州10块一碗猪脚面](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E10%E5%9D%97%E4%B8%80%E7%A2%97%E7%8C%AA%E8%84%9A%E9%9D%A2&t=31&band_rank=5&Refer=top)<br />
+5. [王嘉尔普吉岛](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%E6%99%AE%E5%90%89%E5%B2%9B&t=31&band_rank=5&Refer=top)<br />
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
 7. [何悯鸿向四美道歉](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%82%AF%E9%B8%BF%E5%90%91%E5%9B%9B%E7%BE%8E%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top)<br />
 8. [大熊猫青糍死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%9D%92%E7%B3%8D%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
