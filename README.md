@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 12:32:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 12:33:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [凤凰传奇抢票](https://s.weibo.com/weibo?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%8A%A2%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
 7. [小林制药保健品已致2死106人住院](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF%E4%BF%9D%E5%81%A5%E5%93%81%E5%B7%B2%E8%87%B42%E6%AD%BB106%E4%BA%BA%E4%BD%8F%E9%99%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [曾黎评价赵丽颖](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E8%AF%84%E4%BB%B7%E8%B5%B5%E4%B8%BD%E9%A2%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [黄泉歪了](https://s.weibo.com/weibo?q=%E9%BB%84%E6%B3%89%E6%AD%AA%E4%BA%86&t=31&band_rank=9&Refer=top)<br />
+9. [台湾网友关注天水麻辣烫](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%BD%91%E5%8F%8B%E5%85%B3%E6%B3%A8%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
