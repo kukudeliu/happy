@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 14:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 14:18:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周也 冰国皇太女](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%86%B0%E5%9B%BD%E7%9A%87%E5%A4%AA%E5%A5%B3&t=31&band_rank=6&Refer=top)<br />
 7. [泫雅转圈](https://s.weibo.com/weibo?q=%E6%B3%AB%E9%9B%85%E8%BD%AC%E5%9C%88&t=31&band_rank=7&Refer=top)<br />
 8. [宋茜片场摔倒](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E7%89%87%E5%9C%BA%E6%91%94%E5%80%92&t=31&band_rank=8&Refer=top)<br />
-9. [爸爸煮饭费水遭女儿压迫式教育](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%85%AE%E9%A5%AD%E8%B4%B9%E6%B0%B4%E9%81%AD%E5%A5%B3%E5%84%BF%E5%8E%8B%E8%BF%AB%E5%BC%8F%E6%95%99%E8%82%B2%23&t=31&band_rank=9&Refer=top)<br />
+9. [扫墓时焚烧冥纸谈不上是封建迷信](https://s.weibo.com/weibo?q=%23%E6%89%AB%E5%A2%93%E6%97%B6%E7%84%9A%E7%83%A7%E5%86%A5%E7%BA%B8%E8%B0%88%E4%B8%8D%E4%B8%8A%E6%98%AF%E5%B0%81%E5%BB%BA%E8%BF%B7%E4%BF%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
