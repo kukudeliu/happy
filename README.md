@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 02:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 02:44:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [大熊猫青糍因病去世](https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%9D%92%E7%B3%8D%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“春日经济”热力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%A5%E6%97%A5%E7%BB%8F%E6%B5%8E%E2%80%9D%E7%83%AD%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [清华黑天鹅大逃亡计划落空](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E9%BB%91%E5%A4%A9%E9%B9%85%E5%A4%A7%E9%80%83%E4%BA%A1%E8%AE%A1%E5%88%92%E8%90%BD%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [乘客吐一车洗车费958元只赔200](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E5%90%90%E4%B8%80%E8%BD%A6%E6%B4%97%E8%BD%A6%E8%B4%B9958%E5%85%83%E5%8F%AA%E8%B5%94200&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [打车2公里“消费”2800元 司机被拘](https://www.baidu.com/s?wd=%E6%89%93%E8%BD%A62%E5%85%AC%E9%87%8C%E2%80%9C%E6%B6%88%E8%B4%B9%E2%80%9D2800%E5%85%83+%E5%8F%B8%E6%9C%BA%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [博主称要挖秦始皇陵警方介入](https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%A7%B0%E8%A6%81%E6%8C%96%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [打车2公里“消费”2800元 司机被拘](https://www.baidu.com/s?wd=%E6%89%93%E8%BD%A62%E5%85%AC%E9%87%8C%E2%80%9C%E6%B6%88%E8%B4%B9%E2%80%9D2800%E5%85%83+%E5%8F%B8%E6%9C%BA%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [博主称要挖秦始皇陵警方介入](https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%A7%B0%E8%A6%81%E6%8C%96%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王诗龄回国穿近4万套装](https://www.baidu.com/s?wd=%E7%8E%8B%E8%AF%97%E9%BE%84%E5%9B%9E%E5%9B%BD%E7%A9%BF%E8%BF%914%E4%B8%87%E5%A5%97%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中南大学辟谣宿舍楼起火](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A3%E5%AE%BF%E8%88%8D%E6%A5%BC%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [大熊猫青糍因病去世](https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%9D%92%E7%B3%8D%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“春日经济”热力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%A5%E6%97%A5%E7%BB%8F%E6%B5%8E%E2%80%9D%E7%83%AD%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [清华黑天鹅大逃亡计划落空](https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E9%BB%91%E5%A4%A9%E9%B9%85%E5%A4%A7%E9%80%83%E4%BA%A1%E8%AE%A1%E5%88%92%E8%90%BD%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [乘客吐一车洗车费958元只赔200](https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E5%90%90%E4%B8%80%E8%BD%A6%E6%B4%97%E8%BD%A6%E8%B4%B9958%E5%85%83%E5%8F%AA%E8%B5%94200&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [打车2公里“消费”2800元 司机被拘](https://www.baidu.com/s?wd=%E6%89%93%E8%BD%A62%E5%85%AC%E9%87%8C%E2%80%9C%E6%B6%88%E8%B4%B9%E2%80%9D2800%E5%85%83+%E5%8F%B8%E6%9C%BA%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [博主称要挖秦始皇陵警方介入](https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%A7%B0%E8%A6%81%E6%8C%96%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [打车2公里“消费”2800元 司机被拘](https://www.baidu.com/s?wd=%E6%89%93%E8%BD%A62%E5%85%AC%E9%87%8C%E2%80%9C%E6%B6%88%E8%B4%B9%E2%80%9D2800%E5%85%83+%E5%8F%B8%E6%9C%BA%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [博主称要挖秦始皇陵警方介入](https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%A7%B0%E8%A6%81%E6%8C%96%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [王诗龄回国穿近4万套装](https://www.baidu.com/s?wd=%E7%8E%8B%E8%AF%97%E9%BE%84%E5%9B%9E%E5%9B%BD%E7%A9%BF%E8%BF%914%E4%B8%87%E5%A5%97%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中南大学辟谣宿舍楼起火](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A3%E5%AE%BF%E8%88%8D%E6%A5%BC%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
