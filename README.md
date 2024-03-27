@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 16:11:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 16:12:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [聚焦浙江高质量发展](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E6%B5%99%E6%B1%9F%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [刚出生就1米85的帅宝宝来了](https://s.weibo.com/weibo?q=%23%E5%88%9A%E5%87%BA%E7%94%9F%E5%B0%B11%E7%B1%B385%E7%9A%84%E5%B8%85%E5%AE%9D%E5%AE%9D%E6%9D%A5%E4%BA%86%23&t=31&band_rank=4&Refer=top)<br />
 5. [陈铭回应论文争议](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%93%AD%E5%9B%9E%E5%BA%94%E8%AE%BA%E6%96%87%E4%BA%89%E8%AE%AE%23&t=31&band_rank=5&Refer=top)<br />
-6. [我国法律无明确规定禁售冥纸](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%B3%95%E5%BE%8B%E6%97%A0%E6%98%8E%E7%A1%AE%E8%A7%84%E5%AE%9A%E7%A6%81%E5%94%AE%E5%86%A5%E7%BA%B8%23&t=31&band_rank=6&Refer=top)<br />
-7. [地磁暴全责](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%85%A8%E8%B4%A3&t=31&band_rank=7&Refer=top)<br />
+6. [地磁暴全责](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%85%A8%E8%B4%A3&t=31&band_rank=6&Refer=top)<br />
+7. [我国法律无明确规定禁售冥纸](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%B3%95%E5%BE%8B%E6%97%A0%E6%98%8E%E7%A1%AE%E8%A7%84%E5%AE%9A%E7%A6%81%E5%94%AE%E5%86%A5%E7%BA%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [男子校内虐杀流浪猫被大学生抓获](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%A0%A1%E5%86%85%E8%99%90%E6%9D%80%E6%B5%81%E6%B5%AA%E7%8C%AB%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%93%E8%8E%B7%23&t=31&band_rank=8&Refer=top)<br />
 9. [A股再度跌破3000点大关](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%86%8D%E5%BA%A6%E8%B7%8C%E7%A0%B43000%E7%82%B9%E5%A4%A7%E5%85%B3%23&t=31&band_rank=9&Refer=top)<br />
 
