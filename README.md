@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 10:19:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 10:20:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [大姨开面馆凭2个浇头火了7年](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A7%A8%E5%BC%80%E9%9D%A2%E9%A6%86%E5%87%AD2%E4%B8%AA%E6%B5%87%E5%A4%B4%E7%81%AB%E4%BA%867%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [叉开腿坐真的是最健康坐姿吗](https://s.weibo.com/weibo?q=%23%E5%8F%89%E5%BC%80%E8%85%BF%E5%9D%90%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%80%E5%81%A5%E5%BA%B7%E5%9D%90%E5%A7%BF%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
 6. [女孩无声直播1小时卖出20万普洱春茶](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%97%A0%E5%A3%B0%E7%9B%B4%E6%92%AD1%E5%B0%8F%E6%97%B6%E5%8D%96%E5%87%BA20%E4%B8%87%E6%99%AE%E6%B4%B1%E6%98%A5%E8%8C%B6%23&t=31&band_rank=6&Refer=top)<br />
-7. [福建跳楼身亡女生疑遭至少2人霸凌](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%E5%A5%B3%E7%94%9F%E7%96%91%E9%81%AD%E8%87%B3%E5%B0%912%E4%BA%BA%E9%9C%B8%E5%87%8C%23&t=31&band_rank=7&Refer=top)<br />
-8. [考生蔡元培北大复试后仍专业第一](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E8%94%A1%E5%85%83%E5%9F%B9%E5%8C%97%E5%A4%A7%E5%A4%8D%E8%AF%95%E5%90%8E%E4%BB%8D%E4%B8%93%E4%B8%9A%E7%AC%AC%E4%B8%80%23&t=31&band_rank=8&Refer=top)<br />
+7. [考生蔡元培北大复试后仍专业第一](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E8%94%A1%E5%85%83%E5%9F%B9%E5%8C%97%E5%A4%A7%E5%A4%8D%E8%AF%95%E5%90%8E%E4%BB%8D%E4%B8%93%E4%B8%9A%E7%AC%AC%E4%B8%80%23&t=31&band_rank=7&Refer=top)<br />
+8. [福建跳楼身亡女生疑遭至少2人霸凌](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%E5%A5%B3%E7%94%9F%E7%96%91%E9%81%AD%E8%87%B3%E5%B0%912%E4%BA%BA%E9%9C%B8%E5%87%8C%23&t=31&band_rank=8&Refer=top)<br />
 9. [长期处于压力下身体会怎样](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%A4%84%E4%BA%8E%E5%8E%8B%E5%8A%9B%E4%B8%8B%E8%BA%AB%E4%BD%93%E4%BC%9A%E6%80%8E%E6%A0%B7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
