@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 05:56:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 05:57:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
 7. [大熊猫青糍死亡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%9D%92%E7%B3%8D%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=7&Refer=top)<br />
 8. [孔雪儿演女二](https://s.weibo.com/weibo?q=%23%E5%AD%94%E9%9B%AA%E5%84%BF%E6%BC%94%E5%A5%B3%E4%BA%8C%23&t=31&band_rank=8&Refer=top)<br />
-9. [王嘉尔普吉岛](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%E6%99%AE%E5%90%89%E5%B2%9B&t=31&band_rank=9&Refer=top)<br />
+9. [8万的预算能在深圳玩三天吗](https://s.weibo.com/weibo?q=8%E4%B8%87%E7%9A%84%E9%A2%84%E7%AE%97%E8%83%BD%E5%9C%A8%E6%B7%B1%E5%9C%B3%E7%8E%A9%E4%B8%89%E5%A4%A9%E5%90%97&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
