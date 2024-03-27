@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 07:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 07:57:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [女子将儿媳打得满身疤痕惹众怒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%86%E5%84%BF%E5%AA%B3%E6%89%93%E5%BE%97%E6%BB%A1%E8%BA%AB%E7%96%A4%E7%97%95%E6%83%B9%E4%BC%97%E6%80%92%23&t=31&band_rank=4&Refer=top)<br />
 5. [冯提莫腰线](https://s.weibo.com/weibo?q=%23%E5%86%AF%E6%8F%90%E8%8E%AB%E8%85%B0%E7%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
-7. [持续黑一个历史人物十年](https://s.weibo.com/weibo?q=%E6%8C%81%E7%BB%AD%E9%BB%91%E4%B8%80%E4%B8%AA%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E5%8D%81%E5%B9%B4&t=31&band_rank=7&Refer=top)<br />
-8. [梦泪当爸爸](https://s.weibo.com/weibo?q=%E6%A2%A6%E6%B3%AA%E5%BD%93%E7%88%B8%E7%88%B8&t=31&band_rank=8&Refer=top)<br />
+7. [梦泪当爸爸](https://s.weibo.com/weibo?q=%E6%A2%A6%E6%B3%AA%E5%BD%93%E7%88%B8%E7%88%B8&t=31&band_rank=7&Refer=top)<br />
+8. [持续黑一个历史人物十年](https://s.weibo.com/weibo?q=%E6%8C%81%E7%BB%AD%E9%BB%91%E4%B8%80%E4%B8%AA%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E5%8D%81%E5%B9%B4&t=31&band_rank=8&Refer=top)<br />
 9. [何悯鸿向四美道歉](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%82%AF%E9%B8%BF%E5%90%91%E5%9B%9B%E7%BE%8E%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
