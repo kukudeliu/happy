@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 16:05:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 16:06:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [考生莫言北大复试成绩公布](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%8E%AB%E8%A8%80%E5%8C%97%E5%A4%A7%E5%A4%8D%E8%AF%95%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王力宏申请强制执行](https://www.baidu.com/s?wd=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友称32岁还在被父母的审美霸凌](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B032%E5%B2%81%E8%BF%98%E5%9C%A8%E8%A2%AB%E7%88%B6%E6%AF%8D%E7%9A%84%E5%AE%A1%E7%BE%8E%E9%9C%B8%E5%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生取24颗胆结石没事盘着玩](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8F%9624%E9%A2%97%E8%83%86%E7%BB%93%E7%9F%B3%E6%B2%A1%E4%BA%8B%E7%9B%98%E7%9D%80%E7%8E%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄罗斯击落18枚吸血鬼火箭弹](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%87%BB%E8%90%BD18%E6%9E%9A%E5%90%B8%E8%A1%80%E9%AC%BC%E7%81%AB%E7%AE%AD%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [南宁辟谣出现大量裸奔人士](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E8%BE%9F%E8%B0%A3%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%A3%B8%E5%A5%94%E4%BA%BA%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [考生莫言北大复试成绩公布](https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%8E%AB%E8%A8%80%E5%8C%97%E5%A4%A7%E5%A4%8D%E8%AF%95%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王力宏申请强制执行](https://www.baidu.com/s?wd=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [网友称32岁还在被父母的审美霸凌](https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B032%E5%B2%81%E8%BF%98%E5%9C%A8%E8%A2%AB%E7%88%B6%E6%AF%8D%E7%9A%84%E5%AE%A1%E7%BE%8E%E9%9C%B8%E5%87%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女生取24颗胆结石没事盘着玩](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%8F%9624%E9%A2%97%E8%83%86%E7%BB%93%E7%9F%B3%E6%B2%A1%E4%BA%8B%E7%9B%98%E7%9D%80%E7%8E%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [俄罗斯击落18枚吸血鬼火箭弹](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%87%BB%E8%90%BD18%E6%9E%9A%E5%90%B8%E8%A1%80%E9%AC%BC%E7%81%AB%E7%AE%AD%E5%BC%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [南宁辟谣出现大量裸奔人士](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E8%BE%9F%E8%B0%A3%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%A3%B8%E5%A5%94%E4%BA%BA%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
