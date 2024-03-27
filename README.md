@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 12:41:03</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 12:42:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [蔡元培复试仍第一 北大回应是否录取](https://www.baidu.com/s?wd=%E8%94%A1%E5%85%83%E5%9F%B9%E5%A4%8D%E8%AF%95%E4%BB%8D%E7%AC%AC%E4%B8%80+%E5%8C%97%E5%A4%A7%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张颂文：你改下网名会不会好点](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%EF%BC%9A%E4%BD%A0%E6%94%B9%E4%B8%8B%E7%BD%91%E5%90%8D%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%A5%BD%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [央媒评南通禁售殡葬用品：简单粗暴](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E5%8D%97%E9%80%9A%E7%A6%81%E5%94%AE%E6%AE%A1%E8%91%AC%E7%94%A8%E5%93%81%EF%BC%9A%E7%AE%80%E5%8D%95%E7%B2%97%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [记者：伊万赢得了改造国足的时间](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%EF%BC%9A%E4%BC%8A%E4%B8%87%E8%B5%A2%E5%BE%97%E4%BA%86%E6%94%B9%E9%80%A0%E5%9B%BD%E8%B6%B3%E7%9A%84%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子打伤二嫂致死后逃匿跳楼身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%93%E4%BC%A4%E4%BA%8C%E5%AB%82%E8%87%B4%E6%AD%BB%E5%90%8E%E9%80%83%E5%8C%BF%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [南宁辟谣出现大量裸奔人士](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E8%BE%9F%E8%B0%A3%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%A3%B8%E5%A5%94%E4%BA%BA%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [蔡元培复试仍第一 北大回应是否录取](https://www.baidu.com/s?wd=%E8%94%A1%E5%85%83%E5%9F%B9%E5%A4%8D%E8%AF%95%E4%BB%8D%E7%AC%AC%E4%B8%80+%E5%8C%97%E5%A4%A7%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [张颂文：你改下网名会不会好点](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%EF%BC%9A%E4%BD%A0%E6%94%B9%E4%B8%8B%E7%BD%91%E5%90%8D%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%A5%BD%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [央媒评南通禁售殡葬用品：简单粗暴](https://www.baidu.com/s?wd=%E5%A4%AE%E5%AA%92%E8%AF%84%E5%8D%97%E9%80%9A%E7%A6%81%E5%94%AE%E6%AE%A1%E8%91%AC%E7%94%A8%E5%93%81%EF%BC%9A%E7%AE%80%E5%8D%95%E7%B2%97%E6%9A%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [记者：伊万赢得了改造国足的时间](https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%EF%BC%9A%E4%BC%8A%E4%B8%87%E8%B5%A2%E5%BE%97%E4%BA%86%E6%94%B9%E9%80%A0%E5%9B%BD%E8%B6%B3%E7%9A%84%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子打伤二嫂致死后逃匿跳楼身亡](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%93%E4%BC%A4%E4%BA%8C%E5%AB%82%E8%87%B4%E6%AD%BB%E5%90%8E%E9%80%83%E5%8C%BF%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [南宁辟谣出现大量裸奔人士](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E8%BE%9F%E8%B0%A3%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%A3%B8%E5%A5%94%E4%BA%BA%E5%A3%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
