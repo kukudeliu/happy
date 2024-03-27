@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 13:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 13:37:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [周也 冰国皇太女](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E5%86%B0%E5%9B%BD%E7%9A%87%E5%A4%AA%E5%A5%B3&t=31&band_rank=6&Refer=top)<br />
 7. [鹿晗耍帅把假发甩掉了](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E8%80%8D%E5%B8%85%E6%8A%8A%E5%81%87%E5%8F%91%E7%94%A9%E6%8E%89%E4%BA%86&t=31&band_rank=7&Refer=top)<br />
 8. [董宇辉回应被说架子大](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%B4%E6%9E%B6%E5%AD%90%E5%A4%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [小林制药保健品已致2死106人住院](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF%E4%BF%9D%E5%81%A5%E5%93%81%E5%B7%B2%E8%87%B42%E6%AD%BB106%E4%BA%BA%E4%BD%8F%E9%99%A2%23&t=31&band_rank=9&Refer=top)<br />
+9. [爸爸煮饭费水遭女儿压迫式教育](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%85%AE%E9%A5%AD%E8%B4%B9%E6%B0%B4%E9%81%AD%E5%A5%B3%E5%84%BF%E5%8E%8B%E8%BF%AB%E5%BC%8F%E6%95%99%E8%82%B2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
