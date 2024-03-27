@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 12:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 12:58:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [向佐的中文水平停留在12岁](https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E7%9A%84%E4%B8%AD%E6%96%87%E6%B0%B4%E5%B9%B3%E5%81%9C%E7%95%99%E5%9C%A812%E5%B2%81%23&t=31&band_rank=5&Refer=top)<br />
 6. [凤凰传奇抢票](https://s.weibo.com/weibo?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%8A%A2%E7%A5%A8&t=31&band_rank=6&Refer=top)<br />
 7. [小林制药保健品已致2死106人住院](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF%E4%BF%9D%E5%81%A5%E5%93%81%E5%B7%B2%E8%87%B42%E6%AD%BB106%E4%BA%BA%E4%BD%8F%E9%99%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [台湾网友关注天水麻辣烫](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%BD%91%E5%8F%8B%E5%85%B3%E6%B3%A8%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵露思入选VOGUE三月全球女星妆容](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%85%A5%E9%80%89VOGUE%E4%B8%89%E6%9C%88%E5%85%A8%E7%90%83%E5%A5%B3%E6%98%9F%E5%A6%86%E5%AE%B9%23&t=31&band_rank=9&Refer=top)<br />
+8. [鹿晗耍帅把假发甩掉了](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E8%80%8D%E5%B8%85%E6%8A%8A%E5%81%87%E5%8F%91%E7%94%A9%E6%8E%89%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
+9. [台湾网友关注天水麻辣烫](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%BD%91%E5%8F%8B%E5%85%B3%E6%B3%A8%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
