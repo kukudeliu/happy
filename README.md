@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 09:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 09:58:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [大姨开面馆凭2个浇头火了7年](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A7%A8%E5%BC%80%E9%9D%A2%E9%A6%86%E5%87%AD2%E4%B8%AA%E6%B5%87%E5%A4%B4%E7%81%AB%E4%BA%867%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
 5. [女孩无声直播1小时卖出20万普洱春茶](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%97%A0%E5%A3%B0%E7%9B%B4%E6%92%AD1%E5%B0%8F%E6%97%B6%E5%8D%96%E5%87%BA20%E4%B8%87%E6%99%AE%E6%B4%B1%E6%98%A5%E8%8C%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [长期处于压力下身体会怎样](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%A4%84%E4%BA%8E%E5%8E%8B%E5%8A%9B%E4%B8%8B%E8%BA%AB%E4%BD%93%E4%BC%9A%E6%80%8E%E6%A0%B7%23&t=31&band_rank=6&Refer=top)<br />
-7. [原来是地磁暴 还以为上班上的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9C%B0%E7%A3%81%E6%9A%B4%20%E8%BF%98%E4%BB%A5%E4%B8%BA%E4%B8%8A%E7%8F%AD%E4%B8%8A%E7%9A%84&t=31&band_rank=7&Refer=top)<br />
-8. [北大招办回应是否录取蔡元培](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%8B%9B%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%BD%95%E5%8F%96%E8%94%A1%E5%85%83%E5%9F%B9%23&t=31&band_rank=8&Refer=top)<br />
+7. [北大招办回应是否录取蔡元培](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%8B%9B%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%BD%95%E5%8F%96%E8%94%A1%E5%85%83%E5%9F%B9%23&t=31&band_rank=7&Refer=top)<br />
+8. [原来是地磁暴 还以为上班上的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9C%B0%E7%A3%81%E6%9A%B4%20%E8%BF%98%E4%BB%A5%E4%B8%BA%E4%B8%8A%E7%8F%AD%E4%B8%8A%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
 9. [空投物资致加沙18人死亡](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E6%8A%95%E7%89%A9%E8%B5%84%E8%87%B4%E5%8A%A0%E6%B2%9918%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
