@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 11:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-27 11:41:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [曾黎评价赵丽颖](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E8%AF%84%E4%BB%B7%E8%B5%B5%E4%B8%BD%E9%A2%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [肖战 猫人](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E7%8C%AB%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
 8. [游本昌为追妻写一麻袋情书](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%9C%AC%E6%98%8C%E4%B8%BA%E8%BF%BD%E5%A6%BB%E5%86%99%E4%B8%80%E9%BA%BB%E8%A2%8B%E6%83%85%E4%B9%A6%23&t=31&band_rank=8&Refer=top)<br />
-9. [大姨开面馆凭2个浇头火了7年](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A7%A8%E5%BC%80%E9%9D%A2%E9%A6%86%E5%87%AD2%E4%B8%AA%E6%B5%87%E5%A4%B4%E7%81%AB%E4%BA%867%E5%B9%B4%23&t=31&band_rank=9&Refer=top)<br />
+9. [小米su7](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3su7%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
