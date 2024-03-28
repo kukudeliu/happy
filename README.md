@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 10:06:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 10:08:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
 7. [Justin Bieber喝醉状况下演唱Stay](https://s.weibo.com/weibo?q=Justin%20Bieber%E5%96%9D%E9%86%89%E7%8A%B6%E5%86%B5%E4%B8%8B%E6%BC%94%E5%94%B1Stay&t=31&band_rank=7&Refer=top)<br />
 8. [全球高考 影视化](https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E9%AB%98%E8%80%83%20%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=8&Refer=top)<br />
-9. [初中学历小伙写1500万字后重启人生](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E5%AD%A6%E5%8E%86%E5%B0%8F%E4%BC%99%E5%86%991500%E4%B8%87%E5%AD%97%E5%90%8E%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F%23&t=31&band_rank=9&Refer=top)<br />
+9. [小林制药保健品致死人数升至4人](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF%E4%BF%9D%E5%81%A5%E5%93%81%E8%87%B4%E6%AD%BB%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B34%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
