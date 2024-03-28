@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 17:51:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 17:53:01</h4></div>
 
 > 微博  
 
 1. [浪姐5 退赛](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%905%20%E9%80%80%E8%B5%9B&t=31&band_rank=1&Refer=top)<br />
-2. [甘露寺回应招人](https://s.weibo.com/weibo?q=%23%E7%94%98%E9%9C%B2%E5%AF%BA%E5%9B%9E%E5%BA%94%E6%8B%9B%E4%BA%BA%23&t=31&band_rank=2&Refer=top)<br />
+2. [港媒辣评赵露思造型](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E8%BE%A3%E8%AF%84%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%23&t=31&band_rank=2&Refer=top)<br />
 3. [博鳌亚洲论坛会场AI元素满满](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E9%B3%8C%E4%BA%9A%E6%B4%B2%E8%AE%BA%E5%9D%9B%E4%BC%9A%E5%9C%BAAI%E5%85%83%E7%B4%A0%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
-4. [港媒辣评赵露思造型](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E8%BE%A3%E8%AF%84%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%23&t=31&band_rank=4&Refer=top)<br />
+4. [甘露寺回应招人](https://s.weibo.com/weibo?q=%23%E7%94%98%E9%9C%B2%E5%AF%BA%E5%9B%9E%E5%BA%94%E6%8B%9B%E4%BA%BA%23&t=31&band_rank=4&Refer=top)<br />
 5. [父母瞒了我16年我不是他们亲生女儿](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E7%9E%92%E4%BA%86%E6%88%9116%E5%B9%B4%E6%88%91%E4%B8%8D%E6%98%AF%E4%BB%96%E4%BB%AC%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%84%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [刘耀文被北电国际班录取](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%A2%AB%E5%8C%97%E7%94%B5%E5%9B%BD%E9%99%85%E7%8F%AD%E5%BD%95%E5%8F%96%23&t=31&band_rank=6&Refer=top)<br />
 7. [白敬亭金晨给丁勇岱让C位](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E9%87%91%E6%99%A8%E7%BB%99%E4%B8%81%E5%8B%87%E5%B2%B1%E8%AE%A9C%E4%BD%8D%23&t=31&band_rank=7&Refer=top)<br />
