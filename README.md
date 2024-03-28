@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 22:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 22:22:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [黄圣依杨子直播事件6人被刑拘](https://www.baidu.com/s?wd=%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%9D%A8%E5%AD%90%E7%9B%B4%E6%92%AD%E4%BA%8B%E4%BB%B66%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [汪小菲宣布求婚成功 晒出超大钻戒](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B0%8F%E8%8F%B2%E5%AE%A3%E5%B8%83%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F+%E6%99%92%E5%87%BA%E8%B6%85%E5%A4%A7%E9%92%BB%E6%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [荷兰首相在华回应ASML出口管制问题](https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E9%A6%96%E7%9B%B8%E5%9C%A8%E5%8D%8E%E5%9B%9E%E5%BA%94ASML%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝奥巴马将直接加入拜登竞选活动](https://www.baidu.com/s?wd=%E6%9B%9D%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%B0%86%E7%9B%B4%E6%8E%A5%E5%8A%A0%E5%85%A5%E6%8B%9C%E7%99%BB%E7%AB%9E%E9%80%89%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李铁出庭受审时仍留着标志性刘海](https://www.baidu.com/s?wd=%E6%9D%8E%E9%93%81%E5%87%BA%E5%BA%AD%E5%8F%97%E5%AE%A1%E6%97%B6%E4%BB%8D%E7%95%99%E7%9D%80%E6%A0%87%E5%BF%97%E6%80%A7%E5%88%98%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [面具男用病毒针扎人系谣言](https://www.baidu.com/s?wd=%E9%9D%A2%E5%85%B7%E7%94%B7%E7%94%A8%E7%97%85%E6%AF%92%E9%92%88%E6%89%8E%E4%BA%BA%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [黄圣依杨子直播事件6人被刑拘](https://www.baidu.com/s?wd=%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%9D%A8%E5%AD%90%E7%9B%B4%E6%92%AD%E4%BA%8B%E4%BB%B66%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [汪小菲宣布求婚成功 晒出超大钻戒](https://www.baidu.com/s?wd=%E6%B1%AA%E5%B0%8F%E8%8F%B2%E5%AE%A3%E5%B8%83%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F+%E6%99%92%E5%87%BA%E8%B6%85%E5%A4%A7%E9%92%BB%E6%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [荷兰首相在华回应ASML出口管制问题](https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E9%A6%96%E7%9B%B8%E5%9C%A8%E5%8D%8E%E5%9B%9E%E5%BA%94ASML%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [曝奥巴马将直接加入拜登竞选活动](https://www.baidu.com/s?wd=%E6%9B%9D%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%B0%86%E7%9B%B4%E6%8E%A5%E5%8A%A0%E5%85%A5%E6%8B%9C%E7%99%BB%E7%AB%9E%E9%80%89%E6%B4%BB%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李铁出庭受审时仍留着标志性刘海](https://www.baidu.com/s?wd=%E6%9D%8E%E9%93%81%E5%87%BA%E5%BA%AD%E5%8F%97%E5%AE%A1%E6%97%B6%E4%BB%8D%E7%95%99%E7%9D%80%E6%A0%87%E5%BF%97%E6%80%A7%E5%88%98%E6%B5%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [面具男用病毒针扎人系谣言](https://www.baidu.com/s?wd=%E9%9D%A2%E5%85%B7%E7%94%B7%E7%94%A8%E7%97%85%E6%AF%92%E9%92%88%E6%89%8E%E4%BA%BA%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
