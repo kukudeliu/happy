@@ -1,12 +1,12 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 08:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 08:37:01</h4></div>
 
 > 微博  
 
 1. [自刷差评淄博烧烤店谈爆火1年现状](https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%88%B7%E5%B7%AE%E8%AF%84%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E5%BA%97%E8%B0%88%E7%88%86%E7%81%AB1%E5%B9%B4%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=1&Refer=top)<br />
 2. [全球高考 影视化](https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E9%AB%98%E8%80%83%20%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=2&Refer=top)<br />
 3. [我国网络视听用户规模达10.74亿人](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%94%A8%E6%88%B7%E8%A7%84%E6%A8%A1%E8%BE%BE10.74%E4%BA%BF%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
-4. [南通有丧葬店下架纸钱冥币改卖鲜花](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E6%9C%89%E4%B8%A7%E8%91%AC%E5%BA%97%E4%B8%8B%E6%9E%B6%E7%BA%B8%E9%92%B1%E5%86%A5%E5%B8%81%E6%94%B9%E5%8D%96%E9%B2%9C%E8%8A%B1%23&t=31&band_rank=4&Refer=top)<br />
-5. [Justin Bieber喝醉状况下演唱Stay](https://s.weibo.com/weibo?q=Justin%20Bieber%E5%96%9D%E9%86%89%E7%8A%B6%E5%86%B5%E4%B8%8B%E6%BC%94%E5%94%B1Stay&t=31&band_rank=5&Refer=top)<br />
+4. [Justin Bieber喝醉状况下演唱Stay](https://s.weibo.com/weibo?q=Justin%20Bieber%E5%96%9D%E9%86%89%E7%8A%B6%E5%86%B5%E4%B8%8B%E6%BC%94%E5%94%B1Stay&t=31&band_rank=4&Refer=top)<br />
+5. [南通有丧葬店下架纸钱冥币改卖鲜花](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E6%9C%89%E4%B8%A7%E8%91%AC%E5%BA%97%E4%B8%8B%E6%9E%B6%E7%BA%B8%E9%92%B1%E5%86%A5%E5%B8%81%E6%94%B9%E5%8D%96%E9%B2%9C%E8%8A%B1%23&t=31&band_rank=5&Refer=top)<br />
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
 7. [女子将儿媳打得满身疤痕惹众怒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%86%E5%84%BF%E5%AA%B3%E6%89%93%E5%BE%97%E6%BB%A1%E8%BA%AB%E7%96%A4%E7%97%95%E6%83%B9%E4%BC%97%E6%80%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [李铁案一审今日开庭](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E6%A1%88%E4%B8%80%E5%AE%A1%E4%BB%8A%E6%97%A5%E5%BC%80%E5%BA%AD%23&t=31&band_rank=8&Refer=top)<br />
