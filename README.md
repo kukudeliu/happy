@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 23:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 23:38:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [小米汽车27分钟大定突破50000台](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A627%E5%88%86%E9%92%9F%E5%A4%A7%E5%AE%9A%E7%AA%81%E7%A0%B450000%E5%8F%B0%23&t=31&band_rank=5&Refer=top)<br />
 6. [黄圣依杨子直播事件6人被刑拘](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%9D%A8%E5%AD%90%E7%9B%B4%E6%92%AD%E4%BA%8B%E4%BB%B66%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=6&Refer=top)<br />
 7. [雷军排面](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%8E%92%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [造车很苦 但成功一定很酷](https://s.weibo.com/weibo?q=%E9%80%A0%E8%BD%A6%E5%BE%88%E8%8B%A6%20%E4%BD%86%E6%88%90%E5%8A%9F%E4%B8%80%E5%AE%9A%E5%BE%88%E9%85%B7&t=31&band_rank=8&Refer=top)<br />
+8. [存款到10万是什么感觉](https://s.weibo.com/weibo?q=%23%E5%AD%98%E6%AC%BE%E5%88%B010%E4%B8%87%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [李铁当庭认罪悔罪](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E5%BD%93%E5%BA%AD%E8%AE%A4%E7%BD%AA%E6%82%94%E7%BD%AA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
