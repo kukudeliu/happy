@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 08:19:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 08:20:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
 7. [李铁案一审今日开庭](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E6%A1%88%E4%B8%80%E5%AE%A1%E4%BB%8A%E6%97%A5%E5%BC%80%E5%BA%AD%23&t=31&band_rank=7&Refer=top)<br />
 8. [金宝贝突然停业几天前还怂恿家长充值](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AE%9D%E8%B4%9D%E7%AA%81%E7%84%B6%E5%81%9C%E4%B8%9A%E5%87%A0%E5%A4%A9%E5%89%8D%E8%BF%98%E6%80%82%E6%81%BF%E5%AE%B6%E9%95%BF%E5%85%85%E5%80%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [冯提莫腰线](https://s.weibo.com/weibo?q=%23%E5%86%AF%E6%8F%90%E8%8E%AB%E8%85%B0%E7%BA%BF%23&t=31&band_rank=9&Refer=top)<br />
+9. [陈铭说与其发水论文不如不发](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%93%AD%E8%AF%B4%E4%B8%8E%E5%85%B6%E5%8F%91%E6%B0%B4%E8%AE%BA%E6%96%87%E4%B8%8D%E5%A6%82%E4%B8%8D%E5%8F%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
