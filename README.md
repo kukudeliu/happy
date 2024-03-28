@@ -1,11 +1,11 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 19:50:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 19:53:01</h4></div>
 
 > 微博  
 
 1. [小米SU7](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3SU7&t=31&band_rank=1&Refer=top)<br />
-2. [小米发布会](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=2&Refer=top)<br />
+2. [雷军排面](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%8E%92%E9%9D%A2%23&t=31&band_rank=2&Refer=top)<br />
 3. [博鳌亚洲论坛会场AI元素满满](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E9%B3%8C%E4%BA%9A%E6%B4%B2%E8%AE%BA%E5%9D%9B%E4%BC%9A%E5%9C%BAAI%E5%85%83%E7%B4%A0%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
-4. [雷军排面](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%8E%92%E9%9D%A2%23&t=31&band_rank=4&Refer=top)<br />
+4. [小米发布会](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=4&Refer=top)<br />
 5. [浪姐5 退赛](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%905%20%E9%80%80%E8%B5%9B&t=31&band_rank=5&Refer=top)<br />
 6. [在朋友圈贬损王一博被判赔4万元](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%B4%AC%E6%8D%9F%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%A2%AB%E5%88%A4%E8%B5%944%E4%B8%87%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
 7. [小米SU7价格预测](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3SU7%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B&t=31&band_rank=7&Refer=top)<br />
