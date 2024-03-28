@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 11:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 11:32:02</h4></div>
 
 > 微博  
 
@@ -17,7 +17,7 @@
 
 > 百度  
 
-1. [习近平会见荷兰首相吕特](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%8D%B7%E5%85%B0%E9%A6%96%E7%9B%B8%E5%90%95%E7%89%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [开放合作是唯一选择](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E5%90%88%E4%BD%9C%E6%98%AF%E5%94%AF%E4%B8%80%E9%80%89%E6%8B%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中国足协：面向全国聘请社会监督员](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%EF%BC%9A%E9%9D%A2%E5%90%91%E5%85%A8%E5%9B%BD%E8%81%98%E8%AF%B7%E7%A4%BE%E4%BC%9A%E7%9B%91%E7%9D%A3%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [日本小林制药保健品已致4人死亡](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF%E4%BF%9D%E5%81%A5%E5%93%81%E5%B7%B2%E8%87%B44%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [促进全社会形成节约用水意识](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E5%85%A8%E7%A4%BE%E4%BC%9A%E5%BD%A2%E6%88%90%E8%8A%82%E7%BA%A6%E7%94%A8%E6%B0%B4%E6%84%8F%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -29,7 +29,7 @@
 
 > 哔哩哔哩  
 
-1. [习近平会见荷兰首相吕特](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%8D%B7%E5%85%B0%E9%A6%96%E7%9B%B8%E5%90%95%E7%89%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [开放合作是唯一选择](https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E5%90%88%E4%BD%9C%E6%98%AF%E5%94%AF%E4%B8%80%E9%80%89%E6%8B%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [中国足协：面向全国聘请社会监督员](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%EF%BC%9A%E9%9D%A2%E5%90%91%E5%85%A8%E5%9B%BD%E8%81%98%E8%AF%B7%E7%A4%BE%E4%BC%9A%E7%9B%91%E7%9D%A3%E5%91%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [日本小林制药保健品已致4人死亡](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF%E4%BF%9D%E5%81%A5%E5%93%81%E5%B7%B2%E8%87%B44%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [促进全社会形成节约用水意识](https://www.baidu.com/s?wd=%E4%BF%83%E8%BF%9B%E5%85%A8%E7%A4%BE%E4%BC%9A%E5%BD%A2%E6%88%90%E8%8A%82%E7%BA%A6%E7%94%A8%E6%B0%B4%E6%84%8F%E8%AF%86&sa=fyb_news&rsv_dl=fyb_news)<br />
