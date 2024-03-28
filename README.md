@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 21:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 21:13:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小米发布会](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
 7. [雷军排面](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%8E%92%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [李铁当庭认罪悔罪](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E5%BD%93%E5%BA%AD%E8%AE%A4%E7%BD%AA%E6%82%94%E7%BD%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [造车很苦 但成功一定很酷](https://s.weibo.com/weibo?q=%E9%80%A0%E8%BD%A6%E5%BE%88%E8%8B%A6%20%E4%BD%86%E6%88%90%E5%8A%9F%E4%B8%80%E5%AE%9A%E5%BE%88%E9%85%B7&t=31&band_rank=9&Refer=top)<br />
+9. [雷军 雷神](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%20%E9%9B%B7%E7%A5%9E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
