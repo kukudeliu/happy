@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 10:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 10:32:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
 7. [女主是个永不道歉的人](https://s.weibo.com/weibo?q=%E5%A5%B3%E4%B8%BB%E6%98%AF%E4%B8%AA%E6%B0%B8%E4%B8%8D%E9%81%93%E6%AD%89%E7%9A%84%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
 8. [小米汽车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=8&Refer=top)<br />
-9. [Justin Bieber喝醉状况下演唱Stay](https://s.weibo.com/weibo?q=Justin%20Bieber%E5%96%9D%E9%86%89%E7%8A%B6%E5%86%B5%E4%B8%8B%E6%BC%94%E5%94%B1Stay&t=31&band_rank=9&Refer=top)<br />
+9. [李铁押解车辆已经驶入法院](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E6%8A%BC%E8%A7%A3%E8%BD%A6%E8%BE%86%E5%B7%B2%E7%BB%8F%E9%A9%B6%E5%85%A5%E6%B3%95%E9%99%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
