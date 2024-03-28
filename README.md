@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 08:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 08:57:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [Justin Bieber喝醉状况下演唱Stay](https://s.weibo.com/weibo?q=Justin%20Bieber%E5%96%9D%E9%86%89%E7%8A%B6%E5%86%B5%E4%B8%8B%E6%BC%94%E5%94%B1Stay&t=31&band_rank=4&Refer=top)<br />
 5. [女子将儿媳打得满身疤痕惹众怒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%86%E5%84%BF%E5%AA%B3%E6%89%93%E5%BE%97%E6%BB%A1%E8%BA%AB%E7%96%A4%E7%97%95%E6%83%B9%E4%BC%97%E6%80%92%23&t=31&band_rank=5&Refer=top)<br />
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
-7. [南通有丧葬店下架纸钱冥币改卖鲜花](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E6%9C%89%E4%B8%A7%E8%91%AC%E5%BA%97%E4%B8%8B%E6%9E%B6%E7%BA%B8%E9%92%B1%E5%86%A5%E5%B8%81%E6%94%B9%E5%8D%96%E9%B2%9C%E8%8A%B1%23&t=31&band_rank=7&Refer=top)<br />
-8. [高校呼吁毕业生不要只盯着升学考公考编](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E7%9B%AF%E7%9D%80%E5%8D%87%E5%AD%A6%E8%80%83%E5%85%AC%E8%80%83%E7%BC%96%23&t=31&band_rank=8&Refer=top)<br />
+7. [高校呼吁毕业生不要只盯着升学考公考编](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E7%9B%AF%E7%9D%80%E5%8D%87%E5%AD%A6%E8%80%83%E5%85%AC%E8%80%83%E7%BC%96%23&t=31&band_rank=7&Refer=top)<br />
+8. [南通有丧葬店下架纸钱冥币改卖鲜花](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E6%9C%89%E4%B8%A7%E8%91%AC%E5%BA%97%E4%B8%8B%E6%9E%B6%E7%BA%B8%E9%92%B1%E5%86%A5%E5%B8%81%E6%94%B9%E5%8D%96%E9%B2%9C%E8%8A%B1%23&t=31&band_rank=8&Refer=top)<br />
 9. [小米汽车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
