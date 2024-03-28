@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 09:31:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 09:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
 7. [高校呼吁毕业生不要只盯着升学考公考编](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E7%9B%AF%E7%9D%80%E5%8D%87%E5%AD%A6%E8%80%83%E5%85%AC%E8%80%83%E7%BC%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [背了3天锅的地磁暴确实挺暴躁](https://s.weibo.com/weibo?q=%23%E8%83%8C%E4%BA%863%E5%A4%A9%E9%94%85%E7%9A%84%E5%9C%B0%E7%A3%81%E6%9A%B4%E7%A1%AE%E5%AE%9E%E6%8C%BA%E6%9A%B4%E8%BA%81%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子将儿媳打得满身疤痕惹众怒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%86%E5%84%BF%E5%AA%B3%E6%89%93%E5%BE%97%E6%BB%A1%E8%BA%AB%E7%96%A4%E7%97%95%E6%83%B9%E4%BC%97%E6%80%92%23&t=31&band_rank=9&Refer=top)<br />
+9. [韩国人迷上宠物石](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%B7%E4%B8%8A%E5%AE%A0%E7%89%A9%E7%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
