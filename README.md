@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 05:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 05:40:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [在英中国女留学生被刺身亡](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E8%8B%B1%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top)<br />
 6. [小米SU7售价21.59万元起](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E5%94%AE%E4%BB%B721.59%E4%B8%87%E5%85%83%E8%B5%B7%23&t=31&band_rank=6&Refer=top)<br />
 7. [存款到10万是什么感觉](https://s.weibo.com/weibo?q=%23%E5%AD%98%E6%AC%BE%E5%88%B010%E4%B8%87%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [雷军 雷神](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%20%E9%9B%B7%E7%A5%9E&t=31&band_rank=8&Refer=top)<br />
-9. [内娱是真缺舞台啊](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%98%AF%E7%9C%9F%E7%BC%BA%E8%88%9E%E5%8F%B0%E5%95%8A%23&t=31&band_rank=9&Refer=top)<br />
+8. [内娱是真缺舞台啊](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%98%AF%E7%9C%9F%E7%BC%BA%E8%88%9E%E5%8F%B0%E5%95%8A%23&t=31&band_rank=8&Refer=top)<br />
+9. [雷军 雷神](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%20%E9%9B%B7%E7%A5%9E&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
