@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 08:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 08:45:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
 7. [南通有丧葬店下架纸钱冥币改卖鲜花](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E6%9C%89%E4%B8%A7%E8%91%AC%E5%BA%97%E4%B8%8B%E6%9E%B6%E7%BA%B8%E9%92%B1%E5%86%A5%E5%B8%81%E6%94%B9%E5%8D%96%E9%B2%9C%E8%8A%B1%23&t=31&band_rank=7&Refer=top)<br />
 8. [高校呼吁毕业生不要只盯着升学考公考编](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%91%BC%E5%90%81%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%8D%E8%A6%81%E5%8F%AA%E7%9B%AF%E7%9D%80%E5%8D%87%E5%AD%A6%E8%80%83%E5%85%AC%E8%80%83%E7%BC%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [李铁案一审今日开庭](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E6%A1%88%E4%B8%80%E5%AE%A1%E4%BB%8A%E6%97%A5%E5%BC%80%E5%BA%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [小米汽车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
