@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 18:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 18:36:01</h4></div>
 
 > 微博  
 
@@ -7,8 +7,8 @@
 3. [博鳌亚洲论坛会场AI元素满满](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E9%B3%8C%E4%BA%9A%E6%B4%B2%E8%AE%BA%E5%9D%9B%E4%BC%9A%E5%9C%BAAI%E5%85%83%E7%B4%A0%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=3&Refer=top)<br />
 4. [父母瞒了我16年我不是他们亲生女儿](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E7%9E%92%E4%BA%86%E6%88%9116%E5%B9%B4%E6%88%91%E4%B8%8D%E6%98%AF%E4%BB%96%E4%BB%AC%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%84%BF%23&t=31&band_rank=4&Refer=top)<br />
 5. [甘露寺回应招人](https://s.weibo.com/weibo?q=%23%E7%94%98%E9%9C%B2%E5%AF%BA%E5%9B%9E%E5%BA%94%E6%8B%9B%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
-6. [刘耀文被北电国际班录取](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%A2%AB%E5%8C%97%E7%94%B5%E5%9B%BD%E9%99%85%E7%8F%AD%E5%BD%95%E5%8F%96%23&t=31&band_rank=6&Refer=top)<br />
-7. [李铁的涉案金额可能比陈戌源还要大](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E7%9A%84%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E5%8F%AF%E8%83%BD%E6%AF%94%E9%99%88%E6%88%8C%E6%BA%90%E8%BF%98%E8%A6%81%E5%A4%A7%23&t=31&band_rank=7&Refer=top)<br />
+6. [李铁的涉案金额可能比陈戌源还要大](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E7%9A%84%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E5%8F%AF%E8%83%BD%E6%AF%94%E9%99%88%E6%88%8C%E6%BA%90%E8%BF%98%E8%A6%81%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
+7. [刘耀文被北电国际班录取](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%A2%AB%E5%8C%97%E7%94%B5%E5%9B%BD%E9%99%85%E7%8F%AD%E5%BD%95%E5%8F%96%23&t=31&band_rank=7&Refer=top)<br />
 8. [小米发布会](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=8&Refer=top)<br />
 9. [消防员扑灭山火在大雪中激动欢呼](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E6%89%91%E7%81%AD%E5%B1%B1%E7%81%AB%E5%9C%A8%E5%A4%A7%E9%9B%AA%E4%B8%AD%E6%BF%80%E5%8A%A8%E6%AC%A2%E5%91%BC%23&t=31&band_rank=9&Refer=top)<br />
 
