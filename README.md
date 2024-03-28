@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 08:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 08:41:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男足原主教练李铁案今天一审开庭](https://www.baidu.com/s?wd=%E7%94%B7%E8%B6%B3%E5%8E%9F%E4%B8%BB%E6%95%99%E7%BB%83%E6%9D%8E%E9%93%81%E6%A1%88%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%A1%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [婆婆将儿媳打得满身疤痕 邻居报警](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E5%B0%86%E5%84%BF%E5%AA%B3%E6%89%93%E5%BE%97%E6%BB%A1%E8%BA%AB%E7%96%A4%E7%97%95+%E9%82%BB%E5%B1%85%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [180斤山东女孩拍写真美哭网友](https://www.baidu.com/s?wd=180%E6%96%A4%E5%B1%B1%E4%B8%9C%E5%A5%B3%E5%AD%A9%E6%8B%8D%E5%86%99%E7%9C%9F%E7%BE%8E%E5%93%AD%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子得知父亲去世高速上崩溃大哭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BE%97%E7%9F%A5%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E9%AB%98%E9%80%9F%E4%B8%8A%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孟买超北京成亚洲亿万富豪最多城市](https://www.baidu.com/s?wd=%E5%AD%9F%E4%B9%B0%E8%B6%85%E5%8C%97%E4%BA%AC%E6%88%90%E4%BA%9A%E6%B4%B2%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E6%9C%80%E5%A4%9A%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中南大学辟谣宿舍楼起火](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A3%E5%AE%BF%E8%88%8D%E6%A5%BC%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男足原主教练李铁案今天一审开庭](https://www.baidu.com/s?wd=%E7%94%B7%E8%B6%B3%E5%8E%9F%E4%B8%BB%E6%95%99%E7%BB%83%E6%9D%8E%E9%93%81%E6%A1%88%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%A1%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [婆婆将儿媳打得满身疤痕 邻居报警](https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E5%B0%86%E5%84%BF%E5%AA%B3%E6%89%93%E5%BE%97%E6%BB%A1%E8%BA%AB%E7%96%A4%E7%97%95+%E9%82%BB%E5%B1%85%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [180斤山东女孩拍写真美哭网友](https://www.baidu.com/s?wd=180%E6%96%A4%E5%B1%B1%E4%B8%9C%E5%A5%B3%E5%AD%A9%E6%8B%8D%E5%86%99%E7%9C%9F%E7%BE%8E%E5%93%AD%E7%BD%91%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子得知父亲去世高速上崩溃大哭](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BE%97%E7%9F%A5%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E9%AB%98%E9%80%9F%E4%B8%8A%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [孟买超北京成亚洲亿万富豪最多城市](https://www.baidu.com/s?wd=%E5%AD%9F%E4%B9%B0%E8%B6%85%E5%8C%97%E4%BA%AC%E6%88%90%E4%BA%9A%E6%B4%B2%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E6%9C%80%E5%A4%9A%E5%9F%8E%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中南大学辟谣宿舍楼起火](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A3%E5%AE%BF%E8%88%8D%E6%A5%BC%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
