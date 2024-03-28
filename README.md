@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 18:41:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 18:42:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [李铁的涉案金额可能比陈戌源还要大](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E7%9A%84%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E5%8F%AF%E8%83%BD%E6%AF%94%E9%99%88%E6%88%8C%E6%BA%90%E8%BF%98%E8%A6%81%E5%A4%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [甘露寺回应招人](https://s.weibo.com/weibo?q=%23%E7%94%98%E9%9C%B2%E5%AF%BA%E5%9B%9E%E5%BA%94%E6%8B%9B%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
 8. [刘耀文被北电国际班录取](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%A2%AB%E5%8C%97%E7%94%B5%E5%9B%BD%E9%99%85%E7%8F%AD%E5%BD%95%E5%8F%96%23&t=31&band_rank=8&Refer=top)<br />
-9. [消防员扑灭山火在大雪中激动欢呼](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E6%89%91%E7%81%AD%E5%B1%B1%E7%81%AB%E5%9C%A8%E5%A4%A7%E9%9B%AA%E4%B8%AD%E6%BF%80%E5%8A%A8%E6%AC%A2%E5%91%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [AI视频看武汉樱花满城](https://s.weibo.com/weibo?q=%23AI%E8%A7%86%E9%A2%91%E7%9C%8B%E6%AD%A6%E6%B1%89%E6%A8%B1%E8%8A%B1%E6%BB%A1%E5%9F%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
