@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 09:55:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 09:56:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [山东有农村彩礼要价30万](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%9C%89%E5%86%9C%E6%9D%91%E5%BD%A9%E7%A4%BC%E8%A6%81%E4%BB%B730%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“春日经济”热力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%A5%E6%97%A5%E7%BB%8F%E6%B5%8E%E2%80%9D%E7%83%AD%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [本地人代购天水麻辣烫月入10万](https://www.baidu.com/s?wd=%E6%9C%AC%E5%9C%B0%E4%BA%BA%E4%BB%A3%E8%B4%AD%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%9C%88%E5%85%A510%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [爆破员违规用微信 看错指令致3死](https://www.baidu.com/s?wd=%E7%88%86%E7%A0%B4%E5%91%98%E8%BF%9D%E8%A7%84%E7%94%A8%E5%BE%AE%E4%BF%A1+%E7%9C%8B%E9%94%99%E6%8C%87%E4%BB%A4%E8%87%B43%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩国首尔97.6%公交车停运](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%9497.6%25%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%81%9C%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男足原主教练李铁案今天一审开庭](https://www.baidu.com/s?wd=%E7%94%B7%E8%B6%B3%E5%8E%9F%E4%B8%BB%E6%95%99%E7%BB%83%E6%9D%8E%E9%93%81%E6%A1%88%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%A1%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男足原主教练李铁案今天一审开庭](https://www.baidu.com/s?wd=%E7%94%B7%E8%B6%B3%E5%8E%9F%E4%B8%BB%E6%95%99%E7%BB%83%E6%9D%8E%E9%93%81%E6%A1%88%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%A1%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [爆破员违规用微信 看错指令致3死](https://www.baidu.com/s?wd=%E7%88%86%E7%A0%B4%E5%91%98%E8%BF%9D%E8%A7%84%E7%94%A8%E5%BE%AE%E4%BF%A1+%E7%9C%8B%E9%94%99%E6%8C%87%E4%BB%A4%E8%87%B43%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国首尔97.6%公交车停运](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%9497.6%25%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%81%9C%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中南大学辟谣宿舍楼起火](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A3%E5%AE%BF%E8%88%8D%E6%A5%BC%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [山东有农村彩礼要价30万](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%9C%89%E5%86%9C%E6%9D%91%E5%BD%A9%E7%A4%BC%E8%A6%81%E4%BB%B730%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“春日经济”热力足](https://www.baidu.com/s?wd=%E2%80%9C%E6%98%A5%E6%97%A5%E7%BB%8F%E6%B5%8E%E2%80%9D%E7%83%AD%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [本地人代购天水麻辣烫月入10万](https://www.baidu.com/s?wd=%E6%9C%AC%E5%9C%B0%E4%BA%BA%E4%BB%A3%E8%B4%AD%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%9C%88%E5%85%A510%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [爆破员违规用微信 看错指令致3死](https://www.baidu.com/s?wd=%E7%88%86%E7%A0%B4%E5%91%98%E8%BF%9D%E8%A7%84%E7%94%A8%E5%BE%AE%E4%BF%A1+%E7%9C%8B%E9%94%99%E6%8C%87%E4%BB%A4%E8%87%B43%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [韩国首尔97.6%公交车停运](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%9497.6%25%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%81%9C%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男足原主教练李铁案今天一审开庭](https://www.baidu.com/s?wd=%E7%94%B7%E8%B6%B3%E5%8E%9F%E4%B8%BB%E6%95%99%E7%BB%83%E6%9D%8E%E9%93%81%E6%A1%88%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%A1%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男足原主教练李铁案今天一审开庭](https://www.baidu.com/s?wd=%E7%94%B7%E8%B6%B3%E5%8E%9F%E4%B8%BB%E6%95%99%E7%BB%83%E6%9D%8E%E9%93%81%E6%A1%88%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%A1%E5%BC%80%E5%BA%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [爆破员违规用微信 看错指令致3死](https://www.baidu.com/s?wd=%E7%88%86%E7%A0%B4%E5%91%98%E8%BF%9D%E8%A7%84%E7%94%A8%E5%BE%AE%E4%BF%A1+%E7%9C%8B%E9%94%99%E6%8C%87%E4%BB%A4%E8%87%B43%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [韩国首尔97.6%公交车停运](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%9497.6%25%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%81%9C%E8%BF%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [中南大学辟谣宿舍楼起火](https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%BE%9F%E8%B0%A3%E5%AE%BF%E8%88%8D%E6%A5%BC%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
