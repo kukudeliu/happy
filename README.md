@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 15:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 15:46:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [月经第一天是最疼的](https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%98%AF%E6%9C%80%E7%96%BC%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [张艺兴富养女团穷养男团](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%AF%8C%E5%85%BB%E5%A5%B3%E5%9B%A2%E7%A9%B7%E5%85%BB%E7%94%B7%E5%9B%A2%23&t=31&band_rank=7&Refer=top)<br />
 8. [百日咳再现](https://s.weibo.com/weibo?q=%23%E7%99%BE%E6%97%A5%E5%92%B3%E5%86%8D%E7%8E%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [殡葬用品店家称为数万元存货发愁](https://s.weibo.com/weibo?q=%23%E6%AE%A1%E8%91%AC%E7%94%A8%E5%93%81%E5%BA%97%E5%AE%B6%E7%A7%B0%E4%B8%BA%E6%95%B0%E4%B8%87%E5%85%83%E5%AD%98%E8%B4%A7%E5%8F%91%E6%84%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [王俊凯金尘茶](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%87%91%E5%B0%98%E8%8C%B6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
