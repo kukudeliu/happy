@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 09:57:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 09:58:01</h4></div>
 
 > 微博  
 
@@ -6,9 +6,9 @@
 2. [小米汽车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=2&Refer=top)<br />
 3. [我国网络视听用户规模达10.74亿人](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%94%A8%E6%88%B7%E8%A7%84%E6%A8%A1%E8%BE%BE10.74%E4%BA%BF%E4%BA%BA%23&t=31&band_rank=3&Refer=top)<br />
 4. [Justin Bieber喝醉状况下演唱Stay](https://s.weibo.com/weibo?q=Justin%20Bieber%E5%96%9D%E9%86%89%E7%8A%B6%E5%86%B5%E4%B8%8B%E6%BC%94%E5%94%B1Stay&t=31&band_rank=4&Refer=top)<br />
-5. [全球高考 影视化](https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E9%AB%98%E8%80%83%20%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=5&Refer=top)<br />
+5. [考研未上岸者就业质量不及同期毕业生](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%9C%AA%E4%B8%8A%E5%B2%B8%E8%80%85%E5%B0%B1%E4%B8%9A%E8%B4%A8%E9%87%8F%E4%B8%8D%E5%8F%8A%E5%90%8C%E6%9C%9F%E6%AF%95%E4%B8%9A%E7%94%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
-7. [考研未上岸者就业质量不及同期毕业生](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%9C%AA%E4%B8%8A%E5%B2%B8%E8%80%85%E5%B0%B1%E4%B8%9A%E8%B4%A8%E9%87%8F%E4%B8%8D%E5%8F%8A%E5%90%8C%E6%9C%9F%E6%AF%95%E4%B8%9A%E7%94%9F%23&t=31&band_rank=7&Refer=top)<br />
+7. [全球高考 影视化](https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E9%AB%98%E8%80%83%20%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=7&Refer=top)<br />
 8. [初中学历小伙写1500万字后重启人生](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E5%AD%A6%E5%8E%86%E5%B0%8F%E4%BC%99%E5%86%991500%E4%B8%87%E5%AD%97%E5%90%8E%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F%23&t=31&band_rank=8&Refer=top)<br />
 9. [韩国人迷上宠物石](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%B7%E4%B8%8A%E5%AE%A0%E7%89%A9%E7%9F%B3%23&t=31&band_rank=9&Refer=top)<br />
 
