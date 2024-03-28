@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 03:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 03:25:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [黄圣依杨子直播事件6人被刑拘](https://www.baidu.com/s?wd=%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%9D%A8%E5%AD%90%E7%9B%B4%E6%92%AD%E4%BA%8B%E4%BB%B66%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王婆喊话全国的宝贝儿们去谈恋爱](https://www.baidu.com/s?wd=%E7%8E%8B%E5%A9%86%E5%96%8A%E8%AF%9D%E5%85%A8%E5%9B%BD%E7%9A%84%E5%AE%9D%E8%B4%9D%E5%84%BF%E4%BB%AC%E5%8E%BB%E8%B0%88%E6%81%8B%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子住民宿发现多个隐藏空间](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%8F%E6%B0%91%E5%AE%BF%E5%8F%91%E7%8E%B0%E5%A4%9A%E4%B8%AA%E9%9A%90%E8%97%8F%E7%A9%BA%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [殡葬用品店家称为数万元存货发愁](https://www.baidu.com/s?wd=%E6%AE%A1%E8%91%AC%E7%94%A8%E5%93%81%E5%BA%97%E5%AE%B6%E7%A7%B0%E4%B8%BA%E6%95%B0%E4%B8%87%E5%85%83%E5%AD%98%E8%B4%A7%E5%8F%91%E6%84%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子半年遇70余起交通事故被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8D%8A%E5%B9%B4%E9%81%8770%E4%BD%99%E8%B5%B7%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [面具男用病毒针扎人系谣言](https://www.baidu.com/s?wd=%E9%9D%A2%E5%85%B7%E7%94%B7%E7%94%A8%E7%97%85%E6%AF%92%E9%92%88%E6%89%8E%E4%BA%BA%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [黄圣依杨子直播事件6人被刑拘](https://www.baidu.com/s?wd=%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%9D%A8%E5%AD%90%E7%9B%B4%E6%92%AD%E4%BA%8B%E4%BB%B66%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [王婆喊话全国的宝贝儿们去谈恋爱](https://www.baidu.com/s?wd=%E7%8E%8B%E5%A9%86%E5%96%8A%E8%AF%9D%E5%85%A8%E5%9B%BD%E7%9A%84%E5%AE%9D%E8%B4%9D%E5%84%BF%E4%BB%AC%E5%8E%BB%E8%B0%88%E6%81%8B%E7%88%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子住民宿发现多个隐藏空间](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%8F%E6%B0%91%E5%AE%BF%E5%8F%91%E7%8E%B0%E5%A4%9A%E4%B8%AA%E9%9A%90%E8%97%8F%E7%A9%BA%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [殡葬用品店家称为数万元存货发愁](https://www.baidu.com/s?wd=%E6%AE%A1%E8%91%AC%E7%94%A8%E5%93%81%E5%BA%97%E5%AE%B6%E7%A7%B0%E4%B8%BA%E6%95%B0%E4%B8%87%E5%85%83%E5%AD%98%E8%B4%A7%E5%8F%91%E6%84%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子半年遇70余起交通事故被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8D%8A%E5%B9%B4%E9%81%8770%E4%BD%99%E8%B5%B7%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [面具男用病毒针扎人系谣言](https://www.baidu.com/s?wd=%E9%9D%A2%E5%85%B7%E7%94%B7%E7%94%A8%E7%97%85%E6%AF%92%E9%92%88%E6%89%8E%E4%BA%BA%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
