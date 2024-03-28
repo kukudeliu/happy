@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 14:42:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 14:45:01</h4></div>
 
 > 微博  
 
@@ -6,11 +6,11 @@
 2. [百日咳再现](https://s.weibo.com/weibo?q=%23%E7%99%BE%E6%97%A5%E5%92%B3%E5%86%8D%E7%8E%B0%23&t=31&band_rank=2&Refer=top)<br />
 3. [第十一届中国网络视听大会开幕](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%8A%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E5%A4%A7%E4%BC%9A%E5%BC%80%E5%B9%95%23&t=31&band_rank=3&Refer=top)<br />
 4. [山西订婚强奸案彩礼纠纷案一审宣判](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E8%AE%A2%E5%A9%9A%E5%BC%BA%E5%A5%B8%E6%A1%88%E5%BD%A9%E7%A4%BC%E7%BA%A0%E7%BA%B7%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23&t=31&band_rank=4&Refer=top)<br />
-5. [雷军称终于到了交作业的时候](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E7%BB%88%E4%BA%8E%E5%88%B0%E4%BA%86%E4%BA%A4%E4%BD%9C%E4%B8%9A%E7%9A%84%E6%97%B6%E5%80%99%23&t=31&band_rank=5&Refer=top)<br />
-6. [北京师范大学教授 发传单授课](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%20%E5%8F%91%E4%BC%A0%E5%8D%95%E6%8E%88%E8%AF%BE&t=31&band_rank=6&Refer=top)<br />
+5. [北京师范大学教授 发传单授课](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%20%E5%8F%91%E4%BC%A0%E5%8D%95%E6%8E%88%E8%AF%BE&t=31&band_rank=5&Refer=top)<br />
+6. [雷军称终于到了交作业的时候](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E7%BB%88%E4%BA%8E%E5%88%B0%E4%BA%86%E4%BA%A4%E4%BD%9C%E4%B8%9A%E7%9A%84%E6%97%B6%E5%80%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [B站回应北师大教授发传单推荐免费课](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%9B%9E%E5%BA%94%E5%8C%97%E5%B8%88%E5%A4%A7%E6%95%99%E6%8E%88%E5%8F%91%E4%BC%A0%E5%8D%95%E6%8E%A8%E8%8D%90%E5%85%8D%E8%B4%B9%E8%AF%BE%23&t=31&band_rank=7&Refer=top)<br />
-8. [秦岚的嗓子怎么还没好](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%9A%84%E5%97%93%E5%AD%90%E6%80%8E%E4%B9%88%E8%BF%98%E6%B2%A1%E5%A5%BD%23&t=31&band_rank=8&Refer=top)<br />
-9. [孙颖莎vs平野美宇](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E5%B9%B3%E9%87%8E%E7%BE%8E%E5%AE%87&t=31&band_rank=9&Refer=top)<br />
+8. [孙颖莎vs平野美宇](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E5%B9%B3%E9%87%8E%E7%BE%8E%E5%AE%87&t=31&band_rank=8&Refer=top)<br />
+9. [秦岚的嗓子怎么还没好](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%9A%84%E5%97%93%E5%AD%90%E6%80%8E%E4%B9%88%E8%BF%98%E6%B2%A1%E5%A5%BD%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
