@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 17:36:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 17:39:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [港媒辣评赵露思造型](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E8%BE%A3%E8%AF%84%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%23&t=31&band_rank=4&Refer=top)<br />
 5. [父母瞒了我16年我不是他们亲生女儿](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E7%9E%92%E4%BA%86%E6%88%9116%E5%B9%B4%E6%88%91%E4%B8%8D%E6%98%AF%E4%BB%96%E4%BB%AC%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%84%BF%23&t=31&band_rank=5&Refer=top)<br />
 6. [白敬亭金晨给丁勇岱让C位](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E9%87%91%E6%99%A8%E7%BB%99%E4%B8%81%E5%8B%87%E5%B2%B1%E8%AE%A9C%E4%BD%8D%23&t=31&band_rank=6&Refer=top)<br />
-7. [山西订婚强奸案彩礼纠纷案一审宣判](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E8%AE%A2%E5%A9%9A%E5%BC%BA%E5%A5%B8%E6%A1%88%E5%BD%A9%E7%A4%BC%E7%BA%A0%E7%BA%B7%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23&t=31&band_rank=7&Refer=top)<br />
-8. [刘耀文被北电国际班录取](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%A2%AB%E5%8C%97%E7%94%B5%E5%9B%BD%E9%99%85%E7%8F%AD%E5%BD%95%E5%8F%96%23&t=31&band_rank=8&Refer=top)<br />
+7. [刘耀文被北电国际班录取](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%A2%AB%E5%8C%97%E7%94%B5%E5%9B%BD%E9%99%85%E7%8F%AD%E5%BD%95%E5%8F%96%23&t=31&band_rank=7&Refer=top)<br />
+8. [山西订婚强奸案彩礼纠纷案一审宣判](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E8%AE%A2%E5%A9%9A%E5%BC%BA%E5%A5%B8%E6%A1%88%E5%BD%A9%E7%A4%BC%E7%BA%A0%E7%BA%B7%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23&t=31&band_rank=8&Refer=top)<br />
 9. [张元英小草莓](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E5%B0%8F%E8%8D%89%E8%8E%93%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
