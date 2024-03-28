@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 20:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 20:17:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [电梯维修工带纸片人冒充同事工作](https://www.baidu.com/s?wd=%E7%94%B5%E6%A2%AF%E7%BB%B4%E4%BF%AE%E5%B7%A5%E5%B8%A6%E7%BA%B8%E7%89%87%E4%BA%BA%E5%86%92%E5%85%85%E5%90%8C%E4%BA%8B%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新中式出圈背后的小城活力](https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%AD%E5%BC%8F%E5%87%BA%E5%9C%88%E8%83%8C%E5%90%8E%E7%9A%84%E5%B0%8F%E5%9F%8E%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蚂蚁集团杭州退地 周边房价直降2万](https://www.baidu.com/s?wd=%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%9D%AD%E5%B7%9E%E9%80%80%E5%9C%B0+%E5%91%A8%E8%BE%B9%E6%88%BF%E4%BB%B7%E7%9B%B4%E9%99%8D2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [韩国留学女生找王婆说媒](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%95%99%E5%AD%A6%E5%A5%B3%E7%94%9F%E6%89%BE%E7%8E%8B%E5%A9%86%E8%AF%B4%E5%AA%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [陈铭被质疑为何没非升即走](https://www.baidu.com/s?wd=%E9%99%88%E9%93%AD%E8%A2%AB%E8%B4%A8%E7%96%91%E4%B8%BA%E4%BD%95%E6%B2%A1%E9%9D%9E%E5%8D%87%E5%8D%B3%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中央军委举行晋升上将军衔仪式](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E4%B8%BE%E8%A1%8C%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%94%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中央军委举行晋升上将军衔仪式](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E4%B8%BE%E8%A1%8C%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%94%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [1400多年前北周武帝面貌成功复原](https://www.baidu.com/s?wd=1400%E5%A4%9A%E5%B9%B4%E5%89%8D%E5%8C%97%E5%91%A8%E6%AD%A6%E5%B8%9D%E9%9D%A2%E8%B2%8C%E6%88%90%E5%8A%9F%E5%A4%8D%E5%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李玟姐姐：AI“复活”是二次伤害](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%EF%BC%9AAI%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D%E6%98%AF%E4%BA%8C%E6%AC%A1%E4%BC%A4%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [面具男用病毒针扎人系谣言](https://www.baidu.com/s?wd=%E9%9D%A2%E5%85%B7%E7%94%B7%E7%94%A8%E7%97%85%E6%AF%92%E9%92%88%E6%89%8E%E4%BA%BA%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [电梯维修工带纸片人冒充同事工作](https://www.baidu.com/s?wd=%E7%94%B5%E6%A2%AF%E7%BB%B4%E4%BF%AE%E5%B7%A5%E5%B8%A6%E7%BA%B8%E7%89%87%E4%BA%BA%E5%86%92%E5%85%85%E5%90%8C%E4%BA%8B%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [新中式出圈背后的小城活力](https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%AD%E5%BC%8F%E5%87%BA%E5%9C%88%E8%83%8C%E5%90%8E%E7%9A%84%E5%B0%8F%E5%9F%8E%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [蚂蚁集团杭州退地 周边房价直降2万](https://www.baidu.com/s?wd=%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%9D%AD%E5%B7%9E%E9%80%80%E5%9C%B0+%E5%91%A8%E8%BE%B9%E6%88%BF%E4%BB%B7%E7%9B%B4%E9%99%8D2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [韩国留学女生找王婆说媒](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%95%99%E5%AD%A6%E5%A5%B3%E7%94%9F%E6%89%BE%E7%8E%8B%E5%A9%86%E8%AF%B4%E5%AA%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [陈铭被质疑为何没非升即走](https://www.baidu.com/s?wd=%E9%99%88%E9%93%AD%E8%A2%AB%E8%B4%A8%E7%96%91%E4%B8%BA%E4%BD%95%E6%B2%A1%E9%9D%9E%E5%8D%87%E5%8D%B3%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [中央军委举行晋升上将军衔仪式](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E4%B8%BE%E8%A1%8C%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%94%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中央军委举行晋升上将军衔仪式](https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E4%B8%BE%E8%A1%8C%E6%99%8B%E5%8D%87%E4%B8%8A%E5%B0%86%E5%86%9B%E8%A1%94%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [1400多年前北周武帝面貌成功复原](https://www.baidu.com/s?wd=1400%E5%A4%9A%E5%B9%B4%E5%89%8D%E5%8C%97%E5%91%A8%E6%AD%A6%E5%B8%9D%E9%9D%A2%E8%B2%8C%E6%88%90%E5%8A%9F%E5%A4%8D%E5%8E%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [李玟姐姐：AI“复活”是二次伤害](https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%EF%BC%9AAI%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D%E6%98%AF%E4%BA%8C%E6%AC%A1%E4%BC%A4%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [面具男用病毒针扎人系谣言](https://www.baidu.com/s?wd=%E9%9D%A2%E5%85%B7%E7%94%B7%E7%94%A8%E7%97%85%E6%AF%92%E9%92%88%E6%89%8E%E4%BA%BA%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
