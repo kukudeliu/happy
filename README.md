@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 09:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 09:16:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
 7. [女子将儿媳打得满身疤痕惹众怒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%86%E5%84%BF%E5%AA%B3%E6%89%93%E5%BE%97%E6%BB%A1%E8%BA%AB%E7%96%A4%E7%97%95%E6%83%B9%E4%BC%97%E6%80%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [莫斯科恐袭死亡升至143人](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E6%AD%BB%E4%BA%A1%E5%8D%87%E8%87%B3143%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
-9. [南通有丧葬店下架纸钱冥币改卖鲜花](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E6%9C%89%E4%B8%A7%E8%91%AC%E5%BA%97%E4%B8%8B%E6%9E%B6%E7%BA%B8%E9%92%B1%E5%86%A5%E5%B8%81%E6%94%B9%E5%8D%96%E9%B2%9C%E8%8A%B1%23&t=31&band_rank=9&Refer=top)<br />
+9. [背了3天锅的地磁暴确实挺暴躁](https://s.weibo.com/weibo?q=%23%E8%83%8C%E4%BA%863%E5%A4%A9%E9%94%85%E7%9A%84%E5%9C%B0%E7%A3%81%E6%9A%B4%E7%A1%AE%E5%AE%9E%E6%8C%BA%E6%9A%B4%E8%BA%81%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
