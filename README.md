@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 21:13:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 21:15:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [小米SU7](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%23&t=31&band_rank=4&Refer=top)<br />
 5. [存款到10万是什么感觉](https://s.weibo.com/weibo?q=%23%E5%AD%98%E6%AC%BE%E5%88%B010%E4%B8%87%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23&t=31&band_rank=5&Refer=top)<br />
 6. [小米发布会](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
-7. [雷军排面](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%8E%92%E9%9D%A2%23&t=31&band_rank=7&Refer=top)<br />
+7. [雷军 雷神](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%20%E9%9B%B7%E7%A5%9E&t=31&band_rank=7&Refer=top)<br />
 8. [李铁当庭认罪悔罪](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E5%BD%93%E5%BA%AD%E8%AE%A4%E7%BD%AA%E6%82%94%E7%BD%AA%23&t=31&band_rank=8&Refer=top)<br />
-9. [雷军 雷神](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%20%E9%9B%B7%E7%A5%9E&t=31&band_rank=9&Refer=top)<br />
+9. [雷军排面](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%8E%92%E9%9D%A2%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [蚂蚁集团杭州退地 周边房价直降2万](https://www.baidu.com/s?wd=%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%9D%AD%E5%B7%9E%E9%80%80%E5%9C%B0+%E5%91%A8%E8%BE%B9%E6%88%BF%E4%BB%B7%E7%9B%B4%E9%99%8D2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [雷军称小米SU7续航遥遥领先](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3SU7%E7%BB%AD%E8%88%AA%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄圣依杨子直播事件6人被刑拘](https://www.baidu.com/s?wd=%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%9D%A8%E5%AD%90%E7%9B%B4%E6%92%AD%E4%BA%8B%E4%BB%B66%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小米SU7首发共9款颜色](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3SU7%E9%A6%96%E5%8F%91%E5%85%B19%E6%AC%BE%E9%A2%9C%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [厄瓜多尔一监狱发生暴乱](https://www.baidu.com/s?wd=%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E4%B8%80%E7%9B%91%E7%8B%B1%E5%8F%91%E7%94%9F%E6%9A%B4%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [面具男用病毒针扎人系谣言](https://www.baidu.com/s?wd=%E9%9D%A2%E5%85%B7%E7%94%B7%E7%94%A8%E7%97%85%E6%AF%92%E9%92%88%E6%89%8E%E4%BA%BA%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [蚂蚁集团杭州退地 周边房价直降2万](https://www.baidu.com/s?wd=%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%9D%AD%E5%B7%9E%E9%80%80%E5%9C%B0+%E5%91%A8%E8%BE%B9%E6%88%BF%E4%BB%B7%E7%9B%B4%E9%99%8D2%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [雷军称小米SU7续航遥遥领先](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3SU7%E7%BB%AD%E8%88%AA%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [黄圣依杨子直播事件6人被刑拘](https://www.baidu.com/s?wd=%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%9D%A8%E5%AD%90%E7%9B%B4%E6%92%AD%E4%BA%8B%E4%BB%B66%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [小米SU7首发共9款颜色](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3SU7%E9%A6%96%E5%8F%91%E5%85%B19%E6%AC%BE%E9%A2%9C%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [厄瓜多尔一监狱发生暴乱](https://www.baidu.com/s?wd=%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E4%B8%80%E7%9B%91%E7%8B%B1%E5%8F%91%E7%94%9F%E6%9A%B4%E4%B9%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [面具男用病毒针扎人系谣言](https://www.baidu.com/s?wd=%E9%9D%A2%E5%85%B7%E7%94%B7%E7%94%A8%E7%97%85%E6%AF%92%E9%92%88%E6%89%8E%E4%BA%BA%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
