@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 12:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 12:39:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
 7. [秦岚的嗓子怎么还没好](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%9A%84%E5%97%93%E5%AD%90%E6%80%8E%E4%B9%88%E8%BF%98%E6%B2%A1%E5%A5%BD%23&t=31&band_rank=7&Refer=top)<br />
 8. [陈铭被质疑为何没非升即走](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%93%AD%E8%A2%AB%E8%B4%A8%E7%96%91%E4%B8%BA%E4%BD%95%E6%B2%A1%E9%9D%9E%E5%8D%87%E5%8D%B3%E8%B5%B0%23&t=31&band_rank=8&Refer=top)<br />
-9. [韩素希高中时期照片](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E9%AB%98%E4%B8%AD%E6%97%B6%E6%9C%9F%E7%85%A7%E7%89%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [极限挑战把黄景瑜从品质盛典绑走了](https://s.weibo.com/weibo?q=%23%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E6%8A%8A%E9%BB%84%E6%99%AF%E7%91%9C%E4%BB%8E%E5%93%81%E8%B4%A8%E7%9B%9B%E5%85%B8%E7%BB%91%E8%B5%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
