@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 08:30:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 08:32:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [南通](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A&t=31&band_rank=6&Refer=top)<br />
 7. [女子将儿媳打得满身疤痕惹众怒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%86%E5%84%BF%E5%AA%B3%E6%89%93%E5%BE%97%E6%BB%A1%E8%BA%AB%E7%96%A4%E7%97%95%E6%83%B9%E4%BC%97%E6%80%92%23&t=31&band_rank=7&Refer=top)<br />
 8. [李铁案一审今日开庭](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E6%A1%88%E4%B8%80%E5%AE%A1%E4%BB%8A%E6%97%A5%E5%BC%80%E5%BA%AD%23&t=31&band_rank=8&Refer=top)<br />
-9. [金宝贝突然停业几天前还怂恿家长充值](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AE%9D%E8%B4%9D%E7%AA%81%E7%84%B6%E5%81%9C%E4%B8%9A%E5%87%A0%E5%A4%A9%E5%89%8D%E8%BF%98%E6%80%82%E6%81%BF%E5%AE%B6%E9%95%BF%E5%85%85%E5%80%BC%23&t=31&band_rank=9&Refer=top)<br />
+9. [小米汽车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
