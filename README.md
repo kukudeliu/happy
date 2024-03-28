@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 13:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-28 13:40:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵丽颖的脸比小朋友还小](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E8%84%B8%E6%AF%94%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%BF%98%E5%B0%8F%23&t=31&band_rank=6&Refer=top)<br />
 7. [华为P70](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAP70&t=31&band_rank=7&Refer=top)<br />
 8. [奔跑吧12兄弟团首合体](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A712%E5%85%84%E5%BC%9F%E5%9B%A2%E9%A6%96%E5%90%88%E4%BD%93%23&t=31&band_rank=8&Refer=top)<br />
-9. [日本首相回应小林制药事件](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E5%9B%9E%E5%BA%94%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
+9. [自刷差评淄博烧烤店谈爆火1年现状](https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%88%B7%E5%B7%AE%E8%AF%84%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E5%BA%97%E8%B0%88%E7%88%86%E7%81%AB1%E5%B9%B4%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
