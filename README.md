@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 14:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 14:03:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小米SU7价格](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3SU7%E4%BB%B7%E6%A0%BC&t=31&band_rank=6&Refer=top)<br />
 7. [研究生们请把脸皮读厚一点](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E4%BB%AC%E8%AF%B7%E6%8A%8A%E8%84%B8%E7%9A%AE%E8%AF%BB%E5%8E%9A%E4%B8%80%E7%82%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [南通烧纸](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A%E7%83%A7%E7%BA%B8&t=31&band_rank=8&Refer=top)<br />
-9. [19岁唐氏女孩变脸绝技惊艳众人](https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%94%90%E6%B0%8F%E5%A5%B3%E5%AD%A9%E5%8F%98%E8%84%B8%E7%BB%9D%E6%8A%80%E6%83%8A%E8%89%B3%E4%BC%97%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [延安大学一考生与李大钊同名](https://s.weibo.com/weibo?q=%23%E5%BB%B6%E5%AE%89%E5%A4%A7%E5%AD%A6%E4%B8%80%E8%80%83%E7%94%9F%E4%B8%8E%E6%9D%8E%E5%A4%A7%E9%92%8A%E5%90%8C%E5%90%8D%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
