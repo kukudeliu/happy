@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 14:26:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 14:27:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=5&Refer=top)<br />
 6. [南通烧纸](https://s.weibo.com/weibo?q=%E5%8D%97%E9%80%9A%E7%83%A7%E7%BA%B8&t=31&band_rank=6&Refer=top)<br />
 7. [小米SU7价格](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3SU7%E4%BB%B7%E6%A0%BC&t=31&band_rank=7&Refer=top)<br />
-8. [研究生们请把脸皮读厚一点](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E4%BB%AC%E8%AF%B7%E6%8A%8A%E8%84%B8%E7%9A%AE%E8%AF%BB%E5%8E%9A%E4%B8%80%E7%82%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [没钱的时候就喜欢看看公积金](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E9%92%B1%E7%9A%84%E6%97%B6%E5%80%99%E5%B0%B1%E5%96%9C%E6%AC%A2%E7%9C%8B%E7%9C%8B%E5%85%AC%E7%A7%AF%E9%87%91%23&t=31&band_rank=9&Refer=top)<br />
+8. [没钱的时候就喜欢看看公积金](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E9%92%B1%E7%9A%84%E6%97%B6%E5%80%99%E5%B0%B1%E5%96%9C%E6%AC%A2%E7%9C%8B%E7%9C%8B%E5%85%AC%E7%A7%AF%E9%87%91%23&t=31&band_rank=8&Refer=top)<br />
+9. [研究生们请把脸皮读厚一点](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E4%BB%AC%E8%AF%B7%E6%8A%8A%E8%84%B8%E7%9A%AE%E8%AF%BB%E5%8E%9A%E4%B8%80%E7%82%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
