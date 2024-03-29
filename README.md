@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 00:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 00:15:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [粉色哥斯拉](https://s.weibo.com/weibo?q=%E7%B2%89%E8%89%B2%E5%93%A5%E6%96%AF%E6%8B%89&t=31&band_rank=6&Refer=top)<br />
 7. [杨幂G社生图](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82G%E7%A4%BE%E7%94%9F%E5%9B%BE&t=31&band_rank=7&Refer=top)<br />
 8. [赵丽颖成毅友情](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%88%90%E6%AF%85%E5%8F%8B%E6%83%85&t=31&band_rank=8&Refer=top)<br />
-9. [小米汽车上市24小时大定88898台](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%8A%E5%B8%8224%E5%B0%8F%E6%97%B6%E5%A4%A7%E5%AE%9A88898%E5%8F%B0%23&t=31&band_rank=9&Refer=top)<br />
+9. [经常塞牙其实是牙齿在求救](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E5%A1%9E%E7%89%99%E5%85%B6%E5%AE%9E%E6%98%AF%E7%89%99%E9%BD%BF%E5%9C%A8%E6%B1%82%E6%95%91%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -24,7 +24,7 @@
 5. [女子吐槽软卧车厢性别分配不合理](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E8%BD%AF%E5%8D%A7%E8%BD%A6%E5%8E%A2%E6%80%A7%E5%88%AB%E5%88%86%E9%85%8D%E4%B8%8D%E5%90%88%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [为什么烤鱼大多2.8斤一条](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%83%A4%E9%B1%BC%E5%A4%A7%E5%A4%9A2.8%E6%96%A4%E4%B8%80%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯重启“超级炸弹”生产](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%87%8D%E5%90%AF%E2%80%9C%E8%B6%85%E7%BA%A7%E7%82%B8%E5%BC%B9%E2%80%9D%E7%94%9F%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本“致命网红药”钻了什么空子](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E2%80%9C%E8%87%B4%E5%91%BD%E7%BD%91%E7%BA%A2%E8%8D%AF%E2%80%9D%E9%92%BB%E4%BA%86%E4%BB%80%E4%B9%88%E7%A9%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [13岁女孩外出帮同学取快递后失踪](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%A4%96%E5%87%BA%E5%B8%AE%E5%90%8C%E5%AD%A6%E5%8F%96%E5%BF%AB%E9%80%92%E5%90%8E%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京辟谣图书馆有偿招志愿者](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%BE%9F%E8%B0%A3%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%9C%89%E5%81%BF%E6%8B%9B%E5%BF%97%E6%84%BF%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子吐槽软卧车厢性别分配不合理](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E8%BD%AF%E5%8D%A7%E8%BD%A6%E5%8E%A2%E6%80%A7%E5%88%AB%E5%88%86%E9%85%8D%E4%B8%8D%E5%90%88%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [为什么烤鱼大多2.8斤一条](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%83%A4%E9%B1%BC%E5%A4%A7%E5%A4%9A2.8%E6%96%A4%E4%B8%80%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯重启“超级炸弹”生产](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%87%8D%E5%90%AF%E2%80%9C%E8%B6%85%E7%BA%A7%E7%82%B8%E5%BC%B9%E2%80%9D%E7%94%9F%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [日本“致命网红药”钻了什么空子](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E2%80%9C%E8%87%B4%E5%91%BD%E7%BD%91%E7%BA%A2%E8%8D%AF%E2%80%9D%E9%92%BB%E4%BA%86%E4%BB%80%E4%B9%88%E7%A9%BA%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [13岁女孩外出帮同学取快递后失踪](https://www.baidu.com/s?wd=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%A4%96%E5%87%BA%E5%B8%AE%E5%90%8C%E5%AD%A6%E5%8F%96%E5%BF%AB%E9%80%92%E5%90%8E%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京辟谣图书馆有偿招志愿者](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%BE%9F%E8%B0%A3%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%9C%89%E5%81%BF%E6%8B%9B%E5%BF%97%E6%84%BF%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
