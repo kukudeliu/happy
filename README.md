@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 10:29:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 10:32:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [人民日报评樊振东身份证号被恶意传播](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E8%A2%AB%E6%81%B6%E6%84%8F%E4%BC%A0%E6%92%AD%23&t=31&band_rank=6&Refer=top)<br />
 7. [小米SU7售价21.59万元起](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E5%94%AE%E4%BB%B721.59%E4%B8%87%E5%85%83%E8%B5%B7%23&t=31&band_rank=7&Refer=top)<br />
 8. [小米股票](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E8%82%A1%E7%A5%A8&t=31&band_rank=8&Refer=top)<br />
-9. [181男生喊话雷军配件已齐就缺SU7了](https://s.weibo.com/weibo?q=%23181%E7%94%B7%E7%94%9F%E5%96%8A%E8%AF%9D%E9%9B%B7%E5%86%9B%E9%85%8D%E4%BB%B6%E5%B7%B2%E9%BD%90%E5%B0%B1%E7%BC%BASU7%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [肛肠科医生最不希望你放弃的一项检查](https://s.weibo.com/weibo?q=%23%E8%82%9B%E8%82%A0%E7%A7%91%E5%8C%BB%E7%94%9F%E6%9C%80%E4%B8%8D%E5%B8%8C%E6%9C%9B%E4%BD%A0%E6%94%BE%E5%BC%83%E7%9A%84%E4%B8%80%E9%A1%B9%E6%A3%80%E6%9F%A5%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
