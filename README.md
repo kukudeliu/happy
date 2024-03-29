@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 02:15:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 02:16:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女子吐槽软卧车厢性别分配不合理](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E8%BD%AF%E5%8D%A7%E8%BD%A6%E5%8E%A2%E6%80%A7%E5%88%AB%E5%88%86%E9%85%8D%E4%B8%8D%E5%90%88%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子通过“附近的人”骗得上百万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%9A%E8%BF%87%E2%80%9C%E9%99%84%E8%BF%91%E7%9A%84%E4%BA%BA%E2%80%9D%E9%AA%97%E5%BE%97%E4%B8%8A%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯重启“超级炸弹”生产](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%87%8D%E5%90%AF%E2%80%9C%E8%B6%85%E7%BA%A7%E7%82%B8%E5%BC%B9%E2%80%9D%E7%94%9F%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [入殓师博主分享罕见纸扎祭祀品](https://www.baidu.com/s?wd=%E5%85%A5%E6%AE%93%E5%B8%88%E5%8D%9A%E4%B8%BB%E5%88%86%E4%BA%AB%E7%BD%95%E8%A7%81%E7%BA%B8%E6%89%8E%E7%A5%AD%E7%A5%80%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [居民家中自来水出现大量虫子](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E5%AE%B6%E4%B8%AD%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京辟谣图书馆有偿招志愿者](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%BE%9F%E8%B0%A3%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%9C%89%E5%81%BF%E6%8B%9B%E5%BF%97%E6%84%BF%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子吐槽软卧车厢性别分配不合理](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E8%BD%AF%E5%8D%A7%E8%BD%A6%E5%8E%A2%E6%80%A7%E5%88%AB%E5%88%86%E9%85%8D%E4%B8%8D%E5%90%88%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子通过“附近的人”骗得上百万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%9A%E8%BF%87%E2%80%9C%E9%99%84%E8%BF%91%E7%9A%84%E4%BA%BA%E2%80%9D%E9%AA%97%E5%BE%97%E4%B8%8A%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [俄罗斯重启“超级炸弹”生产](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%87%8D%E5%90%AF%E2%80%9C%E8%B6%85%E7%BA%A7%E7%82%B8%E5%BC%B9%E2%80%9D%E7%94%9F%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [入殓师博主分享罕见纸扎祭祀品](https://www.baidu.com/s?wd=%E5%85%A5%E6%AE%93%E5%B8%88%E5%8D%9A%E4%B8%BB%E5%88%86%E4%BA%AB%E7%BD%95%E8%A7%81%E7%BA%B8%E6%89%8E%E7%A5%AD%E7%A5%80%E5%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [居民家中自来水出现大量虫子](https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E5%AE%B6%E4%B8%AD%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%99%AB%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京辟谣图书馆有偿招志愿者](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%BE%9F%E8%B0%A3%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%9C%89%E5%81%BF%E6%8B%9B%E5%BF%97%E6%84%BF%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
