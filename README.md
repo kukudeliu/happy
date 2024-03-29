@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 18:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 18:39:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [承欢记 杨紫站位](https://s.weibo.com/weibo?q=%E6%89%BF%E6%AC%A2%E8%AE%B0%20%E6%9D%A8%E7%B4%AB%E7%AB%99%E4%BD%8D&t=31&band_rank=6&Refer=top)<br />
 7. [张凌赫徐若晗樱花吻路透](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%BE%90%E8%8B%A5%E6%99%97%E6%A8%B1%E8%8A%B1%E5%90%BB%E8%B7%AF%E9%80%8F&t=31&band_rank=7&Refer=top)<br />
 8. [女子花10元中681万结果彩票被洗得稀碎](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B110%E5%85%83%E4%B8%AD681%E4%B8%87%E7%BB%93%E6%9E%9C%E5%BD%A9%E7%A5%A8%E8%A2%AB%E6%B4%97%E5%BE%97%E7%A8%80%E7%A2%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [被网课满屏的老师好弹幕戳到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%BD%91%E8%AF%BE%E6%BB%A1%E5%B1%8F%E7%9A%84%E8%80%81%E5%B8%88%E5%A5%BD%E5%BC%B9%E5%B9%95%E6%88%B3%E5%88%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+9. [63岁退伍老兵从10多米高桥跳水救人](https://s.weibo.com/weibo?q=%2363%E5%B2%81%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%E4%BB%8E10%E5%A4%9A%E7%B1%B3%E9%AB%98%E6%A1%A5%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
