@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 15:47:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 15:48:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [有些糖尿病是睡出来的](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%9B%E7%B3%96%E5%B0%BF%E7%97%85%E6%98%AF%E7%9D%A1%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=6&Refer=top)<br />
 7. [小米SU7订单被加价数千元转让](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E8%AE%A2%E5%8D%95%E8%A2%AB%E5%8A%A0%E4%BB%B7%E6%95%B0%E5%8D%83%E5%85%83%E8%BD%AC%E8%AE%A9%23&t=31&band_rank=7&Refer=top)<br />
 8. [没钱的时候就喜欢看看公积金](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E9%92%B1%E7%9A%84%E6%97%B6%E5%80%99%E5%B0%B1%E5%96%9C%E6%AC%A2%E7%9C%8B%E7%9C%8B%E5%85%AC%E7%A7%AF%E9%87%91%23&t=31&band_rank=8&Refer=top)<br />
-9. [宋亚轩给国家地理微博留言](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%BB%99%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%E5%BE%AE%E5%8D%9A%E7%95%99%E8%A8%80%23&t=31&band_rank=9&Refer=top)<br />
+9. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
