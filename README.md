@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 17:59:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-29 18:00:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [承欢记 杨紫站位](https://s.weibo.com/weibo?q=%E6%89%BF%E6%AC%A2%E8%AE%B0%20%E6%9D%A8%E7%B4%AB%E7%AB%99%E4%BD%8D&t=31&band_rank=6&Refer=top)<br />
 7. [90%的年轻人担心自己有病](https://s.weibo.com/weibo?q=%2390%25%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8B%85%E5%BF%83%E8%87%AA%E5%B7%B1%E6%9C%89%E7%97%85%23&t=31&band_rank=7&Refer=top)<br />
 8. [水杯内一层滑滑的东西是什么](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9D%AF%E5%86%85%E4%B8%80%E5%B1%82%E6%BB%91%E6%BB%91%E7%9A%84%E4%B8%9C%E8%A5%BF%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [小红书bug](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6bug&t=31&band_rank=9&Refer=top)<br />
+9. [他们抬着雅江送的24面锦旗回来了](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E6%8A%AC%E7%9D%80%E9%9B%85%E6%B1%9F%E9%80%81%E7%9A%8424%E9%9D%A2%E9%94%A6%E6%97%97%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
