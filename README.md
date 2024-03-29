@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 02:45:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 02:46:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [女子吐槽软卧车厢性别分配不合理](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E8%BD%AF%E5%8D%A7%E8%BD%A6%E5%8E%A2%E6%80%A7%E5%88%AB%E5%88%86%E9%85%8D%E4%B8%8D%E5%90%88%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子通过“附近的人”骗得上百万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%9A%E8%BF%87%E2%80%9C%E9%99%84%E8%BF%91%E7%9A%84%E4%BA%BA%E2%80%9D%E9%AA%97%E5%BE%97%E4%B8%8A%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小米SU7订单被加价数千元转让](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3SU7%E8%AE%A2%E5%8D%95%E8%A2%AB%E5%8A%A0%E4%BB%B7%E6%95%B0%E5%8D%83%E5%85%83%E8%BD%AC%E8%AE%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [司机撞人逃逸后又连撞两人 致2死3伤](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%92%9E%E4%BA%BA%E9%80%83%E9%80%B8%E5%90%8E%E5%8F%88%E8%BF%9E%E6%92%9E%E4%B8%A4%E4%BA%BA+%E8%87%B42%E6%AD%BB3%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [告别广州“制衣村” 十万人流向何方](https://www.baidu.com/s?wd=%E5%91%8A%E5%88%AB%E5%B9%BF%E5%B7%9E%E2%80%9C%E5%88%B6%E8%A1%A3%E6%9D%91%E2%80%9D+%E5%8D%81%E4%B8%87%E4%BA%BA%E6%B5%81%E5%90%91%E4%BD%95%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京辟谣图书馆有偿招志愿者](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%BE%9F%E8%B0%A3%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%9C%89%E5%81%BF%E6%8B%9B%E5%BF%97%E6%84%BF%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [女子吐槽软卧车厢性别分配不合理](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E8%BD%AF%E5%8D%A7%E8%BD%A6%E5%8E%A2%E6%80%A7%E5%88%AB%E5%88%86%E9%85%8D%E4%B8%8D%E5%90%88%E7%90%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [男子通过“附近的人”骗得上百万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%9A%E8%BF%87%E2%80%9C%E9%99%84%E8%BF%91%E7%9A%84%E4%BA%BA%E2%80%9D%E9%AA%97%E5%BE%97%E4%B8%8A%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [小米SU7订单被加价数千元转让](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3SU7%E8%AE%A2%E5%8D%95%E8%A2%AB%E5%8A%A0%E4%BB%B7%E6%95%B0%E5%8D%83%E5%85%83%E8%BD%AC%E8%AE%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [司机撞人逃逸后又连撞两人 致2死3伤](https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E6%92%9E%E4%BA%BA%E9%80%83%E9%80%B8%E5%90%8E%E5%8F%88%E8%BF%9E%E6%92%9E%E4%B8%A4%E4%BA%BA+%E8%87%B42%E6%AD%BB3%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [告别广州“制衣村” 十万人流向何方](https://www.baidu.com/s?wd=%E5%91%8A%E5%88%AB%E5%B9%BF%E5%B7%9E%E2%80%9C%E5%88%B6%E8%A1%A3%E6%9D%91%E2%80%9D+%E5%8D%81%E4%B8%87%E4%BA%BA%E6%B5%81%E5%90%91%E4%BD%95%E6%96%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [北京辟谣图书馆有偿招志愿者](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%BE%9F%E8%B0%A3%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%9C%89%E5%81%BF%E6%8B%9B%E5%BF%97%E6%84%BF%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)<br />
