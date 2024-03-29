@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 01:34:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 01:36:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [闲鱼现大量车主转卖旧车购买小米SU7](https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%BD%A6%E4%B8%BB%E8%BD%AC%E5%8D%96%E6%97%A7%E8%BD%A6%E8%B4%AD%E4%B9%B0%E5%B0%8F%E7%B1%B3SU7%23&t=31&band_rank=5&Refer=top)<br />
 6. [粉色哥斯拉](https://s.weibo.com/weibo?q=%E7%B2%89%E8%89%B2%E5%93%A5%E6%96%AF%E6%8B%89&t=31&band_rank=6&Refer=top)<br />
 7. [罗永浩称小米汽车很可能上演良币驱逐劣币](https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%A7%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%BE%88%E5%8F%AF%E8%83%BD%E4%B8%8A%E6%BC%94%E8%89%AF%E5%B8%81%E9%A9%B1%E9%80%90%E5%8A%A3%E5%B8%81%23&t=31&band_rank=7&Refer=top)<br />
-8. [杨幂G社生图](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82G%E7%A4%BE%E7%94%9F%E5%9B%BE&t=31&band_rank=8&Refer=top)<br />
+8. [小米汽车回应](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%23&t=31&band_rank=8&Refer=top)<br />
 9. [为卖淫女看病被判协助组织卖淫](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%8D%96%E6%B7%AB%E5%A5%B3%E7%9C%8B%E7%97%85%E8%A2%AB%E5%88%A4%E5%8D%8F%E5%8A%A9%E7%BB%84%E7%BB%87%E5%8D%96%E6%B7%AB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
