@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 19:43:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 19:44:02</h4></div>
 
 > 微博  
 
@@ -19,11 +19,11 @@
 
 1. [将正能量变成“大流量”](https://www.baidu.com/s?wd=%E5%B0%86%E6%AD%A3%E8%83%BD%E9%87%8F%E5%8F%98%E6%88%90%E2%80%9C%E5%A4%A7%E6%B5%81%E9%87%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [国乒首败诞生 樊振东不敌雨果](https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E9%A6%96%E8%B4%A5%E8%AF%9E%E7%94%9F+%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%8D%E6%95%8C%E9%9B%A8%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [杭州东站跳轨旅客已转送至ICU](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%9C%E7%AB%99%E8%B7%B3%E8%BD%A8%E6%97%85%E5%AE%A2%E5%B7%B2%E8%BD%AC%E9%80%81%E8%87%B3ICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [央视调查多家黄金门店关闭](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%A4%9A%E5%AE%B6%E9%BB%84%E9%87%91%E9%97%A8%E5%BA%97%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“跟中国人民心很近”](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%9F%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%83%E5%BE%88%E8%BF%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [行李超重 女子将4斤衣物穿身上](https://www.baidu.com/s?wd=%E8%A1%8C%E6%9D%8E%E8%B6%85%E9%87%8D+%E5%A5%B3%E5%AD%90%E5%B0%864%E6%96%A4%E8%A1%A3%E7%89%A9%E7%A9%BF%E8%BA%AB%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [孩子偷点外卖 骑手偶遇孩子爸爸](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E5%81%B7%E7%82%B9%E5%A4%96%E5%8D%96+%E9%AA%91%E6%89%8B%E5%81%B6%E9%81%87%E5%AD%A9%E5%AD%90%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [武汉150岁杜梨树开花](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89150%E5%B2%81%E6%9D%9C%E6%A2%A8%E6%A0%91%E5%BC%80%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国撞桥事故所有遇难者均为移民](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%92%9E%E6%A1%A5%E4%BA%8B%E6%95%85%E6%89%80%E6%9C%89%E9%81%87%E9%9A%BE%E8%80%85%E5%9D%87%E4%B8%BA%E7%A7%BB%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [孩子偷点外卖 骑手偶遇孩子爸爸](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E5%81%B7%E7%82%B9%E5%A4%96%E5%8D%96+%E9%AA%91%E6%89%8B%E5%81%B6%E9%81%87%E5%AD%A9%E5%AD%90%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小孩界的劳斯莱斯出现了](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E7%95%8C%E7%9A%84%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
@@ -31,10 +31,10 @@
 
 1. [将正能量变成“大流量”](https://www.baidu.com/s?wd=%E5%B0%86%E6%AD%A3%E8%83%BD%E9%87%8F%E5%8F%98%E6%88%90%E2%80%9C%E5%A4%A7%E6%B5%81%E9%87%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 2. [国乒首败诞生 樊振东不敌雨果](https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E9%A6%96%E8%B4%A5%E8%AF%9E%E7%94%9F+%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%8D%E6%95%8C%E9%9B%A8%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [杭州东站跳轨旅客已转送至ICU](https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%B8%9C%E7%AB%99%E8%B7%B3%E8%BD%A8%E6%97%85%E5%AE%A2%E5%B7%B2%E8%BD%AC%E9%80%81%E8%87%B3ICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [央视调查多家黄金门店关闭](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%A4%9A%E5%AE%B6%E9%BB%84%E9%87%91%E9%97%A8%E5%BA%97%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“跟中国人民心很近”](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%9F%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%83%E5%BE%88%E8%BF%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [行李超重 女子将4斤衣物穿身上](https://www.baidu.com/s?wd=%E8%A1%8C%E6%9D%8E%E8%B6%85%E9%87%8D+%E5%A5%B3%E5%AD%90%E5%B0%864%E6%96%A4%E8%A1%A3%E7%89%A9%E7%A9%BF%E8%BA%AB%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [孩子偷点外卖 骑手偶遇孩子爸爸](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E5%81%B7%E7%82%B9%E5%A4%96%E5%8D%96+%E9%AA%91%E6%89%8B%E5%81%B6%E9%81%87%E5%AD%A9%E5%AD%90%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [武汉150岁杜梨树开花](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89150%E5%B2%81%E6%9D%9C%E6%A2%A8%E6%A0%91%E5%BC%80%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国撞桥事故所有遇难者均为移民](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%92%9E%E6%A1%A5%E4%BA%8B%E6%95%85%E6%89%80%E6%9C%89%E9%81%87%E9%9A%BE%E8%80%85%E5%9D%87%E4%B8%BA%E7%A7%BB%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [孩子偷点外卖 骑手偶遇孩子爸爸](https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E5%81%B7%E7%82%B9%E5%A4%96%E5%8D%96+%E9%AA%91%E6%89%8B%E5%81%B6%E9%81%87%E5%AD%A9%E5%AD%90%E7%88%B8%E7%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [小孩界的劳斯莱斯出现了](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E7%95%8C%E7%9A%84%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
