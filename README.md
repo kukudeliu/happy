@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 21:40:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 21:41:02</h4></div>
 
 > 微博  
 
@@ -21,7 +21,7 @@
 2. [央视调查多家黄金门店关闭](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%A4%9A%E5%AE%B6%E9%BB%84%E9%87%91%E9%97%A8%E5%BA%97%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [员工请假照顾父亲 老板提前发工资](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AF%B7%E5%81%87%E7%85%A7%E9%A1%BE%E7%88%B6%E4%BA%B2+%E8%80%81%E6%9D%BF%E6%8F%90%E5%89%8D%E5%8F%91%E5%B7%A5%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“跟中国人民心很近”](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%9F%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%83%E5%BE%88%E8%BF%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男孩拿盲人手机充游戏 家长无理回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%8B%BF%E7%9B%B2%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%85%85%E6%B8%B8%E6%88%8F+%E5%AE%B6%E9%95%BF%E6%97%A0%E7%90%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [女子就餐时卡式炉爆开 眼部被烧伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%B1%E9%A4%90%E6%97%B6%E5%8D%A1%E5%BC%8F%E7%82%89%E7%88%86%E5%BC%80+%E7%9C%BC%E9%83%A8%E8%A2%AB%E7%83%A7%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [1800名肺癌患者赠药突然中止](https://www.baidu.com/s?wd=1800%E5%90%8D%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%B5%A0%E8%8D%AF%E7%AA%81%E7%84%B6%E4%B8%AD%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [迟到四十年的闽南家书](https://www.baidu.com/s?wd=%E8%BF%9F%E5%88%B0%E5%9B%9B%E5%8D%81%E5%B9%B4%E7%9A%84%E9%97%BD%E5%8D%97%E5%AE%B6%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -33,7 +33,7 @@
 2. [央视调查多家黄金门店关闭](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%A4%9A%E5%AE%B6%E9%BB%84%E9%87%91%E9%97%A8%E5%BA%97%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [员工请假照顾父亲 老板提前发工资](https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E8%AF%B7%E5%81%87%E7%85%A7%E9%A1%BE%E7%88%B6%E4%BA%B2+%E8%80%81%E6%9D%BF%E6%8F%90%E5%89%8D%E5%8F%91%E5%B7%A5%E8%B5%84&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“跟中国人民心很近”](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%9F%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%83%E5%BE%88%E8%BF%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [男孩拿盲人手机充游戏 家长无理回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%8B%BF%E7%9B%B2%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%85%85%E6%B8%B8%E6%88%8F+%E5%AE%B6%E9%95%BF%E6%97%A0%E7%90%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [女子就餐时卡式炉爆开 眼部被烧伤](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%B1%E9%A4%90%E6%97%B6%E5%8D%A1%E5%BC%8F%E7%82%89%E7%88%86%E5%BC%80+%E7%9C%BC%E9%83%A8%E8%A2%AB%E7%83%A7%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [1800名肺癌患者赠药突然中止](https://www.baidu.com/s?wd=1800%E5%90%8D%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%B5%A0%E8%8D%AF%E7%AA%81%E7%84%B6%E4%B8%AD%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [迟到四十年的闽南家书](https://www.baidu.com/s?wd=%E8%BF%9F%E5%88%B0%E5%9B%9B%E5%8D%81%E5%B9%B4%E7%9A%84%E9%97%BD%E5%8D%97%E5%AE%B6%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
