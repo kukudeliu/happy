@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 20:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 20:56:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [雷军回复张颂文](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87%23&t=31&band_rank=6&Refer=top)<br />
 7. [郑合惠子工作室发声](https://s.weibo.com/weibo?q=%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E5%A3%B0&t=31&band_rank=7&Refer=top)<br />
 8. [与凤行](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C&t=31&band_rank=8&Refer=top)<br />
-9. [员工请假照顾父亲00后老板提前发工资](https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E8%AF%B7%E5%81%87%E7%85%A7%E9%A1%BE%E7%88%B6%E4%BA%B200%E5%90%8E%E8%80%81%E6%9D%BF%E6%8F%90%E5%89%8D%E5%8F%91%E5%B7%A5%E8%B5%84%23&t=31&band_rank=9&Refer=top)<br />
+9. [重师美院原院长被曝诱骗学生当小三](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%B8%88%E7%BE%8E%E9%99%A2%E5%8E%9F%E9%99%A2%E9%95%BF%E8%A2%AB%E6%9B%9D%E8%AF%B1%E9%AA%97%E5%AD%A6%E7%94%9F%E5%BD%93%E5%B0%8F%E4%B8%89%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -22,7 +22,7 @@
 3. [1800名肺癌患者赠药突然中止](https://www.baidu.com/s?wd=1800%E5%90%8D%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%B5%A0%E8%8D%AF%E7%AA%81%E7%84%B6%E4%B8%AD%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“跟中国人民心很近”](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%9F%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%83%E5%BE%88%E8%BF%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子豪掷140万买黄金 店员报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B1%AA%E6%8E%B7140%E4%B8%87%E4%B9%B0%E9%BB%84%E9%87%91+%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子辟谣是国内唯一甲骨文大学生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%9F%E8%B0%A3%E6%98%AF%E5%9B%BD%E5%86%85%E5%94%AF%E4%B8%80%E7%94%B2%E9%AA%A8%E6%96%87%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国撞桥事故所有遇难者均为移民](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%92%9E%E6%A1%A5%E4%BA%8B%E6%95%85%E6%89%80%E6%9C%89%E9%81%87%E9%9A%BE%E8%80%85%E5%9D%87%E4%B8%BA%E7%A7%BB%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [武汉150岁杜梨树开花](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89150%E5%B2%81%E6%9D%9C%E6%A2%A8%E6%A0%91%E5%BC%80%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
@@ -34,7 +34,7 @@
 3. [1800名肺癌患者赠药突然中止](https://www.baidu.com/s?wd=1800%E5%90%8D%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%B5%A0%E8%8D%AF%E7%AA%81%E7%84%B6%E4%B8%AD%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“跟中国人民心很近”](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%9F%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%83%E5%BE%88%E8%BF%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子豪掷140万买黄金 店员报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B1%AA%E6%8E%B7140%E4%B8%87%E4%B9%B0%E9%BB%84%E9%87%91+%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [女子辟谣是国内唯一甲骨文大学生](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%9F%E8%B0%A3%E6%98%AF%E5%9B%BD%E5%86%85%E5%94%AF%E4%B8%80%E7%94%B2%E9%AA%A8%E6%96%87%E5%A4%A7%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [美国撞桥事故所有遇难者均为移民](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%92%9E%E6%A1%A5%E4%BA%8B%E6%95%85%E6%89%80%E6%9C%89%E9%81%87%E9%9A%BE%E8%80%85%E5%9D%87%E4%B8%BA%E7%A7%BB%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [武汉150岁杜梨树开花](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89150%E5%B2%81%E6%9D%9C%E6%A2%A8%E6%A0%91%E5%BC%80%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
