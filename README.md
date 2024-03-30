@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 01:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 01:30:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [央视调查多家黄金门店关闭](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%A4%9A%E5%AE%B6%E9%BB%84%E9%87%91%E9%97%A8%E5%BA%97%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这场重要论坛，大有看头](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E9%87%8D%E8%A6%81%E8%AE%BA%E5%9D%9B%EF%BC%8C%E5%A4%A7%E6%9C%89%E7%9C%8B%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海年轻人排队5小时抢娃娃](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%92%E9%98%9F5%E5%B0%8F%E6%97%B6%E6%8A%A2%E5%A8%83%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [泽连斯基解除乌总统第一助理职务](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%A7%A3%E9%99%A4%E4%B9%8C%E6%80%BB%E7%BB%9F%E7%AC%AC%E4%B8%80%E5%8A%A9%E7%90%86%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子卖车收到10万练功券](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8D%96%E8%BD%A6%E6%94%B6%E5%88%B010%E4%B8%87%E7%BB%83%E5%8A%9F%E5%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子豪掷140万买黄金 店员报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B1%AA%E6%8E%B7140%E4%B8%87%E4%B9%B0%E9%BB%84%E9%87%91+%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子群发女同事照片并造谣被行拘6天](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BE%A4%E5%8F%91%E5%A5%B3%E5%90%8C%E4%BA%8B%E7%85%A7%E7%89%87%E5%B9%B6%E9%80%A0%E8%B0%A3%E8%A2%AB%E8%A1%8C%E6%8B%986%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [央视调查多家黄金门店关闭](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%A4%9A%E5%AE%B6%E9%BB%84%E9%87%91%E9%97%A8%E5%BA%97%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这场重要论坛，大有看头](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E9%87%8D%E8%A6%81%E8%AE%BA%E5%9D%9B%EF%BC%8C%E5%A4%A7%E6%9C%89%E7%9C%8B%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海年轻人排队5小时抢娃娃](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%92%E9%98%9F5%E5%B0%8F%E6%97%B6%E6%8A%A2%E5%A8%83%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [泽连斯基解除乌总统第一助理职务](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%A7%A3%E9%99%A4%E4%B9%8C%E6%80%BB%E7%BB%9F%E7%AC%AC%E4%B8%80%E5%8A%A9%E7%90%86%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [男子卖车收到10万练功券](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8D%96%E8%BD%A6%E6%94%B6%E5%88%B010%E4%B8%87%E7%BB%83%E5%8A%9F%E5%88%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子豪掷140万买黄金 店员报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B1%AA%E6%8E%B7140%E4%B8%87%E4%B9%B0%E9%BB%84%E9%87%91+%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子群发女同事照片并造谣被行拘6天](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BE%A4%E5%8F%91%E5%A5%B3%E5%90%8C%E4%BA%8B%E7%85%A7%E7%89%87%E5%B9%B6%E9%80%A0%E8%B0%A3%E8%A2%AB%E8%A1%8C%E6%8B%986%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
