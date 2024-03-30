@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 19:04:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 19:05:02</h4></div>
 
 > 微博  
 
 1. [雷军回复张颂文](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87%23&t=31&band_rank=1&Refer=top)<br />
-2. [金价再度爆发](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E7%88%86%E5%8F%91%23&t=31&band_rank=2&Refer=top)<br />
+2. [樊振东vs雨果](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E9%9B%A8%E6%9E%9C%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024中国网络媒体论坛](https://s.weibo.com/weibo?q=%232024%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AA%92%E4%BD%93%E8%AE%BA%E5%9D%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [樊振东vs雨果](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E9%9B%A8%E6%9E%9C%23&t=31&band_rank=4&Refer=top)<br />
+4. [金价再度爆发](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E7%88%86%E5%8F%91%23&t=31&band_rank=4&Refer=top)<br />
 5. [医院取精室里都有些什么](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%8F%96%E7%B2%BE%E5%AE%A4%E9%87%8C%E9%83%BD%E6%9C%89%E4%BA%9B%E4%BB%80%E4%B9%88%23&t=31&band_rank=5&Refer=top)<br />
-6. [纪凌尘 海澜之家](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6&t=31&band_rank=6&Refer=top)<br />
-7. [郑合惠子工作室发声](https://s.weibo.com/weibo?q=%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E5%A3%B0&t=31&band_rank=7&Refer=top)<br />
-8. [刘宇宁胡意旋 将门毒后](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%83%A1%E6%84%8F%E6%97%8B%20%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E&t=31&band_rank=8&Refer=top)<br />
+6. [郑合惠子工作室发声](https://s.weibo.com/weibo?q=%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E5%A3%B0&t=31&band_rank=6&Refer=top)<br />
+7. [纪凌尘 海澜之家](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6&t=31&band_rank=7&Refer=top)<br />
+8. [樊振东2比4雨果](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C2%E6%AF%944%E9%9B%A8%E6%9E%9C&t=31&band_rank=8&Refer=top)<br />
 9. [这位00后老板的处事方式简单却细腻](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BD%8D00%E5%90%8E%E8%80%81%E6%9D%BF%E7%9A%84%E5%A4%84%E4%BA%8B%E6%96%B9%E5%BC%8F%E7%AE%80%E5%8D%95%E5%8D%B4%E7%BB%86%E8%85%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
