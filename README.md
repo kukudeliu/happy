@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 08:31:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 08:34:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [女生带回一件染血校服学校补发一套](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%B8%A6%E5%9B%9E%E4%B8%80%E4%BB%B6%E6%9F%93%E8%A1%80%E6%A0%A1%E6%9C%8D%E5%AD%A6%E6%A0%A1%E8%A1%A5%E5%8F%91%E4%B8%80%E5%A5%97%23&t=31&band_rank=4&Refer=top)<br />
 5. [俄恐袭遇难已升至144人](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%81%90%E8%A2%AD%E9%81%87%E9%9A%BE%E5%B7%B2%E5%8D%87%E8%87%B3144%E4%BA%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [孔雪儿回应了](https://s.weibo.com/weibo?q=%23%E5%AD%94%E9%9B%AA%E5%84%BF%E5%9B%9E%E5%BA%94%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [经常塞牙其实是牙齿在求救](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E5%A1%9E%E7%89%99%E5%85%B6%E5%AE%9E%E6%98%AF%E7%89%99%E9%BD%BF%E5%9C%A8%E6%B1%82%E6%95%91%23&t=31&band_rank=7&Refer=top)<br />
-8. [男生在工位上养了一整株月季](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%9C%A8%E5%B7%A5%E4%BD%8D%E4%B8%8A%E5%85%BB%E4%BA%86%E4%B8%80%E6%95%B4%E6%A0%AA%E6%9C%88%E5%AD%A3%23&t=31&band_rank=8&Refer=top)<br />
-9. [小孩界的劳斯莱斯出现了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E7%95%8C%E7%9A%84%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+7. [小孩界的劳斯莱斯出现了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E7%95%8C%E7%9A%84%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [经常塞牙其实是牙齿在求救](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E5%A1%9E%E7%89%99%E5%85%B6%E5%AE%9E%E6%98%AF%E7%89%99%E9%BD%BF%E5%9C%A8%E6%B1%82%E6%95%91%23&t=31&band_rank=8&Refer=top)<br />
+9. [男生在工位上养了一整株月季](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%9C%A8%E5%B7%A5%E4%BD%8D%E4%B8%8A%E5%85%BB%E4%BA%86%E4%B8%80%E6%95%B4%E6%A0%AA%E6%9C%88%E5%AD%A3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
