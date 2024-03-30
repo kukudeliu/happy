@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 20:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 20:39:01</h4></div>
 
 > 微博  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [将正能量变成“大流量”](https://www.baidu.com/s?wd=%E5%B0%86%E6%AD%A3%E8%83%BD%E9%87%8F%E5%8F%98%E6%88%90%E2%80%9C%E5%A4%A7%E6%B5%81%E9%87%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [央视调查多家黄金门店关闭](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%A4%9A%E5%AE%B6%E9%BB%84%E9%87%91%E9%97%A8%E5%BA%97%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [央视调查多家黄金门店关闭](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%A4%9A%E5%AE%B6%E9%BB%84%E9%87%91%E9%97%A8%E5%BA%97%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [美国修订对华半导体出口管制令](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BF%AE%E8%AE%A2%E5%AF%B9%E5%8D%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E4%BB%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“跟中国人民心很近”](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%9F%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%83%E5%BE%88%E8%BF%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子豪掷140万买黄金 店员报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B1%AA%E6%8E%B7140%E4%B8%87%E4%B9%B0%E9%BB%84%E9%87%91+%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [1800名肺癌患者赠药突然中止](https://www.baidu.com/s?wd=1800%E5%90%8D%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%B5%A0%E8%8D%AF%E7%AA%81%E7%84%B6%E4%B8%AD%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国军队4月赴俄参加比赛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F4%E6%9C%88%E8%B5%B4%E4%BF%84%E5%8F%82%E5%8A%A0%E6%AF%94%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子群发女同事照片并造谣被行拘6天](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BE%A4%E5%8F%91%E5%A5%B3%E5%90%8C%E4%BA%8B%E7%85%A7%E7%89%87%E5%B9%B6%E9%80%A0%E8%B0%A3%E8%A2%AB%E8%A1%8C%E6%8B%986%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国航就CA8122航班颠簸致歉](https://www.baidu.com/s?wd=%E5%9B%BD%E8%88%AA%E5%B0%B1CA8122%E8%88%AA%E7%8F%AD%E9%A2%A0%E7%B0%B8%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [将正能量变成“大流量”](https://www.baidu.com/s?wd=%E5%B0%86%E6%AD%A3%E8%83%BD%E9%87%8F%E5%8F%98%E6%88%90%E2%80%9C%E5%A4%A7%E6%B5%81%E9%87%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [央视调查多家黄金门店关闭](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%A4%9A%E5%AE%B6%E9%BB%84%E9%87%91%E9%97%A8%E5%BA%97%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [央视调查多家黄金门店关闭](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%A4%9A%E5%AE%B6%E9%BB%84%E9%87%91%E9%97%A8%E5%BA%97%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [美国修订对华半导体出口管制令](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BF%AE%E8%AE%A2%E5%AF%B9%E5%8D%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E4%BB%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [“跟中国人民心很近”](https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%9F%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%83%E5%BE%88%E8%BF%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [男子豪掷140万买黄金 店员报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B1%AA%E6%8E%B7140%E4%B8%87%E4%B9%B0%E9%BB%84%E9%87%91+%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [1800名肺癌患者赠药突然中止](https://www.baidu.com/s?wd=1800%E5%90%8D%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%B5%A0%E8%8D%AF%E7%AA%81%E7%84%B6%E4%B8%AD%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [中国军队4月赴俄参加比赛](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F4%E6%9C%88%E8%B5%B4%E4%BF%84%E5%8F%82%E5%8A%A0%E6%AF%94%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子群发女同事照片并造谣被行拘6天](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BE%A4%E5%8F%91%E5%A5%B3%E5%90%8C%E4%BA%8B%E7%85%A7%E7%89%87%E5%B9%B6%E9%80%A0%E8%B0%A3%E8%A2%AB%E8%A1%8C%E6%8B%986%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [国航就CA8122航班颠簸致歉](https://www.baidu.com/s?wd=%E5%9B%BD%E8%88%AA%E5%B0%B1CA8122%E8%88%AA%E7%8F%AD%E9%A2%A0%E7%B0%B8%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
