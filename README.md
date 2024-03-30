@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 10:01:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 10:02:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [黄晓明报平安](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [女生带回一件染血校服学校补发一套](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%B8%A6%E5%9B%9E%E4%B8%80%E4%BB%B6%E6%9F%93%E8%A1%80%E6%A0%A1%E6%9C%8D%E5%AD%A6%E6%A0%A1%E8%A1%A5%E5%8F%91%E4%B8%80%E5%A5%97%23&t=31&band_rank=7&Refer=top)<br />
 8. [李一桐 结婚结不过来咯](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%20%E7%BB%93%E5%A9%9A%E7%BB%93%E4%B8%8D%E8%BF%87%E6%9D%A5%E5%92%AF&t=31&band_rank=8&Refer=top)<br />
-9. [小米汽车销售称凌晨2点下班7点又上班](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E9%94%80%E5%94%AE%E7%A7%B0%E5%87%8C%E6%99%A82%E7%82%B9%E4%B8%8B%E7%8F%AD7%E7%82%B9%E5%8F%88%E4%B8%8A%E7%8F%AD%23&t=31&band_rank=9&Refer=top)<br />
+9. [二线城市月入过万一天只花29算什么水平](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E4%B8%80%E5%A4%A9%E5%8F%AA%E8%8A%B129%E7%AE%97%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
