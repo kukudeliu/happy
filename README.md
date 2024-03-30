@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 19:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 19:28:02</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [金价再度爆发](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E7%88%86%E5%8F%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [樊振东vs雨果](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E9%9B%A8%E6%9E%9C%23&t=31&band_rank=6&Refer=top)<br />
 7. [孟佳触碰到了张艺兴的舞台盲区](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BD%B3%E8%A7%A6%E7%A2%B0%E5%88%B0%E4%BA%86%E5%BC%A0%E8%89%BA%E5%85%B4%E7%9A%84%E8%88%9E%E5%8F%B0%E7%9B%B2%E5%8C%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [医院取精室里都有些什么](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%8F%96%E7%B2%BE%E5%AE%A4%E9%87%8C%E9%83%BD%E6%9C%89%E4%BA%9B%E4%BB%80%E4%B9%88%23&t=31&band_rank=8&Refer=top)<br />
-9. [纪凌尘 海澜之家](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6&t=31&band_rank=9&Refer=top)<br />
+8. [纪凌尘 海澜之家](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6&t=31&band_rank=8&Refer=top)<br />
+9. [医院取精室里都有些什么](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%8F%96%E7%B2%BE%E5%AE%A4%E9%87%8C%E9%83%BD%E6%9C%89%E4%BA%9B%E4%BB%80%E4%B9%88%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
