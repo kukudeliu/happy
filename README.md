@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 23:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 23:31:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [小米代言人](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E4%BB%A3%E8%A8%80%E4%BA%BA&t=31&band_rank=4&Refer=top)<br />
 5. [孙千是陈靖可的理想型](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E6%98%AF%E9%99%88%E9%9D%96%E5%8F%AF%E7%9A%84%E7%90%86%E6%83%B3%E5%9E%8B%23&t=31&band_rank=5&Refer=top)<br />
 6. [赵露思去林俊杰演唱会](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%8E%BB%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
-7. [1800名肺癌患者赠药突然中止](https://s.weibo.com/weibo?q=%231800%E5%90%8D%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%B5%A0%E8%8D%AF%E7%AA%81%E7%84%B6%E4%B8%AD%E6%AD%A2%23&t=31&band_rank=7&Refer=top)<br />
-8. [雷军张颂文 霸道总裁爱上我](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%BC%A0%E9%A2%82%E6%96%87%20%E9%9C%B8%E9%81%93%E6%80%BB%E8%A3%81%E7%88%B1%E4%B8%8A%E6%88%91&t=31&band_rank=8&Refer=top)<br />
+7. [雷军张颂文 霸道总裁爱上我](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%BC%A0%E9%A2%82%E6%96%87%20%E9%9C%B8%E9%81%93%E6%80%BB%E8%A3%81%E7%88%B1%E4%B8%8A%E6%88%91&t=31&band_rank=7&Refer=top)<br />
+8. [1800名肺癌患者赠药突然中止](https://s.weibo.com/weibo?q=%231800%E5%90%8D%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%B5%A0%E8%8D%AF%E7%AA%81%E7%84%B6%E4%B8%AD%E6%AD%A2%23&t=31&band_rank=8&Refer=top)<br />
 9. [赵奕欢回怼消失的她制片人](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%A5%95%E6%AC%A2%E5%9B%9E%E6%80%BC%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%88%B6%E7%89%87%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
