@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 21:28:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 21:29:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男孩拿盲人手机充游戏 家长无理回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%8B%BF%E7%9B%B2%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%85%85%E6%B8%B8%E6%88%8F+%E5%AE%B6%E9%95%BF%E6%97%A0%E7%90%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [1800名肺癌患者赠药突然中止](https://www.baidu.com/s?wd=1800%E5%90%8D%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%B5%A0%E8%8D%AF%E7%AA%81%E7%84%B6%E4%B8%AD%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地气温已达或超30℃](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%B0%94%E6%B8%A9%E5%B7%B2%E8%BE%BE%E6%88%96%E8%B6%8530%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多城市机票价格低于高铁](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9F%8E%E5%B8%82%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E4%BD%8E%E4%BA%8E%E9%AB%98%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男孩拿盲人手机充游戏 家长无理回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%8B%BF%E7%9B%B2%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%85%85%E6%B8%B8%E6%88%8F+%E5%AE%B6%E9%95%BF%E6%97%A0%E7%90%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [1800名肺癌患者赠药突然中止](https://www.baidu.com/s?wd=1800%E5%90%8D%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%B5%A0%E8%8D%AF%E7%AA%81%E7%84%B6%E4%B8%AD%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [多地气温已达或超30℃](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%B0%94%E6%B8%A9%E5%B7%B2%E8%BE%BE%E6%88%96%E8%B6%8530%E2%84%83&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [多城市机票价格低于高铁](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9F%8E%E5%B8%82%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E4%BD%8E%E4%BA%8E%E9%AB%98%E9%93%81&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
