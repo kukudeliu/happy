@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 00:48:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 00:50:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [央视调查多家黄金门店关闭](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%A4%9A%E5%AE%B6%E9%BB%84%E9%87%91%E9%97%A8%E5%BA%97%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这场重要论坛，大有看头](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E9%87%8D%E8%A6%81%E8%AE%BA%E5%9D%9B%EF%BC%8C%E5%A4%A7%E6%9C%89%E7%9C%8B%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海年轻人排队5小时抢娃娃](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%92%E9%98%9F5%E5%B0%8F%E6%97%B6%E6%8A%A2%E5%A8%83%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小猫跳上窗户被卡栏杆中间](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E8%B7%B3%E4%B8%8A%E7%AA%97%E6%88%B7%E8%A2%AB%E5%8D%A1%E6%A0%8F%E6%9D%86%E4%B8%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [郝蕾痛批朱梓骁](https://www.baidu.com/s?wd=%E9%83%9D%E8%95%BE%E7%97%9B%E6%89%B9%E6%9C%B1%E6%A2%93%E9%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [1800名肺癌患者赠药突然中止](https://www.baidu.com/s?wd=1800%E5%90%8D%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%B5%A0%E8%8D%AF%E7%AA%81%E7%84%B6%E4%B8%AD%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子为让王婆帮说媒痴等数天](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%AE%A9%E7%8E%8B%E5%A9%86%E5%B8%AE%E8%AF%B4%E5%AA%92%E7%97%B4%E7%AD%89%E6%95%B0%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩拿盲人手机充游戏 家长无理回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%8B%BF%E7%9B%B2%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%85%85%E6%B8%B8%E6%88%8F+%E5%AE%B6%E9%95%BF%E6%97%A0%E7%90%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东一救护车被限高杆拦住](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E9%99%90%E9%AB%98%E6%9D%86%E6%8B%A6%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [央视调查多家黄金门店关闭](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%A4%9A%E5%AE%B6%E9%BB%84%E9%87%91%E9%97%A8%E5%BA%97%E5%85%B3%E9%97%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这场重要论坛，大有看头](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E9%87%8D%E8%A6%81%E8%AE%BA%E5%9D%9B%EF%BC%8C%E5%A4%A7%E6%9C%89%E7%9C%8B%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [上海年轻人排队5小时抢娃娃](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%92%E9%98%9F5%E5%B0%8F%E6%97%B6%E6%8A%A2%E5%A8%83%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小猫跳上窗户被卡栏杆中间](https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E8%B7%B3%E4%B8%8A%E7%AA%97%E6%88%B7%E8%A2%AB%E5%8D%A1%E6%A0%8F%E6%9D%86%E4%B8%AD%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [郝蕾痛批朱梓骁](https://www.baidu.com/s?wd=%E9%83%9D%E8%95%BE%E7%97%9B%E6%89%B9%E6%9C%B1%E6%A2%93%E9%AA%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [1800名肺癌患者赠药突然中止](https://www.baidu.com/s?wd=1800%E5%90%8D%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E8%B5%A0%E8%8D%AF%E7%AA%81%E7%84%B6%E4%B8%AD%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [男子为让王婆帮说媒痴等数天](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%AE%A9%E7%8E%8B%E5%A9%86%E5%B8%AE%E8%AF%B4%E5%AA%92%E7%97%B4%E7%AD%89%E6%95%B0%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [男孩拿盲人手机充游戏 家长无理回应](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%8B%BF%E7%9B%B2%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%85%85%E6%B8%B8%E6%88%8F+%E5%AE%B6%E9%95%BF%E6%97%A0%E7%90%86%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [广东一救护车被限高杆拦住](https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A2%AB%E9%99%90%E9%AB%98%E6%9D%86%E6%8B%A6%E4%BD%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
