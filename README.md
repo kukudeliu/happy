@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 07:54:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 07:56:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [郝蕾说纪凌尘就是实力不够](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E8%AF%B4%E7%BA%AA%E5%87%8C%E5%B0%98%E5%B0%B1%E6%98%AF%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%A4%9F%23&t=31&band_rank=5&Refer=top)<br />
 6. [尔冬升说张栋梁是天生的变态](https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E8%AF%B4%E5%BC%A0%E6%A0%8B%E6%A2%81%E6%98%AF%E5%A4%A9%E7%94%9F%E7%9A%84%E5%8F%98%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
 7. [小米代言人](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E4%BB%A3%E8%A8%80%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [浙江男子账户里的2470万保住了](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%B7%E5%AD%90%E8%B4%A6%E6%88%B7%E9%87%8C%E7%9A%842470%E4%B8%87%E4%BF%9D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
-9. [上海一餐厅被樱花给的泼天富贵砸晕了](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E9%A4%90%E5%8E%85%E8%A2%AB%E6%A8%B1%E8%8A%B1%E7%BB%99%E7%9A%84%E6%B3%BC%E5%A4%A9%E5%AF%8C%E8%B4%B5%E7%A0%B8%E6%99%95%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
+8. [上海一餐厅被樱花给的泼天富贵砸晕了](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E9%A4%90%E5%8E%85%E8%A2%AB%E6%A8%B1%E8%8A%B1%E7%BB%99%E7%9A%84%E6%B3%BC%E5%A4%A9%E5%AF%8C%E8%B4%B5%E7%A0%B8%E6%99%95%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+9. [浙江男子账户里的2470万保住了](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%B7%E5%AD%90%E8%B4%A6%E6%88%B7%E9%87%8C%E7%9A%842470%E4%B8%87%E4%BF%9D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
