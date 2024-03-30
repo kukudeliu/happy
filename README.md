@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 02:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 02:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵露思去林俊杰演唱会](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%8E%BB%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=6&Refer=top)<br />
 7. [郝蕾说纪凌尘就是实力不够](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E8%AF%B4%E7%BA%AA%E5%87%8C%E5%B0%98%E5%B0%B1%E6%98%AF%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%A4%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [小米代言人](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E4%BB%A3%E8%A8%80%E4%BA%BA&t=31&band_rank=8&Refer=top)<br />
-9. [尔冬升说张栋梁是天生的变态](https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E8%AF%B4%E5%BC%A0%E6%A0%8B%E6%A2%81%E6%98%AF%E5%A4%A9%E7%94%9F%E7%9A%84%E5%8F%98%E6%80%81%23&t=31&band_rank=9&Refer=top)<br />
+9. [福州暴雨](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
