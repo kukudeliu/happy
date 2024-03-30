@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 17:56:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 17:57:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [纪凌尘 海澜之家](https://s.weibo.com/weibo?q=%E7%BA%AA%E5%87%8C%E5%B0%98%20%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6&t=31&band_rank=5&Refer=top)<br />
 6. [杭州东站跳轨旅客伤情得到控制](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%9C%E7%AB%99%E8%B7%B3%E8%BD%A8%E6%97%85%E5%AE%A2%E4%BC%A4%E6%83%85%E5%BE%97%E5%88%B0%E6%8E%A7%E5%88%B6%23&t=31&band_rank=6&Refer=top)<br />
 7. [将门毒后女主原型](https://s.weibo.com/weibo?q=%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E5%A5%B3%E4%B8%BB%E5%8E%9F%E5%9E%8B&t=31&band_rank=7&Refer=top)<br />
-8. [小米汽车遭遇上百余名消费者投诉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E9%81%AD%E9%81%87%E4%B8%8A%E7%99%BE%E4%BD%99%E5%90%8D%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%95%E8%AF%89%23&t=31&band_rank=8&Refer=top)<br />
+8. [雷军回复张颂文](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [这位00后老板的处事方式简单却细腻](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BD%8D00%E5%90%8E%E8%80%81%E6%9D%BF%E7%9A%84%E5%A4%84%E4%BA%8B%E6%96%B9%E5%BC%8F%E7%AE%80%E5%8D%95%E5%8D%B4%E7%BB%86%E8%85%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
