@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 04:24:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 04:26:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [小米代言人](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E4%BB%A3%E8%A8%80%E4%BA%BA&t=31&band_rank=6&Refer=top)<br />
 7. [郝蕾说纪凌尘就是实力不够](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E8%AF%B4%E7%BA%AA%E5%87%8C%E5%B0%98%E5%B0%B1%E6%98%AF%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%A4%9F%23&t=31&band_rank=7&Refer=top)<br />
 8. [每天久坐超4小时会怎样](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E4%B9%85%E5%9D%90%E8%B6%854%E5%B0%8F%E6%97%B6%E4%BC%9A%E6%80%8E%E6%A0%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵露思去林俊杰演唱会](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%8E%BB%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=9&Refer=top)<br />
+9. [老人被冻一夜也没舍得冷孩子](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A2%AB%E5%86%BB%E4%B8%80%E5%A4%9C%E4%B9%9F%E6%B2%A1%E8%88%8D%E5%BE%97%E5%86%B7%E5%AD%A9%E5%AD%90%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
