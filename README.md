@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 10:20:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 10:24:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [北大毕业女生摆摊卖手串月入5万](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%AF%95%E4%B8%9A%E5%A5%B3%E7%94%9F%E6%91%86%E6%91%8A%E5%8D%96%E6%89%8B%E4%B8%B2%E6%9C%88%E5%85%A55%E4%B8%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [二线城市月入过万一天只花29算什么水平](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E4%B8%80%E5%A4%A9%E5%8F%AA%E8%8A%B129%E7%AE%97%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=5&Refer=top)<br />
 6. [上海情侣排队5小时限购10分钟chiikawa](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%83%85%E4%BE%A3%E6%8E%92%E9%98%9F5%E5%B0%8F%E6%97%B6%E9%99%90%E8%B4%AD10%E5%88%86%E9%92%9Fchiikawa%23&t=31&band_rank=6&Refer=top)<br />
-7. [黄晓明报平安](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=7&Refer=top)<br />
-8. [女生带回一件染血校服学校补发一套](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%B8%A6%E5%9B%9E%E4%B8%80%E4%BB%B6%E6%9F%93%E8%A1%80%E6%A0%A1%E6%9C%8D%E5%AD%A6%E6%A0%A1%E8%A1%A5%E5%8F%91%E4%B8%80%E5%A5%97%23&t=31&band_rank=8&Refer=top)<br />
+7. [肖战代言猫人](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E4%BB%A3%E8%A8%80%E7%8C%AB%E4%BA%BA&t=31&band_rank=7&Refer=top)<br />
+8. [黄晓明报平安](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=8&Refer=top)<br />
 9. [张踩铃 大胖媳妇重新定义上坟](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%B8%A9%E9%93%83%20%E5%A4%A7%E8%83%96%E5%AA%B3%E5%A6%87%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E4%B8%8A%E5%9D%9F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
