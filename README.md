@@ -1,15 +1,15 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 15:17:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 15:19:01</h4></div>
 
 > 微博  
 
 1. [雷军能不能生产一下相机](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E8%83%BD%E4%B8%8D%E8%83%BD%E7%94%9F%E4%BA%A7%E4%B8%80%E4%B8%8B%E7%9B%B8%E6%9C%BA&t=31&band_rank=1&Refer=top)<br />
 2. [百日咳今年已致13人死亡](https://s.weibo.com/weibo?q=%23%E7%99%BE%E6%97%A5%E5%92%B3%E4%BB%8A%E5%B9%B4%E5%B7%B2%E8%87%B413%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top)<br />
 3. [2024中国网络媒体论坛](https://s.weibo.com/weibo?q=%232024%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AA%92%E4%BD%93%E8%AE%BA%E5%9D%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [杨采薇入狱](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%87%87%E8%96%87%E5%85%A5%E7%8B%B1&t=31&band_rank=4&Refer=top)<br />
-5. [孙颖莎vs早田希娜](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C&t=31&band_rank=5&Refer=top)<br />
+4. [孙颖莎vs早田希娜](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C&t=31&band_rank=4&Refer=top)<br />
+5. [杨采薇入狱](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%87%87%E8%96%87%E5%85%A5%E7%8B%B1&t=31&band_rank=5&Refer=top)<br />
 6. [郝蕾怼难哄制片人](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E6%80%BC%E9%9A%BE%E5%93%84%E5%88%B6%E7%89%87%E4%BA%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [宫崎骏 感受到AI对生命的侮辱](https://s.weibo.com/weibo?q=%E5%AE%AB%E5%B4%8E%E9%AA%8F%20%E6%84%9F%E5%8F%97%E5%88%B0AI%E5%AF%B9%E7%94%9F%E5%91%BD%E7%9A%84%E4%BE%AE%E8%BE%B1&t=31&band_rank=7&Refer=top)<br />
-8. [范湉湉瘦了](https://s.weibo.com/weibo?q=%23%E8%8C%83%E6%B9%89%E6%B9%89%E7%98%A6%E4%BA%86%23&t=31&band_rank=8&Refer=top)<br />
+7. [范湉湉瘦了](https://s.weibo.com/weibo?q=%23%E8%8C%83%E6%B9%89%E6%B9%89%E7%98%A6%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [宫崎骏 感受到AI对生命的侮辱](https://s.weibo.com/weibo?q=%E5%AE%AB%E5%B4%8E%E9%AA%8F%20%E6%84%9F%E5%8F%97%E5%88%B0AI%E5%AF%B9%E7%94%9F%E5%91%BD%E7%9A%84%E4%BE%AE%E8%BE%B1&t=31&band_rank=8&Refer=top)<br />
 9. [段奥娟风格 刘浩存](https://s.weibo.com/weibo?q=%E6%AE%B5%E5%A5%A5%E5%A8%9F%E9%A3%8E%E6%A0%BC%20%E5%88%98%E6%B5%A9%E5%AD%98&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
