@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 21:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-30 21:16:03</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男子豪掷140万买黄金 店员报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B1%AA%E6%8E%B7140%E4%B8%87%E4%B9%B0%E9%BB%84%E9%87%91+%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [狂风暴雨冰雹突袭福州 有树被吹倒](https://www.baidu.com/s?wd=%E7%8B%82%E9%A3%8E%E6%9A%B4%E9%9B%A8%E5%86%B0%E9%9B%B9%E7%AA%81%E8%A2%AD%E7%A6%8F%E5%B7%9E+%E6%9C%89%E6%A0%91%E8%A2%AB%E5%90%B9%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [纪凌尘代言海澜之家引热议](https://www.baidu.com/s?wd=%E7%BA%AA%E5%87%8C%E5%B0%98%E4%BB%A3%E8%A8%80%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [行李超重 女子将4斤衣物穿身上](https://www.baidu.com/s?wd=%E8%A1%8C%E6%9D%8E%E8%B6%85%E9%87%8D+%E5%A5%B3%E5%AD%90%E5%B0%864%E6%96%A4%E8%A1%A3%E7%89%A9%E7%A9%BF%E8%BA%AB%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子豪掷140万买黄金 店员报警](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B1%AA%E6%8E%B7140%E4%B8%87%E4%B9%B0%E9%BB%84%E9%87%91+%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [狂风暴雨冰雹突袭福州 有树被吹倒](https://www.baidu.com/s?wd=%E7%8B%82%E9%A3%8E%E6%9A%B4%E9%9B%A8%E5%86%B0%E9%9B%B9%E7%AA%81%E8%A2%AD%E7%A6%8F%E5%B7%9E+%E6%9C%89%E6%A0%91%E8%A2%AB%E5%90%B9%E5%80%92&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [雷军回复张颂文](https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%A2%82%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [纪凌尘代言海澜之家引热议](https://www.baidu.com/s?wd=%E7%BA%AA%E5%87%8C%E5%B0%98%E4%BB%A3%E8%A8%80%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [行李超重 女子将4斤衣物穿身上](https://www.baidu.com/s?wd=%E8%A1%8C%E6%9D%8E%E8%B6%85%E9%87%8D+%E5%A5%B3%E5%AD%90%E5%B0%864%E6%96%A4%E8%A1%A3%E7%89%A9%E7%A9%BF%E8%BA%AB%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
