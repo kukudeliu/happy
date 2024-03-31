@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 18:25:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 18:27:02</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [已婚男子王婆说媒相亲走红后道歉](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%A9%9A%E7%94%B7%E5%AD%90%E7%8E%8B%E5%A9%86%E8%AF%B4%E5%AA%92%E7%9B%B8%E4%BA%B2%E8%B5%B0%E7%BA%A2%E5%90%8E%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top)<br />
 7. [林俊杰发文感谢赵露思](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E8%B5%B5%E9%9C%B2%E6%80%9D%23&t=31&band_rank=7&Refer=top)<br />
 8. [孙艺珍晒婚纱照](https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%89%BA%E7%8F%8D%E6%99%92%E5%A9%9A%E7%BA%B1%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [赵丽颖首部水仙剧](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%A6%96%E9%83%A8%E6%B0%B4%E4%BB%99%E5%89%A7%23&t=31&band_rank=9&Refer=top)<br />
+9. [女交警跪地救助心脏病患者累到虚脱](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%BA%A4%E8%AD%A6%E8%B7%AA%E5%9C%B0%E6%95%91%E5%8A%A9%E5%BF%83%E8%84%8F%E7%97%85%E6%82%A3%E8%80%85%E7%B4%AF%E5%88%B0%E8%99%9A%E8%84%B1%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
