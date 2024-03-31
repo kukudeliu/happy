@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 22:37:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 22:41:03</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [愚人节站姐团建](https://s.weibo.com/weibo?q=%23%E6%84%9A%E4%BA%BA%E8%8A%82%E7%AB%99%E5%A7%90%E5%9B%A2%E5%BB%BA%23&t=31&band_rank=5&Refer=top)<br />
 6. [奔驰加塞事件男子砸车前遭对方车头碰撞](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E7%94%B7%E5%AD%90%E7%A0%B8%E8%BD%A6%E5%89%8D%E9%81%AD%E5%AF%B9%E6%96%B9%E8%BD%A6%E5%A4%B4%E7%A2%B0%E6%92%9E%23&t=31&band_rank=6&Refer=top)<br />
 7. [张国荣](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%9B%BD%E8%8D%A3&t=31&band_rank=7&Refer=top)<br />
-8. [鞠婧祎换了微博头像](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%8D%A2%E4%BA%86%E5%BE%AE%E5%8D%9A%E5%A4%B4%E5%83%8F%23&t=31&band_rank=8&Refer=top)<br />
+8. [眼泪女王](https://s.weibo.com/weibo?q=%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B&t=31&band_rank=8&Refer=top)<br />
 9. [小时候不吃长大却接受了的食物](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%97%B6%E5%80%99%E4%B8%8D%E5%90%83%E9%95%BF%E5%A4%A7%E5%8D%B4%E6%8E%A5%E5%8F%97%E4%BA%86%E7%9A%84%E9%A3%9F%E7%89%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -24,7 +24,7 @@
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多地回应“购房补贴兑现难”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94%E2%80%9C%E8%B4%AD%E6%88%BF%E8%A1%A5%E8%B4%B4%E5%85%91%E7%8E%B0%E9%9A%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子与父母失散25年后在监狱认亲](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8E%E7%88%B6%E6%AF%8D%E5%A4%B1%E6%95%A325%E5%B9%B4%E5%90%8E%E5%9C%A8%E7%9B%91%E7%8B%B1%E8%AE%A4%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [多地回应“购房补贴兑现难”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94%E2%80%9C%E8%B4%AD%E6%88%BF%E8%A1%A5%E8%B4%B4%E5%85%91%E7%8E%B0%E9%9A%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [男子与父母失散25年后在监狱认亲](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8E%E7%88%B6%E6%AF%8D%E5%A4%B1%E6%95%A325%E5%B9%B4%E5%90%8E%E5%9C%A8%E7%9B%91%E7%8B%B1%E8%AE%A4%E4%BA%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
