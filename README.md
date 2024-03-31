@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 10:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 10:07:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [餐厅被樱花给的泼天富贵砸晕了](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E8%A2%AB%E6%A8%B1%E8%8A%B1%E7%BB%99%E7%9A%84%E6%B3%BC%E5%A4%A9%E5%AF%8C%E8%B4%B5%E7%A0%B8%E6%99%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全上海一年的豪宅一天就卖完了？](https://www.baidu.com/s?wd=%E5%85%A8%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B9%B4%E7%9A%84%E8%B1%AA%E5%AE%85%E4%B8%80%E5%A4%A9%E5%B0%B1%E5%8D%96%E5%AE%8C%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张颂文回应雷军送小米SU7](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9B%E9%80%81%E5%B0%8F%E7%B1%B3SU7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [萌娃大哭要出去玩 见门开了秒变脸](https://www.baidu.com/s?wd=%E8%90%8C%E5%A8%83%E5%A4%A7%E5%93%AD%E8%A6%81%E5%87%BA%E5%8E%BB%E7%8E%A9+%E8%A7%81%E9%97%A8%E5%BC%80%E4%BA%86%E7%A7%92%E5%8F%98%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [奔驰加塞事件原视频](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E5%8E%9F%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [餐厅被樱花给的泼天富贵砸晕了](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E8%A2%AB%E6%A8%B1%E8%8A%B1%E7%BB%99%E7%9A%84%E6%B3%BC%E5%A4%A9%E5%AF%8C%E8%B4%B5%E7%A0%B8%E6%99%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [全上海一年的豪宅一天就卖完了？](https://www.baidu.com/s?wd=%E5%85%A8%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B9%B4%E7%9A%84%E8%B1%AA%E5%AE%85%E4%B8%80%E5%A4%A9%E5%B0%B1%E5%8D%96%E5%AE%8C%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张颂文回应雷军送小米SU7](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9B%E9%80%81%E5%B0%8F%E7%B1%B3SU7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [萌娃大哭要出去玩 见门开了秒变脸](https://www.baidu.com/s?wd=%E8%90%8C%E5%A8%83%E5%A4%A7%E5%93%AD%E8%A6%81%E5%87%BA%E5%8E%BB%E7%8E%A9+%E8%A7%81%E9%97%A8%E5%BC%80%E4%BA%86%E7%A7%92%E5%8F%98%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [奔驰加塞事件原视频](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E5%8E%9F%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
