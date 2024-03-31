@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 10:33:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 10:34:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [一个富二代留学生被家里断供一年后](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%95%99%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%AE%B6%E9%87%8C%E6%96%AD%E4%BE%9B%E4%B8%80%E5%B9%B4%E5%90%8E%23&t=31&band_rank=6&Refer=top)<br />
 7. [4天酒店游客仅住1天被赶走](https://s.weibo.com/weibo?q=%234%E5%A4%A9%E9%85%92%E5%BA%97%E6%B8%B8%E5%AE%A2%E4%BB%85%E4%BD%8F1%E5%A4%A9%E8%A2%AB%E8%B5%B6%E8%B5%B0%23&t=31&band_rank=7&Refer=top)<br />
 8. [郝蕾说纪凌尘就是实力不够](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E8%AF%B4%E7%BA%AA%E5%87%8C%E5%B0%98%E5%B0%B1%E6%98%AF%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%A4%9F%23&t=31&band_rank=8&Refer=top)<br />
-9. [锦超曾因入戏太深恨其他演员](https://s.weibo.com/weibo?q=%23%E9%94%A6%E8%B6%85%E6%9B%BE%E5%9B%A0%E5%85%A5%E6%88%8F%E5%A4%AA%E6%B7%B1%E6%81%A8%E5%85%B6%E4%BB%96%E6%BC%94%E5%91%98%23&t=31&band_rank=9&Refer=top)<br />
+9. [俄恐袭134名遇难者身份已确认](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%81%90%E8%A2%AD134%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E5%B7%B2%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
