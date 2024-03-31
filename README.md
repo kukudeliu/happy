@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 02:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 02:46:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [采耳店被罚22万 官方：撤回强制执行](https://www.baidu.com/s?wd=%E9%87%87%E8%80%B3%E5%BA%97%E8%A2%AB%E7%BD%9A22%E4%B8%87+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%92%A4%E5%9B%9E%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [4天酒店游客仅住1天被赶走](https://www.baidu.com/s?wd=4%E5%A4%A9%E9%85%92%E5%BA%97%E6%B8%B8%E5%AE%A2%E4%BB%85%E4%BD%8F1%E5%A4%A9%E8%A2%AB%E8%B5%B6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“攒金豆”的店铺密集关停](https://www.baidu.com/s?wd=%E2%80%9C%E6%94%92%E9%87%91%E8%B1%86%E2%80%9D%E7%9A%84%E5%BA%97%E9%93%BA%E5%AF%86%E9%9B%86%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [采耳店被罚22万 官方：撤回强制执行](https://www.baidu.com/s?wd=%E9%87%87%E8%80%B3%E5%BA%97%E8%A2%AB%E7%BD%9A22%E4%B8%87+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%92%A4%E5%9B%9E%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [4天酒店游客仅住1天被赶走](https://www.baidu.com/s?wd=4%E5%A4%A9%E9%85%92%E5%BA%97%E6%B8%B8%E5%AE%A2%E4%BB%85%E4%BD%8F1%E5%A4%A9%E8%A2%AB%E8%B5%B6%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [“攒金豆”的店铺密集关停](https://www.baidu.com/s?wd=%E2%80%9C%E6%94%92%E9%87%91%E8%B1%86%E2%80%9D%E7%9A%84%E5%BA%97%E9%93%BA%E5%AF%86%E9%9B%86%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
