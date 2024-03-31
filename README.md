@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 05:23:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 05:24:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方将根据加塞事件原视频通报进展](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%B0%86%E6%A0%B9%E6%8D%AE%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E5%8E%9F%E8%A7%86%E9%A2%91%E9%80%9A%E6%8A%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [儿子被海葬 老太起诉孙女索赔50万](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%A2%AB%E6%B5%B7%E8%91%AC+%E8%80%81%E5%A4%AA%E8%B5%B7%E8%AF%89%E5%AD%99%E5%A5%B3%E7%B4%A2%E8%B5%9450%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方将根据加塞事件原视频通报进展](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%B0%86%E6%A0%B9%E6%8D%AE%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E5%8E%9F%E8%A7%86%E9%A2%91%E9%80%9A%E6%8A%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [儿子被海葬 老太起诉孙女索赔50万](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%A2%AB%E6%B5%B7%E8%91%AC+%E8%80%81%E5%A4%AA%E8%B5%B7%E8%AF%89%E5%AD%99%E5%A5%B3%E7%B4%A2%E8%B5%9450%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
