@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 01:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 01:08:02</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [爸爸穿得太显眼竟把女儿气哭](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E7%A9%BF%E5%BE%97%E5%A4%AA%E6%98%BE%E7%9C%BC%E7%AB%9F%E6%8A%8A%E5%A5%B3%E5%84%BF%E6%B0%94%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [因平凡的你们熠熠闪光](https://www.baidu.com/s?wd=%E5%9B%A0%E5%B9%B3%E5%87%A1%E7%9A%84%E4%BD%A0%E4%BB%AC%E7%86%A0%E7%86%A0%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小米SU7甩尾撞路边 工作人员回应](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3SU7%E7%94%A9%E5%B0%BE%E6%92%9E%E8%B7%AF%E8%BE%B9+%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [警方将根据加塞事件原视频通报进展](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%B0%86%E6%A0%B9%E6%8D%AE%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E5%8E%9F%E8%A7%86%E9%A2%91%E9%80%9A%E6%8A%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [孕妇突然临盆 店主拿锦旗遮挡](https://www.baidu.com/s?wd=%E5%AD%95%E5%A6%87%E7%AA%81%E7%84%B6%E4%B8%B4%E7%9B%86+%E5%BA%97%E4%B8%BB%E6%8B%BF%E9%94%A6%E6%97%97%E9%81%AE%E6%8C%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地回应“购房补贴兑现难”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94%E2%80%9C%E8%B4%AD%E6%88%BF%E8%A1%A5%E8%B4%B4%E5%85%91%E7%8E%B0%E9%9A%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小米SU7甩尾撞路边 工作人员回应](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3SU7%E7%94%A9%E5%B0%BE%E6%92%9E%E8%B7%AF%E8%BE%B9+%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [爸爸穿得太显眼竟把女儿气哭](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E7%A9%BF%E5%BE%97%E5%A4%AA%E6%98%BE%E7%9C%BC%E7%AB%9F%E6%8A%8A%E5%A5%B3%E5%84%BF%E6%B0%94%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [因平凡的你们熠熠闪光](https://www.baidu.com/s?wd=%E5%9B%A0%E5%B9%B3%E5%87%A1%E7%9A%84%E4%BD%A0%E4%BB%AC%E7%86%A0%E7%86%A0%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [小米SU7甩尾撞路边 工作人员回应](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3SU7%E7%94%A9%E5%B0%BE%E6%92%9E%E8%B7%AF%E8%BE%B9+%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [警方将根据加塞事件原视频通报进展](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%B0%86%E6%A0%B9%E6%8D%AE%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E5%8E%9F%E8%A7%86%E9%A2%91%E9%80%9A%E6%8A%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [孕妇突然临盆 店主拿锦旗遮挡](https://www.baidu.com/s?wd=%E5%AD%95%E5%A6%87%E7%AA%81%E7%84%B6%E4%B8%B4%E7%9B%86+%E5%BA%97%E4%B8%BB%E6%8B%BF%E9%94%A6%E6%97%97%E9%81%AE%E6%8C%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [多地回应“购房补贴兑现难”](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94%E2%80%9C%E8%B4%AD%E6%88%BF%E8%A1%A5%E8%B4%B4%E5%85%91%E7%8E%B0%E9%9A%BE%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [小米SU7甩尾撞路边 工作人员回应](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3SU7%E7%94%A9%E5%B0%BE%E6%92%9E%E8%B7%AF%E8%BE%B9+%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
