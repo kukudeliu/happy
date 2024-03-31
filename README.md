@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 07:18:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 07:20:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [上班七个月亏了两万多](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E4%B8%83%E4%B8%AA%E6%9C%88%E4%BA%8F%E4%BA%86%E4%B8%A4%E4%B8%87%E5%A4%9A%23&t=31&band_rank=4&Refer=top)<br />
 5. [赵露思 澳门鬼迷日眼的照片](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E6%BE%B3%E9%97%A8%E9%AC%BC%E8%BF%B7%E6%97%A5%E7%9C%BC%E7%9A%84%E7%85%A7%E7%89%87&t=31&band_rank=5&Refer=top)<br />
 6. [3岁男童走失狗狗在山上陪了一夜](https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E8%B5%B0%E5%A4%B1%E7%8B%97%E7%8B%97%E5%9C%A8%E5%B1%B1%E4%B8%8A%E9%99%AA%E4%BA%86%E4%B8%80%E5%A4%9C%23&t=31&band_rank=6&Refer=top)<br />
-7. [一种娇妻文化似乎正在北美蔓延](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A7%8D%E5%A8%87%E5%A6%BB%E6%96%87%E5%8C%96%E4%BC%BC%E4%B9%8E%E6%AD%A3%E5%9C%A8%E5%8C%97%E7%BE%8E%E8%94%93%E5%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [雷军回应拦截小米SU7部分异常订单](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%8B%A6%E6%88%AA%E5%B0%8F%E7%B1%B3SU7%E9%83%A8%E5%88%86%E5%BC%82%E5%B8%B8%E8%AE%A2%E5%8D%95%23&t=31&band_rank=8&Refer=top)<br />
+7. [雷军回应拦截小米SU7部分异常订单](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%8B%A6%E6%88%AA%E5%B0%8F%E7%B1%B3SU7%E9%83%A8%E5%88%86%E5%BC%82%E5%B8%B8%E8%AE%A2%E5%8D%95%23&t=31&band_rank=7&Refer=top)<br />
+8. [一种娇妻文化似乎正在北美蔓延](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A7%8D%E5%A8%87%E5%A6%BB%E6%96%87%E5%8C%96%E4%BC%BC%E4%B9%8E%E6%AD%A3%E5%9C%A8%E5%8C%97%E7%BE%8E%E8%94%93%E5%BB%B6%23&t=31&band_rank=8&Refer=top)<br />
 9. [24岁我还不能和男朋友出去旅游](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E6%88%91%E8%BF%98%E4%B8%8D%E8%83%BD%E5%92%8C%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
@@ -23,8 +23,8 @@
 4. [因平凡的你们熠熠闪光](https://www.baidu.com/s?wd=%E5%9B%A0%E5%B9%B3%E5%87%A1%E7%9A%84%E4%BD%A0%E4%BB%AC%E7%86%A0%E7%86%A0%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [愚人节](https://www.baidu.com/s?wd=%E6%84%9A%E4%BA%BA%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [爸爸穿得太显眼竟把女儿气哭](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E7%A9%BF%E5%BE%97%E5%A4%AA%E6%98%BE%E7%9C%BC%E7%AB%9F%E6%8A%8A%E5%A5%B3%E5%84%BF%E6%B0%94%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爸爸穿得太显眼竟把女儿气哭](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E7%A9%BF%E5%BE%97%E5%A4%AA%E6%98%BE%E7%9C%BC%E7%AB%9F%E6%8A%8A%E5%A5%B3%E5%84%BF%E6%B0%94%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [因平凡的你们熠熠闪光](https://www.baidu.com/s?wd=%E5%9B%A0%E5%B9%B3%E5%87%A1%E7%9A%84%E4%BD%A0%E4%BB%AC%E7%86%A0%E7%86%A0%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [愚人节](https://www.baidu.com/s?wd=%E6%84%9A%E4%BA%BA%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [爸爸穿得太显眼竟把女儿气哭](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E7%A9%BF%E5%BE%97%E5%A4%AA%E6%98%BE%E7%9C%BC%E7%AB%9F%E6%8A%8A%E5%A5%B3%E5%84%BF%E6%B0%94%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [爸爸穿得太显眼竟把女儿气哭](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E7%A9%BF%E5%BE%97%E5%A4%AA%E6%98%BE%E7%9C%BC%E7%AB%9F%E6%8A%8A%E5%A5%B3%E5%84%BF%E6%B0%94%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
