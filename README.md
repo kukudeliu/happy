@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 15:02:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 15:04:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵露思林俊杰合照](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%88%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
 7. [疑被打死男童生母与其男友被刑拘](https://s.weibo.com/weibo?q=%23%E7%96%91%E8%A2%AB%E6%89%93%E6%AD%BB%E7%94%B7%E7%AB%A5%E7%94%9F%E6%AF%8D%E4%B8%8E%E5%85%B6%E7%94%B7%E5%8F%8B%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=7&Refer=top)<br />
 8. [宋仲基眼泪女王剧照](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%E5%89%A7%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
-9. [宁静 谁找你演二愣子](https://s.weibo.com/weibo?q=%E5%AE%81%E9%9D%99%20%E8%B0%81%E6%89%BE%E4%BD%A0%E6%BC%94%E4%BA%8C%E6%84%A3%E5%AD%90&t=31&band_rank=9&Refer=top)<br />
+9. [邓超买了摆摊小孩所有的画](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E4%B9%B0%E4%BA%86%E6%91%86%E6%91%8A%E5%B0%8F%E5%AD%A9%E6%89%80%E6%9C%89%E7%9A%84%E7%94%BB%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
