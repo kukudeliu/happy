@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 07:53:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 07:56:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [张国荣](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%9B%BD%E8%8D%A3&t=31&band_rank=4&Refer=top)<br />
 5. [上班七个月亏了两万多](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E4%B8%83%E4%B8%AA%E6%9C%88%E4%BA%8F%E4%BA%86%E4%B8%A4%E4%B8%87%E5%A4%9A%23&t=31&band_rank=5&Refer=top)<br />
 6. [赵露思 澳门鬼迷日眼的照片](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E6%BE%B3%E9%97%A8%E9%AC%BC%E8%BF%B7%E6%97%A5%E7%9C%BC%E7%9A%84%E7%85%A7%E7%89%87&t=31&band_rank=6&Refer=top)<br />
-7. [女子工作1年半胖40斤判若两人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B7%A5%E4%BD%9C1%E5%B9%B4%E5%8D%8A%E8%83%9640%E6%96%A4%E5%88%A4%E8%8B%A5%E4%B8%A4%E4%BA%BA%23&t=31&band_rank=7&Refer=top)<br />
-8. [雷军回应拦截小米SU7部分异常订单](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%8B%A6%E6%88%AA%E5%B0%8F%E7%B1%B3SU7%E9%83%A8%E5%88%86%E5%BC%82%E5%B8%B8%E8%AE%A2%E5%8D%95%23&t=31&band_rank=8&Refer=top)<br />
+7. [雷军回应拦截小米SU7部分异常订单](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%8B%A6%E6%88%AA%E5%B0%8F%E7%B1%B3SU7%E9%83%A8%E5%88%86%E5%BC%82%E5%B8%B8%E8%AE%A2%E5%8D%95%23&t=31&band_rank=7&Refer=top)<br />
+8. [女子工作1年半胖40斤判若两人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B7%A5%E4%BD%9C1%E5%B9%B4%E5%8D%8A%E8%83%9640%E6%96%A4%E5%88%A4%E8%8B%A5%E4%B8%A4%E4%BA%BA%23&t=31&band_rank=8&Refer=top)<br />
 9. [一种娇妻文化似乎正在北美蔓延](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A7%8D%E5%A8%87%E5%A6%BB%E6%96%87%E5%8C%96%E4%BC%BC%E4%B9%8E%E6%AD%A3%E5%9C%A8%E5%8C%97%E7%BE%8E%E8%94%93%E5%BB%B6%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
