@@ -1,10 +1,10 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 12:16:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 12:18:01</h4></div>
 
 > 微博  
 
 1. [赵奕欢被制片人踢出了演员行列](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%A5%95%E6%AC%A2%E8%A2%AB%E5%88%B6%E7%89%87%E4%BA%BA%E8%B8%A2%E5%87%BA%E4%BA%86%E6%BC%94%E5%91%98%E8%A1%8C%E5%88%97%23&t=31&band_rank=1&Refer=top)<br />
 2. [在人间官宣](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BA%BA%E9%97%B4%E5%AE%98%E5%AE%A3%23&t=31&band_rank=2&Refer=top)<br />
-3. [2024中国网络媒体论坛](https://s.weibo.com/weibo?q=%232024%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AA%92%E4%BD%93%E8%AE%BA%E5%9D%9B%23&t=31&band_rank=3&Refer=top)<br />
+3. [美好生活在云南](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%E5%9C%A8%E4%BA%91%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [纪凌尘认为分手舆情影响他接戏](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%87%8C%E5%B0%98%E8%AE%A4%E4%B8%BA%E5%88%86%E6%89%8B%E8%88%86%E6%83%85%E5%BD%B1%E5%93%8D%E4%BB%96%E6%8E%A5%E6%88%8F%23&t=31&band_rank=4&Refer=top)<br />
 5. [孙千回复](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E5%9B%9E%E5%A4%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [济州岛被玩成江浙沪后花园了](https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%B7%9E%E5%B2%9B%E8%A2%AB%E7%8E%A9%E6%88%90%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%90%8E%E8%8A%B1%E5%9B%AD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
