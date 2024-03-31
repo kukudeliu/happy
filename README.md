@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 12:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 12:42:01</h4></div>
 
 > 微博  
 
@@ -9,8 +9,8 @@
 5. [孙千回复](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E5%9B%9E%E5%A4%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [济州岛被玩成江浙沪后花园了](https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%B7%9E%E5%B2%9B%E8%A2%AB%E7%8E%A9%E6%88%90%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%90%8E%E8%8A%B1%E5%9B%AD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [赵露思大屏](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%A4%A7%E5%B1%8F&t=31&band_rank=7&Refer=top)<br />
-8. [一个富二代留学生被家里断供一年后](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%95%99%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%AE%B6%E9%87%8C%E6%96%AD%E4%BE%9B%E4%B8%80%E5%B9%B4%E5%90%8E%23&t=31&band_rank=8&Refer=top)<br />
-9. [法国向45个国家寻求安保协助](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%90%9145%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%AF%BB%E6%B1%82%E5%AE%89%E4%BF%9D%E5%8D%8F%E5%8A%A9%23&t=31&band_rank=9&Refer=top)<br />
+8. [俞敏洪要求河南新东方文旅停播整顿](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E8%A6%81%E6%B1%82%E6%B2%B3%E5%8D%97%E6%96%B0%E4%B8%9C%E6%96%B9%E6%96%87%E6%97%85%E5%81%9C%E6%92%AD%E6%95%B4%E9%A1%BF%23&t=31&band_rank=8&Refer=top)<br />
+9. [一个富二代留学生被家里断供一年后](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%95%99%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%AE%B6%E9%87%8C%E6%96%AD%E4%BE%9B%E4%B8%80%E5%B9%B4%E5%90%8E%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
