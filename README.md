@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 09:38:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 09:39:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [给卖淫女看病获刑的村医发声](https://www.baidu.com/s?wd=%E7%BB%99%E5%8D%96%E6%B7%AB%E5%A5%B3%E7%9C%8B%E7%97%85%E8%8E%B7%E5%88%91%E7%9A%84%E6%9D%91%E5%8C%BB%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这场重要论坛，大有看头](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E9%87%8D%E8%A6%81%E8%AE%BA%E5%9D%9B%EF%BC%8C%E5%A4%A7%E6%9C%89%E7%9C%8B%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [张颂文回应雷军送小米SU7](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9B%E9%80%81%E5%B0%8F%E7%B1%B3SU7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [富二代留学生被家里断供一年后](https://www.baidu.com/s?wd=%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%95%99%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%AE%B6%E9%87%8C%E6%96%AD%E4%BE%9B%E4%B8%80%E5%B9%B4%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [餐厅被樱花给的泼天富贵砸晕了](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E8%A2%AB%E6%A8%B1%E8%8A%B1%E7%BB%99%E7%9A%84%E6%B3%BC%E5%A4%A9%E5%AF%8C%E8%B4%B5%E7%A0%B8%E6%99%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [奔驰加塞事件原视频](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E5%8E%9F%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [餐厅被樱花给的泼天富贵砸晕了](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E8%A2%AB%E6%A8%B1%E8%8A%B1%E7%BB%99%E7%9A%84%E6%B3%BC%E5%A4%A9%E5%AF%8C%E8%B4%B5%E7%A0%B8%E6%99%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [富二代留学生被家里断供一年后](https://www.baidu.com/s?wd=%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%95%99%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%AE%B6%E9%87%8C%E6%96%AD%E4%BE%9B%E4%B8%80%E5%B9%B4%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全上海一年的豪宅一天就卖完了？](https://www.baidu.com/s?wd=%E5%85%A8%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B9%B4%E7%9A%84%E8%B1%AA%E5%AE%85%E4%B8%80%E5%A4%A9%E5%B0%B1%E5%8D%96%E5%AE%8C%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [给卖淫女看病获刑的村医发声](https://www.baidu.com/s?wd=%E7%BB%99%E5%8D%96%E6%B7%AB%E5%A5%B3%E7%9C%8B%E7%97%85%E8%8E%B7%E5%88%91%E7%9A%84%E6%9D%91%E5%8C%BB%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [这场重要论坛，大有看头](https://www.baidu.com/s?wd=%E8%BF%99%E5%9C%BA%E9%87%8D%E8%A6%81%E8%AE%BA%E5%9D%9B%EF%BC%8C%E5%A4%A7%E6%9C%89%E7%9C%8B%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [张颂文回应雷军送小米SU7](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9B%E9%80%81%E5%B0%8F%E7%B1%B3SU7&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [富二代留学生被家里断供一年后](https://www.baidu.com/s?wd=%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%95%99%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%AE%B6%E9%87%8C%E6%96%AD%E4%BE%9B%E4%B8%80%E5%B9%B4%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [餐厅被樱花给的泼天富贵砸晕了](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E8%A2%AB%E6%A8%B1%E8%8A%B1%E7%BB%99%E7%9A%84%E6%B3%BC%E5%A4%A9%E5%AF%8C%E8%B4%B5%E7%A0%B8%E6%99%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [奔驰加塞事件原视频](https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E5%8E%9F%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [餐厅被樱花给的泼天富贵砸晕了](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E8%A2%AB%E6%A8%B1%E8%8A%B1%E7%BB%99%E7%9A%84%E6%B3%BC%E5%A4%A9%E5%AF%8C%E8%B4%B5%E7%A0%B8%E6%99%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [富二代留学生被家里断供一年后](https://www.baidu.com/s?wd=%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%95%99%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%AE%B6%E9%87%8C%E6%96%AD%E4%BE%9B%E4%B8%80%E5%B9%B4%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [全上海一年的豪宅一天就卖完了？](https://www.baidu.com/s?wd=%E5%85%A8%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B9%B4%E7%9A%84%E8%B1%AA%E5%AE%85%E4%B8%80%E5%A4%A9%E5%B0%B1%E5%8D%96%E5%AE%8C%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [渝中一储户被抢杀？谣言](https://www.baidu.com/s?wd=%E6%B8%9D%E4%B8%AD%E4%B8%80%E5%82%A8%E6%88%B7%E8%A2%AB%E6%8A%A2%E6%9D%80%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
