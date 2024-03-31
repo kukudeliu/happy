@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 21:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 21:28:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [赵露思高定短裙](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%AB%98%E5%AE%9A%E7%9F%AD%E8%A3%99%23&t=31&band_rank=6&Refer=top)<br />
 7. [骑行一个月后瘦了10斤](https://s.weibo.com/weibo?q=%23%E9%AA%91%E8%A1%8C%E4%B8%80%E4%B8%AA%E6%9C%88%E5%90%8E%E7%98%A6%E4%BA%8610%E6%96%A4%23&t=31&band_rank=7&Refer=top)<br />
 8. [35岁才意识到工作是没有意义的](https://s.weibo.com/weibo?q=35%E5%B2%81%E6%89%8D%E6%84%8F%E8%AF%86%E5%88%B0%E5%B7%A5%E4%BD%9C%E6%98%AF%E6%B2%A1%E6%9C%89%E6%84%8F%E4%B9%89%E7%9A%84&t=31&band_rank=8&Refer=top)<br />
-9. [招行人均年薪降至61万](https://s.weibo.com/weibo?q=%23%E6%8B%9B%E8%A1%8C%E4%BA%BA%E5%9D%87%E5%B9%B4%E8%96%AA%E9%99%8D%E8%87%B361%E4%B8%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [删了吧我有个朋友要生气了](https://s.weibo.com/weibo?q=%23%E5%88%A0%E4%BA%86%E5%90%A7%E6%88%91%E6%9C%89%E4%B8%AA%E6%9C%8B%E5%8F%8B%E8%A6%81%E7%94%9F%E6%B0%94%E4%BA%86%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
