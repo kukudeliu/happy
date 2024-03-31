@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 10:30:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 10:31:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [餐厅被樱花给的泼天富贵砸晕了](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E8%A2%AB%E6%A8%B1%E8%8A%B1%E7%BB%99%E7%9A%84%E6%B3%BC%E5%A4%A9%E5%AF%8C%E8%B4%B5%E7%A0%B8%E6%99%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [鸿茅药酒事件当事人:生命进入倒计时](https://www.baidu.com/s?wd=%E9%B8%BF%E8%8C%85%E8%8D%AF%E9%85%92%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%3A%E7%94%9F%E5%91%BD%E8%BF%9B%E5%85%A5%E5%80%92%E8%AE%A1%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张颂文回应雷军送小米SU7](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9B%E9%80%81%E5%B0%8F%E7%B1%B3SU7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全上海一年的豪宅一天就卖完了？](https://www.baidu.com/s?wd=%E5%85%A8%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B9%B4%E7%9A%84%E8%B1%AA%E5%AE%85%E4%B8%80%E5%A4%A9%E5%B0%B1%E5%8D%96%E5%AE%8C%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴艳妮：完全不能接受被叫做网红](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE%EF%BC%9A%E5%AE%8C%E5%85%A8%E4%B8%8D%E8%83%BD%E6%8E%A5%E5%8F%97%E8%A2%AB%E5%8F%AB%E5%81%9A%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [餐厅被樱花给的泼天富贵砸晕了](https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E8%A2%AB%E6%A8%B1%E8%8A%B1%E7%BB%99%E7%9A%84%E6%B3%BC%E5%A4%A9%E5%AF%8C%E8%B4%B5%E7%A0%B8%E6%99%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [鸿茅药酒事件当事人:生命进入倒计时](https://www.baidu.com/s?wd=%E9%B8%BF%E8%8C%85%E8%8D%AF%E9%85%92%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%3A%E7%94%9F%E5%91%BD%E8%BF%9B%E5%85%A5%E5%80%92%E8%AE%A1%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张颂文回应雷军送小米SU7](https://www.baidu.com/s?wd=%E5%BC%A0%E9%A2%82%E6%96%87%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9B%E9%80%81%E5%B0%8F%E7%B1%B3SU7&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [全上海一年的豪宅一天就卖完了？](https://www.baidu.com/s?wd=%E5%85%A8%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B9%B4%E7%9A%84%E8%B1%AA%E5%AE%85%E4%B8%80%E5%A4%A9%E5%B0%B1%E5%8D%96%E5%AE%8C%E4%BA%86%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [吴艳妮：完全不能接受被叫做网红](https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE%EF%BC%9A%E5%AE%8C%E5%85%A8%E4%B8%8D%E8%83%BD%E6%8E%A5%E5%8F%97%E8%A2%AB%E5%8F%AB%E5%81%9A%E7%BD%91%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
