@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 05:08:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 05:10:01</h4></div>
 
 > 微博  
 
 1. [愚人节站姐团建](https://s.weibo.com/weibo?q=%23%E6%84%9A%E4%BA%BA%E8%8A%82%E7%AB%99%E5%A7%90%E5%9B%A2%E5%BB%BA%23&t=31&band_rank=1&Refer=top)<br />
-2. [赵露思 澳门鬼迷日眼的照片](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E6%BE%B3%E9%97%A8%E9%AC%BC%E8%BF%B7%E6%97%A5%E7%9C%BC%E7%9A%84%E7%85%A7%E7%89%87&t=31&band_rank=2&Refer=top)<br />
+2. [张国荣](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%9B%BD%E8%8D%A3&t=31&band_rank=2&Refer=top)<br />
 3. [2024中国网络媒体论坛](https://s.weibo.com/weibo?q=%232024%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AA%92%E4%BD%93%E8%AE%BA%E5%9D%9B%23&t=31&band_rank=3&Refer=top)<br />
-4. [张国荣](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%9B%BD%E8%8D%A3&t=31&band_rank=4&Refer=top)<br />
+4. [赵露思 澳门鬼迷日眼的照片](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E6%BE%B3%E9%97%A8%E9%AC%BC%E8%BF%B7%E6%97%A5%E7%9C%BC%E7%9A%84%E7%85%A7%E7%89%87&t=31&band_rank=4&Refer=top)<br />
 5. [一种娇妻文化似乎正在北美蔓延](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A7%8D%E5%A8%87%E5%A6%BB%E6%96%87%E5%8C%96%E4%BC%BC%E4%B9%8E%E6%AD%A3%E5%9C%A8%E5%8C%97%E7%BE%8E%E8%94%93%E5%BB%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [上班七个月亏了两万多](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E4%B8%83%E4%B8%AA%E6%9C%88%E4%BA%8F%E4%BA%86%E4%B8%A4%E4%B8%87%E5%A4%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [24岁我还不能和男朋友出去旅游](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E6%88%91%E8%BF%98%E4%B8%8D%E8%83%BD%E5%92%8C%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%23&t=31&band_rank=7&Refer=top)<br />
 8. [聂远每月给老婆300万生活费](https://s.weibo.com/weibo?q=%23%E8%81%82%E8%BF%9C%E6%AF%8F%E6%9C%88%E7%BB%99%E8%80%81%E5%A9%86300%E4%B8%87%E7%94%9F%E6%B4%BB%E8%B4%B9%23&t=31&band_rank=8&Refer=top)<br />
-9. [Doinb疑似在韩国服兵役](https://s.weibo.com/weibo?q=%23Doinb%E7%96%91%E4%BC%BC%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%9C%8D%E5%85%B5%E5%BD%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [贾玲减肥后刘维痛失代表作](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%E5%87%8F%E8%82%A5%E5%90%8E%E5%88%98%E7%BB%B4%E7%97%9B%E5%A4%B1%E4%BB%A3%E8%A1%A8%E4%BD%9C&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [因平凡的你们熠熠闪光](https://www.baidu.com/s?wd=%E5%9B%A0%E5%B9%B3%E5%87%A1%E7%9A%84%E4%BD%A0%E4%BB%AC%E7%86%A0%E7%86%A0%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [儿子被海葬 老太起诉孙女索赔50万](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%A2%AB%E6%B5%B7%E8%91%AC+%E8%80%81%E5%A4%AA%E8%B5%B7%E8%AF%89%E5%AD%99%E5%A5%B3%E7%B4%A2%E8%B5%9450%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方将根据加塞事件原视频通报进展](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%B0%86%E6%A0%B9%E6%8D%AE%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E5%8E%9F%E8%A7%86%E9%A2%91%E9%80%9A%E6%8A%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [因平凡的你们熠熠闪光](https://www.baidu.com/s?wd=%E5%9B%A0%E5%B9%B3%E5%87%A1%E7%9A%84%E4%BD%A0%E4%BB%AC%E7%86%A0%E7%86%A0%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [儿子被海葬 老太起诉孙女索赔50万](https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E8%A2%AB%E6%B5%B7%E8%91%AC+%E8%80%81%E5%A4%AA%E8%B5%B7%E8%AF%89%E5%AD%99%E5%A5%B3%E7%B4%A2%E8%B5%9450%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [警方将根据加塞事件原视频通报进展](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%B0%86%E6%A0%B9%E6%8D%AE%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E5%8E%9F%E8%A7%86%E9%A2%91%E9%80%9A%E6%8A%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
