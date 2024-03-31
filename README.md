@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 12:12:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 12:14:01</h4></div>
 
 > 微博  
 
@@ -9,7 +9,7 @@
 5. [孙千回复](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E5%9B%9E%E5%A4%8D%23&t=31&band_rank=5&Refer=top)<br />
 6. [济州岛被玩成江浙沪后花园了](https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%B7%9E%E5%B2%9B%E8%A2%AB%E7%8E%A9%E6%88%90%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%90%8E%E8%8A%B1%E5%9B%AD%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
 7. [钟楚曦侯雯元看张杰演唱会](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%BE%AF%E9%9B%AF%E5%85%83%E7%9C%8B%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈震回应删除与雷军合照](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E5%9B%9E%E5%BA%94%E5%88%A0%E9%99%A4%E4%B8%8E%E9%9B%B7%E5%86%9B%E5%90%88%E7%85%A7%23&t=31&band_rank=8&Refer=top)<br />
+8. [俞敏洪要求河南新东方文旅停播整顿](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E8%A6%81%E6%B1%82%E6%B2%B3%E5%8D%97%E6%96%B0%E4%B8%9C%E6%96%B9%E6%96%87%E6%97%85%E5%81%9C%E6%92%AD%E6%95%B4%E9%A1%BF%23&t=31&band_rank=8&Refer=top)<br />
 9. [法国向45个国家寻求安保协助](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%90%9145%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%AF%BB%E6%B1%82%E5%AE%89%E4%BF%9D%E5%8D%8F%E5%8A%A9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
