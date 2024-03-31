@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 21:44:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 21:48:02</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [地球正在被垃圾淹没](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E6%AD%A3%E5%9C%A8%E8%A2%AB%E5%9E%83%E5%9C%BE%E6%B7%B9%E6%B2%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“火箭送快递”要来了吗](https://www.baidu.com/s?wd=%E2%80%9C%E7%81%AB%E7%AE%AD%E9%80%81%E5%BF%AB%E9%80%92%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [13岁男孩起诉妈妈归还100万房款](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%B5%B7%E8%AF%89%E5%A6%88%E5%A6%88%E5%BD%92%E8%BF%98100%E4%B8%87%E6%88%BF%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [冯唐母亲去世](https://www.baidu.com/s?wd=%E5%86%AF%E5%94%90%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [地球正在被垃圾淹没](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E6%AD%A3%E5%9C%A8%E8%A2%AB%E5%9E%83%E5%9C%BE%E6%B7%B9%E6%B2%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [“火箭送快递”要来了吗](https://www.baidu.com/s?wd=%E2%80%9C%E7%81%AB%E7%AE%AD%E9%80%81%E5%BF%AB%E9%80%92%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [13岁男孩起诉妈妈归还100万房款](https://www.baidu.com/s?wd=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%B5%B7%E8%AF%89%E5%A6%88%E5%A6%88%E5%BD%92%E8%BF%98100%E4%B8%87%E6%88%BF%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [冯唐母亲去世](https://www.baidu.com/s?wd=%E5%86%AF%E5%94%90%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
