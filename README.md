@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 03:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 03:09:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [2024中国网络媒体论坛](https://s.weibo.com/weibo?q=%232024%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AA%92%E4%BD%93%E8%AE%BA%E5%9D%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [张元英站姐发了刘耀文](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E7%AB%99%E5%A7%90%E5%8F%91%E4%BA%86%E5%88%98%E8%80%80%E6%96%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [鞠婧祎愿意为了角色扮丑](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BA%86%E8%A7%92%E8%89%B2%E6%89%AE%E4%B8%91%23&t=31&band_rank=5&Refer=top)<br />
-6. [Doinb疑似在韩国服兵役](https://s.weibo.com/weibo?q=%23Doinb%E7%96%91%E4%BC%BC%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%9C%8D%E5%85%B5%E5%BD%B9%23&t=31&band_rank=6&Refer=top)<br />
-7. [一种娇妻文化似乎正在北美蔓延](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A7%8D%E5%A8%87%E5%A6%BB%E6%96%87%E5%8C%96%E4%BC%BC%E4%B9%8E%E6%AD%A3%E5%9C%A8%E5%8C%97%E7%BE%8E%E8%94%93%E5%BB%B6%23&t=31&band_rank=7&Refer=top)<br />
+6. [一种娇妻文化似乎正在北美蔓延](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A7%8D%E5%A8%87%E5%A6%BB%E6%96%87%E5%8C%96%E4%BC%BC%E4%B9%8E%E6%AD%A3%E5%9C%A8%E5%8C%97%E7%BE%8E%E8%94%93%E5%BB%B6%23&t=31&band_rank=6&Refer=top)<br />
+7. [聂远每月给老婆300万生活费](https://s.weibo.com/weibo?q=%23%E8%81%82%E8%BF%9C%E6%AF%8F%E6%9C%88%E7%BB%99%E8%80%81%E5%A9%86300%E4%B8%87%E7%94%9F%E6%B4%BB%E8%B4%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [愚人节换头像](https://s.weibo.com/weibo?q=%23%E6%84%9A%E4%BA%BA%E8%8A%82%E6%8D%A2%E5%A4%B4%E5%83%8F%23&t=31&band_rank=8&Refer=top)<br />
-9. [聂远每月给老婆300万生活费](https://s.weibo.com/weibo?q=%23%E8%81%82%E8%BF%9C%E6%AF%8F%E6%9C%88%E7%BB%99%E8%80%81%E5%A9%86300%E4%B8%87%E7%94%9F%E6%B4%BB%E8%B4%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [Doinb疑似在韩国服兵役](https://s.weibo.com/weibo?q=%23Doinb%E7%96%91%E4%BC%BC%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%9C%8D%E5%85%B5%E5%BD%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -23,8 +23,8 @@
 4. [因平凡的你们熠熠闪光](https://www.baidu.com/s?wd=%E5%9B%A0%E5%B9%B3%E5%87%A1%E7%9A%84%E4%BD%A0%E4%BB%AC%E7%86%A0%E7%86%A0%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [采耳店被罚22万 官方：撤回强制执行](https://www.baidu.com/s?wd=%E9%87%87%E8%80%B3%E5%BA%97%E8%A2%AB%E7%BD%9A22%E4%B8%87+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%92%A4%E5%9B%9E%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [波兰总理称欧洲已进入战前时代](https://www.baidu.com/s?wd=%E6%B3%A2%E5%85%B0%E6%80%BB%E7%90%86%E7%A7%B0%E6%AC%A7%E6%B4%B2%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%88%98%E5%89%8D%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子徒步被狗追咬全身缝300多针](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BE%92%E6%AD%A5%E8%A2%AB%E7%8B%97%E8%BF%BD%E5%92%AC%E5%85%A8%E8%BA%AB%E7%BC%9D300%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -35,6 +35,6 @@
 4. [因平凡的你们熠熠闪光](https://www.baidu.com/s?wd=%E5%9B%A0%E5%B9%B3%E5%87%A1%E7%9A%84%E4%BD%A0%E4%BB%AC%E7%86%A0%E7%86%A0%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [采耳店被罚22万 官方：撤回强制执行](https://www.baidu.com/s?wd=%E9%87%87%E8%80%B3%E5%BA%97%E8%A2%AB%E7%BD%9A22%E4%B8%87+%E5%AE%98%E6%96%B9%EF%BC%9A%E6%92%A4%E5%9B%9E%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [波兰总理称欧洲已进入战前时代](https://www.baidu.com/s?wd=%E6%B3%A2%E5%85%B0%E6%80%BB%E7%90%86%E7%A7%B0%E6%AC%A7%E6%B4%B2%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%88%98%E5%89%8D%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [男子徒步被狗追咬全身缝300多针](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BE%92%E6%AD%A5%E8%A2%AB%E7%8B%97%E8%BF%BD%E5%92%AC%E5%85%A8%E8%BA%AB%E7%BC%9D300%E5%A4%9A%E9%92%88&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
