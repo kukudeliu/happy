@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 07:45:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 07:49:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [张国荣 我们的思念从未停止](https://www.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3+%E6%88%91%E4%BB%AC%E7%9A%84%E6%80%9D%E5%BF%B5%E4%BB%8E%E6%9C%AA%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [因平凡的你们熠熠闪光](https://www.baidu.com/s?wd=%E5%9B%A0%E5%B9%B3%E5%87%A1%E7%9A%84%E4%BD%A0%E4%BB%AC%E7%86%A0%E7%86%A0%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [愚人节](https://www.baidu.com/s?wd=%E6%84%9A%E4%BA%BA%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [俄外交部：恐袭事件为乌政府策划](https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6%E4%B8%BA%E4%B9%8C%E6%94%BF%E5%BA%9C%E7%AD%96%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [俄称恐袭为乌政府策划 乌方回应](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E6%81%90%E8%A2%AD%E4%B8%BA%E4%B9%8C%E6%94%BF%E5%BA%9C%E7%AD%96%E5%88%92+%E4%B9%8C%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [等你返航！铭记永远的编号81192](https://www.baidu.com/s?wd=%E7%AD%89%E4%BD%A0%E8%BF%94%E8%88%AA%EF%BC%81%E9%93%AD%E8%AE%B0%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%BC%96%E5%8F%B781192&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [张国荣 我们的思念从未停止](https://www.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3+%E6%88%91%E4%BB%AC%E7%9A%84%E6%80%9D%E5%BF%B5%E4%BB%8E%E6%9C%AA%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [因平凡的你们熠熠闪光](https://www.baidu.com/s?wd=%E5%9B%A0%E5%B9%B3%E5%87%A1%E7%9A%84%E4%BD%A0%E4%BB%AC%E7%86%A0%E7%86%A0%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [愚人节](https://www.baidu.com/s?wd=%E6%84%9A%E4%BA%BA%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [俄外交部：恐袭事件为乌政府策划](https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6%E4%B8%BA%E4%B9%8C%E6%94%BF%E5%BA%9C%E7%AD%96%E5%88%92&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [俄称恐袭为乌政府策划 乌方回应](https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E6%81%90%E8%A2%AD%E4%B8%BA%E4%B9%8C%E6%94%BF%E5%BA%9C%E7%AD%96%E5%88%92+%E4%B9%8C%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [等你返航！铭记永远的编号81192](https://www.baidu.com/s?wd=%E7%AD%89%E4%BD%A0%E8%BF%94%E8%88%AA%EF%BC%81%E9%93%AD%E8%AE%B0%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%BC%96%E5%8F%B781192&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [女子辅导儿子作业情绪崩溃踹断脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%BE%85%E5%AF%BC%E5%84%BF%E5%AD%90%E4%BD%9C%E4%B8%9A%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%B8%B9%E6%96%AD%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
