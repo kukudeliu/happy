@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 05:49:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 05:52:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [上班七个月亏了两万多](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E4%B8%83%E4%B8%AA%E6%9C%88%E4%BA%8F%E4%BA%86%E4%B8%A4%E4%B8%87%E5%A4%9A%23&t=31&band_rank=6&Refer=top)<br />
 7. [聂远每月给老婆300万生活费](https://s.weibo.com/weibo?q=%23%E8%81%82%E8%BF%9C%E6%AF%8F%E6%9C%88%E7%BB%99%E8%80%81%E5%A9%86300%E4%B8%87%E7%94%9F%E6%B4%BB%E8%B4%B9%23&t=31&band_rank=7&Refer=top)<br />
 8. [24岁我还不能和男朋友出去旅游](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E6%88%91%E8%BF%98%E4%B8%8D%E8%83%BD%E5%92%8C%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%23&t=31&band_rank=8&Refer=top)<br />
-9. [张元英站姐发了刘耀文](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E7%AB%99%E5%A7%90%E5%8F%91%E4%BA%86%E5%88%98%E8%80%80%E6%96%87%23&t=31&band_rank=9&Refer=top)<br />
+9. [雷军回应拦截小米SU7部分异常订单](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%8B%A6%E6%88%AA%E5%B0%8F%E7%B1%B3SU7%E9%83%A8%E5%88%86%E5%BC%82%E5%B8%B8%E8%AE%A2%E5%8D%95%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
