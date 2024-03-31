@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 05:54:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 05:58:01</h4></div>
 
 > 微博  
 
@@ -22,9 +22,9 @@
 3. [爸爸穿得太显眼竟把女儿气哭](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E7%A9%BF%E5%BE%97%E5%A4%AA%E6%98%BE%E7%9C%BC%E7%AB%9F%E6%8A%8A%E5%A5%B3%E5%84%BF%E6%B0%94%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [因平凡的你们熠熠闪光](https://www.baidu.com/s?wd=%E5%9B%A0%E5%B9%B3%E5%87%A1%E7%9A%84%E4%BD%A0%E4%BB%AC%E7%86%A0%E7%86%A0%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [地球正在被垃圾淹没](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E6%AD%A3%E5%9C%A8%E8%A2%AB%E5%9E%83%E5%9C%BE%E6%B7%B9%E6%B2%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方将根据加塞事件原视频通报进展](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%B0%86%E6%A0%B9%E6%8D%AE%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E5%8E%9F%E8%A7%86%E9%A2%91%E9%80%9A%E6%8A%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [警方将根据加塞事件原视频通报进展](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%B0%86%E6%A0%B9%E6%8D%AE%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E5%8E%9F%E8%A7%86%E9%A2%91%E9%80%9A%E6%8A%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [地球正在被垃圾淹没](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E6%AD%A3%E5%9C%A8%E8%A2%AB%E5%9E%83%E5%9C%BE%E6%B7%B9%E6%B2%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -34,7 +34,7 @@
 3. [爸爸穿得太显眼竟把女儿气哭](https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E7%A9%BF%E5%BE%97%E5%A4%AA%E6%98%BE%E7%9C%BC%E7%AB%9F%E6%8A%8A%E5%A5%B3%E5%84%BF%E6%B0%94%E5%93%AD&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [因平凡的你们熠熠闪光](https://www.baidu.com/s?wd=%E5%9B%A0%E5%B9%B3%E5%87%A1%E7%9A%84%E4%BD%A0%E4%BB%AC%E7%86%A0%E7%86%A0%E9%97%AA%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)<br />
 5. [凯迪拉克：泼天的流量轮到我了](https://www.baidu.com/s?wd=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%EF%BC%9A%E6%B3%BC%E5%A4%A9%E7%9A%84%E6%B5%81%E9%87%8F%E8%BD%AE%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [地球正在被垃圾淹没](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E6%AD%A3%E5%9C%A8%E8%A2%AB%E5%9E%83%E5%9C%BE%E6%B7%B9%E6%B2%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [警方将根据加塞事件原视频通报进展](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%B0%86%E6%A0%B9%E6%8D%AE%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E5%8E%9F%E8%A7%86%E9%A2%91%E9%80%9A%E6%8A%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [警方将根据加塞事件原视频通报进展](https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%B0%86%E6%A0%B9%E6%8D%AE%E5%8A%A0%E5%A1%9E%E4%BA%8B%E4%BB%B6%E5%8E%9F%E8%A7%86%E9%A2%91%E9%80%9A%E6%8A%A5%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [可可价格飙升 涨幅远超金价](https://www.baidu.com/s?wd=%E5%8F%AF%E5%8F%AF%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87+%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%87%91%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [地球正在被垃圾淹没](https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E6%AD%A3%E5%9C%A8%E8%A2%AB%E5%9E%83%E5%9C%BE%E6%B7%B9%E6%B2%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
