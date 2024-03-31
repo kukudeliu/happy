@@ -1,14 +1,14 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 14:27:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 14:36:02</h4></div>
 
 > 微博  
 
 1. [小米订单 strong男](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E8%AE%A2%E5%8D%95%20strong%E7%94%B7&t=31&band_rank=1&Refer=top)<br />
 2. [霸王茶姬 张杰演唱会](https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=2&Refer=top)<br />
 3. [美好生活在云南](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%E5%9C%A8%E4%BA%91%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
-4. [纪凌尘认为分手舆情影响他接戏](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%87%8C%E5%B0%98%E8%AE%A4%E4%B8%BA%E5%88%86%E6%89%8B%E8%88%86%E6%83%85%E5%BD%B1%E5%93%8D%E4%BB%96%E6%8E%A5%E6%88%8F%23&t=31&band_rank=4&Refer=top)<br />
-5. [赵露思林俊杰合照](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%88%E7%85%A7%23&t=31&band_rank=5&Refer=top)<br />
-6. [宁静 谁找你演二愣子](https://s.weibo.com/weibo?q=%E5%AE%81%E9%9D%99%20%E8%B0%81%E6%89%BE%E4%BD%A0%E6%BC%94%E4%BA%8C%E6%84%A3%E5%AD%90&t=31&band_rank=6&Refer=top)<br />
-7. [赵奕欢被制片人踢出了演员行列](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%A5%95%E6%AC%A2%E8%A2%AB%E5%88%B6%E7%89%87%E4%BA%BA%E8%B8%A2%E5%87%BA%E4%BA%86%E6%BC%94%E5%91%98%E8%A1%8C%E5%88%97%23&t=31&band_rank=7&Refer=top)<br />
+4. [雷军 我为张老师准备的车是顶配](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%20%E6%88%91%E4%B8%BA%E5%BC%A0%E8%80%81%E5%B8%88%E5%87%86%E5%A4%87%E7%9A%84%E8%BD%A6%E6%98%AF%E9%A1%B6%E9%85%8D&t=31&band_rank=4&Refer=top)<br />
+5. [纪凌尘认为分手舆情影响他接戏](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%87%8C%E5%B0%98%E8%AE%A4%E4%B8%BA%E5%88%86%E6%89%8B%E8%88%86%E6%83%85%E5%BD%B1%E5%93%8D%E4%BB%96%E6%8E%A5%E6%88%8F%23&t=31&band_rank=5&Refer=top)<br />
+6. [赵露思林俊杰合照](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%88%E7%85%A7%23&t=31&band_rank=6&Refer=top)<br />
+7. [宁静 谁找你演二愣子](https://s.weibo.com/weibo?q=%E5%AE%81%E9%9D%99%20%E8%B0%81%E6%89%BE%E4%BD%A0%E6%BC%94%E4%BA%8C%E6%84%A3%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
 8. [一句话让男人为我花了21万](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E7%94%B7%E4%BA%BA%E4%B8%BA%E6%88%91%E8%8A%B1%E4%BA%8621%E4%B8%87%23&t=31&band_rank=8&Refer=top)<br />
 9. [泽连斯基被问到俄恐袭露出诡异微笑](https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%A2%AB%E9%97%AE%E5%88%B0%E4%BF%84%E6%81%90%E8%A2%AD%E9%9C%B2%E5%87%BA%E8%AF%A1%E5%BC%82%E5%BE%AE%E7%AC%91%23&t=31&band_rank=9&Refer=top)<br />
 
@@ -21,10 +21,10 @@
 2. [已婚男在“王婆说媒”走红 妻子发声](https://www.baidu.com/s?wd=%E5%B7%B2%E5%A9%9A%E7%94%B7%E5%9C%A8%E2%80%9C%E7%8E%8B%E5%A9%86%E8%AF%B4%E5%AA%92%E2%80%9D%E8%B5%B0%E7%BA%A2+%E5%A6%BB%E5%AD%90%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [泽连斯基被问到俄恐袭露出诡异微笑](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%A2%AB%E9%97%AE%E5%88%B0%E4%BF%84%E6%81%90%E8%A2%AD%E9%9C%B2%E5%87%BA%E8%AF%A1%E5%BC%82%E5%BE%AE%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [看“机器大脑”如何赋能千行百业](https://www.baidu.com/s?wd=%E7%9C%8B%E2%80%9C%E6%9C%BA%E5%99%A8%E5%A4%A7%E8%84%91%E2%80%9D%E5%A6%82%E4%BD%95%E8%B5%8B%E8%83%BD%E5%8D%83%E8%A1%8C%E7%99%BE%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [车位多次被占 男子用焊条封堵蹭位车](https://www.baidu.com/s?wd=%E8%BD%A6%E4%BD%8D%E5%A4%9A%E6%AC%A1%E8%A2%AB%E5%8D%A0+%E7%94%B7%E5%AD%90%E7%94%A8%E7%84%8A%E6%9D%A1%E5%B0%81%E5%A0%B5%E8%B9%AD%E4%BD%8D%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [疑被打死男童生母与其男友被刑拘](https://www.baidu.com/s?wd=%E7%96%91%E8%A2%AB%E6%89%93%E6%AD%BB%E7%94%B7%E7%AB%A5%E7%94%9F%E6%AF%8D%E4%B8%8E%E5%85%B6%E7%94%B7%E5%8F%8B%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美国一款心脏泵已致49人死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%AC%BE%E5%BF%83%E8%84%8F%E6%B3%B5%E5%B7%B2%E8%87%B449%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [法国向45个国家寻求安保协助](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%90%9145%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%AF%BB%E6%B1%82%E5%AE%89%E4%BF%9D%E5%8D%8F%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [疑被打死男童生母与其男友被刑拘](https://www.baidu.com/s?wd=%E7%96%91%E8%A2%AB%E6%89%93%E6%AD%BB%E7%94%B7%E7%AB%A5%E7%94%9F%E6%AF%8D%E4%B8%8E%E5%85%B6%E7%94%B7%E5%8F%8B%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [一句话让男人为我花了21万](https://www.baidu.com/s?wd=%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E7%94%B7%E4%BA%BA%E4%B8%BA%E6%88%91%E8%8A%B1%E4%BA%8621%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [车位多次被占 男子用焊条封堵蹭位车](https://www.baidu.com/s?wd=%E8%BD%A6%E4%BD%8D%E5%A4%9A%E6%AC%A1%E8%A2%AB%E5%8D%A0+%E7%94%B7%E5%AD%90%E7%94%A8%E7%84%8A%E6%9D%A1%E5%B0%81%E5%A0%B5%E8%B9%AD%E4%BD%8D%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国一款心脏泵已致49人死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%AC%BE%E5%BF%83%E8%84%8F%E6%B3%B5%E5%B7%B2%E8%87%B449%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -33,8 +33,8 @@
 2. [已婚男在“王婆说媒”走红 妻子发声](https://www.baidu.com/s?wd=%E5%B7%B2%E5%A9%9A%E7%94%B7%E5%9C%A8%E2%80%9C%E7%8E%8B%E5%A9%86%E8%AF%B4%E5%AA%92%E2%80%9D%E8%B5%B0%E7%BA%A2+%E5%A6%BB%E5%AD%90%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
 3. [泽连斯基被问到俄恐袭露出诡异微笑](https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%A2%AB%E9%97%AE%E5%88%B0%E4%BF%84%E6%81%90%E8%A2%AD%E9%9C%B2%E5%87%BA%E8%AF%A1%E5%BC%82%E5%BE%AE%E7%AC%91&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [看“机器大脑”如何赋能千行百业](https://www.baidu.com/s?wd=%E7%9C%8B%E2%80%9C%E6%9C%BA%E5%99%A8%E5%A4%A7%E8%84%91%E2%80%9D%E5%A6%82%E4%BD%95%E8%B5%8B%E8%83%BD%E5%8D%83%E8%A1%8C%E7%99%BE%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [车位多次被占 男子用焊条封堵蹭位车](https://www.baidu.com/s?wd=%E8%BD%A6%E4%BD%8D%E5%A4%9A%E6%AC%A1%E8%A2%AB%E5%8D%A0+%E7%94%B7%E5%AD%90%E7%94%A8%E7%84%8A%E6%9D%A1%E5%B0%81%E5%A0%B5%E8%B9%AD%E4%BD%8D%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [疑被打死男童生母与其男友被刑拘](https://www.baidu.com/s?wd=%E7%96%91%E8%A2%AB%E6%89%93%E6%AD%BB%E7%94%B7%E7%AB%A5%E7%94%9F%E6%AF%8D%E4%B8%8E%E5%85%B6%E7%94%B7%E5%8F%8B%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [美国一款心脏泵已致49人死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%AC%BE%E5%BF%83%E8%84%8F%E6%B3%B5%E5%B7%B2%E8%87%B449%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [法国向45个国家寻求安保协助](https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%90%9145%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%AF%BB%E6%B1%82%E5%AE%89%E4%BF%9D%E5%8D%8F%E5%8A%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [疑被打死男童生母与其男友被刑拘](https://www.baidu.com/s?wd=%E7%96%91%E8%A2%AB%E6%89%93%E6%AD%BB%E7%94%B7%E7%AB%A5%E7%94%9F%E6%AF%8D%E4%B8%8E%E5%85%B6%E7%94%B7%E5%8F%8B%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [一句话让男人为我花了21万](https://www.baidu.com/s?wd=%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E7%94%B7%E4%BA%BA%E4%B8%BA%E6%88%91%E8%8A%B1%E4%BA%8621%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [车位多次被占 男子用焊条封堵蹭位车](https://www.baidu.com/s?wd=%E8%BD%A6%E4%BD%8D%E5%A4%9A%E6%AC%A1%E8%A2%AB%E5%8D%A0+%E7%94%B7%E5%AD%90%E7%94%A8%E7%84%8A%E6%9D%A1%E5%B0%81%E5%A0%B5%E8%B9%AD%E4%BD%8D%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [美国一款心脏泵已致49人死亡](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%AC%BE%E5%BF%83%E8%84%8F%E6%B3%B5%E5%B7%B2%E8%87%B449%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
