@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 05:07:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 05:08:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [张国荣](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%9B%BD%E8%8D%A3&t=31&band_rank=4&Refer=top)<br />
 5. [一种娇妻文化似乎正在北美蔓延](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A7%8D%E5%A8%87%E5%A6%BB%E6%96%87%E5%8C%96%E4%BC%BC%E4%B9%8E%E6%AD%A3%E5%9C%A8%E5%8C%97%E7%BE%8E%E8%94%93%E5%BB%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [上班七个月亏了两万多](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E4%B8%83%E4%B8%AA%E6%9C%88%E4%BA%8F%E4%BA%86%E4%B8%A4%E4%B8%87%E5%A4%9A%23&t=31&band_rank=6&Refer=top)<br />
-7. [聂远每月给老婆300万生活费](https://s.weibo.com/weibo?q=%23%E8%81%82%E8%BF%9C%E6%AF%8F%E6%9C%88%E7%BB%99%E8%80%81%E5%A9%86300%E4%B8%87%E7%94%9F%E6%B4%BB%E8%B4%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [24岁我还不能和男朋友出去旅游](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E6%88%91%E8%BF%98%E4%B8%8D%E8%83%BD%E5%92%8C%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%23&t=31&band_rank=8&Refer=top)<br />
+7. [24岁我还不能和男朋友出去旅游](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E6%88%91%E8%BF%98%E4%B8%8D%E8%83%BD%E5%92%8C%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%23&t=31&band_rank=7&Refer=top)<br />
+8. [聂远每月给老婆300万生活费](https://s.weibo.com/weibo?q=%23%E8%81%82%E8%BF%9C%E6%AF%8F%E6%9C%88%E7%BB%99%E8%80%81%E5%A9%86300%E4%B8%87%E7%94%9F%E6%B4%BB%E8%B4%B9%23&t=31&band_rank=8&Refer=top)<br />
 9. [Doinb疑似在韩国服兵役](https://s.weibo.com/weibo?q=%23Doinb%E7%96%91%E4%BC%BC%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%9C%8D%E5%85%B5%E5%BD%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
