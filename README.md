@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 23:07:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-03-31 23:08:01</h4></div>
 
 > 微博  
 
@@ -8,9 +8,9 @@
 4. [聂远每月给老婆300万生活费](https://s.weibo.com/weibo?q=%23%E8%81%82%E8%BF%9C%E6%AF%8F%E6%9C%88%E7%BB%99%E8%80%81%E5%A9%86300%E4%B8%87%E7%94%9F%E6%B4%BB%E8%B4%B9%23&t=31&band_rank=4&Refer=top)<br />
 5. [鞠婧祎愿意为了角色扮丑](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BA%86%E8%A7%92%E8%89%B2%E6%89%AE%E4%B8%91%23&t=31&band_rank=5&Refer=top)<br />
 6. [愚人节站姐团建](https://s.weibo.com/weibo?q=%23%E6%84%9A%E4%BA%BA%E8%8A%82%E7%AB%99%E5%A7%90%E5%9B%A2%E5%BB%BA%23&t=31&band_rank=6&Refer=top)<br />
-7. [张国荣](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%9B%BD%E8%8D%A3&t=31&band_rank=7&Refer=top)<br />
+7. [babymonster直播](https://s.weibo.com/weibo?q=babymonster%E7%9B%B4%E6%92%AD&t=31&band_rank=7&Refer=top)<br />
 8. [白桃星座](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=8&Refer=top)<br />
-9. [已婚男子找王婆说媒妻子或将离婚](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%A9%9A%E7%94%B7%E5%AD%90%E6%89%BE%E7%8E%8B%E5%A9%86%E8%AF%B4%E5%AA%92%E5%A6%BB%E5%AD%90%E6%88%96%E5%B0%86%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=9&Refer=top)<br />
+9. [工作人员回应小米SU7甩尾撞路边](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3SU7%E7%94%A9%E5%B0%BE%E6%92%9E%E8%B7%AF%E8%BE%B9%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
