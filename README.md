@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 03:17:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 03:18:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [张元英站姐发了刘耀文](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E7%AB%99%E5%A7%90%E5%8F%91%E4%BA%86%E5%88%98%E8%80%80%E6%96%87%23&t=31&band_rank=4&Refer=top)<br />
 5. [一种娇妻文化似乎正在北美蔓延](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A7%8D%E5%A8%87%E5%A6%BB%E6%96%87%E5%8C%96%E4%BC%BC%E4%B9%8E%E6%AD%A3%E5%9C%A8%E5%8C%97%E7%BE%8E%E8%94%93%E5%BB%B6%23&t=31&band_rank=5&Refer=top)<br />
 6. [鞠婧祎愿意为了角色扮丑](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BA%86%E8%A7%92%E8%89%B2%E6%89%AE%E4%B8%91%23&t=31&band_rank=6&Refer=top)<br />
-7. [聂远每月给老婆300万生活费](https://s.weibo.com/weibo?q=%23%E8%81%82%E8%BF%9C%E6%AF%8F%E6%9C%88%E7%BB%99%E8%80%81%E5%A9%86300%E4%B8%87%E7%94%9F%E6%B4%BB%E8%B4%B9%23&t=31&band_rank=7&Refer=top)<br />
-8. [Doinb疑似在韩国服兵役](https://s.weibo.com/weibo?q=%23Doinb%E7%96%91%E4%BC%BC%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%9C%8D%E5%85%B5%E5%BD%B9%23&t=31&band_rank=8&Refer=top)<br />
+7. [Doinb疑似在韩国服兵役](https://s.weibo.com/weibo?q=%23Doinb%E7%96%91%E4%BC%BC%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%9C%8D%E5%85%B5%E5%BD%B9%23&t=31&band_rank=7&Refer=top)<br />
+8. [聂远每月给老婆300万生活费](https://s.weibo.com/weibo?q=%23%E8%81%82%E8%BF%9C%E6%AF%8F%E6%9C%88%E7%BB%99%E8%80%81%E5%A9%86300%E4%B8%87%E7%94%9F%E6%B4%BB%E8%B4%B9%23&t=31&band_rank=8&Refer=top)<br />
 9. [愚人节换头像](https://s.weibo.com/weibo?q=%23%E6%84%9A%E4%BA%BA%E8%8A%82%E6%8D%A2%E5%A4%B4%E5%83%8F%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
