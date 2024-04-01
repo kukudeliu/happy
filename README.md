@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 09:48:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 09:50:01</h4></div>
 
 > 微博  
 
@@ -24,7 +24,7 @@
 5. [男子带娃漂流遭4人用鹅卵石袭击](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A6%E5%A8%83%E6%BC%82%E6%B5%81%E9%81%AD4%E4%BA%BA%E7%94%A8%E9%B9%85%E5%8D%B5%E7%9F%B3%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [周鸿祎：小米汽车为什么叫SU7](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%ABSU7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张国荣 我们的思念从未停止](https://www.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3+%E6%88%91%E4%BB%AC%E7%9A%84%E6%80%9D%E5%BF%B5%E4%BB%8E%E6%9C%AA%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [3岁男童走失狗狗在山上陪了一夜](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E7%AB%A5%E8%B5%B0%E5%A4%B1%E7%8B%97%E7%8B%97%E5%9C%A8%E5%B1%B1%E4%B8%8A%E9%99%AA%E4%BA%86%E4%B8%80%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [身亡男童爷爷：医生看到伤直接报警](https://www.baidu.com/s?wd=%E8%BA%AB%E4%BA%A1%E7%94%B7%E7%AB%A5%E7%88%B7%E7%88%B7%EF%BC%9A%E5%8C%BB%E7%94%9F%E7%9C%8B%E5%88%B0%E4%BC%A4%E7%9B%B4%E6%8E%A5%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乌足坛传奇舍甫琴科参战系谣言](https://www.baidu.com/s?wd=%E4%B9%8C%E8%B6%B3%E5%9D%9B%E4%BC%A0%E5%A5%87%E8%88%8D%E7%94%AB%E7%90%B4%E7%A7%91%E5%8F%82%E6%88%98%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
@@ -36,5 +36,5 @@
 5. [男子带娃漂流遭4人用鹅卵石袭击](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A6%E5%A8%83%E6%BC%82%E6%B5%81%E9%81%AD4%E4%BA%BA%E7%94%A8%E9%B9%85%E5%8D%B5%E7%9F%B3%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
 6. [周鸿祎：小米汽车为什么叫SU7](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%ABSU7&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [张国荣 我们的思念从未停止](https://www.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3+%E6%88%91%E4%BB%AC%E7%9A%84%E6%80%9D%E5%BF%B5%E4%BB%8E%E6%9C%AA%E5%81%9C%E6%AD%A2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [3岁男童走失狗狗在山上陪了一夜](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E7%AB%A5%E8%B5%B0%E5%A4%B1%E7%8B%97%E7%8B%97%E5%9C%A8%E5%B1%B1%E4%B8%8A%E9%99%AA%E4%BA%86%E4%B8%80%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [身亡男童爷爷：医生看到伤直接报警](https://www.baidu.com/s?wd=%E8%BA%AB%E4%BA%A1%E7%94%B7%E7%AB%A5%E7%88%B7%E7%88%B7%EF%BC%9A%E5%8C%BB%E7%94%9F%E7%9C%8B%E5%88%B0%E4%BC%A4%E7%9B%B4%E6%8E%A5%E6%8A%A5%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
 9. [乌足坛传奇舍甫琴科参战系谣言](https://www.baidu.com/s?wd=%E4%B9%8C%E8%B6%B3%E5%9D%9B%E4%BC%A0%E5%A5%87%E8%88%8D%E7%94%AB%E7%90%B4%E7%A7%91%E5%8F%82%E6%88%98%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
