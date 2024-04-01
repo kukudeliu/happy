@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 10:40:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 10:42:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [2024中国网络媒体论坛](https://s.weibo.com/weibo?q=%232024%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AA%92%E4%BD%93%E8%AE%BA%E5%9D%9B%23&t=31&band_rank=3&Refer=top)<br />
 4. [81192](https://s.weibo.com/weibo?q=81192&t=31&band_rank=4&Refer=top)<br />
 5. [宁静吐槽李菲儿](https://s.weibo.com/weibo?q=%E5%AE%81%E9%9D%99%E5%90%90%E6%A7%BD%E6%9D%8E%E8%8F%B2%E5%84%BF&t=31&band_rank=5&Refer=top)<br />
-6. [还好只上三天就放假了](https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%A5%BD%E5%8F%AA%E4%B8%8A%E4%B8%89%E5%A4%A9%E5%B0%B1%E6%94%BE%E5%81%87%E4%BA%86%23&t=31&band_rank=6&Refer=top)<br />
-7. [问界M7降价2万元](https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM7%E9%99%8D%E4%BB%B72%E4%B8%87%E5%85%83%23&t=31&band_rank=7&Refer=top)<br />
+6. [问界M7降价2万元](https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM7%E9%99%8D%E4%BB%B72%E4%B8%87%E5%85%83%23&t=31&band_rank=6&Refer=top)<br />
+7. [还好只上三天就放假了](https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%A5%BD%E5%8F%AA%E4%B8%8A%E4%B8%89%E5%A4%A9%E5%B0%B1%E6%94%BE%E5%81%87%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [19岁女生和41岁阿姨处成闺蜜](https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%A5%B3%E7%94%9F%E5%92%8C41%E5%B2%81%E9%98%BF%E5%A7%A8%E5%A4%84%E6%88%90%E9%97%BA%E8%9C%9C%23&t=31&band_rank=8&Refer=top)<br />
-9. [本想免费试用结果被扣一年会员费](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%83%B3%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A8%E7%BB%93%E6%9E%9C%E8%A2%AB%E6%89%A3%E4%B8%80%E5%B9%B4%E4%BC%9A%E5%91%98%E8%B4%B9%23&t=31&band_rank=9&Refer=top)<br />
+9. [一批30岁青年不再租房](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%89%B930%E5%B2%81%E9%9D%92%E5%B9%B4%E4%B8%8D%E5%86%8D%E7%A7%9F%E6%88%BF%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
