@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 09:39:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 09:40:01</h4></div>
 
 > 微博  
 
@@ -10,7 +10,7 @@
 6. [代号鸢 跑路](https://s.weibo.com/weibo?q=%E4%BB%A3%E5%8F%B7%E9%B8%A2%20%E8%B7%91%E8%B7%AF&t=31&band_rank=6&Refer=top)<br />
 7. [还好只上三天就放假了](https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%A5%BD%E5%8F%AA%E4%B8%8A%E4%B8%89%E5%A4%A9%E5%B0%B1%E6%94%BE%E5%81%87%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
 8. [特斯拉中国今日涨价](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD%E4%BB%8A%E6%97%A5%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top)<br />
-9. [女子工作1年半胖40斤判若两人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B7%A5%E4%BD%9C1%E5%B9%B4%E5%8D%8A%E8%83%9640%E6%96%A4%E5%88%A4%E8%8B%A5%E4%B8%A4%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
+9. [莎头](https://s.weibo.com/weibo?q=%E8%8E%8E%E5%A4%B4&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
