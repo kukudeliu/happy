@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 11:15:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 11:19:01</h4></div>
 
 > 微博  
 
@@ -7,10 +7,10 @@
 3. [万千气象看云南](https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E4%BA%91%E5%8D%97%23&t=31&band_rank=3&Refer=top)<br />
 4. [81192](https://s.weibo.com/weibo?q=81192&t=31&band_rank=4&Refer=top)<br />
 5. [乳腺增生真是豆浆惹的祸吗](https://s.weibo.com/weibo?q=%23%E4%B9%B3%E8%85%BA%E5%A2%9E%E7%94%9F%E7%9C%9F%E6%98%AF%E8%B1%86%E6%B5%86%E6%83%B9%E7%9A%84%E7%A5%B8%E5%90%97%23&t=31&band_rank=5&Refer=top)<br />
-6. [宁静吐槽李菲儿](https://s.weibo.com/weibo?q=%E5%AE%81%E9%9D%99%E5%90%90%E6%A7%BD%E6%9D%8E%E8%8F%B2%E5%84%BF&t=31&band_rank=6&Refer=top)<br />
-7. [成都迈巴赫肇事司机已被控制](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%BF%88%E5%B7%B4%E8%B5%AB%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=7&Refer=top)<br />
-8. [陈少熙火了](https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%91%E7%86%99%E7%81%AB%E4%BA%86&t=31&band_rank=8&Refer=top)<br />
-9. [问界M7降价2万元](https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM7%E9%99%8D%E4%BB%B72%E4%B8%87%E5%85%83%23&t=31&band_rank=9&Refer=top)<br />
+6. [陈少熙火了](https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%91%E7%86%99%E7%81%AB%E4%BA%86&t=31&band_rank=6&Refer=top)<br />
+7. [宁静吐槽李菲儿](https://s.weibo.com/weibo?q=%E5%AE%81%E9%9D%99%E5%90%90%E6%A7%BD%E6%9D%8E%E8%8F%B2%E5%84%BF&t=31&band_rank=7&Refer=top)<br />
+8. [成都迈巴赫肇事司机已被控制](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%BF%88%E5%B7%B4%E8%B5%AB%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23&t=31&band_rank=8&Refer=top)<br />
+9. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
