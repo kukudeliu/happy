@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 09:09:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 09:11:01</h4></div>
 
 > 微博  
 
@@ -25,7 +25,7 @@
 6. [王婆回应已婚男相亲事件](https://www.baidu.com/s?wd=%E7%8E%8B%E5%A9%86%E5%9B%9E%E5%BA%94%E5%B7%B2%E5%A9%9A%E7%94%B7%E7%9B%B8%E4%BA%B2%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [周鸿祎：小米汽车为什么叫SU7](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%ABSU7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [3岁男童走失狗狗在山上陪了一夜](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E7%AB%A5%E8%B5%B0%E5%A4%B1%E7%8B%97%E7%8B%97%E5%9C%A8%E5%B1%B1%E4%B8%8A%E9%99%AA%E4%BA%86%E4%B8%80%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌足坛传奇舍甫琴科参战系谣言](https://www.baidu.com/s?wd=%E4%B9%8C%E8%B6%B3%E5%9D%9B%E4%BC%A0%E5%A5%87%E8%88%8D%E7%94%AB%E7%90%B4%E7%A7%91%E5%8F%82%E6%88%98%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
@@ -37,4 +37,4 @@
 6. [王婆回应已婚男相亲事件](https://www.baidu.com/s?wd=%E7%8E%8B%E5%A9%86%E5%9B%9E%E5%BA%94%E5%B7%B2%E5%A9%9A%E7%94%B7%E7%9B%B8%E4%BA%B2%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
 7. [周鸿祎：小米汽车为什么叫SU7](https://www.baidu.com/s?wd=%E5%91%A8%E9%B8%BF%E7%A5%8E%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%ABSU7&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [3岁男童走失狗狗在山上陪了一夜](https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E7%AB%A5%E8%B5%B0%E5%A4%B1%E7%8B%97%E7%8B%97%E5%9C%A8%E5%B1%B1%E4%B8%8A%E9%99%AA%E4%BA%86%E4%B8%80%E5%A4%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [黄山辟谣天都峰4月1日开放](https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E8%BE%9F%E8%B0%A3%E5%A4%A9%E9%83%BD%E5%B3%B04%E6%9C%881%E6%97%A5%E5%BC%80%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [乌足坛传奇舍甫琴科参战系谣言](https://www.baidu.com/s?wd=%E4%B9%8C%E8%B6%B3%E5%9D%9B%E4%BC%A0%E5%A5%87%E8%88%8D%E7%94%AB%E7%90%B4%E7%A7%91%E5%8F%82%E6%88%98%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
