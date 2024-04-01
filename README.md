@@ -1,4 +1,4 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 09:26:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-01 09:27:01</h4></div>
 
 > 微博  
 
@@ -8,8 +8,8 @@
 4. [本想免费试用结果被扣一年会员费](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%83%B3%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A8%E7%BB%93%E6%9E%9C%E8%A2%AB%E6%89%A3%E4%B8%80%E5%B9%B4%E4%BC%9A%E5%91%98%E8%B4%B9%23&t=31&band_rank=4&Refer=top)<br />
 5. [宁静吐槽李菲儿](https://s.weibo.com/weibo?q=%E5%AE%81%E9%9D%99%E5%90%90%E6%A7%BD%E6%9D%8E%E8%8F%B2%E5%84%BF&t=31&band_rank=5&Refer=top)<br />
 6. [代号鸢 跑路](https://s.weibo.com/weibo?q=%E4%BB%A3%E5%8F%B7%E9%B8%A2%20%E8%B7%91%E8%B7%AF&t=31&band_rank=6&Refer=top)<br />
-7. [杨幂卡点微博](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%8D%A1%E7%82%B9%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=7&Refer=top)<br />
-8. [张国荣](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%9B%BD%E8%8D%A3&t=31&band_rank=8&Refer=top)<br />
+7. [还好只上三天就放假了](https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%A5%BD%E5%8F%AA%E4%B8%8A%E4%B8%89%E5%A4%A9%E5%B0%B1%E6%94%BE%E5%81%87%E4%BA%86%23&t=31&band_rank=7&Refer=top)<br />
+8. [杨幂卡点微博](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%8D%A1%E7%82%B9%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=8&Refer=top)<br />
 9. [女子工作1年半胖40斤判若两人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B7%A5%E4%BD%9C1%E5%B9%B4%E5%8D%8A%E8%83%9640%E6%96%A4%E5%88%A4%E8%8B%A5%E4%B8%A4%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
