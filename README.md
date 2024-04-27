@@ -1,40 +1,40 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-04-27 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-04-28 02:39:01</h4></div>
 
 > 微博  
 
-1. [芒果又押错宝了吗](https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E5%8F%88%E6%8A%BC%E9%94%99%E5%AE%9D%E4%BA%86%E5%90%97&t=31&band_rank=1&Refer=top)<br />
-2. [韩雪快碎了](https://s.weibo.com/weibo?q=%E9%9F%A9%E9%9B%AA%E5%BF%AB%E7%A2%8E%E4%BA%86&t=31&band_rank=2&Refer=top)<br />
-3. [全国网络普法行江苏站](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E6%B1%9F%E8%8B%8F%E7%AB%99%23&t=31&band_rank=3&Refer=top)<br />
-4. [人刚死亡时还能听见声音吗](https://s.weibo.com/weibo?q=%E4%BA%BA%E5%88%9A%E6%AD%BB%E4%BA%A1%E6%97%B6%E8%BF%98%E8%83%BD%E5%90%AC%E8%A7%81%E5%A3%B0%E9%9F%B3%E5%90%97&t=31&band_rank=4&Refer=top)<br />
-5. [辅警杀害新婚妻子被判死缓](https://s.weibo.com/weibo?q=%23%E8%BE%85%E8%AD%A6%E6%9D%80%E5%AE%B3%E6%96%B0%E5%A9%9A%E5%A6%BB%E5%AD%90%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23&t=31&band_rank=5&Refer=top)<br />
-6. [没有编制教师岗还有吸引力吗](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E7%BC%96%E5%88%B6%E6%95%99%E5%B8%88%E5%B2%97%E8%BF%98%E6%9C%89%E5%90%B8%E5%BC%95%E5%8A%9B%E5%90%97%23&t=31&band_rank=6&Refer=top)<br />
-7. [女生晒八年级妹妹价值888元点阵笔](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%99%92%E5%85%AB%E5%B9%B4%E7%BA%A7%E5%A6%B9%E5%A6%B9%E4%BB%B7%E5%80%BC888%E5%85%83%E7%82%B9%E9%98%B5%E7%AC%94%23&t=31&band_rank=7&Refer=top)<br />
-8. [工作三年和读研三年到底哪个更值](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%B9%B4%E5%92%8C%E8%AF%BB%E7%A0%94%E4%B8%89%E5%B9%B4%E5%88%B0%E5%BA%95%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%80%BC%23&t=31&band_rank=8&Refer=top)<br />
-9. [奔跑吧P安全带](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7P%E5%AE%89%E5%85%A8%E5%B8%A6&t=31&band_rank=9&Refer=top)<br />
+1. [广州龙卷风已致5死33伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%B7%B2%E8%87%B45%E6%AD%BB33%E4%BC%A4%23&t=31&band_rank=1&Refer=top)<br />
+2. [杨晓明涉嫌严重违纪违法](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%99%93%E6%98%8E%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95%23&t=31&band_rank=2&Refer=top)<br />
+3. [1088人拟获全国五一劳动奖章](https://s.weibo.com/weibo?q=%231088%E4%BA%BA%E6%8B%9F%E8%8E%B7%E5%85%A8%E5%9B%BD%E4%BA%94%E4%B8%80%E5%8A%B3%E5%8A%A8%E5%A5%96%E7%AB%A0%23&t=31&band_rank=3&Refer=top)<br />
+4. [4个何炅](https://s.weibo.com/weibo?q=%234%E4%B8%AA%E4%BD%95%E7%82%85%23&t=31&band_rank=4&Refer=top)<br />
+5. [广州天气](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E5%A4%A9%E6%B0%94&t=31&band_rank=5&Refer=top)<br />
+6. [不够善良的我们 世另我](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%A4%9F%E5%96%84%E8%89%AF%E7%9A%84%E6%88%91%E4%BB%AC%20%E4%B8%96%E5%8F%A6%E6%88%91&t=31&band_rank=6&Refer=top)<br />
+7. [郝蕾怒批赵晴](https://s.weibo.com/weibo?q=%E9%83%9D%E8%95%BE%E6%80%92%E6%89%B9%E8%B5%B5%E6%99%B4&t=31&band_rank=7&Refer=top)<br />
+8. [迪丽热巴未修原图](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9C%AA%E4%BF%AE%E5%8E%9F%E5%9B%BE%23&t=31&band_rank=8&Refer=top)<br />
+9. [这届医学生唱跳都这么专业嘛](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%94%B1%E8%B7%B3%E9%83%BD%E8%BF%99%E4%B9%88%E4%B8%93%E4%B8%9A%E5%98%9B%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 
 > 百度  
 
-1. [习近平会见美国国务卿布林肯](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [史上最忙“五一”机票价格临时跳水](https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BF%99%E2%80%9C%E4%BA%94%E4%B8%80%E2%80%9D%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E4%B8%B4%E6%97%B6%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女生晒八年级妹妹价值888元点阵笔](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%99%92%E5%85%AB%E5%B9%B4%E7%BA%A7%E5%A6%B9%E5%A6%B9%E4%BB%B7%E5%80%BC888%E5%85%83%E7%82%B9%E9%98%B5%E7%AC%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [神舟起大漠 逐梦叩苍穹](https://www.baidu.com/s?wd=%E7%A5%9E%E8%88%9F%E8%B5%B7%E5%A4%A7%E6%BC%A0+%E9%80%90%E6%A2%A6%E5%8F%A9%E8%8B%8D%E7%A9%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [抗癌东东胃癌晚期去世](https://www.baidu.com/s?wd=%E6%8A%97%E7%99%8C%E4%B8%9C%E4%B8%9C%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多方回应甄嬛传是否下架](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%84%E5%AC%9B%E4%BC%A0%E6%98%AF%E5%90%A6%E4%B8%8B%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [普京透露访华计划：礼物都想好了](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E9%80%8F%E9%9C%B2%E8%AE%BF%E5%8D%8E%E8%AE%A1%E5%88%92%EF%BC%9A%E7%A4%BC%E7%89%A9%E9%83%BD%E6%83%B3%E5%A5%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山西午睡文化已经不分物种了](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%8D%88%E7%9D%A1%E6%96%87%E5%8C%96%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%88%86%E7%89%A9%E7%A7%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网约车被路政追赶致2死1伤不实](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%A2%AB%E8%B7%AF%E6%94%BF%E8%BF%BD%E8%B5%B6%E8%87%B42%E6%AD%BB1%E4%BC%A4%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [开创西部大开发新格局](https://www.baidu.com/s?wd=%E5%BC%80%E5%88%9B%E8%A5%BF%E9%83%A8%E5%A4%A7%E5%BC%80%E5%8F%91%E6%96%B0%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [爷爷离世前曾对监控跟孙女告别](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E7%A6%BB%E4%B8%96%E5%89%8D%E6%9B%BE%E5%AF%B9%E7%9B%91%E6%8E%A7%E8%B7%9F%E5%AD%99%E5%A5%B3%E5%91%8A%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [广州白云区龙卷风致5死33伤](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E7%99%BD%E4%BA%91%E5%8C%BA%E9%BE%99%E5%8D%B7%E9%A3%8E%E8%87%B45%E6%AD%BB33%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [共建绿色家园 畅享美好生活](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E7%BB%BF%E8%89%B2%E5%AE%B6%E5%9B%AD+%E7%95%85%E4%BA%AB%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [哈尔滨一住宅楼从中间裂开了](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E4%BD%8F%E5%AE%85%E6%A5%BC%E4%BB%8E%E4%B8%AD%E9%97%B4%E8%A3%82%E5%BC%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [官方回应广州一厂房被龙卷风吹翻](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%8E%82%E6%88%BF%E8%A2%AB%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%90%B9%E7%BF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山东小钺钺已转出ICU](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B0%8F%E9%92%BA%E9%92%BA%E5%B7%B2%E8%BD%AC%E5%87%BAICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [诺米说走红后累但比工地上好多了](https://www.baidu.com/s?wd=%E8%AF%BA%E7%B1%B3%E8%AF%B4%E8%B5%B0%E7%BA%A2%E5%90%8E%E7%B4%AF%E4%BD%86%E6%AF%94%E5%B7%A5%E5%9C%B0%E4%B8%8A%E5%A5%BD%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子蹦极时晕在半空？系演练](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B9%A6%E6%9E%81%E6%97%B6%E6%99%95%E5%9C%A8%E5%8D%8A%E7%A9%BA%EF%BC%9F%E7%B3%BB%E6%BC%94%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
-1. [习近平会见美国国务卿布林肯](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [史上最忙“五一”机票价格临时跳水](https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BF%99%E2%80%9C%E4%BA%94%E4%B8%80%E2%80%9D%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E4%B8%B4%E6%97%B6%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [女生晒八年级妹妹价值888元点阵笔](https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%99%92%E5%85%AB%E5%B9%B4%E7%BA%A7%E5%A6%B9%E5%A6%B9%E4%BB%B7%E5%80%BC888%E5%85%83%E7%82%B9%E9%98%B5%E7%AC%94&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [神舟起大漠 逐梦叩苍穹](https://www.baidu.com/s?wd=%E7%A5%9E%E8%88%9F%E8%B5%B7%E5%A4%A7%E6%BC%A0+%E9%80%90%E6%A2%A6%E5%8F%A9%E8%8B%8D%E7%A9%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [抗癌东东胃癌晚期去世](https://www.baidu.com/s?wd=%E6%8A%97%E7%99%8C%E4%B8%9C%E4%B8%9C%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [多方回应甄嬛传是否下架](https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%84%E5%AC%9B%E4%BC%A0%E6%98%AF%E5%90%A6%E4%B8%8B%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [普京透露访华计划：礼物都想好了](https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E9%80%8F%E9%9C%B2%E8%AE%BF%E5%8D%8E%E8%AE%A1%E5%88%92%EF%BC%9A%E7%A4%BC%E7%89%A9%E9%83%BD%E6%83%B3%E5%A5%BD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [山西午睡文化已经不分物种了](https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%8D%88%E7%9D%A1%E6%96%87%E5%8C%96%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%88%86%E7%89%A9%E7%A7%8D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网约车被路政追赶致2死1伤不实](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%A2%AB%E8%B7%AF%E6%94%BF%E8%BF%BD%E8%B5%B6%E8%87%B42%E6%AD%BB1%E4%BC%A4%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [开创西部大开发新格局](https://www.baidu.com/s?wd=%E5%BC%80%E5%88%9B%E8%A5%BF%E9%83%A8%E5%A4%A7%E5%BC%80%E5%8F%91%E6%96%B0%E6%A0%BC%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [爷爷离世前曾对监控跟孙女告别](https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E7%A6%BB%E4%B8%96%E5%89%8D%E6%9B%BE%E5%AF%B9%E7%9B%91%E6%8E%A7%E8%B7%9F%E5%AD%99%E5%A5%B3%E5%91%8A%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [广州白云区龙卷风致5死33伤](https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E7%99%BD%E4%BA%91%E5%8C%BA%E9%BE%99%E5%8D%B7%E9%A3%8E%E8%87%B45%E6%AD%BB33%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [共建绿色家园 畅享美好生活](https://www.baidu.com/s?wd=%E5%85%B1%E5%BB%BA%E7%BB%BF%E8%89%B2%E5%AE%B6%E5%9B%AD+%E7%95%85%E4%BA%AB%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [哈尔滨一住宅楼从中间裂开了](https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E4%BD%8F%E5%AE%85%E6%A5%BC%E4%BB%8E%E4%B8%AD%E9%97%B4%E8%A3%82%E5%BC%80%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [官方回应广州一厂房被龙卷风吹翻](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%8E%82%E6%88%BF%E8%A2%AB%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%90%B9%E7%BF%BB&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [山东小钺钺已转出ICU](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%B0%8F%E9%92%BA%E9%92%BA%E5%B7%B2%E8%BD%AC%E5%87%BAICU&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [诺米说走红后累但比工地上好多了](https://www.baidu.com/s?wd=%E8%AF%BA%E7%B1%B3%E8%AF%B4%E8%B5%B0%E7%BA%A2%E5%90%8E%E7%B4%AF%E4%BD%86%E6%AF%94%E5%B7%A5%E5%9C%B0%E4%B8%8A%E5%A5%BD%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [男子蹦极时晕在半空？系演练](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B9%A6%E6%9E%81%E6%97%B6%E6%99%95%E5%9C%A8%E5%8D%8A%E7%A9%BA%EF%BC%9F%E7%B3%BB%E6%BC%94%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news)<br />
