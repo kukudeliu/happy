@@ -1,40 +1,40 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-06-12 08:39:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-06-13 09:39:01</h4></div>
 
 > 微博  
 
-1. [新加坡门将感谢中国球迷](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%97%A8%E5%B0%86%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%23&t=31&band_rank=1&Refer=top)<br />
-2. [福宝营业了](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E8%90%A5%E4%B8%9A%E4%BA%86%23&t=31&band_rank=2&Refer=top)<br />
-3. [航拍视角看三夏时节麦收忙](https://s.weibo.com/weibo?q=%23%E8%88%AA%E6%8B%8D%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%89%E5%A4%8F%E6%97%B6%E8%8A%82%E9%BA%A6%E6%94%B6%E5%BF%99%23&t=31&band_rank=3&Refer=top)<br />
-4. [福宝出门前奶爸四川话碎碎念](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%87%BA%E9%97%A8%E5%89%8D%E5%A5%B6%E7%88%B8%E5%9B%9B%E5%B7%9D%E8%AF%9D%E7%A2%8E%E7%A2%8E%E5%BF%B5%23&t=31&band_rank=4&Refer=top)<br />
-5. [端午档近十年最差](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E6%A1%A3%E8%BF%91%E5%8D%81%E5%B9%B4%E6%9C%80%E5%B7%AE%23&t=31&band_rank=5&Refer=top)<br />
-6. [谭晶 九儿](https://s.weibo.com/weibo?q=%E8%B0%AD%E6%99%B6%20%E4%B9%9D%E5%84%BF&t=31&band_rank=6&Refer=top)<br />
-7. [刘亦菲为了气我真是什么戏都接](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%BA%E4%BA%86%E6%B0%94%E6%88%91%E7%9C%9F%E6%98%AF%E4%BB%80%E4%B9%88%E6%88%8F%E9%83%BD%E6%8E%A5%23&t=31&band_rank=7&Refer=top)<br />
-8. [一法国游客在俄发射场附近身亡](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%B3%95%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E4%BF%84%E5%8F%91%E5%B0%84%E5%9C%BA%E9%99%84%E8%BF%91%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top)<br />
-9. [按艺人出道顺序排序](https://s.weibo.com/weibo?q=%23%E6%8C%89%E8%89%BA%E4%BA%BA%E5%87%BA%E9%81%93%E9%A1%BA%E5%BA%8F%E6%8E%92%E5%BA%8F%23&t=31&band_rank=9&Refer=top)<br />
+1. [马斯克被曝要求女高管为其生孩子](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%9B%9D%E8%A6%81%E6%B1%82%E5%A5%B3%E9%AB%98%E7%AE%A1%E4%B8%BA%E5%85%B6%E7%94%9F%E5%AD%A9%E5%AD%90%23&t=31&band_rank=1&Refer=top)<br />
+2. [南京咖啡阿姨回应20多天赚几百万](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%92%96%E5%95%A1%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%9420%E5%A4%9A%E5%A4%A9%E8%B5%9A%E5%87%A0%E7%99%BE%E4%B8%87%23&t=31&band_rank=2&Refer=top)<br />
+3. [高考报志愿要了解的16个关键词](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%8A%A5%E5%BF%97%E6%84%BF%E8%A6%81%E4%BA%86%E8%A7%A3%E7%9A%8416%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%23&t=31&band_rank=3&Refer=top)<br />
+4. [胡歌进产房陪产剪脐带](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E8%BF%9B%E4%BA%A7%E6%88%BF%E9%99%AA%E4%BA%A7%E5%89%AA%E8%84%90%E5%B8%A6%23&t=31&band_rank=4&Refer=top)<br />
+5. [光与夜之恋](https://s.weibo.com/weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B&t=31&band_rank=5&Refer=top)<br />
+6. [奔驰宝马大众表态](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A4%A7%E4%BC%97%E8%A1%A8%E6%80%81%23&t=31&band_rank=6&Refer=top)<br />
+7. [iPhone15系列电量耗尽仍能显示时间](https://s.weibo.com/weibo?q=%23iPhone15%E7%B3%BB%E5%88%97%E7%94%B5%E9%87%8F%E8%80%97%E5%B0%BD%E4%BB%8D%E8%83%BD%E6%98%BE%E7%A4%BA%E6%97%B6%E9%97%B4%23&t=31&band_rank=7&Refer=top)<br />
+8. [逆水寒](https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92&t=31&band_rank=8&Refer=top)<br />
+9. [刘亦菲一部剧带火了5个人](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%80%E9%83%A8%E5%89%A7%E5%B8%A6%E7%81%AB%E4%BA%865%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 
 > 百度  
 
-1. [习近平主持中央深改委第五次会议](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E6%8C%81%E4%B8%AD%E5%A4%AE%E6%B7%B1%E6%94%B9%E5%A7%94%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [新加坡1-3泰国 国足幸运晋级18强赛](https://www.baidu.com/s?wd=%E6%96%B0%E5%8A%A0%E5%9D%A11-3%E6%B3%B0%E5%9B%BD+%E5%9B%BD%E8%B6%B3%E5%B9%B8%E8%BF%90%E6%99%8B%E7%BA%A718%E5%BC%BA%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [看福宝的最佳时间来了](https://www.baidu.com/s?wd=%E7%9C%8B%E7%A6%8F%E5%AE%9D%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E9%97%B4%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [这个端午节 文旅有点“火”](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%AB%AF%E5%8D%88%E8%8A%82+%E6%96%87%E6%97%85%E6%9C%89%E7%82%B9%E2%80%9C%E7%81%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [国足球迷感谢新加坡](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E7%90%83%E8%BF%B7%E6%84%9F%E8%B0%A2%E6%96%B0%E5%8A%A0%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [哈马斯为何终于接受停火决议](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E4%B8%BA%E4%BD%95%E7%BB%88%E4%BA%8E%E6%8E%A5%E5%8F%97%E5%81%9C%E7%81%AB%E5%86%B3%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新西兰女子携带人类心脏入境澳洲](https://www.baidu.com/s?wd=%E6%96%B0%E8%A5%BF%E5%85%B0%E5%A5%B3%E5%AD%90%E6%90%BA%E5%B8%A6%E4%BA%BA%E7%B1%BB%E5%BF%83%E8%84%8F%E5%85%A5%E5%A2%83%E6%BE%B3%E6%B4%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩第一夫人拎环保袋出访被批作秀](https://www.baidu.com/s?wd=%E9%9F%A9%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E6%8B%8E%E7%8E%AF%E4%BF%9D%E8%A2%8B%E5%87%BA%E8%AE%BF%E8%A2%AB%E6%89%B9%E4%BD%9C%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网传珠峰将无限期关闭？不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%8F%A0%E5%B3%B0%E5%B0%86%E6%97%A0%E9%99%90%E6%9C%9F%E5%85%B3%E9%97%AD%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平给中科院院士姚期智回信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%99%E4%B8%AD%E7%A7%91%E9%99%A2%E9%99%A2%E5%A3%AB%E5%A7%9A%E6%9C%9F%E6%99%BA%E5%9B%9E%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [退休大爷6元买到“军事机密”](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%91%E5%A4%A7%E7%88%B76%E5%85%83%E4%B9%B0%E5%88%B0%E2%80%9C%E5%86%9B%E4%BA%8B%E6%9C%BA%E5%AF%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [是时候准备好应对40℃的世界了](https://www.baidu.com/s?wd=%E6%98%AF%E6%97%B6%E5%80%99%E5%87%86%E5%A4%87%E5%A5%BD%E5%BA%94%E5%AF%B940%E2%84%83%E7%9A%84%E4%B8%96%E7%95%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [“假日经济”升温](https://www.baidu.com/s?wd=%E2%80%9C%E5%81%87%E6%97%A5%E7%BB%8F%E6%B5%8E%E2%80%9D%E5%8D%87%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [刘亦菲一部剧带火了5个人](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%80%E9%83%A8%E5%89%A7%E5%B8%A6%E7%81%AB%E4%BA%865%E4%B8%AA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [森林北报案](https://www.baidu.com/s?wd=%E6%A3%AE%E6%9E%97%E5%8C%97%E6%8A%A5%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [妈妈让28岁未婚未育女儿回家啃老](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E8%AE%A928%E5%B2%81%E6%9C%AA%E5%A9%9A%E6%9C%AA%E8%82%B2%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%AE%B6%E5%95%83%E8%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国女游客在泰国遭假摩的司机性侵](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E5%81%87%E6%91%A9%E7%9A%84%E5%8F%B8%E6%9C%BA%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [南宁龙舟翻船致人员伤亡？假](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E9%BE%99%E8%88%9F%E7%BF%BB%E8%88%B9%E8%87%B4%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1%EF%BC%9F%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
-1. [习近平主持中央深改委第五次会议](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E6%8C%81%E4%B8%AD%E5%A4%AE%E6%B7%B1%E6%94%B9%E5%A7%94%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [新加坡1-3泰国 国足幸运晋级18强赛](https://www.baidu.com/s?wd=%E6%96%B0%E5%8A%A0%E5%9D%A11-3%E6%B3%B0%E5%9B%BD+%E5%9B%BD%E8%B6%B3%E5%B9%B8%E8%BF%90%E6%99%8B%E7%BA%A718%E5%BC%BA%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [看福宝的最佳时间来了](https://www.baidu.com/s?wd=%E7%9C%8B%E7%A6%8F%E5%AE%9D%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E9%97%B4%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [这个端午节 文旅有点“火”](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%AB%AF%E5%8D%88%E8%8A%82+%E6%96%87%E6%97%85%E6%9C%89%E7%82%B9%E2%80%9C%E7%81%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [国足球迷感谢新加坡](https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E7%90%83%E8%BF%B7%E6%84%9F%E8%B0%A2%E6%96%B0%E5%8A%A0%E5%9D%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [哈马斯为何终于接受停火决议](https://www.baidu.com/s?wd=%E5%93%88%E9%A9%AC%E6%96%AF%E4%B8%BA%E4%BD%95%E7%BB%88%E4%BA%8E%E6%8E%A5%E5%8F%97%E5%81%9C%E7%81%AB%E5%86%B3%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [新西兰女子携带人类心脏入境澳洲](https://www.baidu.com/s?wd=%E6%96%B0%E8%A5%BF%E5%85%B0%E5%A5%B3%E5%AD%90%E6%90%BA%E5%B8%A6%E4%BA%BA%E7%B1%BB%E5%BF%83%E8%84%8F%E5%85%A5%E5%A2%83%E6%BE%B3%E6%B4%B2&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [韩第一夫人拎环保袋出访被批作秀](https://www.baidu.com/s?wd=%E9%9F%A9%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E6%8B%8E%E7%8E%AF%E4%BF%9D%E8%A2%8B%E5%87%BA%E8%AE%BF%E8%A2%AB%E6%89%B9%E4%BD%9C%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [网传珠峰将无限期关闭？不实](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%8F%A0%E5%B3%B0%E5%B0%86%E6%97%A0%E9%99%90%E6%9C%9F%E5%85%B3%E9%97%AD%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [习近平给中科院院士姚期智回信](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%99%E4%B8%AD%E7%A7%91%E9%99%A2%E9%99%A2%E5%A3%AB%E5%A7%9A%E6%9C%9F%E6%99%BA%E5%9B%9E%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [退休大爷6元买到“军事机密”](https://www.baidu.com/s?wd=%E9%80%80%E4%BC%91%E5%A4%A7%E7%88%B76%E5%85%83%E4%B9%B0%E5%88%B0%E2%80%9C%E5%86%9B%E4%BA%8B%E6%9C%BA%E5%AF%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [是时候准备好应对40℃的世界了](https://www.baidu.com/s?wd=%E6%98%AF%E6%97%B6%E5%80%99%E5%87%86%E5%A4%87%E5%A5%BD%E5%BA%94%E5%AF%B940%E2%84%83%E7%9A%84%E4%B8%96%E7%95%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [“假日经济”升温](https://www.baidu.com/s?wd=%E2%80%9C%E5%81%87%E6%97%A5%E7%BB%8F%E6%B5%8E%E2%80%9D%E5%8D%87%E6%B8%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [刘亦菲一部剧带火了5个人](https://www.baidu.com/s?wd=%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%80%E9%83%A8%E5%89%A7%E5%B8%A6%E7%81%AB%E4%BA%865%E4%B8%AA%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [森林北报案](https://www.baidu.com/s?wd=%E6%A3%AE%E6%9E%97%E5%8C%97%E6%8A%A5%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [妈妈让28岁未婚未育女儿回家啃老](https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E8%AE%A928%E5%B2%81%E6%9C%AA%E5%A9%9A%E6%9C%AA%E8%82%B2%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%AE%B6%E5%95%83%E8%80%81&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [中国女游客在泰国遭假摩的司机性侵](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E5%81%87%E6%91%A9%E7%9A%84%E5%8F%B8%E6%9C%BA%E6%80%A7%E4%BE%B5&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [南宁龙舟翻船致人员伤亡？假](https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E9%BE%99%E8%88%9F%E7%BF%BB%E8%88%B9%E8%87%B4%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1%EF%BC%9F%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)<br />
