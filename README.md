@@ -1,16 +1,16 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-07-03 18:14:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-07-03 21:22:01</h4></div>
 
 > 微博  
 
-1. [CP30 杭州](https://s.weibo.com/weibo?q=CP30%20%E6%9D%AD%E5%B7%9E&t=31&band_rank=1&Refer=top)<br />
-2. [西藏文旅回复薛之谦](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E6%96%87%E6%97%85%E5%9B%9E%E5%A4%8D%E8%96%9B%E4%B9%8B%E8%B0%A6%23&t=31&band_rank=2&Refer=top)<br />
-3. [哈萨克斯坦天空现中国国旗色彩带](https://s.weibo.com/weibo?q=%23%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%E5%A4%A9%E7%A9%BA%E7%8E%B0%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97%E8%89%B2%E5%BD%A9%E5%B8%A6%23&t=31&band_rank=3&Refer=top)<br />
-4. [李雪琴 游泳证](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%9B%AA%E7%90%B4%20%E6%B8%B8%E6%B3%B3%E8%AF%81&t=31&band_rank=4&Refer=top)<br />
-5. [A股成交额不足6000亿](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%88%90%E4%BA%A4%E9%A2%9D%E4%B8%8D%E8%B6%B36000%E4%BA%BF%23&t=31&band_rank=5&Refer=top)<br />
-6. [一只福寿螺可含6000条寄生虫](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%AA%E7%A6%8F%E5%AF%BF%E8%9E%BA%E5%8F%AF%E5%90%AB6000%E6%9D%A1%E5%AF%84%E7%94%9F%E8%99%AB%23&t=31&band_rank=6&Refer=top)<br />
-7. [张凌赫胖过但没丑过](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%83%96%E8%BF%87%E4%BD%86%E6%B2%A1%E4%B8%91%E8%BF%87&t=31&band_rank=7&Refer=top)<br />
-8. [刘亦菲小魔女妆造](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%B0%8F%E9%AD%94%E5%A5%B3%E5%A6%86%E9%80%A0%23&t=31&band_rank=8&Refer=top)<br />
-9. [一所被低估的211大学](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%89%80%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84211%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=9&Refer=top)<br />
+1. [女子吃1斤见手青后看见一屋人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%831%E6%96%A4%E8%A7%81%E6%89%8B%E9%9D%92%E5%90%8E%E7%9C%8B%E8%A7%81%E4%B8%80%E5%B1%8B%E4%BA%BA%23&t=31&band_rank=1&Refer=top)<br />
+2. [西交大回应校领导与学生不正当关系](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E4%BA%A4%E5%A4%A7%E5%9B%9E%E5%BA%94%E6%A0%A1%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%AD%A6%E7%94%9F%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB%23&t=31&band_rank=2&Refer=top)<br />
+3. [一个街名见证中哈友谊历久弥新](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E8%A1%97%E5%90%8D%E8%A7%81%E8%AF%81%E4%B8%AD%E5%93%88%E5%8F%8B%E8%B0%8A%E5%8E%86%E4%B9%85%E5%BC%A5%E6%96%B0%23&t=31&band_rank=3&Refer=top)<br />
+4. [日本男子新加坡性侵女学生被判鞭刑](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%88%A4%E9%9E%AD%E5%88%91%23&t=31&band_rank=4&Refer=top)<br />
+5. [中金称网传员工跳楼系谣言](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%87%91%E7%A7%B0%E7%BD%91%E4%BC%A0%E5%91%98%E5%B7%A5%E8%B7%B3%E6%A5%BC%E7%B3%BB%E8%B0%A3%E8%A8%80%23&t=31&band_rank=5&Refer=top)<br />
+6. [这竟然是刘昊然](https://s.weibo.com/weibo?q=%E8%BF%99%E7%AB%9F%E7%84%B6%E6%98%AF%E5%88%98%E6%98%8A%E7%84%B6&t=31&band_rank=6&Refer=top)<br />
+7. [后来赵霁活成了宛瑜的样子](https://s.weibo.com/weibo?q=%E5%90%8E%E6%9D%A5%E8%B5%B5%E9%9C%81%E6%B4%BB%E6%88%90%E4%BA%86%E5%AE%9B%E7%91%9C%E7%9A%84%E6%A0%B7%E5%AD%90&t=31&band_rank=7&Refer=top)<br />
+8. [中餐厅8合伙人阵容官宣](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%858%E5%90%88%E4%BC%99%E4%BA%BA%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=8&Refer=top)<br />
+9. [上海暴雨](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
@@ -18,23 +18,23 @@
 > 百度  
 
 1. [习近平主席中亚之行在歌声中开启](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E4%B8%AD%E4%BA%9A%E4%B9%8B%E8%A1%8C%E5%9C%A8%E6%AD%8C%E5%A3%B0%E4%B8%AD%E5%BC%80%E5%90%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [河南胡辣汤店燃气闪爆20人受伤](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%83%A1%E8%BE%A3%E6%B1%A4%E5%BA%97%E7%87%83%E6%B0%94%E9%97%AA%E7%88%8620%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [韩国百万人请愿：弹劾总统尹锡悦](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%99%BE%E4%B8%87%E4%BA%BA%E8%AF%B7%E6%84%BF%EF%BC%9A%E5%BC%B9%E5%8A%BE%E6%80%BB%E7%BB%9F%E5%B0%B9%E9%94%A1%E6%82%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [16次高考的唐尚珺称明年不考了](https://www.baidu.com/s?wd=16%E6%AC%A1%E9%AB%98%E8%80%83%E7%9A%84%E5%94%90%E5%B0%9A%E7%8F%BA%E7%A7%B0%E6%98%8E%E5%B9%B4%E4%B8%8D%E8%80%83%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [西宁通报2名同班初中生先后离世](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%81%E9%80%9A%E6%8A%A52%E5%90%8D%E5%90%8C%E7%8F%AD%E5%88%9D%E4%B8%AD%E7%94%9F%E5%85%88%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [上合组织何以“走在时代前列”](https://www.baidu.com/s?wd=%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E4%BD%95%E4%BB%A5%E2%80%9C%E8%B5%B0%E5%9C%A8%E6%97%B6%E4%BB%A3%E5%89%8D%E5%88%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [在北大学考古的湖南留守女孩毕业](https://www.baidu.com/s?wd=%E5%9C%A8%E5%8C%97%E5%A4%A7%E5%AD%A6%E8%80%83%E5%8F%A4%E7%9A%84%E6%B9%96%E5%8D%97%E7%95%99%E5%AE%88%E5%A5%B3%E5%AD%A9%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [武汉江滩大蛇爬上监控杆](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%B1%9F%E6%BB%A9%E5%A4%A7%E8%9B%87%E7%88%AC%E4%B8%8A%E7%9B%91%E6%8E%A7%E6%9D%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [人民币汇率跌破7.31 未来如何走](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E8%B7%8C%E7%A0%B47.31+%E6%9C%AA%E6%9D%A5%E5%A6%82%E4%BD%95%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [凯美瑞只卖12万了](https://www.baidu.com/s?wd=%E5%87%AF%E7%BE%8E%E7%91%9E%E5%8F%AA%E5%8D%9612%E4%B8%87%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子吃1斤见手青后看见一屋人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%831%E6%96%A4%E8%A7%81%E6%89%8B%E9%9D%92%E5%90%8E%E7%9C%8B%E8%A7%81%E4%B8%80%E5%B1%8B%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小孩哥地铁看书遇北大博导](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%9C%B0%E9%93%81%E7%9C%8B%E4%B9%A6%E9%81%87%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#电影默杀#](https://www.baidu.com/s?wd=%23%E7%94%B5%E5%BD%B1%E9%BB%98%E6%9D%80%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [福建一儿童被拐卖？警方辟谣](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%8B%90%E5%8D%96%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [罐头食品没营养不健康？不准确](https://www.baidu.com/s?wd=%E7%BD%90%E5%A4%B4%E9%A3%9F%E5%93%81%E6%B2%A1%E8%90%A5%E5%85%BB%E4%B8%8D%E5%81%A5%E5%BA%B7%EF%BC%9F%E4%B8%8D%E5%87%86%E7%A1%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
 1. [习近平主席中亚之行在歌声中开启](https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E4%B8%AD%E4%BA%9A%E4%B9%8B%E8%A1%8C%E5%9C%A8%E6%AD%8C%E5%A3%B0%E4%B8%AD%E5%BC%80%E5%90%AF&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [河南胡辣汤店燃气闪爆20人受伤](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%83%A1%E8%BE%A3%E6%B1%A4%E5%BA%97%E7%87%83%E6%B0%94%E9%97%AA%E7%88%8620%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [韩国百万人请愿：弹劾总统尹锡悦](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%99%BE%E4%B8%87%E4%BA%BA%E8%AF%B7%E6%84%BF%EF%BC%9A%E5%BC%B9%E5%8A%BE%E6%80%BB%E7%BB%9F%E5%B0%B9%E9%94%A1%E6%82%A6&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [16次高考的唐尚珺称明年不考了](https://www.baidu.com/s?wd=16%E6%AC%A1%E9%AB%98%E8%80%83%E7%9A%84%E5%94%90%E5%B0%9A%E7%8F%BA%E7%A7%B0%E6%98%8E%E5%B9%B4%E4%B8%8D%E8%80%83%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [西宁通报2名同班初中生先后离世](https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%81%E9%80%9A%E6%8A%A52%E5%90%8D%E5%90%8C%E7%8F%AD%E5%88%9D%E4%B8%AD%E7%94%9F%E5%85%88%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)<br />
 4. [上合组织何以“走在时代前列”](https://www.baidu.com/s?wd=%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E4%BD%95%E4%BB%A5%E2%80%9C%E8%B5%B0%E5%9C%A8%E6%97%B6%E4%BB%A3%E5%89%8D%E5%88%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [在北大学考古的湖南留守女孩毕业](https://www.baidu.com/s?wd=%E5%9C%A8%E5%8C%97%E5%A4%A7%E5%AD%A6%E8%80%83%E5%8F%A4%E7%9A%84%E6%B9%96%E5%8D%97%E7%95%99%E5%AE%88%E5%A5%B3%E5%AD%A9%E6%AF%95%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [武汉江滩大蛇爬上监控杆](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%B1%9F%E6%BB%A9%E5%A4%A7%E8%9B%87%E7%88%AC%E4%B8%8A%E7%9B%91%E6%8E%A7%E6%9D%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [人民币汇率跌破7.31 未来如何走](https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E8%B7%8C%E7%A0%B47.31+%E6%9C%AA%E6%9D%A5%E5%A6%82%E4%BD%95%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [凯美瑞只卖12万了](https://www.baidu.com/s?wd=%E5%87%AF%E7%BE%8E%E7%91%9E%E5%8F%AA%E5%8D%9612%E4%B8%87%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [女子吃1斤见手青后看见一屋人](https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%831%E6%96%A4%E8%A7%81%E6%89%8B%E9%9D%92%E5%90%8E%E7%9C%8B%E8%A7%81%E4%B8%80%E5%B1%8B%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [小孩哥地铁看书遇北大博导](https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%9C%B0%E9%93%81%E7%9C%8B%E4%B9%A6%E9%81%87%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%AF%BC&sa=fyb_news&rsv_dl=fyb_news)<br />
 8. [#电影默杀#](https://www.baidu.com/s?wd=%23%E7%94%B5%E5%BD%B1%E9%BB%98%E6%9D%80%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [福建一儿童被拐卖？警方辟谣](https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%84%BF%E7%AB%A5%E8%A2%AB%E6%8B%90%E5%8D%96%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [罐头食品没营养不健康？不准确](https://www.baidu.com/s?wd=%E7%BD%90%E5%A4%B4%E9%A3%9F%E5%93%81%E6%B2%A1%E8%90%A5%E5%85%BB%E4%B8%8D%E5%81%A5%E5%BA%B7%EF%BC%9F%E4%B8%8D%E5%87%86%E7%A1%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
