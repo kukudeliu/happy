@@ -1,40 +1,40 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-07-14 11:28:01</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-07-24 13:36:01</h4></div>
 
 > 微博  
 
-1. [特朗普称右耳被子弹击穿](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%B3%E8%80%B3%E8%A2%AB%E5%AD%90%E5%BC%B9%E5%87%BB%E7%A9%BF%23&t=31&band_rank=1&Refer=top)<br />
-2. [枪手距特朗普约180米至275米](https://s.weibo.com/weibo?q=%23%E6%9E%AA%E6%89%8B%E8%B7%9D%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A6180%E7%B1%B3%E8%87%B3275%E7%B1%B3%23&t=31&band_rank=2&Refer=top)<br />
-3. [微观中国深改之变](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%A7%82%E4%B8%AD%E5%9B%BD%E6%B7%B1%E6%94%B9%E4%B9%8B%E5%8F%98%23&t=31&band_rank=3&Refer=top)<br />
-4. [特朗普遭遇枪击](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E9%81%87%E6%9E%AA%E5%87%BB%23&t=31&band_rank=4&Refer=top)<br />
-5. [Henry没认出黄磊](https://s.weibo.com/weibo?q=%23Henry%E6%B2%A1%E8%AE%A4%E5%87%BA%E9%BB%84%E7%A3%8A%23&t=31&band_rank=5&Refer=top)<br />
-6. [少年白马醉春风](https://s.weibo.com/weibo?q=%E5%B0%91%E5%B9%B4%E7%99%BD%E9%A9%AC%E9%86%89%E6%98%A5%E9%A3%8E&t=31&band_rank=6&Refer=top)<br />
-7. [难怪陈奕迅演唱会不让带相机](https://s.weibo.com/weibo?q=%E9%9A%BE%E6%80%AA%E9%99%88%E5%A5%95%E8%BF%85%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8D%E8%AE%A9%E5%B8%A6%E7%9B%B8%E6%9C%BA&t=31&band_rank=7&Refer=top)<br />
-8. [老人要报40元团4天3晚游桂林](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A6%81%E6%8A%A540%E5%85%83%E5%9B%A24%E5%A4%A93%E6%99%9A%E6%B8%B8%E6%A1%82%E6%9E%97%23&t=31&band_rank=8&Refer=top)<br />
-9. [佟大为让非诚勿扰女嘉宾向黄亦玫学习](https://s.weibo.com/weibo?q=%E4%BD%9F%E5%A4%A7%E4%B8%BA%E8%AE%A9%E9%9D%9E%E8%AF%9A%E5%8B%BF%E6%89%B0%E5%A5%B3%E5%98%89%E5%AE%BE%E5%90%91%E9%BB%84%E4%BA%A6%E7%8E%AB%E5%AD%A6%E4%B9%A0&t=31&band_rank=9&Refer=top)<br />
+1. [生命树 杨紫胡歌](https://s.weibo.com/weibo?q=%E7%94%9F%E5%91%BD%E6%A0%91%20%E6%9D%A8%E7%B4%AB%E8%83%A1%E6%AD%8C&t=31&band_rank=1&Refer=top)<br />
+2. [巴黎奥运审美吐槽不了一点](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E5%AE%A1%E7%BE%8E%E5%90%90%E6%A7%BD%E4%B8%8D%E4%BA%86%E4%B8%80%E7%82%B9%23&t=31&band_rank=2&Refer=top)<br />
+3. [中国奥运健儿带来的感动瞬间](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%A5%E8%BF%90%E5%81%A5%E5%84%BF%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%84%9F%E5%8A%A8%E7%9E%AC%E9%97%B4%23&t=31&band_rank=3&Refer=top)<br />
+4. [美国男子强暴14岁少女判11年](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E5%BC%BA%E6%9A%B414%E5%B2%81%E5%B0%91%E5%A5%B3%E5%88%A411%E5%B9%B4%23&t=31&band_rank=4&Refer=top)<br />
+5. [歌王之战帮唱阵容官宣](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E7%8E%8B%E4%B9%8B%E6%88%98%E5%B8%AE%E5%94%B1%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=5&Refer=top)<br />
+6. [澳大利亚女子在巴黎疑遭5人性侵](https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%B7%B4%E9%BB%8E%E7%96%91%E9%81%AD5%E4%BA%BA%E6%80%A7%E4%BE%B5%23&t=31&band_rank=6&Refer=top)<br />
+7. [歌王之战官宣张杰](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E7%8E%8B%E4%B9%8B%E6%88%98%E5%AE%98%E5%AE%A3%E5%BC%A0%E6%9D%B0%23&t=31&band_rank=7&Refer=top)<br />
+8. [种地吧](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7&t=31&band_rank=8&Refer=top)<br />
+9. [奶茶店为四五十岁女性设熬煮岗](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E4%B8%BA%E5%9B%9B%E4%BA%94%E5%8D%81%E5%B2%81%E5%A5%B3%E6%80%A7%E8%AE%BE%E7%86%AC%E7%85%AE%E5%B2%97%23&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 
 > 百度  
 
-1. [“3820”里的开放密码](https://www.baidu.com/s?wd=%E2%80%9C3820%E2%80%9D%E9%87%8C%E7%9A%84%E5%BC%80%E6%94%BE%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [伊拉克被迫暂停人民币结算](https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E8%A2%AB%E8%BF%AB%E6%9A%82%E5%81%9C%E4%BA%BA%E6%B0%91%E5%B8%81%E7%BB%93%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [拜登：这种暴力在美国无立足之地](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E8%BF%99%E7%A7%8D%E6%9A%B4%E5%8A%9B%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%97%A0%E7%AB%8B%E8%B6%B3%E4%B9%8B%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [超大市场潜力加速释放](https://www.baidu.com/s?wd=%E8%B6%85%E5%A4%A7%E5%B8%82%E5%9C%BA%E6%BD%9C%E5%8A%9B%E5%8A%A0%E9%80%9F%E9%87%8A%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [特朗普集会枪击事件 观众1死2伤](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%86%E4%BC%9A%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6+%E8%A7%82%E4%BC%971%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [30余万元本金3年半滚到4553万元](https://www.baidu.com/s?wd=30%E4%BD%99%E4%B8%87%E5%85%83%E6%9C%AC%E9%87%913%E5%B9%B4%E5%8D%8A%E6%BB%9A%E5%88%B04553%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [主人喊醒睡着猫咪 被小猫教育了](https://www.baidu.com/s?wd=%E4%B8%BB%E4%BA%BA%E5%96%8A%E9%86%92%E7%9D%A1%E7%9D%80%E7%8C%AB%E5%92%AA+%E8%A2%AB%E5%B0%8F%E7%8C%AB%E6%95%99%E8%82%B2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方发声：坚决清除五类腐败分子](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%8F%91%E5%A3%B0%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%B8%85%E9%99%A4%E4%BA%94%E7%B1%BB%E8%85%90%E8%B4%A5%E5%88%86%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆辟谣长寿湖发现10米长巨物](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E9%95%BF%E5%AF%BF%E6%B9%96%E5%8F%91%E7%8E%B010%E7%B1%B3%E9%95%BF%E5%B7%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [这个纲领性文件是如何诞生的](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%BA%B2%E9%A2%86%E6%80%A7%E6%96%87%E4%BB%B6%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [华谊兄弟10亿买的股权 拟3.5亿卖了](https://www.baidu.com/s?wd=%E5%8D%8E%E8%B0%8A%E5%85%84%E5%BC%9F10%E4%BA%BF%E4%B9%B0%E7%9A%84%E8%82%A1%E6%9D%83+%E6%8B%9F3.5%E4%BA%BF%E5%8D%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [马龙成奥运会5A级打卡点](https://www.baidu.com/s?wd=%E9%A9%AC%E9%BE%99%E6%88%90%E5%A5%A5%E8%BF%90%E4%BC%9A5A%E7%BA%A7%E6%89%93%E5%8D%A1%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [夏日经济 乘“热”而上](https://www.baidu.com/s?wd=%E5%A4%8F%E6%97%A5%E7%BB%8F%E6%B5%8E+%E4%B9%98%E2%80%9C%E7%83%AD%E2%80%9D%E8%80%8C%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [今年首个台风红警 格美变超强台风](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%AD%A6+%E6%A0%BC%E7%BE%8E%E5%8F%98%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国奥运首金呼之欲出](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%A5%E8%BF%90%E9%A6%96%E9%87%91%E5%91%BC%E4%B9%8B%E6%AC%B2%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [刘畊宏谈定居苏州公园多到超乎想象](https://www.baidu.com/s?wd=%E5%88%98%E7%95%8A%E5%AE%8F%E8%B0%88%E5%AE%9A%E5%B1%85%E8%8B%8F%E5%B7%9E%E5%85%AC%E5%9B%AD%E5%A4%9A%E5%88%B0%E8%B6%85%E4%B9%8E%E6%83%B3%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [富士山下泉水池中硬币达1米厚](https://www.baidu.com/s?wd=%E5%AF%8C%E5%A3%AB%E5%B1%B1%E4%B8%8B%E6%B3%89%E6%B0%B4%E6%B1%A0%E4%B8%AD%E7%A1%AC%E5%B8%81%E8%BE%BE1%E7%B1%B3%E5%8E%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [故宫辟谣安装汽车共享充电桩](https://www.baidu.com/s?wd=%E6%95%85%E5%AE%AB%E8%BE%9F%E8%B0%A3%E5%AE%89%E8%A3%85%E6%B1%BD%E8%BD%A6%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E6%A1%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
-1. [“3820”里的开放密码](https://www.baidu.com/s?wd=%E2%80%9C3820%E2%80%9D%E9%87%8C%E7%9A%84%E5%BC%80%E6%94%BE%E5%AF%86%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [伊拉克被迫暂停人民币结算](https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E8%A2%AB%E8%BF%AB%E6%9A%82%E5%81%9C%E4%BA%BA%E6%B0%91%E5%B8%81%E7%BB%93%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [拜登：这种暴力在美国无立足之地](https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E8%BF%99%E7%A7%8D%E6%9A%B4%E5%8A%9B%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%97%A0%E7%AB%8B%E8%B6%B3%E4%B9%8B%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [超大市场潜力加速释放](https://www.baidu.com/s?wd=%E8%B6%85%E5%A4%A7%E5%B8%82%E5%9C%BA%E6%BD%9C%E5%8A%9B%E5%8A%A0%E9%80%9F%E9%87%8A%E6%94%BE&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [特朗普集会枪击事件 观众1死2伤](https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%86%E4%BC%9A%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6+%E8%A7%82%E4%BC%971%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [30余万元本金3年半滚到4553万元](https://www.baidu.com/s?wd=30%E4%BD%99%E4%B8%87%E5%85%83%E6%9C%AC%E9%87%913%E5%B9%B4%E5%8D%8A%E6%BB%9A%E5%88%B04553%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [主人喊醒睡着猫咪 被小猫教育了](https://www.baidu.com/s?wd=%E4%B8%BB%E4%BA%BA%E5%96%8A%E9%86%92%E7%9D%A1%E7%9D%80%E7%8C%AB%E5%92%AA+%E8%A2%AB%E5%B0%8F%E7%8C%AB%E6%95%99%E8%82%B2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [官方发声：坚决清除五类腐败分子](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%8F%91%E5%A3%B0%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%B8%85%E9%99%A4%E4%BA%94%E7%B1%BB%E8%85%90%E8%B4%A5%E5%88%86%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [重庆辟谣长寿湖发现10米长巨物](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%BE%9F%E8%B0%A3%E9%95%BF%E5%AF%BF%E6%B9%96%E5%8F%91%E7%8E%B010%E7%B1%B3%E9%95%BF%E5%B7%A8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [这个纲领性文件是如何诞生的](https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E7%BA%B2%E9%A2%86%E6%80%A7%E6%96%87%E4%BB%B6%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [华谊兄弟10亿买的股权 拟3.5亿卖了](https://www.baidu.com/s?wd=%E5%8D%8E%E8%B0%8A%E5%85%84%E5%BC%9F10%E4%BA%BF%E4%B9%B0%E7%9A%84%E8%82%A1%E6%9D%83+%E6%8B%9F3.5%E4%BA%BF%E5%8D%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [马龙成奥运会5A级打卡点](https://www.baidu.com/s?wd=%E9%A9%AC%E9%BE%99%E6%88%90%E5%A5%A5%E8%BF%90%E4%BC%9A5A%E7%BA%A7%E6%89%93%E5%8D%A1%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [夏日经济 乘“热”而上](https://www.baidu.com/s?wd=%E5%A4%8F%E6%97%A5%E7%BB%8F%E6%B5%8E+%E4%B9%98%E2%80%9C%E7%83%AD%E2%80%9D%E8%80%8C%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [今年首个台风红警 格美变超强台风](https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%AD%A6+%E6%A0%BC%E7%BE%8E%E5%8F%98%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [中国奥运首金呼之欲出](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%A5%E8%BF%90%E9%A6%96%E9%87%91%E5%91%BC%E4%B9%8B%E6%AC%B2%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [刘畊宏谈定居苏州公园多到超乎想象](https://www.baidu.com/s?wd=%E5%88%98%E7%95%8A%E5%AE%8F%E8%B0%88%E5%AE%9A%E5%B1%85%E8%8B%8F%E5%B7%9E%E5%85%AC%E5%9B%AD%E5%A4%9A%E5%88%B0%E8%B6%85%E4%B9%8E%E6%83%B3%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [富士山下泉水池中硬币达1米厚](https://www.baidu.com/s?wd=%E5%AF%8C%E5%A3%AB%E5%B1%B1%E4%B8%8B%E6%B3%89%E6%B0%B4%E6%B1%A0%E4%B8%AD%E7%A1%AC%E5%B8%81%E8%BE%BE1%E7%B1%B3%E5%8E%9A&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [故宫辟谣安装汽车共享充电桩](https://www.baidu.com/s?wd=%E6%95%85%E5%AE%AB%E8%BE%9F%E8%B0%A3%E5%AE%89%E8%A3%85%E6%B1%BD%E8%BD%A6%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E6%A1%A9&sa=fyb_news&rsv_dl=fyb_news)<br />
