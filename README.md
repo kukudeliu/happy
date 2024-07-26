@@ -1,40 +1,40 @@
-<div align="center"><h2>实时热搜榜</h2><h4>2024-07-25 21:37:02</h4></div>
+<div align="center"><h2>实时热搜榜</h2><h4>2024-07-27 02:38:01</h4></div>
 
 > 微博  
 
-1. [河南小伙高考529分被清华录取](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%B0%8F%E4%BC%99%E9%AB%98%E8%80%83529%E5%88%86%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=1&Refer=top)<br />
-2. [还我妈生鼻](https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%88%91%E5%A6%88%E7%94%9F%E9%BC%BB%23&t=31&band_rank=2&Refer=top)<br />
-3. [北京时间版奥运观赛日历](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4%E7%89%88%E5%A5%A5%E8%BF%90%E8%A7%82%E8%B5%9B%E6%97%A5%E5%8E%86%23&t=31&band_rank=3&Refer=top)<br />
-4. [偶遇霍思燕带女儿喝下午茶](https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E9%9C%8D%E6%80%9D%E7%87%95%E5%B8%A6%E5%A5%B3%E5%84%BF%E5%96%9D%E4%B8%8B%E5%8D%88%E8%8C%B6%23&t=31&band_rank=4&Refer=top)<br />
-5. [台风格美在福建沿海登陆](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A0%BC%E7%BE%8E%E5%9C%A8%E7%A6%8F%E5%BB%BA%E6%B2%BF%E6%B5%B7%E7%99%BB%E9%99%86%23&t=31&band_rank=5&Refer=top)<br />
-6. [为啥打耳洞不会有肉被捅出来](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E6%89%93%E8%80%B3%E6%B4%9E%E4%B8%8D%E4%BC%9A%E6%9C%89%E8%82%89%E8%A2%AB%E6%8D%85%E5%87%BA%E6%9D%A5%23&t=31&band_rank=6&Refer=top)<br />
-7. [刘梓晨](https://s.weibo.com/weibo?q=%E5%88%98%E6%A2%93%E6%99%A8&t=31&band_rank=7&Refer=top)<br />
-8. [台风登陆](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E7%99%BB%E9%99%86&t=31&band_rank=8&Refer=top)<br />
-9. [夏之光 亲什么嘴儿啊](https://s.weibo.com/weibo?q=%E5%A4%8F%E4%B9%8B%E5%85%89%20%E4%BA%B2%E4%BB%80%E4%B9%88%E5%98%B4%E5%84%BF%E5%95%8A&t=31&band_rank=9&Refer=top)<br />
+1. [巴黎奥运开幕式](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F&t=31&band_rank=1&Refer=top)<br />
+2. [开幕式 简陋](https://s.weibo.com/weibo?q=%E5%BC%80%E5%B9%95%E5%BC%8F%20%E7%AE%80%E9%99%8B&t=31&band_rank=2&Refer=top)<br />
+3. [闪耀奥运赛场的中国骄傲](https://s.weibo.com/weibo?q=%23%E9%97%AA%E8%80%80%E5%A5%A5%E8%BF%90%E8%B5%9B%E5%9C%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%AA%84%E5%82%B2%23&t=31&band_rank=3&Refer=top)<br />
+4. [中国队亮相](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=4&Refer=top)<br />
+5. [中国队拼船](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%8B%BC%E8%88%B9&t=31&band_rank=5&Refer=top)<br />
+6. [LadyGaga像火烈鸟一样窜出来](https://s.weibo.com/weibo?q=%23LadyGaga%E5%83%8F%E7%81%AB%E7%83%88%E9%B8%9F%E4%B8%80%E6%A0%B7%E7%AA%9C%E5%87%BA%E6%9D%A5%23&t=31&band_rank=6&Refer=top)<br />
+7. [开幕式 LV硬广](https://s.weibo.com/weibo?q=%E5%BC%80%E5%B9%95%E5%BC%8F%20LV%E7%A1%AC%E5%B9%BF&t=31&band_rank=7&Refer=top)<br />
+8. [火炬手 刺客信条](https://s.weibo.com/weibo?q=%E7%81%AB%E7%82%AC%E6%89%8B%20%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1&t=31&band_rank=8&Refer=top)<br />
+9. [贾玲 奥运开幕式](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%20%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F&t=31&band_rank=9&Refer=top)<br />
 
 > 知乎  
 
 
 > 百度  
 
-1. [中共中央政治局常务委员会召开会议](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [台风格美登陆福建](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%A0%BC%E7%BE%8E%E7%99%BB%E9%99%86%E7%A6%8F%E5%BB%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [海南省委原书记罗保铭被查](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E7%BD%97%E4%BF%9D%E9%93%AD%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [众志成城筑牢防汛屏障](https://www.baidu.com/s?wd=%E4%BC%97%E5%BF%97%E6%88%90%E5%9F%8E%E7%AD%91%E7%89%A2%E9%98%B2%E6%B1%9B%E5%B1%8F%E9%9A%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [河南小伙高考529分被清华录取](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%B0%8F%E4%BC%99%E9%AB%98%E8%80%83529%E5%88%86%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [巴黎奥运会第一场比赛就中断了](https://www.baidu.com/s?wd=%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%AF%94%E8%B5%9B%E5%B0%B1%E4%B8%AD%E6%96%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杨幂挑战农村妇女角色遭吐槽](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E6%8C%91%E6%88%98%E5%86%9C%E6%9D%91%E5%A6%87%E5%A5%B3%E8%A7%92%E8%89%B2%E9%81%AD%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [#存款利率降低后10万块放哪#](https://www.baidu.com/s?wd=%23%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E9%99%8D%E4%BD%8E%E5%90%8E10%E4%B8%87%E5%9D%97%E6%94%BE%E5%93%AA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [喝纯净水易缺乏微量元素？不实](https://www.baidu.com/s?wd=%E5%96%9D%E7%BA%AF%E5%87%80%E6%B0%B4%E6%98%93%E7%BC%BA%E4%B9%8F%E5%BE%AE%E9%87%8F%E5%85%83%E7%B4%A0%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [以钉钉子精神抓好改革落实](https://www.baidu.com/s?wd=%E4%BB%A5%E9%92%89%E9%92%89%E5%AD%90%E7%B2%BE%E7%A5%9E%E6%8A%93%E5%A5%BD%E6%94%B9%E9%9D%A9%E8%90%BD%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [正直播：巴黎奥运会开幕式](https://www.baidu.com/s?wd=%E6%AD%A3%E7%9B%B4%E6%92%AD%EF%BC%9A%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [中国红来了！中国体育代表团亮相](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BA%A2%E6%9D%A5%E4%BA%86%EF%BC%81%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [尽享夏日好“食”光 餐饮消费活力足](https://www.baidu.com/s?wd=%E5%B0%BD%E4%BA%AB%E5%A4%8F%E6%97%A5%E5%A5%BD%E2%80%9C%E9%A3%9F%E2%80%9D%E5%85%89+%E9%A4%90%E9%A5%AE%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [LadyGaga像火烈鸟一样窜出来](https://www.baidu.com/s?wd=LadyGaga%E5%83%8F%E7%81%AB%E7%83%88%E9%B8%9F%E4%B8%80%E6%A0%B7%E7%AA%9C%E5%87%BA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [马龙挥舞国旗](https://www.baidu.com/s?wd=%E9%A9%AC%E9%BE%99%E6%8C%A5%E8%88%9E%E5%9B%BD%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [巴黎奥委会主席：希望中国手下留情](https://www.baidu.com/s?wd=%E5%B7%B4%E9%BB%8E%E5%A5%A5%E5%A7%94%E4%BC%9A%E4%B8%BB%E5%B8%AD%EF%BC%9A%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E6%89%8B%E4%B8%8B%E7%95%99%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [开幕式 简陋](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%95%E5%BC%8F+%E7%AE%80%E9%99%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网传福州仓山万达被淹？谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%A6%8F%E5%B7%9E%E4%BB%93%E5%B1%B1%E4%B8%87%E8%BE%BE%E8%A2%AB%E6%B7%B9%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
 
 > 哔哩哔哩  
 
-1. [中共中央政治局常务委员会召开会议](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)<br />
-2. [台风格美登陆福建](https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%A0%BC%E7%BE%8E%E7%99%BB%E9%99%86%E7%A6%8F%E5%BB%BA&sa=fyb_news&rsv_dl=fyb_news)<br />
-3. [海南省委原书记罗保铭被查](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E7%BD%97%E4%BF%9D%E9%93%AD%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
-4. [众志成城筑牢防汛屏障](https://www.baidu.com/s?wd=%E4%BC%97%E5%BF%97%E6%88%90%E5%9F%8E%E7%AD%91%E7%89%A2%E9%98%B2%E6%B1%9B%E5%B1%8F%E9%9A%9C&sa=fyb_news&rsv_dl=fyb_news)<br />
-5. [河南小伙高考529分被清华录取](https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%B0%8F%E4%BC%99%E9%AB%98%E8%80%83529%E5%88%86%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)<br />
-6. [巴黎奥运会第一场比赛就中断了](https://www.baidu.com/s?wd=%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%AF%94%E8%B5%9B%E5%B0%B1%E4%B8%AD%E6%96%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)<br />
-7. [杨幂挑战农村妇女角色遭吐槽](https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E6%8C%91%E6%88%98%E5%86%9C%E6%9D%91%E5%A6%87%E5%A5%B3%E8%A7%92%E8%89%B2%E9%81%AD%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news)<br />
-8. [#存款利率降低后10万块放哪#](https://www.baidu.com/s?wd=%23%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E9%99%8D%E4%BD%8E%E5%90%8E10%E4%B8%87%E5%9D%97%E6%94%BE%E5%93%AA%23&sa=fyb_news&rsv_dl=fyb_news)<br />
-9. [喝纯净水易缺乏微量元素？不实](https://www.baidu.com/s?wd=%E5%96%9D%E7%BA%AF%E5%87%80%E6%B0%B4%E6%98%93%E7%BC%BA%E4%B9%8F%E5%BE%AE%E9%87%8F%E5%85%83%E7%B4%A0%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+1. [以钉钉子精神抓好改革落实](https://www.baidu.com/s?wd=%E4%BB%A5%E9%92%89%E9%92%89%E5%AD%90%E7%B2%BE%E7%A5%9E%E6%8A%93%E5%A5%BD%E6%94%B9%E9%9D%A9%E8%90%BD%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)<br />
+2. [正直播：巴黎奥运会开幕式](https://www.baidu.com/s?wd=%E6%AD%A3%E7%9B%B4%E6%92%AD%EF%BC%9A%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news)<br />
+3. [中国红来了！中国体育代表团亮相](https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BA%A2%E6%9D%A5%E4%BA%86%EF%BC%81%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news)<br />
+4. [尽享夏日好“食”光 餐饮消费活力足](https://www.baidu.com/s?wd=%E5%B0%BD%E4%BA%AB%E5%A4%8F%E6%97%A5%E5%A5%BD%E2%80%9C%E9%A3%9F%E2%80%9D%E5%85%89+%E9%A4%90%E9%A5%AE%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E8%B6%B3&sa=fyb_news&rsv_dl=fyb_news)<br />
+5. [LadyGaga像火烈鸟一样窜出来](https://www.baidu.com/s?wd=LadyGaga%E5%83%8F%E7%81%AB%E7%83%88%E9%B8%9F%E4%B8%80%E6%A0%B7%E7%AA%9C%E5%87%BA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news)<br />
+6. [马龙挥舞国旗](https://www.baidu.com/s?wd=%E9%A9%AC%E9%BE%99%E6%8C%A5%E8%88%9E%E5%9B%BD%E6%97%97&sa=fyb_news&rsv_dl=fyb_news)<br />
+7. [巴黎奥委会主席：希望中国手下留情](https://www.baidu.com/s?wd=%E5%B7%B4%E9%BB%8E%E5%A5%A5%E5%A7%94%E4%BC%9A%E4%B8%BB%E5%B8%AD%EF%BC%9A%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E6%89%8B%E4%B8%8B%E7%95%99%E6%83%85&sa=fyb_news&rsv_dl=fyb_news)<br />
+8. [开幕式 简陋](https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%95%E5%BC%8F+%E7%AE%80%E9%99%8B&sa=fyb_news&rsv_dl=fyb_news)<br />
+9. [网传福州仓山万达被淹？谣言](https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%A6%8F%E5%B7%9E%E4%BB%93%E5%B1%B1%E4%B8%87%E8%BE%BE%E8%A2%AB%E6%B7%B9%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)<br />
